@@ -1,0 +1,47 @@
+{
+  "id": "x-2095130625976176754",
+  "url": "https://x.com/karakhanyanS/status/2095130625976176754",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:25:49Z",
+  "title": "Topical maps vs chasing keywords one at a time — blogr.ai",
+  "authors": [
+    "Serg (@karakhanyanS)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://blogr.ai/",
+    "https://blogr.ai/tools",
+    "https://blogr.ai/tools/topical-map-generator",
+    "https://blogr.ai/tools/free-search-console-audit",
+    "https://blogr.ai/tools/serp-snippet-preview",
+    "https://blogr.ai/register",
+    "https://x.com/ConnorShowler"
+  ],
+  "media": [
+    "media/card.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:31:57Z",
+    "unsaved_via": "cursor-ide-browser bookmarks pane JS click",
+    "tweet_id": "2095130625976176754",
+    "author_handle": "karakhanyanS",
+    "author_id": "2385479750",
+    "author_name": "Serg",
+    "created_at": "2026-09-02T12:44:01Z",
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "bookmarks": 4,
+    "quotes": 0,
+    "views": 369,
+    "lang": "en",
+    "is_note_tweet": true,
+    "source_client": "Typefully",
+    "mentions": ["ConnorShowler"],
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai",
+    "comments_note": "Post says free-version link is in the first comment; 2 replies exist but none were visible without X login."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "web-design-md-hyperbrowser",
+  "url": "https://design-md.hyperbrowser.ai",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:42:00Z",
+  "title": "DESIGNMD \u2014 Hyperbrowser DESIGN.md Extractor",
+  "authors": [
+    "hyperbrowser"
+  ],
+  "topics": [
+    "design",
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://x.com/tranmautritam/status/2095078647652917329",
+    "https://github.com/google-labs-code/design.md",
+    "https://hyperbrowser.ai/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina"
+  }
+}

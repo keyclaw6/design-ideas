@@ -1,0 +1,71 @@
+# Agent Skills
+
+Items tagged with `agent-skills`.
+
+- [People Search Bench](../../raw/items/github-LessieAI-people-search-bench/) — `github-LessieAI-people-search-bench`
+- [AntV Infographic](../../raw/items/github-antvis-infographic/) — `github-antvis-infographic`
+- [Diagram Design](../../raw/items/github-cathrynlavery-diagram-design/) — `github-cathrynlavery-diagram-design`
+- [Skills For Designers and Engineers](../../raw/items/github-emilkowalski-skills/) — `github-emilkowalski-skills`
+- [DESIGN.md](../../raw/items/github-google-labs-code-design-md/) — `github-google-labs-code-design-md`
+- [Obscura — headless browser for AI agents](../../raw/items/github-h4ckf0r0day-obscura/) — `github-h4ckf0r0day-obscura`
+- [SEO Skill](../../raw/items/github-iannuttall-seo/) — `github-iannuttall-seo`
+- [interfaces.dev Skills](../../raw/items/github-jakubkrehel-skills/) — `github-jakubkrehel-skills`
+- [Taste Skill](../../raw/items/github-leonxlnx-taste-skill/) — `github-leonxlnx-taste-skill`
+- [Agent Skills (MengTo)](../../raw/items/github-mengto-skills/) — `github-mengto-skills`
+- [scroll-craft](../../raw/items/github-nateherkai-scroll-craft/) — `github-nateherkai-scroll-craft`
+- [html-video](../../raw/items/github-nexu-io-html-video/) — `github-nexu-io-html-video`
+- [motion-anything](../../raw/items/github-nexu-io-motion-anything/) — `github-nexu-io-motion-anything`
+- [OpenDesign](../../raw/items/github-nexu-io-open-design/) — `github-nexu-io-open-design`
+- [scroll-world](../../raw/items/github-oso95-scroll-world/) — `github-oso95-scroll-world`
+- [Impeccable](../../raw/items/github-pbakaus-impeccable/) — `github-pbakaus-impeccable`
+- [awesome-mcp-servers](../../raw/items/github-punkpeye-awesome-mcp-servers/) — `github-punkpeye-awesome-mcp-servers`
+- [gojiberryai-sales-os](../../raw/items/github-romangojiberryAI-gojiberryai-sales-os/) — `github-romangojiberryAI-gojiberryai-sales-os`
+- [Three.js Awesome Graphics Agent Skills](../../raw/items/github-scottstts-threejs-awesome-graphics-agent-skills/) — `github-scottstts-threejs-awesome-graphics-agent-skills`
+- [treg — OpenRouter for agent tools](../../raw/items/github-superdesigndev-treg/) — `github-superdesigndev-treg`
+- [GPT Image 2 Prompt Gallery + Agentic Skill + CLI](../../raw/items/github-wuyoscar-gpt-image2-skill/) — `github-wuyoscar-gpt-image2-skill`
+- [Nano Banana Pro Prompts Recommend Skill](../../raw/items/github-youmind-openlab-nano-banana-pro-prompts/) — `github-youmind-openlab-nano-banana-pro-prompts`
+- [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3`
+- [AIDesigner MCP — AI UI design in the editor](../../raw/items/web-aidesigner-mcp/) — `web-aidesigner-mcp`
+- [How Anthropic enables self-service data analytics with Claude](../../raw/items/web-anthropic-claude-self-service-data/) — `web-anthropic-claude-self-service-data`
+- [PeopleSearchBench: Evaluating AI-Powered People Search Platforms](../../raw/items/web-arxiv-2603-27476/) — `web-arxiv-2603-27476`
+- [Aura — AI Website Builder](../../raw/items/web-aura-build/) — `web-aura-build`
+- [Blume Sidecar — monitor and improve coding agents](../../raw/items/web-blume-codes/) — `web-blume-codes`
+- [How Cerebras Built Its Enterprise Knowledge Base](../../raw/items/web-cerebras-knowledge-base/) — `web-cerebras-knowledge-base`
+- [ChatGPT Training — Work, Codex, walkthroughs](../../raw/items/web-chatgpt-training/) — `web-chatgpt-training`
+- [Checklist Design — Check every detail, ship better work](../../raw/items/web-checklist-design/) — `web-checklist-design`
+- [Kitesurf — agent-first browser on Cloudflare Workers](../../raw/items/web-cloudflare-kitesurf/) — `web-cloudflare-kitesurf`
+- [CrowdReply — AI search visibility platform](../../raw/items/web-crowdreply/) — `web-crowdreply`
+- [Cult UI](../../raw/items/web-cult-ui/) — `web-cult-ui`
+- [Context Engineering Is a Data Problem](../../raw/items/web-davidgasquez-context-engineering/) — `web-davidgasquez-context-engineering`
+- [DESIGNMD — Hyperbrowser DESIGN.md Extractor](../../raw/items/web-design-md-hyperbrowser/) — `web-design-md-hyperbrowser`
+- [designmd.me](../../raw/items/web-designmd-me/) — `web-designmd-me`
+- [designmd.supply](../../raw/items/web-designmd-supply/) — `web-designmd-supply`
+- [Flint: A Visualization Language for the AI Era](../../raw/items/web-flint-chart/) — `web-flint-chart`
+- [getdesign.md — DESIGN.md Collection for AI Coding Agents](../../raw/items/web-getdesign-md/) — `web-getdesign-md`
+- [GetLayers AI](../../raw/items/web-getlayers-ai/) — `web-getlayers-ai`
+- [Graphed — Deploy AI Agents for Marketing](../../raw/items/web-graphed/) — `web-graphed`
+- [The Shape and Feel of the Post-AI Data Stack](../../raw/items/web-iandmacomber-post-ai-data-stack/) — `web-iandmacomber-post-ai-data-stack`
+- [MeiGen — Free GPT Image 2, Nano Banana & Seedance Prompts](../../raw/items/web-meigen-ai/) — `web-meigen-ai`
+- [Neuform — AI HTML Landing Page Builder](../../raw/items/web-neuform-ai/) — `web-neuform-ai`
+- [Obscura — Give every agent its own browser](../../raw/items/web-obscura-sh/) — `web-obscura-sh`
+- [A Developer's Guide to Taste in the Age of AI](../../raw/items/web-opale-ui-taste/) — `web-opale-ui-taste`
+- [OpenDesign — Open Source Vibe Design Workspace](../../raw/items/web-open-design-ai/) — `web-open-design-ai`
+- [SceneAI — UI Prompt Library](../../raw/items/web-sceneai-art/) — `web-sceneai-art`
+- [Sokosumi — Free DESIGN.md Generator](../../raw/items/web-sokosumi-design-md/) — `web-sokosumi-design-md`
+- [Refero Styles — DESIGN.md Examples for AI Agents](../../raw/items/web-styles-refero-design/) — `web-styles-refero-design`
+- [treg — Claude for People Search](../../raw/items/web-treg-people-search/) — `web-treg-people-search`
+- [typeui.sh](../../raw/items/web-typeui-sh/) — `web-typeui-sh`
+- [GrokBot booked a demo via GojiberryAI MCP (97 prospects / 24h)](../../raw/items/x-2094326291906310180/) — `x-2094326291906310180`
+- [Obscura — Rust headless browser for agents (claims ~22k★)](../../raw/items/x-2094427822064279870/) — `x-2094427822064279870`
+- [GBrain evals — retrieval without LLM-in-loop + memory-save](../../raw/items/x-2094462971598754010/) — `x-2094462971598754010`
+- [Grok Bot as Chief of AI Visibility + CrowdReply MCP](../../raw/items/x-2094553318031024285/) — `x-2094553318031024285`
+- [AI-native company #3: centralized intelligence layer](../../raw/items/x-2094558408259272998/) — `x-2094558408259272998`
+- [treg people-search GTM — $0.0089/lead, quotes Jason Zhou](../../raw/items/x-2094740953554932149/) — `x-2094740953554932149`
+- [Meet investors in waves — venture fundraising FRM](../../raw/items/x-2094820035344621901/) — `x-2094820035344621901`
+- [Open-sourced outbound team — GojiberryAI Sales OS for Grok Bot](../../raw/items/x-2094892848042725416/) — `x-2094892848042725416`
+- [Fable 5.1 website outputs cheaper than Fable 5 — /scroll-craft in replies](../../raw/items/x-2094978216146452971/) — `x-2094978216146452971`
+- [Scroll-animated $5k site without writing CSS — ChatGPT + Gemini + Claude Code](../../raw/items/x-2094984529853530345/) — `x-2094984529853530345`
+- [Ian Nuttall asking if anyone uses his SEO skill/CLI for real work](../../raw/items/x-2095055297949610427/) — `x-2095055297949610427`
+- [Best websites to get DESIGN.md](../../raw/items/x-2095078647652917329/) — `x-2095078647652917329`
+- [Open-sourced outbound team — 13 AI sales agents in Grok Bot + GojiberryAI MCP](../../raw/items/x-2095081419202560010/) — `x-2095081419202560010`
+- [ChatGPT Work / Codex training page (learn.chatgpt.com)](../../raw/items/x-2095133695480873023/) — `x-2095133695480873023`

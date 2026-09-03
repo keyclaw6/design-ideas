@@ -1,0 +1,53 @@
+{
+  "id": "x-2094961942058418268",
+  "url": "https://x.com/tokufxug/status/2094961942058418268",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:25:49Z",
+  "title": "ByteDance Lucida: indoor video → editable 3D assets",
+  "authors": [
+    "Sadao Tokuyama (@tokufxug)"
+  ],
+  "topics": [
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [
+    "https://lucida-r2s.github.io/",
+    "https://arxiv.org/abs/2608.30821",
+    "https://arxiv.org/pdf/2608.30821",
+    "https://arxiv.org/html/2608.30821",
+    "https://arxiv.org/abs/2605.13862",
+    "https://seed.bytedance.com/en/seed3d_2_0",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7500698034956181504/",
+    "https://www.linkedin.com/posts/alexpallares_activity-7500698034956181504-5n_-",
+    "https://x.com/tokufxug/status/2094962032718270497"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:31:57Z",
+    "unsaved_via": "cursor-ide-browser bookmarks pane JS click",
+    "tweet_id": "2094961942058418268",
+    "author_handle": "tokufxug",
+    "author_id": "75732568",
+    "author_name": "Sadao Tokuyama",
+    "created_at": "2026-09-02T01:33:44Z",
+    "likes": 91,
+    "replies": 1,
+    "retweets": 10,
+    "bookmarks": 79,
+    "quotes": 0,
+    "views": 5175,
+    "lang": "ja",
+    "is_note_tweet": false,
+    "has_video": true,
+    "video_duration_s": 42.91,
+    "video_id": "2094961902497730560",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + yt-dlp",
+    "arxiv": "2608.30821",
+    "seed3d_arxiv": "2605.13862",
+    "topics_note": "Mesh real-to-sim from indoor video (not Gaussian splats / Three.js). Tagged bess-3d-flythrough as the closest SCHEMA slot for facility-from-video 3D."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "x-2095133695480873023",
+  "url": "https://x.com/derrickcchoi/status/2095133695480873023",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:33:15Z",
+  "title": "ChatGPT Work / Codex training page (learn.chatgpt.com)",
+  "authors": [
+    "Derrick Choi (@derrickcchoi)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://learn.chatgpt.com/training",
+    "https://learn.chatgpt.com/training/hands-on/work",
+    "https://learn.chatgpt.com/training/hands-on/codex",
+    "https://learn.chatgpt.com/training/walkthroughs/getting-started",
+    "https://learn.chatgpt.com/training/walkthroughs/plugins-and-skills",
+    "https://learn.chatgpt.com/llms.txt",
+    "http://derrickchoi.com"
+  ],
+  "media": [
+    "media/card.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2095133695480873023",
+    "author_handle": "derrickcchoi",
+    "author_id": "285238307",
+    "author_name": "Derrick Choi",
+    "created_at": "2026-09-02T12:56:13Z",
+    "likes": 866,
+    "replies": 28,
+    "retweets": 81,
+    "bookmarks": 1149,
+    "quotes": 9,
+    "views": 68517,
+    "lang": "en",
+    "is_note_tweet": false,
+    "source_client": "Twitter for iPhone",
+    "author_title": "Codex APAC Lead @OpenAI",
+    "card_url": "https://learn.chatgpt.com/training",
+    "card_title": "ChatGPT Training",
+    "media_bytes": 16836,
+    "media_size": "800x419",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com/fxtwitter.com; card via pbs.twimg.com; learn.chatgpt.com via r.jina.ai + llms.txt",
+    "comments_note": "28 replies; 3 first-level + 1 nested (Derrick on Mason) via fixupx/fxtwitter. Nick\u2019s 1 nested unlisted. Rest login-walled.",
+    "topics_note": "Training hub includes a Plugins and skills walkthrough; agent-skills is the SCHEMA slot."
+  }
+}

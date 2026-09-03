@@ -1,0 +1,39 @@
+{
+  "id": "x-2094893065202803014",
+  "url": "https://x.com/codyschneider/status/2094893065202803014",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:10:58Z",
+  "title": "cold email explained \u2014 Low IQ / Midwit / High IQ",
+  "authors": [
+    "Cody Schneider (@codyschneider)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://www.graphed.com/",
+    "https://www.graphed.com/mcp",
+    "https://cal.com/team/graphed-com/discovery",
+    "https://www.youtube.com/@codyschneiderx"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094893065202803014",
+    "author_handle": "codyschneider",
+    "author_id": "3299021150",
+    "author_name": "Cody Schneider",
+    "created_at": "2026-09-01T21:00:02Z",
+    "likes": 307,
+    "replies": 29,
+    "retweets": 4,
+    "bookmarks": 393,
+    "quotes": 2,
+    "views": 17157,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": false,
+    "source_client": "Ordinal - Social Media",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com (x.com jina blocked; DOM on X truncated). No native media. Graphed via r.jina.ai.",
+    "comments_note": "29 replies; 3 author self-replies (Graphed + YT) + 1 first-level captured. Rest login-walled.",
+    "topics_note": "Cold-email IQ meme; no SCHEMA slug fits the parent text (same empty-topics treatment as Instantly sequencer). Graphed self-replies are marketing-agent ads, not tagged on the parent."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "web-seowins-io",
+  "url": "https://seowins.io/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "SEO Wins — 150+ SEO and AI SEO Strategies",
+  "authors": [
+    "Hridoy Reh"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://www.youtube.com/watch?v=m7K4hKjnEG4",
+    "https://x.com/hridoyreh",
+    "https://app.lemonsqueezy.com/my-orders"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "price_usd": 79,
+    "price_was_usd": 179,
+    "strategies_count": "150+",
+    "vendor": "Lemon Squeezy",
+    "fetch": "r.jina.ai"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "web-oryzo-ai",
+  "url": "https://oryzo.ai/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "ORYZO AI",
+  "authors": [
+    "Lusion"
+  ],
+  "topics": [
+    "design",
+    "three-js"
+  ],
+  "related_urls": [
+    "https://lusion.co/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "design_studio": "Lusion",
+    "concept": "Parody AI product page for a cork coaster"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "x-2094326291906310180",
+  "url": "https://x.com/pierreeliottlal/status/2094326291906310180",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "title": "GrokBot booked a demo via GojiberryAI MCP (97 prospects / 24h)",
+  "authors": [
+    "Pierre-Eliott Lallemant (@pierreeliottlal)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "https://gojiberry.ai/",
+    "https://mcp.gojiberry.ai/mcp",
+    "https://app.gojiberry.ai/registration",
+    "https://x.com/gojiberryai/status/2095081419202560010",
+    "https://x.com/pierreeliottlal/status/2094892848042725416"
+  ],
+  "media": [
+    "media/photo.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-03T10:05:00Z",
+    "unsaved_via": "agent-browser post-detail verify (aria-label Bookmark, not Remove)",
+    "tweet_id": "2094326291906310180",
+    "author_handle": "pierreeliottlal",
+    "author_id": "1724455011403378688",
+    "author_name": "Pierre-Eliott Lallemant",
+    "created_at": "2026-08-31T07:27:53Z",
+    "likes": 66,
+    "replies": 12,
+    "retweets": 6,
+    "bookmarks": 112,
+    "quotes": 1,
+    "views": 7371,
+    "lang": "en",
+    "is_note_tweet": true,
+    "source_client": "Twitter Web App",
+    "media_id": "2094326285564530688",
+    "media_size": "1344x300",
+    "media_bytes": 40613,
+    "mentions": [
+      "gojiberryai"
+    ],
+    "self_reply_id": "2094326998394871987",
+    "repo": "romangojiberryAI/gojiberryai-sales-os",
+    "repo_stars": 70,
+    "repo_forks": 21,
+    "existing_item": "github-romangojiberryAI-gojiberryai-sales-os",
+    "later_ceo_item": "x-2094892848042725416",
+    "brand_x_item": "x-2095081419202560010",
+    "mcp_url": "https://mcp.gojiberry.ai/mcp",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com; photo via pbs.twimg.com; GitHub API read-only (did not rewrite github-romangojiberryAI-gojiberryai-sales-os); mcp.gojiberry.ai HEAD 200 application/json",
+    "comments_note": "12 replies; 1 author self-reply (gojiberry.ai card) + 1 first-level (short_usd) via fixupx. Remaining ~10 login-walled. 1 quote unlisted.",
+    "topics_note": "Grok Bot + hosted GojiberryAI MCP outbound; seo-agents is the SCHEMA GTM slot (same as other Gojiberry items)."
+  }
+}

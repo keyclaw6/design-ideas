@@ -1,0 +1,28 @@
+{
+  "id": "web-fal-ai",
+  "url": "https://fal.ai",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:56:00Z",
+  "title": "fal — generative media platform for developers",
+  "authors": [
+    "fal"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://fal.ai/docs/documentation",
+    "https://fal.ai/docs/llms.txt",
+    "https://fal.ai/explore",
+    "https://fal.ai/serverless",
+    "https://fal.ai/pricing",
+    "https://fal.ai/enterprise"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "developer_count": "1,500,000+",
+    "model_count": "1,000+",
+    "fetch": "r.jina.ai/https landing + /docs/documentation (overview only); first http:// attempt 429"
+  }
+}

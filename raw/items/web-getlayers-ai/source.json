@@ -1,0 +1,25 @@
+{
+  "id": "web-getlayers-ai",
+  "url": "https://www.getlayers.ai/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "GetLayers AI",
+  "authors": [],
+  "topics": [
+    "design",
+    "three-js",
+    "ui-motion",
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://www.getlayers.ai/docs"
+  ],
+  "media": [
+    "media/favicon.ico"
+  ],
+  "unsaved": false,
+  "extra": {
+    "tagline": "AI-native library of templates"
+  }
+}

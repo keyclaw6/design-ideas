@@ -1,0 +1,27 @@
+{
+  "id": "github-cathrynlavery-diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design/tree/main",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "Diagram Design",
+  "authors": [
+    "cathrynlavery"
+  ],
+  "topics": [
+    "infographics",
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://cathrynlavery.github.io/diagram-design/",
+    "https://littlemight.com"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 29422,
+    "forks": 1872,
+    "license": "MIT",
+    "language": "HTML"
+  }
+}

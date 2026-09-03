@@ -1,0 +1,25 @@
+{
+  "id": "web-meigen-ai",
+  "url": "https://www.meigen.ai/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "MeiGen — Free GPT Image 2, Nano Banana & Seedance Prompts",
+  "authors": [],
+  "topics": [
+    "design",
+    "agent-skills",
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://github.com/jau123/MeiGen-AI-Design-MCP",
+    "https://www.meigen.ai/app"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "github": "jau123/MeiGen-AI-Design-MCP",
+    "github_stars": 1737,
+    "capture_note": "Full homepage via r.jina.ai; prior Cloudflare block on direct fetch resolved"
+  }
+}

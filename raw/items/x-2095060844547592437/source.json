@@ -1,0 +1,40 @@
+{
+  "id": "x-2095060844547592437",
+  "url": "https://x.com/paolo_scales/status/2095060844547592437",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:23:28Z",
+  "title": "How to write LinkedIn lead magnets that get comments",
+  "authors": ["paolo trivellato (@paolo_scales)"],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://www.starbornai.com/",
+    "https://starbornai.com/home-twitter",
+    "https://www.linkedin.com/in/leadgenwiz"
+  ],
+  "media": [
+    "media/lead-magnet-banner.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:29:45Z",
+    "unsaved_via": "cursor-ide-browser bookmarks pane JS click",
+    "tweet_id": "2095060844547592437",
+    "author_handle": "paolo_scales",
+    "author_id": "1765104997388410880",
+    "created_at": "2026-09-02T08:06:44Z",
+    "likes": 68,
+    "replies": 12,
+    "retweets": 2,
+    "bookmarks": 132,
+    "quotes": 0,
+    "views": 4973,
+    "lang": "en",
+    "is_note_tweet": true,
+    "media_id": "2095060466129084418",
+    "media_size": "1022x256",
+    "author_site": "https://starbornai.com/home-twitter",
+    "fetch": "api.fxtwitter.com + r.jina.ai; photo via pbs.twimg.com"
+  }
+}

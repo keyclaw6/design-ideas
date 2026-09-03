@@ -1,0 +1,34 @@
+{
+  "id": "web-aidesigner-mcp",
+  "url": "https://www.aidesigner.ai/ai-ui-design-mcp",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "title": "AIDesigner MCP — AI UI design in the editor",
+  "authors": [
+    "AIDesigner"
+  ],
+  "topics": [
+    "mcp",
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/robinstetic/status/2094467179320119498",
+    "https://www.aidesigner.ai/docs/mcp",
+    "https://www.aidesigner.ai/docs/api",
+    "https://www.aidesigner.ai/website-cloner",
+    "https://api.aidesigner.ai/api/v1/mcp",
+    "https://www.npmjs.com/package/@aidesigner/agent-skills",
+    "https://www.aidesigner.ai/ai-ui-designer",
+    "https://www.aidesigner.ai/pricing"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "mcp_url": "https://api.aidesigner.ai/api/v1/mcp",
+    "npm_package": "@aidesigner/agent-skills",
+    "npm_version": "0.1.4",
+    "tool_count": 21,
+    "fetch": "r.jina.ai landing + /docs/mcp + /website-cloner; npm registry"
+  }
+}

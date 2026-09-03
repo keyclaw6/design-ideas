@@ -1,0 +1,21 @@
+{
+  "id": "web-utsubo",
+  "url": "https://www.utsubo.com/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "Utsubo",
+  "authors": [
+    "Utsubo"
+  ],
+  "topics": [
+    "design",
+    "three-js",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "tagline": "Embark on New Frontiers of Digital Experiences"
+  }
+}

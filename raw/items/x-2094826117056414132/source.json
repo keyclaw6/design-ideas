@@ -1,0 +1,60 @@
+{
+  "id": "x-2094826117056414132",
+  "url": "https://x.com/ymt3d/status/2094826117056414132",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:53:08Z",
+  "title": "Splat2Mesh \u2014 free Win tool, 3DGS PLY \u2192 OBJ/GLB",
+  "authors": [
+    "3D\u4eba-3dnchu- CG\u60c5\u5831\u30d6\u30ed\u30b0 (@ymt3d)"
+  ],
+  "topics": [
+    "gaussian-splatting",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [
+    "https://3dnchu.com/archives/splat2mesh/",
+    "https://arcana-mfg.com/splat2mesh/",
+    "https://arcana-mfg.com/en/splat2mesh/",
+    "https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip",
+    "https://arcana-mfg.com/splat2mesh_dl/sample.ply",
+    "https://arcana-mfg.com/splat2mesh_dl/update.json",
+    "https://arcana-mfg.com/eula-a/",
+    "https://arcana-mfg.com/",
+    "https://x.com/ArcanaMfg/status/2094648474377839018",
+    "https://github.com/ArcanaMfg",
+    "https://www.youtube.com/watch?v=CwtxJJTOV28",
+    "https://www.youtube.com/watch?v=7LH-aloguBU"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094826117056414132",
+    "author_handle": "ymt3d",
+    "author_id": "145701603",
+    "author_name": "3D\u4eba-3dnchu- CG\u60c5\u5831\u30d6\u30ed\u30b0",
+    "created_at": "2026-09-01T16:34:00Z",
+    "likes": 250,
+    "replies": 0,
+    "retweets": 34,
+    "bookmarks": 240,
+    "quotes": 2,
+    "views": 22699,
+    "lang": "ja",
+    "is_note_tweet": false,
+    "has_video": true,
+    "video_duration_s": 7.36,
+    "video_id": "2094825799904067584",
+    "video_size": "718x396",
+    "source_client": "Twitter Web App",
+    "download_url": "https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip",
+    "download_zip_bytes": 115644270,
+    "sample_ply": "https://arcana-mfg.com/splat2mesh_dl/sample.ply",
+    "vendor": "Arcana Mfg.Co.,Ltd. / \u682a\u5f0f\u4f1a\u793eArcana\u88fd\u4f5c\u6240",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + 3dnchu/Arcana HTTP; mp4 via video.twimg.com",
+    "comments_note": "0 replies; 2 quotes not listed by fx. Vendor launch tweet captured separately.",
+    "topics_note": "Splat\u2192mesh for Blender/print/sim; bess-3d-flythrough is the SCHEMA slot for facility splat pipelines."
+  }
+}

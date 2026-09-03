@@ -1,0 +1,24 @@
+{
+  "id": "web-nqz-ai-search-prompt-generator",
+  "url": "https://nqz.ai/ai-search-prompt-generator",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "Free AI Search Prompt Generator — nqzai",
+  "authors": [
+    "nqzai"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://nqz.ai/",
+    "https://nqz.ai/free-ai-tools",
+    "https://x.com/jakezward/status/2094771557864292784"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "rate_limit": "10 generations/hour per visitor",
+    "fetch": "r.jina.ai"
+  }
+}

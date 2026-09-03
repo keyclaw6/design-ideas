@@ -1,0 +1,27 @@
+{
+  "id": "github-mengto-complete-shelf",
+  "url": "https://github.com/MengTo/complete-shelf",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "The Complete Shelf",
+  "authors": [
+    "MengTo"
+  ],
+  "topics": [
+    "three-js",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://mengto.github.io/complete-shelf/",
+    "https://github.com/MengTo/Skills"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 659,
+    "forks": 127,
+    "language": "HTML",
+    "homepage": "https://mengto.github.io/complete-shelf/"
+  }
+}

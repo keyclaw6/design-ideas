@@ -1,0 +1,57 @@
+{
+  "id": "x-2095081419202560010",
+  "url": "https://x.com/gojiberryai/status/2095081419202560010",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:38:09Z",
+  "title": "Open-sourced outbound team — 13 AI sales agents in Grok Bot + GojiberryAI MCP",
+  "authors": [
+    "Gojiberry AI (@gojiberryai)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "https://gojiberry.ai/",
+    "https://gojiberry.ai/faq",
+    "https://mcp.gojiberry.ai/mcp",
+    "https://app.gojiberry.ai/registration",
+    "https://github.com/RongleCat/awesome-grok-bot"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:46:00Z",
+    "unsaved_via": "cursor-ide-browser post-detail Bookmark click",
+    "tweet_id": "2095081419202560010",
+    "author_handle": "gojiberryai",
+    "author_id": "2073005474916540416",
+    "author_name": "Gojiberry AI",
+    "created_at": "2026-09-02T09:28:29Z",
+    "likes": 69,
+    "replies": 87,
+    "retweets": 4,
+    "bookmarks": 144,
+    "quotes": 3,
+    "views": 11975,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": true,
+    "video_duration_s": 37.825,
+    "video_id": "2095081339443720193",
+    "video_size": "1080x1080",
+    "source_client": "Twitter Web App",
+    "repo": "romangojiberryAI/gojiberryai-sales-os",
+    "repo_stars": 69,
+    "repo_forks": 20,
+    "mcp_url": "https://mcp.gojiberry.ai/mcp",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + GitHub API; mp4 via video.twimg.com",
+    "comments_note": "87 replies (BOT lead-magnet); none visible without X login. Repo found via GitHub, not thread.",
+    "topics_note": "Outbound GTM agents; seo-agents is the closest SCHEMA tag for sales/GTM automation."
+  }
+}

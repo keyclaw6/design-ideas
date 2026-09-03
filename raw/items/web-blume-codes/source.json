@@ -1,0 +1,27 @@
+{
+  "id": "web-blume-codes",
+  "url": "https://blume.codes",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:56:00Z",
+  "title": "Blume Sidecar — monitor and improve coding agents",
+  "authors": [
+    "Blume"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://careers.blume.codes/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "supported_harnesses": [
+      "Codex",
+      "Claude Code",
+      "Cursor"
+    ],
+    "fetch": "r.jina.ai landing"
+  }
+}

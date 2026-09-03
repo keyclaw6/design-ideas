@@ -1,0 +1,54 @@
+{
+  "id": "x-2095055297949610427",
+  "url": "https://x.com/iannuttall/status/2095055297949610427",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:53:08Z",
+  "title": "Ian Nuttall asking if anyone uses his SEO skill/CLI for real work",
+  "authors": [
+    "Ian Nuttall (@iannuttall)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://github.com/iannuttall/seo",
+    "https://seoskill.dev",
+    "https://www.npmjs.com/package/seo",
+    "https://seoskill.dev/.well-known/agent-skills/index.json",
+    "https://keep.md",
+    "https://ian.is"
+  ],
+  "media": [
+    "media/github-card.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2095055297949610427",
+    "author_handle": "iannuttall",
+    "author_id": "9111552",
+    "author_name": "Ian Nuttall",
+    "created_at": "2026-09-02T07:44:41Z",
+    "likes": 224,
+    "replies": 26,
+    "retweets": 10,
+    "bookmarks": 441,
+    "quotes": 0,
+    "views": 17472,
+    "lang": "en",
+    "is_note_tweet": false,
+    "has_video": false,
+    "source_client": "Twitter Web App",
+    "repo": "iannuttall/seo",
+    "repo_stars": 378,
+    "repo_forks": 28,
+    "repo_license": "Apache-2.0",
+    "npm_package": "seo",
+    "npm_version": "0.2.40",
+    "homepage": "https://seoskill.dev",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + GitHub API + npm registry; card via pbs.twimg.com",
+    "comments_note": "26 replies; 3 first-level visible via jina (no status IDs). Rest login-walled.",
+    "topics_note": "Local SEO CLI + MCP + agent skill; seo-agents + agent-skills + mcp."
+  }
+}

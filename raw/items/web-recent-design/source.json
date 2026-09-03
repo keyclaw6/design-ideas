@@ -1,0 +1,22 @@
+{
+  "id": "web-recent-design",
+  "url": "https://recent.design/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Recent — Design Inspiration",
+  "authors": [],
+  "topics": [
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://cdn.recent.design/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "error": "www.recent.design DNS unresolved; apex recent.design works",
+    "capture_note": "Full feed via r.jina.ai on apex domain; prior www URL was wrong"
+  }
+}

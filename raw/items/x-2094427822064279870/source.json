@@ -1,0 +1,54 @@
+{
+  "id": "x-2094427822064279870",
+  "url": "https://x.com/0xJokker/status/2094427822064279870",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:33:15Z",
+  "title": "Obscura \u2014 Rust headless browser for agents (claims ~22k\u2605)",
+  "authors": [
+    "Jokker (@0xJokker)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/h4ckf0r0day/obscura",
+    "https://x.com/0xJokker/status/2094427823976886345",
+    "https://obscura.sh",
+    "https://docs.obscura.sh",
+    "https://x.com/obscura_sh",
+    "https://github.com/h4ckf0r0day/obscura/releases"
+  ],
+  "media": [
+    "media/photo.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094427822064279870",
+    "author_handle": "0xJokker",
+    "author_id": "1591884890663968768",
+    "author_name": "Jokker",
+    "created_at": "2026-08-31T14:11:20Z",
+    "likes": 1762,
+    "replies": 46,
+    "retweets": 211,
+    "bookmarks": 2844,
+    "quotes": 12,
+    "views": 113994,
+    "lang": "es",
+    "is_note_tweet": true,
+    "source_client": "Twitter Web App",
+    "media_id": "2094422140242055168",
+    "media_size": "541x583",
+    "media_bytes": 40327,
+    "repo": "h4ckf0r0day/obscura",
+    "repo_stars": 23982,
+    "repo_forks": 1762,
+    "repo_license": "Apache-2.0",
+    "repo_language": "Rust",
+    "repo_created_at": "2026-04-13T10:31:41Z",
+    "self_reply_repo": "2094427823976886345",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fxtwitter.com (self-reply GitHub card); photo via pbs.twimg.com; GitHub API + r.jina.ai on obscura.sh and docs.obscura.sh",
+    "comments_note": "46 replies; 2 first-level (author GitHub card + Alfons) + 3 nested on Alfons via fxtwitter HTML. Rest login-walled. 12 quotes unlisted.",
+    "topics_note": "Agent-facing headless browser; agent-skills is the SCHEMA agents slot. Not an MCP post."
+  }
+}

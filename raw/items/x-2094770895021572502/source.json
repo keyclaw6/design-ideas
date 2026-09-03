@@ -1,0 +1,46 @@
+{
+  "id": "x-2094770895021572502",
+  "url": "https://x.com/a_shimanski/status/2094770895021572502",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:53:08Z",
+  "title": "SEO traffic to free tools, not blog posts \u2014 Bing KW + one-page tools",
+  "authors": [
+    "Artyom Shimanski (@a_shimanski)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/a_shimanski/status/2094338304070004768",
+    "https://shimanski.dev",
+    "http://aiedit.com",
+    "http://postformatter.com",
+    "http://blurr.ing",
+    "http://unicodegames.com"
+  ],
+  "media": [
+    "media/quoted-gsc.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094770895021572502",
+    "author_handle": "a_shimanski",
+    "author_id": "626572662",
+    "author_name": "Artyom Shimanski",
+    "created_at": "2026-09-01T12:54:34Z",
+    "likes": 184,
+    "replies": 26,
+    "retweets": 3,
+    "bookmarks": 394,
+    "quotes": 0,
+    "views": 20990,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": false,
+    "quoted_tweet_id": "2094338304070004768",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai; quoted photo via pbs.twimg.com",
+    "comments_note": "26 replies; 3 first-level + author nested replies captured. PA13 nested truncated. Rest login-walled.",
+    "topics_note": "Programmatic SEO via free tools; seo-agents is the SCHEMA GTM/SEO slot."
+  }
+}

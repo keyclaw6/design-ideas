@@ -1,0 +1,29 @@
+{
+  "id": "github-nexu-io-open-design",
+  "url": "https://github.com/nexu-io/open-design",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "OpenDesign",
+  "authors": [
+    "nexu-io"
+  ],
+  "topics": [
+    "design",
+    "agent-skills",
+    "ui-motion",
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://open-design.ai",
+    "https://discord.gg/mHAjSMV6gz",
+    "https://open-design.ai/cloud/"
+  ],
+  "media": [
+    "media/hero.png"
+  ],
+  "unsaved": false,
+  "extra": {
+    "stars": 93582,
+    "homepage": "https://open-design.ai"
+  }
+}

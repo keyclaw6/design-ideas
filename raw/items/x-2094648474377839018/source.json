@@ -1,0 +1,64 @@
+{
+  "id": "x-2094648474377839018",
+  "url": "https://x.com/ArcanaMfg/status/2094648474377839018",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:33:15Z",
+  "title": "Splat2Mesh launch (JA) \u2014 3DGS PLY \u2192 OBJ/GLB",
+  "authors": [
+    "Arcana Mfg.Co.,Ltd. | \u682a\u5f0f\u4f1a\u793eArcana\u88fd\u4f5c\u6240 (@ArcanaMfg)"
+  ],
+  "topics": [
+    "gaussian-splatting",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [
+    "https://arcana-mfg.com/en/splat2mesh/",
+    "https://arcana-mfg.com/splat2mesh/",
+    "https://x.com/ymt3d/status/2094826117056414132",
+    "https://x.com/ArcanaMfg/status/2093179838249251011",
+    "https://arcana-mfg.com/",
+    "https://github.com/ArcanaMfg",
+    "https://3dnchu.com/archives/splat2mesh/"
+  ],
+  "media": [
+    "media/quoted-video.mp4",
+    "media/quoted-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094648474377839018",
+    "author_handle": "ArcanaMfg",
+    "author_id": "1413771296870080514",
+    "author_name": "Arcana Mfg.Co.,Ltd. | \u682a\u5f0f\u4f1a\u793eArcana\u88fd\u4f5c\u6240",
+    "created_at": "2026-09-01T04:48:07Z",
+    "likes": 604,
+    "replies": 0,
+    "retweets": 117,
+    "bookmarks": 625,
+    "quotes": 10,
+    "views": 59854,
+    "lang": "ja",
+    "is_note_tweet": false,
+    "hashtags": [
+      "Splat2Mesh",
+      "3DGS",
+      "LichtFeldStudio",
+      "3DPrint"
+    ],
+    "quoted_tweet_id": "2093179838249251011",
+    "quoted_video_id": "2093174792476372992",
+    "quoted_video_duration_s": 70.592,
+    "quoted_video_size": "1920x1080",
+    "quoted_video_bytes": 32683840,
+    "source_client": "Twitter Web App",
+    "library_items": [
+      "web-arcana-splat2mesh",
+      "x-2094826117056414132"
+    ],
+    "download_zip_bytes": 115644270,
+    "download_zip_skipped": true,
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com/fxtwitter.com; quoted 1080p mp4 via video.twimg.com; zip HEAD only (115644270 bytes, not downloaded)",
+    "comments_note": "0 replies; 10 quotes not listed by fx.",
+    "topics_note": "Vendor launch of splat\u2192mesh; bess-3d-flythrough is the SCHEMA slot for facility splat pipelines. Product already in web-arcana-splat2mesh; JP recap in x-2094826117056414132 (folders not rewritten)."
+  }
+}

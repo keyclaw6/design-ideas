@@ -1,0 +1,26 @@
+{
+  "id": "web-cerebras-knowledge-base",
+  "url": "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "title": "How Cerebras Built Its Enterprise Knowledge Base",
+  "authors": [
+    "Cerebras"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/medriscoll/status/2094558408259272998",
+    "https://x.com/cerebras/status/2077822555159945507",
+    "https://davidgasquez.com/context-engineering-is-a-data-problem",
+    "https://www.iandmacomber.com/blog/post-ai-data-stack"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "usage_claim": "15000+ internal questions/day; launched ~3 months before post",
+    "stack": "Postgres embeddings table + hybrid retrieval",
+    "fetch": "r.jina.ai (origin 500 warning; body captured)"
+  }
+}

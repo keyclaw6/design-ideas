@@ -1,0 +1,27 @@
+{
+  "id": "web-dicebear",
+  "url": "https://www.dicebear.com",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:56:00Z",
+  "title": "DiceBear — open source avatar library & API",
+  "authors": [
+    "DiceBear"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://www.dicebear.com/playground/",
+    "https://www.dicebear.com/start/what-is-dicebear/",
+    "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix",
+    "https://github.com/dicebear/dicebear",
+    "https://editor.dicebear.com/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "style_count": 61,
+    "license": "MIT (core library)",
+    "fetch": "r.jina.ai landing"
+  }
+}

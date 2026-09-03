@@ -1,0 +1,26 @@
+{
+  "id": "github-nexu-io-html-video",
+  "url": "https://github.com/nexu-io/html-video",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "html-video",
+  "authors": [
+    "nexu-io"
+  ],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://open-design.ai/html-video",
+    "https://github.com/nexu-io/open-design"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 4505,
+    "forks": 562,
+    "license": "Apache-2.0",
+    "language": "HTML"
+  }
+}

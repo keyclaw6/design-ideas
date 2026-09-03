@@ -1,0 +1,33 @@
+{
+  "id": "web-treg-people-search",
+  "url": "https://treg.to/people-search",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "treg — Claude for People Search",
+  "authors": [
+    "superdesigndev"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://treg.to",
+    "https://treg.to/llms.txt",
+    "https://github.com/superdesigndev/treg",
+    "https://github.com/LessieAI/people-search-bench",
+    "https://x.com/pmitu/status/2094740953554932149",
+    "https://x.com/treg_ai",
+    "https://discord.gg/6mQYYfFMAn"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "product": "people-search",
+    "catalog_endpoints": 2896,
+    "providers": 60,
+    "free_credit_usd": 1.0,
+    "fetch": "r.jina.ai treg.to + people-search; curl llms.txt"
+  }
+}

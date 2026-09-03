@@ -1,0 +1,27 @@
+{
+  "id": "web-checklist-design",
+  "url": "https://www.checklist.design/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Checklist Design — Check every detail, ship better work",
+  "authors": [
+    "George Hatzis"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.checklist.design/skill",
+    "https://www.figma.com/community/plugin/1548640679824154718/checklist-design",
+    "https://www.figma.com/community/skill/74536/checklist-design",
+    "https://georgehatzis.com/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "og_description": "Design checklists for websites, web apps, mobile, components, and flows.",
+    "capture_note": "Full homepage category index via r.jina.ai; 35KB markdown"
+  }
+}

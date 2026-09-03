@@ -1,0 +1,56 @@
+{
+  "id": "x-2094467179320119498",
+  "url": "https://x.com/robinstetic/status/2094467179320119498",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:33:15Z",
+  "title": "MCP that clones any site's HTML/CSS for Claude Code (AIDesigner)",
+  "authors": [
+    "robin. (@robinstetic)"
+  ],
+  "topics": [
+    "mcp",
+    "design"
+  ],
+  "related_urls": [
+    "https://www.aidesigner.ai/ai-ui-design-mcp",
+    "https://www.aidesigner.ai/docs/mcp",
+    "https://www.aidesigner.ai/",
+    "https://www.aidesigner.ai/website-cloner",
+    "https://api.aidesigner.ai/api/v1/mcp",
+    "https://www.npmjs.com/package/@aidesigner/agent-skills",
+    "https://aiscwork.com"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094467179320119498",
+    "author_handle": "robinstetic",
+    "author_id": "2021410901463883776",
+    "author_name": "robin.",
+    "created_at": "2026-08-31T16:47:43Z",
+    "likes": 385,
+    "replies": 22,
+    "retweets": 61,
+    "bookmarks": 476,
+    "quotes": 2,
+    "views": 23737,
+    "lang": "es",
+    "is_note_tweet": false,
+    "has_video": true,
+    "video_duration_s": 55.728,
+    "video_id": "2094467106485981184",
+    "video_size": "1350x720",
+    "video_bytes": 7667560,
+    "thumb_bytes": 41942,
+    "source_client": "Twitter for iPhone",
+    "mcp_product": "AIDesigner MCP",
+    "mcp_url": "https://api.aidesigner.ai/api/v1/mcp",
+    "npm_bootstrap": "@aidesigner/agent-skills",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com/fxtwitter.com; mp4 via video.twimg.com; product pages via r.jina.ai; npm registry; GitHub search (no public aidesigner-mcp-demo repo)",
+    "comments_note": "22 replies; 3 first-level + 1 nested (robin on kai) via fixupx/fxtwitter. Tweet/thread has no MCP URL; identified from video overlays + aidesigner.ai docs. Rest login-walled.",
+    "topics_note": "Paid remote MCP that extracts/clones page design into Claude Code; SCHEMA mcp + design."
+  }
+}

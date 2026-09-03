@@ -1,0 +1,58 @@
+# Design
+
+Items tagged with `design`.
+
+- [AntV Infographic](../../raw/items/github-antvis-infographic/) — `github-antvis-infographic`
+- [Diagram Design](../../raw/items/github-cathrynlavery-diagram-design/) — `github-cathrynlavery-diagram-design`
+- [QRFerry (qr-data-transfer)](../../raw/items/github-deedy-qr-data-transfer/) — `github-deedy-qr-data-transfer`
+- [Skills For Designers and Engineers](../../raw/items/github-emilkowalski-skills/) — `github-emilkowalski-skills`
+- [DESIGN.md](../../raw/items/github-google-labs-code-design-md/) — `github-google-labs-code-design-md`
+- [interfaces.dev Skills](../../raw/items/github-jakubkrehel-skills/) — `github-jakubkrehel-skills`
+- [Taste Skill](../../raw/items/github-leonxlnx-taste-skill/) — `github-leonxlnx-taste-skill`
+- [The Complete Shelf](../../raw/items/github-mengto-complete-shelf/) — `github-mengto-complete-shelf`
+- [Agent Skills (MengTo)](../../raw/items/github-mengto-skills/) — `github-mengto-skills`
+- [scroll-craft](../../raw/items/github-nateherkai-scroll-craft/) — `github-nateherkai-scroll-craft`
+- [motion-anything](../../raw/items/github-nexu-io-motion-anything/) — `github-nexu-io-motion-anything`
+- [OpenDesign](../../raw/items/github-nexu-io-open-design/) — `github-nexu-io-open-design`
+- [Impeccable](../../raw/items/github-pbakaus-impeccable/) — `github-pbakaus-impeccable`
+- [awesome](../../raw/items/github-sindresorhus-awesome/) — `github-sindresorhus-awesome`
+- [GPT Image 2 Prompt Gallery + Agentic Skill + CLI](../../raw/items/github-wuyoscar-gpt-image2-skill/) — `github-wuyoscar-gpt-image2-skill`
+- [Nano Banana Pro Prompts Recommend Skill](../../raw/items/github-youmind-openlab-nano-banana-pro-prompts/) — `github-youmind-openlab-nano-banana-pro-prompts`
+- [AIDesigner MCP — AI UI design in the editor](../../raw/items/web-aidesigner-mcp/) — `web-aidesigner-mcp`
+- [animos — Motion templates for design showcases](../../raw/items/web-animos-editor/) — `web-animos-editor`
+- [Aura — AI Website Builder](../../raw/items/web-aura-build/) — `web-aura-build`
+- [Ballon Bleu de Cartier watch CRWSBB0049](../../raw/items/web-cartier-ballon-bleu/) — `web-cartier-ballon-bleu`
+- [Checklist Design — Check every detail, ship better work](../../raw/items/web-checklist-design/) — `web-checklist-design`
+- [Cult UI](../../raw/items/web-cult-ui/) — `web-cult-ui`
+- [DESIGNMD — Hyperbrowser DESIGN.md Extractor](../../raw/items/web-design-md-hyperbrowser/) — `web-design-md-hyperbrowser`
+- [designmd.me](../../raw/items/web-designmd-me/) — `web-designmd-me`
+- [designmd.supply](../../raw/items/web-designmd-supply/) — `web-designmd-supply`
+- [DiceBear — open source avatar library & API](../../raw/items/web-dicebear/) — `web-dicebear`
+- [FeralUI](../../raw/items/web-feralui-dev/) — `web-feralui-dev`
+- [Flowmapp — Website Planning Tool](../../raw/items/web-flowmapp/) — `web-flowmapp`
+- [getdesign.md — DESIGN.md Collection for AI Coding Agents](../../raw/items/web-getdesign-md/) — `web-getdesign-md`
+- [GetLayers AI](../../raw/items/web-getlayers-ai/) — `web-getlayers-ai`
+- [LottieFiles](../../raw/items/web-lottiefiles/) — `web-lottiefiles`
+- [MeiGen — Free GPT Image 2, Nano Banana & Seedance Prompts](../../raw/items/web-meigen-ai/) — `web-meigen-ai`
+- [Neuform — AI HTML Landing Page Builder](../../raw/items/web-neuform-ai/) — `web-neuform-ai`
+- [A Developer's Guide to Taste in the Age of AI](../../raw/items/web-opale-ui-taste/) — `web-opale-ui-taste`
+- [OpenDesign — Open Source Vibe Design Workspace](../../raw/items/web-open-design-ai/) — `web-open-design-ai`
+- [Originkit](../../raw/items/web-originkit-dev/) — `web-originkit-dev`
+- [ORYZO AI](../../raw/items/web-oryzo-ai/) — `web-oryzo-ai`
+- [Recent — Design Inspiration](../../raw/items/web-recent-design/) — `web-recent-design`
+- [SceneAI — UI Prompt Library](../../raw/items/web-sceneai-art/) — `web-sceneai-art`
+- [Sokosumi — Free DESIGN.md Generator](../../raw/items/web-sokosumi-design-md/) — `web-sokosumi-design-md`
+- [Refero Styles — DESIGN.md Examples for AI Agents](../../raw/items/web-styles-refero-design/) — `web-styles-refero-design`
+- [TinyShots — macOS screenshot polish app](../../raw/items/web-tinyshots/) — `web-tinyshots`
+- [typeui.sh](../../raw/items/web-typeui-sh/) — `web-typeui-sh`
+- [Utsubo](../../raw/items/web-utsubo/) — `web-utsubo`
+- [Vengeance UI](../../raw/items/web-vengence-ui/) — `web-vengence-ui`
+- [MCP that clones any site's HTML/CSS for Claude Code (AIDesigner)](../../raw/items/x-2094467179320119498/) — `x-2094467179320119498`
+- [How we built the blume.codes landing page (X article)](../../raw/items/x-2094524951025914278/) — `x-2094524951025914278`
+- [Atlas Fields Studios — EM fields around PCB designs, free](../../raw/items/x-2094840529997410525/) — `x-2094840529997410525`
+- [Atlas + spark.js + three.js scene from one input image](../../raw/items/x-2094864872853119216/) — `x-2094864872853119216`
+- [Fable 5.1 website outputs cheaper than Fable 5 — /scroll-craft in replies](../../raw/items/x-2094978216146452971/) — `x-2094978216146452971`
+- [Scroll-animated $5k site without writing CSS — ChatGPT + Gemini + Claude Code](../../raw/items/x-2094984529853530345/) — `x-2094984529853530345`
+- [How to write LinkedIn lead magnets that get comments](../../raw/items/x-2095060844547592437/) — `x-2095060844547592437`
+- [Best websites to get DESIGN.md](../../raw/items/x-2095078647652917329/) — `x-2095078647652917329`
+- [Swiss grids / Neo Industrialism — FROM ABOVE TO AHEAD mock](../../raw/items/x-2095123902947090682/) — `x-2095123902947090682`

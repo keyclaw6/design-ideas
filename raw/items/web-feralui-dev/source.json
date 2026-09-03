@@ -1,0 +1,23 @@
+{
+  "id": "web-feralui-dev",
+  "url": "https://feralui.dev/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "FeralUI",
+  "authors": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "three-js"
+  ],
+  "related_urls": [
+    "https://github.com/mortspace/feral-blob"
+  ],
+  "media": [
+    "media/favicon.ico"
+  ],
+  "unsaved": false,
+  "extra": {
+    "version": "v0.1.1"
+  }
+}

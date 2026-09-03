@@ -1,0 +1,51 @@
+{
+  "id": "x-2094688982940741816",
+  "url": "https://x.com/hridoyreh/status/2094688982940741816",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:10:58Z",
+  "title": "Submit your website to Brave Search",
+  "authors": [
+    "Hridoy Reh (@hridoyreh)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/hridoyreh/status/2093964632562253866",
+    "https://x.com/hridoyreh/status/2093964651973497198",
+    "https://search.brave.com/submit-url",
+    "https://seowins.io/"
+  ],
+  "media": [
+    "media/photo.jpg",
+    "media/quoted-photo.jpg",
+    "media/quoted-after.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094688982940741816",
+    "author_handle": "hridoyreh",
+    "author_id": "2217132804",
+    "author_name": "Hridoy Reh",
+    "created_at": "2026-09-01T07:29:05Z",
+    "likes": 373,
+    "replies": 13,
+    "retweets": 12,
+    "bookmarks": 635,
+    "quotes": 2,
+    "views": 45590,
+    "lang": "en",
+    "is_note_tweet": false,
+    "has_video": false,
+    "media_id": "2094688787712688128",
+    "media_size": "1935x1523",
+    "media_bytes": 158502,
+    "media_alt": "brave submit url",
+    "quoted_tweet_id": "2093964632562253866",
+    "quoted_self_reply_id": "2093964651973497198",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com (x.com jina blocked); photos via pbs.twimg.com; Brave submit-url via r.jina.ai",
+    "comments_note": "Quoted 2093964632562253866 captured here only (no item folder). 13 replies on parent; 3 first-level visible. Quoted thread: 1 author self-reply. Rest login-walled.",
+    "topics_note": "Indexation / alternate-engine SEO; seo-agents is the SCHEMA SEO slot."
+  }
+}

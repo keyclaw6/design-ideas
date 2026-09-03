@@ -1,0 +1,58 @@
+{
+  "id": "x-2094978216146452971",
+  "url": "https://x.com/nateherk/status/2094978216146452971",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:39:26Z",
+  "title": "Fable 5.1 website outputs cheaper than Fable 5 — /scroll-craft in replies",
+  "authors": [
+    "Nate Herk (@nateherk)"
+  ],
+  "topics": [
+    "ui-motion",
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/nateherk/status/2094977775593525567",
+    "https://x.com/i/article/2094971964163006468",
+    "https://x.com/nateherk/status/2094978249482698779",
+    "https://github.com/nateherkai/scroll-craft",
+    "https://aiautomationsociety.ai",
+    "https://www.nateherk.com",
+    "https://www.youtube.com/@nateherk"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg",
+    "media/article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:46:00Z",
+    "unsaved_via": "cursor-ide-browser post-detail Bookmark click",
+    "tweet_id": "2094978216146452971",
+    "author_handle": "nateherk",
+    "author_id": "1921674544999489536",
+    "author_name": "Nate Herk",
+    "created_at": "2026-09-02T02:38:24Z",
+    "likes": 545,
+    "replies": 29,
+    "retweets": 35,
+    "bookmarks": 828,
+    "quotes": 5,
+    "views": 73741,
+    "lang": "en",
+    "is_note_tweet": false,
+    "has_video": true,
+    "video_duration_s": 149.2,
+    "video_id": "2094977921337233409",
+    "video_size": "1280x720",
+    "source_client": "Twitter Web App",
+    "quoted_tweet_id": "2094977775593525567",
+    "quoted_article_id": "2094971964163006468",
+    "quoted_article_title": "Fable 5.1 FINALLY Kills AI Website Slop",
+    "skill_reply_id": "2094978249482698779",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + yt-dlp",
+    "comments_note": "29 replies; author skill reply + 1 first-level comment + 2 nested on the skill tweet captured. Rest login-walled."
+  }
+}

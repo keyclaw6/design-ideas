@@ -1,0 +1,23 @@
+{
+  "id": "web-flowmapp",
+  "url": "https://www.flowmapp.com/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "Flowmapp — Website Planning Tool",
+  "authors": [
+    "Flowmapp"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://app.flowmapp.com/signup",
+    "https://www.flowmapp.com/features/sitemap",
+    "https://www.flowmapp.com/features/estimation-invoice"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "fetch": "r.jina.ai"
+  }
+}

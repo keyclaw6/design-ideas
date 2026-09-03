@@ -1,0 +1,28 @@
+{
+  "id": "web-graphed",
+  "url": "https://www.graphed.com/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "Graphed — Deploy AI Agents for Marketing",
+  "authors": [
+    "Graphed"
+  ],
+  "topics": [
+    "mcp",
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.graphed.com/mcp",
+    "https://mcp.graphed.com/mcp",
+    "https://x.com/codyschneider/status/2094893065202803014",
+    "https://www.graphed.com/register?returnTo=%2Fbook-demo"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "mcp_url": "https://mcp.graphed.com/mcp",
+    "sources_count": "750+",
+    "fetch": "r.jina.ai homepage + /mcp"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "github-nv-tlabs-ArtiFixer",
+  "url": "https://github.com/nv-tlabs/ArtiFixer",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:45:00Z",
+  "title": "ArtiFixer",
+  "authors": [
+    "nv-tlabs",
+    "Riccardo de Lutio",
+    "Tobias Fischer",
+    "Yen-Yu Chang",
+    "Yuxuan Zhang",
+    "Jay Zhangjie Wu",
+    "Xuanchi Ren",
+    "Tianchang Shen",
+    "Katarina Tothova",
+    "Zan Gojcic",
+    "Haithem Turki"
+  ],
+  "topics": [
+    "video-generation",
+    "camera-control",
+    "gaussian-splatting",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [
+    "https://x.com/0x0SojalSec/status/2094929928865341832",
+    "https://arxiv.org/abs/2603.00492",
+    "https://huggingface.co/nvidia/ArtiFixer",
+    "https://research.nvidia.com/labs/sil/projects/artifixer/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "github": "nv-tlabs/ArtiFixer",
+    "description": "Enhancing and extending 3D reconstruction with auto-regressive diffusion models (SIGGRAPH 2026)",
+    "stargazer_count": 635,
+    "primary_language": "Python",
+    "license": "Apache-2.0"
+  }
+}

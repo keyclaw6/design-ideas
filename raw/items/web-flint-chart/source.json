@@ -1,0 +1,27 @@
+{
+  "id": "web-flint-chart",
+  "url": "https://microsoft.github.io/flint-chart/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Flint: A Visualization Language for the AI Era",
+  "authors": [
+    "Microsoft"
+  ],
+  "topics": [
+    "infographics",
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/microsoft/flint-chart",
+    "https://www.npmjs.com/package/flint-chart",
+    "https://flint.data-formulator.ai/mcp"
+  ],
+  "media": [
+    "media/favicon.svg"
+  ],
+  "unsaved": false,
+  "extra": {
+    "version_note": "Flint 0.5.1 \u2014 visual themes for Plotly, Vega-Lite Calendar Heatmap"
+  }
+}

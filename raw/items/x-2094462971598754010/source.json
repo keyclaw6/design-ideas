@@ -1,0 +1,56 @@
+{
+  "id": "x-2094462971598754010",
+  "url": "https://x.com/garrytan/status/2094462971598754010",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "title": "GBrain evals \u2014 retrieval without LLM-in-loop + memory-save",
+  "authors": [
+    "Garry Tan (@garrytan)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/garrytan/gbrain-evals",
+    "https://github.com/garrytan/gbrain",
+    "https://arxiv.org/abs/2604.21284"
+  ],
+  "media": [
+    "media/photo.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-03T10:05:00Z",
+    "unsaved_via": "agent-browser post-detail verify (aria-label Bookmark, not Remove)",
+    "tweet_id": "2094462971598754010",
+    "author_handle": "garrytan",
+    "author_id": "11768582",
+    "author_name": "Garry Tan",
+    "created_at": "2026-08-31T16:31:00Z",
+    "likes": 601,
+    "replies": 99,
+    "retweets": 50,
+    "bookmarks": 664,
+    "quotes": 7,
+    "views": 52953,
+    "lang": "en",
+    "is_note_tweet": true,
+    "source_client": "Twitter Web App",
+    "media_id": "2094462727599353861",
+    "media_size": "1542x1352",
+    "media_bytes": 266293,
+    "repo": "garrytan/gbrain-evals",
+    "repo_stars": 406,
+    "repo_forks": 73,
+    "repo_license": "MIT",
+    "repo_language": "TypeScript",
+    "repo_created_at": "2026-04-22T03:21:03Z",
+    "gbrain_repo": "garrytan/gbrain",
+    "gbrain_stars": 29487,
+    "gbrain_forks": 4396,
+    "gbrain_evals_version_at_api": "0.5.1",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com (3 replies, no status IDs); photo via pbs.twimg.com; GitHub API README/CHANGELOG/package.json for gbrain-evals + gbrain",
+    "comments_note": "99 replies; 3 first-level visible on fixupx (teneo_protocol, Elev_30, iabdul_wasey) without tweet IDs. Rest login-walled. 7 quotes unlisted.",
+    "topics_note": "Agent memory retrieval/write evals; agent-skills is the SCHEMA agents slot. Not an MCP post."
+  }
+}

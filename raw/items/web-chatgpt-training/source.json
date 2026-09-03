@@ -1,0 +1,35 @@
+{
+  "id": "web-chatgpt-training",
+  "url": "https://learn.chatgpt.com/training",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "title": "ChatGPT Training — Work, Codex, walkthroughs",
+  "authors": [
+    "OpenAI"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/derrickcchoi/status/2095133695480873023",
+    "https://learn.chatgpt.com/llms.txt",
+    "https://learn.chatgpt.com/docs/llms-full.txt",
+    "https://learn.chatgpt.com/videos.md",
+    "https://learn.chatgpt.com/training/hands-on/work",
+    "https://learn.chatgpt.com/training/hands-on/codex",
+    "https://learn.chatgpt.com/training/walkthroughs/getting-started",
+    "https://learn.chatgpt.com/training/walkthroughs/plugins-and-skills",
+    "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+    "https://learn.chatgpt.com/training/walkthroughs/creating-slides-and-docs",
+    "https://learn.chatgpt.com/training/walkthroughs/using-your-computer-and-browser",
+    "https://learn.chatgpt.com/training/walkthroughs/building-a-shareable-site",
+    "https://academy.openai.com/home/events"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "walkthrough_count": 6,
+    "hands_on_count": 2,
+    "fetch": "r.jina.ai /training + curl llms.txt"
+  }
+}

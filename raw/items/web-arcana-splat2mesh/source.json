@@ -1,0 +1,28 @@
+{
+  "id": "web-arcana-splat2mesh",
+  "url": "https://arcana-mfg.com/en/splat2mesh/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:57:00Z",
+  "title": "Splat2Mesh",
+  "authors": [
+    "Arcana Mfg."
+  ],
+  "topics": [
+    "gaussian-splatting",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [
+    "https://x.com/ymt3d/status/2094826117056414132",
+    "https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "installer_url": "https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip",
+    "installer_size": "110 MB",
+    "platform": "Windows 11",
+    "license": "Free for personal & non-commercial use",
+    "formats_in": ["PLY"],
+    "formats_out": ["OBJ", "GLB"]
+  }
+}

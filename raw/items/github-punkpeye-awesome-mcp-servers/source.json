@@ -1,0 +1,26 @@
+{
+  "id": "github-punkpeye-awesome-mcp-servers",
+  "url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "awesome-mcp-servers",
+  "authors": [
+    "punkpeye"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://glama.ai/mcp/servers",
+    "https://modelcontextprotocol.io/",
+    "https://github.com/punkpeye/awesome-mcp-clients"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 93831,
+    "license": "MIT"
+  }
+}

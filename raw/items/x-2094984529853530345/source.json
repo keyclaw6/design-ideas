@@ -1,0 +1,52 @@
+{
+  "id": "x-2094984529853530345",
+  "url": "https://x.com/himanshubuildss/status/2094984529853530345",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:31:40Z",
+  "title": "Scroll-animated $5k site without writing CSS — ChatGPT + Gemini + Claude Code",
+  "authors": [
+    "Himanshu Hingorani (@himanshubuildss)"
+  ],
+  "topics": [
+    "ui-motion",
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.scrolltide.co/",
+    "https://www.scrolltide.co/ebook",
+    "https://www.scrolltide.co/pricing",
+    "https://www.scrolltide.co/templates",
+    "https://x.com/himanshubuildss/status/2094984533078876523",
+    "https://x.com/himanshubuildss/status/2094984535503204553"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:36:18Z",
+    "unsaved_via": "cursor-ide-browser post-detail Bookmark click",
+    "tweet_id": "2094984529853530345",
+    "author_handle": "himanshubuildss",
+    "author_id": "2308686523",
+    "author_name": "Himanshu Hingorani",
+    "created_at": "2026-09-02T03:03:29Z",
+    "likes": 54,
+    "replies": 5,
+    "retweets": 12,
+    "bookmarks": 71,
+    "quotes": 0,
+    "views": 3149,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": true,
+    "video_duration_s": 748.17,
+    "video_id": "2094983454127767552",
+    "video_size": "1280x720",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + yt-dlp",
+    "comments_note": "5 replies; author 3-tweet thread + 1 first-level comment captured. Rest login-walled."
+  }
+}
