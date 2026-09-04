@@ -14,4 +14,6 @@ Self-improving research swarms with an eval, not a single long chat.
 Owner subject: `agent-harness-loops`. Referenced by 5 item(s): x-2032330665081839791, x-2032671842230501729, x-2074912810803560497, x-2087444616832594022, x-2094462971598754010.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — Chadha primer host still unreachable.** `https://autoresearch.aman.ai` connect-timeout (25s) and jina 422 (page.goto 15s). Wayback CDX also timed out. No GitHub repo from `autoresearch + chadha` search. The tweet screenshot of the TOC remains the only outline. Do not invent section names beyond that still.
 <!-- NOTES:END -->

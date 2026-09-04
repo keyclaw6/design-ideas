@@ -46,6 +46,6 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 
 ## ai-cad-hardware — next capture work
 
-1. Export the must-read Fusion assembly if the author shared a file.
+1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools is on [autodesk-fusion](../../tools/autodesk-fusion.md). Remaining: a STEP/F3D of the ring assembly (author did not share a file).
 2. Keep PCB items (autoroute, OpenEMS, Fields Studio) in a separate shortlist from CadX demos.
 3. Do not expand keyboard coverage beyond boards already in the roster.

@@ -54,4 +54,4 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 
 1. popcorn CLI install/submit and the **live board** (sankalp1999 26th / 3916 µs vs blog 12th / 1805 µs) are on [codex](../../tools/codex.md). Remaining: one Harbor/popcorn submission id from the author’s `submit_logs/`.
 2. Headlong `wc` vs README cloc, and the reddit-karma prompt location, are on the tool NOTES. Remaining: run cloc itself (not `wc`) if a later pass needs the capped 11.5K reproduced.
-3. Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.
+3. Chadha primer host `autoresearch.aman.ai` still times out ([autoresearch-loop](../../techniques/autoresearch-loop.md)). Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.

@@ -14,4 +14,6 @@ Memory as a git-backed vault, transcript save, or markdown second brain.
 Owner subject: `agent-memory-knowledge`. Referenced by 5 item(s): x-2086920236079681607, x-2087208634493095978, x-2088231655177924993, x-2091169290661838965, x-2094462971598754010.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — Slite ebook vs Ryven vs Obsidian Mind.** `https://slite.com/ebooks/company-brain` is a gated form (name/email/company). Public copy: surveyed **149 teams**, interviewed **10+** builders; “four technical components of every Company Brain”; blog (`/blog/slite-announcing-self-maintaining-knowledge-base`) says **55%** of teams that built a company brain themselves gave up, almost always on upkeep. The tweet’s nine names (GBrain, mem0, Letta, Zep/Graphiti, Sylph, DIY git markdown, Pletor, Gorgias Cortex, Slite Agent) and Gorgias **12,000** nodes are **not** in the public HTML — they stay on the tweet infographic. Ryven’s five automations + 4,000 RAW notes remain tweet-only (no public repo under `@imryven`). Obsidian Mind tree is a different filing scheme (see [obsidian-mind](../tools/obsidian-mind.md)).
 <!-- NOTES:END -->
