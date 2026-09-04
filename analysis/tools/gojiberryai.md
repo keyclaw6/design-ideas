@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 **2026-09-04 capture — 97/1 case still tweet + Slack still.** Homepage `https://gojiberry.ai/` HTTP 200. The 97 contacted / 33 accepted / 15+ replies / 1 demo in 24h numbers are only on the X post + Calendly-via-Zapier Slack still (`raw/…/photo.jpg` shows 2026-08-31 18:00 UTC, CIO field). Repo has `icp-context.template.md` but no filled ICP for that run. Do not treat 97/1 as a scored funnel.
+
+**2026-09-04 capture — ICP template fields.** `skills/sales-os/icp-context.template.md` (1,023 bytes, HTTP 200). Blank fields: Product (company, website, one-sentence, who we sell to company/title, status quo, named proof); ICP (industries, size, geos, must-have / nice-to-have titles, disqualifiers, real vs fake buying triggers); Voice (sender, tone, words use/never, CTA); Send policy (propose default | autonomous, min intent score, LinkedIn | email, after-hours, approval first-touch / follow-up / both). README first-five-minutes: fill that file, then “find 25 people… show the list before anyone is contacted.” Default **propose, don't send**. 97/1 still has no filled copy of this file.
 <!-- NOTES:END -->

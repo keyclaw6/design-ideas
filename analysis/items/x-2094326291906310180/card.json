@@ -42,6 +42,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094326291906310180#c2",
+      "text": "Sales OS ships a blank icp-context.template.md (product, ICP, voice, send policy); default mode is propose-don't-send. The 97/1 run has no filled copy in this bank.",
+      "kind": "recipe",
+      "evidence": "README First five minutes + skills/sales-os/icp-context.template.md (1023 bytes): Mode: propose (default) | autonomous; no filled ICP for the 97/1 tweet.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],

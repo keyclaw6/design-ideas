@@ -12,6 +12,7 @@
 - `x-2094819241916801165#c1` (recipe, stated) Author replaces characters in a reference still with a face photo using GPT Image 2 while preserving outfit, lighting, and pose before animating with Seedance 2.5. — evidence: "drop this image in GPT Image 2 as image_1, then drop YOUR own face photo as image_2
 
 paste this prompt and it swaps your face into the scene, outfit and lighting untouched:" [quoted-post]
+- `x-2094819241916801165#c2` (capability, demonstrated) Official Seedance 2.5 page advertises 30-second clips, reference control, white-model and green-screen editing — not face-swap or identity lock. — evidence: "https://seed.bytedance.com/en/seedance2_5 HTTP 200: up to 30 seconds, extend twice, precise reference control, white-model control, green-screen; no identity/face/character copy." [note]
 **Numbers.** —
 **Recipe.** 1. Swap face into reference still with GPT Image 2 using image_1 and image_2 2. Repeat for second character reference still 3. Attach locked stills to Seedance 2.5 with a single-scene cinematic prompt
 **Techniques.** [agent-video-editing](../../techniques/agent-video-editing.md), [seedance-motion-reference](../../techniques/seedance-motion-reference.md)

@@ -42,6 +42,16 @@
       "evidence_ref": "thread.json",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2094819241916801165#c2",
+      "text": "Official Seedance 2.5 page advertises 30-second clips, reference control, white-model and green-screen editing — not face-swap or identity lock.",
+      "kind": "capability",
+      "evidence": "https://seed.bytedance.com/en/seedance2_5 HTTP 200: up to 30 seconds, extend twice, precise reference control, white-model control, green-screen; no identity/face/character copy.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seedance.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": [

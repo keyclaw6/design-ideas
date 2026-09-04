@@ -46,6 +46,6 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 
 ## ai-video-generation — next capture work
 
-1. Official Seedance page is `seed.bytedance.com` (seedance.com is parked). Face-swap recipe still needs two locked stills + a Seedance clip in this bank ([seedance](../../tools/seedance.md)).
+1. Official Seedance 2.5 page: 30 s / extend twice / reference + white-model + green-screen — **no identity-lock copy** ([seedance](../../tools/seedance.md)). Face-swap recipe still needs two locked stills + a Seedance clip in this bank.
 2. Confirm video-use still edits a local folder without a hosted account.
 3. Keep launch-video breakdowns as craft notes; do not score models by view counts.
