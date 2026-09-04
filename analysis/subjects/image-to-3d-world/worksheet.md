@@ -16,7 +16,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 | item | input | editable scene vs bake | topology after gen | engine import | license |
 |---|---|---|---|---|---|
 | Hyper3D WorldGen | single photo | claimed interactive/physics world | unknown | unknown (research + product) | unknown (Yingmu / SIGGRAPH 2025) |
-| Atlas + spark.js | single photo | navigable three.js scene | n/a (world model) | three.js / spark.js | World Labs product |
+| Atlas + spark.js | single photo (Marble) | navigable splat; mesh is a paid export | collider 100–200k / HQ 600k–1M | three.js / spark.js + GLB | World Labs; Free cannot export |
 | Atlas 3D AI | text sentence | Unreal ride-through; Blender staging claimed | unknown | Blender + Unreal (promo) | product; no license text in capture |
 | Lumera | single image | claimed separate meshes + movable lights | claimed object-split | UE5 / Blender | code/weights “coming soon” |
 | Lucida | indoor video | claimed scene-graph + Seed3D meshes | unknown | unknown | ByteDance research |
@@ -48,6 +48,6 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 ## image-to-3d-world — next capture work
 
 1. Hyper3D / Lucida pages are summarized on the WorldGen tool NOTES. Remaining: a logged-in WorldGen export (GLB/USD) and Lumera code when it appears.
-2. Confirm whether Atlas (World Labs) exports a mesh or only a navigable radiance/world field.
+2. World Labs **Marble** docs: splat is highest fidelity; collider GLB on Standard; HQ textured GLB on Pro (~1 h). See [atlas](../../tools/atlas.md) / [spark-js](../../tools/spark-js.md). Remaining: a logged-in export of one world.
 3. kokraf README is a VEF modeler, not a four-view bake skill ([kokraf](../../tools/kokraf.md)). Projection path is still tweet/media-only.
 4. All 14 primaries are `ready-with-gaps`. Raising even three world-gen cards to `ready` unblocks a real bake-off.

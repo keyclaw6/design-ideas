@@ -21,7 +21,7 @@ LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-20905892936770235
 | SplatPaint | splat *or* image/logo/model | paint, sculpt, relight, FX | browser scene | hosted sandbox | n/a |
 | Spatial Studio | splat capture | camera path | 4K video | in-browser | n/a (leaves splat-land) |
 | Splat2Mesh (Arcana) | 3DGS PLY | none | OBJ/GLB; print via Mimaki demo | local CPU, no GPU claimed | mesh quality unknown |
-| IZUTSUYA 4dgs.jp | PLY | none | GLB/STL/OBJ | browser beta | unknown |
+| IZUTSUYA 4dgs.jp | PLY ≤500 MB | none | GLB / STL / OBJ (OBJ = calc only) | browser, server-side, no local GPU | hole-fill mode exists; manifold unknown |
 | ArtiFixer | sparse 3DGRUT / broken scan | diffusion fill | repaired splat/scan | local, heavy weights | this *is* the repair step |
 | Aholo / LOD / SPZ | city-scale splat | view | browser stream | viewer | n/a |
 | LightFuse | multi-scan RGB + masks/depth/normals | rearrange + relight + edit material | research recon (2DGS + one-bounce RT) | research; no public weights | n/a |
@@ -49,5 +49,5 @@ Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-209
 
 1. EULA + sample.ply URL are on the tool page. Remaining: run the Windows app on `sample.ply` and record wall-clock + whether the OBJ is watertight.
 2. LightFuse paper/project page are on the splat-pipeline NOTES. Remaining: replies on X, and a code/weights drop if one appears. Splat2Mesh JP replies still 0 tweet nodes.
-3. Record whether IZUTSUYA STL is manifold enough for print vs Arcana OBJ/GLB.
+3. IZUTSUYA converter page is summarized on [splat-pipeline](../../techniques/splat-pipeline.md) (500 MB, 5 free calc/month, AI paid, OBJ calc-only). Remaining: convert `sample.ply` and check whether the STL is manifold.
 4. Decide ArtiFixer: phone capture vs research scan. Nothing in this bank tests a handheld video.
