@@ -11,6 +11,7 @@
 **Claims.**
 - `web-aidesigner-mcp#c1` (capability, stated) AIDesigner exposes 21 MCP tools for design generation, refinement, brand kits, and editor sessions. — evidence: "21 MCP tools — design generation, live canvas streaming, brand kits, image tools, editor session pairing, credits." [linked-page]
 - `web-aidesigner-mcp#c2` (recipe, stated) URL modes include clone, enhance, and inspire for competitor references. — evidence: "Pass a reference URL with `mode`: clone (near 1:1), enhance (modernize), inspire (visual language only)." [linked-page]
+- `web-aidesigner-mcp#c3` (result, demonstrated) AIDesigner marketing page still says Twenty-one tools and lists 22 snake_case titles. Unauthed MCP initialize returns 401 OAuth access token required. — evidence: "2026-09-04 evening: page 200 298652 B; all 22 names present; POST api.aidesigner.ai/api/v1/mcp initialize 401 {"error":"OAuth access token required."}" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [url-clone-ui](../../techniques/url-clone-ui.md), [design-md-contract](../../techniques/design-md-contract.md)

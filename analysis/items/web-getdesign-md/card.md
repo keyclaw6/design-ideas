@@ -11,6 +11,7 @@
 **Claims.**
 - `web-getdesign-md#c1` (availability, stated) The site catalogs 550+ DESIGN.md analyses of well-known websites. — evidence: "Website catalog: 550+ site analyses (Apple, Stripe, Linear, Notion, etc.)" [linked-page]
 - `web-getdesign-md#c2` (capability, stated) Private DESIGN.md offers a custom design system generated for any website URL. — evidence: "Private DESIGN.md: custom design system for any website" [linked-page]
+- `web-getdesign-md#c3` (result, demonstrated) Neighbor designmd.app (2026-09-04) is a live catalog titled 562 Design System Files. That 562 is not the getdesign.md 550+ marketing count or the 627 sitemap union. — evidence: "designmd.app HTTP 200 75265 B; title DESIGN.md — 562 Design System Files; Open library · 562 documented files. Parked on getdesign-md NOTES." [note]
 **Numbers.** catalog entries: 550 + (linked-page)
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md)

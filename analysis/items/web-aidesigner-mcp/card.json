@@ -53,6 +53,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-aidesigner-mcp#c3",
+      "text": "AIDesigner marketing page still says Twenty-one tools and lists 22 snake_case titles. Unauthed MCP initialize returns 401 OAuth access token required.",
+      "kind": "result",
+      "evidence": "2026-09-04 evening: page 200 298652 B; all 22 names present; POST api.aidesigner.ai/api/v1/mcp initialize 401 {\"error\":\"OAuth access token required.\"}",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/aidesigner-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

@@ -51,6 +51,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-getdesign-md#c3",
+      "text": "Neighbor designmd.app (2026-09-04) is a live catalog titled 562 Design System Files. That 562 is not the getdesign.md 550+ marketing count or the 627 sitemap union.",
+      "kind": "result",
+      "evidence": "designmd.app HTTP 200 75265 B; title DESIGN.md — 562 Design System Files; Open library · 562 documented files. Parked on getdesign-md NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getdesign-md.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

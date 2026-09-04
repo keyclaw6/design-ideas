@@ -12,4 +12,6 @@ Homepage still advertises **550+** DESIGN.md analyses and “Follows Google’s 
 
 **2026-09-04 capture — sitemap vs homepage vs marketing.**
 `https://getdesign.md/sitemap.xml`: **764** `<loc>`s. Unique brand slugs: **566** `/design-md/{slug}` + **76** `/{slug}/design-md` homepage rows; union **627**. Homepage HTML lists those **76** `/…/design-md` rows (Catalog Pass). Sibling repo `VoltAgent/awesome-design-md` tree: **147** folders under `design-md/`. Marketing **550+** is below the sitemap union; do not treat 76, 147, 550+, or 627 as the same number.
+
+**2026-09-04 neighbor — designmd.app (no tool file).** `https://designmd.app/` HTTP 200, **75,265** B, title **“DESIGN.md — 562 Design System Files for AI Coding Agents”**. Visible copy: “Open library · 562 documented files”, “562 DESIGN.md ready to use”, h1 **DESIGN MD (DESIGN.md)**. Mentions Claude Code / Cursor / Kiro / Windsurf / Cline. This is **not** getdesign.md and **not** the blocked designmd.me / designmd.supply hosts. Do not collapse **562** with getdesign marketing 550+ or sitemap union 627.
 <!-- NOTES:END -->

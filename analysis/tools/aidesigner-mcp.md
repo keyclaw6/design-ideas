@@ -11,4 +11,6 @@
 `https://www.aidesigner.ai/ai-ui-design-mcp` heading: “Twenty-one tools. One protocol.” Endpoint in the snippet: `https://api.aidesigner.ai/api/v1/mcp`. Unauthed `initialize` → **401**.
 
 Names listed as tool titles on that page (**22**, not 21): `generate_design`, `refine_design`, `generate_image`, `generate_website_design_image`, `generate_branding_kit_variations`, `generate_media_asset_kit`, `create_brand_kit_from_variation`, `list_brand_kits`, `set_editor_brand_kit`, `save_media_asset_to_brand_kit`, `drop_image_on_canvas`, `remove_image_background`, `vectorize_image`, `extract_image_assets`, `create_editor_session`, `link_editor_session`, `unlink_editor_session`, `list_canvases`, `get_canvas`, `extract_canvas_design`, `get_credit_status`, `whoami`. Quote the page’s “21” as marketing; the title list is 22.
+
+**2026-09-04 evening re-fetch.** `https://www.aidesigner.ai/ai-ui-design-mcp` HTTP 200, **298,652** B, heading still **“Twenty-one tools. One protocol.”** All **22** snake_case titles still present. Unauthed `POST https://api.aidesigner.ai/api/v1/mcp` `initialize` → **401** `{"error":"OAuth access token required."}`. No `tools/list` without a token.
 <!-- NOTES:END -->
