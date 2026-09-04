@@ -1,8 +1,8 @@
 # Thread — David Ondrej Agentic Engineering Setup X article link (x-2094424967345496191)
 
 **Status:** captured_partial · **Author thread:** none · **Replies reported:** 51 · **Captured:** 3 · **Relevant:** 1 · **Unfetched:** 48 · **Truncated:** False
-**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z)
-**Raw payloads:** `raw/items/x-2094424967345496191/thread-raw/x-web-dom-20260904T175333Z.html`
+**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T23:33:00Z)
+**Raw payloads:** `raw/items/x-2094424967345496191/thread-raw/x-web-dom-20260904T175333Z.html`, `raw/items/x-2094424967345496191/thread-raw/fxtwitter-article-2094424686499160065-20260904T233300Z.json`
 
 **Author continuation (0 posts).**
 **Quoted.**

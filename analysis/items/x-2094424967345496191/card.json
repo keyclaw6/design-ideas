@@ -40,12 +40,44 @@
       "evidence_ref": "post.md",
       "confidence": "demonstrated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2094424967345496191#c2",
+      "text": "fxtwitter article 2094424686499160065 is 105 blocks / 14,952 chars titled Agentic Engineering Setup (after 2,000+ hours), dated Q3 2026. Eight H2s: Interface, Models and Subscriptions, Cloud Agents, Build your own Cloud env, Harness, Skills, Worktrees, Other Agentic Engineering Tips.",
+      "kind": "capability",
+      "evidence": "Title + H2 list from fxtwitter article payload. First sentence: Over the past 3 years, I've spent well over 2,000 hours coding with AI.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/herdr.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2094424967345496191#c3",
+      "text": "Named interface/harness stack: bb (OSS GUI wrapping Codex, Claude Code, Pi, Cursor CLI, OpenCode, Grok Build, Hermes); cmux (tmux-like panes + built-in browser); Ghostty + Herdr (states done/idle/blocked/running); Corral priority queue (author says not OSS yet). Pi Agent: 4 tools, YOLO, pi.dev. Skills repo github.com/davidondrej/skills names /total-review, /ask-then-build, /deepapi, guardrails + push lock.",
+      "kind": "recipe",
+      "evidence": "Interface / Harness / Skills sections of the 14,952-char body. Corral: yes... i do need to make corral open-source.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/herdr.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2094424967345496191#c4",
+      "text": "Author's subscription ladder (stated, Q3 2026): OpenCode Go $10; +ChatGPT Plus = $30; +Claude $20 = $50; +Cursor $20 = $70; OpenCode + $100 ChatGPT = $110; both $100 plans = $210; author uses all $200 plans. Cursor cloud-agent share of merged PRs: ~10–15% start of year → approaching 60% (author graph, not independently verified).",
+      "kind": "pricing",
+      "evidence": "Models and Subscriptions + Cloud Agents sections. Quote: around 10-15% at the start of this year, approaching 60% now.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/herdr.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "herdr"
+  ],
   "links": {
     "canonical": "https://x.com/DavidOndrej1/status/2094424967345496191",
     "repo": null,
@@ -69,12 +101,12 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
-    "why_must_read": "Article body was not fetched; category_note lists bb/cmux/Herdr/skills/worktrees topics."
+    "why_must_read": "Article body now via fxtwitter (14,952 chars); thread still partial (51/3)."
   },
   "worker": "cards-06",
   "written_at": "2026-09-04T18:15:17Z"

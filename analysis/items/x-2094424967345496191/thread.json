@@ -93,10 +93,18 @@
       "target": "https://api.fxtwitter.com/DavidOndrej1/status/2094424967345496191",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-04T23:33:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/DavidOndrej1/status/2094424967345496191",
+      "outcome": "ok",
+      "note": "article 2094424686499160065 title Agentic Engineering Setup (after 2,000+ hours); 105 blocks / 14952 body chars"
     }
   ],
   "raw_payloads": [
-    "raw/items/x-2094424967345496191/thread-raw/x-web-dom-20260904T175333Z.html"
+    "raw/items/x-2094424967345496191/thread-raw/x-web-dom-20260904T175333Z.html",
+    "raw/items/x-2094424967345496191/thread-raw/fxtwitter-article-2094424686499160065-20260904T233300Z.json"
   ],
   "worker": "threads-script",
   "written_at": "2026-09-04T17:54:20Z"
