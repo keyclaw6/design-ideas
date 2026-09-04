@@ -1,0 +1,96 @@
+{
+  "schema_version": "1",
+  "id": "x-2092679517588574690",
+  "source_type": "x",
+  "url": "https://x.com/ComfyUI/status/2092679517588574690",
+  "title": "ComfyUI workflow: Blender blockout motion with MiniMax H3 environment",
+  "author": {
+    "name": "ComfyUI",
+    "handle": "ComfyUI",
+    "url": "https://x.com/ComfyUI"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:54Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [
+    "ai-video-generation"
+  ],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "blender",
+    "comfyui"
+  ],
+  "summary": "ComfyUI demonstrates a Blender blockout supplying camera motion and composition while a reference image guides environment, subject, and textures through MiniMax H3, runnable locally with open weights or on Comfy Cloud.",
+  "question_it_answers": "How do you combine a Blender blockout camera path with MiniMax H3 for environment-guided video?",
+  "claims": [
+    {
+      "id": "x-2092679517588574690#c1",
+      "text": "Workflow uses Blender blockout for motion and composition plus a reference image to steer MiniMax H3 environment and textures.",
+      "kind": "recipe",
+      "evidence": "a Blender blockout provides the motion and composition while a reference image guides the environment, subject, and textures with MiniMax H3.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "blender-blockout-camera",
+    "reference-guided-environment"
+  ],
+  "tools": [
+    "minimax-h3",
+    "comfyui"
+  ],
+  "links": {
+    "canonical": "https://x.com/ComfyUI/status/2092679517588574690",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Workflow preview video showing Blender blockout camera motion composited with MiniMax H3 environment generation from a reference image.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2092679517588574690",
+    "post": "post.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

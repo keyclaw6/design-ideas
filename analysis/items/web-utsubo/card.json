@@ -1,0 +1,89 @@
+{
+  "schema_version": "1",
+  "id": "web-utsubo",
+  "source_type": "website",
+  "url": "https://www.utsubo.com/",
+  "title": "Utsubo studio site: experiential scroll and 3D brand storytelling",
+  "author": {
+    "name": "Utsubo",
+    "handle": null,
+    "url": "https://www.utsubo.com"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "reference",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "Utsubo is a technology-first creative studio whose own site is the portfolio artifact: immersive scroll, letter-spaced typography reveals, and audio-forward presentation for web, games, and installations.",
+  "question_it_answers": "What studio-quality bar exists for scroll-driven experiential brand sites beyond template landings?",
+  "claims": [
+    {
+      "id": "web-utsubo#c1",
+      "text": "Site is positioned as an experimental, audio-forward web experience rather than a component kit or skill pack.",
+      "kind": "capability",
+      "evidence": "0% BETTER WITH SPEAKERS ON",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "scroll-driven-3d",
+    "audio-forward-presentation"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://www.utsubo.com/",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.utsubo.com/",
+    "other": [],
+    "related_items": [
+      "web-oryzo-ai",
+      "github-oso95-scroll-world",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-cartier-ballon-bleu",
+      "github-nateherkai-scroll-craft"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-utsubo",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "three-js",
+      "bess-3d-flythrough"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

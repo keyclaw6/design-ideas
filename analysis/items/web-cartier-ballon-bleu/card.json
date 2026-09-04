@@ -1,0 +1,83 @@
+{
+  "schema_version": "1",
+  "id": "web-cartier-ballon-bleu",
+  "source_type": "website",
+  "url": "https://www.cartier.com/en-dk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRWSBB0049",
+  "title": "Cartier Ballon Bleu PDP: luxury product page with fit and motion guide",
+  "author": {
+    "name": "Cartier",
+    "handle": null,
+    "url": "https://www.cartier.com"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "Cartier Denmark product detail page for Ballon Bleu CRWSBB0049, kept as a luxury e-commerce reference with bracelet-fit tooling, engraving personalization, spec tables, and animated watch-care guides.",
+  "question_it_answers": "How does a luxury brand teach physical product use on a PDP with motion and personalization?",
+  "claims": [
+    {
+      "id": "web-cartier-ballon-bleu#c1",
+      "text": "Page includes wrist-measure bracelet fit (125–190 mm), engraving customization, and an animated user guide for time setting and bracelet adjustment.",
+      "kind": "capability",
+      "evidence": "Fit your bracelet — wrist measurement (125–190 mm), link adjustment",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://www.cartier.com/en-dk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRWSBB0049",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.cartier.com/en-dk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRWSBB0049",
+    "other": [
+      "https://www.cartier.com/"
+    ],
+    "related_items": [
+      "web-utsubo",
+      "web-oryzo-ai",
+      "github-nateherkai-scroll-craft",
+      "web-checklist-design",
+      "web-recent-design"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-cartier-ballon-bleu",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

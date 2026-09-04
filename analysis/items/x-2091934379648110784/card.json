@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2091934379648110784",
+  "source_type": "x",
+  "url": "https://x.com/ImranUxi/status/2091934379648110784",
+  "title": "Refero styles.refero.design: 2000+ DESIGN.md files for coding agents",
+  "author": {
+    "name": "ImranUxi",
+    "handle": "ImranUxi",
+    "url": "https://x.com/ImranUxi"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:50Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "cursor",
+    "codex"
+  ],
+  "summary": "ImranUxi promotes styles.refero.design as a library of 2000+ DESIGN.md files extracted from real product sites with colors, type, spacing, and components ready to paste into Cursor, Claude Code, v0, or Lovable.",
+  "question_it_answers": "Where can I get pre-built DESIGN.md taste files from real product sites for coding agents?",
+  "claims": [
+    {
+      "id": "x-2091934379648110784#c1",
+      "text": "Site offers 2000+ DESIGN.md files from real product sites covering colors, typography, spacing, and components.",
+      "kind": "capability",
+      "evidence": "2,000+ DESIGN.md files from real product sites, colors, type, spacing, components",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "styles-refero-design"
+  ],
+  "links": {
+    "canonical": "https://x.com/ImranUxi/status/2091934379648110784",
+    "repo": null,
+    "paper": null,
+    "product": "http://styles.refero.design",
+    "other": [],
+    "related_items": [
+      "web-styles-refero-design"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091934379648110784",
+    "post": "post.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

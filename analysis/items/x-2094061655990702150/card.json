@@ -1,0 +1,90 @@
+{
+  "schema_version": "1",
+  "id": "x-2094061655990702150",
+  "source_type": "x",
+  "url": "https://x.com/lisaknowsai/status/2094061655990702150",
+  "title": "Video Use: open-source Claude Code agent video editor (browser-use)",
+  "author": {
+    "name": "lisaknowsai",
+    "handle": "lisaknowsai",
+    "url": "https://x.com/lisaknowsai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:47Z",
+  "lang": "es",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-video-generation",
+  "secondary_subjects": [
+    "agent-harness-loops"
+  ],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "claude-code"
+  ],
+  "summary": "Spanish-language post highlights Video Use, an open-source browser-use project that auto-edits raw footage in a folder—cutting clips, removing filler words, adding captions, color grading, and rendering without a manual timeline.",
+  "question_it_answers": "What open-source tool lets Claude Code auto-edit raw video folders without a timeline?",
+  "claims": [
+    {
+      "id": "x-2094061655990702150#c1",
+      "text": "Video Use handles cutting, filler removal, captions, color correction, animations, and final render from a folder of raw files.",
+      "kind": "capability",
+      "evidence": "Corta los clips",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "video-use"
+  ],
+  "links": {
+    "canonical": "https://x.com/lisaknowsai/status/2094061655990702150",
+    "repo": "https://github.com/browser-use/video-use",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2092980272819999227"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Screenshot of the browser-use/video-use GitHub repository main branch showing helpers, skills/manim-video, README, SKILL.md, and pyproject.toml.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094061655990702150",
+    "post": "post.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

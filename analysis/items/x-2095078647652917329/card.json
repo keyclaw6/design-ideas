@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "id": "x-2095078647652917329",
+  "source_type": "x",
+  "url": "https://x.com/tranmautritam/status/2095078647652917329",
+  "title": "Tran Mau Tri Tam roundup of nine DESIGN.md sources for coding agents",
+  "author": {
+    "name": "Tran Mau Tri Tam ✪",
+    "handle": "tranmautritam",
+    "url": "https://x.com/tranmautritam"
+  },
+  "published_at": "2026-09-02T09:17:28Z",
+  "captured_at": "2026-09-02T17:39:26Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "Designer Tran Mau Tri Tam lists nine DESIGN.md generator or catalog sites—Refero, designmd.me, open-design.ai, designmd.supply, getdesign.md, Aura, Neuform, Hyperbrowser, and TypeUI—and asks what is missing.",
+  "question_it_answers": "Which websites publish DESIGN.md files or generators for AI coding agents?",
+  "claims": [
+    {
+      "id": "x-2095078647652917329#c1",
+      "text": "Note-tweet links nine DESIGN.md sources including styles.refero.design, open-design.ai, aura.build, and typeui.sh.",
+      "kind": "availability",
+      "evidence": "http://styles.refero.design",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2095078647652917329#c2",
+      "text": "Visible reply adds Sokosumi's free DESIGN.md generator at sokosumi.com/tools/design-md.",
+      "kind": "availability",
+      "evidence": "https://www.sokosumi.com/tools/design-md too ;D",
+      "evidence_source": "reply",
+      "evidence_ref": "comments.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/tranmautritam/status/2095078647652917329",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://styles.refero.design/",
+      "https://designmd.me/",
+      "https://open-design.ai/",
+      "https://designmd.supply/",
+      "https://getdesign.md/",
+      "https://aura.build/",
+      "https://neuform.ai/",
+      "https://design-md.hyperbrowser.ai/",
+      "https://typeui.sh/",
+      "https://www.sokosumi.com/tools/design-md"
+    ],
+    "related_items": [
+      "github-nexu-io-open-design",
+      "web-open-design-ai",
+      "web-styles-refero-design"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/photo.png",
+      "type": "image",
+      "description": "4096-square collage grid of nine DESIGN.md site cards with logos and URLs for Refero, designmd.me, open-design.ai, designmd.supply, getdesign.md, Aura, Neuform, Hyperbrowser, and TypeUI.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095078647652917329",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

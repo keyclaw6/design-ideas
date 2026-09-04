@@ -1,0 +1,96 @@
+{
+  "schema_version": "1",
+  "id": "x-2095368133070700884",
+  "source_type": "x",
+  "url": "https://x.com/_heyfaisal/status/2095368133070700884",
+  "title": "GPT 5.6 Sol website prompt demo video (prompt not captured)",
+  "author": {
+    "name": "Faisal Ahmed (@_heyfaisal)",
+    "handle": "_heyfaisal",
+    "url": "https://x.com/_heyfaisal"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:50:11Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-prompt-galleries",
+  "secondary_subjects": [],
+  "roles": [
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Faisal Ahmed teases a GPT 5.6 Sol website-generation prompt with a short result video, but the prompt text itself was not captured in post.md or the thread.",
+  "question_it_answers": "What does a GPT 5.6 Sol website prompt output look like?",
+  "claims": [
+    {
+      "id": "x-2095368133070700884#c1",
+      "text": "Post advertises a GPT 5.6 Sol prompt with a demo video but does not include the prompt body in the capture.",
+      "kind": "availability",
+      "evidence": "GPT 5.6 Sol",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-prompt-galleries"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "sol-website-prompt"
+  ],
+  "tools": [
+    "gpt-5-6-sol"
+  ],
+  "links": {
+    "canonical": "https://x.com/_heyfaisal/status/2095368133070700884",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2095451624139567162"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.mp4",
+      "type": "video",
+      "description": "Five-second demo video of a website generated with a GPT 5.6 Sol prompt; prompt text not present in the captured post.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095368133070700884",
+    "post": "post.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2095451624139567162"
+    ],
+    "must_read": [
+      "x-2095451624139567162"
+    ],
+    "why_must_read": "Sibling Sol prompt post may include the full template or marketplace link."
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

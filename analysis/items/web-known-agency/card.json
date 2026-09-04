@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "id": "web-known-agency",
+  "source_type": "website",
+  "url": "https://known.agency/",
+  "title": "Known Agency: Search Everywhere Optimisation for Google and AI answers",
+  "author": {
+    "name": "Known",
+    "handle": null,
+    "url": "https://known.agency"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "Known positions as a Search Everywhere Optimisation agency covering AI answer citations, classic SEO, content, technical fixes, link building, and local SEO across Google, ChatGPT, Perplexity, and other assistants.",
+  "question_it_answers": "How does a services-side AEO agency frame search-everywhere visibility versus traditional SEO shops?",
+  "claims": [
+    {
+      "id": "web-known-agency#c1",
+      "text": "Services span AI search optimization for citations in answer engines plus SEO, content, technical, authority links, and local/map-pack work.",
+      "kind": "capability",
+      "evidence": "AI Search Optimization — earn citations and recommendations across answer engines",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-known-agency#c2",
+      "text": "First 30 days promise a visibility baseline across Google and AI surfaces, then opportunity-driven sprints rather than a fixed content quota.",
+      "kind": "recipe",
+      "evidence": "First 30 days: visibility baseline across Google + AI surfaces, priority sprint",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://known.agency/",
+    "repo": null,
+    "paper": null,
+    "product": "https://known.agency/",
+    "other": [
+      "https://known.agency/#get-started"
+    ],
+    "related_items": [
+      "web-crowdreply",
+      "web-seowins-io",
+      "github-iannuttall-seo",
+      "web-nqz-ai-search-prompt-generator",
+      "web-tinylaunch-directories"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-known-agency",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": "1",
+  "id": "github-nexu-io-open-design",
+  "source_type": "github",
+  "url": "https://github.com/nexu-io/open-design",
+  "title": "OpenDesign: local-first open-source agent design workspace",
+  "author": {
+    "name": "nexu-io",
+    "handle": "nexu-io",
+    "url": "https://github.com/nexu-io"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "code-motion-graphics"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "codex",
+    "cli"
+  ],
+  "summary": "Open-source desktop app (macOS/Windows) where coding agents drive design: prototypes, dashboards, decks, images, video, and HyperFrames motion graphics with DESIGN.md brand contracts and exports to HTML/PDF/PPTX/MP4.",
+  "question_it_answers": "What local-first Claude Design alternative supports BYOK agents, DESIGN.md, and multi-format exports?",
+  "claims": [
+    {
+      "id": "github-nexu-io-open-design#c1",
+      "text": "Marketed as the open-source Claude Design alternative with a discover-brief-lock-critique-deliver agent loop.",
+      "kind": "capability",
+      "evidence": "The open-source Claude Design alternative.",
+      "evidence_source": "media",
+      "evidence_ref": "media/hero.png",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-nexu-io-open-design#c2",
+      "text": "Supports Claude Code, Codex, Cursor, DeepSeek Harness, and 26+ CLIs via BYOK with six artifact types and live iframe preview.",
+      "kind": "capability",
+      "evidence": "Supports Claude Code, Codex, Cursor, DeepSeek Harness (dsh), 26+ CLIs via BYOK",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "93582",
+      "unit": null,
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "design-md-contract",
+    "agent-native-design-loop"
+  ],
+  "tools": [
+    "open-design",
+    "hyperframes"
+  ],
+  "links": {
+    "canonical": "https://github.com/nexu-io/open-design",
+    "repo": "https://github.com/nexu-io/open-design",
+    "paper": null,
+    "product": "https://open-design.ai",
+    "other": [
+      "https://open-design.ai/cloud/",
+      "https://discord.gg/mHAjSMV6gz"
+    ],
+    "related_items": [
+      "web-open-design-ai",
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "github-google-labs-code-design-md",
+      "github-pbakaus-impeccable"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/hero.png",
+      "type": "image",
+      "description": "Promotional graphic with classical columns and glitch overlays, headline 'The open-source Claude Design alternative', and stat cards for 150 design systems, 261 plugins, 21 coding agents, and 14 media providers.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/github-nexu-io-open-design",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills",
+      "ui-motion",
+      "video-generation"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

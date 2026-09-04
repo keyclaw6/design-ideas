@@ -1,0 +1,101 @@
+{
+  "schema_version": "1",
+  "id": "x-2088594942482374759",
+  "source_type": "x",
+  "url": "https://x.com/runinfrai/status/2088594942482374759",
+  "title": "RunInfra hosts full BF16 DeepSeek V4 Flash at 278 tok/s",
+  "author": {
+    "name": "runinfrai",
+    "handle": "runinfrai",
+    "url": "https://x.com/runinfrai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:49Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "local-inference-models",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "RunInfra announces full-precision BF16 DeepSeek V4 Flash inference at about 278 tokens per second with $0.13 per million input and $0.27 per million output tokens via its API.",
+  "question_it_answers": "What cheap hosted endpoint serves full-precision DeepSeek V4 Flash for high-volume agent loops?",
+  "claims": [
+    {
+      "id": "x-2088594942482374759#c1",
+      "text": "RunInfra claims the fastest full-precision V4 Flash inference at 278.3 tok/s with sub-dollar-per-million-token pricing.",
+      "kind": "pricing",
+      "evidence": "278.3 tok/s. $0.13/1M input. $0.27/1M output. full BF16",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "throughput",
+      "value": "278.3",
+      "unit": "tok/s",
+      "source": "post"
+    },
+    {
+      "label": "input price",
+      "value": "0.13",
+      "unit": "USD per 1M tokens",
+      "source": "post"
+    },
+    {
+      "label": "output price",
+      "value": "0.27",
+      "unit": "USD per 1M tokens",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "runinfra"
+  ],
+  "links": {
+    "canonical": "https://x.com/runinfrai/status/2088594942482374759",
+    "repo": null,
+    "paper": null,
+    "product": "https://runinfra.ai/inference-api/qwen3-8-2-4t-a95b",
+    "other": [],
+    "related_items": [
+      "x-2088695568474546387",
+      "x-2090103470015828184",
+      "x-2089165107364278341",
+      "github-superdesigndev-treg"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088594942482374759",
+    "post": "post.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

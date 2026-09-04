@@ -1,0 +1,134 @@
+{
+  "schema_version": "1",
+  "id": "x-2094688982940741816",
+  "source_type": "x",
+  "url": "https://x.com/hridoyreh/status/2094688982940741816",
+  "title": "Brave Search URL submit playbook with analytics referral proof",
+  "author": {
+    "name": "Hridoy Reh (@hridoyreh)",
+    "handle": "hridoyreh",
+    "url": "https://x.com/hridoyreh"
+  },
+  "published_at": "2026-09-01T07:29:05Z",
+  "captured_at": "2026-09-02T18:10:58Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "Hridoy Reh advocates submitting sites to Brave Search via search.brave.com/submit-url and shows a GA table where search.brave.com referral drove 1,190 sessions (1.34%) on an 88,974-session property.",
+  "question_it_answers": "How do you submit a site to Brave Search and what referral traffic might it drive?",
+  "claims": [
+    {
+      "id": "x-2094688982940741816#c1",
+      "text": "Brave submit flow is three steps: open search.brave.com/submit-url, enter the URL, and press Submit.",
+      "kind": "recipe",
+      "evidence": "Go to search∙brave∙com/submit-url.",
+      "evidence_source": "quoted-post",
+      "evidence_ref": "comments.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094688982940741816#c2",
+      "text": "Analytics screenshot highlights search.brave.com referral at 1,190 sessions (1.34%) on an 88,974-session total.",
+      "kind": "result",
+      "evidence": "search.brave.com / referral 1,190 (1.34%)",
+      "evidence_source": "media",
+      "evidence_ref": "media/photo.jpg",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "Brave referral sessions",
+      "value": "1190",
+      "unit": "sessions",
+      "source": "media"
+    },
+    {
+      "label": "Brave referral share",
+      "value": "1.34",
+      "unit": "percent",
+      "source": "media"
+    },
+    {
+      "label": "total sessions in table",
+      "value": "88974",
+      "unit": "sessions",
+      "source": "media"
+    }
+  ],
+  "techniques": [
+    "brave-search-submit",
+    "alternate-engine-indexing"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/hridoyreh/status/2094688982940741816",
+    "repo": null,
+    "paper": null,
+    "product": "https://search.brave.com/submit-url",
+    "other": [
+      "https://seowins.io/"
+    ],
+    "related_items": [
+      "web-brave-submit-url"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/photo.jpg",
+      "type": "image",
+      "description": "Dark analytics table ranking source/medium rows; search.brave.com/referral shows 1,190 visitors at 1.34% of 88,974 total sessions with a yellow arrow highlight.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/quoted-photo.jpg",
+      "type": "image",
+      "description": "Brave submit-url form with heading 'Insert the URL to be re-fetched', empty URL input, and gray Submit button.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/quoted-after.jpg",
+      "type": "image",
+      "description": "Brave submit-url form after entering https://hridoyreh.com/ showing a Success confirmation and a grayed Submitted button.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094688982940741816",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}

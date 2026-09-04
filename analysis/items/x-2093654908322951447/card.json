@@ -1,0 +1,91 @@
+{
+  "schema_version": "1",
+  "id": "x-2093654908322951447",
+  "source_type": "x",
+  "url": "https://x.com/rubenhassid/status/2093654908322951447",
+  "title": "Ruben Hassid anti-AI-slop Claude skills pack at claude-skills.free",
+  "author": {
+    "name": "Ruben Hassid (@rubenhassid)",
+    "handle": "rubenhassid",
+    "url": "https://x.com/rubenhassid"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:48Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "claude-code"
+  ],
+  "summary": "Ruben Hassid lists 12 common AI writing tells and promotes eleven free Claude skills (/writer, /editor, /ban-the-AI-words, etc.) downloadable from claude-skills.free to humanize LinkedIn and marketing copy.",
+  "question_it_answers": "Which Claude skills remove common AI writing tells like delve, tapestry, and negative parallelism?",
+  "claims": [
+    {
+      "id": "x-2093654908322951447#c1",
+      "text": "Pack includes eleven named skills such as /writer, /editor, /ban-the-AI-words, and /auto-block-banned-words.",
+      "kind": "capability",
+      "evidence": "/ban-the-AI-words",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "anti-ai-slop-editing",
+    "banned-word-audit"
+  ],
+  "tools": [
+    "claude-skills-free"
+  ],
+  "links": {
+    "canonical": "https://x.com/rubenhassid/status/2093654908322951447",
+    "repo": null,
+    "paper": null,
+    "product": "http://claude-skills.free",
+    "other": [
+      "http://how-to-ai.guide"
+    ],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Diamond infographic titled 'You sound like AI' listing twelve phrases to avoid on top and eleven slash-command Claude skills to use instead on the bottom.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093654908322951447",
+    "post": "post.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-16",
+  "written_at": "2026-09-04T18:15:00Z"
+}
