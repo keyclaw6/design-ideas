@@ -8,7 +8,7 @@
 
 <!-- NOTES:START -->
 
-## 2026-09-04 capture — HF `unsloth/Qwen3.8-27B-GGUF`
+**2026-09-04 capture — HF `unsloth/Qwen3.8-27B-GGUF`.**
 Card YAML: **apache-2.0**, `base_model: Qwen/Qwen3.8-27B`. Tree (HF API `…/tree/main`): 30 `.gguf` siblings including BF16 split + MTP. File sizes this pass (bytes):
 
 - `Qwen3.8-27B-Q4_0.gguf` **16,056,478,688** (~14.95 GiB) — tweet “~17GB RAM” is a runtime envelope, not this file size

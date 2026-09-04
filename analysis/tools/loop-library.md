@@ -19,6 +19,6 @@ Fetched 2026-09-04 https://loopany.ai/templates. Repo exists: `https://github.co
 
 Each card states cadence (always-on / daily / weekly) and output (PR, digest, alert). “Shipped in production” is still marketing on the tweet — this page does not name a customer.
 
-## 2026-09-04 capture — reddit-karma prompt body
+**2026-09-04 capture — reddit-karma prompt body.**
 Template files: `meta.json` (paste prompt in `description`), `story.md`, `reference.md`, `thumb.svg`. Prompt is a guided setup: wiki-grounded comments, draft-for-review default, shared ledger, ≥21 min gap, ≤5 posts/day, `opencli reddit` via a logged-in browser session. Author `story.md` claims comment karma **−4 → 92** over 7 days — first-party story, not independently verified. Do not treat the story chart as a bake-off.
 <!-- NOTES:END -->

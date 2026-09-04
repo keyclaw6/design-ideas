@@ -7,7 +7,7 @@
 
 <!-- NOTES:START -->
 
-## 2026-09-04 capture — OSS docs vs live neighbors
+**2026-09-04 capture — OSS docs vs live neighbors.**
 Clone `https://github.com/nolly-studio/cult-ui.git` (6106 stars, MIT). **77** `content/docs/components/*.mdx` including `ai-instructions.mdx`. Homepage `cult-ui.com` fetch hit Vercel 429. “92+ AI SDK patterns” looks Cult Pro, not the OSS docs count.
 
 **Vengeance** (no tool file — park here as neighbor): live `https://www.vengeanceui.com/` (not vengence-ui.com) **46 components / 9 families**; `npx shadcn@latest add @vengeanceui/[component]`. Registry `https://www.vengeanceui.com/r/registry.json` is a **132-item** list (includes accordion etc. — may be more than marketing 46). Repo `Ashutoshx7/VengeanceUI`.
