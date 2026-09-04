@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2093852386385150234",
-      "author_handle": "unknown",
+      "author_handle": "rvaniaaaa",
       "created_at": "2026-08-30T00:04:45Z",
       "text": "@imryven That maintenance-cost crossover is exactly where most memory systems die, mine only started working once the model started writing the wiki instead of me.",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2093957547606634724",
-      "author_handle": "unknown",
+      "author_handle": "ryanedkins",
       "created_at": "2026-08-30T07:02:37Z",
       "text": "@imryven It eventually fails. I switched to this model ish back in Q1’26.\n\nThe problem is that we are using coding agents that treat those wikis like modular code and not like a whole narrative that contains nuances that can affect historical events. Multi-factorial root causes kills it",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2093981692797010003",
-      "author_handle": "unknown",
+      "author_handle": "dparedesi",
       "created_at": "2026-08-30T08:38:34Z",
       "text": "@imryven this is why I tell people to stop running multiple agents\n\nit's unmanageable",
       "text_en": null,

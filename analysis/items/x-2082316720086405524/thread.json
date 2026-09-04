@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2082396216403403069",
-      "author_handle": "unknown",
+      "author_handle": "kunchenguid",
       "created_at": "2026-07-29T09:22:01Z",
       "text": "@kunchenguid We've built something that gives you the best of both worlds. \n\nWould love to get your feedback! \n\nhttps://t.co/OiQrgdhtYY",
       "text_en": null,
@@ -39,7 +39,7 @@
     },
     {
       "id": "2082468381673099703",
-      "author_handle": "unknown",
+      "author_handle": "HashgraphOnline",
       "created_at": "2026-07-29T14:08:47Z",
       "text": "@kunchenguid +1 to all of this! Though I'm probably even more cavalier about secrets and access my agents have through my various logins. Where we are super careful is around \"write\" access to production. Otherwise, the productivity gain from letting agents just do stuff can't be beat.",
       "text_en": null,
@@ -60,7 +60,7 @@
     },
     {
       "id": "2082413443303285195",
-      "author_handle": "unknown",
+      "author_handle": "CalvinGrunewald",
       "created_at": "2026-07-29T10:30:28Z",
       "text": "@kunchenguid Have you tried using a vps instead of your laptop? That is what I have been doing the past few months and it’s made a huge difference. Not only in case something goes wrong but also so my laptop isn’t on 24/7. I am also working a lot more from my phone using termius and herdr.",
       "text_en": null,

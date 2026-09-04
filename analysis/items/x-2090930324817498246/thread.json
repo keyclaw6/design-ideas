@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2091076800545767840",
-      "author_handle": "unknown",
+      "author_handle": "Andy_ShuoYang",
       "created_at": "2026-08-22T08:15:34Z",
       "text": "@Hesamation Yeah, you just need 192GB of RAM to hold the model. It’s bullshit",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2090965356823085474",
-      "author_handle": "unknown",
+      "author_handle": "stupid_games",
       "created_at": "2026-08-22T00:52:43Z",
       "text": "@Hesamation minecraft benchmark goes crazy",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2090999933180563827",
-      "author_handle": "unknown",
+      "author_handle": "satellitedown",
       "created_at": "2026-08-22T03:10:07Z",
       "text": "@Hesamation the hardware range here is probably the craziest part\n\naccording to the FreeToken benchmarks:\n\n8GB RTX 4060 laptop → Qwen3.6-35B at 39.3 tok/s\nRTX 5090 desktop → DeepSeek-V4-Flash 284B at ~22-25 tok/s\nRTX PRO 6000 workstation → GLM-5.2 753B at ~15 tok/s\n\nso we're now at the",
       "text_en": null,

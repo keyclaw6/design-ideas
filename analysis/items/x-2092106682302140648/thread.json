@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2092145415864922326",
-      "author_handle": "unknown",
+      "author_handle": "SipeedLab",
       "created_at": "2026-08-25T07:01:51Z",
       "text": "@SipeedLab Think of the future like engineering in star trek",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2092221652222304294",
-      "author_handle": "unknown",
+      "author_handle": "ATaylorFPGA",
       "created_at": "2026-08-25T12:04:48Z",
       "text": "@SipeedLab Why even have schematic design? The project I’m working on is using SKiDL as the netlist generator, and I drop into PCB layout skipping the formal schematic step entirely. And since everything is data in the SKiDL layer, the AI can reason about that directly.",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2092114874813780157",
-      "author_handle": "unknown",
+      "author_handle": "gburgyan",
       "created_at": "2026-08-25T05:00:30Z",
       "text": "@SipeedLab Experience and taste cannot be replaced easily.\n\nThat said vllm.cpp is shaping up, do you want it to support your new Infer Box from day 0? \n\n@mudler_it has experience with DGX Spark and contributions are welcome.",
       "text_en": null,

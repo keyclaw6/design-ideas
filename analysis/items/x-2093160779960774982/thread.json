@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2093290575449526712",
-      "author_handle": "unknown",
+      "author_handle": "EyalToledano",
       "created_at": "2026-08-28T10:52:19Z",
       "text": "@EyalToledano @HamsterResearch @huggingface Thanks for the reap_kept_experts.json. Working on adding SSD expert streaming to oMLX and was wanting a useful base for expert pinning, and this is it.",
       "text_en": null,

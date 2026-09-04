@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2091726138670284835",
-      "author_handle": "unknown",
+      "author_handle": "Andy_ShuoYang",
       "created_at": "2026-08-24T03:15:48Z",
       "text": "@TheZachMueller You’re going to need a whole lot of CPU memory too.",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2091591647142302129",
-      "author_handle": "unknown",
+      "author_handle": "alexocheema",
       "created_at": "2026-08-23T18:21:23Z",
       "text": "@TheZachMueller How much system ram do you have? I was kinda hopeful I could run deepseek v4 flash but 128GB of system ram is not enough. IIUC you need enough system ram to hold all weights unless the GPU’s can hold them all.",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2091560117447676220",
-      "author_handle": "unknown",
+      "author_handle": "matdmiller",
       "created_at": "2026-08-23T16:16:05Z",
       "text": "@TheZachMueller Thought this would be a good use case for my 256gb ddr4 2x 3090 rig, but found out it does not support using both 3090s yet. Could have been interesting for ds4",
       "text_en": null,

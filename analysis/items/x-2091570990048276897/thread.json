@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2091756330721951762",
-      "author_handle": "unknown",
+      "author_handle": "kickingkeys",
       "created_at": "2026-08-24T05:15:46Z",
       "text": "@kickingkeys if you RL on brushes _creation_ too then it'd be pretty crazy! Could ease this by doing it as a separate process instead of e2e. Then you'd be able to hot swap brushes? \n\nThere's also buildStrokeShader",
       "text_en": null,

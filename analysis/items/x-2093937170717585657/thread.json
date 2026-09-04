@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2093958879700783223",
-      "author_handle": "unknown",
+      "author_handle": "Stefan_3D_AI",
       "created_at": "2026-08-30T07:07:55Z",
       "text": "@Stefan_3D_AI Separate meshes per object is the part I'd want most. My Hunyuan3D/TRELLIS runs still land in Blender for ~20 min of vert merging before anything is editable.",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2093985670859780388",
-      "author_handle": "unknown",
+      "author_handle": "blackbox_lab",
       "created_at": "2026-08-30T08:54:22Z",
       "text": "@Stefan_3D_AI This is the first benchmark of its kind. The paper reports 0.998 nonempty recall for light detection—meaning nearly every scene has at least one light captured—with a median light error of 0.261m.",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2094008706069618742",
-      "author_handle": "unknown",
+      "author_handle": "abdulazeem_s",
       "created_at": "2026-08-30T10:25:54Z",
       "text": "@Stefan_3D_AI Image straight to an editable scene, that changes things.",
       "text_en": null,

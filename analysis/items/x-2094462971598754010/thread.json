@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2094533694379659412",
-      "author_handle": "unknown",
+      "author_handle": "garrytan",
       "created_at": "2026-08-31T21:12:01Z",
       "text": "@garrytan Most people think agent memory = vector search. It isn't. The real challenge is deciding what deserves to survive and retrieving it at exactly the right moment.",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2094500422786425104",
-      "author_handle": "unknown",
+      "author_handle": "teneo_protocol",
       "created_at": "2026-08-31T18:59:49Z",
       "text": "@garrytan the eval set and the retrieval layer have the same author. what does gbrain score on a memory benchmark somebody else wrote?",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2094476312115110338",
-      "author_handle": "unknown",
+      "author_handle": "Elev_30",
       "created_at": "2026-08-31T17:24:00Z",
       "text": "@garrytan memory evals are the part everyone skips. most agent memory demos measure 'did it store' and never 'did it retrieve the right thing under a paraphrase'. and retrieval without llm-in-loop is the latency win: sub-100ms recall instead of a full model call per lookup",
       "text_en": null,

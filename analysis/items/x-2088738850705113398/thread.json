@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2088899108127875200",
-      "author_handle": "unknown",
+      "author_handle": "threejs",
       "created_at": "2026-08-16T08:02:11Z",
       "text": "@scottstts @threejs @JungleSilicon @Andrew_Blumson check out the repo!",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2088859083835080727",
-      "author_handle": "unknown",
+      "author_handle": "KevinBlumson",
       "created_at": "2026-08-16T05:23:09Z",
       "text": "@scottstts @threejs @JungleSilicon Great work, thank you",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2088753673279242396",
-      "author_handle": "unknown",
+      "author_handle": "SurfingPigment",
       "created_at": "2026-08-15T22:24:17Z",
       "text": "@scottstts @threejs huh - did you port the webgpu flower field to 3js?",
       "text_en": null,

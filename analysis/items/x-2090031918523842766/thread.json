@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2090056277367902222",
-      "author_handle": "unknown",
+      "author_handle": "emilkowalski",
       "created_at": "2026-08-19T12:40:22Z",
       "text": "@emilkowalski @expo I like relying on iOS's default animations instead of reinventing them. Also I like the heuristics to decide animations.\n\nI' have strong conviction on these libraries:\n\npulsar(synch) &gt; expo-haptics(async)\nrive &gt; lottie",
       "text_en": null,

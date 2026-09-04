@@ -16,7 +16,7 @@
   "replies": [
     {
       "id": "2092138486329692494",
-      "author_handle": "unknown",
+      "author_handle": "ImranUxi",
       "created_at": "2026-08-25T06:34:19Z",
       "text": "@ImranUxi 2000+ 设计系统喂给 agent 之前，建议先挑 3-5 个和你产品气质最像的做成 .claude/CLAUDE.md 或 project instructions，而不是一次性全塞。agent 吃设计规范的关键是「少而一致」，多了反而互相打架。",
       "text_en": null,
@@ -37,7 +37,7 @@
     },
     {
       "id": "2092081354481791230",
-      "author_handle": "unknown",
+      "author_handle": "FucaiX62810",
       "created_at": "2026-08-25T02:47:18Z",
       "text": "@ImranUxi Two thousand real design files is a serious head start for agents.",
       "text_en": null,
@@ -58,7 +58,7 @@
     },
     {
       "id": "2091987778435452956",
-      "author_handle": "unknown",
+      "author_handle": "IDGAFACCP",
       "created_at": "2026-08-24T20:35:28Z",
       "text": "@ImranUxi We use this everyday at Rantir",
       "text_en": null,
