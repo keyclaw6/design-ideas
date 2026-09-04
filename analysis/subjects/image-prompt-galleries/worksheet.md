@@ -15,7 +15,7 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 | item | model family named | stored as code / searchable | reproducible params | license / attribution |
 |---|---|---|---|---|
 | wuyoscar gpt-image2-skill | GPT Image 2 | gallery + CLI + skill | CLI `-p` demonstrated | MIT |
-| awesome-gpt-image-2 | GPT Image 2 | 530+ examples / 20+ templates stated | template engine claimed | unknown (trending-repo tweet) |
+| awesome-gpt-image-2 | GPT Image 2 | `cases.json` **541** / images **544** / badge 544; **22** templates in style-library | template engine + live SPA `gpt-image2.canghe.ai` | MIT |
 | YouMind Nano Banana skill | Nano Banana Pro / Gemini image | **14,965** unique ids / manifest **15,508** / file-sum **22,466** (11 JSON cats; 7,299 ids in 2+ files) | top-3 + sample images stated | package.json MIT; no LICENSE file |
 | MeiGen | GPT Image, Seedance, Nano Banana, Midjourney | MCP repo `data/trending-prompts.json` **1,446**; **9** named tools | community prompts; site 403 this pass | MCP repo MIT; live gallery uncounted |
 | PRYNE brand template | GPT (implied) | one 16:9 template + fill-in line | demonstrated on-thread | author examples |
@@ -26,7 +26,7 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 
 - YouMind “10,000+” — tree counted 2026-09-04: unique ids **14,965**, manifest `totalPrompts` **15,508**, category-file sum **22,466**. Do not collapse. See [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md).
 - MeiGen “1,446+ / nine MCP tools” — repo file is **exactly 1,446**; nine `src/tools` names listed on the same NOTES. Live `meigen.ai` was Cloudflare 403 this pass.
-- awesome-gpt-image-2 2,449 stars in 24h — snapshot at capture; re-check the repo.
+- awesome-gpt-image-2 2,449 stars in 24h / 16,477 total — capture snapshot. API 2026-09-04: **28,017** stars. Case file counts on [gpt-image-2](../../tools/gpt-image-2.md).
 - Sol website prompts — the prompt text is missing; the cards say so.
 
 ## image-prompt-galleries — do not treat as load-bearing
@@ -38,5 +38,5 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 ## image-prompt-galleries — next capture work
 
 1. Save the Sol prompt text if the author posts it; until then keep those cards as examples-only.
-2. YouMind + MeiGen file counts are on [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md). Remaining: a headed MeiGen gallery count if Cloudflare clears; do not use the 403 shell.
+2. YouMind + MeiGen file counts are on [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md). awesome-gpt-image-2 tree counts are on [gpt-image-2](../../tools/gpt-image-2.md). Remaining: a headed MeiGen gallery count if Cloudflare clears; do not use the 403 shell.
 3. Fold this subject into design-agent-skills only if a later pass finds no image-only users. Grain is already inside 6–60.

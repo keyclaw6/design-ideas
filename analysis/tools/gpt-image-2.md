@@ -7,5 +7,14 @@
 - [GPT Image 2 face-swap stills plus Seedance 2.5 for realistic character video](../items/x-2094819241916801165/card.md) — technique, example — ai-video-generation
 
 <!-- NOTES:START -->
+**2026-09-04 capture — tree vs tweet 530+/20+.** Clone `freestylefly/awesome-gpt-image-2`. **MIT**. Live gallery `https://gpt-image2.canghe.ai/` HTTP 200 (SPA). GitHub API this pass: **28,017** stars / 2,695 forks (tweet snapshot was 16,477 + 2,449 in 24h).
 
+Do not collapse these case counts:
+
+- `data/cases.json` `totalCases` and `cases` array length: **541**.
+- `data/images/case*` files: **544**.
+- README badge still says **Cases-544**.
+- Tweet “530+” is older marketing.
+
+`style-library.json` lists **22** templates (tweet “20+”): ui-screenshot-system, infographic-engine, scientific-scale-diagram, poster-layout-system, sports-campaign-poster, conceptual-typography-poster, ink-double-exposure-poster, nature-science-poster, product-commerce-visual, personalized-beauty-report, brand-identity-package, brand-touchpoint-board, architecture-space, realistic-photography, street-accident-moment, illustration-art-style, character-design-sheet, 3d-collectible-toy, scene-storytelling, history-classical-themes, document-publishing, concept-product-breakdown. Also 13 categories, 19 style labels, 10 scenes.
 <!-- NOTES:END -->

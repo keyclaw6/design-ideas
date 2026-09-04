@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "x-2092222199620833420#c3",
+      "text": "A 2026-09-04 clone has 541 cases in data/cases.json, 544 case* images, and 22 templates in style-library.json; GitHub API reported 28,017 stars.",
+      "kind": "benchmark",
+      "evidence": "cases.json totalCases=541; data/images/case* =544; style-library templates=22; API stargazers_count=28017",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gpt-image-2.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": [],
@@ -58,6 +68,18 @@
       "value": "16477",
       "unit": "stars",
       "source": "post"
+    },
+    {
+      "label": "cases.json totalCases",
+      "value": "541",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "GitHub stars 2026-09-04",
+      "value": "28017",
+      "unit": "stars",
+      "source": "note"
     }
   ],
   "techniques": [
