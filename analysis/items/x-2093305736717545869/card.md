@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093305736717545869#c1` (result, stated) A Fusion MCP-built assembly with concentric rings and intersecting shafts remains aligned and inspectable under rotation, making complex geometry a better agent benchmark than simple parts. — evidence: "The harder test is how weird the assembly can get before the agent loses the plot." [post]
+- `x-2093305736717545869#c2` (capability, demonstrated) fusion-cad-mcp export() documents step and f3d among eight formats; a silent fail can return ok with bytes_written 0. No ring file was written here. — evidence: "tools.md export formats: stl, 3mf, step, iges, obj, f3d, sat, smt. Check bytes_written. This host has no Fusion seat." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [cad-agent-assembly](../../techniques/cad-agent-assembly.md), [text-to-cad](../../techniques/text-to-cad.md)

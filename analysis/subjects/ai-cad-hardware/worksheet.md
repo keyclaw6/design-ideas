@@ -31,7 +31,7 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 
 ## ai-cad-hardware — claims that need a receipt
 
-- Fusion rings “stay aligned” — must-read demo; need a STEP/F3D, not a video.
+- Fusion rings “stay aligned” — must-read demo; need a STEP/F3D, not a video. Wrapper `export` can emit `step` / `f3d` ([autodesk-fusion](../../tools/autodesk-fusion.md)) but this host has no Fusion seat.
 - Autorouter 1 minute / two layers vs four — one author’s board; no gerbers in this bank.
 - OpenEMS harness “flags SI issues” — need one before/after plot.
 - CadX / Smith / Fable W16 “one-shot manufacturable” — trailers. Do not send to a shop.
@@ -46,6 +46,6 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 
 ## ai-cad-hardware — next capture work
 
-1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools is on [autodesk-fusion](../../tools/autodesk-fusion.md). Remaining: a STEP/F3D of the ring assembly (author did not share a file).
+1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools and `export` formats (`step`, `f3d`, …) are on [autodesk-fusion](../../tools/autodesk-fusion.md). Remaining: a STEP/F3D of the ring assembly (author did not share a file; this host has no Fusion seat).
 2. Keep PCB items (autoroute, OpenEMS, Fields Studio) in a separate shortlist from CadX demos.
 3. Do not expand keyboard coverage beyond boards already in the roster.

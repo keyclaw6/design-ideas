@@ -10,4 +10,6 @@
 Fetched 2026-09-04 https://tinyshelf.co
 
 Homepage confirms: curated directory, “Every listing is reviewed before it goes live,” Google sign-in + submit. **19 categories** with live counts on the page (Productivity 123, Marketing & Sales 93, AI & ML 88, … CLI Tools 1). Counts sum to **657** listings at fetch. Tags include #free 15, #subscription 13. No Ahrefs/Moz DR number on the page — the TinyShots DR 11→46 claim stays on the tweet.
+
+**2026-09-04 re-fetch** `https://www.tinyshelf.co/` HTTP 200, same 19 category counts (still 657). `tinyshelf.com` is a parked HugeDomains page — do not use that host.
 <!-- NOTES:END -->

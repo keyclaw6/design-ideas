@@ -52,7 +52,7 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 
 ## landing-ui-motion — next capture work
 
-1. `EXAMPLES.md` has all eight grammars; uniqueness.md filmic forbids (no chapter numbers / index / jump chrome) are on [scroll-craft](../../tools/scroll-craft.md). Remaining: install once and record which forbids fire on a default Claude landing.
+1. `EXAMPLES.md` has all eight grammars; uniqueness.md filmic forbids and a local `doctor.mjs` preflight (ffmpeg 564 filters, Chrome present, playwright-core missing) are on [scroll-craft](../../tools/scroll-craft.md). Remaining: install once and record which forbids fire on a default Claude landing.
 2. Diff Cult vs Originkit vs Vengeance on one hero + one pricing section (same copy) and note mobile breakpoints. Counts are parked on [cult-ui](../../tools/cult-ui.md); same-copy render still missing.
 3. Blume homepage first-party copy is on [blume-sidecar](../../tools/blume-sidecar.md). X article `2094493136743473152` still unfetched (jina 403). Card `x-2094524951025914278` gap is `thread-partial`, not `linked-page-unfetched`.
 4. Re-fetch the failed landing-ui-motion thread listed in the brief.

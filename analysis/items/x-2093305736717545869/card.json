@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2093305736717545869#c2",
+      "text": "fusion-cad-mcp export() documents step and f3d among eight formats; a silent fail can return ok with bytes_written 0. No ring file was written here.",
+      "kind": "capability",
+      "evidence": "tools.md export formats: stl, 3mf, step, iges, obj, f3d, sat, smt. Check bytes_written. This host has no Fusion seat.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/autodesk-fusion.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],
