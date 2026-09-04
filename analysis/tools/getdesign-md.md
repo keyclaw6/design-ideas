@@ -15,5 +15,7 @@ Homepage still advertises **550+** DESIGN.md analyses and “Follows Google’s 
 
 **2026-09-04 neighbor — designmd.app (no tool file).** `https://designmd.app/` HTTP 200, **75,265** B, title **“DESIGN.md — 562 Design System Files for AI Coding Agents”**. Visible copy: “Open library · 562 documented files”, “562 DESIGN.md ready to use”, h1 **DESIGN MD (DESIGN.md)**. Mentions Claude Code / Cursor / Kiro / Windsurf / Cline. This is **not** getdesign.md and **not** the blocked designmd.me / designmd.supply hosts. Do not collapse **562** with getdesign marketing 550+ or sitemap union 627.
 
+**2026-09-04 neighbor — designengineer.tools (no tool file).** `GET https://designengineer.tools/` **200 / 138,283 B**. Title **Design Engineer Tools**. Meta curated by James Warner. **20** H2 sections (Inspiration … Emoji). **128** unique external hrefs this pass — do not collapse with a prior **129** count. Bookmark index, not a DESIGN.md pack. Receipt `designengineer-tools-2026-09-04.json`.
+
 **2026-09-04 designmd.app sitemap + library title.** `GET /sitemap.xml` is a one-child index; `sitemap-0.xml` has **198** unique `<loc>`s: **74** `/library/<slug>` style pages, **35** `/brands/<slug>` (plus 10 `/brands/category/…`), **51** blog, **12** guides. `/library` HTTP 200, **1,455,593** B, title **“DESIGN.md Library — 561 Design Systems for AI Agents”**. Do not collapse homepage **562**, library-title **561**, sitemap **198**, or library slugs **74**. No `/api/files` dump (404). Author link on the home page: `gitlab.com/fabriciotelles/vibe-styles`.
 <!-- NOTES:END -->

@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093669411685110141#c2",
+      "text": "Live GET https://designengineer.tools/ is 200 / 138,283 B. Title Design Engineer Tools. Meta: curated by James Warner. 20 H2 sections (Inspiration … Emoji). 128 unique external hrefs this pass — do not collapse with a prior 129 count. Bookmark index, not a DESIGN.md pack.",
+      "kind": "result",
+      "evidence": "analysis/_work/captures/designengineer-tools-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getdesign-md.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -67,7 +77,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-failed"
   ],
   "judge_hints": {
     "compare_with": [],

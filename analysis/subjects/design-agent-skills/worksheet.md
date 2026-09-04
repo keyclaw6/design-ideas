@@ -46,7 +46,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 - Fable 5.1 “best one-shot website” ([x-2095549461737111905](../../items/x-2095549461737111905/card.md)) — ranking language in the source; do not echo it as a finding.
 - designmd.me / designmd.supply / typeui.sh — capture blocked (Vercel 429). Treat as missing, not as products.
 
-`x-2093669411685110141` is `failed`. The linked index https://designengineer.tools/ **is live**: 20 section headings (Inspiration … Emoji) and **129 unique external hrefs** this pass. Still a bookmark list, not a DESIGN.md pack. Do not treat empty X replies as “no discussion.”
+`x-2093669411685110141` is `failed`. The linked index https://designengineer.tools/ **is live**: **20** H2s (Inspiration … Emoji) and **128** unique external hrefs this pass (prior count 129 — do not collapse). Still a bookmark list, not a DESIGN.md pack ([getdesign-md](../../tools/getdesign-md.md)). Do not treat empty X replies as “no discussion.”
 
 ## design-agent-skills — do not treat as load-bearing
 

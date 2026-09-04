@@ -1,0 +1,33 @@
+{
+  "fetched": "2026-09-05T00:10:00Z",
+  "url": "https://designengineer.tools/",
+  "http": 200,
+  "bytes": 138283,
+  "title": "Design Engineer Tools",
+  "description": "A list of useful tools for web-focused design engineers; curated by James Warner.",
+  "h2": [
+    "Inspiration",
+    "AI Code",
+    "Components",
+    "Web Utility",
+    "Desktop Utility",
+    "Video &amp; Capture",
+    "Whiteboard",
+    "Organization",
+    "Fonts",
+    "Visual",
+    "Interface",
+    "Motion",
+    "Audio",
+    "Volumetric",
+    "3D",
+    "glTF",
+    "Digital Fashion",
+    "Research",
+    "Browser",
+    "Emoji"
+  ],
+  "h2_count": 20,
+  "unique_external_hrefs": 128,
+  "note": "Bookmark index, not a DESIGN.md pack. Tweet thread remains failed."
+}
