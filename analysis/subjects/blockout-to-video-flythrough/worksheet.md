@@ -31,6 +31,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 
 ## blockout-to-video-flythrough — claims that need a receipt
 
+- Mint Studio “browser 3D camera for video” — thread failed. Author’s live product **mint.gg** is a 3D-asset + MCP pipeline, not a documented camera-path exporter ([mint-studio](../../tools/mint-studio.md)).
 - Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read).
 - MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage.
 - CozyClay $17/30s miss — useful cost signal. **MCP confirmed** in the repo: 24 tools, `npx cozyclay mcp`, AGPL-3.0 ([cozyclay](../../tools/cozyclay.md)).

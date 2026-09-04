@@ -29,7 +29,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 | Blume Sidecar | watcher | n/a | n/a | config files | n/a |
 | Sideshow.sh | visual inspect | n/a | n/a | mid | n/a |
 | pi-shepherdr | high (271-token orchestrator) | pane isolation | none | Herdr panes | multi Pi |
-| Ouroboros | paper/announce | reviewed commits | unknown | git | self-modify |
+| Ouroboros | high (MIT harness; paper + site) | reviewed commits; Hope live | Terminal-Bench / OSWorld / CL-Bench stated | git + Hope memory | self-modify |
 | Anthropic / Stanford / MDA | cookbook / paper | varies | cookbook has a task | folder-as-agent (MDA) | multi |
 | awesome lists / training hubs | index | n/a | n/a | n/a | n/a |
 
@@ -40,6 +40,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 - fini 23,999 actions in 20 minutes — warning anecdote; useful as a blast-radius story, not a benchmark.
 - Anthropic cost $0.29 → 90% less — cookbook; re-run the notebook.
 - Headlong “<10K LOC” — **README now says ~11K** (cloc, capped 11.5K). Blog 9.9K / tweet <10K are stale. Persistent-agency + $1–2/hr idle cost are first-party ([headlong](../../tools/headlong.md)).
+- Ouroboros tweet numbers match the paper (arXiv:2608.08311, https://ouroboros-agent.ai/): Terminal-Bench 2.1 Opus 5 **86.97% raw / 86.74% audited** (386/445 after one shortcut zeroed); OSWorld-Verified **90.69%** (327.39/361, non-Google-Drive); CL-Bench **0.2301** (five-rollout). Hope: 161 days to 2026-08-06, $110.6K spend, 79.7B tokens, seven surfaces. MIT (`razzant/ouroboros`). Paper uses ranking language; quote the integers only. Do not confuse with `q00/ouroboros` (spec-first workflow engine).
 
 ## agent-harness-loops — do not treat as load-bearing
 
