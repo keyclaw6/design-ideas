@@ -1,0 +1,27 @@
+{
+  "viewport": "390x844",
+  "shots": [
+    {
+      "name": "top",
+      "y": 0,
+      "bytes": 243841
+    },
+    {
+      "name": "mid",
+      "y": 900,
+      "bytes": 43608
+    },
+    {
+      "name": "end",
+      "y": 2400,
+      "bytes": 31519
+    }
+  ],
+  "metrics": {
+    "scrollHeight": 2560,
+    "innerHeight": 844,
+    "fonts": "Inter, system-ui, sans-serif",
+    "h1Size": "83.2px",
+    "heroMin": "1012.8px"
+  }
+}

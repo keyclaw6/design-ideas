@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/scroll-craft.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "github-nateherkai-scroll-craft#c4",
+      "text": "Headed Chrome 390x844 on the default-Claude fixture measured Inter, h1 83.2px, and hero min-height 1012.8px against an 844px viewport (overflow). Three viewport PNGs are under analysis/_work/captures/claude-landing-mobile/.",
+      "kind": "result",
+      "evidence": "playwright-core + google-chrome; scrollHeight 2560; top/mid/end PNGs 243841 / 43608 / 31519 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-craft.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
