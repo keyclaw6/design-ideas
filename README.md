@@ -17,5 +17,7 @@ This is **not** a product or public service. It is a structured archive of inter
 | `raw/notes/` | Long-form research and synthesis (not yet split into items) |
 | `raw/items/<id>/` | Normalized captures (one folder per bookmark/URL) |
 | `raw/_progress/` | Multi-agent orchestration state |
+| `graphify-out/` | Knowledge graph (`graph.json`) for corpus search |
+| `skills/` | Agent skills (e.g. `x-harvest-clear` for X bookmark drain) |
 
 See [SCHEMA.md](./SCHEMA.md) for item folder structure and [AGENTS.md](./AGENTS.md) for query workflow.

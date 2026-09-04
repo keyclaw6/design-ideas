@@ -1,0 +1,6 @@
+# Skip oversized local-only media (also in .gitignore)
+raw/items/x-2093374092795846745/media/
+raw/items/x-2086599657925329347/media/
+raw/items/x-2093713466955649145/media/
+raw/items/x-2095521587785081193/media/
+graphify-out/cache/

@@ -17,9 +17,23 @@ How to search this library when answering questions or continuing research.
    - `research.md` — agent synthesis or follow-ups
    - `media/` — screenshots, attachments
 
-## Graphify (future)
+## Graphify
 
-When a Graphify index exists, prefer graph queries for relationship traversal (related URLs, shared topics, author clusters). Until then, use catalog + grep/file search.
+Knowledge graph at `graphify-out/graph.json` (3100+ nodes). **Run graphify before Read/Grep/Glob** for architecture or corpus questions:
+
+```bash
+graphify query "<question>"
+graphify explain "<concept>"
+graphify path "<A>" "<B>"
+```
+
+After changing `catalog/`, `raw/`, or `scripts/`: `graphify update .`
+
+Wiki index (if present): `graphify-out/wiki/index.md`. Broad review: `graphify-out/GRAPH_REPORT.md`.
+
+## X harvest skill
+
+When draining X bookmarks/likes into this library, read and follow **`skills/x-harvest-clear/SKILL.md`**. Prefer GraphQL `DeleteBookmark` over UI clicks for unsave.
 
 ## Conventions
 

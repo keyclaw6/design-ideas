@@ -35,16 +35,17 @@ clear_bookmarks() {
   fi
   ids=$(extract_ids)
   echo "bookmarks: $ids"
-  # Unsave each visible bookmark via post detail
+  # GraphQL unsave (UI clicks often stall/re-sync — see skills/x-harvest-clear/SKILL.md)
   for id in $(echo "$ids" | python3 -c "import sys,json; [print(x) for x in json.load(sys.stdin)]" 2>/dev/null); do
     folder="$ROOT/raw/items/x-$id"
     [[ -d "$folder" ]] || echo "WARN: x-$id not on disk" >&2
-    agent-browser open "https://x.com/i/status/$id"
-    sleep 3
-    ab_tab_x
-    removed=$(agent-browser eval "(()=>{const b=document.querySelector('button[data-testid=removeBookmark]'); if(b){b.click(); return 'unsaved'} return 'none';})()")
-    if [[ "$removed" == *unsaved* ]]; then
-      echo "unsaved x-$id"
+    if [[ -n "${X_AUTH_TOKEN:-}" && -n "${X_CT0:-}" ]]; then
+      "$ROOT/scripts/x_delete_bookmark.sh" "$id" || true
+    else
+      agent-browser open "https://x.com/i/status/$id"
+      sleep 3
+      ab_tab_x
+      agent-browser eval "(()=>{const b=document.querySelector('button[data-testid=removeBookmark]'); b&&b.click(); return b?'unsaved':'none';})()"
     fi
   done
 }
