@@ -1,0 +1,51 @@
+# Judgment worksheet: Gaussian splatting (gaussian-splatting)
+
+Decision: a capture → edit → mesh/export path. The 17 primaries collapse to one technique slug (`splat-pipeline`) because workers named the same path 17 ways.
+
+## gaussian-splatting — short stack to try
+
+1. **Train / view.** LichtFeld Studio on a real GPU ([x-2091899114153754949](../../items/x-2091899114153754949/card.md) — 5M Gaussians / 30k steps / 4090, stated). Splat.js in the browser ([x-2090839282831270173](../../items/x-2090839282831270173/card.md)) when you want MIT + SfM in-tab, not a workstation bake.
+2. **Edit.** SuperSplat brush select ([x-2093397098544648516](../../items/x-2093397098544648516/card.md)). SplatPaint for paint/sculpt/relight in-browser ([x-2091943679317463153](../../items/x-2091943679317463153/card.md)). Spatial Studio if the next step is a 4K camera export rather than a mesh ([x-2094377838774472944](../../items/x-2094377838774472944/card.md)).
+3. **Splat → mesh.** Arcana Splat2Mesh Windows app ([web-arcana-splat2mesh](../../items/web-arcana-splat2mesh/card.md) and the JP launch posts). IZUTSUYA browser converter at 4dgs.jp ([x-2095336950890983773](../../items/x-2095336950890983773/card.md)) when install is the blocker. The LichtFeld → Splat2Mesh → Mimaki print ([x-2095375790875840593](../../items/x-2095375790875840593/card.md)) is the only end-to-end *print* example.
+4. **Repair sparse captures.** NVIDIA ArtiFixer ([github-nv-tlabs-ArtiFixer](../../items/github-nv-tlabs-ArtiFixer/card.md), tweet [x-2094929928865341832](../../items/x-2094929928865341832/card.md)). 14B and 1.3B checkpoints are named. This is research-weight, not a one-click phone-splat fixer.
+
+LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-2090589293677023507/card.md)), GaussianGPT, and LightFuse stay in the “read if the path dies at scale or relight” bin.
+
+## gaussian-splatting — axis scores
+
+| item | input | edit | export | local vs hosted | repair needed |
+|---|---|---|---|---|---|
+| LichtFeld Studio | video / images (implied) | train-centric | splat; feeds Splat2Mesh in the print demo | local GPU (4090 cited) | if capture is sparse → ArtiFixer |
+| Splat.js | images in-browser + SfM | train in-tab | web splat | local browser | unknown on phone video |
+| SuperSplat | existing splat | brush select | editor | local / web | n/a |
+| SplatPaint | splat *or* image/logo/model | paint, sculpt, relight, FX | browser scene | hosted sandbox | n/a |
+| Spatial Studio | splat capture | camera path | 4K video | in-browser | n/a (leaves splat-land) |
+| Splat2Mesh (Arcana) | 3DGS PLY | none | OBJ/GLB; print via Mimaki demo | local CPU, no GPU claimed | mesh quality unknown |
+| IZUTSUYA 4dgs.jp | PLY | none | GLB/STL/OBJ | browser beta | unknown |
+| ArtiFixer | sparse 3DGRUT / broken scan | diffusion fill | repaired splat/scan | local, heavy weights | this *is* the repair step |
+| Aholo / LOD / SPZ | city-scale splat | view | browser stream | viewer | n/a |
+| LightFuse | multi-scan | relight / materials | research recon | research | n/a |
+| GaussianGPT | tokens (gen, not capture) | none | generated splat scene | research | n/a |
+
+## gaussian-splatting — claims that need a receipt
+
+- Splat2Mesh “free personal / non-commercial” and “no GPU” — repeated across EN + JP posts. Need the installer EULA and a timed conversion on a known PLY.
+- LichtFeld 5M / 30k / 4090 — one benchmark tweet; no wall-clock, no VRAM, no quality still.
+- Aholo “billion splats in the browser” — secondary citation in a roundup, not a first-party capture.
+- ArtiFixer checkpoint sizes (~16.9B / ~1.68B) — from the card’s HF note; confirm filenames before planning VRAM.
+- Print path LichtFeld → Splat2Mesh → Mimaki 3DUJ-2207 — empty thread, demo only. Need whether the mesh is watertight.
+
+Two threads in this subject are `failed` ([x-2094769581965369822](../../items/x-2094769581965369822/thread.md), [x-2095136786095951924](../../items/x-2095136786095951924/thread.md)). Do not read silence as “no discussion.”
+
+## gaussian-splatting — do not treat as load-bearing
+
+- Four Japanese launch posts that only restated Splat2Mesh v1.0. One product page is enough ([web-arcana-splat2mesh](../../items/web-arcana-splat2mesh/card.md)).
+- GaussianGPT / LightFuse until there is a runnable repo in this bank.
+- Spatial Studio 4K export if the owner’s question is *mesh*, not *video*.
+
+## gaussian-splatting — next capture work
+
+1. Download or screenshot the Splat2Mesh EULA and a conversion of a public PLY (e.g. a PlayCanvas sample).
+2. Re-fetch the two `failed` threads (LightFuse, one Splat2Mesh JP post).
+3. Record whether IZUTSUYA STL is manifold enough for print vs Arcana OBJ/GLB.
+4. Decide ArtiFixer: phone capture vs research scan. Nothing in this bank tests a handheld video.

@@ -1,0 +1,51 @@
+# Judgment worksheet: blockout → video flythrough (blockout-to-video-flythrough)
+
+Owner question: a *repeatable camera stage*, not the newest video model. 23 primaries; the internal BESS note is the north star.
+
+## blockout-to-video-flythrough — short stack to try
+
+Three camera stages appear. Pick one stage, then one conditioner.
+
+1. **Blender as the stage (BESS).** Research note [note-blender-minimax-h3-video-generation](../../items/note-blender-minimax-h3-video-generation/card.md): blender-mcp blockout + camera, depth/EXR, then MiniMax H3 / Seedance. Live demos: cafe flythrough Seedance 2.0/2.5 ([x-2087565352372723955](../../items/x-2087565352372723955/card.md) — must-read), Higgsfield MCP gray-box ([x-2093663876692754713](../../items/x-2093663876692754713/card.md), [x-2093377271771865267](../../items/x-2093377271771865267/card.md)), ComfyUI Blender motion + H3 env ([x-2092679517588574690](../../items/x-2092679517588574690/card.md)).
+2. **Unreal as the stage.** Claude + Unreal MCP CineCamera / Level Sequence ([x-2092008677834387672](../../items/x-2092008677834387672/card.md) — must-read). Use when the blockout is already an engine scene.
+3. **Browser previs when Blender is the cost.** CozyClay + MCP ([x-2091577179914338583](../../items/x-2091577179914338583/card.md), timeline handles [x-2091722166685610284](../../items/x-2091722166685610284/card.md)). Mint Studio / Intangible / MiniMax 3D Director Stage are hosted camera boxes ([x-2093051654937423887](../../items/x-2093051654937423887/card.md), [x-2093380307735232543](../../items/x-2093380307735232543/card.md), [x-2093053568748319181](../../items/x-2093053568748319181/card.md)). Magnific 3D Motion exports a path as a Seedance reference ([x-2091913781236683162](../../items/x-2091913781236683162/card.md)).
+
+Conditioners seen: Seedance 2.0/2.5 motion or first/last-ish reference, MiniMax H3 + depth, Higgsfield in-Blender reblock.
+
+Block the scene before spending credits ([x-2093374092795846745](../../items/x-2093374092795846745/card.md)). CozyClay exists because a miss cost $17/30s.
+
+## blockout-to-video-flythrough — axis scores
+
+| item | camera authored in 3D | reference conditioning | MCP/agent rebuild | repeatable shots | target model |
+|---|---|---|---|---|---|
+| BESS note | high (Blender camera) | high (depth / EXR / H3) | high (blender-mcp) | designed for it | MiniMax H3, Seedance, Veo family |
+| cafe Seedance flythrough | high (.blend camera) | high (3D camera → Seedance) | mid (Claude Opus 5 once) | unknown (one demo) | Seedance 2.0/2.5 |
+| Higgsfield MCP gray-box | high | high (path as motion ref) | high (Claude Desktop + MCP) | mid (four-step writeup) | Seedance 2.5 |
+| ComfyUI + H3 | high | high (blockout motion + still) | mid (graph, not MCP) | mid | MiniMax H3 |
+| Unreal MCP CineCamera | high (Level Sequence) | unknown (engine shot, not always a video model) | high | mid (one demo) | Unreal render or later model |
+| CozyClay | mid (browser previs) | low (previs only) | high (MCP) | high (iterate before pay) | whatever you send next |
+| Mint / Intangible | high (browser 3D cam) | unknown | low–mid | unknown | their renderer |
+| MiniMax 3D Director | high | mid (H3 still drifts) | low | mid | H3 |
+| Magnific 3D Motion | high | high (export → Seedance 2.5) | low | mid | Seedance 2.5 |
+| kitchen / alchemist MCP builds | high (Blender world) | n/a (they stop at the scene) | high | unknown | none — these are worlds, not spots |
+
+## blockout-to-video-flythrough — claims that need a receipt
+
+- Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read).
+- MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage.
+- CozyClay $17/30s miss — useful cost signal; confirm the current CozyClay repo still has MCP.
+- Unreal MCP shot — Level Sequence exists in the demo; whether it then hits Seedance/H3 is not in the card.
+- GLM kitchen “not a generated video” — adjacent to freedom-modeling; do not file it as a finished spot.
+
+## blockout-to-video-flythrough — do not treat as load-bearing
+
+- Ponyo timelapse and Eyecannndy bookmarks — camera *taste*, not a pipeline.
+- npaka CLI-vs-MCP note — operations, not a shot recipe.
+- Codex rigid-body desk clip — Blender via Python, no video model.
+
+## blockout-to-video-flythrough — next capture work
+
+1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file).
+2. Fetch CozyClay README + MCP tools.
+3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
+4. Do not expand this lane with more model-launch tweets.

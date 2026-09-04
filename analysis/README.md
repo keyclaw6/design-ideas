@@ -6,9 +6,10 @@ This is the only tree a later agent should read. Raw harvest stays under `raw/`.
 
 1. Open `subjects.json` and pick a slug (`serp-ai-visibility` for SERP / “syrups” optimization; `image-to-3d-world` for “freedom modeling”; `gaussian-splatting` for 3DGS).
 2. Read `subjects/<slug>/brief.md`.
-3. Scan `subjects/<slug>/claims.jsonl`.
-4. Open the technique pages listed in the brief.
-5. Open `items/<id>/card.md` for ids the brief marks `must_read`.
+3. If it exists, read `subjects/<slug>/worksheet.md` (short stack + axis scores; not a ranking).
+4. Scan `subjects/<slug>/claims.jsonl`.
+5. Open the technique pages listed in the brief.
+6. Open `items/<id>/card.md` for ids the brief marks `must_read`.
 
 Do not open `raw/` unless the card's `readiness` is `ready-with-gaps` or `blocked`.
 
