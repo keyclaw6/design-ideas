@@ -70,6 +70,16 @@
       "evidence_ref": "analysis/tools/openviking.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2091169290661838965#c5",
+      "text": "Local OpenViking 0.4.17.1 on :1933 (dev auth, no VLM) wrote viking://resources/probe/hello.md (32 B) and read it back. GET /health ok; fs/ls of viking:// shows resources+user; MCP initialize 2025-11-25 lists the same 15 tools.",
+      "kind": "result",
+      "evidence": "analysis/_work/captures/openviking-local-session.json; observer 16 local bge-small-zh calls / 505 tokens. Thread still captured_partial.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openviking.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
