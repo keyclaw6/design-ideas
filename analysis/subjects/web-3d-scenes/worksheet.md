@@ -49,7 +49,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 
 ## web-3d-scenes — next capture work
 
-1. README says vanilla Three + example library (not R3F). Remaining: open one gallery example and record whether it is a runnable scene or a still.
+1. Gallery is **40 runnable `scene.js` files** (opened filmic-lens-flare: `three/webgpu`). See [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md). Remaining: headed FPS / GPU evidence from `threejs-visual-validation`.
 2. Transfer sizes are on the tool NOTES. Remaining: headed FPS on a laptop GPU (not run here).
 3. Re-open [x-2089400082550620636](../../items/x-2089400082550620636/thread.md) (55 replies / 1 captured) for /improve-threejs install path.
 4. Keep splat viewers out of this stack; if the page *is* a splat, use the gaussian-splatting worksheet.
