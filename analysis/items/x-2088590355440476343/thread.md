@@ -8,21 +8,21 @@
 **Quoted.**
 > **@mfpiccolo** · 2086067548999548956
 > How do we feel about node workflows? 
-To understand your codebase.
-
-Shipping in the next update of (open source) HQ Flow!
-https://t.co/abPVj6fHns
-
-Changes:
-- The cards gain some color in gradient bleed theme.
-- The cards when moved around have dynamic edge anchors so they move https://t.co/qmRxtpUfhc
+> To understand your codebase.
+> 
+> Shipping in the next update of (open source) HQ Flow!
+> https://t.co/abPVj6fHns
+> 
+> Changes:
+> - The cards gain some color in gradient bleed theme.
+> - The cards when moved around have dynamic edge anchors so they move https://t.co/qmRxtpUfhc
 
 **Relevant replies (1 of 3 captured).**
 > **@mfpiccolo** · 2088664423955099738 · depth 1 · link
 > @mfpiccolo Absolutely love diagrams. That's why im building an open-source free local codebase visualization tool!
-
-Try it out here: https://t.co/abPVj6fHns
-
-https://t.co/WZcbOIv0ZQ
+> 
+> Try it out here: https://t.co/abPVj6fHns
+> 
+> https://t.co/WZcbOIv0ZQ
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

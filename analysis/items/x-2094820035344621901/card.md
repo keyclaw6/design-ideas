@@ -17,8 +17,8 @@
 **Links.** https://frm.theventurecodex.com/, https://theventurecodex.com/, https://postround.substack.com/, https://theventurecodex.com/browse
 **Related items.** —
 **Media.**
-`media/thumb.jpg` (image, carries_technique=false) — FRM Funds dashboard screenshot listing 160 tracked funds for ElevenLabs with match scores, locations, and pipeline columns.
-`media/video.mp4` (video, carries_technique=false) — 13.6-second product walkthrough of the Venture Codex FRM fund-tracking interface at 1366x720.
+`raw/items/x-2094820035344621901/media/thumb.jpg` (image, carries_technique=false) — FRM Funds dashboard screenshot listing 160 tracked funds for ElevenLabs with match scores, locations, and pipeline columns.
+`raw/items/x-2094820035344621901/media/video.mp4` (video, carries_technique=false) — 13.6-second product walkthrough of the Venture Codex FRM fund-tracking interface at 1366x720.
 **Thread.** captured_partial · reported 4 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —
 **Shelf reason.** The Venture Codex FRM is a venture fundraising CRM with wave scheduling and optional MCP access—fundraising operations are outside this corpus's SEO, 3D, design-skill, and agent-harness subjects.

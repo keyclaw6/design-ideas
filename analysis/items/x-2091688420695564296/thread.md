@@ -9,7 +9,7 @@
 **Relevant replies (1 of 3 captured).**
 > **@minhsmind** · 2091883501205234075 · depth 1 · counter-claim
 > @_adishj "can you believe that every pixel here is fully editable?"
-
-I'll be honest, i don't even know what that means, but sick video.
+> 
+> I'll be honest, i don't even know what that means, but sick video.
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

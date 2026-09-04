@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2087962842985058365](../x-2087962842985058365/card.md), [x-2088281537427235320](../x-2088281537427235320/card.md), [x-2087240056037908509](../x-2087240056037908509/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — iPhone chat UI for Edge8-35B showing on-device MoE streaming prompts like palindrome-check and attention explainers.
+`raw/items/x-2087562269807030754/media/media_0.jpg` (video, carries_technique=false) — iPhone chat UI for Edge8-35B showing on-device MoE streaming prompts like palindrome-check and attention explainers.
 **Thread.** captured_partial · reported 32 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

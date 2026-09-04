@@ -17,4 +17,4 @@
 **Links.** product (https://www.utsubo.com/)
 **Related items.** [web-oryzo-ai](../web-oryzo-ai/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

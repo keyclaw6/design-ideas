@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2094929928865341832](../x-2094929928865341832/card.md), [x-2094648474377839018](../x-2094648474377839018/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — Screen recording demonstrating brush-based selection of Gaussian splats in SuperSplat editor.
+`raw/items/x-2093397098544648516/media/media_0.mp4` (video, carries_technique=true) — Screen recording demonstrating brush-based selection of Gaussian splats in SuperSplat editor.
 **Thread.** captured_partial · reported 4 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

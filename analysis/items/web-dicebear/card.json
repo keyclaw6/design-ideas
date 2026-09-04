@@ -95,9 +95,7 @@
     "compare_with": [
       "web-tinyshots"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "API pattern, editor, and Figma custom-style workflow for marketing-site avatars."
   },
   "worker": "cards-07",

@@ -17,4 +17,4 @@
 **Links.** product (https://tinyshots.app)
 **Related items.** [web-tinyshelf](../web-tinyshelf/card.md), [web-animos-editor](../web-animos-editor/card.md), [web-lottiefiles](../web-lottiefiles/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-dicebear](../web-dicebear/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [web-tinyshelf](../web-tinyshelf/card.md), [web-animos-editor](../web-animos-editor/card.md)
+**Judge hints.** must_read: False · compare with: [web-tinyshelf](../web-tinyshelf/card.md), [web-animos-editor](../web-animos-editor/card.md)

@@ -17,12 +17,12 @@
 **Links.** —
 **Related items.** [x-2088594942482374759](../x-2088594942482374759/card.md), [x-2089165107364278341](../x-2089165107364278341/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Black promo card: Google Gemini logo and STUDENT PLAN FOR 1 YEAR AT NO COST with eligibility disclaimer.
-`media/media_1.jpg` (image, carries_technique=false) — Black graphic highlighting STORE MORE WITH 5 TB and a focused PDF syllabus pill icon.
-`media/media_2.jpg` (image, carries_technique=false) — Study UI mockup with STUDY WITH NOTEBOOKS header and sidebar listing Library and Astrophysics notebook.
-`media/media_3.jpg` (image, carries_technique=false) — Call-to-action card CLAIM YOUR STUDENT PLAN FOR 1 YEAR AT NO COST with goo.gle/student URL.
-`media/media_4.jpg` (image, carries_technique=false) — VISUALIZE IDEAS header above a colorful 3D DNA helix model on dark background.
-`media/media_5.jpg` (image, carries_technique=false) — UPLOAD UNLIMITED FILES headline surrounded by floating biology study assets and PDF tiles.
+`raw/items/x-2090165248196252003/media/media_0.jpg` (image, carries_technique=false) — Black promo card: Google Gemini logo and STUDENT PLAN FOR 1 YEAR AT NO COST with eligibility disclaimer.
+`raw/items/x-2090165248196252003/media/media_1.jpg` (image, carries_technique=false) — Black graphic highlighting STORE MORE WITH 5 TB and a focused PDF syllabus pill icon.
+`raw/items/x-2090165248196252003/media/media_2.jpg` (image, carries_technique=false) — Study UI mockup with STUDY WITH NOTEBOOKS header and sidebar listing Library and Astrophysics notebook.
+`raw/items/x-2090165248196252003/media/media_3.jpg` (image, carries_technique=false) — Call-to-action card CLAIM YOUR STUDENT PLAN FOR 1 YEAR AT NO COST with goo.gle/student URL.
+`raw/items/x-2090165248196252003/media/media_4.jpg` (image, carries_technique=false) — VISUALIZE IDEAS header above a colorful 3D DNA helix model on dark background.
+`raw/items/x-2090165248196252003/media/media_5.jpg` (image, carries_technique=false) — UPLOAD UNLIMITED FILES headline surrounded by floating biology study assets and PDF tiles.
 **Thread.** captured_partial · reported 563 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Official @GeminiApp back-to-school giveaway offering one free year of Google AI Pro or Plus to eligible students; campaign creatives only, no reusable workflow or API detail.

@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/jau123/MeiGen-AI-Design-MCP), product (https://www.meigen.ai/app)
 **Related items.** [github-wuyoscar-gpt-image2-skill](../github-wuyoscar-gpt-image2-skill/card.md), [github-youmind-openlab-nano-banana-pro-prompts](../github-youmind-openlab-nano-banana-pro-prompts/card.md), [web-fal-ai](../web-fal-ai/card.md), [web-sceneai-art](../web-sceneai-art/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

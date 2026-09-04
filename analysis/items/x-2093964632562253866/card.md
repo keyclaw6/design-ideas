@@ -19,6 +19,6 @@
 **Links.** product (https://search.brave.com/submit-url)
 **Related items.** [web-brave-submit-url](../web-brave-submit-url/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Screenshot of Brave's minimal submit-url page with a URL input field labeled Insert the URL to be re-fetched and a gray Submit button.
+`raw/items/x-2093964632562253866/media/media_0.jpg` (image, carries_technique=true) — Screenshot of Brave's minimal submit-url page with a URL input field labeled Insert the URL to be re-fetched and a gray Submit button.
 **Thread.** captured_partial · reported 18 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [web-brave-submit-url](../web-brave-submit-url/card.md)
+**Judge hints.** must_read: False · compare with: [web-brave-submit-url](../web-brave-submit-url/card.md)

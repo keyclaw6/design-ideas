@@ -20,6 +20,6 @@
 **Links.** product (https://www.starbornai.com/), https://starbornai.com/home-twitter, https://www.linkedin.com/in/leadgenwiz
 **Related items.** [x-2095214420398121034](../x-2095214420398121034/card.md)
 **Media.**
-`media/lead-magnet-banner.jpg` (image, carries_technique=false) — Wide LinkedIn engagement screenshot showing 3,152 reactions, 12,341 comments, 36 reposts, and 1.4M impressions as social proof.
+`raw/items/x-2095060844547592437/media/lead-magnet-banner.jpg` (image, carries_technique=false) — Wide LinkedIn engagement screenshot showing 3,152 reactions, 12,341 comments, 36 reposts, and 1.4M impressions as social proof.
 **Thread.** captured_partial · reported 15 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [x-2095214420398121034](../x-2095214420398121034/card.md)
+**Judge hints.** must_read: False · compare with: [x-2095214420398121034](../x-2095214420398121034/card.md)

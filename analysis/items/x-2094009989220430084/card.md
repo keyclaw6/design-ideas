@@ -21,6 +21,6 @@
 **Links.** product (https://motionsites.ai/), https://motionsites.ai/
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Attached promo video showcasing motionsites.ai animation prompt library previews and site examples.
+`raw/items/x-2094009989220430084/media/media_0.jpg` (video, carries_technique=false) — Attached promo video showcasing motionsites.ai animation prompt library previews and site examples.
 **Thread.** captured_partial · reported 19 · captured 2 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

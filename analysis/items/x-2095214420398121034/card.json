@@ -93,7 +93,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.mp4",
+      "path": "raw/items/x-2095214420398121034/media/media_0.mp4",
       "type": "video",
       "description": "Promo screen recording listing MapsData per-thousand lead pricing tiers, scrape volume caps, and live scraping features.",
       "skip_reason": null,
@@ -115,9 +115,7 @@
       "web-treg-people-search",
       "x-2094927852399624557"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Outbound lead-data pricing pointer; re-judged from legacy filtered to outbound GTM."
   },
   "worker": "cards-11",

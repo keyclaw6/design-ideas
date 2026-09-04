@@ -18,4 +18,4 @@
 **Links.** product (https://app.flowmapp.com/signup)
 **Related items.** [web-checklist-design](../web-checklist-design/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-neuform-ai](../web-neuform-ai/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [web-checklist-design](../web-checklist-design/card.md), [web-neuform-ai](../web-neuform-ai/card.md)
+**Judge hints.** must_read: False · compare with: [web-checklist-design](../web-checklist-design/card.md), [web-neuform-ai](../web-neuform-ai/card.md)

@@ -18,4 +18,4 @@
 **Links.** https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions, https://www.iandmacomber.com/blog/post-ai-data-stack, https://davidgasquez.com/context-engineering-is-a-data-problem
 **Related items.** [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [web-iandmacomber-post-ai-data-stack](../web-iandmacomber-post-ai-data-stack/card.md), [web-chatgpt-training](../web-chatgpt-training/card.md), [web-graphed](../web-graphed/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
+**Judge hints.** must_read: False · compare with: [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)

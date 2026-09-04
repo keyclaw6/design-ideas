@@ -20,6 +20,6 @@
 **Links.** repo (https://github.com/petergyang/human-review), https://creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually
 **Related items.** [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [x-2086715093707063445](../x-2086715093707063445/card.md), [x-2086845465140842638](../x-2086845465140842638/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Demo video shows the human-review visual editor with inline text editing on a landing page paragraph instead of chat-only feedback.
+`raw/items/x-2085006701984698712/media/media_0.jpg` (video, carries_technique=true) — Demo video shows the human-review visual editor with inline text editing on a landing page paragraph instead of chat-only feedback.
 **Thread.** captured_partial · reported 73 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

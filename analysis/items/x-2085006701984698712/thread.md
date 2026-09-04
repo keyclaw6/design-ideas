@@ -15,7 +15,7 @@
 
 > **@skinny_danger** · 2085389861054185602 · depth 1 · answered-question
 > @petergyang omg built this for myself (also called it google docs for my text files). was limited to just text edits though! 
-
-this seems like it also includes visuals i.e. UI so might give it a spin!
+> 
+> this seems like it also includes visuals i.e. UI so might give it a spin!
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

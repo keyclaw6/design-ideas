@@ -19,5 +19,5 @@ That 3D camera move becomes the reference for Seedance." [post]
 **Links.** —
 **Related items.** [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [web-fal-ai](../web-fal-ai/card.md)
 **Media.** —
-**Thread.** captured_partial · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
+**Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2092008677834387672](../x-2092008677834387672/card.md)

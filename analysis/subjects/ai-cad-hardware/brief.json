@@ -23,8 +23,8 @@
   "thread_coverage": {
     "x_items": 17,
     "captured_full": 0,
-    "captured_partial": 16,
-    "empty": 1,
+    "captured_partial": 14,
+    "empty": 3,
     "failed": 0
   },
   "techniques": [
@@ -65,5 +65,5 @@
     "gaussian-splatting"
   ],
   "written_by": "subject-ai-cad-hardware",
-  "written_at": "2026-09-04T18:39:00Z"
+  "written_at": "2026-09-04T18:45:50Z"
 }

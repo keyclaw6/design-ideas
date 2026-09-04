@@ -18,4 +18,4 @@
 **Related items.** [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md), [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [x-2088599468698751328](../x-2088599468698751328/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 54 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md)
+**Judge hints.** must_read: False · compare with: [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md)

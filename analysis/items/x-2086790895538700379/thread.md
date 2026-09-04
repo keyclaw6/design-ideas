@@ -8,8 +8,8 @@
 **Quoted.**
 > **@jasonzhou1993** · 2086790897489129484
 > Most loops listed there are actually what we run in @SuperDesignDev now,
-
-Will keep sharing more learnings if you wanna follow along
+> 
+> Will keep sharing more learnings if you wanna follow along
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

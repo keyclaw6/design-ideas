@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/google-labs-code/design.md), product (https://stitch.withgoogle.com/docs/design-md/specification)
 **Related items.** [web-getdesign-md](../web-getdesign-md/card.md), [web-sokosumi-design-md](../web-sokosumi-design-md/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)
 **Media.** —
-**Judge hints.** must_read: ['research.md'] · compare with: [web-getdesign-md](../web-getdesign-md/card.md), [web-designmd-me](../web-designmd-me/card.md)
+**Judge hints.** must_read: False · compare with: [web-getdesign-md](../web-getdesign-md/card.md), [web-designmd-me](../web-designmd-me/card.md)

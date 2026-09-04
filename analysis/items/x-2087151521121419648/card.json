@@ -85,7 +85,7 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
+  "readiness": "ready",
   "gaps": [],
   "judge_hints": {
     "compare_with": [],

@@ -18,6 +18,6 @@
 **Links.** http://eyecannndy.com, http://sesohq.com/pages/moodboards, http://tapirconvert.com/video-upscaler
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Screenshot graphic listing three bookmarked filmmaker websites with emoji labels for camera techniques, moodboards, and upscaling.
+`raw/items/x-2093986548404428942/media/media_0.jpg` (image, carries_technique=false) — Screenshot graphic listing three bookmarked filmmaker websites with emoji labels for camera techniques, moodboards, and upscaling.
 **Thread.** captured_partial · reported 18 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2091497597743612379](../x-2091497597743612379/card.md)
+**Judge hints.** must_read: False · compare with: [x-2091497597743612379](../x-2091497597743612379/card.md)

@@ -65,7 +65,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2087898602890744089/media/media_0.jpg",
       "type": "image",
       "description": "Rakazo landing page mockup showing bot directory, inbox-manager chat, and Gmail routine controls.",
       "skip_reason": null,
@@ -87,7 +87,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-14",

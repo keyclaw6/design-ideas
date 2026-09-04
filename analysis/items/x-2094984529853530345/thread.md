@@ -8,17 +8,17 @@
 **Quoted.**
 > **@himanshubuildss** · 2094984533078876523
 > The multi-agent pipeline:  
-
-1️⃣ Assets: Pinterest for UI reference + ChatGPT to generate the neural-interface subject.  
-2️⃣ Cinematic Motion: Google Gemini to animate the still portrait into a fluid video.  
-3️⃣ Extraction: Ezgif to slice the video into 300 sequential frames
+> 
+> 1️⃣ Assets: Pinterest for UI reference + ChatGPT to generate the neural-interface subject.  
+> 2️⃣ Cinematic Motion: Google Gemini to animate the still portrait into a fluid video.  
+> 3️⃣ Extraction: Ezgif to slice the video into 300 sequential frames
 
 > **@himanshubuildss** · 2094984535503204553
 > You don’t have to spend hours fighting with AI to recreate this.  
-
-I packaged the entire architecture—the Framer Motion math, the scroll choreography, and the exact Claude prompts—into a single blueprint.  
-
-Check Link in Bio ✌️
+> 
+> I packaged the entire architecture—the Framer Motion math, the scroll choreography, and the exact Claude prompts—into a single blueprint.  
+> 
+> Check Link in Bio ✌️
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

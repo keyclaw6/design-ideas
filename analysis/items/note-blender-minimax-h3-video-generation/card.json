@@ -116,9 +116,7 @@
       "x-2093374092795846745",
       "x-2093064017468145963"
     ],
-    "must_read": [
-      "blender-minimax-h3-video-generation.md"
-    ],
+    "must_read": false,
     "why_must_read": "Canonical BESS pipeline synthesis with model matrix, licensing traps, and step-by-step stages."
   },
   "worker": "cards-07",

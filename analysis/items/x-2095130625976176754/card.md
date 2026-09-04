@@ -18,6 +18,6 @@
 **Links.** product (https://blogr.ai/), https://blogr.ai/tools/topical-map-generator, https://blogr.ai/tools
 **Related items.** —
 **Media.**
-`media/card.jpg` (image, carries_technique=false) — Blogr.ai promo card: Grow Your Website SEO While You Sleep with mock article climbing from position 12 to 4 and +620 impressions.
+`raw/items/x-2095130625976176754/media/card.jpg` (image, carries_technique=false) — Blogr.ai promo card: Grow Your Website SEO While You Sleep with mock article climbing from position 12 to 4 and +620 impressions.
 **Thread.** captured_partial · reported 4 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

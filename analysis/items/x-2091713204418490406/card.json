@@ -64,7 +64,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2091713204418490406/media/media_0.jpg",
       "type": "image",
       "description": "OpenStory GitHub README screenshot listing script analysis, Fal.ai image generation, image-to-video motion, style consistency, and Cloudflare deploy features.",
       "skip_reason": null,

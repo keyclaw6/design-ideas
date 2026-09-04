@@ -77,9 +77,7 @@
       "github-emilkowalski-skills",
       "github-cathrynlavery-diagram-design"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Pasteable anti-rainbow rule for README and DESIGN doc diagrams."
   },
   "worker": "cards-11",

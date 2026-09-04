@@ -15,8 +15,8 @@
 
 > **@SharonThom17106** · 2092201745233678804 · depth 1 · link
 > @tom_doerr Being able to self Host and owning the data is going to be the new norm in coming years. Instead, it's already here...
-
-With same concept in mind, I developed Invoice 360, a fully on-device Invoice builder for all your businesses managed via your phone.
-https://t.co/TP0Zbr5HkF https://t.co/u9fueVGYdE
+> 
+> With same concept in mind, I developed Invoice 360, a fully on-device Invoice builder for all your businesses managed via your phone.
+> https://t.co/TP0Zbr5HkF https://t.co/u9fueVGYdE
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

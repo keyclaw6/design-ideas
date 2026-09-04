@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 94 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Gateway discount post lists $0.012 in and $0.04 out per million tokens through September with no GGUF, MLX, or self-host runnable detail in the capture.

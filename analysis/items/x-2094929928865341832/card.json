@@ -88,16 +88,16 @@
   },
   "media": [
     {
-      "path": "media/video.mp4",
-      "type": "video",
-      "description": "Sixteen second comparison video showing ArtiFixer3D+ producing a sharp bicycle-and-bench scene versus blurry 3DGUT, GenFusion, and GSFixer outputs.",
+      "path": "raw/items/x-2094929928865341832/media/thumb.jpg",
+      "type": "image",
+      "description": "Static four-panel grid comparing 3DGUT, GenFusion, GSFixer noise against a sharp ArtiFixer3D+ bicycle beside a park bench.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/thumb.jpg",
-      "type": "image",
-      "description": "Static four-panel grid comparing 3DGUT, GenFusion, GSFixer noise against a sharp ArtiFixer3D+ bicycle beside a park bench.",
+      "path": "raw/items/x-2094929928865341832/media/video.mp4",
+      "type": "video",
+      "description": "Sixteen second comparison video showing ArtiFixer3D+ producing a sharp bicycle-and-bench scene versus blurry 3DGUT, GenFusion, and GSFixer outputs.",
       "skip_reason": null,
       "carries_technique": true
     }
@@ -122,9 +122,7 @@
       "github-nv-tlabs-ArtiFixer",
       "x-2094648474377839018"
     ],
-    "must_read": [
-      "github-nv-tlabs-ArtiFixer"
-    ],
+    "must_read": false,
     "why_must_read": "Official repo and paper supersede aggregator tweet stats."
   },
   "schema_version": "1",

@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2088016749849682120](../x-2088016749849682120/card.md), [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [x-2087329201451855933](../x-2087329201451855933/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Attached demo video showing the harness canvas worker rendering an architecture diagram inside the chat UI.
+`raw/items/x-2088590355440476343/media/media_0.jpg` (video, carries_technique=false) — Attached demo video showing the harness canvas worker rendering an architecture diagram inside the chat UI.
 **Thread.** captured_partial · reported 4 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

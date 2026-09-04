@@ -18,7 +18,7 @@
 **Links.** product (https://www.scrolltide.co/), https://www.scrolltide.co/ebook
 **Related items.** [x-2094978216146452971](../x-2094978216146452971/card.md)
 **Media.**
-`media/thumb.jpg` (image, carries_technique=false) — Braix hero screenshot with red/orange futuristic portrait, glassmorphism brain widgets, and scroll-to-explore indicator.
-`media/video.mp4` (video, carries_technique=false) — 12-minute demo video not transcribed; workflow captured in author thread.
+`raw/items/x-2094984529853530345/media/thumb.jpg` (image, carries_technique=false) — Braix hero screenshot with red/orange futuristic portrait, glassmorphism brain widgets, and scroll-to-explore indicator.
+`raw/items/x-2094984529853530345/media/video.mp4` (video, carries_technique=false) — 12-minute demo video not transcribed; workflow captured in author thread.
 **Thread.** captured_partial · reported 5 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['comments.md', 'research.md'] · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md)
+**Judge hints.** must_read: False · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md)

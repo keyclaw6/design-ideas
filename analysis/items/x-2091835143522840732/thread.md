@@ -8,8 +8,8 @@
 **Quoted.**
 > **@basit_designs** · 2090722001132650986
 > This is what happens when we combine the luxury+minimalism into the landing page visual design.
-
-And guess what, it doesn’t cost $10K, wild right?😅 https://t.co/kbEN2LuiIo
+> 
+> And guess what, it doesn’t cost $10K, wild right?😅 https://t.co/kbEN2LuiIo
 
 > **@basit_designs** · 2091835147591307448
 > https://t.co/rgqZHo7Alv

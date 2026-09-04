@@ -77,7 +77,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2087714580491370655/media/media_0.jpg",
       "type": "image",
       "description": "Screenshot of Pi Realtime Voice chat UI showing casual morning greeting exchange between user and voice assistant.",
       "skip_reason": null,
@@ -98,7 +98,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-06",

@@ -8,8 +8,8 @@
 **Quoted.**
 > **@dejavucoder** · 2074912810803560497
 > my latest blog post "auto-research with codex: how I achieved a 212x faster kernel over baseline with codex in GPU Mode's qr_v2 problem" is up now. in this post, i talk about my approach towards auto-kerneling on the QR decomposition problem. 
-
-https://t.co/tKwV9xMDC8 https://t.co/OUKzqrXjdA
+> 
+> https://t.co/tKwV9xMDC8 https://t.co/OUKzqrXjdA
 
 > **@dejavucoder** · 2088602345127202824
 > thanks for submitting on your own and letting me know lol @__tosh

@@ -93,9 +93,7 @@
     "compare_with": [
       "x-2093305736717545869"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Model benchmark claim for Fusion agentic CAD; demo media not stored in harvest."
   },
   "worker": "cards-07",

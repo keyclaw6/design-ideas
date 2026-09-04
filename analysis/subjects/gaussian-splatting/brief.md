@@ -104,7 +104,7 @@ Criteria only. No ranking language. A later judge scores each shortlisted item o
 
 ## gaussian-splatting — thread coverage
 
-X items in primary roster: 15. captured_full=1, captured_partial=8, empty=4, failed=2.
+X items in primary roster: 15. captured_full=1, captured_partial=6, empty=6, failed=2.
 Logged-out x.com HTML was the working conversation source. Guest GraphQL TweetDetail 404'd; fxtwitter gives counts, not replies.
 Partial threads still have the first visible replies and any author continuation that rendered. Treat missing replies as unknown, not as 'no one answered'.
 
@@ -113,12 +113,12 @@ Partial threads still have the first visible replies and any author continuation
 | [x-2090589293677023507](../../items/x-2090589293677023507/thread.md) | empty | 0 | 0 | 0 |
 | [x-2090839282831270173](../../items/x-2090839282831270173/thread.md) | captured_partial | 4 | 1 | 1 |
 | [x-2091899114153754949](../../items/x-2091899114153754949/thread.md) | captured_partial | 13 | 1 | 0 |
-| [x-2091943679317463153](../../items/x-2091943679317463153/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2091943679317463153](../../items/x-2091943679317463153/thread.md) | empty | 0 | 0 | 0 |
 | [x-2093179838249251011](../../items/x-2093179838249251011/thread.md) | captured_partial | 10 | 3 | 0 |
 | [x-2093397098544648516](../../items/x-2093397098544648516/thread.md) | captured_partial | 4 | 1 | 1 |
 | [x-2093563796237471912](../../items/x-2093563796237471912/thread.md) | captured_partial | 5 | 3 | 1 |
 | [x-2094377838774472944](../../items/x-2094377838774472944/thread.md) | captured_partial | 2 | 1 | 1 |
-| [x-2094648474377839018](../../items/x-2094648474377839018/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2094648474377839018](../../items/x-2094648474377839018/thread.md) | empty | 0 | 0 | 0 |
 | [x-2094769581965369822](../../items/x-2094769581965369822/thread.md) | failed | 1 | 0 | 0 |
 | [x-2094826117056414132](../../items/x-2094826117056414132/thread.md) | empty | 0 | 0 | 0 |
 | [x-2094929928865341832](../../items/x-2094929928865341832/thread.md) | captured_full | 2 | 2 | 0 |
@@ -128,7 +128,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## gaussian-splatting — gaps and open questions
 
-Primary readiness: ready=5, ready-with-gaps=12. Gap tags: translation-needed=4, thread-failed=2, thread-partial=1.
+Primary readiness: ready=6, ready-with-gaps=11. Gap tags: translation-needed=4, thread-failed=2, thread-partial=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

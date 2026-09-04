@@ -8,7 +8,7 @@
 **Quoted.**
 > **@higgsfield** · 2092255771245621275
 > Try Higgsfield in Blender now:
-https://t.co/YdgbG0Hmfm
+> https://t.co/YdgbG0Hmfm
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

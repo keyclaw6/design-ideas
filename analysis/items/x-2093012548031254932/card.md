@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [x-2088738850705113398](../x-2088738850705113398/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — —
+`raw/items/x-2093012548031254932/media/media_0.jpg` (video, carries_technique=false) — —
 **Thread.** captured_partial · reported 71 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

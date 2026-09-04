@@ -20,4 +20,4 @@
 **Related items.** [x-2087026930323247306](../x-2087026930323247306/card.md), [x-2080856252687745093](../x-2080856252687745093/card.md), [x-2032671842230501729](../x-2032671842230501729/card.md), [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 30 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2087026930323247306](../x-2087026930323247306/card.md), [x-2032671842230501729](../x-2032671842230501729/card.md)
+**Judge hints.** must_read: False · compare with: [x-2087026930323247306](../x-2087026930323247306/card.md), [x-2032671842230501729](../x-2032671842230501729/card.md)

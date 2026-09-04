@@ -17,6 +17,6 @@
 **Links.** https://skills.sh/hardikpandya/stop-slop, https://skills.sh/petergyang/no-ai-slop/no-ai-slop, https://skills.sh/blader/humanizer, https://skills.sh/cursor/plugins/unslop, https://skills.sh/ehmo/slopkit/slopbeth, https://skills.sh/Aboudjem/humanizer-skill/humanizer, https://skills.sh/stephenturner/skills/deslop, https://skills.sh/elithrar/dotfiles/anti-slop, https://skills.sh/aashaexo/soundshuman/humanize, https://skills.sh/jalaalrd/anti-ai-slop-writing/anti-ai-slop-writing
 **Related items.** [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2088742864310481025](../x-2088742864310481025/card.md), [x-2089457435459404093](../x-2089457435459404093/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Black card graphic reading Top 10 anti-slop skills writing rank with GitHub Skills header and @juampitech handle.
+`raw/items/x-2090834948332655011/media/media_0.jpg` (image, carries_technique=false) — Black card graphic reading Top 10 anti-slop skills writing rank with GitHub Skills header and @juampitech handle.
 **Thread.** captured_partial · reported 56 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)
+**Judge hints.** must_read: False · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)

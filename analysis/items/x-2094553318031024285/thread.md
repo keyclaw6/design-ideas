@@ -12,8 +12,8 @@
 **Relevant replies (2 of 3 captured).**
 > **@Britton_Gallien** · 2094685384449933679 · depth 1 · number
 > @Crowdreply_io I manage 10 SaaS companies pulling in more than $500K / month in revenue.
-
-Can you give me a TLDR explanation of what this is and why we should invest in this?
+> 
+> Can you give me a TLDR explanation of what this is and why we should invest in this?
 
 > **@RobbyFrank** · 2094855407692857788 · depth 1 · fact-check
 > @Crowdreply_io Hey @grok is this true or deceptive

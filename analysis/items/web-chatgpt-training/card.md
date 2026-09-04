@@ -18,4 +18,4 @@
 **Links.** product (https://learn.chatgpt.com/training), https://learn.chatgpt.com/llms.txt, https://learn.chatgpt.com/docs/llms-full.txt, https://learn.chatgpt.com/docs/build-skills.md, https://academy.openai.com/home/events
 **Related items.** [web-blume-codes](../web-blume-codes/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [web-anthropic-claude-self-service-data](../web-anthropic-claude-self-service-data/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -8,14 +8,14 @@
 **Quoted.**
 > **@defileo** · 2090271647219769640
 > 🚨 55,000 STARS AND IT'S STILL COMPLETELY FREE.
-
-NO F*CKIN WAY THIS ISN'T A DREAM.
-
-Strix just hit 55,731 stars on GitHub (+10k stars in 1 week)
-
-&gt; multi-agent team that hacks like a real attacker, not a scanner
-&gt; every finding is proven with a real PoC, no false positives
-&gt; https://t.co/jIEx2ZoJ5z
+> 
+> NO F*CKIN WAY THIS ISN'T A DREAM.
+> 
+> Strix just hit 55,731 stars on GitHub (+10k stars in 1 week)
+> 
+> &gt; multi-agent team that hacks like a real attacker, not a scanner
+> &gt; every finding is proven with a real PoC, no false positives
+> &gt; https://t.co/jIEx2ZoJ5z
 
 > **@defileo** · 2091181219207663648
 > https://t.co/BJlCON8mji

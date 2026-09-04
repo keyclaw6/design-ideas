@@ -17,5 +17,5 @@
 **Links.** repo (https://github.com/vellum-ai/originkit), product (https://www.originkit.dev/)
 **Related items.** [web-vengence-ui](../web-vengence-ui/card.md), [web-cult-ui](../web-cult-ui/card.md), [web-feralui-dev](../web-feralui-dev/card.md)
 **Media.**
-`media/og-image.png` (image, carries_technique=true) — Originkit marketing screenshot showing the Spiral Images gallery component with sidebar controls for turns, spacing, spread, and animation speed on a dark UI.
+`raw/items/web-originkit-dev/media/og-image.png` (image, carries_technique=true) — Originkit marketing screenshot showing the Spiral Images gallery component with sidebar controls for turns, spacing, spread, and animation speed on a dark UI.
 **Judge hints.** must_read: False · compare with: —

@@ -9,7 +9,7 @@
 **Relevant replies (1 of 3 captured).**
 > **@qubitium** · 2087592604372480143 · depth 1 · answered-question
 > @SamuelZengML Looks awesome. Do you want to demo this at the next AiOS meetup in SF in September and tell more about the architecture? Just curious: is it similar to Apple and keeps the same experts active across multiple tokens or branch prediction?
-
-PS: Silicon Valley is obviously a tv show
+> 
+> PS: Silicon Valley is obviously a tv show
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

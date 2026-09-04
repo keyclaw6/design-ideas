@@ -12,7 +12,7 @@
 
 > **@SEOMastery2026** · 2094811138630299879 · depth 1 · counter-claim
 > @hridoyreh But Google and Reddit seems to be having issues.... Mayb Reddit  didn't keep to promise 😂😂. 
-
-I barely see them on SERP these days.
+> 
+> I barely see them on SERP these days.
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

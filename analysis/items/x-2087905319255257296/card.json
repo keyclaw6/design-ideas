@@ -85,9 +85,7 @@
     "compare_with": [
       "x-2088299905324396589"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Research notes low-poly track relevance for marketing-page mesh budgets."
   },
   "worker": "cards-15",

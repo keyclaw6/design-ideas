@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2095207624396652956](../x-2095207624396652956/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Landing page screenshot with Hogwarts castle atmosphere and Walk into Hogwarts hero copy for an AI Harry Potter experience event.
+`raw/items/x-2093767075131220005/media/media_0.jpg` (image, carries_technique=true) — Landing page screenshot with Hogwarts castle atmosphere and Walk into Hogwarts hero copy for an AI Harry Potter experience event.
 **Thread.** captured_partial · reported 9 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

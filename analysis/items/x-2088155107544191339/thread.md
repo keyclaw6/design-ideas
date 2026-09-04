@@ -8,15 +8,15 @@
 **Quoted.**
 > **@kaddisdeployed** · 2087993701859500498
 > Vinh Nguyen dropped an 8-minute breakdown of Graph Engineering with Claude, based on the full 14-step roadmap.
-
-the key idea:
-
-most multi-step AI agents fail because the work isn’t really linear, it’s a graph.
-
- here’s how it works now:
-
-10% → linear
-developers build agents https://t.co/eLKk2uHpnk
+> 
+> the key idea:
+> 
+> most multi-step AI agents fail because the work isn’t really linear, it’s a graph.
+> 
+>  here’s how it works now:
+> 
+> 10% → linear
+> developers build agents https://t.co/eLKk2uHpnk
 
 > **@kaddisdeployed** · 2088155295012806833
 > https://t.co/Wyc5bWYU9P

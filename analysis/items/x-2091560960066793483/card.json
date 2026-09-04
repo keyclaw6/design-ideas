@@ -55,7 +55,7 @@
       "web-opale-ui-taste",
       "github-leonxlnx-taste-skill"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-11",

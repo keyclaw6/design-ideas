@@ -19,4 +19,4 @@
 **Related items.** [web-originkit-dev](../web-originkit-dev/card.md), [web-cult-ui](../web-cult-ui/card.md), [x-2089182103153897532](../x-2089182103153897532/card.md), [x-2089740155179643231](../x-2089740155179643231/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 31 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [web-originkit-dev](../web-originkit-dev/card.md), [web-cult-ui](../web-cult-ui/card.md)
+**Judge hints.** must_read: False · compare with: [web-originkit-dev](../web-originkit-dev/card.md), [web-cult-ui](../web-cult-ui/card.md)

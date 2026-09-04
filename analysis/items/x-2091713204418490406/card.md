@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — OpenStory GitHub README screenshot listing script analysis, Fal.ai image generation, image-to-video motion, style consistency, and Cloudflare deploy features.
+`raw/items/x-2091713204418490406/media/media_0.jpg` (image, carries_technique=false) — OpenStory GitHub README screenshot listing script analysis, Fal.ai image generation, image-to-video motion, style consistency, and Cloudflare deploy features.
 **Thread.** captured_partial · reported 12 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

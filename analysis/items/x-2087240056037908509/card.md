@@ -19,4 +19,4 @@
 **Related items.** [web-fal-ai](../web-fal-ai/card.md), [x-2087562269807030754](../x-2087562269807030754/card.md), [web-chatgpt-training](../web-chatgpt-training/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 35 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2087562269807030754](../x-2087562269807030754/card.md), [x-2087715372787228734](../x-2087715372787228734/card.md)
+**Judge hints.** must_read: False · compare with: [x-2087562269807030754](../x-2087562269807030754/card.md), [x-2087715372787228734](../x-2087715372787228734/card.md)

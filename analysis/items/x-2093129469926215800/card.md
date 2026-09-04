@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — 54-second HeyGen launch video demo using HyperFrames code-rendered motion graphics.
+`raw/items/x-2093129469926215800/media/media_0.mp4` (video, carries_technique=true) — 54-second HeyGen launch video demo using HyperFrames code-rendered motion graphics.
 **Thread.** captured_partial · reported 5 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

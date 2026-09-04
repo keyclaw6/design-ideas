@@ -15,12 +15,12 @@
 
 > **@anallya92020521** · 2094807278276985330 · depth 1 · link
 > @pmitu @treg_ai https://t.co/CYNCOUhabv
-did some part of it internally at my org
-wrote about it here:)
+> did some part of it internally at my org
+> wrote about it here:)
 
 > **@DevanshAr05** · 2094742427500191781 · depth 1 · link
 > @pmitu @treg_ai curious if this’ll help me find more creators for unfair
-
-I’ll give it a shot https://t.co/wL1NeE75M5
+> 
+> I’ll give it a shot https://t.co/wL1NeE75M5
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

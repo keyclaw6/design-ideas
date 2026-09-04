@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Demo clip of MiniMax H3 white-model and dynamic-image plugin outputs shown in the launch post.
+`raw/items/x-2092702228947902622/media/media_0.jpg` (video, carries_technique=false) — Demo clip of MiniMax H3 white-model and dynamic-image plugin outputs shown in the launch post.
 **Thread.** captured_partial · reported 16 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

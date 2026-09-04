@@ -102,9 +102,7 @@
     "compare_with": [
       "x-2095352925597884465"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Efficiency argument for programmatic CAD; repo URL not in tweet body."
   },
   "worker": "cards-07",

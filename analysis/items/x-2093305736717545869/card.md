@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2095193896687177873](../x-2095193896687177873/card.md), [x-2095352925597884465](../x-2095352925597884465/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Screen recording of a complex Fusion 360 assembly with concentric rings and radial spokes being rotated and inspected in the viewport.
-**Thread.** captured_partial · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
+`raw/items/x-2093305736717545869/media/media_0.jpg` (image, carries_technique=true) — Screen recording of a complex Fusion 360 assembly with concentric rings and radial spokes being rotated and inspected in the viewport.
+**Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [x-2095193896687177873](../x-2095193896687177873/card.md)

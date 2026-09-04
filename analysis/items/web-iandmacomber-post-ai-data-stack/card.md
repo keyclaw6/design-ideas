@@ -19,4 +19,4 @@
 **Links.** https://www.rilldata.com/, https://www.cerebras.ai/blog/how-we-built-our-knowledge-base, https://davidgasquez.com/context-engineering-is-a-data-problem
 **Related items.** [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [web-graphed](../web-graphed/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md)
+**Judge hints.** must_read: False · compare with: [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md)

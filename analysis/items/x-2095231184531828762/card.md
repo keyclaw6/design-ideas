@@ -23,6 +23,6 @@
 **Links.** —
 **Related items.** [x-2094553318031024285](../x-2094553318031024285/card.md), [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=false) — Attached promo video accompanying the nine-bot Grok marketing stack pitch.
+`raw/items/x-2095231184531828762/media/media_0.mp4` (video, carries_technique=false) — Attached promo video accompanying the nine-bot Grok marketing stack pitch.
 **Thread.** captured_partial · reported 24 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2094553318031024285](../x-2094553318031024285/card.md), [x-2095081419202560010](../x-2095081419202560010/card.md)
+**Judge hints.** must_read: False · compare with: [x-2094553318031024285](../x-2094553318031024285/card.md), [x-2095081419202560010](../x-2095081419202560010/card.md)

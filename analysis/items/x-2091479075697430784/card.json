@@ -54,7 +54,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2091479075697430784/media/media_0.jpg",
       "type": "image",
       "description": "Preview still of dithered animated gradient bands with grain texture, promoting the upcoming Dither Animation collection.",
       "skip_reason": null,
@@ -76,7 +76,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-06",

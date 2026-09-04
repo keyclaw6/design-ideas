@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Short clip of an experimental animated web logo referenced as an example of exploratory design craft.
+`raw/items/x-2091616414063022208/media/media_0.jpg` (video, carries_technique=true) — Short clip of an experimental animated web logo referenced as an example of exploratory design craft.
 **Thread.** captured_partial · reported 34 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

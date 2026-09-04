@@ -11,14 +11,14 @@
 
 > **@cyrilXBT** · 2073748899748008405
 > Hermes Agent by just crossed 200K GitHub stars in just a few months. I tested every claim in the @NousResearch project: memory, skills, cron, sub agents, all from Hermes Desktop App and WhatsApp.
-
-The whole system is one loop:
-message in → agent run → tools fire → loop ends → https://t.co/MNwJ3FHMKC
+> 
+> The whole system is one loop:
+> message in → agent run → tools fire → loop ends → https://t.co/MNwJ3FHMKC
 
 **Relevant replies (1 of 3 captured).**
 > **@cyrilXBT** · 2086537826863358364 · depth 1 · link
 > @cyrilXBT I’m the author of all of these videos they sticked together without asking. They like to call me ‘this guy’ ‘ex-Google engineer’. Follow ‘this guy’ and let’s chat. Original post is here: https://t.co/hMy8jAFHxj
-
-If you want to learn AI Agent Harness System with Loop, Memory and
+> 
+> If you want to learn AI Agent Harness System with Loop, Memory and
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

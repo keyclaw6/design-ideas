@@ -19,4 +19,4 @@
 **Related items.** [x-2087898602890744089](../x-2087898602890744089/card.md), [x-2093153416214114558](../x-2093153416214114558/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 387 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2093153416214114558](../x-2093153416214114558/card.md), [web-obscura-sh](../web-obscura-sh/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093153416214114558](../x-2093153416214114558/card.md), [web-obscura-sh](../web-obscura-sh/card.md)

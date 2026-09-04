@@ -17,6 +17,6 @@
 **Links.** product (http://claude-skills.free), http://how-to-ai.guide
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Diamond infographic titled 'You sound like AI' listing twelve phrases to avoid on top and eleven slash-command Claude skills to use instead on the bottom.
+`raw/items/x-2093654908322951447/media/media_0.jpg` (image, carries_technique=true) — Diamond infographic titled 'You sound like AI' listing twelve phrases to avoid on top and eleven slash-command Claude skills to use instead on the bottom.
 **Thread.** captured_partial · reported 73 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

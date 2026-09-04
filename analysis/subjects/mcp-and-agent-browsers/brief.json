@@ -22,8 +22,8 @@
   "thread_coverage": {
     "x_items": 6,
     "captured_full": 0,
-    "captured_partial": 6,
-    "empty": 0,
+    "captured_partial": 5,
+    "empty": 1,
     "failed": 0
   },
   "techniques": [
@@ -61,5 +61,5 @@
     "outbound-gtm-agents"
   ],
   "written_by": "subject-mcp-and-agent-browsers",
-  "written_at": "2026-09-04T18:39:00Z"
+  "written_at": "2026-09-04T18:45:50Z"
 }

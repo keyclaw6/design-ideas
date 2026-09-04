@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/MengTo/complete-shelf), product (https://mengto.github.io/complete-shelf/)
 **Related items.** [github-mengto-skills](../github-mengto-skills/card.md), [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [web-utsubo](../web-utsubo/card.md), [web-oryzo-ai](../web-oryzo-ai/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md', 'PROMPT.md'] · compare with: [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [web-utsubo](../web-utsubo/card.md)
+**Judge hints.** must_read: False · compare with: [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [web-utsubo](../web-utsubo/card.md)

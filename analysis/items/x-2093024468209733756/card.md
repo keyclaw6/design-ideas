@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2094978216146452971](../x-2094978216146452971/card.md), [web-originkit-dev](../web-originkit-dev/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Attached MP4 (misnamed .jpg) showing the referenced landing page design in motion.
+`raw/items/x-2093024468209733756/media/media_0.jpg` (video, carries_technique=true) — Attached MP4 (misnamed .jpg) showing the referenced landing page design in motion.
 **Thread.** captured_partial · reported 14 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

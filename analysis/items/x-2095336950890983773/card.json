@@ -60,7 +60,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2095336950890983773/media/media_0.jpg",
       "type": "image",
       "description": "4dgs.jp landing for 3DGS Mesh Converter beta showing PLY input to GLB/STL/OBJ output with no-install workflow.",
       "skip_reason": null,
@@ -86,7 +86,7 @@
       "web-arcana-splat2mesh",
       "x-2094648474377839018"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-14",

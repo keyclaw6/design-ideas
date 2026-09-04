@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2094978216146452971](../x-2094978216146452971/card.md), [x-2094984529853530345](../x-2094984529853530345/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — —
+`raw/items/x-2093364419044794836/media/media_0.jpg` (video, carries_technique=true) — —
 **Thread.** captured_partial · reported 45 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

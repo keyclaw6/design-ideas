@@ -91,7 +91,7 @@
   },
   "media": [
     {
-      "path": "media/hero.png",
+      "path": "raw/items/github-nexu-io-open-design/media/hero.png",
       "type": "image",
       "description": "Promotional graphic with classical columns and glitch overlays, headline 'The open-source Claude Design alternative', and stat cards for 150 design systems, 261 plugins, 21 coding agents, and 14 media providers.",
       "skip_reason": null,
@@ -117,7 +117,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-16",

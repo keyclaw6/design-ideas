@@ -20,6 +20,6 @@ ALL in your BROWSER" [post]
 **Links.** product (https://intangible.ai)
 **Related items.** [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2091497597743612379](../x-2091497597743612379/card.md), [x-2093374092795846745](../x-2093374092795846745/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Attached demo clip (MP4 stored as media_0.jpg) showing in-browser 3D camera manipulation feeding an AI-rendered video output.
+`raw/items/x-2093380307735232543/media/media_0.jpg` (video, carries_technique=true) — Attached demo clip (MP4 stored as media_0.jpg) showing in-browser 3D camera manipulation feeding an AI-rendered video output.
 **Thread.** captured_partial · reported 4 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2093374092795846745](../x-2093374092795846745/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093374092795846745](../x-2093374092795846745/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)

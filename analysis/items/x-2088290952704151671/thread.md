@@ -8,13 +8,13 @@
 **Quoted.**
 > **@mattpocockuk** · 2088290954910347312
 > Here's the Crash Course! Dropping on Monday:
-
-https://t.co/Ws6UxJKV1N
+> 
+> https://t.co/Ws6UxJKV1N
 
 **Relevant replies (1 of 1 captured).**
 > **@mattpocockuk** · 2088291022329749726 · depth 1 · link
 > @mattpocockuk @theo Omg you dropped this while I was reading your docs lol
-
-https://t.co/mFEaJFTwHl
+> 
+> https://t.co/mFEaJFTwHl
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

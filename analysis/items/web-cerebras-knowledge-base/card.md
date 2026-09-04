@@ -18,4 +18,4 @@
 **Links.** https://x.com/medriscoll/status/2094558408259272998, https://x.com/cerebras/status/2077822555159945507, https://davidgasquez.com/context-engineering-is-a-data-problem, https://www.iandmacomber.com/blog/post-ai-data-stack
 **Related items.** [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [web-anthropic-claude-self-service-data](../web-anthropic-claude-self-service-data/card.md), [web-iandmacomber-post-ai-data-stack](../web-iandmacomber-post-ai-data-stack/card.md), [web-chatgpt-training](../web-chatgpt-training/card.md), [web-blume-codes](../web-blume-codes/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

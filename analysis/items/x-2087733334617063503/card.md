@@ -18,5 +18,5 @@
 **Related items.** [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 26 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** The tweet is a one-line marketing slogan ('Agent Plugins: Build it once, use it everywhere') with no SDK URL, plugin format, or deployment targets in the capture.

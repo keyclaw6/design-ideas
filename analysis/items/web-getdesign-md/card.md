@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/google-labs-code/design.md), product (https://getdesign.md)
 **Related items.** [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md), [web-sokosumi-design-md](../web-sokosumi-design-md/card.md), [web-neuform-ai](../web-neuform-ai/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: [web-styles-refero-design](../web-styles-refero-design/card.md), [web-sokosumi-design-md](../web-sokosumi-design-md/card.md)
+**Judge hints.** must_read: False · compare with: [web-styles-refero-design](../web-styles-refero-design/card.md), [web-sokosumi-design-md](../web-sokosumi-design-md/card.md)

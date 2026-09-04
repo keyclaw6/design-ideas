@@ -18,9 +18,9 @@
 **Links.** —
 **Related items.** [x-2092222199620833420](../x-2092222199620833420/card.md), [web-meigen-ai](../web-meigen-ai/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — ARCO roasters coffee campaign still: amber espresso cup, tamper, bean, slogan pause precisely on stone surface.
-`media/media_1.jpg` (image, carries_technique=true) — ARCO variant with floating cup, bean, and tamper over sage circle; headline morning shifted.
-`media/media_2.jpg` (image, carries_technique=true) — PRYNE math brand visual: glossy 3D operators and Multiply your edge headline on white.
-`media/media_3.jpg` (image, carries_technique=true) — PRYNE dark hero with pearlescent 3D math symbols and tagline Numbers Logic Motion.
+`raw/items/x-2092979866836648104/media/media_0.jpg` (image, carries_technique=true) — ARCO roasters coffee campaign still: amber espresso cup, tamper, bean, slogan pause precisely on stone surface.
+`raw/items/x-2092979866836648104/media/media_1.jpg` (image, carries_technique=true) — ARCO variant with floating cup, bean, and tamper over sage circle; headline morning shifted.
+`raw/items/x-2092979866836648104/media/media_2.jpg` (image, carries_technique=true) — PRYNE math brand visual: glossy 3D operators and Multiply your edge headline on white.
+`raw/items/x-2092979866836648104/media/media_3.jpg` (image, carries_technique=true) — PRYNE dark hero with pearlescent 3D math symbols and tagline Numbers Logic Motion.
 **Thread.** captured_partial · reported 9 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [x-2095368133070700884](../x-2095368133070700884/card.md)

@@ -69,7 +69,7 @@
   },
   "media": [
     {
-      "path": "media/og.png",
+      "path": "raw/items/web-cult-ui/media/og.png",
       "type": "image",
       "description": "Cult UI OG image with cosmic-gradient headline 'Copy & Paste. The Full Stack.' above logos for Stripe, Framer, OpenAI, Next.js, Supabase, and similar stack icons.",
       "skip_reason": null,

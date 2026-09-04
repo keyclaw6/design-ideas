@@ -19,4 +19,4 @@
 **Related items.** [web-fal-ai](../web-fal-ai/card.md), [x-2095202138854977756](../x-2095202138854977756/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 24 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

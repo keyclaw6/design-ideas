@@ -8,8 +8,8 @@
 **Quoted.**
 > **@a_shimanski** · 2094338304070004768
 > 1.01m impressions, 16.3k clicks 🤯 
-
-SEO does nothing, does nothing, does nothing, then does everything 📈 https://t.co/PoWaCmXdsQ
+> 
+> SEO does nothing, does nothing, does nothing, then does everything 📈 https://t.co/PoWaCmXdsQ
 
 **Relevant replies (2 of 3 captured).**
 > **@MrBrjan** · 2094790969178898930 · depth 1 · answered-question
@@ -17,7 +17,7 @@ SEO does nothing, does nothing, does nothing, then does everything 📈 https://
 
 > **@TurjoAt** · 2094860892726862263 · depth 1 · link
 > @a_shimanski Increíble performance compañero! Es para https://t.co/cTa5Jep0AT? 
-
-He estado trasteando con esto pero el dominio aún es muy nuevo ( poco más de dos semanas) pero ya tengo más de 1k impresiones por día, a ver si Google/Bing le toman cariño 🙏🏼
+> 
+> He estado trasteando con esto pero el dominio aún es muy nuevo ( poco más de dos semanas) pero ya tengo más de 1k impresiones por día, a ver si Google/Bing le toman cariño 🙏🏼
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

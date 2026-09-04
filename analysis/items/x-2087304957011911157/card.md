@@ -18,4 +18,4 @@
 **Related items.** [x-2087232392209531166](../x-2087232392209531166/card.md), [x-2087263510090874911](../x-2087263510090874911/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2085006701984698712](../x-2085006701984698712/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 21 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

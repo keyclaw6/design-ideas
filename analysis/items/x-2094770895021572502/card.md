@@ -19,6 +19,6 @@
 **Links.** product (https://shimanski.dev), http://aiedit.com, http://postformatter.com, http://blurr.ing, http://unicodegames.com, https://x.com/a_shimanski/status/2094338304070004768
 **Related items.** [web-nqz-ai-search-prompt-generator](../web-nqz-ai-search-prompt-generator/card.md), [web-tinyshelf](../web-tinyshelf/card.md), [web-brave-submit-url](../web-brave-submit-url/card.md)
 **Media.**
-`media/quoted-gsc.jpg` (image, carries_technique=true) — Google Search Console performance chart showing 1.01M impressions and 16.3K clicks over three months with a flat May-June period then steep July-August growth cliff.
+`raw/items/x-2094770895021572502/media/quoted-gsc.jpg` (image, carries_technique=true) — Google Search Console performance chart showing 1.01M impressions and 16.3K clicks over three months with a flat May-June period then steep July-August growth cliff.
 **Thread.** captured_partial · reported 26 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [web-nqz-ai-search-prompt-generator](../web-nqz-ai-search-prompt-generator/card.md), [web-tinyshelf](../web-tinyshelf/card.md)

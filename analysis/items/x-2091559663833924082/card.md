@@ -19,4 +19,4 @@
 **Related items.** [x-2087239769877295158](../x-2087239769877295158/card.md), [x-2086838432102228008](../x-2086838432102228008/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 30 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2087239769877295158](../x-2087239769877295158/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md)
+**Judge hints.** must_read: False · compare with: [x-2087239769877295158](../x-2087239769877295158/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md)

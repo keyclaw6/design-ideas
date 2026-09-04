@@ -18,4 +18,4 @@
 **Links.** product (https://designmd.supply), https://github.com/google-labs-code/design.md
 **Related items.** [web-getdesign-md](../web-getdesign-md/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)
 **Media.** —
-**Judge hints.** must_read: ['research.md'] · compare with: [web-getdesign-md](../web-getdesign-md/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)
+**Judge hints.** must_read: False · compare with: [web-getdesign-md](../web-getdesign-md/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)

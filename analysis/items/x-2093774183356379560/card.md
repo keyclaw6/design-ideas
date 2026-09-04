@@ -19,4 +19,4 @@
 **Related items.** [web-recent-design](../web-recent-design/card.md), [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md), [x-2092624919653671200](../x-2092624919653671200/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 52 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [web-recent-design](../web-recent-design/card.md), [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md)
+**Judge hints.** must_read: False · compare with: [web-recent-design](../web-recent-design/card.md), [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md)

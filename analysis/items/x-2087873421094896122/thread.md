@@ -12,12 +12,12 @@
 **Relevant replies (2 of 3 captured).**
 > **@trending_repos** · 2088184018655379584 · depth 1 · link
 > @trending_repos Been using https://t.co/9K9sR0syTp
-
-Will try this
+> 
+> Will try this
 
 > **@eboygarcia** · 2088015456389005402 · depth 1 · link
 > @trending_repos hmm… I got an idea! 
-
-https://t.co/S9WNeNIFmJ
+> 
+> https://t.co/S9WNeNIFmJ
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2085006701984698712](../x-2085006701984698712/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Side-by-side doc diff: marketing headings like Start here count everything become plain Start here and Two layers of records in Google dev-docs tone.
+`raw/items/x-2087346803268260043/media/media_0.jpg` (image, carries_technique=true) — Side-by-side doc diff: marketing headings like Start here count everything become plain Start here and Two layers of records in Google dev-docs tone.
 **Thread.** captured_partial · reported 21 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

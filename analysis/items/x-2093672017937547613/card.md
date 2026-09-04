@@ -18,5 +18,5 @@
 **Related items.** [x-2093309791120543846](../x-2093309791120543846/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 2 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** @trending_repos reposts tt-a1i/archify star counts (+3,927 in 24h) without diagrams, export examples, or technique detail already captured in x-2093309791120543846.

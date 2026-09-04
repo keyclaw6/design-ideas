@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-codex-conversion), https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-gippity-control, https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-shepherdr
 **Related items.** [x-2087232392209531166](../x-2087232392209531166/card.md), [web-blume-codes](../web-blume-codes/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Screenshot of Pi Realtime Voice chat UI showing casual morning greeting exchange between user and voice assistant.
+`raw/items/x-2087714580491370655/media/media_0.jpg` (image, carries_technique=true) — Screenshot of Pi Realtime Voice chat UI showing casual morning greeting exchange between user and voice assistant.
 **Thread.** captured_partial · reported 10 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -22,8 +22,8 @@
   "thread_coverage": {
     "x_items": 26,
     "captured_full": 4,
-    "captured_partial": 20,
-    "empty": 1,
+    "captured_partial": 19,
+    "empty": 2,
     "failed": 1
   },
   "techniques": [
@@ -72,5 +72,5 @@
     "code-motion-graphics"
   ],
   "written_by": "subject-landing-ui-motion",
-  "written_at": "2026-09-04T18:39:00Z"
+  "written_at": "2026-09-04T18:45:50Z"
 }

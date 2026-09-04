@@ -18,5 +18,5 @@
 **Links.** —
 **Related items.** [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-animos-editor](../web-animos-editor/card.md), [x-2089775679600812150](../x-2089775679600812150/card.md)
 **Media.** —
-**Thread.** captured_partial · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: False · compare with: —

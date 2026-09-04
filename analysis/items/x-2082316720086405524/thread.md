@@ -9,10 +9,10 @@
 **Relevant replies (3 of 3 captured).**
 > **@kunchenguid** · 2082396216403403069 · depth 1 · link
 > @kunchenguid We've built something that gives you the best of both worlds. 
-
-Would love to get your feedback! 
-
-https://t.co/OiQrgdhtYY
+> 
+> Would love to get your feedback! 
+> 
+> https://t.co/OiQrgdhtYY
 
 > **@HashgraphOnline** · 2082468381673099703 · depth 1 · answered-question
 > @kunchenguid +1 to all of this! Though I'm probably even more cavalier about secrets and access my agents have through my various logins. Where we are super careful is around "write" access to production. Otherwise, the productivity gain from letting agents just do stuff can't be beat.

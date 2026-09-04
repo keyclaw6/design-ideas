@@ -136,14 +136,14 @@ Criteria only. No ranking language. A later judge scores each shortlisted item o
 
 ## blockout-to-video-flythrough — thread coverage
 
-X items in primary roster: 22. captured_full=2, captured_partial=15, empty=4, failed=1.
+X items in primary roster: 22. captured_full=2, captured_partial=13, empty=6, failed=1.
 Logged-out x.com HTML was the working conversation source. Guest GraphQL TweetDetail 404'd; fxtwitter gives counts, not replies.
 Partial threads still have the first visible replies and any author continuation that rendered. Treat missing replies as unknown, not as 'no one answered'.
 
 | id | thread status | reported | captured | relevant |
 |---|---|---|---|---|
 | [x-2065843739340509693](../../items/x-2065843739340509693/thread.md) | captured_partial | 119 | 3 | 1 |
-| [x-2087565352372723955](../../items/x-2087565352372723955/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2087565352372723955](../../items/x-2087565352372723955/thread.md) | empty | 0 | 0 | 0 |
 | [x-2091497597743612379](../../items/x-2091497597743612379/thread.md) | empty | 0 | 0 | 0 |
 | [x-2091577179914338583](../../items/x-2091577179914338583/thread.md) | captured_partial | 17 | 1 | 0 |
 | [x-2091722166685610284](../../items/x-2091722166685610284/thread.md) | captured_partial | 3 | 1 | 0 |
@@ -156,7 +156,7 @@ Partial threads still have the first visible replies and any author continuation
 | [x-2093047548550525165](../../items/x-2093047548550525165/thread.md) | captured_partial | 315 | 3 | 3 |
 | [x-2093051654937423887](../../items/x-2093051654937423887/thread.md) | failed | 2 | 0 | 0 |
 | [x-2093053568748319181](../../items/x-2093053568748319181/thread.md) | empty | 0 | 0 | 0 |
-| [x-2093064017468145963](../../items/x-2093064017468145963/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2093064017468145963](../../items/x-2093064017468145963/thread.md) | empty | 0 | 0 | 0 |
 | [x-2093256024635666465](../../items/x-2093256024635666465/thread.md) | captured_full | 1 | 1 | 0 |
 | [x-2093374092795846745](../../items/x-2093374092795846745/thread.md) | captured_partial | 71 | 1 | 1 |
 | [x-2093377271771865267](../../items/x-2093377271771865267/thread.md) | empty | 0 | 0 | 0 |
@@ -167,7 +167,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## blockout-to-video-flythrough — gaps and open questions
 
-Primary readiness: ready=4, ready-with-gaps=19. Gap tags: thread-partial=8, linked-page-unfetched=4, media-undescribed=1, thread-failed=1, translation-needed=1.
+Primary readiness: ready=5, ready-with-gaps=18. Gap tags: thread-partial=8, linked-page-unfetched=4, media-undescribed=1, thread-failed=1, translation-needed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

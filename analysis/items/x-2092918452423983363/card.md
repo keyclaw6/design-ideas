@@ -18,6 +18,6 @@
 **Links.** product (https://slite.com/ebooks/company-brain)
 **Related items.** [x-2086920236079681607](../x-2086920236079681607/card.md), [x-2093677274641969390](../x-2093677274641969390/card.md), [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Infographic titled Company Brain listing nine implementations (GBrain, mem0, Letta, Zep/Graphiti, Sylph, DIY, Pletor, Gorgias Cortex, Slite Agent) with color-coded blocks for the four shared layers: signals, memory, dreaming/pruning, and search.
+`raw/items/x-2092918452423983363/media/media_0.jpg` (image, carries_technique=true) — Infographic titled Company Brain listing nine implementations (GBrain, mem0, Letta, Zep/Graphiti, Sylph, DIY, Pletor, Gorgias Cortex, Slite Agent) with color-coded blocks for the four shared layers: signals, memory, dreaming/pruning, and search.
 **Thread.** captured_partial · reported 97 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [x-2086920236079681607](../x-2086920236079681607/card.md), [x-2093677274641969390](../x-2093677274641969390/card.md)

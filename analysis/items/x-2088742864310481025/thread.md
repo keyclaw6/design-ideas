@@ -9,6 +9,6 @@
 **Relevant replies (1 of 3 captured).**
 > **@LexnLin** · 2088743668576628770 · depth 1 · link
 > @LexnLin Can confirm. Unlazy + Ponytail is killer, just was missing the delegation stuff so i made something for that too. Colony + Unlazy + Ponytail is a godmode combo haha
-https://t.co/ROIVaYmSc2
+> https://t.co/ROIVaYmSc2
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

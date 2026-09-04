@@ -17,7 +17,7 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Screenshot of Boneink YouTube video 'What Did Ancient Humans Do When It Was Too Hot to Sleep?' showing 266K views and simple 2D caveman animation.
+`raw/items/x-2093118868092748246/media/media_0.jpg` (image, carries_technique=false) — Screenshot of Boneink YouTube video 'What Did Ancient Humans Do When It Was Too Hot to Sleep?' showing 266K views and simple 2D caveman animation.
 **Thread.** failed · reported 1 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** CalliopeLabsyt cites a 266K-view Boneink YouTube case study with generic faceless-video tips then asks followers to watch for a recreate—self-promo without a linked playbook, template, or tool artifact in the capture.

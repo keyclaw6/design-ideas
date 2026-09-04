@@ -17,6 +17,6 @@
 **Links.** repo (https://github.com/browser-use/video-use)
 **Related items.** [x-2092980272819999227](../x-2092980272819999227/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Screenshot of the browser-use/video-use GitHub repository main branch showing helpers, skills/manim-video, README, SKILL.md, and pyproject.toml.
+`raw/items/x-2094061655990702150/media/media_0.jpg` (image, carries_technique=false) — Screenshot of the browser-use/video-use GitHub repository main branch showing helpers, skills/manim-video, README, SKILL.md, and pyproject.toml.
 **Thread.** captured_partial · reported 49 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

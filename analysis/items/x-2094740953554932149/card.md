@@ -19,8 +19,8 @@ Fully open source, 0% markup" [quoted-post]
 **Links.** repo (https://github.com/superdesigndev/treg), product (https://treg.to/people-search), https://github.com/LessieAI/people-search-bench, https://arxiv.org/abs/2603.27476
 **Related items.** [web-treg-people-search](../web-treg-people-search/card.md), [github-LessieAI-people-search-bench](../github-LessieAI-people-search-bench/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=false) — Screenshot of treg.to/people-search landing: terminal GTM demo with 1B+ contacts and per-provider billing overlay.
-`media/quoted-thumb.jpg` (image, carries_technique=false) — Thumbnail still from Jason Zhou's quoted launch video for treg people-search.
-`media/quoted-video.mp4` (video, carries_technique=false) — Jason Zhou demo video introducing Claude for people-search at $0.0089 per lead.
+`raw/items/x-2094740953554932149/media/photo.jpg` (image, carries_technique=false) — Screenshot of treg.to/people-search landing: terminal GTM demo with 1B+ contacts and per-provider billing overlay.
+`raw/items/x-2094740953554932149/media/quoted-thumb.jpg` (image, carries_technique=false) — Thumbnail still from Jason Zhou's quoted launch video for treg people-search.
+`raw/items/x-2094740953554932149/media/quoted-video.mp4` (video, carries_technique=false) — Jason Zhou demo video introducing Claude for people-search at $0.0089 per lead.
 **Thread.** captured_partial · reported 35 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

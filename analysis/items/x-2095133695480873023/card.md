@@ -17,6 +17,6 @@
 **Links.** product (https://learn.chatgpt.com/training), https://learn.chatgpt.com/training/hands-on/work, https://learn.chatgpt.com/training/hands-on/codex, https://learn.chatgpt.com/training/walkthroughs/plugins-and-skills, https://learn.chatgpt.com/llms.txt
 **Related items.** [web-chatgpt-training](../web-chatgpt-training/card.md), [x-2074912810803560497](../x-2074912810803560497/card.md)
 **Media.**
-`media/card.jpg` (image, carries_technique=false) — Twitter link card with blue gradient background, OpenAI logo, and large white text reading ChatGPT Training.
+`raw/items/x-2095133695480873023/media/card.jpg` (image, carries_technique=false) — Twitter link card with blue gradient background, OpenAI logo, and large white text reading ChatGPT Training.
 **Thread.** captured_partial · reported 40 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [web-chatgpt-training](../web-chatgpt-training/card.md), [x-2074912810803560497](../x-2074912810803560497/card.md)

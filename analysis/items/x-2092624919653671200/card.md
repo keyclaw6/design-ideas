@@ -18,4 +18,4 @@
 **Related items.** [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md), [web-recent-design](../web-recent-design/card.md), [web-cult-ui](../web-cult-ui/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 5 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md), [web-recent-design](../web-recent-design/card.md)
+**Judge hints.** must_read: False · compare with: [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md), [web-recent-design](../web-recent-design/card.md)

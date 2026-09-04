@@ -9,10 +9,10 @@
 **Relevant replies (2 of 3 captured).**
 > **@LuisHiluy** · 2095231267499319711 · depth 1 · answered-question
 > @intangibleai the roulette has a rate, and it is worse than people think.
-
-i asked a current model for one frame with three exact things in it: readable text, two hands, an object on a specific side. four takes, first take kept. 25%.
-
-my keep rate across whole films runs 47-64%. the difference
+> 
+> i asked a current model for one frame with three exact things in it: readable text, two hands, an object on a specific side. four takes, first take kept. 25%.
+> 
+> my keep rate across whole films runs 47-64%. the difference
 
 > **@whoyatagarasu** · 2094589770244759667 · depth 1 · answered-question
 > @intangibleai @intangibleai Is commercial usage allowed on the free plan and if not is this something you guys will consider provided users remain under the free plan quota Thanks

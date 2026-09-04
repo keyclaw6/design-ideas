@@ -42,42 +42,42 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2090165248196252003/media/media_0.jpg",
       "type": "image",
       "description": "Black promo card: Google Gemini logo and STUDENT PLAN FOR 1 YEAR AT NO COST with eligibility disclaimer.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/media_1.jpg",
+      "path": "raw/items/x-2090165248196252003/media/media_1.jpg",
       "type": "image",
       "description": "Black graphic highlighting STORE MORE WITH 5 TB and a focused PDF syllabus pill icon.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/media_2.jpg",
+      "path": "raw/items/x-2090165248196252003/media/media_2.jpg",
       "type": "image",
       "description": "Study UI mockup with STUDY WITH NOTEBOOKS header and sidebar listing Library and Astrophysics notebook.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/media_3.jpg",
+      "path": "raw/items/x-2090165248196252003/media/media_3.jpg",
       "type": "image",
       "description": "Call-to-action card CLAIM YOUR STUDENT PLAN FOR 1 YEAR AT NO COST with goo.gle/student URL.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/media_4.jpg",
+      "path": "raw/items/x-2090165248196252003/media/media_4.jpg",
       "type": "image",
       "description": "VISUALIZE IDEAS header above a colorful 3D DNA helix model on dark background.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/media_5.jpg",
+      "path": "raw/items/x-2090165248196252003/media/media_5.jpg",
       "type": "image",
       "description": "UPLOAD UNLIMITED FILES headline surrounded by floating biology study assets and PDF tiles.",
       "skip_reason": null,
@@ -96,7 +96,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-08",

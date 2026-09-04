@@ -9,8 +9,8 @@
 **Relevant replies (2 of 3 captured).**
 > **@andykonwinski** · 2092016619665190985 · depth 1 · link
 > @andykonwinski “What should $NAME think about when idle,” is the question I've most thought about in an install wizard.
-
-Also, love this: https://t.co/Tq2Zxi6It8
+> 
+> Also, love this: https://t.co/Tq2Zxi6It8
 
 > **@dbreunig** · 2092005602209722628 · depth 1 · number
 > @andykonwinski i lost you at 10k lines of bash

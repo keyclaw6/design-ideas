@@ -19,4 +19,4 @@
 **Related items.** [github-mengto-skills](../github-mengto-skills/card.md), [github-mengto-complete-shelf](../github-mengto-complete-shelf/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [github-mengto-skills](../github-mengto-skills/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)
+**Judge hints.** must_read: False · compare with: [github-mengto-skills](../github-mengto-skills/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)

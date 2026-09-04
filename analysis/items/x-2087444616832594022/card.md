@@ -19,4 +19,4 @@
 **Related items.** [x-2087151807965401320](../x-2087151807965401320/card.md), [x-2080856252687745093](../x-2080856252687745093/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 14 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

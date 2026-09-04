@@ -18,4 +18,4 @@
 **Related items.** [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md), [x-2088738850705113398](../x-2088738850705113398/card.md), [x-2089602918605619401](../x-2089602918605619401/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 55 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md)
+**Judge hints.** must_read: False · compare with: [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md)

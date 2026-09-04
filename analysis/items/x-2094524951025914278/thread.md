@@ -9,10 +9,10 @@
 **Relevant replies (3 of 3 captured).**
 > **@olavlj** · 2094603606607761556 · depth 1 · alternative-tool
 > @olavlj The vine is what got me. Tiny detail, but it made the page feel like it was pulling me forward instead of just sitting there waiting to be read.
-
-That's the whole point. Pretty is cheap now. Alive is not.
-
-Stealing the "would they say wow on first scroll?" test for my next site.
+> 
+> That's the whole point. Pretty is cheap now. Alive is not.
+> 
+> Stealing the "would they say wow on first scroll?" test for my next site.
 
 > **@milonspace** · 2094535804223647781 · depth 1 · counter-claim
 > @olavlj The flower selector is such a tiny detail, but one I truly love🌹

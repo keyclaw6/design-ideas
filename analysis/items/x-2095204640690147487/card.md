@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/Vincentwei1021/video-shotcraft)
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-animos-editor](../web-animos-editor/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — GitHub README screenshot for video-shotcraft listing 152 shot recipe cards, 209 styles, Remotion-based cinematic product video workflow, and 6.6k stars.
+`raw/items/x-2095204640690147487/media/media_0.jpg` (image, carries_technique=true) — GitHub README screenshot for video-shotcraft listing 152 shot recipe cards, 209 styles, Remotion-based cinematic product video workflow, and 6.6k stars.
 **Thread.** captured_full · reported 1 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -8,18 +8,18 @@
 **Quoted.**
 > **@cy_burns** · 2094165607230910755
 > Use this exact video as a free template for your next product video
-https://t.co/KhAZy3E4ZG
+> https://t.co/KhAZy3E4ZG
 
 > **@tvnxty** · 2089024517725168005
 > I respect everyone who builds something, but at this point it seems like there's a new "Claude for motion graphics" app every week.
-
-I'm not sure I understand who's the target market? 
-
-Serious founders and brands will always opt in for a studio or an experienced motion designer
+> 
+> I'm not sure I understand who's the target market? 
+> 
+> Serious founders and brands will always opt in for a studio or an experienced motion designer
 
 **Relevant replies (1 of 2 captured).**
 > **@cy_burns** · 2094168999617601926 · depth 1 · link
 > @tvnxty here is the sound mode u wanted. I take feedback seriously. Leave me some here
-https://t.co/ClE6SOWP5f
+> https://t.co/ClE6SOWP5f
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

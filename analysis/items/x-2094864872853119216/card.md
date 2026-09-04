@@ -20,8 +20,8 @@
 **Links.** product (https://www.worldlabs.ai/blog/atlas), https://sparkjs.dev, https://www.worldlabs.ai/blog/spark-2.0, https://xrarchitect.xyz, https://x.com/XRarchitect/status/2094881923764199717
 **Related items.** [x-2095437841958314100](../x-2095437841958314100/card.md)
 **Media.**
-`media/atlas-spark-three-scene-thumb.jpg` (image, carries_technique=true) — Wide monitor showing a navigable Rococo ballroom 3D interior with FPS overlay, demo of Atlas spark.js three.js output.
-`media/atlas-spark-three-scene.mp4` (video, carries_technique=true) — Twenty-nine second camera move through the reconstructed ballroom interior generated from a single source photo.
-`media/input-image.jpg` (image, carries_technique=false) — Single source photograph of an ornate green and gold drawing room with piano, chandelier, and sunlight through arched windows.
+`raw/items/x-2094864872853119216/media/atlas-spark-three-scene-thumb.jpg` (image, carries_technique=true) — Wide monitor showing a navigable Rococo ballroom 3D interior with FPS overlay, demo of Atlas spark.js three.js output.
+`raw/items/x-2094864872853119216/media/atlas-spark-three-scene.mp4` (video, carries_technique=true) — Twenty-nine second camera move through the reconstructed ballroom interior generated from a single source photo.
+`raw/items/x-2094864872853119216/media/input-image.jpg` (image, carries_technique=false) — Single source photograph of an ornate green and gold drawing room with piano, chandelier, and sunlight through arched windows.
 **Thread.** captured_partial · reported 16 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

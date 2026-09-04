@@ -92,10 +92,7 @@
       "x-2088308976278790258",
       "x-2088277946918142211"
     ],
-    "must_read": [
-      "post.md",
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Assembly-query interface for keyboard PCBs and BESS skid models already in CAD."
   },
   "worker": "cards-11",

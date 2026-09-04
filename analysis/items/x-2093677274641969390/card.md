@@ -19,6 +19,6 @@
 **Links.** —
 **Related items.** [x-2092918452423983363](../x-2092918452423983363/card.md), [x-2086920236079681607](../x-2086920236079681607/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Architecture infographic titled Second Brain Architecture showing RAW to WIKI flow, CLAUDE.md center hub, five automations (ingest, write, manage, review, maintain), directory tree for raw/wiki/output/ctx/mem folders, and a sources-to-memory feedback loop.
+`raw/items/x-2093677274641969390/media/media_0.jpg` (image, carries_technique=true) — Architecture infographic titled Second Brain Architecture showing RAW to WIKI flow, CLAUDE.md center hub, five automations (ingest, write, manage, review, maintain), directory tree for raw/wiki/output/ctx/mem folders, and a sources-to-memory feedback loop.
 **Thread.** captured_partial · reported 17 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [x-2092918452423983363](../x-2092918452423983363/card.md), [x-2086920236079681607](../x-2086920236079681607/card.md)

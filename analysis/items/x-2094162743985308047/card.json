@@ -97,28 +97,28 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2094162743985308047/media/media_0.jpg",
       "type": "image",
       "description": "Frontal playbook slide for $0-10M ARR titled EVERYTHING IS PIPELINE showing Clay list build, Prospeo email verification, and Instantly/Lemlist sequences with a Playbook case study of 20 opportunities in 20 days.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/media_1.jpg",
+      "path": "raw/items/x-2094162743985308047/media/media_1.jpg",
       "type": "image",
       "description": "Frontal slide for $10-50M ARR titled BUILD FROM CLOSED-WON DATA with ICP rebuild UI from last 50 deals and Teikametrics case metrics of $300K pipeline in nine months.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/media_2.jpg",
+      "path": "raw/items/x-2094162743985308047/media/media_2.jpg",
       "type": "image",
       "description": "Frontal slide for $50-200M ARR titled SYSTEMATIZE THE SIGNALS showing a live signal feed with Clay tracking 70 signals and 37 triggers firing sequences, plus Aircall 3,655 new accounts result.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/media_3.jpg",
+      "path": "raw/items/x-2094162743985308047/media/media_3.jpg",
       "type": "image",
       "description": "Frontal slide for $200M-1B ARR titled HUNDREDS OF REPS CHANGE THE MATH with AI copilot draft UI where reps approve account research before sending.",
       "skip_reason": null,

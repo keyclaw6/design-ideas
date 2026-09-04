@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/matrixorigin/Memoria), paper (https://arxiv.org/abs/2604.03927)
 **Related items.** [x-2087143369181114868](../x-2087143369181114868/card.md), [x-2086920236079681607](../x-2086920236079681607/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Memoria README header showing tree logo, v0.4.0 badge, MCP tag, and overview of git-like memory snapshots and semantic search features.
+`raw/items/x-2087208634493095978/media/media_0.jpg` (image, carries_technique=false) — Memoria README header showing tree logo, v0.4.0 badge, MCP tag, and overview of git-like memory snapshots and semantic search features.
 **Thread.** captured_partial · reported 4 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [x-2087143369181114868](../x-2087143369181114868/card.md), [x-2086920236079681607](../x-2086920236079681607/card.md)
+**Judge hints.** must_read: False · compare with: [x-2087143369181114868](../x-2087143369181114868/card.md), [x-2086920236079681607](../x-2086920236079681607/card.md)

@@ -18,4 +18,4 @@
 **Links.** product (https://www.checklist.design/), https://www.checklist.design/skill, https://www.figma.com/community/plugin/1548640679824154718/checklist-design, https://www.figma.com/community/skill/74536/checklist-design
 **Related items.** [github-jakubkrehel-skills](../github-jakubkrehel-skills/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [web-flowmapp](../web-flowmapp/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

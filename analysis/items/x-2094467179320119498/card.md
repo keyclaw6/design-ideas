@@ -18,7 +18,7 @@
 **Links.** product (https://www.aidesigner.ai/ai-ui-design-mcp), https://api.aidesigner.ai/api/v1/mcp, https://www.npmjs.com/package/@aidesigner/agent-skills, https://www.aidesigner.ai/docs/mcp
 **Related items.** [web-aidesigner-mcp](../web-aidesigner-mcp/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)
 **Media.**
-`media/video.mp4` (video, carries_technique=true) — Fifty-five second demo of Claude Code in aidesigner-mcp-demo cloning browserbase.com, Linear, and other sites via AIDesigner MCP with before-after localhost comparisons.
-`media/thumb.jpg` (image, carries_technique=false) — Video thumbnail showing Claude Code v2.1 terminal in the aidesigner-mcp-demo repository ready for MCP clone prompts.
+`raw/items/x-2094467179320119498/media/thumb.jpg` (image, carries_technique=false) — Video thumbnail showing Claude Code v2.1 terminal in the aidesigner-mcp-demo repository ready for MCP clone prompts.
+`raw/items/x-2094467179320119498/media/video.mp4` (video, carries_technique=true) — Fifty-five second demo of Claude Code in aidesigner-mcp-demo cloning browserbase.com, Linear, and other sites via AIDesigner MCP with before-after localhost comparisons.
 **Thread.** captured_partial · reported 22 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [web-aidesigner-mcp](../web-aidesigner-mcp/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)
+**Judge hints.** must_read: False · compare with: [web-aidesigner-mcp](../web-aidesigner-mcp/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)

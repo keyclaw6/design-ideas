@@ -17,7 +17,7 @@
 **Links.** —
 **Related items.** [x-2088260067204137135](../x-2088260067204137135/card.md), [x-2088277946918142211](../x-2088277946918142211/card.md), [x-2088308976278790258](../x-2088308976278790258/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — OpenSCAD viewport of a slotted homelab rack with perforated plates, translucent ghost volumes for reserved parts, and coordinate axes on a grid.
-`media/media_1.jpg` (image, carries_technique=true) — Bambu Studio layout showing five print plates with rack frame, perforated square panels, and diagonal rail parts on numbered build surfaces.
+`raw/items/x-2088252062454751483/media/media_0.jpg` (image, carries_technique=true) — OpenSCAD viewport of a slotted homelab rack with perforated plates, translucent ghost volumes for reserved parts, and coordinate axes on a grid.
+`raw/items/x-2088252062454751483/media/media_1.jpg` (image, carries_technique=true) — Bambu Studio layout showing five print plates with rack frame, perforated square panels, and diagonal rail parts on numbered build surfaces.
 **Thread.** captured_partial · reported 17 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

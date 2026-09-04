@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.** —
-**Thread.** captured_partial · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Post body is only the phrase this person crazy too with no linked repo, demo, recipe, or quoted parent captured in raw; nothing actionable to analyze.

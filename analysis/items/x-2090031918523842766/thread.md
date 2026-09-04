@@ -8,16 +8,16 @@
 **Quoted.**
 > **@emilkowalski** · 2090047490632327630
 > As always, I'll be sending a few example prompts that work well with this skill later today:
-
-https://t.co/DdIT7efTkQ
+> 
+> https://t.co/DdIT7efTkQ
 
 **Relevant replies (1 of 1 captured).**
 > **@emilkowalski** · 2090056277367902222 · depth 1 · alternative-tool
 > @emilkowalski @expo I like relying on iOS's default animations instead of reinventing them. Also I like the heuristics to decide animations.
-
-I' have strong conviction on these libraries:
-
-pulsar(synch) &gt; expo-haptics(async)
-rive &gt; lottie
+> 
+> I' have strong conviction on these libraries:
+> 
+> pulsar(synch) &gt; expo-haptics(async)
+> rive &gt; lottie
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

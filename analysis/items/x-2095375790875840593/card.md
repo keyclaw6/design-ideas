@@ -18,4 +18,4 @@
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2093179838249251011](../x-2093179838249251011/card.md)
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

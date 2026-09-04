@@ -18,6 +18,6 @@
 **Links.** product (https://known.agency/), https://nqz.ai/ai-search-prompt-generator
 **Related items.** [web-known-agency](../web-known-agency/card.md), [web-nqz-ai-search-prompt-generator](../web-nqz-ai-search-prompt-generator/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=true) — Concentric infographic Five Layers of SEO in 2026: foundation, market map, owned presence, third-party authority, get recommended on AI surfaces.
+`raw/items/x-2094771557864292784/media/photo.jpg` (image, carries_technique=true) — Concentric infographic Five Layers of SEO in 2026: foundation, market map, owned presence, third-party authority, get recommended on AI surfaces.
 **Thread.** captured_partial · reported 42 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

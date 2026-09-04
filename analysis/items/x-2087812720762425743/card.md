@@ -19,4 +19,4 @@
 **Related items.** [web-cult-ui](../web-cult-ui/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-vengence-ui](../web-vengence-ui/card.md), [github-jakubkrehel-skills](../github-jakubkrehel-skills/card.md)
 **Media.** —
 **Thread.** captured_full · reported 2 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

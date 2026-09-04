@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Screen recording demo of OmniParser labeling UI elements on a Windows desktop for agent clicking.
+`raw/items/x-2093153416214114558/media/media_0.jpg` (video, carries_technique=false) — Screen recording demo of OmniParser labeling UI elements on a Windows desktop for agent clicking.
 **Thread.** captured_partial · reported 7 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

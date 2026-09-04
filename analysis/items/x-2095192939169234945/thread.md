@@ -9,14 +9,14 @@
 **Relevant replies (2 of 3 captured).**
 > **@0xfJuan** · 2095202497241497817 · depth 1 · answered-question
 > @0xfJuan if people can’t explain your project in their own words, you’ve failed
-
-this article is a distribution goldmine
+> 
+> this article is a distribution goldmine
 
 > **@0xHvdes** · 2095231563403309311 · depth 1 · counter-claim
 > @0xfJuan but I don't understand where the concept
-that the more views the more interested people came from?
-
-because in fact it's the opposite, as described in the article
-and I've noticed this myself many times
+> that the more views the more interested people came from?
+> 
+> because in fact it's the opposite, as described in the article
+> and I've noticed this myself many times
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

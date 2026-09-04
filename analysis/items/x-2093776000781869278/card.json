@@ -42,7 +42,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2093776000781869278/media/media_0.jpg",
       "type": "image",
       "description": "2026 GTM Flywheel Playbook infographic with six stages from traffic generation through retention, listing tools like HubSpot, Instantly, and Salesforce.",
       "skip_reason": null,
@@ -61,7 +61,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-08",

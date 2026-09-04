@@ -18,4 +18,4 @@
 **Links.** product (https://www.graphed.com/), https://www.graphed.com/mcp, https://mcp.graphed.com/mcp, https://www.graphed.com/register?returnTo=%2Fbook-demo
 **Related items.** [github-superdesigndev-treg](../github-superdesigndev-treg/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-crowdreply](../web-crowdreply/card.md), [web-anthropic-claude-self-service-data](../web-anthropic-claude-self-service-data/card.md), [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

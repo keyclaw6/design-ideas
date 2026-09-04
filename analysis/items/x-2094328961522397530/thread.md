@@ -8,10 +8,10 @@
 **Quoted.**
 > **@chrissyinspace** · 2093895489364316594
 > DR 14 ➜ DR 35 in 1.5 days!
-
-Honestly one of the most valuable backlinks around right now, as the domain rating is pretty good and the number of outgoing links is SUPER LOW! Lots of outgoing links dilute link juice.
-
-And you can get your dofollow backlink for 🆓 right now at https://t.co/rfJVHyLynT
+> 
+> Honestly one of the most valuable backlinks around right now, as the domain rating is pretty good and the number of outgoing links is SUPER LOW! Lots of outgoing links dilute link juice.
+> 
+> And you can get your dofollow backlink for 🆓 right now at https://t.co/rfJVHyLynT
 
 > **@chrissyinspace** · 2094330102989643872
 > TinyShots DR tracked by TinyLaunch: https://t.co/148euKdARg

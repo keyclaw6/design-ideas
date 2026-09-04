@@ -77,14 +77,14 @@
   },
   "media": [
     {
-      "path": "media/thumb.jpg",
+      "path": "raw/items/x-2094984529853530345/media/thumb.jpg",
       "type": "image",
       "description": "Braix hero screenshot with red/orange futuristic portrait, glassmorphism brain widgets, and scroll-to-explore indicator.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/video.mp4",
+      "path": "raw/items/x-2094984529853530345/media/video.mp4",
       "type": "video",
       "description": null,
       "skip_reason": "12-minute demo video not transcribed; workflow captured in author thread.",
@@ -112,10 +112,7 @@
       "github-nateherkai-scroll-craft",
       "web-getlayers-ai"
     ],
-    "must_read": [
-      "comments.md",
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Scroll-scrub video-frame recipe plus Scrolltide product funnel."
   },
   "worker": "cards-13",

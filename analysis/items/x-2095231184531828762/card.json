@@ -95,7 +95,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.mp4",
+      "path": "raw/items/x-2095231184531828762/media/media_0.mp4",
       "type": "video",
       "description": "Attached promo video accompanying the nine-bot Grok marketing stack pitch.",
       "skip_reason": null,
@@ -122,7 +122,7 @@
       "x-2094553318031024285",
       "x-2095081419202560010"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

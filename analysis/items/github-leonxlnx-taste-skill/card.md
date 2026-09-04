@@ -18,5 +18,5 @@
 **Links.** repo (https://github.com/Leonxlnx/taste-skill), product (https://tasteskill.dev), https://github.com/vercel-labs/agent-skills
 **Related items.** [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-jakubkrehel-skills](../github-jakubkrehel-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md)
 **Media.**
-`media/readme-banner.webp` (image, carries_technique=false) — Wide README banner for Taste Skill branding with preview collage of upgraded UI layouts and typography samples.
-**Judge hints.** must_read: [] · compare with: [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)
+`raw/items/github-leonxlnx-taste-skill/media/readme-banner.webp` (image, carries_technique=false) — Wide README banner for Taste Skill branding with preview collage of upgraded UI layouts and typography samples.
+**Judge hints.** must_read: False · compare with: [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)

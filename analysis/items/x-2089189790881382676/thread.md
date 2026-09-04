@@ -9,10 +9,10 @@
 **Relevant replies (2 of 3 captured).**
 > **@kunchenguid** · 2089216825745924179 · depth 1 · answered-question
 > @kunchenguid We use STRATEGY.md  in many skills today in Compound Engineering and it’s seeded with orj ce-strategy skill. 
-
-@pbakaus’ impeccable skill uses PRODUCT.md 
-
-We gotta agree on one filename :)
+> 
+> @pbakaus’ impeccable skill uses PRODUCT.md 
+> 
+> We gotta agree on one filename :)
 
 > **@trevin** · 2089207856369148045 · depth 1 · answered-question
 > @kunchenguid did a solo react native ios+android build in 4 weeks, auth kyc payments recipients history, the constraints doc was the only thing keeping scope sane

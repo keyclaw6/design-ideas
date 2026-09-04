@@ -18,4 +18,4 @@
 **Related items.** [x-2088695568474546387](../x-2088695568474546387/card.md), [x-2090103470015828184](../x-2090103470015828184/card.md), [x-2089165107364278341](../x-2089165107364278341/card.md), [github-superdesigndev-treg](../github-superdesigndev-treg/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 72 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

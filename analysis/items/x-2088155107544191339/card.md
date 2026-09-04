@@ -18,6 +18,6 @@
 **Links.** https://docs.google.com/document/d/13HUxIbnPr_gBO6rKI0Cbx2Zbka6-JP2B7etBri8ELdg
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [x-2086030681772376399](../x-2086030681772376399/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Vertical demo reel: neon glass synthwave product motion graphics and a picture-in-picture host reacting to the coded animation output.
+`raw/items/x-2088155107544191339/media/media_0.jpg` (video, carries_technique=true) — Vertical demo reel: neon glass synthwave product motion graphics and a picture-in-picture host reacting to the coded animation output.
 **Thread.** captured_partial · reported 10 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

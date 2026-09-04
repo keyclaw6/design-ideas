@@ -87,7 +87,7 @@
   },
   "media": [
     {
-      "path": "media/github-card.jpg",
+      "path": "raw/items/x-2095055297949610427/media/github-card.jpg",
       "type": "image",
       "description": "GitHub social card for iannuttall/seo describing 70+ SEO audit tools via local CLI and MCP.",
       "skip_reason": null,
@@ -112,7 +112,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-14",

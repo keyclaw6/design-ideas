@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 6 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** NVIDIAStudio reposts a fan Blender render crediting an RTX GPU and asks followers to share with #StudioShare for feature consideration—no technique, pipeline, or downloadable artifact beyond engagement farming.

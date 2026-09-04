@@ -18,4 +18,4 @@
 **Related items.** [x-2093377271771865267](../x-2093377271771865267/card.md), [x-2093374092795846745](../x-2093374092795846745/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 11 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

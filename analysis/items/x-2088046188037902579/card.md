@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [web-crowdreply](../web-crowdreply/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-nqz-ai-search-prompt-generator](../web-nqz-ai-search-prompt-generator/card.md), [web-seowins-io](../web-seowins-io/card.md), [web-known-agency](../web-known-agency/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Blog screenshot showing a 9px llms.txt anchor HTML snippet and text reporting 10/10 model fetch success after the nudge.
+`raw/items/x-2088046188037902579/media/media_0.jpg` (image, carries_technique=true) — Blog screenshot showing a 9px llms.txt anchor HTML snippet and text reporting 10/10 model fetch success after the nudge.
 **Thread.** captured_partial · reported 6 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

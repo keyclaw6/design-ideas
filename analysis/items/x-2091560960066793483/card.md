@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 9 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [web-opale-ui-taste](../web-opale-ui-taste/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md)
+**Judge hints.** must_read: False · compare with: [web-opale-ui-taste](../web-opale-ui-taste/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md)
 **Shelf reason.** The post only states a beige website quest with a handshake emoji and offers no linked site, repo, screenshots, or technique detail beyond aspirational copy in the harvested folder.

@@ -23,4 +23,4 @@ ask-matt" [post]
 **Related items.** [x-2086715093707063445](../x-2086715093707063445/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2087304957011911157](../x-2087304957011911157/card.md), [x-2082316720086405524](../x-2082316720086405524/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 20 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2087304957011911157](../x-2087304957011911157/card.md)
+**Judge hints.** must_read: False · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2087304957011911157](../x-2087304957011911157/card.md)

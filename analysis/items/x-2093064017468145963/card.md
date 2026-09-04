@@ -2,7 +2,7 @@
 
 `x-2093064017468145963` · x · thread · en · [source](https://x.com/abyssallD/status/2093064017468145963) · [raw](../../../raw/items/x-2093064017468145963/)
 **Author:** Abyssal (@abyssallD) · **Published:** — · **Captured:** 2026-09-04T06:49:37Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [blockout-to-video-flythrough](../../subjects/blockout-to-video-flythrough/brief.md) · **Also:** [image-to-3d-world](../../subjects/image-to-3d-world/brief.md) · **Roles:** example, technique · **Platforms:** blender, mcp, claude-code
 
 **Summary.** Thread describing a multi-MCP Claude Code pipeline: 3D AI Studio concept image, Blender MCP room build, reuse of 56 on-disk props plus Prism-generated alchemy assets, then export to Unity—not modeling every prop from scratch.
@@ -20,5 +20,5 @@ Then Blender MCP builds the room:" [post]
 **Links.** —
 **Related items.** —
 **Media.** —
-**Thread.** captured_partial · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2093986548404428942](../x-2093986548404428942/card.md)
+**Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: False · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2093986548404428942](../x-2093986548404428942/card.md)

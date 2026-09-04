@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2094927852399624557](../x-2094927852399624557/card.md), [web-treg-people-search](../web-treg-people-search/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=false) — Promo screen recording listing MapsData per-thousand lead pricing tiers, scrape volume caps, and live scraping features.
+`raw/items/x-2095214420398121034/media/media_0.mp4` (video, carries_technique=false) — Promo screen recording listing MapsData per-thousand lead pricing tiers, scrape volume caps, and live scraping features.
 **Thread.** captured_partial · reported 9 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [web-treg-people-search](../web-treg-people-search/card.md), [x-2094927852399624557](../x-2094927852399624557/card.md)
+**Judge hints.** must_read: False · compare with: [web-treg-people-search](../web-treg-people-search/card.md), [x-2094927852399624557](../x-2094927852399624557/card.md)

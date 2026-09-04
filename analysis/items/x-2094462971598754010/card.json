@@ -98,7 +98,7 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094462971598754010/media/photo.jpg",
       "type": "image",
       "description": "Comparison table with three arenas—reading memory back, writing memory down, volunteering memory—listing gbrain scores versus competitors and gap notes.",
       "skip_reason": null,
@@ -123,9 +123,7 @@
     "compare_with": [
       "web-davidgasquez-context-engineering"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "research.md notes README Cat 35 junk-leakage correction versus tweet still wording."
   },
   "schema_version": "1",

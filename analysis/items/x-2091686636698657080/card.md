@@ -18,6 +18,6 @@
 **Links.** product (https://assets.rivet.dev/manual/Rivet-Technical-Manual.pdf)
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Browser screenshot of the Rivet Technical Manual PDF showing a table of contents with Parts 1–8 (Actors, agentOS, Workflows, Dynamic Apps, Rivet Cloud, Self-Host) and an architecture stack diagram for connections, actions, queues, state, SQLite, and control plane.
+`raw/items/x-2091686636698657080/media/media_0.jpg` (image, carries_technique=false) — Browser screenshot of the Rivet Technical Manual PDF showing a table of contents with Parts 1–8 (Actors, agentOS, Workflows, Dynamic Apps, Rivet Cloud, Self-Host) and an architecture stack diagram for connections, actions, queues, state, SQLite, and control plane.
 **Thread.** captured_partial · reported 16 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [x-2091970263088816272](../x-2091970263088816272/card.md)

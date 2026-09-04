@@ -8,10 +8,10 @@
 **Quoted.**
 > **@natebjones** · 2090087689873715481
 > Well, this got more popular than I expected.
-
-I've seen a few replies here and there with skills folks have built off this, and here's mine:
-
-https://t.co/aqeXD3GPv6
+> 
+> I've seen a few replies here and there with skills folks have built off this, and here's mine:
+> 
+> https://t.co/aqeXD3GPv6
 
 **Relevant replies (1 of 1 captured).**
 > **@natebjones** · 2089501491702780279 · depth 1 · link

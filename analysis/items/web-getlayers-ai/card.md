@@ -18,5 +18,5 @@
 **Links.** product (https://www.getlayers.ai/)
 **Related items.** [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [web-aidesigner-mcp](../web-aidesigner-mcp/card.md), [github-mengto-skills](../github-mengto-skills/card.md), [web-sceneai-art](../web-sceneai-art/card.md)
 **Media.**
-`media/favicon.ico` (image, carries_technique=false) — Site favicon only; no visual technique signal.
-**Judge hints.** must_read: ['page.md'] · compare with: [web-sceneai-art](../web-sceneai-art/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)
+`raw/items/web-getlayers-ai/media/favicon.ico` (image, carries_technique=false) — Site favicon only; no visual technique signal.
+**Judge hints.** must_read: False · compare with: [web-sceneai-art](../web-sceneai-art/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)

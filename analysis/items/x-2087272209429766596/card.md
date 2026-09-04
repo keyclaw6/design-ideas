@@ -17,6 +17,6 @@
 **Links.** product (https://cadxstudio.in)
 **Related items.** [x-2095193896687177873](../x-2095193896687177873/card.md), [x-2090535643353153833](../x-2090535643353153833/card.md), [x-2088252062454751483](../x-2088252062454751483/card.md), [x-2095548418533798086](../x-2095548418533798086/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Screen recording of the generated walnut-legged bookshelf speaker with perforated grille rotating in CadX Studio.
+`raw/items/x-2087272209429766596/media/media_0.jpg` (video, carries_technique=true) — Screen recording of the generated walnut-legged bookshelf speaker with perforated grille rotating in CadX Studio.
 **Thread.** captured_partial · reported 32 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

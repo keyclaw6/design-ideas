@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2091913781236683162](../x-2091913781236683162/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Screen recording of MiniMax 3D Director Stage showing a blocked 3D scene with a placed figure, walls, and an authored camera path before video generation.
+`raw/items/x-2093053568748319181/media/media_0.jpg` (video, carries_technique=true) — Screen recording of MiniMax 3D Director Stage showing a blocked 3D scene with a placed figure, walls, and an authored camera path before video generation.
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
+**Judge hints.** must_read: False · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)

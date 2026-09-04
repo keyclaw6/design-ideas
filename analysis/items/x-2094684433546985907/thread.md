@@ -8,12 +8,12 @@
 **Quoted.**
 > **@samigrows** · 2094093678080119153
 > The fastest backlink you can get today is a directory submission. 90+  
-
-Crunchbase, G2, Clutch, Product Hunt, Capterra.  All DR 70 plus. All free. All indexable within days. 
-
-Most founders spend months chasing guest posts.  
-
-Ten directory submissions this afternoon beats six https://t.co/ts63Vwsvs3
+> 
+> Crunchbase, G2, Clutch, Product Hunt, Capterra.  All DR 70 plus. All free. All indexable within days. 
+> 
+> Most founders spend months chasing guest posts.  
+> 
+> Ten directory submissions this afternoon beats six https://t.co/ts63Vwsvs3
 
 **Relevant replies (1 of 3 captured).**
 > **@samigrows** · 2094781115110424813 · depth 1 · answered-question

@@ -11,8 +11,8 @@
 
 > **@earthtojake** · 2095373912271901113
 > full prompt:
-
-Build a quad-turbo 8.0L W16 in CAD at the level of the most beautiful engines ever built. Sectioned so the internals are exposed: cut one V8 bank at a cylinder centerline to reveal a full piston, rod, and valvetrain in profile, and leave the other bank intact. It
+> 
+> Build a quad-turbo 8.0L W16 in CAD at the level of the most beautiful engines ever built. Sectioned so the internals are exposed: cut one V8 bank at a cylinder centerline to reveal a full piston, rod, and valvetrain in profile, and leave the other bank intact. It
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

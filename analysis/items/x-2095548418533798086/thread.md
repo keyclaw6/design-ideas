@@ -8,8 +8,8 @@
 **Quoted.**
 > **@earthtojake** · 2095548420618399973
 > this makes version control with git much easier and faster, since everything is source code that compiles to 3D files
-
-(similar to any repo where you have some distribution artifacts)
+> 
+> (similar to any repo where you have some distribution artifacts)
 
 **Relevant replies (1 of 1 captured).**
 > **@earthtojake** · 2095576460191023165 · depth 1 · answered-question

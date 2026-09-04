@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2032671842230501729](../x-2032671842230501729/card.md), [x-2080856252687745093](../x-2080856252687745093/card.md), [x-2074912810803560497](../x-2074912810803560497/card.md), [x-2087151807965401320](../x-2087151807965401320/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — ASCII infographic: 135 Autoquant agents on a P2P gossip network, Darwinian selection box, and claimed Sharpe 1.32 result card.
+`raw/items/x-2032330665081839791/media/media_0.jpg` (image, carries_technique=true) — ASCII infographic: 135 Autoquant agents on a P2P gossip network, Darwinian selection box, and claimed Sharpe 1.32 result card.
 **Thread.** captured_partial · reported 79 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -19,7 +19,7 @@
 **Links.** https://x.com/chrissyinspace/status/2093895489364316594, https://tinyshelf.co, https://tinyshelf.co/submit, https://tinyshelf.co/tools/tinyshots, https://tinyshots.app, https://www.tinylaunch.com/directories, https://tinylaunch.com
 **Related items.** —
 **Media.**
-`media/photo.jpg` (image, carries_technique=false) — Ahrefs-style card showing tinyshelf.co Domain Rating 46 with purple donut chart at 1426x894.
-`media/quoted-photo.jpg` (image, carries_technique=false) — Quoted-post Ahrefs screenshot showing tinyshelf.co Domain Rating 35 from an earlier capture at 718x441.
+`raw/items/x-2094328961522397530/media/photo.jpg` (image, carries_technique=false) — Ahrefs-style card showing tinyshelf.co Domain Rating 46 with purple donut chart at 1426x894.
+`raw/items/x-2094328961522397530/media/quoted-photo.jpg` (image, carries_technique=false) — Quoted-post Ahrefs screenshot showing tinyshelf.co Domain Rating 35 from an earlier capture at 718x441.
 **Thread.** captured_partial · reported 21 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

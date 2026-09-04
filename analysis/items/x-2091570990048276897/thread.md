@@ -8,12 +8,12 @@
 **Quoted.**
 > **@kickingkeys** · 2091621857388605653
 > Write up : https://t.co/GDQOjkt9Gd (not up to date) 
-
-Sample Code : https://t.co/uvY7oWnVA9 
-
-https://t.co/xgS2XqXR6C
-
-https://t.co/jGD6OHNdDm
+> 
+> Sample Code : https://t.co/uvY7oWnVA9 
+> 
+> https://t.co/xgS2XqXR6C
+> 
+> https://t.co/jGD6OHNdDm
 
 > **@kickingkeys** · 2091656214455201964
 > Trained on @PrimeIntellect . Rollouts rendered on @modal.
@@ -24,7 +24,7 @@ https://t.co/jGD6OHNdDm
 **Relevant replies (1 of 1 captured).**
 > **@kickingkeys** · 2091756330721951762 · depth 1 · alternative-tool
 > @kickingkeys if you RL on brushes _creation_ too then it'd be pretty crazy! Could ease this by doing it as a separate process instead of e2e. Then you'd be able to hot swap brushes? 
-
-There's also buildStrokeShader
+> 
+> There's also buildStrokeShader
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

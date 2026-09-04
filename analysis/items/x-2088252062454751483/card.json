@@ -60,14 +60,14 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2088252062454751483/media/media_0.jpg",
       "type": "image",
       "description": "OpenSCAD viewport of a slotted homelab rack with perforated plates, translucent ghost volumes for reserved parts, and coordinate axes on a grid.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/media_1.jpg",
+      "path": "raw/items/x-2088252062454751483/media/media_1.jpg",
       "type": "image",
       "description": "Bambu Studio layout showing five print plates with rack frame, perforated square panels, and diagonal rail parts on numbered build surfaces.",
       "skip_reason": null,

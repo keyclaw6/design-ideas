@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/h4ckf0r0day/obscura), product (https://obscura.sh), https://docs.obscura.sh, https://docs.obscura.sh/llms.txt
 **Related items.** [web-obscura-sh](../web-obscura-sh/card.md), [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md), [x-2094427822064279870](../x-2094427822064279870/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [web-obscura-sh](../web-obscura-sh/card.md), [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md)
+**Judge hints.** must_read: False · compare with: [web-obscura-sh](../web-obscura-sh/card.md), [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md)

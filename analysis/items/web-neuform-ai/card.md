@@ -18,4 +18,4 @@
 **Links.** product (https://neuform.ai), https://x.com/tranmautritam/status/2095078647652917329
 **Related items.** [web-open-design-ai](../web-open-design-ai/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [web-getdesign-md](../web-getdesign-md/card.md), [web-aura-build](../web-aura-build/card.md), [web-sokosumi-design-md](../web-sokosumi-design-md/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

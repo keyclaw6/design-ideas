@@ -103,9 +103,7 @@
       "web-davidgasquez-context-engineering",
       "web-cerebras-knowledge-base"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Stack diagrams and Ramp harness details live in the full essay."
   },
   "worker": "cards-15",

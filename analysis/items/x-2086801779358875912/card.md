@@ -17,6 +17,6 @@
 **Links.** product (https://agenticui.net/showcase)
 **Related items.** [web-cult-ui](../web-cult-ui/card.md), [web-open-design-ai](../web-open-design-ai/card.md), [github-nexu-io-open-design](../github-nexu-io-open-design/card.md), [web-recent-design](../web-recent-design/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Screen recording scrolling the Agentic UI Showcase gallery of agent-built product interfaces.
+`raw/items/x-2086801779358875912/media/media_0.jpg` (video, carries_technique=false) — Screen recording scrolling the Agentic UI Showcase gallery of agent-built product interfaces.
 **Thread.** captured_partial · reported 33 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

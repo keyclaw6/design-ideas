@@ -18,7 +18,7 @@
 **Links.** paper (https://arxiv.org/abs/2608.30821), https://seed.bytedance.com/en/seed3d_2_0
 **Related items.** [x-2093937170717585657](../x-2093937170717585657/card.md), [x-2092242135504552118](../x-2092242135504552118/card.md)
 **Media.**
-`media/thumb.jpg` (image, carries_technique=true) — Lucida UI still: grey object-level scene reconstruction viewport above a row of indoor keyframe thumbnails from a lab room walkthrough.
-`media/video.mp4` (video, carries_technique=true) — 43s demo video showing Lucida parsing indoor keyframes into separate reconstructed 3D objects in a scene editor.
+`raw/items/x-2094961942058418268/media/thumb.jpg` (image, carries_technique=true) — Lucida UI still: grey object-level scene reconstruction viewport above a row of indoor keyframe thumbnails from a lab room walkthrough.
+`raw/items/x-2094961942058418268/media/video.mp4` (video, carries_technique=true) — 43s demo video showing Lucida parsing indoor keyframes into separate reconstructed 3D objects in a scene editor.
 **Thread.** captured_full · reported 1 · captured 1 · relevant 1 · author thread: captured → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'research.md'] · compare with: [x-2093937170717585657](../x-2093937170717585657/card.md), [x-2092242135504552118](../x-2092242135504552118/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093937170717585657](../x-2093937170717585657/card.md), [x-2092242135504552118](../x-2092242135504552118/card.md)

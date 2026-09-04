@@ -19,4 +19,4 @@
 **Related items.** [x-2088277946918142211](../x-2088277946918142211/card.md), [x-2088308976278790258](../x-2088308976278790258/card.md), [x-2087272209429766596](../x-2087272209429766596/card.md), [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md), [x-2088252062454751483](../x-2088252062454751483/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 18 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'research.md'] · compare with: [x-2088308976278790258](../x-2088308976278790258/card.md), [x-2088277946918142211](../x-2088277946918142211/card.md)
+**Judge hints.** must_read: False · compare with: [x-2088308976278790258](../x-2088308976278790258/card.md), [x-2088277946918142211](../x-2088277946918142211/card.md)

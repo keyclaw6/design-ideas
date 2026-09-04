@@ -64,7 +64,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2088231655177924993/media/media_0.jpg",
       "type": "image",
       "description": "Obsidian Mind README screenshot showing crystal logo, MIT license badge, and text describing an Obsidian vault for persistent agent memory with Claude Code, Codex CLI, and Gemini CLI hooks.",
       "skip_reason": null,

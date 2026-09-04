@@ -18,4 +18,4 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 5 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md)
+**Judge hints.** must_read: False · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md)

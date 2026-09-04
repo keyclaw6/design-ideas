@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2094864872853119216](../x-2094864872853119216/card.md), [x-2087905319255257296](../x-2087905319255257296/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Promo clip of a Highlands bike scene progressing from concept art through 3D assets into a Blender staging pass and Unreal ride-through.
+`raw/items/x-2088299905324396589/media/media_0.jpg` (video, carries_technique=true) — Promo clip of a Highlands bike scene progressing from concept art through 3D assets into a Blender staging pass and Unreal ride-through.
 **Thread.** captured_partial · reported 35 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2094864872853119216](../x-2094864872853119216/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
+**Judge hints.** must_read: False · compare with: [x-2094864872853119216](../x-2094864872853119216/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)

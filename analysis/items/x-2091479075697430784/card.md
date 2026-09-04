@@ -18,6 +18,6 @@ It will be live on http://grainient.supply this week." [post]
 **Links.** product (http://grainient.supply)
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Preview still of dithered animated gradient bands with grain texture, promoting the upcoming Dither Animation collection.
+`raw/items/x-2091479075697430784/media/media_0.jpg` (image, carries_technique=true) — Preview still of dithered animated gradient bands with grain texture, promoting the upcoming Dither Animation collection.
 **Thread.** captured_partial · reported 24 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

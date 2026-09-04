@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [web-aidesigner-mcp](../web-aidesigner-mcp/card.md), [web-aura-build](../web-aura-build/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — Screen recording demo of a website layout generated in one shot with Claude Fable 5.1.
+`raw/items/x-2095549461737111905/media/media_0.mp4` (video, carries_technique=true) — Screen recording demo of a website layout generated in one shot with Claude Fable 5.1.
 **Thread.** captured_partial · reported 27 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

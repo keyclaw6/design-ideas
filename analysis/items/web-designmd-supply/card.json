@@ -89,9 +89,7 @@
       "web-getdesign-md",
       "web-styles-refero-design"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Research documents capture failure and working-catalog substitutes."
   },
   "worker": "cards-06",

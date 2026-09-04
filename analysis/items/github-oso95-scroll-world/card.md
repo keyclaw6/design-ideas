@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/oso95/scroll-world), product (https://monid.ai), https://higgsfield.ai
 **Related items.** [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-fal-ai](../web-fal-ai/card.md), [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [web-utsubo](../web-utsubo/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

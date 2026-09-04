@@ -20,6 +20,6 @@ Same angles. Same timing. Same path." [post]
 **Links.** —
 **Related items.** [x-2093374092795846745](../x-2093374092795846745/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — About thirty-second demo of a night driving scene where Blender-locked camera path is skinned by Seedance 2.5 with photo references.
+`raw/items/x-2093377271771865267/media/media_0.mp4` (video, carries_technique=true) — About thirty-second demo of a night driving scene where Blender-locked camera path is skinned by Seedance 2.5 with photo references.
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -75,9 +75,7 @@
     "compare_with": [
       "web-flint-chart"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Parent tweet and exact tool name were not captured; research infers Plot/Mosaic/Evidence-class stack."
   },
   "worker": "cards-06",

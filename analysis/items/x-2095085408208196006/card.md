@@ -17,9 +17,9 @@
 **Links.** product (https://Imageory.in)
 **Related items.** [web-meigen-ai](../web-meigen-ai/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Blue monochrome classical bust facing a floating red poppy on a solid blue background.
-`media/media_1.jpg` (image, carries_technique=false) — Blue classical male bust in profile with a glowing red-orange sphere above the forehead.
-`media/media_2.jpg` (image, carries_technique=false) — Blue-robed classical figure reaching toward a large red moon in a minimalist night landscape.
-`media/media_3.jpg` (image, carries_technique=false) — Blue classical bust wearing glossy red wraparound visor sunglasses against a matching blue backdrop.
+`raw/items/x-2095085408208196006/media/media_0.jpg` (image, carries_technique=false) — Blue monochrome classical bust facing a floating red poppy on a solid blue background.
+`raw/items/x-2095085408208196006/media/media_1.jpg` (image, carries_technique=false) — Blue classical male bust in profile with a glowing red-orange sphere above the forehead.
+`raw/items/x-2095085408208196006/media/media_2.jpg` (image, carries_technique=false) — Blue-robed classical figure reaching toward a large red moon in a minimalist night landscape.
+`raw/items/x-2095085408208196006/media/media_3.jpg` (image, carries_technique=false) — Blue classical bust wearing glossy red wraparound visor sunglasses against a matching blue backdrop.
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

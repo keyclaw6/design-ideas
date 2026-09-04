@@ -18,4 +18,4 @@
 **Links.** product (https://typeui.sh), https://x.com/tranmautritam/status/2095078647652917329
 **Related items.** [web-designmd-me](../web-designmd-me/card.md), [github-jakubkrehel-skills](../github-jakubkrehel-skills/card.md), [web-checklist-design](../web-checklist-design/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — Screen recording of a multi-bot dashboard showing shared login, access ledger counts, and blast-radius metrics climbing.
+`raw/items/x-2094110975045554191/media/media_0.mp4` (video, carries_technique=true) — Screen recording of a multi-bot dashboard showing shared login, access ledger counts, and blast-radius metrics climbing.
 **Thread.** captured_partial · reported 18 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -88,9 +88,7 @@
       "github-leonxlnx-taste-skill",
       "x-2087304957011911157"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Documents grill-then-handoff harness for design-quality repos on Pi."
   },
   "worker": "cards-13",

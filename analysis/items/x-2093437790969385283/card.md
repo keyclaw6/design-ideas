@@ -24,6 +24,6 @@ CLIs - tools for the agents that are deterministic" [post]
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Architecture diagram: human chat surface, Hermes judgment layer, Grafana-fed detection pipeline, slim skills invoking CLIs, and telemetry loop back to observability.
+`raw/items/x-2093437790969385283/media/media_0.jpg` (image, carries_technique=true) — Architecture diagram: human chat surface, Hermes judgment layer, Grafana-fed detection pipeline, slim skills invoking CLIs, and telemetry loop back to observability.
 **Thread.** captured_partial · reported 24 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'media/media_0.jpg'] · compare with: [x-2091990178638496195](../x-2091990178638496195/card.md), [web-blume-codes](../web-blume-codes/card.md), [x-2087263510090874911](../x-2087263510090874911/card.md)
+**Judge hints.** must_read: False · compare with: [x-2091990178638496195](../x-2091990178638496195/card.md), [web-blume-codes](../web-blume-codes/card.md), [x-2087263510090874911](../x-2087263510090874911/card.md)

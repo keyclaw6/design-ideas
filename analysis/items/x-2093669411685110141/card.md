@@ -18,4 +18,4 @@
 **Related items.** —
 **Media.** —
 **Thread.** failed · reported 1 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

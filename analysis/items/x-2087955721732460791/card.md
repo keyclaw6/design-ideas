@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [x-2088231655177924993](../x-2088231655177924993/card.md), [x-2087208634493095978](../x-2087208634493095978/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Product demo video showing Type's multi-scope company brain interface with individual, team, and company memory layers.
+`raw/items/x-2087955721732460791/media/media_0.jpg` (video, carries_technique=false) — Product demo video showing Type's multi-scope company brain interface with individual, team, and company memory layers.
 **Thread.** captured_partial · reported 17 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -8,14 +8,14 @@
 **Quoted.**
 > **@iamtanzil_** · 2095482280185876486
 > Access all prompts https://t.co/8yqOGQgCZU
-
-The PROMPT
-
-# Header
-
-A scroll-scrubbed hero header for the LAOUNGE coffee brand, featuring a frame-accurate background video that seeks in sync with scroll and a giant title that shrinks into a floating logo as the user scrolls.
-
-##
+> 
+> The PROMPT
+> 
+> ＃ Header
+> 
+> A scroll-scrubbed hero header for the LAOUNGE coffee brand, featuring a frame-accurate background video that seeks in sync with scroll and a giant title that shrinks into a floating logo as the user scrolls.
+> 
+> ＃#
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

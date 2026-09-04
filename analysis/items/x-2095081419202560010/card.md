@@ -20,7 +20,7 @@ Powered by the GojiberryAI MCP." [post]
 **Links.** repo (https://github.com/romangojiberryAI/gojiberryai-sales-os), product (https://gojiberry.ai/), https://mcp.gojiberry.ai/mcp
 **Related items.** [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md)
 **Media.**
-`media/thumb.jpg` (image, carries_technique=false) — Video thumbnail showing the Gojiberry Sales OS agent roster diagram with role icons.
-`media/video.mp4` (video, carries_technique=false) — Screen recording walkthrough of the 13-agent Gojiberry outbound sales OS structure.
+`raw/items/x-2095081419202560010/media/thumb.jpg` (image, carries_technique=false) — Video thumbnail showing the Gojiberry Sales OS agent roster diagram with role icons.
+`raw/items/x-2095081419202560010/media/video.mp4` (video, carries_technique=false) — Screen recording walkthrough of the 13-agent Gojiberry outbound sales OS structure.
 **Thread.** captured_partial · reported 157 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

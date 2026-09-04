@@ -20,4 +20,4 @@
 **Related items.** [web-blume-codes](../web-blume-codes/card.md), [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 41 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

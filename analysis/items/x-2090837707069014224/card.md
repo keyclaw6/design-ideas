@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md), [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md), [web-obscura-sh](../web-obscura-sh/card.md), [web-crowdreply](../web-crowdreply/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Table comparing NYTimes, LinkedIn, Reddit, and 30+ sites across Claude, GPTBot, Chrome, and curl access outcomes.
+`raw/items/x-2090837707069014224/media/media_0.jpg` (image, carries_technique=false) — Table comparing NYTimes, LinkedIn, Reddit, and 30+ sites across Claude, GPTBot, Chrome, and curl access outcomes.
 **Thread.** captured_partial · reported 68 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

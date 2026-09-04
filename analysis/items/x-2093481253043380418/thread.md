@@ -8,19 +8,19 @@
 **Quoted.**
 > **@CalliopeLabsyt** · 2093118868092748246
 > This is crazy.
-
-266K views in 10 days.
-
-From a channel with JUST 1.95K subscribers.
-
-And look at how simple the video is.
-
-→ One question people instantly get curious about
-→ Simple 2D visuals
-→ Faceless storytelling
-→ A topic that feels surprisingly relatable
-
-And there are https://t.co/MOucNy6l7P
+> 
+> 266K views in 10 days.
+> 
+> From a channel with JUST 1.95K subscribers.
+> 
+> And look at how simple the video is.
+> 
+> → One question people instantly get curious about
+> → Simple 2D visuals
+> → Faceless storytelling
+> → A topic that feels surprisingly relatable
+> 
+> And there are https://t.co/MOucNy6l7P
 
 **Relevant replies (2 of 3 captured).**
 > **@CalliopeLabsyt** · 2093744675689472168 · depth 1 · answered-question

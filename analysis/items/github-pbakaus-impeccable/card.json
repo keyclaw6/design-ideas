@@ -102,7 +102,7 @@
   },
   "media": [
     {
-      "path": "media/favicon.ico",
+      "path": "raw/items/github-pbakaus-impeccable/media/favicon.ico",
       "type": "other",
       "description": "Site favicon asset bundled with the GitHub capture.",
       "skip_reason": null,
@@ -125,7 +125,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-19",

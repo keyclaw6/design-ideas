@@ -18,9 +18,7 @@
     "compare_with": [
       "x-2095368133070700884"
     ],
-    "must_read": [
-      "x-2095368133070700884"
-    ],
+    "must_read": false,
     "why_must_read": "Sibling post may include the full Sol website prompt template."
   },
   "worker": "cards-01",

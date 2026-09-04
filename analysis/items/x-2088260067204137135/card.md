@@ -18,4 +18,4 @@
 **Related items.** [x-2088290952704151671](../x-2088290952704151671/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.** —
 **Thread.** captured_full · reported 1 · captured 2 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

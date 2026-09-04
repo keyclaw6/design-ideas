@@ -9,9 +9,9 @@
 **Relevant replies (1 of 3 captured).**
 > **@skjtwts** · 2091791581502190030 · depth 1 · answered-question
 > @elie2222 Hey Elie, any chance we can speak in DMs?
-
-We would love to give u a donation for ur creation
-
-it's really simple, many founders did it with no risk
+> 
+> We would love to give u a donation for ur creation
+> 
+> it's really simple, many founders did it with no risk
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

@@ -8,12 +8,12 @@
 **Quoted.**
 > **@Palakonweb** · 2094797941554958536
 > Every time I post my GPT-generated images, my DMs and comments get flooded with people asking for prompts.
-
-So I built  https://t.co/Vcemq5XiZP
-
-Pinterest, but with the prompts attached.
-
-Browse AI-generated images, discover the exact prompts behind them, and use them as a https://t.co/Fbr62ED90i
+> 
+> So I built  https://t.co/Vcemq5XiZP
+> 
+> Pinterest, but with the prompts attached.
+> 
+> Browse AI-generated images, discover the exact prompts behind them, and use them as a https://t.co/Fbr62ED90i
 
 **Relevant replies (1 of 3 captured).**
 > **@Palakonweb** · 2095092737913827381 · depth 1 · link

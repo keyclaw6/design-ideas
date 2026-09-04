@@ -18,4 +18,4 @@
 **Links.** product (https://lottiefiles.com/), https://lottiefiles.com/features
 **Related items.** [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-animos-editor](../web-animos-editor/card.md), [web-originkit-dev](../web-originkit-dev/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-tinyshots](../web-tinyshots/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

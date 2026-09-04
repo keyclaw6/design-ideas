@@ -74,7 +74,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2087208634493095978/media/media_0.jpg",
       "type": "image",
       "description": "Memoria README header showing tree logo, v0.4.0 badge, MCP tag, and overview of git-like memory snapshots and semantic search features.",
       "skip_reason": null,
@@ -98,9 +98,7 @@
       "x-2087143369181114868",
       "x-2086920236079681607"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Tweet is one-liner; repo README screenshot carries the feature list."
   },
   "worker": "cards-07",

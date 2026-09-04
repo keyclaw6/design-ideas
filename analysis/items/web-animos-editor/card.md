@@ -18,4 +18,4 @@
 **Links.** product (https://animos.app/editor), https://animos.app/
 **Related items.** [web-lottiefiles](../web-lottiefiles/card.md), [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-tinyshots](../web-tinyshots/card.md), [web-fal-ai](../web-fal-ai/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

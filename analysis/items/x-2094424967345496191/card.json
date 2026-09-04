@@ -73,9 +73,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Article body was not fetched; category_note lists bb/cmux/Herdr/skills/worktrees topics."
   },
   "worker": "cards-06",

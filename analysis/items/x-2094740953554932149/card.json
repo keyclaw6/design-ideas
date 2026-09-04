@@ -29,7 +29,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-17",
@@ -97,21 +97,21 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094740953554932149/media/photo.jpg",
       "type": "image",
       "description": "Screenshot of treg.to/people-search landing: terminal GTM demo with 1B+ contacts and per-provider billing overlay.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/quoted-thumb.jpg",
+      "path": "raw/items/x-2094740953554932149/media/quoted-thumb.jpg",
       "type": "image",
       "description": "Thumbnail still from Jason Zhou's quoted launch video for treg people-search.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/quoted-video.mp4",
+      "path": "raw/items/x-2094740953554932149/media/quoted-video.mp4",
       "type": "video",
       "description": "Jason Zhou demo video introducing Claude for people-search at $0.0089 per lead.",
       "skip_reason": null,

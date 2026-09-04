@@ -17,4 +17,4 @@
 **Links.** product (https://www.cartier.com/en-dk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRWSBB0049), https://www.cartier.com/
 **Related items.** [web-utsubo](../web-utsubo/card.md), [web-oryzo-ai](../web-oryzo-ai/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-checklist-design](../web-checklist-design/card.md), [web-recent-design](../web-recent-design/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

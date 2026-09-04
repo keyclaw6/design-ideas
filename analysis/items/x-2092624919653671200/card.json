@@ -75,9 +75,7 @@
       "web-cartier-ballon-bleu",
       "web-recent-design"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Named finished-page illustration reference without a build breakdown."
   },
   "worker": "cards-11",

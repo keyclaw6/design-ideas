@@ -9,8 +9,8 @@
 **Relevant replies (2 of 3 captured).**
 > **@HumanleftJude** · 2090827225683603821 · depth 1 · number
 > @zcode_ai @zcode_ai can you clarify the 100m tokens rule for everyone?
-
-does "log in for the first time" during aug 22 00:00 – aug 24 09:00 utc+8 mean the account has to be created inside that window, or is it ok if the account was made earlier as long as the first login happens during the
+> 
+> does "log in for the first time" during aug 22 00:00 – aug 24 09:00 utc+8 mean the account has to be created inside that window, or is it ok if the account was made earlier as long as the first login happens during the
 
 > **@nanocody** · 2090794373864648895 · depth 1 · answered-question
 > @zcode_ai What disgusting solicitation, you’re unable to provide what you ‘offer,’ and what’s more you degrade the usage of your paying clients.

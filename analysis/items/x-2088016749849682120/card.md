@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [x-2087329201451855933](../x-2087329201451855933/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md), [web-flint-chart](../web-flint-chart/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Isometric rivers-of-empire system map with labeled evolution-loop blocks, pan/zoom controls, and a documentation sidebar.
+`raw/items/x-2088016749849682120/media/media_0.jpg` (image, carries_technique=true) — Isometric rivers-of-empire system map with labeled evolution-loop blocks, pan/zoom controls, and a documentation sidebar.
 **Thread.** captured_partial · reported 196 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

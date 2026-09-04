@@ -18,4 +18,4 @@
 **Links.** product (https://arcana-mfg.com/en/splat2mesh/), https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip
 **Related items.** [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [x-2095375790875840593](../x-2095375790875840593/card.md), [x-2091899114153754949](../x-2091899114153754949/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [x-2095375790875840593](../x-2095375790875840593/card.md)
+**Judge hints.** must_read: False · compare with: [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [x-2095375790875840593](../x-2095375790875840593/card.md)

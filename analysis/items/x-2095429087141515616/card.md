@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — Attached motion-landing demo clip showcasing premium scroll and transition polish for a brand site.
+`raw/items/x-2095429087141515616/media/media_0.mp4` (video, carries_technique=true) — Attached motion-landing demo clip showcasing premium scroll and transition polish for a brand site.
 **Thread.** captured_full · reported 3 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

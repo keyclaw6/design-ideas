@@ -53,7 +53,7 @@
   },
   "media": [
     {
-      "path": "media/og-image.png",
+      "path": "raw/items/web-originkit-dev/media/og-image.png",
       "type": "image",
       "description": "Originkit marketing screenshot showing the Spiral Images gallery component with sidebar controls for turns, spacing, spread, and animation speed on a dark UI.",
       "skip_reason": null,

@@ -74,7 +74,7 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094558408259272998/media/photo.jpg",
       "type": "image",
       "description": "Da Vinci-styled collage with Cerebras RAG funnel, Ramp post-AI data stack with MCP data-agent harness, and star-schema active-user sketch.",
       "skip_reason": null,
@@ -102,10 +102,7 @@
       "web-davidgasquez-context-engineering",
       "x-2094462971598754010"
     ],
-    "must_read": [
-      "post.md",
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Maps enterprise intelligence-layer pattern to public Ramp/Cerebras/Anthropic references."
   },
   "worker": "cards-13",

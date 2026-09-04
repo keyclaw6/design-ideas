@@ -58,7 +58,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.mp4",
+      "path": "raw/items/x-2093129469926215800/media/media_0.mp4",
       "type": "video",
       "description": "54-second HeyGen launch video demo using HyperFrames code-rendered motion graphics.",
       "skip_reason": null,
@@ -81,7 +81,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-16",

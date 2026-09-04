@@ -19,4 +19,4 @@
 **Related items.** [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2093053568748319181](../x-2093053568748319181/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 6 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2093053568748319181](../x-2093053568748319181/card.md)
+**Judge hints.** must_read: False · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2093053568748319181](../x-2093053568748319181/card.md)

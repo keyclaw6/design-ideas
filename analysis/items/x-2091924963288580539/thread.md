@@ -8,14 +8,14 @@
 **Quoted.**
 > **@magnific** · 2091922612989706432
 > This video was almost faster to make than to watch
-
-Unlimited MiniMax H3 Max for the next 3 days, exclusively in Magnific
-
-→ Generate as much as you want at 480p
-→ Pay credits to upgrade to 768p and 2K at full speed
-→ For Premium+ and Pro users
-
-Available now on Magnific https://t.co/6xyjnW994C
+> 
+> Unlimited MiniMax H3 Max for the next 3 days, exclusively in Magnific
+> 
+> → Generate as much as you want at 480p
+> → Pay credits to upgrade to 768p and 2K at full speed
+> → For Premium+ and Pro users
+> 
+> Available now on Magnific https://t.co/6xyjnW994C
 
 **Relevant replies (1 of 2 captured).**
 > **@fed_galactic** · 2092088279336390837 · depth 1 · alternative-tool

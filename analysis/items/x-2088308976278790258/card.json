@@ -79,9 +79,7 @@
       "x-2087272209429766596",
       "x-2089717063921332378"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Third CadX object class showing general text-to-CAD beyond furniture demos."
   },
   "worker": "cards-13",

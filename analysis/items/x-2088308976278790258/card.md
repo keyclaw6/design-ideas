@@ -18,4 +18,4 @@
 **Related items.** [x-2087272209429766596](../x-2087272209429766596/card.md), [x-2089717063921332378](../x-2089717063921332378/card.md), [x-2088296314484162719](../x-2088296314484162719/card.md), [x-2088277946918142211](../x-2088277946918142211/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 4 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [x-2087272209429766596](../x-2087272209429766596/card.md), [x-2089717063921332378](../x-2089717063921332378/card.md)
+**Judge hints.** must_read: False · compare with: [x-2087272209429766596](../x-2087272209429766596/card.md), [x-2089717063921332378](../x-2089717063921332378/card.md)

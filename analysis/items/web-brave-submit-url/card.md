@@ -18,4 +18,4 @@
 **Links.** product (https://search.brave.com/submit-url), https://search.brave.com/settings, https://search.brave.com/help/usage-metrics
 **Related items.** [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-tinylaunch-directories](../web-tinylaunch-directories/card.md), [web-crowdreply](../web-crowdreply/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

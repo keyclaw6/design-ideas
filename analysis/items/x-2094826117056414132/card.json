@@ -74,14 +74,14 @@
   },
   "media": [
     {
-      "path": "media/thumb.jpg",
+      "path": "raw/items/x-2094826117056414132/media/thumb.jpg",
       "type": "image",
       "description": "Splat2Mesh UI showing a potted plant splat beside a converted mesh with Quality, Voxel, and Convert mesh controls and vertex/triangle stats.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/video.mp4",
+      "path": "raw/items/x-2094826117056414132/media/video.mp4",
       "type": "video",
       "description": null,
       "skip_reason": null,

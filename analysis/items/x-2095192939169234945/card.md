@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 39 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Tweet is only a link to a social launch-distribution X article about posting everywhere overnight; topic is outbound GTM distribution, not design, video, agents, or 3D subjects in this taxonomy.

@@ -18,4 +18,4 @@
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 45 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

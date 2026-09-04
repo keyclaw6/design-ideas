@@ -104,23 +104,23 @@
   },
   "media": [
     {
-      "path": "media/thumb.jpg",
+      "path": "raw/items/x-2094553318031024285/media/quoted-article-cover.jpg",
+      "type": "image",
+      "description": "Quoted X article cover parodying Michelangelo's Creation of Adam with a Cursor-logo spark between the reaching hands.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "raw/items/x-2094553318031024285/media/thumb.jpg",
       "type": "image",
       "description": "Cinematic night-crowd still used as the attached video thumbnail, not a product UI screenshot.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/video.mp4",
+      "path": "raw/items/x-2094553318031024285/media/video.mp4",
       "type": "video",
       "description": "11-second amplify video accompanying the Grok Bot plus CrowdReply MCP setup pitch.",
-      "skip_reason": null,
-      "carries_technique": false
-    },
-    {
-      "path": "media/quoted-article-cover.jpg",
-      "type": "image",
-      "description": "Quoted X article cover parodying Michelangelo's Creation of Adam with a Cursor-logo spark between the reaching hands.",
       "skip_reason": null,
       "carries_technique": false
     }
@@ -145,9 +145,7 @@
     "compare_with": [
       "web-crowdreply"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Quoted Dawood article with six bot templates and citation-outreach receipts is summarized only in research.md."
   },
   "worker": "cards-12",

@@ -17,9 +17,9 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — PRYNE hero with purple gradient, 3D math symbols, and headline Formulas, minus the fear.
-`media/media_1.jpg` (image, carries_technique=true) — Peach gradient PRYNE slide with 3D operator blocks and Build with numbers headline.
-`media/media_2.jpg` (image, carries_technique=true) — Dark PRYNE lockup with glossy white 3D operator symbols and Numbers. Logic. Motion tagline.
-`media/media_3.jpg` (image, carries_technique=true) — Light PRYNE slide with chrome multiplication sign and floating pastel number discs.
+`raw/items/x-2092890365930131920/media/media_0.jpg` (image, carries_technique=true) — PRYNE hero with purple gradient, 3D math symbols, and headline Formulas, minus the fear.
+`raw/items/x-2092890365930131920/media/media_1.jpg` (image, carries_technique=true) — Peach gradient PRYNE slide with 3D operator blocks and Build with numbers headline.
+`raw/items/x-2092890365930131920/media/media_2.jpg` (image, carries_technique=true) — Dark PRYNE lockup with glossy white 3D operator symbols and Numbers. Logic. Motion tagline.
+`raw/items/x-2092890365930131920/media/media_3.jpg` (image, carries_technique=true) — Light PRYNE slide with chrome multiplication sign and floating pastel number discs.
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

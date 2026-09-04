@@ -112,7 +112,7 @@ Criteria only. No ranking language. A later judge scores each shortlisted item o
 
 ## ai-cad-hardware — thread coverage
 
-X items in primary roster: 17. captured_full=0, captured_partial=16, empty=1, failed=0.
+X items in primary roster: 17. captured_full=0, captured_partial=14, empty=3, failed=0.
 Logged-out x.com HTML was the working conversation source. Guest GraphQL TweetDetail 404'd; fxtwitter gives counts, not replies.
 Partial threads still have the first visible replies and any author continuation that rendered. Treat missing replies as unknown, not as 'no one answered'.
 
@@ -123,14 +123,14 @@ Partial threads still have the first visible replies and any author continuation
 | [x-2088277946918142211](../../items/x-2088277946918142211/thread.md) | captured_partial | 5 | 1 | 0 |
 | [x-2088296314484162719](../../items/x-2088296314484162719/thread.md) | captured_partial | 18 | 3 | 2 |
 | [x-2088308976278790258](../../items/x-2088308976278790258/thread.md) | captured_partial | 4 | 1 | 0 |
-| [x-2089717063921332378](../../items/x-2089717063921332378/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2089717063921332378](../../items/x-2089717063921332378/thread.md) | empty | 0 | 0 | 0 |
 | [x-2089802212000362939](../../items/x-2089802212000362939/thread.md) | captured_partial | 6 | 3 | 1 |
 | [x-2090535643353153833](../../items/x-2090535643353153833/thread.md) | empty | 0 | 0 | 0 |
 | [x-2091621183422943726](../../items/x-2091621183422943726/thread.md) | captured_partial | 4 | 1 | 0 |
 | [x-2091891133286605067](../../items/x-2091891133286605067/thread.md) | captured_partial | 27 | 1 | 1 |
 | [x-2092106682302140648](../../items/x-2092106682302140648/thread.md) | captured_partial | 25 | 3 | 2 |
 | [x-2093020107509514674](../../items/x-2093020107509514674/thread.md) | captured_partial | 34 | 1 | 1 |
-| [x-2093305736717545869](../../items/x-2093305736717545869/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2093305736717545869](../../items/x-2093305736717545869/thread.md) | empty | 0 | 0 | 0 |
 | [x-2094840529997410525](../../items/x-2094840529997410525/thread.md) | captured_partial | 71 | 1 | 1 |
 | [x-2095193896687177873](../../items/x-2095193896687177873/thread.md) | captured_partial | 79 | 1 | 1 |
 | [x-2095352925597884465](../../items/x-2095352925597884465/thread.md) | captured_partial | 64 | 1 | 0 |
@@ -138,7 +138,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## ai-cad-hardware — gaps and open questions
 
-Primary readiness: ready=1, ready-with-gaps=16. Gap tags: linked-page-unfetched=3, media-undescribed=2, thread-partial=2, thread-failed=1.
+Primary readiness: ready=2, ready-with-gaps=15. Gap tags: linked-page-unfetched=3, media-undescribed=2, thread-partial=2, thread-failed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

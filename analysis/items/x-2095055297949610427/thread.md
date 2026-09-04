@@ -9,14 +9,14 @@
 **Relevant replies (2 of 3 captured).**
 > **@midego1** · 2095079759361249541 · depth 1 · answered-question
 > @iannuttall I used it - got a few good idea from it which I implemented
-
-As I'm using it via CLI, I don't see a benefit to simplifying it (i.e. I want the best output, I don't care if it's simple/complex since my agents do all of the work anyway)
+> 
+> As I'm using it via CLI, I don't see a benefit to simplifying it (i.e. I want the best output, I don't care if it's simple/complex since my agents do all of the work anyway)
 
 > **@jansulek** · 2095059888577655190 · depth 1 · alternative-tool
 > @iannuttall I haven't used it yet, but I'll give it a try today
-
-I have a custom seo skill that is mostly a wrapper for DataForSEO and it works OK
-
-I noticed you have it as research provider 👀
+> 
+> I have a custom seo skill that is mostly a wrapper for DataForSEO and it works OK
+> 
+> I noticed you have it as research provider 👀
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

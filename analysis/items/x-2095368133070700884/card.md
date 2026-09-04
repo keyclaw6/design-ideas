@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2095451624139567162](../x-2095451624139567162/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — Five-second demo video of a website generated with a GPT 5.6 Sol prompt; prompt text not present in the captured post.
+`raw/items/x-2095368133070700884/media/media_0.mp4` (video, carries_technique=true) — Five-second demo video of a website generated with a GPT 5.6 Sol prompt; prompt text not present in the captured post.
 **Thread.** failed · reported 1 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)
-**Judge hints.** must_read: ['x-2095451624139567162'] · compare with: [x-2095451624139567162](../x-2095451624139567162/card.md)
+**Judge hints.** must_read: False · compare with: [x-2095451624139567162](../x-2095451624139567162/card.md)

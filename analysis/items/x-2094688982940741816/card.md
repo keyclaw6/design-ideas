@@ -18,8 +18,8 @@
 **Links.** product (https://search.brave.com/submit-url), https://seowins.io/
 **Related items.** [web-brave-submit-url](../web-brave-submit-url/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=true) — Dark analytics table ranking source/medium rows; search.brave.com/referral shows 1,190 visitors at 1.34% of 88,974 total sessions with a yellow arrow highlight.
-`media/quoted-photo.jpg` (image, carries_technique=true) — Brave submit-url form with heading 'Insert the URL to be re-fetched', empty URL input, and gray Submit button.
-`media/quoted-after.jpg` (image, carries_technique=false) — Brave submit-url form after entering https://hridoyreh.com/ showing a Success confirmation and a grayed Submitted button.
+`raw/items/x-2094688982940741816/media/photo.jpg` (image, carries_technique=true) — Dark analytics table ranking source/medium rows; search.brave.com/referral shows 1,190 visitors at 1.34% of 88,974 total sessions with a yellow arrow highlight.
+`raw/items/x-2094688982940741816/media/quoted-after.jpg` (image, carries_technique=false) — Brave submit-url form after entering https://hridoyreh.com/ showing a Success confirmation and a grayed Submitted button.
+`raw/items/x-2094688982940741816/media/quoted-photo.jpg` (image, carries_technique=true) — Brave submit-url form with heading 'Insert the URL to be re-fetched', empty URL input, and gray Submit button.
 **Thread.** captured_partial · reported 13 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -18,6 +18,6 @@
 **Links.** repo (https://huggingface.co/unsloth/Qwen3.8-27B-GGUF), https://unsloth.ai/docs/models/qwen3.8
 **Related items.** [x-2087562269807030754](../x-2087562269807030754/card.md), [x-2087962842985058365](../x-2087962842985058365/card.md), [x-2087240056037908509](../x-2087240056037908509/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Infographic lists Qwen3.8-27B specs, RAM tiers by quant bit-width, recommended thinking vs non-thinking sampling presets, and benchmark tables versus other 27B-class models.
+`raw/items/x-2088281537427235320/media/media_0.jpg` (image, carries_technique=true) — Infographic lists Qwen3.8-27B specs, RAM tiers by quant bit-width, recommended thinking vs non-thinking sampling presets, and benchmark tables versus other 27B-class models.
 **Thread.** captured_partial · reported 204 · captured 2 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

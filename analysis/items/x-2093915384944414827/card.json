@@ -82,7 +82,7 @@
       "x-2093767075131220005",
       "github-nateherkai-scroll-craft"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

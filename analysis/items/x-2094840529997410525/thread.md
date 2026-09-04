@@ -12,6 +12,6 @@
 **Relevant replies (1 of 1 captured).**
 > **@Trevs_Dev** · 2095122871479656455 · depth 1 · alternative-tool
 > @Trevs_Dev @arenaphysica Have you any comparison between the generated electromagnetic flow vs a real one? 
-Interface is dope btw!
+> Interface is dope btw!
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

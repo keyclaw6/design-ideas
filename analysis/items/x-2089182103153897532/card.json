@@ -103,9 +103,7 @@
       "web-cult-ui",
       "web-originkit-dev"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Tweet is a one-line reaction; research lists component inventory and /r agent index."
   },
   "worker": "cards-07",

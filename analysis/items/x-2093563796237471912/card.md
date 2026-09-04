@@ -17,6 +17,6 @@
 **Links.** repo (https://github.com/nicolasvonluetzow/GaussianGPT), paper (https://github.com/nicolasvonluetzow/GaussianGPT)
 **Related items.** —
 **Media.**
-`media/media_0.mp4` (video, carries_technique=false) — Demo video not frame-reviewed; paper claims covered in post text.
+`raw/items/x-2093563796237471912/media/media_0.mp4` (video, carries_technique=false) — Demo video not frame-reviewed; paper claims covered in post text.
 **Thread.** captured_partial · reported 5 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2094648474377839018](../x-2094648474377839018/card.md)
+**Judge hints.** must_read: False · compare with: [x-2094648474377839018](../x-2094648474377839018/card.md)

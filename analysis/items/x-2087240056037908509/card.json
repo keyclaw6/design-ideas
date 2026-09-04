@@ -94,9 +94,7 @@
       "x-2087562269807030754",
       "x-2087715372787228734"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Dated free-token pointer for agent eval budgets; re-check AMD pages before relying on it."
   },
   "worker": "cards-11",

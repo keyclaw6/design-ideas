@@ -69,7 +69,7 @@
   },
   "media": [
     {
-      "path": "media/preview.webp",
+      "path": "raw/items/github-antvis-infographic/media/preview.webp",
       "type": "image",
       "description": "Wide gallery preview of colorful AntV infographic templates including list, process, and comparison layouts.",
       "skip_reason": null,

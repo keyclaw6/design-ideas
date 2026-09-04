@@ -82,9 +82,7 @@
     "compare_with": [
       "x-2093681908227936745"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Breakdown content and video were not fully captured; only headline metrics in post.md."
   },
   "worker": "cards-06",

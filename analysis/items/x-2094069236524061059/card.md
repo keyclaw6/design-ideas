@@ -24,4 +24,4 @@ Motion" [post]
 **Related items.** [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 20 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

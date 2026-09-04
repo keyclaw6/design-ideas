@@ -8,7 +8,7 @@
 **Quoted.**
 > **@_can1357** · 2090846367824363850
 > * im sure some of the edge gateways are smarter and check TLS fingerprints etc. -&gt; table above doesn't reflect all you can do w/ it as I didn't try that hard
-point is more so that it seems no one adopted the signed bots thingy CF came up with and you can 100% roleplay as clawd
+> point is more so that it seems no one adopted the signed bots thingy CF came up with and you can 100% roleplay as clawd
 
 **Relevant replies (1 of 1 captured).**
 > **@_can1357** · 2090839581251797044 · depth 1 · counter-claim

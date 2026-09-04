@@ -70,7 +70,7 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094742312433684496/media/photo.jpg",
       "type": "image",
       "description": "Google SERP screenshot for ai tool to convert pdf to excel with a Reddit r/pdf thread ranking number one.",
       "skip_reason": null,
@@ -93,7 +93,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-18",

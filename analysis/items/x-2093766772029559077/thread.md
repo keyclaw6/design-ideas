@@ -9,7 +9,7 @@
 **Relevant replies (2 of 3 captured).**
 > **@Voxyz_ai** · 2094239852342739136 · depth 1 · link
 > @Voxyz_ai https://t.co/ZzPphAhS5I
-これ？
+> これ？
 
 > **@kaz5709** · 2093996801976045724 · depth 1 · answered-question
 > @Voxyz_ai The problem with this, is that now everyone are seeing the same design.MD files, and giving them to their agents, which again makes everyone create sites that look exactly the same...

@@ -120,9 +120,7 @@
       "github-nexu-io-html-video",
       "github-emilkowalski-skills"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Research frames motion-anything between taste skills and html-video film pipeline."
   },
   "worker": "cards-15",

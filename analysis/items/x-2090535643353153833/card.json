@@ -78,7 +78,7 @@
       "x-2087272209429766596",
       "x-2089802212000362939"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

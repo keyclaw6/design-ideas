@@ -99,7 +99,7 @@
   "recipe_steps": null,
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-09",

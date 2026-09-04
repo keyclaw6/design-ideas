@@ -8,8 +8,8 @@
 **Quoted.**
 > **@simplifyinAI** · 2093153420119089241
 > Here's the link: https://t.co/EVyRdK4iJv
-
-If you want more practical AI gems and a list of full free AI resources, go here: https://t.co/4ImVkDeT6N
+> 
+> If you want more practical AI gems and a list of full free AI resources, go here: https://t.co/4ImVkDeT6N
 
 **Relevant replies (1 of 1 captured).**
 > **@simplifyinAI** · 2093285789019054448 · depth 1 · alternative-tool

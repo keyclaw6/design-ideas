@@ -65,7 +65,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2094450512938856802/media/media_0.jpg",
       "type": "image",
       "description": "AI responses dashboard showing growth in AI Overviews, ChatGPT, Perplexity, Copilot, and AI Mode citation counts on a new index.",
       "skip_reason": null,
@@ -86,7 +86,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-08",

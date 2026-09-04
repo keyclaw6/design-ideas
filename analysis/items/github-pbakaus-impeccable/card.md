@@ -18,5 +18,5 @@
 **Links.** repo (https://github.com/pbakaus/impeccable), product (https://impeccable.style), https://github.com/anthropics/skills/tree/main/skills/frontend-design
 **Related items.** [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-checklist-design](../web-checklist-design/card.md)
 **Media.**
-`media/favicon.ico` (other, carries_technique=false) — Site favicon asset bundled with the GitHub capture.
-**Judge hints.** must_read: [] · compare with: —
+`raw/items/github-pbakaus-impeccable/media/favicon.ico` (other, carries_technique=false) — Site favicon asset bundled with the GitHub capture.
+**Judge hints.** must_read: False · compare with: —

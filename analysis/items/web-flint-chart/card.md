@@ -18,5 +18,5 @@
 **Links.** repo (https://github.com/microsoft/flint-chart), product (https://flint.data-formulator.ai/mcp), https://www.npmjs.com/package/flint-chart
 **Related items.** [github-antvis-infographic](../github-antvis-infographic/card.md), [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [web-iandmacomber-post-ai-data-stack](../web-iandmacomber-post-ai-data-stack/card.md), [web-aidesigner-mcp](../web-aidesigner-mcp/card.md)
 **Media.**
-`media/favicon.svg` (other, carries_technique=false) — Flint site favicon: geometric folded-paper mark in gray tones used on the project docs homepage.
-**Judge hints.** must_read: [] · compare with: [github-antvis-infographic](../github-antvis-infographic/card.md), [web-aidesigner-mcp](../web-aidesigner-mcp/card.md)
+`raw/items/web-flint-chart/media/favicon.svg` (other, carries_technique=false) — Flint site favicon: geometric folded-paper mark in gray tones used on the project docs homepage.
+**Judge hints.** must_read: False · compare with: [github-antvis-infographic](../github-antvis-infographic/card.md), [web-aidesigner-mcp](../web-aidesigner-mcp/card.md)

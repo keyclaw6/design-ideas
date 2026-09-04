@@ -19,7 +19,7 @@
 **Links.** —
 **Related items.** [x-2093937170717585657](../x-2093937170717585657/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Demo video showing a single input photo transformed into an interactive 3D room scene with separately selectable furniture and props.
-`media/media_1.jpg` (video, carries_technique=true) — Follow-up demo clip showing physics interaction and engine export from the WorldGen reconstruction.
+`raw/items/x-2095437841958314100/media/media_0.jpg` (video, carries_technique=true) — Demo video showing a single input photo transformed into an interactive 3D room scene with separately selectable furniture and props.
+`raw/items/x-2095437841958314100/media/media_1.jpg` (video, carries_technique=true) — Follow-up demo clip showing physics interaction and engine export from the WorldGen reconstruction.
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [x-2093937170717585657](../x-2093937170717585657/card.md), [x-2094864872853119216](../x-2094864872853119216/card.md)

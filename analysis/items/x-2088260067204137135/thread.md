@@ -12,7 +12,7 @@
 
 > **@vikvang1** · 2088289889334735191 · depth 1 · recipe
 > @vikvang1 @mattpocockuk my prompt folder has 40 files trying to do this
-
-apparently i just needed three sentences and patience
+> 
+> apparently i just needed three sentences and patience
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

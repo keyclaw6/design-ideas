@@ -69,7 +69,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.mp4",
+      "path": "raw/items/x-2093481253043380418/media/media_0.mp4",
       "type": "video",
       "description": "Product demo clip showing Calliope generating a finished 2D animated faceless video from a single idea through script, characters, animation, and voiceover.",
       "skip_reason": null,
@@ -92,7 +92,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

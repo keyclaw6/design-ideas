@@ -8,9 +8,9 @@
 **Quoted.**
 > **@fakharkamario** · 2093682469690089744
 > What made this work:
-
-➜ It positioned the product as a movement, not just a tool.
-The opening line, “Builders don’t imagine a business, they build it,” immediately creates a clear identity. You’re either someone who keeps thinking about ideas or someone who actually builds. That
+> 
+> ➜ It positioned the product as a movement, not just a tool.
+> The opening line, “Builders don’t imagine a business, they build it,” immediately creates a clear identity. You’re either someone who keeps thinking about ideas or someone who actually builds. That
 
 > **@fakharkamario** · 2093685197090758766
 > It's produced by the @Base44 team

@@ -77,7 +77,7 @@
   },
   "media": [
     {
-      "path": "media/photo.png",
+      "path": "raw/items/x-2095078647652917329/media/photo.png",
       "type": "image",
       "description": "4096-square collage grid of nine DESIGN.md site cards with logos and URLs for Refero, designmd.me, open-design.ai, designmd.supply, getdesign.md, Aura, Neuform, Hyperbrowser, and TypeUI.",
       "skip_reason": null,
@@ -101,7 +101,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-16",

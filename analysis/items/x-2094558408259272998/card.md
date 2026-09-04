@@ -18,6 +18,6 @@
 **Links.** https://www.iandmacomber.com/blog/post-ai-data-stack, https://www.cerebras.ai/blog/how-we-built-our-knowledge-base, https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
 **Related items.** [web-iandmacomber-post-ai-data-stack](../web-iandmacomber-post-ai-data-stack/card.md), [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=true) — Da Vinci-styled collage with Cerebras RAG funnel, Ramp post-AI data stack with MCP data-agent harness, and star-schema active-user sketch.
+`raw/items/x-2094558408259272998/media/photo.jpg` (image, carries_technique=true) — Da Vinci-styled collage with Cerebras RAG funnel, Ramp post-AI data stack with MCP data-agent harness, and star-schema active-user sketch.
 **Thread.** captured_partial · reported 7 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'research.md'] · compare with: [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [x-2094462971598754010](../x-2094462971598754010/card.md)
+**Judge hints.** must_read: False · compare with: [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [x-2094462971598754010](../x-2094462971598754010/card.md)

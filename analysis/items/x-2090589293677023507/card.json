@@ -91,10 +91,7 @@
       "web-arcana-splat2mesh",
       "x-2094826117056414132"
     ],
-    "must_read": [
-      "post.md",
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Infrastructure bookmark for site-scale splat deployment versus shipping multi-gigabyte PLY files."
   },
   "worker": "cards-11",

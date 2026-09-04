@@ -8,10 +8,10 @@
 **Quoted.**
 > **@irinatoxi** · 2087561481478897679
 > CAD software just became a chat window.
-
-This guy is redesigning a 400ml cup in Autodesk Fusion by talking to Claude.
-
-He asks for a tapered body. Claude builds it through MCP. Then he asks for grip rings. Claude adds them. One looks wrong, so he says remove it. Then he changes https://t.co/2yS34TKlMX
+> 
+> This guy is redesigning a 400ml cup in Autodesk Fusion by talking to Claude.
+> 
+> He asks for a tapered body. Claude builds it through MCP. Then he asks for grip rings. Claude adds them. One looks wrong, so he says remove it. Then he changes https://t.co/2yS34TKlMX
 
 **Relevant replies (2 of 3 captured).**
 > **@10_X_eng** · 2088319604607144126 · depth 1 · answered-question

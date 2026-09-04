@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2093160779960774982](../x-2093160779960774982/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Benchmark table comparing REAP-288 and full-model configs showing resident RAM, bare and MTP speeds, and quality percentages with a highlighted 37.3GB row.
+`raw/items/x-2093429897188299113/media/media_0.jpg` (image, carries_technique=true) — Benchmark table comparing REAP-288 and full-model configs showing resident RAM, bare and MTP speeds, and quality percentages with a highlighted 37.3GB row.
 **Thread.** captured_partial · reported 38 · captured 2 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2093160779960774982](../x-2093160779960774982/card.md), [x-2087240056037908509](../x-2087240056037908509/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093160779960774982](../x-2093160779960774982/card.md), [x-2087240056037908509](../x-2087240056037908509/card.md)

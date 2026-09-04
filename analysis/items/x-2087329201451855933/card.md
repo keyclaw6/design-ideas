@@ -18,4 +18,4 @@
 **Related items.** [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md), [web-flint-chart](../web-flint-chart/card.md), [x-2088016749849682120](../x-2088016749849682120/card.md), [x-2088590355440476343](../x-2088590355440476343/card.md)
 **Media.** —
 **Thread.** captured_full · reported 1 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

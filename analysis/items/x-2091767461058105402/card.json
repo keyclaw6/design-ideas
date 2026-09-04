@@ -89,9 +89,7 @@
     "compare_with": [
       "x-2093309791120543846"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Only link is the studio URL; product surface not captured yet."
   },
   "worker": "cards-07",

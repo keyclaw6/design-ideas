@@ -60,7 +60,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2090839282831270173/media/media_0.jpg",
       "type": "video",
       "description": "Demo video attachment showing in-browser Gaussian splat training with Splat.js credited to PixelBilly and arrival_space.",
       "skip_reason": null,
@@ -84,7 +84,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-15",

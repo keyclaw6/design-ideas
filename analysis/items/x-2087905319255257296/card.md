@@ -20,4 +20,4 @@
 **Related items.** [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 2 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [x-2088299905324396589](../x-2088299905324396589/card.md)
+**Judge hints.** must_read: False · compare with: [x-2088299905324396589](../x-2088299905324396589/card.md)

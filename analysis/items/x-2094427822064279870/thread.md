@@ -12,6 +12,6 @@
 **Relevant replies (1 of 1 captured).**
 > **@0xJokker** · 2094444514928677045 · depth 1 · number
 > @0xJokker La parte realmente interesante no son los 30 MB de RAM.
-Es diseñar un navegador pensando desde el inicio en agentes y automatizacion, en lugar de adaptar un navegador tradicional para que los soporte.
+> Es diseñar un navegador pensando desde el inicio en agentes y automatizacion, en lugar de adaptar un navegador tradicional para que los soporte.
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [x-2087565352372723955](../x-2087565352372723955/card.md), [x-2092255768770920506](../x-2092255768770920506/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Desk scene: monitor shows Blender bpy rigid-body script beside a floating grey cube with AR marker paper, RGB PC tower, and peripherals.
+`raw/items/x-2065843739340509693/media/media_0.jpg` (video, carries_technique=true) — Desk scene: monitor shows Blender bpy rigid-body script beside a floating grey cube with AR marker paper, RGB PC tower, and peripherals.
 **Thread.** captured_partial · reported 119 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

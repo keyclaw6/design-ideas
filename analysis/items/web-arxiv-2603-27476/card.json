@@ -107,7 +107,7 @@
     "compare_with": [
       "github-LessieAI-people-search-bench"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

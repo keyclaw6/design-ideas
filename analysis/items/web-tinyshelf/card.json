@@ -106,7 +106,7 @@
     "compare_with": [
       "web-tinylaunch-directories"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

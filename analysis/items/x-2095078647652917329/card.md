@@ -18,6 +18,6 @@
 **Links.** https://styles.refero.design/, https://designmd.me/, https://open-design.ai/, https://designmd.supply/, https://getdesign.md/, https://aura.build/, https://neuform.ai/, https://design-md.hyperbrowser.ai/, https://typeui.sh/, https://www.sokosumi.com/tools/design-md
 **Related items.** [github-nexu-io-open-design](../github-nexu-io-open-design/card.md), [web-open-design-ai](../web-open-design-ai/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)
 **Media.**
-`media/photo.png` (image, carries_technique=false) — 4096-square collage grid of nine DESIGN.md site cards with logos and URLs for Refero, designmd.me, open-design.ai, designmd.supply, getdesign.md, Aura, Neuform, Hyperbrowser, and TypeUI.
+`raw/items/x-2095078647652917329/media/photo.png` (image, carries_technique=false) — 4096-square collage grid of nine DESIGN.md site cards with logos and URLs for Refero, designmd.me, open-design.ai, designmd.supply, getdesign.md, Aura, Neuform, Hyperbrowser, and TypeUI.
 **Thread.** captured_partial · reported 44 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

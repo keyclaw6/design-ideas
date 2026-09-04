@@ -12,7 +12,7 @@
 
 > **@Nagistakee** · 2091929736276570330 · depth 1 · link
 > @NathanFlurry Nice! I did something similar for the Swift Language Guide a while ago, and someone actually went to the trouble to print it as a hardback - it looks stunning!
-
-https://t.co/PUGTucL8ay https://t.co/Du9uOV5k5G
+> 
+> https://t.co/PUGTucL8ay https://t.co/Du9uOV5k5G
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

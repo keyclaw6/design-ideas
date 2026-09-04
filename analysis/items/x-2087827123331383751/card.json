@@ -96,7 +96,7 @@
       "github-iannuttall-seo",
       "web-seowins-io"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

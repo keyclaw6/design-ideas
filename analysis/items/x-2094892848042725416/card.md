@@ -20,7 +20,7 @@
 **Links.** repo (https://github.com/romangojiberryAI/gojiberryai-sales-os), product (https://gojiberry.ai/), https://mcp.gojiberry.ai/mcp
 **Related items.** [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [x-2095081419202560010](../x-2095081419202560010/card.md)
 **Media.**
-`media/thumb.jpg` (image, carries_technique=false) — Square video thumbnail with the gojiberryAI wordmark on a light gray background.
-`media/video.mp4` (video, carries_technique=true) — 39.9-second 1080x1080 launch video walking through the thirteen-agent outbound sales OS tree and MCP install pitch.
+`raw/items/x-2094892848042725416/media/thumb.jpg` (image, carries_technique=false) — Square video thumbnail with the gojiberryAI wordmark on a light gray background.
+`raw/items/x-2094892848042725416/media/video.mp4` (video, carries_technique=true) — 39.9-second 1080x1080 launch video walking through the thirteen-agent outbound sales OS tree and MCP install pitch.
 **Thread.** captured_partial · reported 197 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [x-2095081419202560010](../x-2095081419202560010/card.md)
+**Judge hints.** must_read: False · compare with: [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [x-2095081419202560010](../x-2095081419202560010/card.md)

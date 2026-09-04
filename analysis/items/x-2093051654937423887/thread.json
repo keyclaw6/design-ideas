@@ -89,14 +89,14 @@
       "at": "2026-09-04T17:54:20Z",
       "method": "x-web-dom",
       "target": "https://x.com/tamrrat/status/2093051654937423887",
-      "outcome": "ok",
+      "outcome": "error",
       "note": "html_bytes=246261 tweets=5"
     },
     {
       "at": "2026-09-04T17:54:20Z",
       "method": "fxtwitter-api",
       "target": "https://api.fxtwitter.com/tamrrat/status/2093051654937423887",
-      "outcome": "ok",
+      "outcome": "error",
       "note": "reply count only; never a reply capture"
     }
   ],

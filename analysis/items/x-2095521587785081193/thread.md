@@ -8,12 +8,12 @@
 **Quoted.**
 > **@titouangillet_** · 2095521756765208887
 > What makes it work:
-
-1. Founder on camera ➜ Andrew carries the video himself.
-
-2. Live product proof ➜ Real UI running live. Zero mockups.
-
-3. Zero friction ➜ You get what it does in 3s without reading features.
+> 
+> 1. Founder on camera ➜ Andrew carries the video himself.
+> 
+> 2. Live product proof ➜ Real UI running live. Zero mockups.
+> 
+> 3. Zero friction ➜ You get what it does in 3s without reading features.
 
 > **@titouangillet_** · 2095521833424429342
 > Huge props to @ndrewpignanelli and the team on this one 👏

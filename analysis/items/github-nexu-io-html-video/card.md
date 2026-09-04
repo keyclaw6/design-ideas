@@ -19,4 +19,4 @@
 **Links.** repo (https://github.com/nexu-io/html-video), product (https://open-design.ai/html-video), https://github.com/nexu-io/open-design
 **Related items.** [github-nexu-io-open-design](../github-nexu-io-open-design/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-open-design-ai](../web-open-design-ai/card.md), [web-fal-ai](../web-fal-ai/card.md), [web-animos-editor](../web-animos-editor/card.md)
 **Media.** —
-**Judge hints.** must_read: ['raw/items/github-nexu-io-html-video/page.md'] · compare with: [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-fal-ai](../web-fal-ai/card.md)
+**Judge hints.** must_read: False · compare with: [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-fal-ai](../web-fal-ai/card.md)

@@ -17,4 +17,4 @@
 **Links.** product (https://aura.build)
 **Related items.** [github-mengto-skills](../github-mengto-skills/card.md), [web-neuform-ai](../web-neuform-ai/card.md), [web-open-design-ai](../web-open-design-ai/card.md), [github-nexu-io-open-design](../github-nexu-io-open-design/card.md), [web-aidesigner-mcp](../web-aidesigner-mcp/card.md)
 **Media.** —
-**Judge hints.** must_read: ['research.md'] · compare with: [web-neuform-ai](../web-neuform-ai/card.md), [web-open-design-ai](../web-open-design-ai/card.md)
+**Judge hints.** must_read: False · compare with: [web-neuform-ai](../web-neuform-ai/card.md), [web-open-design-ai](../web-open-design-ai/card.md)

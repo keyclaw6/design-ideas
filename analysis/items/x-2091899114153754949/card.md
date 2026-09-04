@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2095375790875840593](../x-2095375790875840593/card.md), [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Screen recording of LichtFeld Studio training progress for a multi-million-Gaussian capture on RTX 4090 hardware.
+`raw/items/x-2091899114153754949/media/media_0.jpg` (video, carries_technique=true) — Screen recording of LichtFeld Studio training progress for a multi-million-Gaussian capture on RTX 4090 hardware.
 **Thread.** captured_partial · reported 13 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2095375790875840593](../x-2095375790875840593/card.md), [x-2093179838249251011](../x-2093179838249251011/card.md)
+**Judge hints.** must_read: False · compare with: [x-2095375790875840593](../x-2095375790875840593/card.md), [x-2093179838249251011](../x-2093179838249251011/card.md)

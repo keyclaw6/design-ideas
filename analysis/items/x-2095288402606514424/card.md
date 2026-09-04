@@ -18,4 +18,4 @@
 **Related items.** —
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
+**Judge hints.** must_read: False · compare with: [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)

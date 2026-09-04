@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [x-2095204640690147487](../x-2095204640690147487/card.md), [x-2094164487381414344](../x-2094164487381414344/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Attached vertical demo reel showing code-rendered motion graphics output from a Claude Opus 5 plus Remotion workflow.
+`raw/items/x-2086030681772376399/media/media_0.jpg` (video, carries_technique=true) — Attached vertical demo reel showing code-rendered motion graphics output from a Claude Opus 5 plus Remotion workflow.
 **Thread.** captured_partial · reported 4 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2088155107544191339](../x-2088155107544191339/card.md), [x-2095204640690147487](../x-2095204640690147487/card.md)
+**Judge hints.** must_read: False · compare with: [x-2088155107544191339](../x-2088155107544191339/card.md), [x-2095204640690147487](../x-2095204640690147487/card.md)

@@ -60,7 +60,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.mp4",
+      "path": "raw/items/x-2095368133070700884/media/media_0.mp4",
       "type": "video",
       "description": "Five-second demo video of a website generated with a GPT 5.6 Sol prompt; prompt text not present in the captured post.",
       "skip_reason": null,
@@ -86,9 +86,7 @@
     "compare_with": [
       "x-2095451624139567162"
     ],
-    "must_read": [
-      "x-2095451624139567162"
-    ],
+    "must_read": false,
     "why_must_read": "Sibling Sol prompt post may include the full template or marketplace link."
   },
   "worker": "cards-16",

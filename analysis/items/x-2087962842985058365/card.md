@@ -20,4 +20,4 @@ CPU only, no NPU, no GPU." [post]
 **Related items.** [x-2087562269807030754](../x-2087562269807030754/card.md), [x-2088281537427235320](../x-2088281537427235320/card.md), [x-2087240056037908509](../x-2087240056037908509/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 15 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

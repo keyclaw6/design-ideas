@@ -18,5 +18,5 @@
 **Related items.** [x-2088594942482374759](../x-2088594942482374759/card.md), [x-2088623462109593792](../x-2088623462109593792/card.md), [x-2088695568474546387](../x-2088695568474546387/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 25 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Post only celebrates being number one on Hacker News three times with no linked article, repo, screenshot, or technique in the harvested capture.

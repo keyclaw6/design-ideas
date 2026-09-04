@@ -23,6 +23,6 @@ Sin Nodejs. Sin dependencias. Un solo binario" [post]
 **Links.** repo (https://github.com/h4ckf0r0day/obscura), product (https://obscura.sh), https://docs.obscura.sh
 **Related items.** [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md), [web-obscura-sh](../web-obscura-sh/card.md), [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md)
 **Media.**
-`media/photo.png` (image, carries_technique=false) — README crop showing Obscura wordmark, Trendshift number-one badge, and comparison table versus headless Chrome on memory, binary size, anti-detect, and page-load metrics.
+`raw/items/x-2094427822064279870/media/photo.png` (image, carries_technique=false) — README crop showing Obscura wordmark, Trendshift number-one badge, and comparison table versus headless Chrome on memory, binary size, anti-detect, and page-load metrics.
 **Thread.** captured_partial · reported 46 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'comments.md'] · compare with: [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md), [web-obscura-sh](../web-obscura-sh/card.md)
+**Judge hints.** must_read: False · compare with: [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md), [web-obscura-sh](../web-obscura-sh/card.md)

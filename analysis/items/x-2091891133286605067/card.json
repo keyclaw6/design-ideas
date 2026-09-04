@@ -102,7 +102,7 @@
     "compare_with": [
       "x-2095193896687177873"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

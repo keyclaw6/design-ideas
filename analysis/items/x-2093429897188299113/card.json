@@ -86,7 +86,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2093429897188299113/media/media_0.jpg",
       "type": "image",
       "description": "Benchmark table comparing REAP-288 and full-model configs showing resident RAM, bare and MTP speeds, and quality percentages with a highlighted 37.3GB row.",
       "skip_reason": null,
@@ -108,7 +108,7 @@
       "x-2093160779960774982",
       "x-2087240056037908509"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

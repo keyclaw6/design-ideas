@@ -15,8 +15,8 @@
 
 > **@ivanjurashere** · 2083917511121129895 · depth 1 · counter-claim
 > @mattpocockuk How can we use ai to get good at the thing we are using ai for? 
-As a non dev I already see that I'm developing a smell for good design, mainly because I've seen what failure looks like. 
-
-But i wonder if there could be a more deliberate approach to learning while building.
+> As a non dev I already see that I'm developing a smell for good design, mainly because I've seen what failure looks like. 
+> 
+> But i wonder if there could be a more deliberate approach to learning while building.
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

@@ -90,7 +90,7 @@
   },
   "media": [
     {
-      "path": "media/lead-magnet-banner.jpg",
+      "path": "raw/items/x-2095060844547592437/media/lead-magnet-banner.jpg",
       "type": "image",
       "description": "Wide LinkedIn engagement screenshot showing 3,152 reactions, 12,341 comments, 36 reposts, and 1.4M impressions as social proof.",
       "skip_reason": null,
@@ -115,9 +115,7 @@
     "compare_with": [
       "x-2095214420398121034"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Research ties 672-demo hook to Starborn case study and longer LinkedIn playbook."
   },
   "worker": "cards-15",

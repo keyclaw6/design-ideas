@@ -19,4 +19,4 @@
 **Related items.** —
 **Media.** —
 **Thread.** failed · reported 2 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2093064017468145963](../x-2093064017468145963/card.md), [x-2095288402606514424](../x-2095288402606514424/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093064017468145963](../x-2093064017468145963/card.md), [x-2095288402606514424](../x-2095288402606514424/card.md)

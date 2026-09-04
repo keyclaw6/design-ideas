@@ -86,7 +86,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2032330665081839791/media/media_0.jpg",
       "type": "image",
       "description": "ASCII infographic: 135 Autoquant agents on a P2P gossip network, Darwinian selection box, and claimed Sharpe 1.32 result card.",
       "skip_reason": null,
@@ -107,7 +107,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-18",

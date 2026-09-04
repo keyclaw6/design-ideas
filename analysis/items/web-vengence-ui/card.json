@@ -12,7 +12,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-17",
@@ -80,14 +80,14 @@
   },
   "media": [
     {
-      "path": "media/favicon.ico",
+      "path": "raw/items/web-vengence-ui/media/favicon.ico",
       "type": "other",
       "description": null,
       "skip_reason": "Binary favicon; no visual technique signal.",
       "carries_technique": false
     },
     {
-      "path": "media/logo.png",
+      "path": "raw/items/web-vengence-ui/media/logo.png",
       "type": "image",
       "description": "Captured logo asset is a 404 placeholder text file, not a rendered site logo.",
       "skip_reason": null,

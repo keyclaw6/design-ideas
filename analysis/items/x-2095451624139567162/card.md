@@ -18,4 +18,4 @@
 **Related items.** [x-2095368133070700884](../x-2095368133070700884/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 3 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['x-2095368133070700884'] · compare with: [x-2095368133070700884](../x-2095368133070700884/card.md)
+**Judge hints.** must_read: False · compare with: [x-2095368133070700884](../x-2095368133070700884/card.md)

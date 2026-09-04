@@ -101,7 +101,7 @@
       "web-styles-refero-design",
       "web-sokosumi-design-md"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

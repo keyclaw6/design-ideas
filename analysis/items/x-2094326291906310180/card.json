@@ -94,7 +94,7 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094326291906310180/media/photo.jpg",
       "type": "image",
       "description": "Slack Calendly-via-Zapier notification showing a new demo booked on 2026-08-31 at 18:00 UTC with America/Chicago timezone and a CIO role answer field partially visible.",
       "skip_reason": null,

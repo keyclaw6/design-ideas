@@ -88,9 +88,7 @@
       "x-2094961942058418268",
       "x-2092242135504552118"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Engine-native editable lighting differs from baked image-to-3D meshes."
   },
   "worker": "cards-11",

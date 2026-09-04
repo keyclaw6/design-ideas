@@ -24,4 +24,4 @@
 **Related items.** [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [web-treg-people-search](../web-treg-people-search/card.md), [x-2095231184531828762](../x-2095231184531828762/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 13 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

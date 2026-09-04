@@ -9,11 +9,11 @@
 **Relevant replies (1 of 2 captured).**
 > **@claudeai** · 2086239600583074141 · depth 1 · counter-claim
 > @chddaniel Generation was never the scary part, interpretation is.
-
-I've read Chinese metaphysics charts for over a decade while running engineering as a CTO.
-
-It doesn't predict what happens, it reflects how someone thinks and decides.
-
-A better model doesn't automate that layer.
+> 
+> I've read Chinese metaphysics charts for over a decade while running engineering as a CTO.
+> 
+> It doesn't predict what happens, it reflects how someone thinks and decides.
+> 
+> A better model doesn't automate that layer.
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

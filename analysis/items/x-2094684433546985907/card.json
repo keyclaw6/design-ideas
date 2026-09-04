@@ -83,14 +83,14 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094684433546985907/media/photo.jpg",
       "type": "image",
       "description": "Crunchbase.com Domain Rating 91 gauge screenshot on a dark textured background used as DR proof in the post.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/quoted-photo.png",
+      "path": "raw/items/x-2094684433546985907/media/quoted-photo.png",
       "type": "image",
       "description": "Quoted-tweet still repeating the Crunchbase Domain Rating 91 donut chart graphic.",
       "skip_reason": null,
@@ -113,13 +113,9 @@
   ],
   "judge_hints": {
     "compare_with": [
-      "web-tinylaunch-directories",
-      "x-2094093678080119153"
+      "web-tinylaunch-directories"
     ],
-    "must_read": [
-      "research.md",
-      "comments.md"
-    ],
+    "must_read": false,
     "why_must_read": "Research clarifies DM-gated sheet vs the 15 names already in the note-tweet."
   },
   "worker": "cards-15",

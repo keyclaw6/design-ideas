@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_full · reported 2 · captured 2 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Post only names Gemini Flash 3.7 versus Opus 5 and calls the result surprising without attaching scores, screenshots, or a linked eval in the harvested capture.

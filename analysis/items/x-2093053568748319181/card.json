@@ -75,7 +75,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2093053568748319181/media/media_0.jpg",
       "type": "video",
       "description": "Screen recording of MiniMax 3D Director Stage showing a blocked 3D scene with a placed figure, walls, and an authored camera path before video generation.",
       "skip_reason": null,
@@ -101,7 +101,7 @@
     "compare_with": [
       "note-blender-minimax-h3-video-generation"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

@@ -8,12 +8,12 @@
 **Quoted.**
 > **@dani_avila7** · 2089165109323014601
 > The core tool is the Pareto frontier
-
-Plot every config by cost per task vs pass rate
-
-A config is dominated if another is cheaper and equally accurate, the frontier is what's left, the only rational options
-
-Set your quality bar first, then pick the cheapest frontier point that https://t.co/vn6iOrhswU
+> 
+> Plot every config by cost per task vs pass rate
+> 
+> A config is dominated if another is cheaper and equally accurate, the frontier is what's left, the only rational options
+> 
+> Set your quality bar first, then pick the cheapest frontier point that https://t.co/vn6iOrhswU
 
 **Relevant replies (1 of 1 captured).**
 > **@dani_avila7** · 2089222697179808155 · depth 1 · correction

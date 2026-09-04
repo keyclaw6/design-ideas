@@ -104,14 +104,14 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094328961522397530/media/photo.jpg",
       "type": "image",
       "description": "Ahrefs-style card showing tinyshelf.co Domain Rating 46 with purple donut chart at 1426x894.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/quoted-photo.jpg",
+      "path": "raw/items/x-2094328961522397530/media/quoted-photo.jpg",
       "type": "image",
       "description": "Quoted-post Ahrefs screenshot showing tinyshelf.co Domain Rating 35 from an earlier capture at 718x441.",
       "skip_reason": null,

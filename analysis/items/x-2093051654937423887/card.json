@@ -86,9 +86,7 @@
       "x-2093064017468145963",
       "x-2095288402606514424"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Browser-native camera stage alternative to Blender MCP flythrough pipelines."
   },
   "worker": "cards-11",

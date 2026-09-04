@@ -17,6 +17,6 @@
 **Links.** https://langch.in/mda
 **Related items.** [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [x-2087026930323247306](../x-2087026930323247306/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-blume-codes](../web-blume-codes/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Infographic titled Your agent is a folder mapping instructions, skills, memory, tools, MCP connectors, and evals to files.
+`raw/items/x-2088345102540587356/media/media_0.jpg` (image, carries_technique=true) — Infographic titled Your agent is a folder mapping instructions, skills, memory, tools, MCP connectors, and evals to files.
 **Thread.** captured_partial · reported 34 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -13,7 +13,7 @@ How to search this library when answering questions or continuing research.
 
 ## Graphify
 
-Knowledge graph at `graphify-out/graph.json` (4200+ nodes). **Run graphify before Read/Grep/Glob** for architecture or corpus questions:
+Knowledge graph at `graphify-out/graph.json` (heuristic overlay over `analysis/**/*.md`). **Run graphify before Read/Grep/Glob** for architecture or corpus questions:
 
 ```bash
 graphify query "<question>"

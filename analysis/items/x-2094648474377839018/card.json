@@ -61,16 +61,16 @@
   },
   "media": [
     {
-      "path": "media/quoted-video.mp4",
-      "type": "video",
-      "description": "70s quoted teaser showing Splat2Mesh v1.0 loading bicycle.ply and previewing the park bench scene.",
+      "path": "raw/items/x-2094648474377839018/media/quoted-thumb.jpg",
+      "type": "image",
+      "description": "Splat2Mesh v1.0 dark UI with bicycle.ply viewport, voxel and polygon reduction controls visible.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/quoted-thumb.jpg",
-      "type": "image",
-      "description": "Splat2Mesh v1.0 dark UI with bicycle.ply viewport, voxel and polygon reduction controls visible.",
+      "path": "raw/items/x-2094648474377839018/media/quoted-video.mp4",
+      "type": "video",
+      "description": "70s quoted teaser showing Splat2Mesh v1.0 loading bicycle.ply and previewing the park bench scene.",
       "skip_reason": null,
       "carries_technique": true
     }
@@ -95,9 +95,7 @@
       "web-arcana-splat2mesh",
       "x-2094826117056414132"
     ],
-    "must_read": [
-      "raw/items/x-2094648474377839018/post.md"
-    ],
+    "must_read": false,
     "why_must_read": "JP launch tweet with quoted demo; product page captured separately."
   },
   "worker": "cards-14",

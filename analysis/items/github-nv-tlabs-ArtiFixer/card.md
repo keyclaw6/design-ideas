@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/nv-tlabs/ArtiFixer), paper (https://arxiv.org/abs/2603.00492), product (https://research.nvidia.com/labs/sil/projects/artifixer/), https://huggingface.co/nvidia/ArtiFixer
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [web-fal-ai](../web-fal-ai/card.md), [web-utsubo](../web-utsubo/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

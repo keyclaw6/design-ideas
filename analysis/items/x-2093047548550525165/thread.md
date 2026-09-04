@@ -15,7 +15,7 @@
 
 > **@jacobi_torsten** · 2093051204519526405 · depth 1 · number
 > @louszbd GLM-5.3-Flash is an excellent model. Running it locally on 4 x RTX 6K Pros with great results. Was using GLM-5.2 locally before and I can see the difference.
-
-It seems faster and smarter. The vision capabilities are also extremely helpful for my workflows.
+> 
+> It seems faster and smarter. The vision capabilities are also extremely helpful for my workflows.
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

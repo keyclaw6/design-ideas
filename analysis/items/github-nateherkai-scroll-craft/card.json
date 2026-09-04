@@ -95,9 +95,7 @@
       "github-oso95-scroll-world",
       "web-getlayers-ai"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Defines refuse-list craft rules and the Playwright verification loop for scroll landings."
   },
   "worker": "cards-13",

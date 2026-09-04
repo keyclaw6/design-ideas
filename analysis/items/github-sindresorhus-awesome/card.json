@@ -71,7 +71,7 @@
   },
   "media": [
     {
-      "path": "media/logo.svg",
+      "path": "raw/items/github-sindresorhus-awesome/media/logo.svg",
       "type": "other",
       "description": "Red awesome-list logo SVG used as the repository branding mark.",
       "skip_reason": null,

@@ -23,8 +23,8 @@
 
 > **@jakedahn** · 2091365023943979467
 > we are building the future of this space over at finite systems
-
-you can play with this assembly and sign up for early access here https://t.co/4QxCLx0in1 https://t.co/vv3WgJUGXn
+> 
+> you can play with this assembly and sign up for early access here https://t.co/4QxCLx0in1 https://t.co/vv3WgJUGXn
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

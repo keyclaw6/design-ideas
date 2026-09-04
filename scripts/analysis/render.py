@@ -220,18 +220,29 @@ def render_thread_md(item_id: str, card: dict, thread: dict) -> str:
         "",
     ]
 
+    def quote_block(text: str) -> list[str]:
+        """Keep tweet bodies inside a blockquote so # lines cannot become headings."""
+        raw = (text or "").replace("\r\n", "\n").replace("\r", "\n")
+        out = []
+        for ln in raw.split("\n"):
+            safe = ln.replace("\t", " ")
+            if safe.startswith("#"):
+                safe = "＃" + safe[1:]
+            out.append(f"> {safe}")
+        return out or ["> "]
+
     author_thread = thread.get("author_thread") or []
     lines.append(f"**Author continuation ({len(author_thread)} posts).**")
     for p in author_thread:
         lines.append(f"> **@{p.get('author_handle')}** · {p.get('id')} · {p.get('created_at')}")
-        lines.append(f"> {p.get('text', '')}")
+        lines.extend(quote_block(p.get("text", "")))
         lines.append("")
 
     quoted = thread.get("quoted") or []
     lines.append("**Quoted.**")
     for p in quoted:
         lines.append(f"> **@{p.get('author_handle')}** · {p.get('id')}")
-        lines.append(f"> {p.get('text', '')}")
+        lines.extend(quote_block(p.get("text", "")))
         lines.append("")
 
     replies = thread.get("replies") or []
@@ -241,7 +252,7 @@ def render_thread_md(item_id: str, card: dict, thread: dict) -> str:
         lines.append(
             f"> **@{r.get('author_handle')}** · {r.get('id')} · depth {r.get('depth')} · {r.get('relevance_kind')}"
         )
-        lines.append(f"> {r.get('text', '')}")
+        lines.extend(quote_block(r.get("text", "")))
         lines.append("")
 
     noise_count = sum(1 for r in replies if r.get("relevance") == "noise")

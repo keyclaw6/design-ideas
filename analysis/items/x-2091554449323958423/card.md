@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 4 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Tweet is speculative GPU capacity math for GLM 5.2 and K3 FP4 with no model links, install steps, or benchmark receipts—only a challenge to be first to run it.

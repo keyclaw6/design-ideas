@@ -17,5 +17,5 @@
 **Links.** product (https://opale-ui.design/)
 **Related items.** [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.**
-`media/og-image.png` (image, carries_technique=false) — Saved og-image file is an HTML 404 page from opale-ui.design, not a rendered social preview image.
+`raw/items/web-opale-ui-taste/media/og-image.png` (image, carries_technique=false) — Saved og-image file is an HTML 404 page from opale-ui.design, not a rendered social preview image.
 **Judge hints.** must_read: True · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)

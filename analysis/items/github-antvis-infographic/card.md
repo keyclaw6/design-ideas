@@ -17,5 +17,5 @@
 **Links.** repo (https://github.com/antvis/infographic), product (https://infographic.antv.vision), https://infographic.antv.vision/gallery, https://infographic.antv.vision/ai
 **Related items.** [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [web-flint-chart](../web-flint-chart/card.md)
 **Media.**
-`media/preview.webp` (image, carries_technique=false) — Wide gallery preview of colorful AntV infographic templates including list, process, and comparison layouts.
+`raw/items/github-antvis-infographic/media/preview.webp` (image, carries_technique=false) — Wide gallery preview of colorful AntV infographic templates including list, process, and comparison layouts.
 **Judge hints.** must_read: True · compare with: [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [web-flint-chart](../web-flint-chart/card.md)

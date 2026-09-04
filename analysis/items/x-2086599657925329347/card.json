@@ -82,7 +82,7 @@
       "github-scottstts-threejs-awesome-graphics-agent-skills",
       "github-mengto-skills"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-14",

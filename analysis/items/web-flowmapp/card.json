@@ -85,9 +85,7 @@
       "web-checklist-design",
       "web-neuform-ai"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Upstream IA and scoped proposals before DESIGN.md or scroll-craft builds."
   },
   "worker": "cards-11",

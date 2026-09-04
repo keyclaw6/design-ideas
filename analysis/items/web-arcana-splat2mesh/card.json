@@ -97,9 +97,7 @@
       "github-nv-tlabs-ArtiFixer",
       "x-2095375790875840593"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Mesh export bridge between splat capture and Blender/print pipelines."
   },
   "worker": "cards-11",

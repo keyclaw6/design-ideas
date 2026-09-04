@@ -79,7 +79,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2085006701984698712/media/media_0.jpg",
       "type": "video",
       "description": "Demo video shows the human-review visual editor with inline text editing on a landing page paragraph instead of chat-only feedback.",
       "skip_reason": null,
@@ -109,7 +109,7 @@
   "recipe_steps": null,
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-09",

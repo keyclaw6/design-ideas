@@ -18,4 +18,4 @@
 **Links.** https://www.youtube.com/watch?v=m7K4hKjnEG4
 **Related items.** [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-crowdreply](../web-crowdreply/card.md), [web-nqz-ai-search-prompt-generator](../web-nqz-ai-search-prompt-generator/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

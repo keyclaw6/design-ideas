@@ -161,7 +161,7 @@ Criteria only. No ranking language. A later judge scores each shortlisted item o
 
 ## agent-harness-loops — thread coverage
 
-X items in primary roster: 32. captured_full=1, captured_partial=30, empty=0, failed=1.
+X items in primary roster: 32. captured_full=1, captured_partial=28, empty=2, failed=1.
 Logged-out x.com HTML was the working conversation source. Guest GraphQL TweetDetail 404'd; fxtwitter gives counts, not replies.
 Partial threads still have the first visible replies and any author continuation that rendered. Treat missing replies as unknown, not as 'no one answered'.
 
@@ -176,14 +176,14 @@ Partial threads still have the first visible replies and any author continuation
 | [x-2086838432102228008](../../items/x-2086838432102228008/thread.md) | captured_partial | 78 | 1 | 0 |
 | [x-2087026930323247306](../../items/x-2087026930323247306/thread.md) | captured_partial | 15 | 3 | 1 |
 | [x-2087151807965401320](../../items/x-2087151807965401320/thread.md) | failed | 2 | 0 | 0 |
-| [x-2087178722420171020](../../items/x-2087178722420171020/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2087178722420171020](../../items/x-2087178722420171020/thread.md) | empty | 0 | 0 | 0 |
 | [x-2087232392209531166](../../items/x-2087232392209531166/thread.md) | captured_partial | 12 | 3 | 1 |
 | [x-2087254502210490739](../../items/x-2087254502210490739/thread.md) | captured_partial | 30 | 3 | 0 |
 | [x-2087263510090874911](../../items/x-2087263510090874911/thread.md) | captured_partial | 20 | 2 | 1 |
 | [x-2087304957011911157](../../items/x-2087304957011911157/thread.md) | captured_partial | 21 | 1 | 1 |
 | [x-2087444616832594022](../../items/x-2087444616832594022/thread.md) | captured_partial | 14 | 3 | 2 |
 | [x-2087714580491370655](../../items/x-2087714580491370655/thread.md) | captured_partial | 10 | 3 | 1 |
-| [x-2088116807869854126](../../items/x-2088116807869854126/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2088116807869854126](../../items/x-2088116807869854126/thread.md) | empty | 0 | 0 | 0 |
 | [x-2088260067204137135](../../items/x-2088260067204137135/thread.md) | captured_full | 1 | 2 | 2 |
 | [x-2088345102540587356](../../items/x-2088345102540587356/thread.md) | captured_partial | 34 | 3 | 0 |
 | [x-2088634091671531923](../../items/x-2088634091671531923/thread.md) | captured_partial | 4 | 3 | 1 |
@@ -196,7 +196,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## agent-harness-loops — gaps and open questions
 
-Primary readiness: ready=4, ready-with-gaps=31. Gap tags: thread-partial=9, linked-page-unfetched=2, thread-failed=1.
+Primary readiness: ready=6, ready-with-gaps=29. Gap tags: thread-partial=9, linked-page-unfetched=2, thread-failed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

@@ -18,6 +18,6 @@
 **Links.** product (https://seowins.io/)
 **Related items.** [web-seowins-io](../web-seowins-io/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=true) — Google SERP screenshot for ai tool to convert pdf to excel with a Reddit r/pdf thread ranking number one.
+`raw/items/x-2094742312433684496/media/photo.jpg` (image, carries_technique=true) — Google SERP screenshot for ai tool to convert pdf to excel with a Reddit r/pdf thread ranking number one.
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

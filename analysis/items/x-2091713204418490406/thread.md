@@ -8,10 +8,10 @@
 **Quoted.**
 > **@indie_maker_fox** · 2091818482203804126
 > If you have interests in indie hacking, please follow me @indie_maker_fox. 
-
-I'm the founder of https://t.co/YGRNSBlqOp, https://t.co/23KjJQJkzS and https://t.co/s04yP8aq8q, and I'm building in public and sharing all my thoughts on X and my blog.
-
-👉 https://t.co/YES4211vVH 👈
+> 
+> I'm the founder of https://t.co/YGRNSBlqOp, https://t.co/23KjJQJkzS and https://t.co/s04yP8aq8q, and I'm building in public and sharing all my thoughts on X and my blog.
+> 
+> 👉 https://t.co/YES4211vVH 👈
 
 **Relevant replies (1 of 1 captured).**
 > **@indie_maker_fox** · 2091770322118959468 · depth 1 · answered-question

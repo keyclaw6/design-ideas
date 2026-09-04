@@ -88,9 +88,7 @@
       "web-tinyshelf",
       "web-animos-editor"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Marketing-asset pipeline hook for landing polish without After Effects."
   },
   "worker": "cards-13",

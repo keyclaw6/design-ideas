@@ -94,7 +94,7 @@
       "note-blender-minimax-h3-video-generation",
       "x-2093053568748319181"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

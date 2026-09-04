@@ -19,4 +19,4 @@
 **Related items.** [web-originkit-dev](../web-originkit-dev/card.md), [web-cult-ui](../web-cult-ui/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 13 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [web-cult-ui](../web-cult-ui/card.md), [web-originkit-dev](../web-originkit-dev/card.md)
+**Judge hints.** must_read: False · compare with: [web-cult-ui](../web-cult-ui/card.md), [web-originkit-dev](../web-originkit-dev/card.md)

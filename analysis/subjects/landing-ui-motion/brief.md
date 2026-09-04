@@ -159,7 +159,7 @@ Criteria only. No ranking language. A later judge scores each shortlisted item o
 
 ## landing-ui-motion — thread coverage
 
-X items in primary roster: 26. captured_full=4, captured_partial=20, empty=1, failed=1.
+X items in primary roster: 26. captured_full=4, captured_partial=19, empty=2, failed=1.
 Logged-out x.com HTML was the working conversation source. Guest GraphQL TweetDetail 404'd; fxtwitter gives counts, not replies.
 Partial threads still have the first visible replies and any author continuation that rendered. Treat missing replies as unknown, not as 'no one answered'.
 
@@ -168,7 +168,7 @@ Partial threads still have the first visible replies and any author continuation
 | [x-2087812720762425743](../../items/x-2087812720762425743/thread.md) | captured_full | 2 | 2 | 1 |
 | [x-2087832615797833807](../../items/x-2087832615797833807/thread.md) | captured_full | 1 | 1 | 1 |
 | [x-2089182103153897532](../../items/x-2089182103153897532/thread.md) | captured_partial | 13 | 1 | 1 |
-| [x-2089223944700326052](../../items/x-2089223944700326052/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2089223944700326052](../../items/x-2089223944700326052/thread.md) | empty | 0 | 0 | 0 |
 | [x-2089263766428950683](../../items/x-2089263766428950683/thread.md) | captured_partial | 31 | 3 | 2 |
 | [x-2089618415493218381](../../items/x-2089618415493218381/thread.md) | captured_partial | 28 | 1 | 1 |
 | [x-2089740155179643231](../../items/x-2089740155179643231/thread.md) | captured_partial | 9 | 3 | 2 |

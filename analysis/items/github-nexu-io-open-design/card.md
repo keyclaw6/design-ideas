@@ -18,5 +18,5 @@
 **Links.** repo (https://github.com/nexu-io/open-design), product (https://open-design.ai), https://open-design.ai/cloud/, https://discord.gg/mHAjSMV6gz
 **Related items.** [web-open-design-ai](../web-open-design-ai/card.md), [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)
 **Media.**
-`media/hero.png` (image, carries_technique=false) — Promotional graphic with classical columns and glitch overlays, headline 'The open-source Claude Design alternative', and stat cards for 150 design systems, 261 plugins, 21 coding agents, and 14 media providers.
-**Judge hints.** must_read: [] · compare with: —
+`raw/items/github-nexu-io-open-design/media/hero.png` (image, carries_technique=false) — Promotional graphic with classical columns and glitch overlays, headline 'The open-source Claude Design alternative', and stat cards for 150 design systems, 261 plugins, 21 coding agents, and 14 media providers.
+**Judge hints.** must_read: False · compare with: —

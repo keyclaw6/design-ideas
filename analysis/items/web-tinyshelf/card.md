@@ -18,4 +18,4 @@
 **Links.** product (https://tinyshelf.co/submit), https://tinyshelf.co/tools/tinyshots
 **Related items.** [web-tinylaunch-directories](../web-tinylaunch-directories/card.md), [web-tinyshots](../web-tinyshots/card.md), [web-brave-submit-url](../web-brave-submit-url/card.md), [web-crowdreply](../web-crowdreply/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: [web-tinylaunch-directories](../web-tinylaunch-directories/card.md)
+**Judge hints.** must_read: False · compare with: [web-tinylaunch-directories](../web-tinylaunch-directories/card.md)

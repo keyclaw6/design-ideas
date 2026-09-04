@@ -8,13 +8,13 @@
 **Quoted.**
 > **@xhluca** · 2091970265194316269
 > Don't want to use the CLI? 
-
-Just ask your agent to do it: "Follow https://t.co/HZ5FGLp1Dj to migrate this session to {Codex, Pi, etc.}" https://t.co/ZgCmezN5CX
+> 
+> Just ask your agent to do it: "Follow https://t.co/HZ5FGLp1Dj to migrate this session to {Codex, Pi, etc.}" https://t.co/ZgCmezN5CX
 
 > **@xhluca** · 2091970267778031983
 > It current supports: @claudeai code, @openai codex, @pidotdev, @opencode, @MistralAI vibe, @antigravity, @GitHubCopilot cli, @cursor_ai agent (partial).
-
-Here's an example of Claude -&gt; Pi. You can use models like @Kimi_Moonshot K3 or @Alibaba_Qwen 3.8 via @huggingface Inference. https://t.co/YF2RoE4wq3
+> 
+> Here's an example of Claude -&gt; Pi. You can use models like @Kimi_Moonshot K3 or @Alibaba_Qwen 3.8 via @huggingface Inference. https://t.co/YF2RoE4wq3
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

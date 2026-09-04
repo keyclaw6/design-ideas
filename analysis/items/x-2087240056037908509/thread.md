@@ -8,11 +8,11 @@
 **Quoted.**
 > **@slash1sol** · 2086887574073639257
 > $1,200 OF CHATGPT PRO IS FREE FOR SIX MONTHS IF YOU MAINTAIN AN OPEN SOURCE PROJECT
-
-• Codex for Open Source
-&gt; Six months of ChatGPT Pro with Codex, no card: https://t.co/I16DsGN5Er
-&gt; API credits from a $1M fund for PR review, release automation and maintainer work.
-&gt; https://t.co/Oq764se170
+> 
+> • Codex for Open Source
+> &gt; Six months of ChatGPT Pro with Codex, no card: https://t.co/I16DsGN5Er
+> &gt; API credits from a $1M fund for PR review, release automation and maintainer work.
+> &gt; https://t.co/Oq764se170
 
 **Relevant replies (0 of 3 captured).**
 **Dropped as noise:** 3 replies (praise, emoji, bots, unrelated promo).

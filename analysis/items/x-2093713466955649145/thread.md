@@ -8,14 +8,14 @@
 **Quoted.**
 > **@HsanC_** · 2093624705030959554
 > Here's how I make AI mention my SaaS:
-
-1. Create high-quality content for my money keywords 💰
-2. Build relevant backlinks 🔗
-3. Get mentioned on 3rd party sites 🌐
-4. LinkedIn articles + Reddit posts (both gets indexed)
-5. Create original data/content worth citing 📊
-
-You need https://t.co/HgtgfwfMGj
+> 
+> 1. Create high-quality content for my money keywords 💰
+> 2. Build relevant backlinks 🔗
+> 3. Get mentioned on 3rd party sites 🌐
+> 4. LinkedIn articles + Reddit posts (both gets indexed)
+> 5. Create original data/content worth citing 📊
+> 
+> You need https://t.co/HgtgfwfMGj
 
 > **@HsanC_** · 2093742966984638898
 > i built https://t.co/9rrD0MSb2T to automate the entire SEO backlink building process btw:

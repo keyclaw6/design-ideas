@@ -81,9 +81,7 @@
       "github-scottstts-threejs-awesome-graphics-agent-skills",
       "github-mengto-skills"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Named repair skill complementing scene-generation packs; no repo URL in capture."
   },
   "worker": "cards-13",

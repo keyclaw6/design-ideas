@@ -79,7 +79,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.mp4",
+      "path": "raw/items/x-2095136786095951924/media/media_0.mp4",
       "type": "video",
       "description": "16-second demo clip showing Splat2Mesh converting a Gaussian splat capture into exported mesh geometry at 1148x652.",
       "skip_reason": null,

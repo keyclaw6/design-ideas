@@ -19,4 +19,4 @@
 **Related items.** [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [web-getdesign-md](../web-getdesign-md/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 37 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

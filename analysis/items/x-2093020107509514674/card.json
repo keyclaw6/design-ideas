@@ -91,9 +91,7 @@
     "compare_with": [
       "x-2092106682302140648"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Harness repo or scripts not linked in tweet; claim is demonstrated but artifact unpublished."
   },
   "worker": "cards-07",

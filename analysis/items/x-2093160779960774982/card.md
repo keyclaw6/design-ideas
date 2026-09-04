@@ -18,6 +18,6 @@
 **Links.** https://huggingface.co
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Screen recording demo of the REAP-pruned Qwen MLX 4-bit model running locally with benchmark overlay.
+`raw/items/x-2093160779960774982/media/media_0.jpg` (video, carries_technique=true) — Screen recording demo of the REAP-pruned Qwen MLX 4-bit model running locally with benchmark overlay.
 **Thread.** captured_partial · reported 29 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

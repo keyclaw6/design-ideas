@@ -9,9 +9,9 @@
 **Relevant replies (2 of 3 captured).**
 > **@RealMarvelX** · 2086633001396424704 · depth 1 · link
 > @RoundtableSpace LEARN TO BUILD $30,000 3D WEBSITES FOR FREE
-1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with  
-CLAUDE AI.
-https://t.co/Xox8VfhCVC
+> 1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with  
+> CLAUDE AI.
+> https://t.co/Xox8VfhCVC
 
 > **@FreeSites_com** · 2086607481178837262 · depth 1 · counter-claim
 > @RoundtableSpace Claude can draft 3D site code, but turning it into a performant web experience still needs WebGL/Three.js know‑how and optimization.

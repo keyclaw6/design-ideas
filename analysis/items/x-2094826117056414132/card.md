@@ -18,7 +18,7 @@
 **Links.** product (https://arcana-mfg.com/splat2mesh/), https://arcana-mfg.com/en/splat2mesh/, https://3dnchu.com/archives/splat2mesh/
 **Related items.** [x-2094648474377839018](../x-2094648474377839018/card.md), [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md)
 **Media.**
-`media/thumb.jpg` (image, carries_technique=true) — Splat2Mesh UI showing a potted plant splat beside a converted mesh with Quality, Voxel, and Convert mesh controls and vertex/triangle stats.
-`media/video.mp4` (video, carries_technique=true) — —
+`raw/items/x-2094826117056414132/media/thumb.jpg` (image, carries_technique=true) — Splat2Mesh UI showing a potted plant splat beside a converted mesh with Quality, Voxel, and Convert mesh controls and vertex/triangle stats.
+`raw/items/x-2094826117056414132/media/video.mp4` (video, carries_technique=true) — —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

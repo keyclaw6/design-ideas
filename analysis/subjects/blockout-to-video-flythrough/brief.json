@@ -22,8 +22,8 @@
   "thread_coverage": {
     "x_items": 22,
     "captured_full": 2,
-    "captured_partial": 15,
-    "empty": 4,
+    "captured_partial": 13,
+    "empty": 6,
     "failed": 1
   },
   "techniques": [
@@ -74,5 +74,5 @@
     "web-3d-scenes"
   ],
   "written_by": "subject-blockout-to-video-flythrough",
-  "written_at": "2026-09-04T18:39:00Z"
+  "written_at": "2026-09-04T18:45:50Z"
 }

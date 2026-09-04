@@ -18,4 +18,4 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 70 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

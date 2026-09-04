@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/MengTo/Skills), product (https://ui-skills.com), https://aura.build
 **Related items.** [github-mengto-complete-shelf](../github-mengto-complete-shelf/card.md), [web-aura-build](../web-aura-build/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -102,9 +102,7 @@
       "github-nexu-io-motion-anything",
       "web-fal-ai"
     ],
-    "must_read": [
-      "raw/items/github-nexu-io-html-video/page.md"
-    ],
+    "must_read": false,
     "why_must_read": "README summarizes pipeline, agent support, and local studio port."
   },
   "worker": "cards-14",

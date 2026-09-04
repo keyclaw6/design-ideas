@@ -80,9 +80,7 @@
       "web-neuform-ai",
       "web-open-design-ai"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Thin SPA capture—treat marketing claims as unverified benchmarks against craft-first builders."
   },
   "worker": "cards-13",

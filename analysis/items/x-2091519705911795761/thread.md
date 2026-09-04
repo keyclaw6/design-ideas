@@ -8,9 +8,9 @@
 **Quoted.**
 > **@fujiryu00** · 2091098189877399597
 > これ無料で作れるのヤバいな。
-しかも難しそうに見えて、入れてるのはプロンプトのみ。
-
-誰でもモーショングラフィックスができる時代が来てしまっている。 https://t.co/BWumdoiqEX
+> しかも難しそうに見えて、入れてるのはプロンプトのみ。
+> 
+> 誰でもモーショングラフィックスができる時代が来てしまっている。 https://t.co/BWumdoiqEX
 
 **Relevant replies (0 of 3 captured).**
 **Dropped as noise:** 3 replies (praise, emoji, bots, unrelated promo).

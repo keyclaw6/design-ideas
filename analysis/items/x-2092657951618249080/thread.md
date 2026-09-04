@@ -9,8 +9,8 @@
 **Relevant replies (2 of 3 captured).**
 > **@intangibleai** · 2092681190117450157 · depth 1 · correction
 > @intangibleai This is the kind of control AI video workflows have been missing. 🎥🔥
-
-Instead of prompting for every angle and hoping for consistency, you can actually direct the camera, animate movement, and keep everything locked together.
+> 
+> Instead of prompting for every angle and hoping for consistency, you can actually direct the camera, animate movement, and keep everything locked together.
 
 > **@WonderBoy023** · 2093126334977605968 · depth 1 · answered-question
 > @intangibleai 3d storytelling needs references, characters, and assets to stay connected across shots. melius could be a good fit for keeping that whole pipeline in one place

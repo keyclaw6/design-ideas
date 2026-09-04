@@ -18,4 +18,4 @@
 **Related items.** [web-flint-chart](../web-flint-chart/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 6 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [web-flint-chart](../web-flint-chart/card.md)
+**Judge hints.** must_read: False · compare with: [web-flint-chart](../web-flint-chart/card.md)

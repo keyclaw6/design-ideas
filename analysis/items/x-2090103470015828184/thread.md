@@ -8,13 +8,13 @@
 **Quoted.**
 > **@UnslothAI** · 2088281537427235320
 > Qwen3.8-27B can now be run locally! ✨
-
-Run on 17GB RAM via Unsloth Dynamic GGUFs.
-
-Qwen3.8-27B is by far the strongest model for its size. We also uploaded NVFP4 quants.
-
-GGUF: https://t.co/xIdNwm7CLQ
-Guide: https://t.co/J2PwgMP6GZ https://t.co/NKFJuPXFyG
+> 
+> Run on 17GB RAM via Unsloth Dynamic GGUFs.
+> 
+> Qwen3.8-27B is by far the strongest model for its size. We also uploaded NVFP4 quants.
+> 
+> GGUF: https://t.co/xIdNwm7CLQ
+> Guide: https://t.co/J2PwgMP6GZ https://t.co/NKFJuPXFyG
 
 > **@UnslothAI** · 2090075048812118352
 > Ornith-1.5-35B significantly outperforms its similar-sized peer Qwen 3.6-35B across all reasoning, coding and agentic benchmarks, and further, despite activating only 3B parameters per token, it also outperforms dense models Gemma 4-31B and Meta's Muse Glimmer-30B  by wide https://t.co/YFTs1xPP1Y

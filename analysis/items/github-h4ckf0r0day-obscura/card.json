@@ -108,9 +108,7 @@
       "web-obscura-sh",
       "web-cloudflare-kitesurf"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Primary OSS repo capture with install paths, comparison table, and Kitesurf origin note."
   },
   "worker": "cards-07",

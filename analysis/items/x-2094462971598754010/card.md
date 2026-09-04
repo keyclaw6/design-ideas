@@ -19,6 +19,6 @@
 **Links.** repo (https://github.com/garrytan/gbrain-evals), paper (https://arxiv.org/abs/2604.21284), product (https://github.com/garrytan/gbrain)
 **Related items.** [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [x-2091169290661838965](../x-2091169290661838965/card.md), [x-2087143369181114868](../x-2087143369181114868/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=false) — Comparison table with three arenas—reading memory back, writing memory down, volunteering memory—listing gbrain scores versus competitors and gap notes.
+`raw/items/x-2094462971598754010/media/photo.jpg` (image, carries_technique=false) — Comparison table with three arenas—reading memory back, writing memory down, volunteering memory—listing gbrain scores versus competitors and gap notes.
 **Thread.** captured_partial · reported 101 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
+**Judge hints.** must_read: False · compare with: [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)

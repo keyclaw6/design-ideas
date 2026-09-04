@@ -12,13 +12,13 @@
 
 > **@satellitedown** · 2090999933180563827 · depth 1 · number
 > @Hesamation the hardware range here is probably the craziest part
-
-according to the FreeToken benchmarks:
-
-8GB RTX 4060 laptop → Qwen3.6-35B at 39.3 tok/s
-RTX 5090 desktop → DeepSeek-V4-Flash 284B at ~22-25 tok/s
-RTX PRO 6000 workstation → GLM-5.2 753B at ~15 tok/s
-
-so we're now at the
+> 
+> according to the FreeToken benchmarks:
+> 
+> 8GB RTX 4060 laptop → Qwen3.6-35B at 39.3 tok/s
+> RTX 5090 desktop → DeepSeek-V4-Flash 284B at ~22-25 tok/s
+> RTX PRO 6000 workstation → GLM-5.2 753B at ~15 tok/s
+> 
+> so we're now at the
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

@@ -12,9 +12,9 @@
 
 > **@gburgyan** · 2092114874813780157 · depth 1 · answered-question
 > @SipeedLab Experience and taste cannot be replaced easily.
-
-That said vllm.cpp is shaping up, do you want it to support your new Infer Box from day 0? 
-
-@mudler_it has experience with DGX Spark and contributions are welcome.
+> 
+> That said vllm.cpp is shaping up, do you want it to support your new Infer Box from day 0? 
+> 
+> @mudler_it has experience with DGX Spark and contributions are welcome.
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

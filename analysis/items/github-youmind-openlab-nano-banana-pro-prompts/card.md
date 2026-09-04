@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/youmind-openlab/nano-banana-pro-prompts-recommend-skill), product (https://youmind.com/nano-banana-pro-prompts), https://clawhub.com/skill/nano-banana-pro-prompts-recommend
 **Related items.** [github-wuyoscar-gpt-image2-skill](../github-wuyoscar-gpt-image2-skill/card.md), [web-meigen-ai](../web-meigen-ai/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

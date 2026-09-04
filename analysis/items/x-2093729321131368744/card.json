@@ -60,7 +60,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2093729321131368744/media/media_0.jpg",
       "type": "image",
       "description": "Dashboard titled AI responses showing AI Overviews at 9.7K responses and ChatGPT at 1.9K, with breakdown rows for AI Mode, Gemini, Perplexity, Copilot, and Grok.",
       "skip_reason": null,

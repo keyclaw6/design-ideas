@@ -19,4 +19,4 @@
 **Related items.** [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-crowdreply](../web-crowdreply/card.md), [web-seowins-io](../web-seowins-io/card.md), [web-tinylaunch-directories](../web-tinylaunch-directories/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 18 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-seowins-io](../web-seowins-io/card.md)
+**Judge hints.** must_read: False · compare with: [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-seowins-io](../web-seowins-io/card.md)

@@ -9,7 +9,7 @@
 **Relevant replies (1 of 3 captured).**
 > **@aaronvi** · 2087432065843085635 · depth 1 · answered-question
 > @aaronvi You need to add a rule somewhere to tell it to stop making current document an archeological dumping site. 
-
-When a fresh agent or a person reads a document, they don’t care about what the previous document looked like or did. It’s confusing and you’ll continue to have poor slop
+> 
+> When a fresh agent or a person reads a document, they don’t care about what the previous document looked like or did. It’s confusing and you’ll continue to have poor slop
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

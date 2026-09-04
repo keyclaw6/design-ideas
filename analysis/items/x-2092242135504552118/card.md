@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2094961942058418268](../x-2094961942058418268/card.md), [x-2095437841958314100](../x-2095437841958314100/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Attached MP4 (misnamed .jpg) demo showing the generated robotic-bee 3D model and topology.
+`raw/items/x-2092242135504552118/media/media_0.jpg` (video, carries_technique=true) — Attached MP4 (misnamed .jpg) demo showing the generated robotic-bee 3D model and topology.
 **Thread.** captured_partial · reported 51 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

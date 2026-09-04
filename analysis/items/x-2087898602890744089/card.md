@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/elie222/rakazo)
 **Related items.** [x-2087714580491370655](../x-2087714580491370655/card.md), [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [web-blume-codes](../web-blume-codes/card.md), [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Rakazo landing page mockup showing bot directory, inbox-manager chat, and Gmail routine controls.
+`raw/items/x-2087898602890744089/media/media_0.jpg` (image, carries_technique=false) — Rakazo landing page mockup showing bot directory, inbox-manager chat, and Gmail routine controls.
 **Thread.** captured_partial · reported 61 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

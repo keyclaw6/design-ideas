@@ -8,7 +8,7 @@
 **Quoted.**
 > **@seiiiiiiiiiiru** · 2092040284259688478
 > AfterEffect → Minimax H3
-@Hailuo_AI @MiniMax_AI https://t.co/NNb9WyiXyz
+> @Hailuo_AI @MiniMax_AI https://t.co/NNb9WyiXyz
 
 **Relevant replies (1 of 1 captured).**
 > **@seiiiiiiiiiiru** · 2092048307925438924 · depth 1 · answered-question

@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/sengchor/kokraf)
 **Related items.** [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md), [web-oryzo-ai](../web-oryzo-ai/card.md), [x-2086599657925329347](../x-2086599657925329347/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Screen recording demo cycling a gray 3D mesh through four orthographic renders and showing AI-generated textures projected back onto the model.
+`raw/items/x-2057113327508345047/media/media_0.jpg` (video, carries_technique=true) — Screen recording demo cycling a gray 3D mesh through four orthographic renders and showing AI-generated textures projected back onto the model.
 **Thread.** captured_partial · reported 9 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [x-2086599657925329347](../x-2086599657925329347/card.md), [web-oryzo-ai](../web-oryzo-ai/card.md)

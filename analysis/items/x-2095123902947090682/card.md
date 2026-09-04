@@ -17,6 +17,6 @@
 **Links.** product (https://www.brasshands.com/), https://brasshands.com/contact, https://store.brasshands.com/
 **Related items.** [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md), [x-2094978216146452971](../x-2094978216146452971/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=true) — 3456x2234 landing mock with desert aerial photo, white Swiss grid overlay, DRONE nav, headline FROM ABOVE TO AHEAD, Terrain Intelligence copy, orange TARGET LOCKED bracket on a vehicle, and corner label G-01 with WGS 84 datum readouts.
+`raw/items/x-2095123902947090682/media/photo.jpg` (image, carries_technique=true) — 3456x2234 landing mock with desert aerial photo, white Swiss grid overlay, DRONE nav, headline FROM ABOVE TO AHEAD, Terrain Intelligence copy, orange TARGET LOCKED bracket on a vehicle, and corner label G-01 with WGS 84 datum readouts.
 **Thread.** captured_partial · reported 34 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [web-cartier-ballon-bleu](../web-cartier-ballon-bleu/card.md), [x-2094978216146452971](../x-2094978216146452971/card.md)

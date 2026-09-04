@@ -20,6 +20,6 @@ Just bring the idea." [post]
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — Product demo clip showing Calliope generating a finished 2D animated faceless video from a single idea through script, characters, animation, and voiceover.
+`raw/items/x-2093481253043380418/media/media_0.mp4` (video, carries_technique=true) — Product demo clip showing Calliope generating a finished 2D animated faceless video from a single idea through script, characters, animation, and voiceover.
 **Thread.** captured_full · reported 3 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

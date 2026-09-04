@@ -22,4 +22,4 @@
 **Related items.** [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [x-2094978216146452971](../x-2094978216146452971/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 22 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [x-2094978216146452971](../x-2094978216146452971/card.md)
+**Judge hints.** must_read: False · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [x-2094978216146452971](../x-2094978216146452971/card.md)

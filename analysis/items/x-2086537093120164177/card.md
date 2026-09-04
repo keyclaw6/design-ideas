@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [github-mengto-complete-shelf](../github-mengto-complete-shelf/card.md), [x-2086599657925329347](../x-2086599657925329347/card.md), [x-2057113327508345047](../x-2057113327508345047/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Textureless gray 3D render of a detailed jeep-like terrain vehicle with panels and wheels on a neutral studio backdrop.
+`raw/items/x-2086537093120164177/media/media_0.jpg` (image, carries_technique=false) — Textureless gray 3D render of a detailed jeep-like terrain vehicle with panels and wheels on a neutral studio backdrop.
 **Thread.** captured_partial · reported 24 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [x-2057113327508345047](../x-2057113327508345047/card.md)
+**Judge hints.** must_read: False · compare with: [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [x-2057113327508345047](../x-2057113327508345047/card.md)

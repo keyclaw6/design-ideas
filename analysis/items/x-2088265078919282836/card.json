@@ -99,9 +99,7 @@
       "github-mengto-skills",
       "github-oso95-scroll-world"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Tweet lacks the tutorial URL; research names the Meng skill stack to install."
   },
   "worker": "cards-07",

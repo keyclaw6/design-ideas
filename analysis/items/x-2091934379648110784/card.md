@@ -18,4 +18,4 @@
 **Related items.** [web-styles-refero-design](../web-styles-refero-design/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 22 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -8,15 +8,15 @@
 **Quoted.**
 > **@DODOREACH** · 2087134337456083229
 > 4 months of using @pidotdev 
-
-this is post 3 about my pi setup (extensions and custom stuff)
- half stolen, remixed and with a few pieces i already shared
-
-a thread (with gems) ↓
+> 
+> this is post 3 about my pi setup (extensions and custom stuff)
+>  half stolen, remixed and with a few pieces i already shared
+> 
+> a thread (with gems) ↓
 
 > **@DODOREACH** · 2087305486236303406
 > Github here
-https://t.co/OV44ffFUff
+> https://t.co/OV44ffFUff
 
 **Relevant replies (1 of 1 captured).**
 > **@DODOREACH** · 2087642617169276942 · depth 1 · answered-question

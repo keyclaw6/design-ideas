@@ -8,7 +8,7 @@
 **Quoted.**
 > **@DopeOblivion** · 2092996963138449599
 > Check out Forja:
-https://t.co/rMft4Ya62Y https://t.co/zObDoI0m99
+> https://t.co/rMft4Ya62Y https://t.co/zObDoI0m99
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

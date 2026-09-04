@@ -78,7 +78,7 @@
   },
   "media": [
     {
-      "path": "media/favicon.svg",
+      "path": "raw/items/web-flint-chart/media/favicon.svg",
       "type": "other",
       "description": "Flint site favicon: geometric folded-paper mark in gray tones used on the project docs homepage.",
       "skip_reason": null,
@@ -104,7 +104,7 @@
       "github-antvis-infographic",
       "web-aidesigner-mcp"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

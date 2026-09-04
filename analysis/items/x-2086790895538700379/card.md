@@ -17,6 +17,6 @@
 **Links.** product (https://loopany.ai/templates)
 **Related items.** [x-2080856252687745093](../x-2080856252687745093/card.md), [x-2087026930323247306](../x-2087026930323247306/card.md), [x-2032671842230501729](../x-2032671842230501729/card.md), [x-2087263510090874911](../x-2087263510090874911/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Screen recording of the loopany.ai templates gallery UI showing named agent loop cards with copy-paste prompts.
+`raw/items/x-2086790895538700379/media/media_0.jpg` (video, carries_technique=true) — Screen recording of the loopany.ai templates gallery UI showing named agent loop cards with copy-paste prompts.
 **Thread.** captured_partial · reported 8 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

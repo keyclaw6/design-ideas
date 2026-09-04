@@ -9,17 +9,17 @@
 **Relevant replies (3 of 3 captured).**
 > **@anaisbetts** · 2088327998063693951 · depth 1 · link
 > @anaisbetts this grill-me? 
-
-https://t.co/yIPMiN9j4k
-
-I have been unknowingly a baby version of this unknowingly and I think it rips.
-
-I can't believe how good those designs look.
+> 
+> https://t.co/yIPMiN9j4k
+> 
+> I have been unknowingly a baby version of this unknowingly and I think it rips.
+> 
+> I can't believe how good those designs look.
 
 > **@MichaelStonis** · 2088254061762019696 · depth 1 · counter-claim
 > @anaisbetts openscad plus llms is so fun for homelab stuff! 
-
-was able to put together a super cheap but effective fan cooling system for my mini rack using a random pwm fan controller pcb + a few 80mm fans and i’ve never done 3d modeling before
+> 
+> was able to put together a super cheap but effective fan cooling system for my mini rack using a random pwm fan controller pcb + a few 80mm fans and i’ve never done 3d modeling before
 
 > **@ankushg** · 2088593551856681412 · depth 1 · link
 > @anaisbetts You may like https://t.co/NOGx8QjLUO

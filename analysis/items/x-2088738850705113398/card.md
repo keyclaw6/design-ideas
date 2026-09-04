@@ -22,6 +22,6 @@
 **Links.** repo (https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills), https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills
 **Related items.** [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md), [x-2089400082550620636](../x-2089400082550620636/card.md), [x-2089602918605619401](../x-2089602918605619401/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — 55-second screen recording demoing v0.8 gallery scenes including procedural humanoid, diffraction shader, and flower field at 3442x2160.
+`raw/items/x-2088738850705113398/media/media_0.jpg` (video, carries_technique=true) — 55-second screen recording demoing v0.8 gallery scenes including procedural humanoid, diffraction shader, and flower field at 3442x2160.
 **Thread.** captured_partial · reported 7 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

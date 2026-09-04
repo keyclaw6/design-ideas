@@ -21,6 +21,6 @@
 **Links.** product (https://arcana-mfg.com/en/splat2mesh/)
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2093179838249251011](../x-2093179838249251011/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — 16-second demo clip showing Splat2Mesh converting a Gaussian splat capture into exported mesh geometry at 1148x652.
+`raw/items/x-2095136786095951924/media/media_0.mp4` (video, carries_technique=true) — 16-second demo clip showing Splat2Mesh converting a Gaussian splat capture into exported mesh geometry at 1148x652.
 **Thread.** failed · reported 1 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2095136786095951924](../x-2095136786095951924/card.md), [x-2095375790875840593](../x-2095375790875840593/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Demo clip attached to the Japanese Splat2Mesh announcement tweet showing splat-to-mesh conversion output.
+`raw/items/x-2093179838249251011/media/media_0.jpg` (video, carries_technique=true) — Demo clip attached to the Japanese Splat2Mesh announcement tweet showing splat-to-mesh conversion output.
 **Thread.** captured_partial · reported 10 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

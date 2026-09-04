@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/iannuttall/seo), product (https://www.npmjs.com/package/seo)
 **Related items.** [web-crowdreply](../web-crowdreply/card.md), [web-brave-submit-url](../web-brave-submit-url/card.md), [web-seowins-io](../web-seowins-io/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -97,9 +97,7 @@
       "github-wuyoscar-gpt-image2-skill",
       "github-youmind-openlab-nano-banana-pro-prompts"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Trending alert with star velocity; repo is the artifact."
   },
   "worker": "cards-07",

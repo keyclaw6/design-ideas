@@ -8,27 +8,27 @@
 **Quoted.**
 > **@jacob_posel** · 2089968711574638897
 > A 1-hour YouTube video, fully edited by AI, got already 2× my channel’s average view duration.
-
-The stack:
-
-→ Video Use
-https://t.co/XCeefedMss
-→ HyperFrames
-https://t.co/uzXVpwAnwB
-
-→ Custom rules that define exactly how the AI should design, pace, and edit the video.
-
-The https://t.co/TDbyxgfEnJ
+> 
+> The stack:
+> 
+> → Video Use
+> https://t.co/XCeefedMss
+> → HyperFrames
+> https://t.co/uzXVpwAnwB
+> 
+> → Custom rules that define exactly how the AI should design, pace, and edit the video.
+> 
+> The https://t.co/TDbyxgfEnJ
 
 **Relevant replies (2 of 3 captured).**
 > **@jacob_posel** · 2093253819660403085 · depth 1 · link
 > @jacob_posel If you want cool edits you need more than that, Hyperframes + Remotion + your rules ;-) 
-
-Here my fully AI edited Video of 59 minutes: https://t.co/CCdcWC5Ldi
+> 
+> Here my fully AI edited Video of 59 minutes: https://t.co/CCdcWC5Ldi
 
 > **@carlosrodera_** · 2093123333403386260 · depth 1 · number
 > @jacob_posel Is this an HQ skill? If so, you guys should include whisper locally. It's accurate within 20ms rather than 50-100ms from ElevenLabs Scribe.
-
-Can eliminate some of the padding rules with more accurate transcription.
+> 
+> Can eliminate some of the padding rules with more accurate transcription.
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

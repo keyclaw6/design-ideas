@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/dicebear/dicebear), product (https://editor.dicebear.com/), https://www.dicebear.com/playground/, https://api.dicebear.com/10.x/lorelei/svg?seed=Felix
 **Related items.** [web-tinyshots](../web-tinyshots/card.md), [web-cult-ui](../web-cult-ui/card.md), [web-checklist-design](../web-checklist-design/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [web-tinyshots](../web-tinyshots/card.md)
+**Judge hints.** must_read: False · compare with: [web-tinyshots](../web-tinyshots/card.md)

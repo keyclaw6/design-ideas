@@ -19,4 +19,4 @@
 **Related items.** [x-2092255768770920506](../x-2092255768770920506/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 315 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -8,12 +8,12 @@
 **Quoted.**
 > **@shannholmberg** · 2086811795084202439
 > as promised, this prompt will change your life... 
-
-(send it to your hermes agent &amp; thank me later)
-
-----------------------------------------------
-
-create this system - a generic, durable, private, file-based knowledge base and synchronized life tracker that works across
+> 
+> (send it to your hermes agent &amp; thank me later)
+> 
+> ----------------------------------------------
+> 
+> create this system - a generic, durable, private, file-based knowledge base and synchronized life tracker that works across
 
 **Relevant replies (2 of 3 captured).**
 > **@eptwts** · 2087140471281795345 · depth 1 · link

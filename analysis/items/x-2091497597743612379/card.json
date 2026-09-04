@@ -98,9 +98,7 @@
       "x-2093064017468145963",
       "note-blender-minimax-h3-video-generation"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "In-Blender agent world-build demo distinct from export-to-video-model pipeline."
   },
   "worker": "cards-07",

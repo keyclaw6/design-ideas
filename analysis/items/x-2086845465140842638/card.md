@@ -20,4 +20,4 @@ before | after" [post]
 **Related items.** [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2090834948332655011](../x-2090834948332655011/card.md), [x-2085006701984698712](../x-2085006701984698712/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

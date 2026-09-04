@@ -73,7 +73,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2088590355440476343/media/media_0.jpg",
       "type": "video",
       "description": "Attached demo video showing the harness canvas worker rendering an architecture diagram inside the chat UI.",
       "skip_reason": null,
@@ -98,7 +98,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-15",

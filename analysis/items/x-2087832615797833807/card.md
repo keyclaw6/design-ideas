@@ -18,4 +18,4 @@
 **Related items.** [web-typeui-sh](../web-typeui-sh/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [x-2087151521121419648](../x-2087151521121419648/card.md), [web-cult-ui](../web-cult-ui/card.md)
 **Media.** —
 **Thread.** captured_full · reported 1 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'research.md'] · compare with: [web-cult-ui](../web-cult-ui/card.md), [web-typeui-sh](../web-typeui-sh/card.md), [x-2087151521121419648](../x-2087151521121419648/card.md)
+**Judge hints.** must_read: False · compare with: [web-cult-ui](../web-cult-ui/card.md), [web-typeui-sh](../web-typeui-sh/card.md), [x-2087151521121419648](../x-2087151521121419648/card.md)

@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/LessieAI/people-search-bench), paper (https://arxiv.org/pdf/2603.27476), product (https://treg.to/people-search), https://arxiv.org/html/2603.27476v3
 **Related items.** [github-LessieAI-people-search-bench](../github-LessieAI-people-search-bench/card.md), [web-treg-people-search](../web-treg-people-search/card.md), [github-superdesigndev-treg](../github-superdesigndev-treg/card.md), [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: [github-LessieAI-people-search-bench](../github-LessieAI-people-search-bench/card.md)
+**Judge hints.** must_read: False · compare with: [github-LessieAI-people-search-bench](../github-LessieAI-people-search-bench/card.md)

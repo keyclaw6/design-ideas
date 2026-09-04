@@ -18,4 +18,4 @@
 **Links.** product (https://sceneai.art/)
 **Related items.** [web-getlayers-ai](../web-getlayers-ai/card.md), [web-recent-design](../web-recent-design/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-meigen-ai](../web-meigen-ai/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [web-getlayers-ai](../web-getlayers-ai/card.md), [web-typeui-sh](../web-typeui-sh/card.md)
+**Judge hints.** must_read: False · compare with: [web-getlayers-ai](../web-getlayers-ai/card.md), [web-typeui-sh](../web-typeui-sh/card.md)

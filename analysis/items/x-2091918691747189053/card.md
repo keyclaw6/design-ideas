@@ -17,7 +17,7 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Promotional graphic for Marmoset Toolbag 5.03 highlighting SpaceMouse 3D mouse support for viewport camera control.
+`raw/items/x-2091918691747189053/media/media_0.jpg` (image, carries_technique=false) — Promotional graphic for Marmoset Toolbag 5.03 highlighting SpaceMouse 3D mouse support for viewport camera control.
 **Thread.** captured_partial · reported 3 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Product update announcing SpaceMouse support in Marmoset Toolbag 5 viewport navigation—a DCC viewer feature outside blockout-to-video, web-3D, and landing-motion subjects in this taxonomy.

@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/iannuttall/seo), product (https://seoskill.dev), https://www.npmjs.com/package/seo, https://seoskill.dev/.well-known/agent-skills/index.json, https://keep.md, https://ian.is
 **Related items.** —
 **Media.**
-`media/github-card.jpg` (image, carries_technique=false) — GitHub social card for iannuttall/seo describing 70+ SEO audit tools via local CLI and MCP.
+`raw/items/x-2095055297949610427/media/github-card.jpg` (image, carries_technique=false) — GitHub social card for iannuttall/seo describing 70+ SEO audit tools via local CLI and MCP.
 **Thread.** captured_partial · reported 38 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

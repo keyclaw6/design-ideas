@@ -18,4 +18,4 @@
 **Links.** product (https://known.agency/), https://known.agency/#get-started
 **Related items.** [web-crowdreply](../web-crowdreply/card.md), [web-seowins-io](../web-seowins-io/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-nqz-ai-search-prompt-generator](../web-nqz-ai-search-prompt-generator/card.md), [web-tinylaunch-directories](../web-tinylaunch-directories/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

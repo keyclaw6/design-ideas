@@ -15,9 +15,9 @@
 **Relevant replies (1 of 1 captured).**
 > **@nateherk** · 2095016732905656586 · depth 1 · counter-claim
 > @nateherk it lool like a layout  debut 2025 free template on @framer ! sorry for your "hype" but you sell anything with this kind of website where you don't have any control, convert prospect client and that you can't sell to anybody for this..
-
-anybody sell it to a client in meeting 
-
-Plz
+> 
+> anybody sell it to a client in meeting 
+> 
+> Plz
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

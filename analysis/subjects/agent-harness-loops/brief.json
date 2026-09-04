@@ -22,8 +22,8 @@
   "thread_coverage": {
     "x_items": 32,
     "captured_full": 1,
-    "captured_partial": 30,
-    "empty": 0,
+    "captured_partial": 28,
+    "empty": 2,
     "failed": 1
   },
   "techniques": [
@@ -80,5 +80,5 @@
     "design-agent-skills"
   ],
   "written_by": "subject-agent-harness-loops",
-  "written_at": "2026-09-04T18:39:00Z"
+  "written_at": "2026-09-04T18:45:50Z"
 }

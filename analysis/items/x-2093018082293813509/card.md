@@ -18,6 +18,6 @@
 **Links.** product (https://customuse.com)
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Product screenshot showing Customuse UI for mesh cleanup, UV unwrapping, and texture baking steps on an AI-generated model.
+`raw/items/x-2093018082293813509/media/media_0.jpg` (image, carries_technique=true) — Product screenshot showing Customuse UI for mesh cleanup, UV unwrapping, and texture baking steps on an AI-generated model.
 **Thread.** captured_partial · reported 45 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

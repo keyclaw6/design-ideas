@@ -7,12 +7,12 @@
 **Author continuation (1 posts).**
 > **@tokufxug** · 2094962032718270497 · 2026-09-02T01:34:05Z
 > 情報元ページ
-https://t.co/nuTE88wjpv
+> https://t.co/nuTE88wjpv
 
 **Quoted.**
 **Relevant replies (1 of 1 captured).**
 > **@tokufxug** · 2094962032718270497 · depth 1 · author-continuation
 > 情報元ページ
-https://t.co/nuTE88wjpv
+> https://t.co/nuTE88wjpv
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

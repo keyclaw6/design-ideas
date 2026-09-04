@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 27 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Promotes SaturateSkin Vector ONE night serum with clinical-dose copy; the harvested folder contains no landing page, repo, or pipeline artifact tied to design, agents, or 3D subjects.

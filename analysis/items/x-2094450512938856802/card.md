@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2093729321131368744](../x-2093729321131368744/card.md), [web-crowdreply](../web-crowdreply/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — AI responses dashboard showing growth in AI Overviews, ChatGPT, Perplexity, Copilot, and AI Mode citation counts on a new index.
+`raw/items/x-2094450512938856802/media/media_0.jpg` (image, carries_technique=false) — AI responses dashboard showing growth in AI Overviews, ChatGPT, Perplexity, Copilot, and AI Mode citation counts on a new index.
 **Thread.** captured_full · reported 2 · captured 2 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

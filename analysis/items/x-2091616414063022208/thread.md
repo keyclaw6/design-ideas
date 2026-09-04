@@ -12,9 +12,9 @@
 **Relevant replies (1 of 1 captured).**
 > **@designertom** · 2091627562925531362 · depth 1 · answered-question
 > @designertom i feel like it would be so cool were it not so dangerously close to the contra labs aesthetic...
-
-tho i guess no one owns the renaissance!
-
-motion work is really incredible
+> 
+> tho i guess no one owns the renaissance!
+> 
+> motion work is really incredible
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

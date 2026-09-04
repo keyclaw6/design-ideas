@@ -15,7 +15,7 @@
 
 > **@ryanedkins** · 2093957547606634724 · depth 1 · answered-question
 > @imryven It eventually fails. I switched to this model ish back in Q1’26.
-
-The problem is that we are using coding agents that treat those wikis like modular code and not like a whole narrative that contains nuances that can affect historical events. Multi-factorial root causes kills it
+> 
+> The problem is that we are using coding agents that treat those wikis like modular code and not like a whole narrative that contains nuances that can affect historical events. Multi-factorial root causes kills it
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

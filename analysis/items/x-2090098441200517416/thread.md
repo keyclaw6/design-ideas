@@ -8,14 +8,14 @@
 **Quoted.**
 > **@MiniMax_AI** · 2090090516151243063
 > MiniMax H3 is now unlimited on Runway.
-
-For a limited time, Max plan users can generate as much as they want with no caps, no counting, just unlimited access to one of the best video models available. Get started now at the link below. https://t.co/5mx6XHOlZj
+> 
+> For a limited time, Max plan users can generate as much as they want with no caps, no counting, just unlimited access to one of the best video models available. Get started now at the link below. https://t.co/5mx6XHOlZj
 
 **Relevant replies (1 of 3 captured).**
 > **@runwayml** · 2090146459866083736 · depth 1 · link
 > @MiniMax_AI Why are you promoting Runwayml "Unlimited" scams?
-
- It's for 4 days of "unlimited"
-https://t.co/dKY8Rb4a4S https://t.co/qRJ6g5yL6N
+> 
+>  It's for 4 days of "unlimited"
+> https://t.co/dKY8Rb4a4S https://t.co/qRJ6g5yL6N
 
 **Dropped as noise:** 2 replies (praise, emoji, bots, unrelated promo).

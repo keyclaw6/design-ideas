@@ -17,6 +17,6 @@
 **Links.** repo (https://github.com/breferrari/obsidian-mind)
 **Related items.** [x-2087955721732460791](../x-2087955721732460791/card.md), [x-2087143369181114868](../x-2087143369181114868/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Obsidian Mind README screenshot showing crystal logo, MIT license badge, and text describing an Obsidian vault for persistent agent memory with Claude Code, Codex CLI, and Gemini CLI hooks.
+`raw/items/x-2088231655177924993/media/media_0.jpg` (image, carries_technique=false) — Obsidian Mind README screenshot showing crystal logo, MIT license badge, and text describing an Obsidian vault for persistent agent memory with Claude Code, Codex CLI, and Gemini CLI hooks.
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [x-2087208634493095978](../x-2087208634493095978/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)

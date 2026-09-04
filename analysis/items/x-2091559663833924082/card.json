@@ -92,7 +92,7 @@
       "x-2087239769877295158",
       "github-antvis-infographic"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

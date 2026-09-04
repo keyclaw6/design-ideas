@@ -74,7 +74,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2088738850705113398/media/media_0.jpg",
       "type": "video",
       "description": "55-second screen recording demoing v0.8 gallery scenes including procedural humanoid, diffraction shader, and flower field at 3442x2160.",
       "skip_reason": null,

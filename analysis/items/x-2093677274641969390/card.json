@@ -92,7 +92,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2093677274641969390/media/media_0.jpg",
       "type": "image",
       "description": "Architecture infographic titled Second Brain Architecture showing RAW to WIKI flow, CLAUDE.md center hub, five automations (ingest, write, manage, review, maintain), directory tree for raw/wiki/output/ctx/mem folders, and a sources-to-memory feedback loop.",
       "skip_reason": null,

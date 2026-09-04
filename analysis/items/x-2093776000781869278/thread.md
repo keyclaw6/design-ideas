@@ -9,11 +9,11 @@
 **Relevant replies (2 of 2 captured).**
 > **@dan__rosenthal** · 2094068998425972862 · depth 1 · answered-question
 > @dan__rosenthal cool story bro. where's the LTV/CAC ratio?     
-what's the ROAS?     
-how much burn?     
-those stages mean nothing without the numbers.     
-most "systems" are just frameworks to sell consulting.     
-show me the money or gtfo.
+> what's the ROAS?     
+> how much burn?     
+> those stages mean nothing without the numbers.     
+> most "systems" are just frameworks to sell consulting.     
+> show me the money or gtfo.
 
 > **@dirtybatzi** · 2094321253339541605 · depth 1 · alternative-tool
 > @dan__rosenthal Stage 6 is where most of these break for us. Across those accounts, what does month-2 logo retention look like for leads from nurture vs demo-booked direct?

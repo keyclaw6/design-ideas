@@ -17,7 +17,7 @@
 **Links.** —
 **Related items.** [x-2032330665081839791](../x-2032330665081839791/card.md), [x-2094820035344621901](../x-2094820035344621901/card.md), [x-2095214420398121034](../x-2095214420398121034/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Promo graphic showing @Btr0mt 462% Polymarket ROI stat, purple llama mascot, and a Copy @Btr0mt CTA button.
+`raw/items/x-2087280401475600698/media/media_0.jpg` (image, carries_technique=false) — Promo graphic showing @Btr0mt 462% Polymarket ROI stat, purple llama mascot, and a Copy @Btr0mt CTA button.
 **Thread.** captured_partial · reported 11 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** COSMOS ad promises 650% ROI copying Polymarket whales with a free signup funnel; capture has no agent technique, design artifact, or verifiable trading methodology beyond marketing screenshots.

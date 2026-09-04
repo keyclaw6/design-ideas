@@ -17,6 +17,6 @@
 **Links.** product (http://sideshow.sh)
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Sideshow UI showing PR 1564 shallow-vs-deep URL update sequence diagram with expected-vs-current behavior table.
+`raw/items/x-2091622497393225801/media/media_0.jpg` (image, carries_technique=false) — Sideshow UI showing PR 1564 shallow-vs-deep URL update sequence diagram with expected-vs-current behavior table.
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

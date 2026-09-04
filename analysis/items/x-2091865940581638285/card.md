@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2086845465140842638](../x-2086845465140842638/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Attached MP4 demo cycles four pixel-art UI compositions in red, blue, purple, and green color themes with classical figure motifs and window chrome.
+`raw/items/x-2091865940581638285/media/media_0.jpg` (video, carries_technique=true) — Attached MP4 demo cycles four pixel-art UI compositions in red, blue, purple, and green color themes with classical figure motifs and window chrome.
 **Thread.** captured_partial · reported 10 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2086845465140842638](../x-2086845465140842638/card.md)
+**Judge hints.** must_read: False · compare with: [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2086845465140842638](../x-2086845465140842638/card.md)

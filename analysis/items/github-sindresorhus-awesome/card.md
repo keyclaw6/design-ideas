@@ -18,5 +18,5 @@
 **Links.** repo (https://github.com/sindresorhus/awesome), product (https://awesome.re), https://awesome.re, https://github.com/sindresorhus/awesome/blob/main/awesome.md
 **Related items.** [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md), [web-recent-design](../web-recent-design/card.md), [web-getdesign-md](../web-getdesign-md/card.md), [web-cult-ui](../web-cult-ui/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.**
-`media/logo.svg` (other, carries_technique=false) — Red awesome-list logo SVG used as the repository branding mark.
+`raw/items/github-sindresorhus-awesome/media/logo.svg` (other, carries_technique=false) — Red awesome-list logo SVG used as the repository branding mark.
 **Judge hints.** must_read: False · compare with: —

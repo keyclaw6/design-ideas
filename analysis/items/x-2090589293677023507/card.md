@@ -19,4 +19,4 @@
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md), [x-2090839282831270173](../x-2090839282831270173/card.md)
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'research.md'] · compare with: [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)
+**Judge hints.** must_read: False · compare with: [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)

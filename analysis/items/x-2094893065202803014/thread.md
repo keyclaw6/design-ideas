@@ -8,25 +8,25 @@
 **Quoted.**
 > **@codyschneider** · 2094923288438841762
 > Graphed .com - Deploy AI Agents for Marketing
-
-Forward deployed engineers implement marketing agents in 5 business days
-
-Grow your business without increasing headcount
-
-Schedule a discovery call
-
-https://t.co/r1kNf1SxUr
+> 
+> Forward deployed engineers implement marketing agents in 5 business days
+> 
+> Grow your business without increasing headcount
+> 
+> Schedule a discovery call
+> 
+> https://t.co/r1kNf1SxUr
 
 > **@codyschneider** · 2094908173769404719
 > Graphed .com - Deploy AI Agents for Marketing
-
-Implement agents that run paid ads, cold outbound, SEO and more
-
-Data pipeline, data warehouse and cloud server to host your agents
-
-Grow your business with virtual employees
-
-Learn more at link https://t.co/mL5ZLkAgFP
+> 
+> Implement agents that run paid ads, cold outbound, SEO and more
+> 
+> Data pipeline, data warehouse and cloud server to host your agents
+> 
+> Grow your business with virtual employees
+> 
+> Learn more at link https://t.co/mL5ZLkAgFP
 
 > **@codyschneider** · 2094938380966539389
 > Oh and sub to my YT channel to learn marketing engineering - https://t.co/rrI2gTFT7J

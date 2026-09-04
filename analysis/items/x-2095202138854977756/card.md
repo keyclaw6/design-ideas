@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2091519705911795761](../x-2091519705911795761/card.md), [web-fal-ai](../web-fal-ai/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Analytics dashboard titled Opus 5.0 showing 158.8k views/day, 6M total views, and top TikTok grid posts on food triggers.
+`raw/items/x-2095202138854977756/media/media_0.jpg` (image, carries_technique=false) — Analytics dashboard titled Opus 5.0 showing 158.8k views/day, 6M total views, and top TikTok grid posts on food triggers.
 **Thread.** captured_partial · reported 11 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

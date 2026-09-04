@@ -88,9 +88,7 @@
       "web-getlayers-ai",
       "web-typeui-sh"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Section-level prompt inventory versus cinematic GetLayers layers."
   },
   "worker": "cards-07",

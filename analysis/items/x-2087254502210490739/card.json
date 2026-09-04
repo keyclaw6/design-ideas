@@ -117,7 +117,7 @@
       "x-2087026930323247306",
       "x-2032671842230501729"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

@@ -19,4 +19,4 @@
 **Related items.** [x-2093309791120543846](../x-2093309791120543846/card.md), [web-flint-chart](../web-flint-chart/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 5 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2093309791120543846](../x-2093309791120543846/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093309791120543846](../x-2093309791120543846/card.md)

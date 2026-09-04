@@ -91,10 +91,7 @@
       "github-oso95-scroll-world",
       "web-utsubo"
     ],
-    "must_read": [
-      "page.md",
-      "PROMPT.md"
-    ],
+    "must_read": false,
     "why_must_read": "Single-file craft bar for interactive 3D product objects on landing pages."
   },
   "worker": "cards-11",

@@ -89,9 +89,7 @@
       "web-recent-design",
       "web-cartier-ballon-bleu"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Pointer only; unive.ai page not captured for motion/section breakdown."
   },
   "worker": "cards-07",

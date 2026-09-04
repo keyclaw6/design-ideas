@@ -16,7 +16,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-17",
@@ -82,14 +82,14 @@
   },
   "media": [
     {
-      "path": "media/thumb.jpg",
+      "path": "raw/items/x-2095081419202560010/media/thumb.jpg",
       "type": "image",
       "description": "Video thumbnail showing the Gojiberry Sales OS agent roster diagram with role icons.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/video.mp4",
+      "path": "raw/items/x-2095081419202560010/media/video.mp4",
       "type": "video",
       "description": "Screen recording walkthrough of the 13-agent Gojiberry outbound sales OS structure.",
       "skip_reason": null,

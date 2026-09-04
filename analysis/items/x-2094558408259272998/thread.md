@@ -8,29 +8,29 @@
 **Quoted.**
 > **@medriscoll** · 2094213970215231831
 > 30 features of an AI native company: 
-
-1) Function-by-function process blueprint of your entire business.
-
-2) Everyone in org using a daily driver harness like Grok Bot, Claude Cowork, ChatGPT at Work.
-
-3) Centralized intelligence layer that aggregates structured and unstructured
+> 
+> 1) Function-by-function process blueprint of your entire business.
+> 
+> 2) Everyone in org using a daily driver harness like Grok Bot, Claude Cowork, ChatGPT at Work.
+> 
+> 3) Centralized intelligence layer that aggregates structured and unstructured
 
 > **@medriscoll** · 2085803390391460099
 > Wrote about why context engineering is a data problem.
-
-Organizations need to own the process that turns raw sources into useful artifacts for their agents. 
-
-Much of this is work data teams already know how to do!
-
-https://t.co/n8QEWWdN9A https://t.co/jK5QsWKBqC
+> 
+> Organizations need to own the process that turns raw sources into useful artifacts for their agents. 
+> 
+> Much of this is work data teams already know how to do!
+> 
+> https://t.co/n8QEWWdN9A https://t.co/jK5QsWKBqC
 
 **Relevant replies (2 of 3 captured).**
 > **@RMB** · 2094714982906708067 · depth 1 · link
 > @medriscoll Wrote about #3 too recently.
-
-https://t.co/UXO6jeQKhq
-
-There are still many things to figure out. I'd love to see more companies posting and sharing their approach!
+> 
+> https://t.co/UXO6jeQKhq
+> 
+> There are still many things to figure out. I'd love to see more companies posting and sharing their approach!
 
 > **@davidgasquez** · 2094597350778188000 · depth 1 · answered-question
 > @medriscoll Fully agree! We implement our own version of this for customers, I wonder if the future of this will be a tool like Glean, or an on-prem version that the company owns themselves

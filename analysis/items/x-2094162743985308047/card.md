@@ -19,9 +19,9 @@
 **Links.** product (https://frontal.so)
 **Related items.** [x-2095060844547592437](../x-2095060844547592437/card.md), [x-2094424821450817563](../x-2094424821450817563/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Frontal playbook slide for $0-10M ARR titled EVERYTHING IS PIPELINE showing Clay list build, Prospeo email verification, and Instantly/Lemlist sequences with a Playbook case study of 20 opportunities in 20 days.
-`media/media_1.jpg` (image, carries_technique=true) — Frontal slide for $10-50M ARR titled BUILD FROM CLOSED-WON DATA with ICP rebuild UI from last 50 deals and Teikametrics case metrics of $300K pipeline in nine months.
-`media/media_2.jpg` (image, carries_technique=true) — Frontal slide for $50-200M ARR titled SYSTEMATIZE THE SIGNALS showing a live signal feed with Clay tracking 70 signals and 37 triggers firing sequences, plus Aircall 3,655 new accounts result.
-`media/media_3.jpg` (image, carries_technique=false) — Frontal slide for $200M-1B ARR titled HUNDREDS OF REPS CHANGE THE MATH with AI copilot draft UI where reps approve account research before sending.
+`raw/items/x-2094162743985308047/media/media_0.jpg` (image, carries_technique=true) — Frontal playbook slide for $0-10M ARR titled EVERYTHING IS PIPELINE showing Clay list build, Prospeo email verification, and Instantly/Lemlist sequences with a Playbook case study of 20 opportunities in 20 days.
+`raw/items/x-2094162743985308047/media/media_1.jpg` (image, carries_technique=true) — Frontal slide for $10-50M ARR titled BUILD FROM CLOSED-WON DATA with ICP rebuild UI from last 50 deals and Teikametrics case metrics of $300K pipeline in nine months.
+`raw/items/x-2094162743985308047/media/media_2.jpg` (image, carries_technique=true) — Frontal slide for $50-200M ARR titled SYSTEMATIZE THE SIGNALS showing a live signal feed with Clay tracking 70 signals and 37 triggers firing sequences, plus Aircall 3,655 new accounts result.
+`raw/items/x-2094162743985308047/media/media_3.jpg` (image, carries_technique=false) — Frontal slide for $200M-1B ARR titled HUNDREDS OF REPS CHANGE THE MATH with AI copilot draft UI where reps approve account research before sending.
 **Thread.** captured_partial · reported 7 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [x-2095060844547592437](../x-2095060844547592437/card.md), [x-2094770895021572502](../x-2094770895021572502/card.md)

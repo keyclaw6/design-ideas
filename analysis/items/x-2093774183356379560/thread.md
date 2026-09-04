@@ -12,7 +12,7 @@
 
 > **@norbertomarques** · 2093780312761217126 · depth 1 · link
 > @jonathan_wilke Yesss 🙌
-
-https://t.co/9BmAvGlmcs and https://t.co/I8H058mwSx 🫡🔥
+> 
+> https://t.co/9BmAvGlmcs and https://t.co/I8H058mwSx 🫡🔥
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

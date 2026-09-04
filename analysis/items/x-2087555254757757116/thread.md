@@ -8,9 +8,9 @@
 **Quoted.**
 > **@usekernel** · 2087555255995138096
 > bundles are write-only: responses return `has_ca_bundle: true`, never the certificate contents.
-
-learn more in our docs.
-https://t.co/85DUycEUCn
+> 
+> learn more in our docs.
+> https://t.co/85DUycEUCn
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

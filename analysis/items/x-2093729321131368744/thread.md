@@ -12,8 +12,8 @@
 **Relevant replies (2 of 3 captured).**
 > **@murphywuwu** · 2094434857338507393 · depth 1 · answered-question
 > @alexgroberman 87% of ChatGPT citations line up with Bing top results. Which means the article that added six figures probably won Bing before it won anything else.
-
-The tell would be Bing URL Inspection showing crawled and indexed on the pages that spiked. Anyone testing this: check Bing
+> 
+> The tell would be Bing URL Inspection showing crawled and indexed on the pages that spiked. Anyone testing this: check Bing
 
 > **@BuildWithJared** · 2094084420571705420 · depth 1 · answered-question
 > @alexgroberman Applied one of your teardowns to a fiber-careers site 6 weeks ago. Zero ChatGPT citations before. Rewrote the top career pages with the entity plus FAQ plus structured-data pass. Now 5 of the last 7 job applicants name ChatGPT as the source. Google sent 1 click in the same 7

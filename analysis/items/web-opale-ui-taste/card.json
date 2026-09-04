@@ -64,7 +64,7 @@
   },
   "media": [
     {
-      "path": "media/og-image.png",
+      "path": "raw/items/web-opale-ui-taste/media/og-image.png",
       "type": "image",
       "description": "Saved og-image file is an HTML 404 page from opale-ui.design, not a rendered social preview image.",
       "skip_reason": null,

@@ -76,7 +76,7 @@
   },
   "media": [
     {
-      "path": "media/favicon.ico",
+      "path": "raw/items/web-getlayers-ai/media/favicon.ico",
       "type": "image",
       "description": null,
       "skip_reason": "Site favicon only; no visual technique signal.",
@@ -104,9 +104,7 @@
       "web-sceneai-art",
       "github-nateherkai-scroll-craft"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Prompt-level 3D heroes plus MCP assembly are the productized version of MengTo-style capture workflows."
   },
   "worker": "cards-13",

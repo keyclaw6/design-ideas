@@ -14,7 +14,7 @@
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-17",
@@ -86,5 +86,5 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps"
+  "readiness": "ready"
 }

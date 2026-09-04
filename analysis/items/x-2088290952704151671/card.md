@@ -18,4 +18,4 @@
 **Related items.** [x-2088260067204137135](../x-2088260067204137135/card.md), [x-2087263510090874911](../x-2087263510090874911/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-jakubkrehel-skills](../github-jakubkrehel-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 85 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2087263510090874911](../x-2087263510090874911/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
+**Judge hints.** must_read: False · compare with: [x-2087263510090874911](../x-2087263510090874911/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)

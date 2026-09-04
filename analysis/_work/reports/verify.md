@@ -1,13 +1,13 @@
 # Verify report
 
-- CHECK 1 FAIL: missing: analysis/README.md, analysis/subjects.json, analysis/registry/aliases.json, analysis/shelf/shelf.jsonl, analysis/shelf/noise.md, analysis/shelf/duplicate.md, analysis/shelf/out-of-scope.md, analysis/shelf/uncategorized.md
-- CHECK 2 FAIL: analysis=0 missing=388 extra=0 card_json=True card_md=True
-- CHECK 3 FAIL: thread.json=0 thread.md=0 non_x=0
-- CHECK 4 FAIL: missing thread-raw for 311 ids (e.g. ['x-2092979866836648104', 'x-2091497597743612379', 'x-2087832615797833807', 'x-2092918452423983363', 'x-2092242135504552118'])
-- CHECK 5 FAIL: lines=0 sorted=True set_match=False
-- CHECK 6 FAIL: |S|=0 missing_files=0 extra_dirs=set()
+- CHECK 1 PASS: 
+- CHECK 2 PASS: count=388
+- CHECK 3 PASS: 
+- CHECK 4 PASS: 
+- CHECK 5 PASS: 
+- CHECK 6 PASS: |S|=17
 - CHECK 7 PASS: batches=20 sizes_diff=1
-- CHECK 8 SKIP: no workers referenced yet
+- CHECK 8 PASS: workers=38
 - CHECK 9 PASS: 
 - CHECK 10 PASS: 
 - CHECK 11 PASS: 
@@ -26,21 +26,21 @@
 - CHECK 24 PASS: 
 - CHECK 25 PASS: 
 - CHECK 26 PASS: 
-- CHECK 27 PASS: failed=0
+- CHECK 27 PASS: failed=8
 - CHECK 28 PASS: 
 - CHECK 29 PASS: 
 - CHECK 30 PASS: 
 - CHECK 31 PASS: 
-- CHECK 32 PASS: sum=0
+- CHECK 32 PASS: sum=345
 - CHECK 33 PASS: 
 - CHECK 34 PASS: 
 - CHECK 35 PASS: 
-- CHECK 36 PASS: shelf=0 uncategorized=0
+- CHECK 36 PASS: shelf=43 uncategorized=0
 - CHECK 37 PASS: 
 - CHECK 38 PASS: 
-- CHECK 39 FAIL: banned hub Research; banned hub Comments / thread; banned hub Replies; AGENTS.md missing analysis/ reference
-- CHECK 40 SKIP: SAMPLE analyze ids: 
-- CHECK 41 SKIP: SAMPLE shelf ids: 
-- CHECK 42 FAIL: missing: ['catalog/README.md', 'SCHEMA.md', 'AGENTS.md', 'README.md']
+- CHECK 39 PASS: 
+- CHECK 40 SKIP: SAMPLE analyze ids: github-LessieAI-people-search-bench, web-cartier-ballon-bleu, web-tinylaunch-directories, x-2087254502210490739, x-2088308976278790258, x-2090839282831270173, x-2091970263088816272, x-2093179838249251011, x-2094069236524061059, x-2094984529853530345
+- CHECK 41 SKIP: SAMPLE shelf ids: github-deedy-qr-data-transfer, x-2084613319558635940, x-2087280401475600698, x-2087873421094896122, x-2088830609615397333, x-2090787985721856437, x-2091560960066793483, x-2091918691747189053, x-2092658333337469133, x-2093690856637182435
+- CHECK 42 PASS: 
 - CHECK 43 PASS: 
 - CHECK 44 FAIL: working tree not clean

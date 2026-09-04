@@ -17,5 +17,5 @@
 **Links.** repo (https://github.com/nolly-studio/cult-ui), product (https://pro.cult-ui.com/), https://aisdkagents.com/directory, https://cult-ui.com/docs
 **Related items.** [web-originkit-dev](../web-originkit-dev/card.md), [web-vengence-ui](../web-vengence-ui/card.md)
 **Media.**
-`media/og.png` (image, carries_technique=false) — Cult UI OG image with cosmic-gradient headline 'Copy & Paste. The Full Stack.' above logos for Stripe, Framer, OpenAI, Next.js, Supabase, and similar stack icons.
+`raw/items/web-cult-ui/media/og.png` (image, carries_technique=false) — Cult UI OG image with cosmic-gradient headline 'Copy & Paste. The Full Stack.' above logos for Stripe, Framer, OpenAI, Next.js, Supabase, and similar stack icons.
 **Judge hints.** must_read: False · compare with: [web-originkit-dev](../web-originkit-dev/card.md), [web-vengence-ui](../web-vengence-ui/card.md)

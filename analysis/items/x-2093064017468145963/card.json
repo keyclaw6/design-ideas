@@ -85,16 +85,14 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
+  "readiness": "ready",
   "gaps": [],
   "judge_hints": {
     "compare_with": [
       "note-blender-minimax-h3-video-generation",
       "x-2093986548404428942"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Exemplar MCP-orchestrated Blender interior with library reuse."
   },
   "worker": "cards-13",

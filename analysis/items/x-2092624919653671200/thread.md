@@ -9,7 +9,7 @@
 **Relevant replies (1 of 2 captured).**
 > **@adomaitsx** · 2092708704756089046 · depth 1 · link
 > @bedesqui @ZajnoCrew did it
-
-https://t.co/qDLkfRNF9d
+> 
+> https://t.co/qDLkfRNF9d
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

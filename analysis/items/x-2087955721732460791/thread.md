@@ -12,7 +12,7 @@
 
 > **@EllaTech0** · 2087966881965805871 · depth 1 · correction
 > @typedotcom This is the kind of memory AI teams actually need.
-
-Not just remembering tasks, but learning how each person, team, and company works over time. Type’s approach makes that feel genuinely useful.
+> 
+> Not just remembering tasks, but learning how each person, team, and company works over time. Type’s approach makes that feel genuinely useful.
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

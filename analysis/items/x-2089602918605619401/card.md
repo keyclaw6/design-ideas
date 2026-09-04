@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/MengTo/sylva), product (https://mengto.github.io/sylva/), https://github.com/MengTo/Skills
 **Related items.** [github-mengto-skills](../github-mengto-skills/card.md), [github-mengto-complete-shelf](../github-mengto-complete-shelf/card.md), [x-2088738850705113398](../x-2088738850705113398/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Screen recording of the Sylva Three.js site showing procedural moss geometry and wireframe scan-reveal interaction.
+`raw/items/x-2089602918605619401/media/media_0.jpg` (video, carries_technique=true) — Screen recording of the Sylva Three.js site showing procedural moss geometry and wireframe scan-reveal interaction.
 **Thread.** captured_partial · reported 63 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

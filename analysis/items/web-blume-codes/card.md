@@ -17,4 +17,4 @@
 **Links.** product (https://blume.codes), https://careers.blume.codes/
 **Related items.** [web-chatgpt-training](../web-chatgpt-training/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-mengto-skills](../github-mengto-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

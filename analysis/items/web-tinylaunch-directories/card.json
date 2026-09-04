@@ -107,9 +107,7 @@
       "web-tinyshelf",
       "github-iannuttall-seo"
     ],
-    "must_read": [
-      "page.md"
-    ],
+    "must_read": false,
     "why_must_read": "Concrete DR/backlink play with guarantees versus DIY directory lists."
   },
   "worker": "cards-11",

@@ -22,6 +22,6 @@
 **Links.** repo (https://github.com/romangojiberryAI/gojiberryai-sales-os), product (https://gojiberry.ai/), https://mcp.gojiberry.ai/mcp
 **Related items.** [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [x-2094892848042725416](../x-2094892848042725416/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=false) — Slack Calendly-via-Zapier notification showing a new demo booked on 2026-08-31 at 18:00 UTC with America/Chicago timezone and a CIO role answer field partially visible.
+`raw/items/x-2094326291906310180/media/photo.jpg` (image, carries_technique=false) — Slack Calendly-via-Zapier notification showing a new demo booked on 2026-08-31 at 18:00 UTC with America/Chicago timezone and a CIO role answer field partially visible.
 **Thread.** captured_partial · reported 12 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: True · compare with: [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [x-2094892848042725416](../x-2094892848042725416/card.md)

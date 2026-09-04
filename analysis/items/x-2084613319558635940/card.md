@@ -18,5 +18,5 @@
 **Related items.** [x-2080856252687745093](../x-2080856252687745093/card.md), [web-chatgpt-training](../web-chatgpt-training/card.md), [x-2086790895538700379](../x-2086790895538700379/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 47 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** The post praises an unnamed teacher for simplifying agent concepts but names no creator, course, repo, or URL, so nothing actionable can be retrieved from the capture.

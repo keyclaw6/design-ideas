@@ -18,4 +18,4 @@
 **Related items.** [x-2087239769877295158](../x-2087239769877295158/card.md), [x-2091559663833924082](../x-2091559663833924082/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 78 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

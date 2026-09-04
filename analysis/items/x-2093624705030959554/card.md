@@ -20,6 +20,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Dark-themed AI responses dashboard screenshot listing ChatGPT, Perplexity, Copilot, and Google AI Mode response and page counts with week-over-week deltas.
+`raw/items/x-2093624705030959554/media/media_0.jpg` (image, carries_technique=false) — Dark-themed AI responses dashboard screenshot listing ChatGPT, Perplexity, Copilot, and Google AI Mode response and page counts with week-over-week deltas.
 **Thread.** captured_partial · reported 9 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

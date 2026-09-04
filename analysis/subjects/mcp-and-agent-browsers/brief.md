@@ -123,13 +123,13 @@ Criteria only. No ranking language. A later judge scores each shortlisted item o
 
 ## mcp-and-agent-browsers — thread coverage
 
-X items in primary roster: 6. captured_full=0, captured_partial=6, empty=0, failed=0.
+X items in primary roster: 6. captured_full=0, captured_partial=5, empty=1, failed=0.
 Logged-out x.com HTML was the working conversation source. Guest GraphQL TweetDetail 404'd; fxtwitter gives counts, not replies.
 Partial threads still have the first visible replies and any author continuation that rendered. Treat missing replies as unknown, not as 'no one answered'.
 
 | id | thread status | reported | captured | relevant |
 |---|---|---|---|---|
-| [x-2087151521121419648](../../items/x-2087151521121419648/thread.md) | captured_partial | 0 | 0 | 0 |
+| [x-2087151521121419648](../../items/x-2087151521121419648/thread.md) | empty | 0 | 0 | 0 |
 | [x-2087555254757757116](../../items/x-2087555254757757116/thread.md) | captured_partial | 6 | 1 | 0 |
 | [x-2087898602890744089](../../items/x-2087898602890744089/thread.md) | captured_partial | 61 | 3 | 1 |
 | [x-2093050916953903451](../../items/x-2093050916953903451/thread.md) | captured_partial | 387 | 2 | 1 |
@@ -138,7 +138,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## mcp-and-agent-browsers — gaps and open questions
 
-Primary readiness: ready=4, ready-with-gaps=7. Gap tags: linked-page-unfetched=1, thread-partial=1.
+Primary readiness: ready=5, ready-with-gaps=6. Gap tags: linked-page-unfetched=1, thread-partial=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

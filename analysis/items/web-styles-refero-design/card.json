@@ -103,7 +103,7 @@
       "web-getdesign-md",
       "github-google-labs-code-design-md"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

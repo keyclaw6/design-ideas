@@ -22,4 +22,4 @@
 **Related items.** [x-2093047548550525165](../x-2093047548550525165/card.md), [x-2092008677834387672](../x-2092008677834387672/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 158 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

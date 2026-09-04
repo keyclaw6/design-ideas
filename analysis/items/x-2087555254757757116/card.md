@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md), [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md), [web-obscura-sh](../web-obscura-sh/card.md), [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Short screen recording showing KERNEL proxy settings UI where a CA bundle file is uploaded and applied to an agent browser session.
+`raw/items/x-2087555254757757116/media/media_0.jpg` (video, carries_technique=false) — Short screen recording showing KERNEL proxy settings UI where a CA bundle file is uploaded and applied to an agent browser session.
 **Thread.** captured_partial · reported 6 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md), [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md)

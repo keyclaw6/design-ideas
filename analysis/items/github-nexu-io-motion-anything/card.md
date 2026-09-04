@@ -19,4 +19,4 @@
 **Links.** repo (https://github.com/nexu-io/motion-anything), product (https://github.com/nexu-io/motion-anything), https://github.com/nexu-io/open-design
 **Related items.** [github-nexu-io-open-design](../github-nexu-io-open-design/card.md), [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.** —
-**Judge hints.** must_read: ['research.md'] · compare with: [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
+**Judge hints.** must_read: False · compare with: [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)

@@ -18,4 +18,4 @@
 **Links.** product (https://refero.design/mcp), https://styles.refero.design/ai-agents/design-md-examples, https://github.com/google-labs-code/design.md
 **Related items.** [web-getdesign-md](../web-getdesign-md/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [web-sokosumi-design-md](../web-sokosumi-design-md/card.md), [web-aidesigner-mcp](../web-aidesigner-mcp/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: [web-getdesign-md](../web-getdesign-md/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)
+**Judge hints.** must_read: False · compare with: [web-getdesign-md](../web-getdesign-md/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)

@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2094450512938856802](../x-2094450512938856802/card.md), [web-seowins-io](../web-seowins-io/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — Dashboard titled AI responses showing AI Overviews at 9.7K responses and ChatGPT at 1.9K, with breakdown rows for AI Mode, Gemini, Perplexity, Copilot, and Grok.
+`raw/items/x-2093729321131368744/media/media_0.jpg` (image, carries_technique=false) — Dashboard titled AI responses showing AI Overviews at 9.7K responses and ChatGPT at 1.9K, with breakdown rows for AI Mode, Gemini, Perplexity, Copilot, and Grok.
 **Thread.** captured_partial · reported 9 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

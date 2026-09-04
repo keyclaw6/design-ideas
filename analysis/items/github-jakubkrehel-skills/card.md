@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/jakubkrehel/skills), product (https://jakub.kr/skills), https://interfaces.dev/
 **Related items.** [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [web-checklist-design](../web-checklist-design/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

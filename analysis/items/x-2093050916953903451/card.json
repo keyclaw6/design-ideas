@@ -95,7 +95,7 @@
       "x-2093153416214114558",
       "web-obscura-sh"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

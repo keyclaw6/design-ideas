@@ -19,15 +19,15 @@
 **Links.** product (https://blume.codes), https://www.dicebear.com, https://fal.ai
 **Related items.** [web-blume-codes](../web-blume-codes/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-dicebear](../web-dicebear/card.md), [web-cult-ui](../web-cult-ui/card.md)
 **Media.**
-`media/article-cover.jpg` (image, carries_technique=false) — Cover art: cream UI card listing three agent rows among orange lilies and a green vine beside All Your Agents, in Focus headline.
-`media/article-hero-still.jpg` (image, carries_technique=true) — Blume hero over sunflower field: Download DMG callout plus floating Cursor, Codex, and Claude Code windows above Improve-tab analytics gauges.
-`media/article-reference.jpg` (image, carries_technique=true) — Makoto Shinkai-style reference landscape with sunflowers, orange lilies, roses, and bellflowers under a bright blue cloudy sky.
-`media/article-layers.jpg` (image, carries_technique=true) — Eight tilted cards showing far mountains through mid cliffs to foreground wildflowers, illustrating separate parallax layer plates.
-`media/article-video-interactive.mp4` (video, carries_technique=true) — 16s demo of the live interactive Blume app embed on the landing page with analytics and suggestion cards.
-`media/article-video-interactive-thumb.jpg` (image, carries_technique=false) — Still frame of the interactive product demo video showing Blume Improve tab over the parallax hero background.
-`media/article-video-vine.mp4` (video, carries_technique=true) — 12s scroll capture of the journey vine section with Works With logos and agent list illustration.
-`media/article-video-vine-thumb.jpg` (image, carries_technique=false) — Still of the vine section headline Your journey begins here with Cursor, Claude Code, Codex, and Pi logos.
-`media/article-video-theme.mp4` (video, carries_technique=true) — 19s demo cycling Blume flower themes that regenerate page graphics and agent card styling.
-`media/article-video-theme-thumb.jpg` (image, carries_technique=false) — Still of the theme-picker section showing All Your Agents in Focus beside lily-decorated UI cards and Download DMG button.
+`raw/items/x-2094524951025914278/media/article-cover.jpg` (image, carries_technique=false) — Cover art: cream UI card listing three agent rows among orange lilies and a green vine beside All Your Agents, in Focus headline.
+`raw/items/x-2094524951025914278/media/article-hero-still.jpg` (image, carries_technique=true) — Blume hero over sunflower field: Download DMG callout plus floating Cursor, Codex, and Claude Code windows above Improve-tab analytics gauges.
+`raw/items/x-2094524951025914278/media/article-layers.jpg` (image, carries_technique=true) — Eight tilted cards showing far mountains through mid cliffs to foreground wildflowers, illustrating separate parallax layer plates.
+`raw/items/x-2094524951025914278/media/article-reference.jpg` (image, carries_technique=true) — Makoto Shinkai-style reference landscape with sunflowers, orange lilies, roses, and bellflowers under a bright blue cloudy sky.
+`raw/items/x-2094524951025914278/media/article-video-interactive-thumb.jpg` (image, carries_technique=false) — Still frame of the interactive product demo video showing Blume Improve tab over the parallax hero background.
+`raw/items/x-2094524951025914278/media/article-video-interactive.mp4` (video, carries_technique=true) — 16s demo of the live interactive Blume app embed on the landing page with analytics and suggestion cards.
+`raw/items/x-2094524951025914278/media/article-video-theme-thumb.jpg` (image, carries_technique=false) — Still of the theme-picker section showing All Your Agents in Focus beside lily-decorated UI cards and Download DMG button.
+`raw/items/x-2094524951025914278/media/article-video-theme.mp4` (video, carries_technique=true) — 19s demo cycling Blume flower themes that regenerate page graphics and agent card styling.
+`raw/items/x-2094524951025914278/media/article-video-vine-thumb.jpg` (image, carries_technique=false) — Still of the vine section headline Your journey begins here with Cursor, Claude Code, Codex, and Pi logos.
+`raw/items/x-2094524951025914278/media/article-video-vine.mp4` (video, carries_technique=true) — 12s scroll capture of the journey vine section with Works With logos and agent list illustration.
 **Thread.** captured_partial · reported 13 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md', 'research.md'] · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-blume-codes](../web-blume-codes/card.md), [web-dicebear](../web-dicebear/card.md)
+**Judge hints.** must_read: False · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-blume-codes](../web-blume-codes/card.md), [web-dicebear](../web-dicebear/card.md)

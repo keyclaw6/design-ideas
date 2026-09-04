@@ -12,7 +12,7 @@
 **Relevant replies (1 of 1 captured).**
 > **@juampitech** · 2090863864338374966 · depth 1 · link
 > @juampitech @hvpandya @petergyang @blader @poteto you’re missing the god tier anti-slop rules by @dillon_mulroy 
-
-https://t.co/ahxVotKMMy
+> 
+> https://t.co/ahxVotKMMy
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

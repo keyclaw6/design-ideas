@@ -17,6 +17,6 @@
 **Links.** product (https://4dgs.jp/ja/3dgs-mesh-converter), https://3dnchu.com/archives/3dgs-mesh-converter/
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=false) — 4dgs.jp landing for 3DGS Mesh Converter beta showing PLY input to GLB/STL/OBJ output with no-install workflow.
+`raw/items/x-2095336950890983773/media/media_0.jpg` (image, carries_technique=false) — 4dgs.jp landing for 3DGS Mesh Converter beta showing PLY input to GLB/STL/OBJ output with no-install workflow.
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094648474377839018](../x-2094648474377839018/card.md)
+**Judge hints.** must_read: False · compare with: [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094648474377839018](../x-2094648474377839018/card.md)

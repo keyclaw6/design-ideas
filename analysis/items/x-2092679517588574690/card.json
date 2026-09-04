@@ -64,7 +64,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2092679517588574690/media/media_0.jpg",
       "type": "video",
       "description": "Workflow preview video showing Blender blockout camera motion composited with MiniMax H3 environment generation from a reference image.",
       "skip_reason": null,
@@ -88,7 +88,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-16",

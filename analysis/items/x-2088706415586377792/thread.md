@@ -8,12 +8,12 @@
 **Quoted.**
 > **@vercel** · 2088695568474546387
 > 🚨 BREAKING: 
-
-DeepSeek-V4-Flash-0731-Fast⚡️ is live on @vercel AI Gateway!
-
-pick @wafer_ai as your provider  
-
-(ss taken 8.15.26) https://t.co/Cs9M4Ap3EY
+> 
+> DeepSeek-V4-Flash-0731-Fast⚡️ is live on @vercel AI Gateway!
+> 
+> pick @wafer_ai as your provider  
+> 
+> (ss taken 8.15.26) https://t.co/Cs9M4Ap3EY
 
 **Relevant replies (2 of 2 captured).**
 > **@wafer_ai** · 2088707713731825778 · depth 1 · link
@@ -21,7 +21,7 @@ pick @wafer_ai as your provider
 
 > **@wafer_ai** · 2088709281201950976 · depth 1 · alternative-tool
 > @wafer_ai @vercel holy smokes
-
-even though im getting more subsidised usage at opencode and wont be switching, i still want to experience how it feels coding with frontier models at such a fast speed. might as well try it out
+> 
+> even though im getting more subsidised usage at opencode and wont be switching, i still want to experience how it feels coding with frontier models at such a fast speed. might as well try it out
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

@@ -61,7 +61,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2093964632562253866/media/media_0.jpg",
       "type": "image",
       "description": "Screenshot of Brave's minimal submit-url page with a URL input field labeled Insert the URL to be re-fetched and a gray Submit button.",
       "skip_reason": null,
@@ -86,7 +86,7 @@
     "compare_with": [
       "web-brave-submit-url"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-12",

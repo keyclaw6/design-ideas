@@ -19,4 +19,4 @@
 **Related items.** [x-2094961942058418268](../x-2094961942058418268/card.md), [x-2092242135504552118](../x-2092242135504552118/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 11 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2094961942058418268](../x-2094961942058418268/card.md), [x-2092242135504552118](../x-2092242135504552118/card.md)
+**Judge hints.** must_read: False · compare with: [x-2094961942058418268](../x-2094961942058418268/card.md), [x-2092242135504552118](../x-2092242135504552118/card.md)

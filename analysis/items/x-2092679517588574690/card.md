@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Workflow preview video showing Blender blockout camera motion composited with MiniMax H3 environment generation from a reference image.
+`raw/items/x-2092679517588574690/media/media_0.jpg` (video, carries_technique=true) — Workflow preview video showing Blender blockout camera motion composited with MiniMax H3 environment generation from a reference image.
 **Thread.** captured_partial · reported 21 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

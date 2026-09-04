@@ -19,8 +19,8 @@
 **Links.** repo (https://github.com/nateherkai/scroll-craft), product (https://aiautomationsociety.ai), https://x.com/i/article/2094971964163006468, https://www.nateherk.com
 **Related items.** [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)
 **Media.**
-`media/thumb.jpg` (image, carries_technique=true) — Video thumbnail showing the AI Automation Society landing page hero with layered landscape and a speaker inset at a microphone.
-`media/video.mp4` (video, carries_technique=true) — 149-second walkthrough demo of Fable 5.1 animated landing page builds paired with the scroll-craft workflow.
-`media/article-cover.jpg` (image, carries_technique=false) — X article cover titled Design King showing a crowned Zapier icon bursting through cracked ground with floating SaaS landing page mockups.
+`raw/items/x-2094978216146452971/media/article-cover.jpg` (image, carries_technique=false) — X article cover titled Design King showing a crowned Zapier icon bursting through cracked ground with floating SaaS landing page mockups.
+`raw/items/x-2094978216146452971/media/thumb.jpg` (image, carries_technique=true) — Video thumbnail showing the AI Automation Society landing page hero with layered landscape and a speaker inset at a microphone.
+`raw/items/x-2094978216146452971/media/video.mp4` (video, carries_technique=true) — 149-second walkthrough demo of Fable 5.1 animated landing page builds paired with the scroll-craft workflow.
 **Thread.** captured_partial · reported 40 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)
+**Judge hints.** must_read: False · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)

@@ -18,5 +18,5 @@
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 245 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —
 **Shelf reason.** Single-sentence X post claims you can RL a coding model to paint with JavaScript but includes no repo, demo, media, or method—too thin to support analysis beyond the unsubstantiated hook.

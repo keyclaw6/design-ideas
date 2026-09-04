@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Short demo video showing design work produced through the ChatGPT, Fable 5, and Higgsfield toolchain described in the post.
+`raw/items/x-2093236801079279978/media/media_0.jpg` (video, carries_technique=true) — Short demo video showing design work produced through the ChatGPT, Fable 5, and Higgsfield toolchain described in the post.
 **Thread.** captured_partial · reported 29 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: [x-2095427702325231977](../x-2095427702325231977/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)

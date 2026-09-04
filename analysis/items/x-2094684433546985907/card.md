@@ -21,7 +21,7 @@ Crunchbase, G2, Product Hunt, Capterra, GetApp" [post]
 **Links.** https://www.crunchbase.com/, https://www.g2.com/, https://www.producthunt.com/
 **Related items.** [web-tinylaunch-directories](../web-tinylaunch-directories/card.md), [web-tinyshelf](../web-tinyshelf/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md)
 **Media.**
-`media/photo.jpg` (image, carries_technique=false) — Crunchbase.com Domain Rating 91 gauge screenshot on a dark textured background used as DR proof in the post.
-`media/quoted-photo.png` (image, carries_technique=false) — Quoted-tweet still repeating the Crunchbase Domain Rating 91 donut chart graphic.
+`raw/items/x-2094684433546985907/media/photo.jpg` (image, carries_technique=false) — Crunchbase.com Domain Rating 91 gauge screenshot on a dark textured background used as DR proof in the post.
+`raw/items/x-2094684433546985907/media/quoted-photo.png` (image, carries_technique=false) — Quoted-tweet still repeating the Crunchbase Domain Rating 91 donut chart graphic.
 **Thread.** captured_partial · reported 23 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md', 'comments.md'] · compare with: [web-tinylaunch-directories](../web-tinylaunch-directories/card.md), [x-2094093678080119153](../x-2094093678080119153/card.md)
+**Judge hints.** must_read: False · compare with: [web-tinylaunch-directories](../web-tinylaunch-directories/card.md)

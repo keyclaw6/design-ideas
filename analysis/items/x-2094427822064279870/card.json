@@ -93,7 +93,7 @@
   },
   "media": [
     {
-      "path": "media/photo.png",
+      "path": "raw/items/x-2094427822064279870/media/photo.png",
       "type": "image",
       "description": "README crop showing Obscura wordmark, Trendshift number-one badge, and comparison table versus headless Chrome on memory, binary size, anti-detect, and page-load metrics.",
       "skip_reason": null,
@@ -119,10 +119,7 @@
       "github-h4ckf0r0day-obscura",
       "web-obscura-sh"
     ],
-    "must_read": [
-      "post.md",
-      "comments.md"
-    ],
+    "must_read": false,
     "why_must_read": "Viral claim-source tweet with self-reply repo link; reconcile hype lines against README capture."
   },
   "worker": "cards-07",

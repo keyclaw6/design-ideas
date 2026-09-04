@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** [x-2093767075131220005](../x-2093767075131220005/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Attached screen recording showing the finished hero section motion and layout produced with custom skills and a client DESIGN.md in Cursor.
+`raw/items/x-2095207624396652956/media/media_0.jpg` (video, carries_technique=true) — Attached screen recording showing the finished hero section motion and layout produced with custom skills and a client DESIGN.md in Cursor.
 **Thread.** captured_partial · reported 20 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2093767075131220005](../x-2093767075131220005/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093767075131220005](../x-2093767075131220005/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md)

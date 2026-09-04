@@ -89,25 +89,25 @@
   },
   "media": [
     {
-      "path": "media/photo.jpg",
+      "path": "raw/items/x-2094688982940741816/media/photo.jpg",
       "type": "image",
       "description": "Dark analytics table ranking source/medium rows; search.brave.com/referral shows 1,190 visitors at 1.34% of 88,974 total sessions with a yellow arrow highlight.",
       "skip_reason": null,
       "carries_technique": true
     },
     {
-      "path": "media/quoted-photo.jpg",
-      "type": "image",
-      "description": "Brave submit-url form with heading 'Insert the URL to be re-fetched', empty URL input, and gray Submit button.",
-      "skip_reason": null,
-      "carries_technique": true
-    },
-    {
-      "path": "media/quoted-after.jpg",
+      "path": "raw/items/x-2094688982940741816/media/quoted-after.jpg",
       "type": "image",
       "description": "Brave submit-url form after entering https://hridoyreh.com/ showing a Success confirmation and a grayed Submitted button.",
       "skip_reason": null,
       "carries_technique": false
+    },
+    {
+      "path": "raw/items/x-2094688982940741816/media/quoted-photo.jpg",
+      "type": "image",
+      "description": "Brave submit-url form with heading 'Insert the URL to be re-fetched', empty URL input, and gray Submit button.",
+      "skip_reason": null,
+      "carries_technique": true
     }
   ],
   "raw": {
@@ -126,7 +126,7 @@
   ],
   "judge_hints": {
     "compare_with": [],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-16",

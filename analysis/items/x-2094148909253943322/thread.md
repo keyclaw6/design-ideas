@@ -9,14 +9,14 @@
 **Relevant replies (2 of 3 captured).**
 > **@coreyhainesco** · 2094159037830922522 · depth 1 · answered-question
 > @coreyhainesco Its crazy how all the SEO tricks from 15 years ago are back in action.
-
-I recall that trick from "The New Rules of Marketing and PR" by @dmscott back when I was a newly-hatched marketing grub.
+> 
+> I recall that trick from "The New Rules of Marketing and PR" by @dmscott back when I was a newly-hatched marketing grub.
 
 > **@ktarchived** · 2094222909845684682 · depth 1 · answered-question
 > @coreyhainesco The trap is treating “X citations” as the KPI.
-
-If RevOps/Mops can’t tie those citations to pipeline (which SKU, which question, which stage) then you just built a vanity AEO report.
-
-You scoring citation quality or only vol?
+> 
+> If RevOps/Mops can’t tie those citations to pipeline (which SKU, which question, which stage) then you just built a vanity AEO report.
+> 
+> You scoring citation quality or only vol?
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

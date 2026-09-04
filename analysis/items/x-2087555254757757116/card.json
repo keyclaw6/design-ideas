@@ -73,7 +73,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.jpg",
+      "path": "raw/items/x-2087555254757757116/media/media_0.jpg",
       "type": "video",
       "description": "Short screen recording showing KERNEL proxy settings UI where a CA bundle file is uploaded and applied to an agent browser session.",
       "skip_reason": null,

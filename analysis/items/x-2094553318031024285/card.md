@@ -21,8 +21,8 @@
 **Links.** product (https://crowdreply.io), https://crowdreply.io/mcp, https://mcp.crowdreply.io/mcp, https://crowdreply.io/features/citation-outreach, https://x.com/i/article/2094451432208711681
 **Related items.** [web-crowdreply](../web-crowdreply/card.md), [x-2094451439573881015](../x-2094451439573881015/card.md)
 **Media.**
-`media/thumb.jpg` (image, carries_technique=false) — Cinematic night-crowd still used as the attached video thumbnail, not a product UI screenshot.
-`media/video.mp4` (video, carries_technique=false) — 11-second amplify video accompanying the Grok Bot plus CrowdReply MCP setup pitch.
-`media/quoted-article-cover.jpg` (image, carries_technique=false) — Quoted X article cover parodying Michelangelo's Creation of Adam with a Cursor-logo spark between the reaching hands.
+`raw/items/x-2094553318031024285/media/quoted-article-cover.jpg` (image, carries_technique=false) — Quoted X article cover parodying Michelangelo's Creation of Adam with a Cursor-logo spark between the reaching hands.
+`raw/items/x-2094553318031024285/media/thumb.jpg` (image, carries_technique=false) — Cinematic night-crowd still used as the attached video thumbnail, not a product UI screenshot.
+`raw/items/x-2094553318031024285/media/video.mp4` (video, carries_technique=false) — 11-second amplify video accompanying the Grok Bot plus CrowdReply MCP setup pitch.
 **Thread.** captured_partial · reported 8 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['research.md'] · compare with: [web-crowdreply](../web-crowdreply/card.md)
+**Judge hints.** must_read: False · compare with: [web-crowdreply](../web-crowdreply/card.md)

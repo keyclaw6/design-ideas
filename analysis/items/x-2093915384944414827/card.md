@@ -18,4 +18,4 @@
 **Related items.** [x-2093767075131220005](../x-2093767075131220005/card.md), [x-2095429087141515616](../x-2095429087141515616/card.md)
 **Media.** —
 **Thread.** failed · reported 2 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: [x-2093767075131220005](../x-2093767075131220005/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)
+**Judge hints.** must_read: False · compare with: [x-2093767075131220005](../x-2093767075131220005/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md)

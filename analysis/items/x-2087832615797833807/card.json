@@ -81,10 +81,7 @@
       "web-typeui-sh",
       "x-2087151521121419648"
     ],
-    "must_read": [
-      "post.md",
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Named component vocabulary for agent chat and review UIs."
   },
   "worker": "cards-11",

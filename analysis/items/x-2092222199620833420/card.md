@@ -20,4 +20,4 @@ Total: 16,477 ⭐️" [post]
 **Related items.** [github-wuyoscar-gpt-image2-skill](../github-wuyoscar-gpt-image2-skill/card.md), [github-youmind-openlab-nano-banana-pro-prompts](../github-youmind-openlab-nano-banana-pro-prompts/card.md), [web-meigen-ai](../web-meigen-ai/card.md)
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [github-wuyoscar-gpt-image2-skill](../github-wuyoscar-gpt-image2-skill/card.md), [github-youmind-openlab-nano-banana-pro-prompts](../github-youmind-openlab-nano-banana-pro-prompts/card.md)
+**Judge hints.** must_read: False · compare with: [github-wuyoscar-gpt-image2-skill](../github-wuyoscar-gpt-image2-skill/card.md), [github-youmind-openlab-nano-banana-pro-prompts](../github-youmind-openlab-nano-banana-pro-prompts/card.md)

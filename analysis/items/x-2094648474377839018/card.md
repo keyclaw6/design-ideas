@@ -18,7 +18,7 @@
 **Links.** repo (https://github.com/ArcanaMfg), product (https://arcana-mfg.com/en/splat2mesh/), https://arcana-mfg.com/splat2mesh/, https://3dnchu.com/archives/splat2mesh/
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)
 **Media.**
-`media/quoted-video.mp4` (video, carries_technique=true) — 70s quoted teaser showing Splat2Mesh v1.0 loading bicycle.ply and previewing the park bench scene.
-`media/quoted-thumb.jpg` (image, carries_technique=true) — Splat2Mesh v1.0 dark UI with bicycle.ply viewport, voxel and polygon reduction controls visible.
-**Thread.** captured_partial · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['raw/items/x-2094648474377839018/post.md'] · compare with: [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)
+`raw/items/x-2094648474377839018/media/quoted-thumb.jpg` (image, carries_technique=true) — Splat2Mesh v1.0 dark UI with bicycle.ply viewport, voxel and polygon reduction controls visible.
+`raw/items/x-2094648474377839018/media/quoted-video.mp4` (video, carries_technique=true) — 70s quoted teaser showing Splat2Mesh v1.0 loading bicycle.ply and previewing the park bench scene.
+**Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: False · compare with: [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)

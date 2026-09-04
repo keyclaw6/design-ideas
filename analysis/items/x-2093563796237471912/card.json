@@ -55,7 +55,7 @@
   },
   "media": [
     {
-      "path": "media/media_0.mp4",
+      "path": "raw/items/x-2093563796237471912/media/media_0.mp4",
       "type": "video",
       "description": null,
       "skip_reason": "Demo video not frame-reviewed; paper claims covered in post text.",
@@ -78,9 +78,7 @@
     "compare_with": [
       "x-2094648474377839018"
     ],
-    "must_read": [
-      "post.md"
-    ],
+    "must_read": false,
     "why_must_read": "Research pointer for autoregressive 3DGS generation."
   },
   "worker": "cards-13",

@@ -8,8 +8,8 @@
 **Quoted.**
 > **@CadX_Studio** · 2091621673246261601
 > This isn't a photo of a Stanley cup.
-It's an AI-generated CAD render - designed in one shot.
-https://t.co/uhtHLA2YNY https://t.co/LS3rEXcyI8
+> It's an AI-generated CAD render - designed in one shot.
+> https://t.co/uhtHLA2YNY https://t.co/LS3rEXcyI8
 
 **Relevant replies (0 of 1 captured).**
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

@@ -18,6 +18,6 @@
 **Links.** repo (https://huggingface.co/unsloth/Qwen3.8-27B-GGUF), product (https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
 **Related items.** [x-2088594942482374759](../x-2088594942482374759/card.md), [x-2089165107364278341](../x-2089165107364278341/card.md), [x-2088695568474546387](../x-2088695568474546387/card.md)
 **Media.**
-`media/media_0.jpg` (image, carries_technique=true) — Infographic comparing Unsloth Dynamic v3.0 Qwen3.8 GGUF top-1% accuracy curves against other providers across quant sizes with a hardware requirements table.
+`raw/items/x-2090103470015828184/media/media_0.jpg` (image, carries_technique=true) — Infographic comparing Unsloth Dynamic v3.0 Qwen3.8 GGUF top-1% accuracy curves against other providers across quant sizes with a hardware requirements table.
 **Thread.** captured_partial · reported 227 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['post.md'] · compare with: [x-2089165107364278341](../x-2089165107364278341/card.md), [x-2088695568474546387](../x-2088695568474546387/card.md)
+**Judge hints.** must_read: False · compare with: [x-2089165107364278341](../x-2089165107364278341/card.md), [x-2088695568474546387](../x-2088695568474546387/card.md)

@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=true) — Attached clip shows a stylized 3D keyboard animation built with CoAnimator and Claude Fable 5.1.
+`raw/items/x-2095111032171876470/media/media_0.jpg` (video, carries_technique=true) — Attached clip shows a stylized 3D keyboard animation built with CoAnimator and Claude Fable 5.1.
 **Thread.** captured_partial · reported 10 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

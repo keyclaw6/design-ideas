@@ -12,14 +12,14 @@
 
 > **@kitlangton** · 2087647162075054408 · depth 1 · link
 > @dexhorthy @kunchenguid's lavish does a great job at this as well
-https://t.co/E3pEQ9htVx
+> https://t.co/E3pEQ9htVx
 
 > **@agiprep** · 2087658506287485199 · depth 1 · link
 > @dexhorthy If you take this idea further, you may end up with something like scratchpad:
-
-html, markdown, mermaid, latex, call stacks, commenting and more
-https://t.co/k853qBgNaP
-
-or https://t.co/jaKLNnZhHv https://t.co/v5EPTzwAar
+> 
+> html, markdown, mermaid, latex, call stacks, commenting and more
+> https://t.co/k853qBgNaP
+> 
+> or https://t.co/jaKLNnZhHv https://t.co/v5EPTzwAar
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

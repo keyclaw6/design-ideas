@@ -18,6 +18,6 @@
 **Links.** repo (https://github.com/Ashutoshx7/VengeanceUI), product (https://www.vengeanceui.com/)
 **Related items.** [web-originkit-dev](../web-originkit-dev/card.md), [web-cult-ui](../web-cult-ui/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-feralui-dev](../web-feralui-dev/card.md)
 **Media.**
-`media/favicon.ico` (other, carries_technique=false) — Binary favicon; no visual technique signal.
-`media/logo.png` (image, carries_technique=false) — Captured logo asset is a 404 placeholder text file, not a rendered site logo.
-**Judge hints.** must_read: [] · compare with: —
+`raw/items/web-vengence-ui/media/favicon.ico` (other, carries_technique=false) — Binary favicon; no visual technique signal.
+`raw/items/web-vengence-ui/media/logo.png` (image, carries_technique=false) — Captured logo asset is a 404 placeholder text file, not a rendered site logo.
+**Judge hints.** must_read: False · compare with: —

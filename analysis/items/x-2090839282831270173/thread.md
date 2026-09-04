@@ -8,7 +8,7 @@
 **Quoted.**
 > **@RadianceFields** · 2090839284454473823
 > Article: https://t.co/bMoWTkvFup
-Try it: https://t.co/F10DhXNKSS
+> Try it: https://t.co/F10DhXNKSS
 
 **Relevant replies (1 of 1 captured).**
 > **@RadianceFields** · 2091416276048523640 · depth 1 · fact-check

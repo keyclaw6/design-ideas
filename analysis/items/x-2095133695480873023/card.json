@@ -69,7 +69,7 @@
   },
   "media": [
     {
-      "path": "media/card.jpg",
+      "path": "raw/items/x-2095133695480873023/media/card.jpg",
       "type": "image",
       "description": "Twitter link card with blue gradient background, OpenAI logo, and large white text reading ChatGPT Training.",
       "skip_reason": null,

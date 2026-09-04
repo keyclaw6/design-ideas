@@ -18,4 +18,4 @@
 **Links.** product (https://api.aidesigner.ai/api/v1/mcp), https://www.aidesigner.ai/docs/mcp, https://www.aidesigner.ai/website-cloner
 **Related items.** [github-nexu-io-open-design](../github-nexu-io-open-design/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

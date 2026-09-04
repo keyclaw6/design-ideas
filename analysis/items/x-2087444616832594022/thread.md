@@ -12,9 +12,9 @@
 
 > **@DoItInTandem** · 2087517405702709739 · depth 1 · answered-question
 > @TencentHunyuan the line that stuck with me: no update should control the only evidence used to accept itself.
-
-easy to nod at, hard to run. it means writing the pass/fail rule down before you look at the numbers, and not touching it when the numbers come back disappointing.
-
-the 549-entry
+> 
+> easy to nod at, hard to run. it means writing the pass/fail rule down before you look at the numbers, and not touching it when the numbers come back disappointing.
+> 
+> the 549-entry
 
 **Dropped as noise:** 1 replies (praise, emoji, bots, unrelated promo).

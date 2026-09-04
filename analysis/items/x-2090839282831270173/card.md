@@ -17,6 +17,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.jpg` (video, carries_technique=false) — Demo video attachment showing in-browser Gaussian splat training with Splat.js credited to PixelBilly and arrival_space.
+`raw/items/x-2090839282831270173/media/media_0.jpg` (video, carries_technique=false) — Demo video attachment showing in-browser Gaussian splat training with Splat.js credited to PixelBilly and arrival_space.
 **Thread.** captured_partial · reported 4 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

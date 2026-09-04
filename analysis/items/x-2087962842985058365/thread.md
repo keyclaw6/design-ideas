@@ -8,24 +8,24 @@
 **Quoted.**
 > **@PrismML** · 2081081245736284627
 > Pushed Bonsai-1.7B from @PrismML further.
-
-32 → 64 tok/s on the same OnePlus 13. 2×.
-
-Parallelized attention and hoisted the conversion out of the KV walk.
-
-Bit-for-bit identical output.
-
-Pure CPU. I’m sure we can go harder. https://t.co/75vgBO86Sr
+> 
+> 32 → 64 tok/s on the same OnePlus 13. 2×.
+> 
+> Parallelized attention and hoisted the conversion out of the KV walk.
+> 
+> Bit-for-bit identical output.
+> 
+> Pure CPU. I’m sure we can go harder. https://t.co/75vgBO86Sr
 
 > **@GlennSonna** · 2088044555094331519
 > We will open source the inference engine soon. Meanwhile you can checkout our on-device sdk 
-
-https://t.co/Y2JhJSqG2z
+> 
+> https://t.co/Y2JhJSqG2z
 
 **Relevant replies (1 of 1 captured).**
 > **@GlennSonna** · 2088004142992433456 · depth 1 · link
 > @GlennSonna @PrismML Dude where were you 6 months ago... could have saved us lots of time 😅
-
-https://t.co/fBWHnMyGiz
+> 
+> https://t.co/fBWHnMyGiz
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

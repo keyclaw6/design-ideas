@@ -15,6 +15,6 @@
 
 > **@infomiho** · 2088102948299485635 · depth 1 · link
 > @fleetingbits https://t.co/Lr58xVpQrt
-I’ve been playing with this too… https://t.co/86vU29ZHve
+> I’ve been playing with this too… https://t.co/86vU29ZHve
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

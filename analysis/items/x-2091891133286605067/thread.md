@@ -12,9 +12,9 @@
 **Relevant replies (1 of 1 captured).**
 > **@paulcjh** · 2091897482191995272 · depth 1 · link
 > @paulcjh This looks sweet!
-
-I made something along these lines a few weeks ago, as a kicad plugin. I found what was most useful was the ability to specify and place subsystems together in optimal configuration.
-
-My system let you autoroute a few nets at a time thereafter, but I found that https://t.co/nIk29PGTLk
+> 
+> I made something along these lines a few weeks ago, as a kicad plugin. I found what was most useful was the ability to specify and place subsystems together in optimal configuration.
+> 
+> My system let you autoroute a few nets at a time thereafter, but I found that https://t.co/nIk29PGTLk
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

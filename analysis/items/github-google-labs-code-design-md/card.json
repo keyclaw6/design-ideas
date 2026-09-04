@@ -92,9 +92,7 @@
       "web-getdesign-md",
       "web-designmd-me"
     ],
-    "must_read": [
-      "research.md"
-    ],
+    "must_read": false,
     "why_must_read": "Research ties DESIGN.md to downstream extractors and BESS marketing use cases."
   },
   "worker": "cards-06",

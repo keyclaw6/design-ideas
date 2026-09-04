@@ -80,7 +80,7 @@
   },
   "media": [
     {
-      "path": "media/readme-banner.webp",
+      "path": "raw/items/github-leonxlnx-taste-skill/media/readme-banner.webp",
       "type": "image",
       "description": "Wide README banner for Taste Skill branding with preview collage of upgraded UI layouts and typography samples.",
       "skip_reason": null,
@@ -106,7 +106,7 @@
       "github-emilkowalski-skills",
       "web-opale-ui-taste"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

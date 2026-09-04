@@ -8,10 +8,10 @@
 **Quoted.**
 > **@HamsterResearch** · 2093986486089584779
 > "which quant should I download?" is a question you may never have to answer again
-
-the team @HamsterResearch has figured out how to kill it with pMLX. download once at full precision (bf16) and the engine re-fits it to your machine on the fly, based on the job you give it
-
-tell https://t.co/nMOmYBKEMx
+> 
+> the team @HamsterResearch has figured out how to kill it with pMLX. download once at full precision (bf16) and the engine re-fits it to your machine on the fly, based on the job you give it
+> 
+> tell https://t.co/nMOmYBKEMx
 
 **Relevant replies (2 of 2 captured).**
 > **@EyalToledano** · 2093987103306641890 · depth 1 · link

@@ -18,5 +18,5 @@
 **Links.** repo (https://github.com/mortspace/feral-blob), product (https://feralui.dev/)
 **Related items.** [web-originkit-dev](../web-originkit-dev/card.md), [web-vengence-ui](../web-vengence-ui/card.md), [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.**
-`media/favicon.ico` (other, carries_technique=false) — Binary favicon only; no component demo captured.
-**Judge hints.** must_read: [] · compare with: —
+`raw/items/web-feralui-dev/media/favicon.ico` (other, carries_technique=false) — Binary favicon only; no component demo captured.
+**Judge hints.** must_read: False · compare with: —

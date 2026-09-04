@@ -19,7 +19,7 @@
 **Links.** repo (https://github.com/nv-tlabs/ArtiFixer), paper (https://arxiv.org/abs/2603.00492), product (https://huggingface.co/nvidia/ArtiFixer), https://research.nvidia.com/labs/sil/projects/artifixer/
 **Related items.** [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [x-2094648474377839018](../x-2094648474377839018/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)
 **Media.**
-`media/video.mp4` (video, carries_technique=true) — Sixteen second comparison video showing ArtiFixer3D+ producing a sharp bicycle-and-bench scene versus blurry 3DGUT, GenFusion, and GSFixer outputs.
-`media/thumb.jpg` (image, carries_technique=true) — Static four-panel grid comparing 3DGUT, GenFusion, GSFixer noise against a sharp ArtiFixer3D+ bicycle beside a park bench.
+`raw/items/x-2094929928865341832/media/thumb.jpg` (image, carries_technique=true) — Static four-panel grid comparing 3DGUT, GenFusion, GSFixer noise against a sharp ArtiFixer3D+ bicycle beside a park bench.
+`raw/items/x-2094929928865341832/media/video.mp4` (video, carries_technique=true) — Sixteen second comparison video showing ArtiFixer3D+ producing a sharp bicycle-and-bench scene versus blurry 3DGUT, GenFusion, and GSFixer outputs.
 **Thread.** captured_full · reported 2 · captured 2 · relevant 0 · author thread: none → [thread.md](thread.md)
-**Judge hints.** must_read: ['github-nv-tlabs-ArtiFixer'] · compare with: [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [x-2094648474377839018](../x-2094648474377839018/card.md)
+**Judge hints.** must_read: False · compare with: [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [x-2094648474377839018](../x-2094648474377839018/card.md)

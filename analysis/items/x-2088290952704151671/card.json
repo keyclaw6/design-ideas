@@ -91,7 +91,7 @@
       "x-2087263510090874911",
       "github-emilkowalski-skills"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": null
   },
   "schema_version": "1",

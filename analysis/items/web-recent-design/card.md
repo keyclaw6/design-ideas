@@ -18,4 +18,4 @@
 **Links.** product (https://recent.design/), https://cdn.recent.design/
 **Related items.** [web-sceneai-art](../web-sceneai-art/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

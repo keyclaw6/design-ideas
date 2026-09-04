@@ -8,12 +8,12 @@
 **Quoted.**
 > **@CadX_Studio** · 2087273618132844626
 > This speaker was designed entirely in CadXStudio using just a text prompt.
-
-No sketches. No traditional CAD workflow.
-Just Text → CAD.
-This is what AI-native hardware design looks like.
-
-#ai #cad #texttocad #aicad https://t.co/jN9qqATgJq
+> 
+> No sketches. No traditional CAD workflow.
+> Just Text → CAD.
+> This is what AI-native hardware design looks like.
+> 
+> ＃ai #cad #texttocad #aicad https://t.co/jN9qqATgJq
 
 **Relevant replies (1 of 1 captured).**
 > **@CadX_Studio** · 2087295350121873408 · depth 1 · recipe

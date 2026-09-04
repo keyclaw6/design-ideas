@@ -78,7 +78,7 @@
     "compare_with": [
       "note-blender-minimax-h3-video-generation"
     ],
-    "must_read": [],
+    "must_read": false,
     "why_must_read": "CLI vs MCP split for Blender agents; note body not ingested—translation gap."
   },
   "worker": "cards-13",

@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** [x-2094164487381414344](../x-2094164487381414344/card.md)
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — 52s launch clip mockup with timeline segments Intro, Demo, Features, Outro over a blank player frame.
+`raw/items/x-2093681908227936745/media/media_0.mp4` (video, carries_technique=true) — 52s launch clip mockup with timeline segments Intro, Demo, Features, Outro over a blank player frame.
 **Thread.** captured_partial · reported 18 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)
 **Judge hints.** must_read: False · compare with: —

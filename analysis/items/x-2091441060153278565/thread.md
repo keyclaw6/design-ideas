@@ -8,7 +8,7 @@
 **Quoted.**
 > **@lepadphone** · 2091443059116384264
 > Prompt Here:
-A slick, high-energy, 15-second tech brand motion graphics promo featuring the geometric logo letter "P". The visual style is rooted in modern Swiss-style graphic design, minimalist UI/UX design tools, and bold tech brutalism. Key elements include precise vector path
+> A slick, high-energy, 15-second tech brand motion graphics promo featuring the geometric logo letter "P". The visual style is rooted in modern Swiss-style graphic design, minimalist UI/UX design tools, and bold tech brutalism. Key elements include precise vector path
 
 > **@lepadphone** · 2091441062489595914
 > Second. Crazy. https://t.co/a2JmzFGyC9

@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/google-labs-code/design.md), product (https://sokosumi.com/tools/design-md), https://x.com/tranmautritam/status/2095078647652917329
 **Related items.** [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [web-design-md-hyperbrowser](../web-design-md-hyperbrowser/card.md), [web-getdesign-md](../web-getdesign-md/card.md), [web-styles-refero-design](../web-styles-refero-design/card.md), [web-neuform-ai](../web-neuform-ai/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

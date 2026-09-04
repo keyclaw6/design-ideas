@@ -21,9 +21,9 @@
 **Relevant replies (1 of 1 captured).**
 > **@jumarmacato** · 2093079160822321360 · depth 1 · counter-claim
 > @jumarmacato This sounds excellent. Honestly a bit above my head at this point, but definitely in the realm of my interests with electronics. 
-
-Additionally, I'm attempting to surface, track, and helping to facilitate the closing of gaps in the Linux engineering tools space (spaces).
-
-If you
+> 
+> Additionally, I'm attempting to surface, track, and helping to facilitate the closing of gaps in the Linux engineering tools space (spaces).
+> 
+> If you
 
 **Dropped as noise:** 0 replies (praise, emoji, bots, unrelated promo).

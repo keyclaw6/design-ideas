@@ -44,14 +44,14 @@
   },
   "media": [
     {
-      "path": "media/thumb.jpg",
+      "path": "raw/items/x-2094820035344621901/media/thumb.jpg",
       "type": "image",
       "description": "FRM Funds dashboard screenshot listing 160 tracked funds for ElevenLabs with match scores, locations, and pipeline columns.",
       "skip_reason": null,
       "carries_technique": false
     },
     {
-      "path": "media/video.mp4",
+      "path": "raw/items/x-2094820035344621901/media/video.mp4",
       "type": "video",
       "description": "13.6-second product walkthrough of the Venture Codex FRM fund-tracking interface at 1366x720.",
       "skip_reason": null,

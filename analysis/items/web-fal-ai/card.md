@@ -18,4 +18,4 @@
 **Links.** https://fal.ai/docs/documentation, https://fal.ai/docs/llms.txt, https://fal.ai/explore
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [web-meigen-ai](../web-meigen-ai/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)
 **Media.** —
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

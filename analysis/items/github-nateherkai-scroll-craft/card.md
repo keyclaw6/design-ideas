@@ -18,4 +18,4 @@
 **Links.** repo (https://github.com/nateherkai/scroll-craft)
 **Related items.** [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md), [web-recent-design](../web-recent-design/card.md)
 **Media.** —
-**Judge hints.** must_read: ['page.md'] · compare with: [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md)
+**Judge hints.** must_read: False · compare with: [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [web-getlayers-ai](../web-getlayers-ai/card.md)

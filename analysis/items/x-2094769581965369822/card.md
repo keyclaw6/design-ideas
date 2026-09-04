@@ -18,6 +18,6 @@
 **Links.** —
 **Related items.** —
 **Media.**
-`media/media_0.mp4` (video, carries_technique=true) — Attached demo video illustrating LightFuse relightable Gaussian scene reconstruction results.
+`raw/items/x-2094769581965369822/media/media_0.mp4` (video, carries_technique=true) — Attached demo video illustrating LightFuse relightable Gaussian scene reconstruction results.
 **Thread.** failed · reported 1 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)
-**Judge hints.** must_read: [] · compare with: —
+**Judge hints.** must_read: False · compare with: —

@@ -9,7 +9,7 @@
 **Relevant replies (2 of 3 captured).**
 > **@gregmushen** · 2093459577626837467 · depth 1 · link
 > @gregmushen same?:
-. https://t.co/Do0m80s67B
+> . https://t.co/Do0m80s67B
 
 > **@StevenMathern** · 2093735571109945397 · depth 1 · recipe
 > @gregmushen Interesting that your loop feeds failures back to the agent. Hermes' telemetry docs separate bounded status/retry categories from raw args/results. If that telemetry enters the recovery prompt, the data boundary matters: debugging context can become an injection surface.
