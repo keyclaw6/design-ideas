@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2089400082550620636#c1` (capability, stated) /improve-threejs targets slow, visually buggy vibe-coded Three.js games and apps for a polish pass. — evidence: "Turn vibe-slop Three.js prototypes into stunning apps It makes slow, visually buggy games run fast!" [post]
 - `x-2089400082550620636#c2` (recipe, demonstrated) improve-threejs lives at aidenybai/react-doctor skills/improve-threejs/SKILL.md. Scan is npx react-doctor@latest --verbose; severity follows useFrame/RAF; visual rubric has 10 rows that need a screenshot or an inferred-from-source label. — evidence: "SKILL.md 9128 B; skill dir is only that file. Parked on threejs-awesome-graphics-agent-skills NOTES." [note]
+- `x-2089400082550620636#c3` (result, demonstrated) react-doctor 0.9.13 on loopany-platform detected React 19 / tanstack-start and hasThree false. Score 100 with empty rules under --no-lint; the 10-row visual rubric was not run. — evidence: "loopany.json: reactDetected true; hasThree false; hasReactThreeFiber false; analyzedFileCount 0; score 100. See improve-threejs NOTES." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

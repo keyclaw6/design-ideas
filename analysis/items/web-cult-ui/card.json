@@ -62,6 +62,16 @@
       "evidence_ref": "analysis/tools/cult-ui.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-cult-ui#c4",
+      "text": "Originkit and Vengeance CSS bundles include real width breakpoints (Originkit 21 @media / 11 queries including max-width:1023px; Vengeance 35 / 11 including min-width 640–1600). Cult OSS homepage still 429 so its bundle was not fetched.",
+      "kind": "result",
+      "evidence": "originkit.dev/_next/static/css/bc22663ac2289487.css 201892 B; vengeanceui.com/_next/static/chunks/0usnzzgtjcl0a.css 507862 B. originkit.com 503. See cult-ui NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],

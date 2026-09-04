@@ -43,6 +43,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c2",
+      "text": "Official capture-examples.mjs of filmic-lens-flare wrote a 647,301-byte 1440×900 PNG with empty runtimeErrors (WebGPU/TSL compositor, debugMode final). GPU frame time was not measured.",
+      "kind": "result",
+      "evidence": "Captured threejs-procedural-vfx/filmic-lens-flare; manifest runtimeErrors []; PNG 647301 bytes; backend WebGPU / TSL fullscreen compositor. See analysis/_work/captures/threejs-filmic/",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],

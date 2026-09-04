@@ -33,7 +33,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 ## web-3d-scenes — claims that need a receipt
 
 - Sylva 130k blades / <1 MB — **README says up to 250k blades**. Live first-load ≈1.51 MB (HTML+assets); HTML+JS only ≈0.96 MB. See [sylva](../../tools/sylva.md).
-- Complete Shelf “single file” — `index.html` is 2,233,796 bytes uncompressed / 1,574,186 gzip, plus jsDelivr Three r165 ≈1.64 MB. See [complete-shelf](../../tools/complete-shelf.md). FPS still unmeasured.
+- Complete Shelf “single file” — `index.html` is 2,233,796 bytes uncompressed / 1,574,186 gzip, plus jsDelivr Three r165 ≈1.64 MB. See [complete-shelf](../../tools/complete-shelf.md). CPU rAF on SwiftShader: mean **102.49 ms** (~9.76 fps, n=20). GPU frame time still unknown.
 - scroll-world “no cuts, scrubbed to scroll” — skill README. Portable engine is **28,697 + 2,713 = 31,410** bytes ([scroll-world-skill](../../tools/scroll-world-skill.md)). Need one *generated* site under a 3 MB JS budget.
 - Graphics skills produce valid R3F vs screenshot-alike HTML — README (2026-09-04) is **vanilla Three + TSL/WebGPU examples**, no R3F. Still need to open one example and diff the scene graph. See [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md).
 - Gemini Antigravity Bugatti in ~4 minutes — demo clock, no repo.
@@ -49,7 +49,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 
 ## web-3d-scenes — next capture work
 
-1. Gallery is **40 runnable `scene.js` files**. `threejs-visual-validation` protocol requires CPU **and** GPU frame time (never infer GPU from CPU) — [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md). Remaining: a headed capture on this host.
-2. Transfer sizes are on the tool NOTES. Remaining: headed FPS on a laptop GPU (not run here).
-3. `/improve-threejs` SKILL.md is in `aidenybai/react-doctor` (`npx react-doctor@latest --verbose` + 10-row visual rubric). Thread still 55/1.
+1. Gallery is **40 runnable `scene.js` files**. Official `capture-examples.mjs` now has a still of `filmic-lens-flare` (647,301 B PNG, `runtimeErrors: []`) — [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md). Protocol still requires CPU **and** GPU frame time (never infer GPU from CPU). Remaining: GPU timer + the other debug modes.
+2. Transfer sizes + SwiftShader CPU rAF (mean 102.49 ms / ~9.76 fps, n=20) are on [complete-shelf](../../tools/complete-shelf.md). Remaining: headed FPS on a laptop GPU. Fonts blocked the full-page PNG.
+3. `/improve-threejs` SKILL.md is in `aidenybai/react-doctor`. `npx react-doctor@latest` **0.9.13** on loopany-platform: React 19 / tanstack-start / **hasThree false** / score 100 with empty rules under `--no-lint`. The 10-row visual rubric was not run (no R3F surface in that clone). Thread still 55/1.
 4. Keep splat viewers out of this stack; if the page *is* a splat, use the gaussian-splatting worksheet.

@@ -13,7 +13,8 @@
 - `github-nexu-io-html-video#c2` (capability, stated) Repo documents 14 supported coding agents and 21 motion templates. — evidence: "**14 coding agents** supported (Open Design, Claude Code, Cursor, Codex, etc.)
 - **21 templates** (data viz, kinetic type, cinematic frames)" [linked-page]
 - `github-nexu-io-html-video#c3` (result, demonstrated) A 2026-09-04 local smoke of frame-data-chart-nyt wrote a 226,463-byte 1920×1080 60 fps libx264 MP4 lasting 4.77 seconds; doctor listed 23 templates. — evidence: "smoke.js export: output-2026-09-04_20-40-56.mp4 226463 bytes; ffprobe 4.77s 1920x1080 60fps h264 libx264; doctor templates=23 discovered" [note]
-**Numbers.** smoke MP4 bytes: 226463 bytes (note); doctor template count: 23  (note)
+- `github-nexu-io-html-video#c4` (result, demonstrated) A second 2026-09-04 smoke of frame-data-chart-nyt is stored at analysis/_work/captures/html-video-smoke/output-2026-09-04_22-12-31.mp4: 241,922 bytes, 4.75 s, 1920×1080, 60 fps, h264 yuv420p. — evidence: "ffprobe on banked MP4: size 241922; duration 4.75; 1920x1080; r_frame_rate 60/1; codec h264; pix_fmt yuv420p" [note]
+**Numbers.** smoke MP4 bytes: 226463 bytes (note); doctor template count: 23  (note); banked smoke MP4 bytes: 241922 bytes (note)
 **Recipe.** —
 **Techniques.** [remotion-code-video](../../techniques/remotion-code-video.md), [remotion-code-video](../../techniques/remotion-code-video.md), [remotion-code-video](../../techniques/remotion-code-video.md)
 **Tools.** [html-video](../../tools/html-video.md), [hyperframes](../../tools/hyperframes.md), [ffmpeg](../../tools/ffmpeg.md)

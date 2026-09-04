@@ -50,6 +50,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-tinyshelf#c3",
+      "text": "www.tinyshelf.co homepage (2026-09-04 evening) still lists 19 categories that sum to 657 listings (Productivity 123 … CLI Tools 1). tinyshelf.com is not this product.",
+      "kind": "result",
+      "evidence": "HTTP 200 49571 B; 19 extracted category/count pairs sum 657. Same as earlier 2026-09-04 fetch. DR still absent from the page.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshelf.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,
@@ -65,6 +75,12 @@
       "value": "106",
       "unit": null,
       "source": "linked-page"
+    },
+    {
+      "label": "live listing sum 2026-09-04",
+      "value": "657",
+      "unit": null,
+      "source": "note"
     }
   ],
   "techniques": [

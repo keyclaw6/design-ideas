@@ -10,6 +10,7 @@
 
 **Claims.**
 - `github-scottstts-threejs-awesome-graphics-agent-skills#c1` (capability, stated) threejs-camera-direction covers authored lenses, chase/orbit rigs, and handoffs for flythrough-style camera language in WebGL scenes. — evidence: "threejs-camera-direction — Authored lenses, chase/orbit rigs, handoffs" [linked-page]
+- `github-scottstts-threejs-awesome-graphics-agent-skills#c2` (result, demonstrated) Official capture-examples.mjs of filmic-lens-flare wrote a 647,301-byte 1440×900 PNG with empty runtimeErrors (WebGPU/TSL compositor, debugMode final). GPU frame time was not measured. — evidence: "Captured threejs-procedural-vfx/filmic-lens-flare; manifest runtimeErrors []; PNG 647301 bytes; backend WebGPU / TSL fullscreen compositor. See analysis/_work/captures/threejs-filmic/" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md), [blender-blockout-camera](../../techniques/blender-blockout-camera.md)

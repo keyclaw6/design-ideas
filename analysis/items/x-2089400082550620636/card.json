@@ -50,6 +50,16 @@
       "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
       "confidence": "demonstrated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2089400082550620636#c3",
+      "text": "react-doctor 0.9.13 on loopany-platform detected React 19 / tanstack-start and hasThree false. Score 100 with empty rules under --no-lint; the 10-row visual rubric was not run.",
+      "kind": "result",
+      "evidence": "loopany.json: reactDetected true; hasThree false; hasReactThreeFiber false; analyzedFileCount 0; score 100. See improve-threejs NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/improve-threejs.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],

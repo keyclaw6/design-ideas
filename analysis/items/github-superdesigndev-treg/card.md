@@ -11,6 +11,7 @@
 **Claims.**
 - `github-superdesigndev-treg#c1` (capability, stated) treg catalogs 2,896 endpoints across 60 providers, priced per call from about one cent. — evidence: "2,896 catalogued endpoints across 60 providers — SEO and backlinks, social and trends, people and company enrichment, ads, scraping — priced per call, from a cent" [linked-page]
 - `github-superdesigndev-treg#c2` (recipe, stated) Team-registered API keys always override treg's catalog keys and are never metered. — evidence: "Your own key always wins over treg's, and those calls are never metered." [linked-page]
+- `github-superdesigndev-treg#c3` (result, demonstrated) GET treg.to/providers.json is still version 12 with 104 named BYO providers. GET treg.dev/providers.json is 404; treg.dev is not the dump host. — evidence: "treg.to/providers.json HTTP 200 size 23376 version 12 providers.length 104 (Google Ads … OpenWeather). treg.dev/providers.json HTTP 404 size 6888. treg.dev/ 200 599592 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

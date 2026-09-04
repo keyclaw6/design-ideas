@@ -63,6 +63,16 @@
       "evidence_ref": "analysis/tools/html-video.md",
       "confidence": "demonstrated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "github-nexu-io-html-video#c4",
+      "text": "A second 2026-09-04 smoke of frame-data-chart-nyt is stored at analysis/_work/captures/html-video-smoke/output-2026-09-04_22-12-31.mp4: 241,922 bytes, 4.75 s, 1920×1080, 60 fps, h264 yuv420p.",
+      "kind": "result",
+      "evidence": "ffprobe on banked MP4: size 241922; duration 4.75; 1920x1080; r_frame_rate 60/1; codec h264; pix_fmt yuv420p",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/html-video.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": [],
@@ -77,6 +87,12 @@
       "label": "doctor template count",
       "value": "23",
       "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "banked smoke MP4 bytes",
+      "value": "241922",
+      "unit": "bytes",
       "source": "note"
     }
   ],

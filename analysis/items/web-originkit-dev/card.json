@@ -43,6 +43,16 @@
       "evidence_ref": "analysis/tools/cult-ui.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-originkit-dev#c3",
+      "text": "Originkit homepage CSS bundle bc22663ac2289487.css (201,892 B) has 21 @media blocks and 11 unique queries including max-width:1023px and min-width 640/768/1024/1280/1536/1920. originkit.com returned 503.",
+      "kind": "result",
+      "evidence": "Fetched 2026-09-04 from originkit.dev. Sample max-width:1023px sets .pad-header-x safe-area padding. Parked on cult-ui NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],

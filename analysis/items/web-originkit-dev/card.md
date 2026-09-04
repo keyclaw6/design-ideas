@@ -11,6 +11,7 @@
 **Claims.**
 - `web-originkit-dev#c1` (capability, stated) Originkit offers 363+ free animated components copyable or fetchable with a free API key. — evidence: "The largest free animated component library for building modern websites." [linked-page]
 - `web-originkit-dev#c2` (pricing, demonstrated) Originkit /pricing RSC (2026-09-04) lists Free $0/year (3/2/1 daily C/S/T copies), Pro $79/year (compare-at $108, $8/mo, 10/5/3 daily), Studio $179/year (compare-at $228, $19/mo, 25/10/5 daily). — evidence: "Plan JSON version 2: free/pro/studio limits + prices[].year priceUsd 79/179 with compareAtUsd 108/228 Founding offer. Visible page prints $0/year $79/year $179/year." [note]
+- `web-originkit-dev#c3` (result, demonstrated) Originkit homepage CSS bundle bc22663ac2289487.css (201,892 B) has 21 @media blocks and 11 unique queries including max-width:1023px and min-width 640/768/1024/1280/1536/1920. originkit.com returned 503. — evidence: "Fetched 2026-09-04 from originkit.dev. Sample max-width:1023px sets .pad-header-x safe-area padding. Parked on cult-ui NOTES." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

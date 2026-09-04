@@ -49,6 +49,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "github-mengto-complete-shelf#c3",
+      "text": "2026-09-04 headed Chromium on SwiftShader: live complete-shelf canvas 1440×900, title Working Volumes — Seven Tools for Making, CPU rAF mean 102.49 ms (~9.76 fps, n=20). GPU frame time unknown.",
+      "kind": "result",
+      "evidence": "raf-report.json: renderer ANGLE SwiftShader Subzero; rAF mean_ms 102.49 p50 116.6 p95 216.7; screenshot_error font timeout. Do not infer GPU from CPU rAF.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/complete-shelf.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],

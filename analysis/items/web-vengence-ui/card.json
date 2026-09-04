@@ -72,6 +72,16 @@
       "evidence_ref": "analysis/tools/cult-ui.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-vengence-ui#c4",
+      "text": "Vengeance homepage CSS chunk 0usnzzgtjcl0a.css (507,862 B) has 35 @media blocks and 11 unique queries including min-width 640/768/1200/1440/1600, hover:hover, and forced-colors.",
+      "kind": "result",
+      "evidence": "Fetched 2026-09-04 from www.vengeanceui.com. 10 hover:hover blocks; 6 forced-colors; Tailwind max-sm inverses. Parked on cult-ui NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "links": {

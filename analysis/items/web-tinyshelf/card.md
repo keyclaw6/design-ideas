@@ -11,7 +11,8 @@
 **Claims.**
 - `web-tinyshelf#c1` (capability, stated) Every TinyShelf listing is reviewed before it goes live. — evidence: "Every listing is reviewed before it goes live." [linked-page]
 - `web-tinyshelf#c2` (recipe, stated) Submit flow at /submit requires Google OAuth sign-in before a listing can be submitted. — evidence: "/submit redirects to Google sign-in — listings require authenticated submission and editorial review." [linked-page]
-**Numbers.** category count: 19  (linked-page); Productivity listings: 106  (linked-page)
+- `web-tinyshelf#c3` (result, demonstrated) www.tinyshelf.co homepage (2026-09-04 evening) still lists 19 categories that sum to 657 listings (Productivity 123 … CLI Tools 1). tinyshelf.com is not this product. — evidence: "HTTP 200 49571 B; 19 extracted category/count pairs sum 657. Same as earlier 2026-09-04 fetch. DR still absent from the page." [note]
+**Numbers.** category count: 19  (linked-page); Productivity listings: 106  (linked-page); live listing sum 2026-09-04: 657  (note)
 **Recipe.** —
 **Techniques.** [directory-submission](../../techniques/directory-submission.md)
 **Tools.** [tinyshelf](../../tools/tinyshelf.md)

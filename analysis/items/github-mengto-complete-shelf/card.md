@@ -11,6 +11,7 @@
 **Claims.**
 - `github-mengto-complete-shelf#c1` (capability, stated) The entire bookshelf experience ships as one index.html with no bundler or backend. — evidence: "Entire experience in `index.html` — no bundler, no backend" [linked-page]
 - `github-mengto-complete-shelf#c2` (capability, stated) Seven themed volumes use a shelf-to-opening-to-inspection state machine with curved page dragging. — evidence: "State machine: shelf → opening → inspection → open book → closing → shelf" [linked-page]
+- `github-mengto-complete-shelf#c3` (result, demonstrated) 2026-09-04 headed Chromium on SwiftShader: live complete-shelf canvas 1440×900, title Working Volumes — Seven Tools for Making, CPU rAF mean 102.49 ms (~9.76 fps, n=20). GPU frame time unknown. — evidence: "raf-report.json: renderer ANGLE SwiftShader Subzero; rAF mean_ms 102.49 p50 116.6 p95 216.7; screenshot_error font timeout. Do not infer GPU from CPU rAF." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
