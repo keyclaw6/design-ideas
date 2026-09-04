@@ -44,5 +44,5 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 ## outbound-gtm-agents — next capture work
 
 1. Run People Search Bench against treg and one BYO-key provider; store the score table.
-2. Open the Gojiberry 97/1 thread for the actual sequence steps (must-read, likely still partial).
+2. Gojiberry **13** agent files + MCP tool map are on [gojiberry-mcp](../../tools/gojiberry-mcp.md). 97/1 is still tweet + Slack still ([gojiberryai](../../tools/gojiberryai.md)). Remaining: a filled ICP for that run.
 3. Keep MapsData and Instantly math in a “capacity” note, not in the first agent install.

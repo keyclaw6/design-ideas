@@ -16,4 +16,6 @@ Classic keyword, topical-map, GSC/GA4, and recency-filter work that still feeds 
 Owner subject: `serp-ai-visibility`. Referenced by 7 item(s): github-iannuttall-seo, web-brave-submit-url, x-2093624705030959554, x-2094742312433684496, x-2094770895021572502, x-2094771557864292784, x-2095130625976176754.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — Shimanski one-page URLs from the must-read card.** All five linked hosts returned HTTP 200 this pass. Titles now: `aiedit.com` “Image & Video Creation Platform | 100+ AI Models | 20+ AI Tools” (not a one-job page); `postformatter.com` LinkedIn formatter Chrome extension; `blurr.ing` blur Chrome extension; `unicodegames.com` free browser games; `shimanski.dev` personal site. GSC 1.01M / 16.3K still only the tweet screenshot. Do not treat every URL as still matching “one page, one tool, one job.”
 <!-- NOTES:END -->

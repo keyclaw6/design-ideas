@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 
+**2026-09-04 capture — form URL still 429.** `https://search.brave.com/help/submit-url` HTTP **429** (2,404 bytes, “Request refused”). Search SERP for “submit url” is 200. Did not POST a URL.
+
 <!-- NOTES:END -->

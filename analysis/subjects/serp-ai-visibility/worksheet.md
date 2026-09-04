@@ -56,7 +56,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 ## serp-ai-visibility — next capture work
 
 1. CrowdReply MCP catalogue is now named on [crowdreply-mcp](../../tools/crowdreply-mcp.md). Still need a keyed session (endpoint 401) and the 4%→40% article body (403).
-2. Re-open [x-2094770895021572502](../../items/x-2094770895021572502/thread.md) (must-read, 26 replies / 3 captured) for the tool URLs.
+2. Shimanski tool URLs from the must-read card are live (200) but several are now platforms/extensions, not one-job pages ([serp-keyword-research](../../techniques/serp-keyword-research.md)). Thread still 26/3.
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
 5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing.
