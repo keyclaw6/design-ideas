@@ -16,4 +16,6 @@ Score items that use this method on the owner brief's comparison axes. Do not tr
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
 **2026-09-04 capture — Chadha primer host still unreachable.** `https://autoresearch.aman.ai` connect-timeout (25s) and jina 422 (page.goto 15s). Wayback CDX also timed out. No GitHub repo from `autoresearch + chadha` search. The tweet screenshot of the TOC remains the only outline. Do not invent section names beyond that still.
+
+**2026-09-04 capture — neighbor hosts.** `https://autoresearch.aman.ai/` still connect-timeout (12s). `https://aman.ai/autoresearch` HTTP **404**. `https://www.aman.ai/autoresearch` **301**. GitHub HTML search `autoresearch chadha` returned a results page with no obvious primer repo. Screenshot TOC on the card remains the only outline.
 <!-- NOTES:END -->

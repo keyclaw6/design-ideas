@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2092918452423983363#c1` (opinion, stated) Every surveyed company brain performs getting signals, remembering, dreaming and pruning, and speaking and searching. — evidence: "Every single one does the same four things: getting signals, remembering, dreaming & pruning, speaking & searching." [post]
 - `x-2092918452423983363#c2` (capability, stated) Gorgias Cortex maintains 12,000 markdown nodes in GitHub with nightly PRs from failed questions. — evidence: "12,000 markdown nodes in GitHub, and every night the questions it got wrong become PRs that fix it." [post]
+- `x-2092918452423983363#c3` (result, demonstrated) Slite /ebooks/company-brain public page (50,779 B) titles the work “The Ontology of the Company Brain” and lists four TOC beats; access is a firstName/lastName/email/companyWebsite form. The tweet’s nine architecture names are still not in the HTML. — evidence: "HTTP 200 slite.com/ebooks/company-brain; form inputs firstName lastName email companyWebsite privacyPolicy. See filesystem-context-memory NOTES." [note]
 **Numbers.** Gorgias Cortex markdown nodes: 12000  (post)
 **Recipe.** —
 **Techniques.** [context-etl](../../techniques/context-etl.md)

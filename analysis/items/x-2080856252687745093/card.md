@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2080856252687745093#c1` (capability, stated) Autoresearch turns manual experimentation into a continuous propose-run-evaluate-learn loop. — evidence: "it turns manual experimentation into a continuous loop where agents propose changes, run experiments, evaluate results, and learn from each attempt." [post]
 - `x-2080856252687745093#c2` (capability, stated) Meta-Harness extends search to prompts, retrieval, memory, tools, state, parsers, and control flow. — evidence: "it extends this idea beyond model training to the entire system around an LLM, including its prompts, retrieval, memory, tools, state, parsers, and control flow." [post]
+- `x-2080856252687745093#c3` (result, demonstrated) autoresearch.aman.ai still connect-times-out; aman.ai/autoresearch is HTTP 404. The tweet screenshot remains the only primer outline. — evidence: "curl 12s timeout on autoresearch.aman.ai; aman.ai/autoresearch 404. See autoresearch-loop NOTES." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2092918452423983363#c3",
+      "text": "Slite /ebooks/company-brain public page (50,779 B) titles the work “The Ontology of the Company Brain” and lists four TOC beats; access is a firstName/lastName/email/companyWebsite form. The tweet’s nine architecture names are still not in the HTML.",
+      "kind": "result",
+      "evidence": "HTTP 200 slite.com/ebooks/company-brain; form inputs firstName lastName email companyWebsite privacyPolicy. See filesystem-context-memory NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
