@@ -1,0 +1,24 @@
+{
+  "fetched_at": "2026-09-04T22:58:00Z",
+  "binary": "/tmp/repos/impeccable/target/debug/impeccable",
+  "patch": "crates/browser/src/lib.rs NAVIGATION_TIMEOUT 30000 -> 90000 (local clone only)",
+  "single_url_wait_until": "networkidle0",
+  "env": {"PUPPETEER_DANGEROUS_NO_SANDBOX": "true"},
+  "targets": {
+    "https://www.nateherk.com/": {
+      "exit": 1,
+      "stderr": "Error: Navigation timeout of 90000 ms exceeded",
+      "stdout_json": []
+    },
+    "https://mengto.github.io/complete-shelf/": {
+      "exit": 1,
+      "stderr": "Error: Navigation timeout of 90000 ms exceeded",
+      "stdout_json": []
+    },
+    "https://example.com": {
+      "exit": 2,
+      "findings": 3,
+      "note": "Same patched debug binary still works. Do not collapse exit 2 with earlier npx exit 0 on example.com."
+    }
+  }
+}

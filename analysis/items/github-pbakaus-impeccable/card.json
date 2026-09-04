@@ -83,6 +83,16 @@
       "evidence_ref": "analysis/tools/impeccable.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c6",
+      "text": "A local impeccable debug build with NAVIGATION_TIMEOUT 90s still timed out on nateherk.com and complete-shelf (networkidle0, [], exit 1). The same binary returned 3 findings / exit 2 on example.com. The miss is networkidle0, not a clean page.",
+      "kind": "result",
+      "evidence": "Error: Navigation timeout of 90000 ms exceeded; JSON []. example.com 3 findings exit 2. See impeccable NOTES and analysis/_work/captures/impeccable-90s-timeout.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
