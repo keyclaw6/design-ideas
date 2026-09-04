@@ -4,6 +4,10 @@ Personal technique library — captured X bookmarks, URLs, and research notes fo
 
 This is **not** a product or public service. It is a structured archive of interesting techniques, pipelines, and references, organized for retrieval rather than ranking or judgment.
 
+**Agent entry point:** [catalog/README.md](./catalog/README.md) → topic briefs → [patterns](./catalog/patterns.md) → item captures. See [AGENTS.md](./AGENTS.md).
+
+**Bank stats (2026-09-04):** 387 items + 1 long-form note · 12 topic lanes · 47 filtered (noise) · graphify corpus ~4.2k nodes.
+
 ## Current focus
 
 - **Now:** BESS 3D flythrough, marketing video pipelines, SEO agents
@@ -13,7 +17,7 @@ This is **not** a product or public service. It is a structured archive of inter
 
 | Path | Purpose |
 |------|---------|
-| `catalog/` | Human/agent entry points — index, patterns, topic slices |
+| `catalog/` | **Start here** — [README](catalog/README.md), index, topic briefs, patterns, filtered list |
 | `raw/notes/` | Long-form research and synthesis (not yet split into items) |
 | `raw/items/<id>/` | Normalized captures (one folder per bookmark/URL) |
 | `raw/_progress/` | Multi-agent orchestration state |

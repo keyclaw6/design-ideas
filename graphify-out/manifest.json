@@ -2352,15 +2352,15 @@
     "semantic_hash": ""
   },
   "AGENTS.md": {
-    "mtime": 1788523797.8992314,
-    "seen": 1788523979.576032,
-    "ast_hash": "8856fce7d243ae5b29db7c819e2e45af",
+    "mtime": 1788533975.4344008,
+    "seen": 1788533980.5766385,
+    "ast_hash": "5963152a2a272064114c999d638d7222",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1788513500.715622,
-    "seen": 1788523979.576033,
-    "ast_hash": "f4ac0e229b7704532ef82978af57bc89",
+    "mtime": 1788533973.120458,
+    "seen": 1788533980.5766394,
+    "ast_hash": "d7f6844a62bacf2550becd4de5e35d16",
     "semantic_hash": ""
   },
   "SCHEMA.md": {
@@ -2370,8 +2370,8 @@
     "semantic_hash": ""
   },
   "catalog/index.md": {
-    "mtime": 1788533925.6639726,
-    "seen": 1788533928.2696285,
+    "mtime": 1788533977.7536483,
+    "seen": 1788533980.5766454,
     "ast_hash": "bbf47e3d1f5b58aeabd001a6553baa38",
     "semantic_hash": ""
   },
@@ -2382,74 +2382,74 @@
     "semantic_hash": ""
   },
   "catalog/topics/agent-skills.md": {
-    "mtime": 1788533925.6678002,
-    "seen": 1788533928.26963,
+    "mtime": 1788533977.7581596,
+    "seen": 1788533980.5766475,
     "ast_hash": "42a5c9ecff726716870e071f2c57ff48",
     "semantic_hash": ""
   },
   "catalog/topics/bess-3d-flythrough.md": {
-    "mtime": 1788533925.665755,
-    "seen": 1788533928.2696307,
+    "mtime": 1788533977.7556722,
+    "seen": 1788533980.5766482,
     "ast_hash": "8b45e46f1c58bcfa98b47925d0948847",
     "semantic_hash": ""
   },
   "catalog/topics/camera-control.md": {
-    "mtime": 1788533925.6663704,
-    "seen": 1788533928.2696314,
+    "mtime": 1788533977.7561252,
+    "seen": 1788533980.5766497,
     "ast_hash": "45cead0cce2af0941c29d680fe40c9d4",
     "semantic_hash": ""
   },
   "catalog/topics/design.md": {
-    "mtime": 1788533925.6670883,
-    "seen": 1788533928.2696326,
+    "mtime": 1788533977.7570226,
+    "seen": 1788533980.5766509,
     "ast_hash": "fe96f4eec676527b16145ab293c652bd",
     "semantic_hash": ""
   },
   "catalog/topics/gaussian-splatting.md": {
-    "mtime": 1788533925.666159,
-    "seen": 1788533928.2696335,
+    "mtime": 1788533977.7558978,
+    "seen": 1788533980.5766518,
     "ast_hash": "2f3c4585809f1e217a7f9ed43ace59e4",
     "semantic_hash": ""
   },
   "catalog/topics/infographics.md": {
-    "mtime": 1788533925.668373,
-    "seen": 1788533928.2696342,
+    "mtime": 1788533977.7589073,
+    "seen": 1788533980.5766528,
     "ast_hash": "1c742ae8072b1b285fa5514e42178787",
     "semantic_hash": ""
   },
   "catalog/topics/keyboard-pcb.md": {
-    "mtime": 1788533925.6668289,
-    "seen": 1788533928.269635,
+    "mtime": 1788533977.7567513,
+    "seen": 1788533980.5766535,
     "ast_hash": "b9447e2f4bec52e8aeb2155d8cfeb872",
     "semantic_hash": ""
   },
   "catalog/topics/mcp.md": {
-    "mtime": 1788533925.668265,
-    "seen": 1788533928.2696362,
+    "mtime": 1788533977.7587798,
+    "seen": 1788533980.5766547,
     "ast_hash": "37a6d75e28ad0107044760fc945e4161",
     "semantic_hash": ""
   },
   "catalog/topics/seo-agents.md": {
-    "mtime": 1788533925.6667106,
-    "seen": 1788533928.2696373,
+    "mtime": 1788533977.756572,
+    "seen": 1788533980.5766556,
     "ast_hash": "96d652dedc84872554f87ae9fc3cae7d",
     "semantic_hash": ""
   },
   "catalog/topics/three-js.md": {
-    "mtime": 1788533925.6665514,
-    "seen": 1788533928.269638,
+    "mtime": 1788533977.7563536,
+    "seen": 1788533980.5766566,
     "ast_hash": "054fdc44fe831e7a4828c79cbcd0b46a",
     "semantic_hash": ""
   },
   "catalog/topics/ui-motion.md": {
-    "mtime": 1788533925.6681142,
-    "seen": 1788533928.2696397,
+    "mtime": 1788533977.758578,
+    "seen": 1788533980.576658,
     "ast_hash": "edd6045f1513df1d922b4c606d5fa472",
     "semantic_hash": ""
   },
   "catalog/topics/video-generation.md": {
-    "mtime": 1788533925.6673887,
-    "seen": 1788533928.2696404,
+    "mtime": 1788533977.7575185,
+    "seen": 1788533980.5766587,
     "ast_hash": "d7dac737416072cb033b4e66214cb36e",
     "semantic_hash": ""
   },
@@ -10350,9 +10350,15 @@
     "semantic_hash": ""
   },
   "catalog/filtered.md": {
-    "mtime": 1788533925.665531,
-    "seen": 1788533928.2696273,
+    "mtime": 1788533977.755289,
+    "seen": 1788533980.5766442,
     "ast_hash": "ec13ef3d539cc51129de8844eddfa0aa",
+    "semantic_hash": ""
+  },
+  "scripts/validate_catalog.py": {
+    "mtime": 1788533971.002292,
+    "seen": 1788533980.5766304,
+    "ast_hash": "1188780e69d68ba83f2e32c35e081e4a",
     "semantic_hash": ""
   }
 }

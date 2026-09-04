@@ -6,19 +6,20 @@ How to search this library when answering questions or continuing research.
 
 1. **Start at `catalog/README.md`** — taxonomy map, topic lanes, and how to navigate.
 2. **Scan `catalog/index.md`** — id/title/topics/filtered table for every entry.
-3. **Open `catalog/topics/<slug>.md`** — lane brief + curated picks + full item list.
-4. **Read `catalog/patterns.md`** — cross-cutting pipelines with item ids.
-5. **Inside an item folder** (`raw/items/<id>/`), read in this order:
+3. **Check `catalog/filtered.md`** — noise items excluded from topic lanes (still on disk).
+4. **Open `catalog/topics/<slug>.md`** — lane brief + curated picks + full item list.
+5. **Read `catalog/patterns.md`** — cross-cutting pipelines with item ids.
+6. **Inside an item folder** (`raw/items/<id>/`), read in this order:
    - `source.json` — metadata, URL, topics
    - `page.md` or `post.md` — primary content (`post.md` for `x` and `reddit`)
    - `comments.md` — optional thread/replies
    - `research.md` — optional agent notes (only when post alone is insufficient)
    - `media/` — screenshots, attachments
-6. **Long-form notes:** `raw/notes/<name>.md` — research not yet split into items
+6. **Long-form notes:** `raw/notes/<name>.md` — research not yet split into items (`*.meta.json` for topics)
 
 ## Graphify
 
-Knowledge graph at `graphify-out/graph.json` (3100+ nodes). **Run graphify before Read/Grep/Glob** for architecture or corpus questions:
+Knowledge graph at `graphify-out/graph.json` (4200+ nodes). **Run graphify before Read/Grep/Glob** for architecture or corpus questions:
 
 ```bash
 graphify query "<question>"
