@@ -13,7 +13,7 @@
       "file_type": "code",
       "norm_label": "load_entries()",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L38"
+      "source_location": "L61"
     },
     {
       "id": "scripts_rebuild_catalog_load_item",
@@ -28,6 +28,18 @@
       "source_location": "L22"
     },
     {
+      "id": "scripts_rebuild_catalog_load_note",
+      "label": "load_note()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 194,
+      "community_name": "rebuild_catalog.py",
+      "file_type": "code",
+      "norm_label": "load_note()",
+      "source_file": "scripts/rebuild_catalog.py",
+      "source_location": "L38"
+    },
+    {
       "id": "scripts_rebuild_catalog_patch_topic_file",
       "label": "patch_topic_file()",
       "_callable": true,
@@ -37,7 +49,7 @@
       "file_type": "code",
       "norm_label": "patch_topic_file()",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L85"
+      "source_location": "L99"
     },
     {
       "id": "scripts_rebuild_catalog_render_item_list",
@@ -49,7 +61,19 @@
       "file_type": "code",
       "norm_label": "render_item_list()",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L76"
+      "source_location": "L90"
+    },
+    {
+      "id": "scripts_rebuild_catalog_write_filtered",
+      "label": "write_filtered()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 194,
+      "community_name": "rebuild_catalog.py",
+      "file_type": "code",
+      "norm_label": "write_filtered()",
+      "source_file": "scripts/rebuild_catalog.py",
+      "source_location": "L127"
     },
     {
       "id": "scripts_rebuild_catalog_write_index",
@@ -61,7 +85,7 @@
       "file_type": "code",
       "norm_label": "write_index()",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L56"
+      "source_location": "L70"
     },
     {
       "id": "scripts_rebuild_catalog_write_topic_lists",
@@ -73,7 +97,7 @@
       "file_type": "code",
       "norm_label": "write_topic_lists()",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L113"
+      "source_location": "L152"
     },
     {
       "id": "scripts_x_extract_cookies_main",
@@ -509,7 +533,7 @@
       "node_kind": "heading",
       "norm_label": "catalog",
       "source_file": "SCHEMA.md",
-      "source_location": "L56"
+      "source_location": "L66"
     },
     {
       "id": "schema_item_folders",
@@ -6060,6 +6084,30 @@
       "norm_label": "taxonomy",
       "source_file": "catalog/README.md",
       "source_location": "L7"
+    },
+    {
+      "id": "catalog_filtered",
+      "label": "filtered.md",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "filtered.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "filtered.md",
+      "source_file": "catalog/filtered.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_filtered_filtered_items",
+      "label": "Filtered items",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "filtered.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "filtered items",
+      "source_file": "catalog/filtered.md",
+      "source_location": "L1"
     },
     {
       "id": "raw_items_x_2083853702696231097_research",
@@ -50955,7 +51003,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L41",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -50967,7 +51015,19 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L41",
+      "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_rebuild_catalog_load_entries",
+      "target": "scripts_rebuild_catalog_load_note",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "scripts/rebuild_catalog.py",
+      "source_location": "L66",
       "weight": 1.0
     },
     {
@@ -50979,7 +51039,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L129",
+      "source_location": "L168",
       "weight": 1.0
     },
     {
@@ -50991,7 +51051,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L129",
+      "source_location": "L168",
       "weight": 1.0
     },
     {
@@ -51487,6 +51547,18 @@
       "weight": 1.0
     },
     {
+      "source": "scripts_rebuild_catalog_load_note",
+      "target": "scripts_rebuild_catalog_py_path",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "scripts/rebuild_catalog.py",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
       "source": "agents",
       "target": "agents_agent_query_guide",
       "relation": "contains",
@@ -51539,6 +51611,17 @@
       "confidence_score": 1.0,
       "source_file": "AGENTS.md",
       "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "catalog_filtered",
+      "target": "catalog_filtered_filtered_items",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/filtered.md",
+      "source_location": "L1",
       "weight": 1.0
     },
     {
@@ -85088,7 +85171,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "SCHEMA.md",
-      "source_location": "L56",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_rebuild_catalog",
+      "target": "scripts_rebuild_catalog_write_filtered",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/rebuild_catalog.py",
+      "source_location": "L127",
       "weight": 1.0
     },
     {
@@ -85099,7 +85193,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L113",
+      "source_location": "L152",
       "weight": 1.0
     },
     {
@@ -85115,7 +85209,7 @@
     },
     {
       "source": "scripts_rebuild_catalog",
-      "target": "scripts_rebuild_catalog_load_entries",
+      "target": "scripts_rebuild_catalog_load_note",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -85126,13 +85220,24 @@
     },
     {
       "source": "scripts_rebuild_catalog",
+      "target": "scripts_rebuild_catalog_load_entries",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "scripts/rebuild_catalog.py",
+      "source_location": "L61",
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_rebuild_catalog",
       "target": "scripts_rebuild_catalog_write_index",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L56",
+      "source_location": "L70",
       "weight": 1.0
     },
     {
@@ -85143,7 +85248,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L76",
+      "source_location": "L90",
       "weight": 1.0
     },
     {
@@ -85154,7 +85259,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "scripts/rebuild_catalog.py",
-      "source_location": "L85",
+      "source_location": "L99",
       "weight": 1.0
     },
     {
@@ -85642,6 +85747,17 @@
       "weight": 1.0
     },
     {
+      "source": "catalog_filtered",
+      "target": "catalog_readme",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/filtered.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
       "source": "catalog_index",
       "target": "catalog_readme",
       "relation": "references",
@@ -85862,14 +85978,14 @@
       "weight": 1.0
     },
     {
-      "source": "catalog_topics_bess_3d_flythrough",
+      "source": "catalog_topics_agent_skills",
       "target": "raw_notes_blender_minimax_h3_video_generation",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L29",
+      "source_file": "catalog/topics/agent-skills.md",
+      "source_location": "L74",
       "weight": 1.0
     },
     {
@@ -85925,6 +86041,17 @@
       "confidence_score": 1.0,
       "source_file": "catalog/topics/bess-3d-flythrough.md",
       "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "catalog_topics_bess_3d_flythrough",
+      "target": "raw_notes_blender_minimax_h3_video_generation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/bess-3d-flythrough.md",
+      "source_location": "L5",
       "weight": 1.0
     },
     {
@@ -86104,6 +86231,17 @@
       "weight": 1.0
     },
     {
+      "source": "catalog_topics_mcp",
+      "target": "raw_notes_blender_minimax_h3_video_generation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/mcp.md",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
       "source": "catalog_topics_seo_agents",
       "target": "catalog_topics_design",
       "relation": "references",
@@ -86270,5 +86408,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "44fde2976a2cc99e614fd5d01f3148fe2fc7c8e2"
+  "built_at_commit": "e80617c72eaa74b5d12521284dfae3859ff859b9"
 }

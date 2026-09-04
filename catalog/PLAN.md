@@ -4,7 +4,7 @@
 
 **Priority:** file structure and navigation over per-item prose. Do **not** pad `research.md`; leave thin or omit when the post speaks for itself.
 
-**Status:** executing (2026-09-04, structure-first correction)
+**Status:** complete (2026-09-04)
 
 ---
 
@@ -91,11 +91,13 @@ Parent: fix `rebuild_catalog.py`, rebuild index item lists, `graphify update .`,
 
 ## 6. Done criteria
 
-- [ ] `topics` set on every non-filtered item; filters marked in `source.json`
-- [ ] `catalog/README.md` — taxonomy map + query order for agents
-- [ ] `catalog/topics/*.md` — briefs + curated subsections + auto item list
-- [ ] `catalog/patterns.md` — cross-lane pipelines with item ids
-- [ ] `catalog/index.md` matches disk (includes filtered flag)
-- [ ] `graphify update .` committed
-- [ ] Pushed to `origin/main`, working tree clean
-- [ ] **Not required:** fat `research.md` on every item
+- [x] `topics` set on every non-filtered item; filters marked in `source.json`
+- [x] `catalog/README.md` — taxonomy map + query order for agents
+- [x] `catalog/topics/*.md` — briefs + curated subsections + auto item list
+- [x] `catalog/patterns.md` — cross-lane pipelines with item ids
+- [x] `catalog/index.md` matches disk (includes filtered flag)
+- [x] `catalog/filtered.md` — filtered-item index with reasons
+- [x] Note metadata via `raw/notes/*.meta.json` for topic tagging
+- [x] `graphify update .` committed
+- [x] Pushed to `origin/main`
+- [x] **Not required:** fat `research.md` on every item

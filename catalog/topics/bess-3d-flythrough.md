@@ -2,7 +2,7 @@
 
 Topic slug: `bess-3d-flythrough`. Adjacent: [camera-control](camera-control.md), [video-generation](video-generation.md), [gaussian-splatting](gaussian-splatting.md), [three-js](three-js.md), [ui-motion](ui-motion.md).
 
-This lane is industrial / site flythroughs and scroll-world style landings — the marketing surface for a battery-energy-storage (BESS) cabinet or plant, not a generic 3D toy. Items here are capture-to-asset tools, scroll-scrubbed 3D heroes, and studio craft ceilings. The photoreal *video* hop (Blender → Seedance/Veo/Kling/H3, depth for interiors) is documented in `raw/notes/blender-minimax-h3-video-generation.md`; that note is the implementation spine even though its index row is still untagged.
+This lane is industrial / site flythroughs and scroll-world style landings — the marketing surface for a battery-energy-storage (BESS) cabinet or plant, not a generic 3D toy. Items here are capture-to-asset tools, scroll-scrubbed 3D heroes, and studio craft ceilings. The photoreal *video* hop (Blender → Seedance/Veo/Kling/H3, depth for interiors) is documented in [blender-minimax-h3-video-generation](../../raw/notes/blender-minimax-h3-video-generation.md); that note is the implementation spine for this lane.
 
 The harvest is small and overlapping. scroll-world is the agent-skill path for an isometric diorama landing. Splat2Mesh and ArtiFixer are how a site scan becomes a mesh or a repaired splat before a flythrough. Lucida is indoor video → editable 3D assets (real-to-sim). Utsubo is the experiential-studio bar, not a BESS example.
 
@@ -38,6 +38,7 @@ Query here for “site flythrough landing,” “scan the plant then orbit it,�
 <!-- AUTO:ITEMS -->
 - [ArtiFixer](../../raw/items/github-nv-tlabs-ArtiFixer/) — `github-nv-tlabs-ArtiFixer`
 - [scroll-world](../../raw/items/github-oso95-scroll-world/) — `github-oso95-scroll-world`
+- [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
 - [Splat2Mesh](../../raw/items/web-arcana-splat2mesh/) — `web-arcana-splat2mesh`
 - [Utsubo](../../raw/items/web-utsubo/) — `web-utsubo`
 - [codex + blender is insane](../../raw/items/x-2065843739340509693/) — `x-2065843739340509693`

@@ -2328,9 +2328,9 @@
     "semantic_hash": ""
   },
   "scripts/rebuild_catalog.py": {
-    "mtime": 1788523792.1593742,
-    "seen": 1788523979.5760252,
-    "ast_hash": "9b298748bdee39c72082dc7370ef9f8d",
+    "mtime": 1788533914.3519092,
+    "seen": 1788533928.2696133,
+    "ast_hash": "33943d644c058a08dc56abbf2631a889",
     "semantic_hash": ""
   },
   "scripts/reddit_clear_saved.sh": {
@@ -2364,15 +2364,15 @@
     "semantic_hash": ""
   },
   "SCHEMA.md": {
-    "mtime": 1788442324.0546408,
-    "seen": 1788513381.1398728,
-    "ast_hash": "8fc99d5b6c4237d55c3c7253265b4511",
+    "mtime": 1788533922.3047128,
+    "seen": 1788533928.269623,
+    "ast_hash": "cbeea65d11dc433c6fa76df0ac83cdd1",
     "semantic_hash": ""
   },
   "catalog/index.md": {
-    "mtime": 1788524349.463525,
-    "seen": 1788524351.8804426,
-    "ast_hash": "1de9986f6f35a18843e61949f274d5fb",
+    "mtime": 1788533925.6639726,
+    "seen": 1788533928.2696285,
+    "ast_hash": "bbf47e3d1f5b58aeabd001a6553baa38",
     "semantic_hash": ""
   },
   "catalog/patterns.md": {
@@ -2382,75 +2382,75 @@
     "semantic_hash": ""
   },
   "catalog/topics/agent-skills.md": {
-    "mtime": 1788524349.46588,
-    "seen": 1788524351.880444,
-    "ast_hash": "89b81514241312a12c885846fec909f1",
+    "mtime": 1788533925.6678002,
+    "seen": 1788533928.26963,
+    "ast_hash": "42a5c9ecff726716870e071f2c57ff48",
     "semantic_hash": ""
   },
   "catalog/topics/bess-3d-flythrough.md": {
-    "mtime": 1788524349.4644442,
-    "seen": 1788524351.880445,
-    "ast_hash": "7cbdece700c5cd8c45ee5dfe9dba1aaa",
+    "mtime": 1788533925.665755,
+    "seen": 1788533928.2696307,
+    "ast_hash": "8b45e46f1c58bcfa98b47925d0948847",
     "semantic_hash": ""
   },
   "catalog/topics/camera-control.md": {
-    "mtime": 1788524349.4647462,
-    "seen": 1788524351.8804455,
-    "ast_hash": "f087533169af6548c76ca11b03681298",
+    "mtime": 1788533925.6663704,
+    "seen": 1788533928.2696314,
+    "ast_hash": "45cead0cce2af0941c29d680fe40c9d4",
     "semantic_hash": ""
   },
   "catalog/topics/design.md": {
-    "mtime": 1788524349.4653401,
-    "seen": 1788524351.880446,
+    "mtime": 1788533925.6670883,
+    "seen": 1788533928.2696326,
     "ast_hash": "fe96f4eec676527b16145ab293c652bd",
     "semantic_hash": ""
   },
   "catalog/topics/gaussian-splatting.md": {
-    "mtime": 1788524349.4646103,
-    "seen": 1788524351.8804467,
+    "mtime": 1788533925.666159,
+    "seen": 1788533928.2696335,
     "ast_hash": "2f3c4585809f1e217a7f9ed43ace59e4",
     "semantic_hash": ""
   },
   "catalog/topics/infographics.md": {
-    "mtime": 1788524349.466365,
-    "seen": 1788524351.8804474,
+    "mtime": 1788533925.668373,
+    "seen": 1788533928.2696342,
     "ast_hash": "1c742ae8072b1b285fa5514e42178787",
     "semantic_hash": ""
   },
   "catalog/topics/keyboard-pcb.md": {
-    "mtime": 1788524349.4651647,
-    "seen": 1788524351.880448,
+    "mtime": 1788533925.6668289,
+    "seen": 1788533928.269635,
     "ast_hash": "b9447e2f4bec52e8aeb2155d8cfeb872",
     "semantic_hash": ""
   },
   "catalog/topics/mcp.md": {
-    "mtime": 1788524349.4662726,
-    "seen": 1788524351.8804486,
-    "ast_hash": "283843f91d6e2a076828735651bdd9ee",
+    "mtime": 1788533925.668265,
+    "seen": 1788533928.2696362,
+    "ast_hash": "37a6d75e28ad0107044760fc945e4161",
     "semantic_hash": ""
   },
   "catalog/topics/seo-agents.md": {
-    "mtime": 1788524349.4650462,
-    "seen": 1788524351.8804493,
+    "mtime": 1788533925.6667106,
+    "seen": 1788533928.2696373,
     "ast_hash": "96d652dedc84872554f87ae9fc3cae7d",
     "semantic_hash": ""
   },
   "catalog/topics/three-js.md": {
-    "mtime": 1788524349.464898,
-    "seen": 1788524351.8804498,
+    "mtime": 1788533925.6665514,
+    "seen": 1788533928.269638,
     "ast_hash": "054fdc44fe831e7a4828c79cbcd0b46a",
     "semantic_hash": ""
   },
   "catalog/topics/ui-motion.md": {
-    "mtime": 1788524349.4661386,
-    "seen": 1788524351.8804502,
+    "mtime": 1788533925.6681142,
+    "seen": 1788533928.2696397,
     "ast_hash": "edd6045f1513df1d922b4c606d5fa472",
     "semantic_hash": ""
   },
   "catalog/topics/video-generation.md": {
-    "mtime": 1788524349.465562,
-    "seen": 1788524351.880451,
-    "ast_hash": "8f9ff5d91778edfcfb2af09ba6037e71",
+    "mtime": 1788533925.6673887,
+    "seen": 1788533928.2696404,
+    "ast_hash": "d7dac737416072cb033b4e66214cb36e",
     "semantic_hash": ""
   },
   "raw/_progress/README.md": {
@@ -10314,9 +10314,9 @@
     "semantic_hash": ""
   },
   "catalog/PLAN.md": {
-    "mtime": 1788523782.1896226,
-    "seen": 1788523979.5760345,
-    "ast_hash": "e92647b6a94b21e522dc3705e7920106",
+    "mtime": 1788533916.543855,
+    "seen": 1788533928.2696242,
+    "ast_hash": "3f67e9999ed754df75c4abe5b2d67a12",
     "semantic_hash": ""
   },
   "raw/items/web-crowdreply/page.md": {
@@ -10338,9 +10338,21 @@
     "semantic_hash": ""
   },
   "catalog/README.md": {
-    "mtime": 1788524332.8880634,
-    "seen": 1788524351.8804414,
-    "ast_hash": "3217aa3788ff4e800d74ffc760353a33",
+    "mtime": 1788533920.7637508,
+    "seen": 1788533928.2696264,
+    "ast_hash": "1f9e00839951b71b9c7ffffa7baf5b41",
+    "semantic_hash": ""
+  },
+  "raw/notes/blender-minimax-h3-video-generation.meta.json": {
+    "mtime": 1788533910.5345154,
+    "seen": 1788533928.2696111,
+    "ast_hash": "93d17e1b8f7e8ac019eca74b1a8b3c26",
+    "semantic_hash": ""
+  },
+  "catalog/filtered.md": {
+    "mtime": 1788533925.665531,
+    "seen": 1788533928.2696273,
+    "ast_hash": "ec13ef3d539cc51129de8844eddfa0aa",
     "semantic_hash": ""
   }
 }

@@ -35,21 +35,35 @@ def load_item(path: Path) -> dict:
     }
 
 
+def load_note(path: Path) -> dict:
+    name = path.stem
+    meta_path = path.with_suffix(".meta.json")
+    if meta_path.exists():
+        meta = json.loads(meta_path.read_text())
+        eid = meta.get("id", f"note-{name}")
+        title = meta.get("title", name.replace("-", " ").title())
+        topics = meta.get("topics", [])
+    else:
+        eid = f"note-{name}"
+        title = name.replace("-", " ").title()
+        topics = []
+    return {
+        "id": eid,
+        "title": title,
+        "source_type": "note",
+        "topics": topics,
+        "unsaved": False,
+        "filtered": False,
+        "path": f"raw/notes/{path.name}",
+    }
+
+
 def load_entries():
     entries = []
     for p in sorted(glob.glob(str(ITEMS / "*/source.json"))):
         entries.append(load_item(Path(p)))
     for p in sorted(glob.glob(str(NOTES / "*.md"))):
-        name = Path(p).stem
-        entries.append({
-            "id": f"note-{name}",
-            "title": name.replace("-", " ").title(),
-            "source_type": "note",
-            "topics": [],
-            "unsaved": False,
-            "filtered": False,
-            "path": f"raw/notes/{Path(p).name}",
-        })
+        entries.append(load_note(Path(p)))
     return sorted(entries, key=lambda x: x["id"])
 
 
@@ -110,6 +124,31 @@ def patch_topic_file(topic: str, item_block: str):
     )
 
 
+def write_filtered(entries):
+    filtered = [e for e in entries if e["filtered"]]
+    lines = [
+        "# Filtered items",
+        "",
+        f"{len(filtered)} harvested items marked `extra.filtered: true` — kept on disk for audit, "
+        "excluded from topic lanes. Non-filtered navigation: [README.md](README.md).",
+        "",
+        "| id | title | reason |",
+        "|----|-------|--------|",
+    ]
+    for e in sorted(filtered, key=lambda x: x["id"]):
+        src = ITEMS / e["id"] / "source.json"
+        reason = ""
+        if src.exists():
+            reason = json.loads(src.read_text()).get("extra", {}).get("category_note", "")
+        if not reason:
+            reason = "Filtered noise — see post.md"
+        title = e["title"].replace("|", "\\|")
+        reason = reason.replace("|", "\\|")
+        rel = f"../../{e['path']}"
+        lines.append(f"| [{e['id']}]({rel}) | {title} | {reason} |")
+    (CATALOG / "filtered.md").write_text("\n".join(lines) + "\n")
+
+
 def write_topic_lists(entries):
     TOPICS_DIR.mkdir(parents=True, exist_ok=True)
     by_topic = {t: [] for t in SCHEMA_TOPICS}
@@ -132,6 +171,7 @@ def write_topic_lists(entries):
 if __name__ == "__main__":
     entries = load_entries()
     write_index(entries)
+    write_filtered(entries)
     write_topic_lists(entries)
     from collections import Counter
 

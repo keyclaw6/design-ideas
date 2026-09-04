@@ -30,7 +30,7 @@ Master table of all entries. Start at [README.md](README.md) for taxonomy and qu
 | github-superdesigndev-treg | treg — OpenRouter for agent tools | github | mcp, agent-skills, seo-agents | false | false | raw/items/github-superdesigndev-treg/ |
 | github-wuyoscar-gpt-image2-skill | GPT Image 2 Prompt Gallery + Agentic Skill + CLI | github | agent-skills, design | false | false | raw/items/github-wuyoscar-gpt-image2-skill/ |
 | github-youmind-openlab-nano-banana-pro-prompts | Nano Banana Pro Prompts Recommend Skill | github | agent-skills, design | false | false | raw/items/github-youmind-openlab-nano-banana-pro-prompts/ |
-| note-blender-minimax-h3-video-generation | Blender Minimax H3 Video Generation | note |  | false | false | raw/notes/blender-minimax-h3-video-generation.md |
+| note-blender-minimax-h3-video-generation | LLM + Blender → AI Video: Photoreal BESS Flythrough | note | bess-3d-flythrough, video-generation, camera-control, mcp, agent-skills | false | false | raw/notes/blender-minimax-h3-video-generation.md |
 | web-aidesigner-mcp | AIDesigner MCP — AI UI design in the editor | website | mcp, design, agent-skills | false | false | raw/items/web-aidesigner-mcp/ |
 | web-animos-editor | animos — Motion templates for design showcases | website | ui-motion, design, video-generation | false | false | raw/items/web-animos-editor/ |
 | web-anthropic-claude-self-service-data | How Anthropic enables self-service data analytics with Claude | website | agent-skills, mcp | false | false | raw/items/web-anthropic-claude-self-service-data/ |

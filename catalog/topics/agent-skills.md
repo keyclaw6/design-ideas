@@ -71,6 +71,7 @@ Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Star
 - [treg — OpenRouter for agent tools](../../raw/items/github-superdesigndev-treg/) — `github-superdesigndev-treg`
 - [GPT Image 2 Prompt Gallery + Agentic Skill + CLI](../../raw/items/github-wuyoscar-gpt-image2-skill/) — `github-wuyoscar-gpt-image2-skill`
 - [Nano Banana Pro Prompts Recommend Skill](../../raw/items/github-youmind-openlab-nano-banana-pro-prompts/) — `github-youmind-openlab-nano-banana-pro-prompts`
+- [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
 - [AIDesigner MCP — AI UI design in the editor](../../raw/items/web-aidesigner-mcp/) — `web-aidesigner-mcp`
 - [How Anthropic enables self-service data analytics with Claude](../../raw/items/web-anthropic-claude-self-service-data/) — `web-anthropic-claude-self-service-data`
 - [PeopleSearchBench: Evaluating AI-Powered People Search Platforms](../../raw/items/web-arxiv-2603-27476/) — `web-arxiv-2603-27476`

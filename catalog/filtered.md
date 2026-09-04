@@ -1,0 +1,53 @@
+# Filtered items
+
+47 harvested items marked `extra.filtered: true` — kept on disk for audit, excluded from topic lanes. Non-filtered navigation: [README.md](README.md).
+
+| id | title | reason |
+|----|-------|--------|
+| [x-2077359594666651900](../../raw/items/x-2077359594666651900/) | A man spends 50 years teaching at MIT. He knows his time is running out. So he records one last lecture — everything he  | Engagement-bait ‘last MIT lecture’ with no URL or technique. |
+| [x-2077376352630845499](../../raw/items/x-2077376352630845499/) | INSTEAD OF WATCHING AN HOUR OF NETFLIX TONIGHT. This 60-minute Cambridge lecture by Demis Hassabis will teach you more a | Hassabis Cambridge lecture engagement bait; no URL captured. |
+| [x-2083853702696231097](../../raw/items/x-2083853702696231097/) | I know I've reposted this before, but it's worth re-emphasizing. If you want to get good at using AI, GET GOOD AT THE TH | Empty quote-tweet: ‘get good at the thing’; no illustration or artifact captured. |
+| [x-2084613319558635940](../../raw/items/x-2084613319558635940/) | THIS GUY MAKES COMPLEX AI AGENT CONCEPTS RIDICULOUSLY EASY TO UNDERSTAND. No jargon wall. No assuming you already know w | Engagement bait praising unnamed explainer; no link. |
+| [x-2086078399366230075](../../raw/items/x-2086078399366230075/) | Everyone knows a 7 step guy. Dead vitamin C, retinol listed after the fragrance, doses: trust me bro. Vector ONE is the  | Skincare product ad (Vector ONE). Unrelated to the idea bank. |
+| [x-2086533896993112572](../../raw/items/x-2086533896993112572/) | A 7-step routine costs about €488 for 120 nights. That's €4 a night. Most of it is water. I'm a chemist. I put every act | Same skincare brand; chemist cost-per-night pitch. Duplicate noise. |
+| [x-2087224641849045110](../../raw/items/x-2087224641849045110/) | X post 2087224641849045110 | Empty Stagehanddev capture — no text, no media. Filter. |
+| [x-2087280401475600698](../../raw/items/x-2087280401475600698/) | You can now copy 650% ROI Polymarket whales...👇 1. Sign up to cosmos and connect your polymarket account (free) 2. Choos | Polymarket whale copy-trading promo. Crypto hype — filter. |
+| [x-2087569590268391897](../../raw/items/x-2087569590268391897/) | X post 2087569590268391897 | Empty capture; no artifact |
+| [x-2087715372787228734](../../raw/items/x-2087715372787228734/) | 🚨 AND STILL Deepseek V4 Flash 0731 on @OpenRouter served by @wafer_ai | OpenRouter capacity promo; no technique |
+| [x-2087733334617063503](../../raw/items/x-2087733334617063503/) | Agent Plugins: Build it once, use it everywhere. | Slogan-only GCP marketing; no artifact |
+| [x-2087873421094896122](../../raw/items/x-2087873421094896122/) | Trending repository of the day 📈 diagram-design 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N | Duplicate of github-cathrynlavery-diagram-design |
+| [x-2087893705059356898](../../raw/items/x-2087893705059356898/) | It is live and free to download... A full 44-page guide on the exact sales framework for $20k-$100k+ freelancer or agenc | Agency sales PDF; out of taxonomy |
+| [x-2088600811307979218](../../raw/items/x-2088600811307979218/) | oh shit i am number 1 on hackernews atm (3x hackernews now lfg) | Filtered: HN rank flex with no linked artifact. |
+| [x-2088706415586377792](../../raw/items/x-2088706415586377792/) | Deepseek V4 Flash 0731 Fast⚡️ on @vercel AI Gateway | Filtered: duplicate of the Wafer/Vercel DeepSeek announcement. |
+| [x-2088830609615397333](../../raw/items/x-2088830609615397333/) | Free open source react UI library you should visit on - Graphs - Loaders - Components & many more Go Visit - https://ami | Filtered: duplicate Amicro promo of Mono Charts. |
+| [x-2089377925086982281](../../raw/items/x-2089377925086982281/) | Cold calling is the necessary evil when founding a startup. To make it easier we build a cold calling tool for ourselves | Filtered: cold-calling SaaS (Luo), outside library lanes. |
+| [x-2089701163117494735](../../raw/items/x-2089701163117494735/) | Had to try it on an invoice | Filtered: empty one-liner, no artifact or media. |
+| [x-2090165248196252003](../../raw/items/x-2090165248196252003/) | Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US st | Filtered: Gemini back-to-school student promo. |
+| [x-2090787985721856437](../../raw/items/x-2090787985721856437/) | GLM-5.3 × ZCode Weekend Build, Round 2 🚀 New users: log in to ZCode for the first time from Aug 22, 00:00 to Aug 24, 09: | Filtered: ZCode/GLM token giveaway. |
+| [x-2090930324817498246](../../raw/items/x-2090930324817498246/) | UC Berkeley + MIT researchers open sourced a new inference engine and so far IT’S CRAZY: > runs DeepSeek-V4-Flash 284B a | Local LLM inference engine; no matching topic slug |
+| [x-2091150763418620133](../../raw/items/x-2091150763418620133/) | UC Berkeley just open-sourced FreeToken. (2–4x faster local LLM inference than Ollama) the results are wild: - Qwen3.6-3 | Duplicate FreeToken inference writeup; no matching topic slug |
+| [x-2091195599995728198](../../raw/items/x-2091195599995728198/) | Steve Jobs on a potential Google hire March 28, 2006 | Filtered noise — see post.md |
+| [x-2091362595844567436](../../raw/items/x-2091362595844567436/) | the site is actually up on the wayback machine https://web.archive.org/web/20221112173629/https://cursor.so/ | Historical cursor.so Wayback; no technique |
+| [x-2091554449323958423](../../raw/items/x-2091554449323958423/) | So if the math is right: 1x 6000: GLM 5.2 FP4 4x 6000: K3 FP4 Who will be the first to /goal it? (I may tonight. Need to | Local GPU VRAM nerd thread |
+| [x-2091564966797029541](../../raw/items/x-2091564966797029541/) | #FreeCAD is being improved everyday. One of the ways is continuously addressing the #Toponaming issue. This PR is a WIP  | FreeCAD toponaming PR; not 3D marketing |
+| [x-2091621183422943726](../../raw/items/x-2091621183422943726/) | Everyone's obsessed with Stanley cups. We asked AI to design one - in one shot, zero CAD skills. Built entirely in http: | Consumer product CAD demo; not keyboard-pcb |
+| [x-2091729720303874220](../../raw/items/x-2091729720303874220/) | Invoice Builder is an offline-first invoicing application for freelancers and small businesses. It creates and exports i | Filtered noise — see post.md |
+| [x-2091835143522840732](../../raw/items/x-2091835143522840732/) | I am falling in love with this design aesthetics. So you’re? | Filtered noise — see post.md |
+| [x-2091951051343593929](../../raw/items/x-2091951051343593929/) | Gemini Flash 3.7 (high) vs. Opus 5 (max) Seems like a truly surprising result... we did not expect this | Model bake-off screenshot; no artifact |
+| [x-2092137646730727617](../../raw/items/x-2092137646730727617/) | this person crazy too | Filtered noise — see post.md |
+| [x-2092309280175128645](../../raw/items/x-2092309280175128645/) | ChatGPT Student Offer is back! Eligible students can get 4 months of ChatGPT Plus for free (up to $80 value) How to clai | Filtered noise — see post.md |
+| [x-2092658333337469133](../../raw/items/x-2092658333337469133/) | Who said you can't achieve realism in Blender? 💫 Credit to @ruihuang_art for crafting this insanely detailed scene using | Filtered noise — see post.md |
+| [x-2092790491741823402](../../raw/items/x-2092790491741823402/) | BREAKING: 90% off GLM 5.3 Flash, starting today. In Merge Gateway through end of September: $0.012 in, $0.04 out, $0.003 | Filtered noise — see post.md |
+| [x-2093118868092748246](../../raw/items/x-2093118868092748246/) | This is crazy. 266K views in 10 days. From a channel with JUST 1.95K subscribers. And look at how simple the video is. → | Filtered noise — see post.md |
+| [x-2093160779960774982](../../raw/items/x-2093160779960774982/) | From the @HamsterResearch lab: Introducing Qwen3.8-Flash-Next-REAP-288-MLX-4bit, a 180B-class model running on just 39gb | Local Qwen MoE quant/prune; model-infra, not a taxonomy lane. |
+| [x-2093429897188299113](../../raw/items/x-2093429897188299113/) | Another Qwen3.8-Flash-Next breakthrough I stored 60% of experts on disk which stream to memory on-demand. Similar techni | Follow-up Qwen expert-on-disk streaming; same unrelated ML-infra lane as x-2093160779960774982. |
+| [x-2093672017937547613](../../raw/items/x-2093672017937547613/) | Trending repository of the day 📈 archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-fl | Duplicate trending-repo post of archify; primary is x-2093309791120543846. |
+| [x-2093690856637182435](../../raw/items/x-2093690856637182435/) | How to install a $1,000,000 content system into your personal brand on X + LinkedIn (bookmark this) | Engagement bait: '$1M content system' with no playbook or artifact. |
+| [x-2093776000781869278](../../raw/items/x-2093776000781869278/) | We've helped dozens of YC startups and enterprise B2B companies build their go-to-market motions. All of our top perform | Generic B2B GTM flywheel; out of taxonomy. |
+| [x-2094162743985308047](../../raw/items/x-2094162743985308047/) | We sent the same 1,000 cold emails twice and tripled the deals on the second run. The first run followed the classic pla | Cold-email / GTM channel-order playbook; out of taxonomy. |
+| [x-2094424821450817563](../../raw/items/x-2094424821450817563/) | Your founder account will never reach a full buying committee on its own. Dan and I have 81k combined on LinkedIn, but W | Employee-led LinkedIn GTM; comment-TEAM engagement bait, out of taxonomy. |
+| [x-2094819241916801165](../../raw/items/x-2094819241916801165/) | everyone is posting these AI character videos and nobody explains how they get this realistic.. so here's my exact proce | Empty process-thread claim; no steps or media captured. |
+| [x-2094893065202803014](../../raw/items/x-2094893065202803014/) | cold email explained — Low IQ / Midwit / High IQ | Cold-email Low/Mid/High IQ meme; no SCHEMA lane (outbound, not SEO/AEO). |
+| [x-2094927852399624557](../../raw/items/x-2094927852399624557/) | 10,000 emails/day via Instantly sequencer + MapsData leads | Instantly + MapsData cold-outbound infra; out of taxonomy. |
+| [x-2095192939169234945](../../raw/items/x-2095192939169234945/) | https://x.com/i/article/2095192419562033152 | Social launch-distribution article ('everywhere overnight'); GTM, out of taxonomy. |
+| [x-2095214420398121034](../../raw/items/x-2095214420398121034/) | Introducing MapsData > $0.33-$0.98 per 1,000 leads > up to 100,000 leads per scrape > over 4000 queries to scrape > live | MapsData Maps-lead scraping for outbound; out of taxonomy. |

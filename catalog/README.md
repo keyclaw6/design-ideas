@@ -21,15 +21,16 @@ Presence in the catalog is not a recommendation. Topics are tags, not a hierarch
 | [keyboard-pcb.md](topics/keyboard-pcb.md) | `keyboard-pcb` | Ergonomic keyboards, PCB, split keyboards, hardware (later focus) |
 | [infographics.md](topics/infographics.md) | `infographics` | Data viz, diagram design, AntV, chart-as-content |
 
-Full table of every entry: [index.md](index.md). Cross-lane recipes: [patterns.md](patterns.md). Topic briefs: [topics/](topics/). Schema: [`SCHEMA.md`](../SCHEMA.md). Completion plan: [PLAN.md](PLAN.md).
+Full table of every entry: [index.md](index.md). Filtered noise: [filtered.md](filtered.md). Cross-lane recipes: [patterns.md](patterns.md). Topic briefs: [topics/](topics/). Long-form notes: [../raw/notes/](../raw/notes/) (use `*.meta.json` for topics). Schema: [`SCHEMA.md`](../SCHEMA.md). Completion plan: [PLAN.md](PLAN.md).
 
 ## Query order (agents)
 
 1. **This file** — pick a slug from the table.
 2. **[index.md](index.md)** — id / title / `source_type` / topics / path (and filtered flag when present).
-3. **`catalog/topics/<slug>.md`** — lane brief, Pipelines, curated Tools / Techniques / Examples, then the auto item list (`<!-- AUTO:ITEMS -->`). See [topics/](topics/).
-4. **[patterns.md](patterns.md)** — pipelines that cross slugs, with item ids.
-5. **Item folder** `raw/items/<id>/` (or `raw/notes/` for unsplit notes), in this order:
+3. **[filtered.md](filtered.md)** — items marked noise during taxonomy (still on disk).
+4. **`catalog/topics/<slug>.md`** — lane brief, Pipelines, curated Tools / Techniques / Examples, then the auto item list (`<!-- AUTO:ITEMS -->`). See [topics/](topics/).
+5. **[patterns.md](patterns.md)** — pipelines that cross slugs, with item ids.
+6. **Item folder** `raw/items/<id>/` (or `raw/notes/` for unsplit notes), in this order:
    - `source.json` — metadata, URL, topics, `related_items`
    - `page.md` or `post.md` — primary capture
    - `comments.md` — optional thread

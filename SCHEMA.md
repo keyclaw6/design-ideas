@@ -51,10 +51,21 @@ Reddit items use folder id `reddit-<post_id>` (base36 or full id from URL).
 
 ## Notes (pre-item research)
 
-Long-form reports that have not been split into item folders live under `raw/notes/`. They are listed in `catalog/index.md` with paths under `raw/notes/` instead of `raw/items/<id>/`.
+Long-form reports that have not been split into item folders live under `raw/notes/`. Optional sidecar `raw/notes/<name>.meta.json` sets `title` and `topics[]` for catalog indexing:
+
+```json
+{
+  "id": "note-example",
+  "title": "Human title",
+  "topics": ["bess-3d-flythrough", "video-generation"]
+}
+```
+
+Listed in `catalog/index.md` with paths under `raw/notes/` instead of `raw/items/<id>/`.
 
 ## Catalog
 
 - `catalog/index.md` — master table: id, title, topics, path
+- `catalog/filtered.md` — filtered items with reasons (auto-generated)
 - `catalog/topics/<topic>.md` — curated slices per topic
 - `catalog/patterns.md` — cross-cutting patterns (filled after harvest)

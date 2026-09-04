@@ -52,6 +52,7 @@ Query here for “what MCP do I add” or “how did someone route tools through
 - [awesome-mcp-servers](../../raw/items/github-punkpeye-awesome-mcp-servers/) — `github-punkpeye-awesome-mcp-servers`
 - [gojiberryai-sales-os](../../raw/items/github-romangojiberryAI-gojiberryai-sales-os/) — `github-romangojiberryAI-gojiberryai-sales-os`
 - [treg — OpenRouter for agent tools](../../raw/items/github-superdesigndev-treg/) — `github-superdesigndev-treg`
+- [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
 - [AIDesigner MCP — AI UI design in the editor](../../raw/items/web-aidesigner-mcp/) — `web-aidesigner-mcp`
 - [How Anthropic enables self-service data analytics with Claude](../../raw/items/web-anthropic-claude-self-service-data/) — `web-anthropic-claude-self-service-data`
 - [Blume Sidecar — monitor and improve coding agents](../../raw/items/web-blume-codes/) — `web-blume-codes`
