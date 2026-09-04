@@ -51,6 +51,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "github-youmind-openlab-nano-banana-pro-prompts#c3",
+      "text": "A 2026-09-04 clone of references/*.json has 14,965 unique prompt ids, while manifest.totalPrompts is 15,508 and the 11 category-file lengths sum to 22,466 because 7,299 ids appear in two or more files.",
+      "kind": "benchmark",
+      "evidence": "unique ids 14965; manifest totalPrompts 15508; category-file sum 22466; 7299 ids in 2+ files",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": null,
@@ -66,6 +76,18 @@
       "value": "10000",
       "unit": null,
       "source": "linked-page"
+    },
+    {
+      "label": "unique prompt ids in references/",
+      "value": "14965",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "manifest totalPrompts",
+      "value": "15508",
+      "unit": null,
+      "source": "note"
     }
   ],
   "techniques": [

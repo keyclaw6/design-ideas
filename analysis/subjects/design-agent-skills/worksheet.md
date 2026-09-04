@@ -59,7 +59,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — next capture work
 
-1. 61-id list is on [impeccable](../../tools/impeccable.md). Remaining: `npx impeccable detect` against a live URL (Puppeteer).
+1. 61-id list is on [impeccable](../../tools/impeccable.md). Live URL path ran: `npx impeccable detect https://example.com --json` → exit 0, 3 findings (`line-length`, `low-contrast` ×2). Remaining: the same command on a real marketing landing (not example.com).
 2. Extract DESIGN.md from two known sites via Sokosumi *and* Hyperbrowser; diff the YAML tokens.
 3. AIDesigner names are on the marketing page; remaining: an authed `tools/list`.
 4. Re-fetch `x-2093669411685110141` and the blocked designmd.* domains.

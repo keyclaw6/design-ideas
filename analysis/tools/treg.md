@@ -7,7 +7,6 @@
 - [treg people-search: one-token B2B enrichment across 60 providers](../items/web-treg-people-search/card.md) — tool — outbound-gtm-agents
 
 <!-- NOTES:START -->
-
 Fetched 2026-09-04 README + live site + `GET https://treg.to/providers.json` + `https://treg.to/llms.txt`.
 
 First-party counts **do not agree**. Do not collapse them:
@@ -18,5 +17,4 @@ First-party counts **do not agree**. Do not collapse them:
 - `GET /providers.json` (HTTP 200, `version: 12`): **104 named BYO providers** (Google Ads … OpenWeather). This is the env-door / `.env` matcher (~80 in `llms.txt`), **not** a dump of the metered catalog. `/tools/` returns 401.
 
 Catalog dump still needs a token (`treg catalog` / `/call/…`). $1.00 free prepaid; team keys override catalog keys and are unmetered. AGPL on the homepage. Treat 2,896 as the README integer and 2,630 as the live-hero integer until someone `wc`s a catalog export.
-
 <!-- NOTES:END -->

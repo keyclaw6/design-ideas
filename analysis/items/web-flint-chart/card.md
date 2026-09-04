@@ -11,7 +11,8 @@
 **Claims.**
 - `web-flint-chart#c1` (capability, stated) Flint derives scales, axes, and spacing from a semantic spec plus data and optional theme. — evidence: "Flint derives scales, axes, spacing from semantic spec + data + optional theme." [linked-page]
 - `web-flint-chart#c2` (availability, stated) A hosted MCP server at flint.data-formulator.ai/mcp exposes Flint to agent clients. — evidence: "Hosted MCP: `https://flint.data-formulator.ai/mcp`" [linked-page]
-**Numbers.** —
+- `web-flint-chart#c3` (capability, demonstrated) flint-chart 0.5.1 assembleVegaLite and assembleECharts both accept the getting-started Line Chart spec; hosted flint-chart-mcp v0.5.1 lists six tools and render_chart backends are vegalite, echarts, and chartjs only. — evidence: "assembleVegaLite mark=line, 5 values; assembleECharts series type=line; tools/list: render_chart compile_chart validate_chart list_chart_types list_themes create_chart_view" [note]
+**Numbers.** hosted MCP tools: 6  (note)
 **Recipe.** —
 **Techniques.** [chart-theme-presets](../../techniques/chart-theme-presets.md), [chart-theme-presets](../../techniques/chart-theme-presets.md)
 **Tools.** [flint-chart-mcp](../../tools/flint-chart-mcp.md)

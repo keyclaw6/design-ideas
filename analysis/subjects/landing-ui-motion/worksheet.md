@@ -54,5 +54,5 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 
 1. `EXAMPLES.md` now has a built row for all eight grammars; nateherk.com is a live ScrollCraft mount ([scroll-craft](../../tools/scroll-craft.md)). Remaining: install once and record which grammars it refuses on a default Claude landing.
 2. Diff Cult vs Originkit vs Vengeance on one hero + one pricing section (same copy) and note mobile breakpoints. Counts are parked on [cult-ui](../../tools/cult-ui.md); same-copy render still missing.
-3. Fetch the Blume.codes X article body if the card is still `linked-page-unfetched`.
+3. Blume homepage first-party copy is on [blume-sidecar](../../tools/blume-sidecar.md). X article `2094493136743473152` still unfetched (jina 403). Card `x-2094524951025914278` gap is `thread-partial`, not `linked-page-unfetched`.
 4. Re-fetch the failed landing-ui-motion thread listed in the brief.

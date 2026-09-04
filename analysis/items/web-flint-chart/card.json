@@ -50,10 +50,27 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "web-flint-chart#c3",
+      "text": "flint-chart 0.5.1 assembleVegaLite and assembleECharts both accept the getting-started Line Chart spec; hosted flint-chart-mcp v0.5.1 lists six tools and render_chart backends are vegalite, echarts, and chartjs only.",
+      "kind": "capability",
+      "evidence": "assembleVegaLite mark=line, 5 values; assembleECharts series type=line; tools/list: render_chart compile_chart validate_chart list_chart_types list_themes create_chart_view",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/flint-chart-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "hosted MCP tools",
+      "value": "6",
+      "unit": null,
+      "source": "note"
+    }
+  ],
   "techniques": [
     "chart-theme-presets",
     "chart-theme-presets"

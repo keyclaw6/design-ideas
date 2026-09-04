@@ -10,4 +10,6 @@ Chart intermediate languages and theme packs (Flint and kin).
 Owner subject: `infographics-diagrams`. Referenced by 1 item(s): web-flint-chart.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture.** `flint-chart@0.5.1` assembled the getting-started Line Chart to Vega-Lite (`mark: line`) and ECharts (`series: line`). Hosted MCP `flint-chart-mcp` v0.5.1 lists 6 tools; `render_chart` backends are vegalite/echarts/chartjs only. Eleven theme preset files; docs say ThemeSpec applies to Vega-Lite. Full notes on [flint-chart-mcp](../tools/flint-chart-mcp.md).
 <!-- NOTES:END -->

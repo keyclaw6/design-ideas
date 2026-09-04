@@ -63,10 +63,27 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "github-cathrynlavery-diagram-design#c4",
+      "text": "A 2026-09-04 clone has exactly 39 type-*.md files matching the README type count; example HTML also includes extra stems (beeswarm, ridgeline, slopegraph) that are not extra types.",
+      "kind": "benchmark",
+      "evidence": "39 files under skills/diagram-design/references/type-*.md; 155 example-*.html including extra stems without type docs",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/diagram-design.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "type-*.md files",
+      "value": "39",
+      "unit": null,
+      "source": "note"
+    }
+  ],
   "techniques": [
     "svg-infographic-rendering",
     "svg-infographic-rendering"

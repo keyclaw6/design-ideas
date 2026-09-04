@@ -10,7 +10,5 @@
 - [Hyper3D WorldGen builds editable physics worlds from one photo](../items/x-2095437841958314100/card.md) — tool, claim-source — image-to-3d-world
 
 <!-- NOTES:START -->
-
 **2026-09-04 capture — official Seed page; seedance.com parked.** `https://seedance.com` redirects to a GoDaddy for-sale lander (403). Official product page `https://seed.bytedance.com/en/seedance2_0`: Seedance **2.0** is a unified multimodal audio-video model (text / image / audio / video inputs); marketing claims director-level control including camera movement. Same nav lists **Seedance 2.5** as a sibling model. Page uses ranking language (“leading position” on SeedVideoBench-2.0) — quote only, do not echo. No public duration/res table extracted from the HTML this pass. Cafe flythrough and GPT Image 2 face-swap recipes remain tweet-only (no `.blend` / stills in this bank).
-
 <!-- NOTES:END -->

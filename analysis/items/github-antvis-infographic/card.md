@@ -10,7 +10,8 @@
 
 **Claims.**
 - `github-antvis-infographic#c1` (capability, stated) Infographic ships ~200 built-in templates and AI-tuned syntax that agents emit as compact template strings rendered to editable SVG. — evidence: "Features: AI-tuned config/syntax, ready-to-use templates, hand-drawn/gradient themes, editable SVG renderer." [linked-page]
-**Numbers.** —
+- `github-antvis-infographic#c2` (benchmark, demonstrated) built-in.ts registers 137 named templates (93 inline keys plus spread-in records); the README ~200 figure bundles templates with data-item components and layouts and is not a template-id count. — evidence: "inline keys 93 + imported records 44 = 137 named templates; README: ~200 built-in infographic templates, data-item components, and layouts" [note]
+**Numbers.** named built-in templates: 137  (note)
 **Recipe.** —
 **Techniques.** [svg-infographic-rendering](../../techniques/svg-infographic-rendering.md), [svg-infographic-rendering](../../techniques/svg-infographic-rendering.md)
 **Tools.** [antv-infographic](../../tools/antv-infographic.md)

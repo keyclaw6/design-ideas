@@ -42,10 +42,27 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "github-antvis-infographic#c2",
+      "text": "built-in.ts registers 137 named templates (93 inline keys plus spread-in records); the README ~200 figure bundles templates with data-item components and layouts and is not a template-id count.",
+      "kind": "benchmark",
+      "evidence": "inline keys 93 + imported records 44 = 137 named templates; README: ~200 built-in infographic templates, data-item components, and layouts",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/antv-infographic.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "named built-in templates",
+      "value": "137",
+      "unit": null,
+      "source": "note"
+    }
+  ],
   "techniques": [
     "svg-infographic-rendering",
     "svg-infographic-rendering"

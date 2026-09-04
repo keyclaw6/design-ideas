@@ -52,6 +52,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "web-meigen-ai#c3",
+      "text": "A 2026-09-04 clone of jau123/MeiGen-AI-Design-MCP has exactly 1,446 objects in data/trending-prompts.json and nine src/tools registrations; www.meigen.ai returned Cloudflare 403 so the live gallery was not counted.",
+      "kind": "benchmark",
+      "evidence": "trending-prompts.json list length 1446; nine tools: enhance-prompt, search-gallery, get-inspiration, generate-video, comfyui-workflow, manage-preferences, list-models, check-generation, generate-image",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": null,

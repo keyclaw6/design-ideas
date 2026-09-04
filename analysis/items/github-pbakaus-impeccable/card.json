@@ -53,6 +53,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c3",
+      "text": "npx impeccable detect against https://example.com returned exit 0 with three findings: line-length and low-contrast twice.",
+      "kind": "result",
+      "evidence": "detect https://example.com --json: line-length ~96 chars/line; low-contrast 1.1:1 on Example Domain and body; exit 0",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

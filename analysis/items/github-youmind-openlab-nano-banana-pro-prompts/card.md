@@ -11,7 +11,8 @@
 **Claims.**
 - `github-youmind-openlab-nano-banana-pro-prompts#c1` (capability, stated) Skill searches 10,000+ curated Nano Banana Pro prompts and returns the top three matches with sample images. — evidence: "Agent skill searching 10,000+ curated Nano Banana Pro (Gemini image model) prompts. Returns top 3 matches with sample images." [linked-page]
 - `github-youmind-openlab-nano-banana-pro-prompts#c2` (recipe, stated) Token-efficient grep-style search avoids loading full category files. — evidence: "Token-efficient: grep-style search, never loads full category files." [linked-page]
-**Numbers.** GitHub stars: 1843  (note); social media prompt count: 10000  (linked-page)
+- `github-youmind-openlab-nano-banana-pro-prompts#c3` (benchmark, demonstrated) A 2026-09-04 clone of references/*.json has 14,965 unique prompt ids, while manifest.totalPrompts is 15,508 and the 11 category-file lengths sum to 22,466 because 7,299 ids appear in two or more files. — evidence: "unique ids 14965; manifest totalPrompts 15508; category-file sum 22466; 7299 ids in 2+ files" [note]
+**Numbers.** GitHub stars: 1843  (note); social media prompt count: 10000  (linked-page); unique prompt ids in references/: 14965  (note); manifest totalPrompts: 15508  (note)
 **Recipe.** —
 **Techniques.** [prompt-to-html-landing](../../techniques/prompt-to-html-landing.md), [taste-skill-encoding](../../techniques/taste-skill-encoding.md)
 **Tools.** [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md), [clawhub](../../tools/clawhub.md)

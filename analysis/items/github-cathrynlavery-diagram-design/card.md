@@ -12,7 +12,8 @@
 - `github-cathrynlavery-diagram-design#c1` (capability, stated) The repo defines 39 diagram types including architecture, sequence, Sankey, Wardley, and user-journey layouts. — evidence: "39 editorial diagram types for Claude Code, Codex, Factory Droid, and Pi." [linked-page]
 - `github-cathrynlavery-diagram-design#c2` (capability, stated) Diagrams ship as self-contained HTML and SVG with minimal light, dark, and editorial variants. — evidence: "Self-contained HTML + SVG. No shadows, no Mermaid slop." [linked-page]
 - `github-cathrynlavery-diagram-design#c3` (recipe, stated) Install uses the diagram-design plugin marketplace commands. — evidence: "/plugin marketplace add cathrynlavery/diagram-design" [linked-page]
-**Numbers.** —
+- `github-cathrynlavery-diagram-design#c4` (benchmark, demonstrated) A 2026-09-04 clone has exactly 39 type-*.md files matching the README type count; example HTML also includes extra stems (beeswarm, ridgeline, slopegraph) that are not extra types. — evidence: "39 files under skills/diagram-design/references/type-*.md; 155 example-*.html including extra stems without type docs" [note]
+**Numbers.** type-*.md files: 39  (note)
 **Recipe.** —
 **Techniques.** [svg-infographic-rendering](../../techniques/svg-infographic-rendering.md), [svg-infographic-rendering](../../techniques/svg-infographic-rendering.md)
 **Tools.** [diagram-design](../../tools/diagram-design.md)

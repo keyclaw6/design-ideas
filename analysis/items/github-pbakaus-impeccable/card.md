@@ -11,6 +11,7 @@
 **Claims.**
 - `github-pbakaus-impeccable#c1` (recipe, stated) Install via npx impeccable install then /impeccable init writes PRODUCT.md for audience and voice apart from DESIGN.md visual direction. — evidence: "Install: `npx impeccable install`, then `/impeccable init`." [linked-page]
 - `github-pbakaus-impeccable#c2` (capability, stated) 61 deterministic detector rules flag Inter-everywhere, purple-blue gradients, and card-in-card patterns without calling an LLM. — evidence: "Design guidance for AI coding agents: 1 skill, 23 slash commands, live browser iteration, 61 deterministic detector rules." [linked-page]
+- `github-pbakaus-impeccable#c3` (result, demonstrated) npx impeccable detect against https://example.com returned exit 0 with three findings: line-length and low-contrast twice. — evidence: "detect https://example.com --json: line-length ~96 chars/line; low-contrast 1.1:1 on Example Domain and body; exit 0" [note]
 **Numbers.** GitHub stars: 64933  (note); slash commands: 23  (note); detector rules: 61  (note)
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md), [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md), [screenshot-verify-loop](../../techniques/screenshot-verify-loop.md)

@@ -52,6 +52,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "web-cloudflare-kitesurf#c3",
+      "text": "Browser Run CDP docs expose WebSocket /devtools/browser plus HTTP session create/list/new/close endpoints and require a token with Browser Rendering - Edit.",
+      "kind": "capability",
+      "evidence": "POST /devtools/browser; GET .../json/list; PUT .../json/new; DELETE close; clients Puppeteer, Playwright, MCP",
+      "evidence_source": "linked-page",
+      "evidence_ref": "https://developers.cloudflare.com/browser-run/cdp/index.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "recipe_steps": [],
@@ -93,10 +103,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "github-h4ckf0r0day-obscura",

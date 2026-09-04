@@ -30,7 +30,7 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 
 - treg endpoint count — **README 2,896 / 60**; **homepage hero 2,630 / 47** (same page also says 42). `providers.json` v12 is **104 BYO env-door names**, not the metered catalog. `/tools/` 401. See [treg](../../tools/treg.md).
 - Obscura ~24k stars, sub-50ms boot, 30MB RAM, 85ms loads — marketing + viral restatement; time a session locally.
-- Kitesurf “ported from Obscura” — blog + Browser Run limits fetched ([kitesurf](../../tools/kitesurf.md)). Cannot yet: video, WebGL, bot-challenge TLS, long authenticated sessions. Free plan: 10 min/day, 3 concurrent, 60s idle.
+- Kitesurf “ported from Obscura” — blog + Browser Run limits + CDP `/devtools` + Dynamic Workers docs fetched ([kitesurf](../../tools/kitesurf.md)). Card `web-cloudflare-kitesurf` linked pages are now in-bank. Cannot yet: video, WebGL, bot-challenge TLS, long authenticated sessions. Free plan: 10 min/day, 3 concurrent, 60s idle.
 - Free search “$0 vs $7/1k” — name the API or drop the claim.
 - OmniParser accuracy on GPT-4o / DeepSeek / Qwen — paper numbers, not in this capture.
 
@@ -43,4 +43,4 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 
 1. Authed `treg catalog` dump to `wc` endpoints. Live hero is 2,630; README is still 2,896.
 2. Boot Obscura once; record RAM and a CDP screenshot of example.com.
-3. Read the Kitesurf blog for Browser Run limits and write them on the card.
+3. Kitesurf blog, Browser Run limits, CDP `/devtools` endpoints, and Dynamic Workers docs are on [kitesurf](../../tools/kitesurf.md). Remaining: a live Browser Run session (needs a CF token with Browser Rendering - Edit).

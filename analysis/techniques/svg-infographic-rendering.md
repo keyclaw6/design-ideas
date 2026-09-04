@@ -13,4 +13,6 @@ Diagrams and infographics as SVG/mermaid/brand-matched layers.
 Owner subject: `infographics-diagrams`. Referenced by 4 item(s): github-antvis-infographic, github-cathrynlavery-diagram-design, x-2091559663833924082, x-2092890365930131920.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — token editability.** AntV fixture `01-basic-list.svg`: hardcoded hex + foreignObject, no CSS variables. Diagram Design `example-architecture.html`: `:root` `--color-*` tokens *and* the same hex inside the SVG. Counts on [antv-infographic](../tools/antv-infographic.md) / [diagram-design](../tools/diagram-design.md).
 <!-- NOTES:END -->

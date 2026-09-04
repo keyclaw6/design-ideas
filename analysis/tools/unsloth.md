@@ -7,7 +7,6 @@
 - [Unsloth Dynamic V3 Qwen3.8-27B GGUFs — 10% accuracy gain, 8GB 1-bit path](../items/x-2090103470015828184/card.md) — tool, reference — local-inference-models
 
 <!-- NOTES:START -->
-
 **2026-09-04 capture — HF `unsloth/Qwen3.8-27B-GGUF`.**
 Card YAML: **apache-2.0**, `base_model: Qwen/Qwen3.8-27B`. Tree (HF API `…/tree/main`): 30 `.gguf` siblings including BF16 split + MTP. File sizes this pass (bytes):
 
@@ -18,5 +17,4 @@ Card YAML: **apache-2.0**, `base_model: Qwen/Qwen3.8-27B`. Tree (HF API `…/tre
 - BF16 split: 49,986,159,616 + 4,671,576,000
 
 README uses ranking language (“>10% … better accuracy”). Quote that as a provider claim; do not restated it as a finding. No local load here.
-
 <!-- NOTES:END -->

@@ -15,4 +15,6 @@ A named prompt or pattern that emits a full landing page in HTML/React.
 Owner subject: `design-agent-skills`. Referenced by 6 item(s): github-mengto-skills, github-youmind-openlab-nano-banana-pro-prompts, web-neuform-ai, x-2091689598883934666, x-2095368133070700884, x-2095451624139567162.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — YouMind file counts (not a landing kit).** Unique prompt ids **14,965** vs manifest **15,508** vs category-file sum **22,466**. Neighbor MeiGen MCP file **1,446** prompts / 9 tools. See [nano-banana-pro-prompts-recommend](../tools/nano-banana-pro-prompts-recommend.md).
 <!-- NOTES:END -->

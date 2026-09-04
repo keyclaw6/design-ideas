@@ -6,9 +6,7 @@
 - [PeopleSearchBench: open benchmark for AI people-search platforms](../items/web-arxiv-2603-27476/card.md) — reference, technique — outbound-gtm-agents
 
 <!-- NOTES:START -->
-
 Fetched 2026-09-04 README https://github.com/LessieAI/people-search-bench + paper arXiv:2603.27476
 
 **119 queries**, 4 scenarios (recruiting, B2B, expert, influencer), 3 dimensions graded on **web evidence (Tavily)**, not LLM-as-judge. MIT. Leaderboard Overall: Lessie 65.2, Exa 55.0, Claude Code 46.0, Juicebox 45.8. Relevance uses padded nDCG@10 (ideal assumes 10 perfect hits). treg is **not** on this table. Run the bench against treg before treating the router as measured.
-
 <!-- NOTES:END -->

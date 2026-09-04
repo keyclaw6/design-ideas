@@ -11,6 +11,7 @@
 **Claims.**
 - `web-meigen-ai#c1` (capability, stated) MeiGen MCP repo advertises 1,446+ curated prompts and nine MCP tools. — evidence: "1,446+ curated prompts, 9 MCP tools" [linked-page]
 - `web-meigen-ai#c2` (capability, stated) Gallery spans GPT Image, Seedance, Nanobanana, and Midjourney with category browse and publish-to-earn credits. — evidence: "All GPT Image Seedance Nanobanana Midjourney" [linked-page]
+- `web-meigen-ai#c3` (benchmark, demonstrated) A 2026-09-04 clone of jau123/MeiGen-AI-Design-MCP has exactly 1,446 objects in data/trending-prompts.json and nine src/tools registrations; www.meigen.ai returned Cloudflare 403 so the live gallery was not counted. — evidence: "trending-prompts.json list length 1446; nine tools: enhance-prompt, search-gallery, get-inspiration, generate-video, comfyui-workflow, manage-preferences, list-models, check-generation, generate-image" [note]
 **Numbers.** MCP GitHub stars: 1737 stars (linked-page)
 **Recipe.** —
 **Techniques.** —

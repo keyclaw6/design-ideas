@@ -13,10 +13,10 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 
 | item | output format | brand/theme control | skill vs kit | data binding vs static | social/carousel sizes |
 |---|---|---|---|---|---|
-| AntV Infographic | SVG | template themes | skill + framework | template-driven | unknown |
-| Diagram Design | HTML+SVG | editorial types | skill (39 types) | static illustration | mid (editorial) |
+| AntV Infographic | SVG (SSR fixture hardcoded hex, not CSS vars) | template themes | **5** skills; **137** named templates vs README ~200 bundle | template-driven | unknown |
+| Diagram Design | HTML+SVG (`:root` tokens + hex in SVG) | editorial types | skill (**39** `type-*.md`; extra example stems exist) | static illustration | mid (editorial) |
 | Pretty-Mermaid | SVG or ASCII | mermaid theme | skill | mermaid source | n/a |
-| Flint | Vega / ECharts / Plotly | compile targets | IL + MCP-ish | high (spec→chart) | n/a |
+| Flint | JS: VL / ECharts / Chart.js / Plotly / Excel. Hosted MCP render enum: VL / ECharts / Chart.js | **11** theme preset files; ThemeSpec → Vega-Lite | IL + hosted MCP **6** tools (v0.5.1) | high (same spec compiled VL+ECharts here) | n/a |
 | Mono Charts | React components | Amicro look | kit | data props implied | unknown |
 | archify | animated architecture | unknown | skill | “verifiable” claimed | n/a |
 | system-atlas | isometric map | one data file | skill | bound to that file | n/a |
@@ -30,8 +30,9 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 
 ## infographics-diagrams — claims that need a receipt
 
-- Diagram Design “39 types” and AntV “AI-tuned templates” — count the skill files / examples.
-- Flint compiles to Vega, ECharts, *and* Plotly — run one spec through all three.
+- Diagram Design “39 types” — **39** `type-*.md` files counted ([diagram-design](../../tools/diagram-design.md)). Extra example stems are not extra types.
+- AntV “~200” — README bundles templates + items + layouts. Named `registerTemplate` ids sum **137** ([antv-infographic](../../tools/antv-infographic.md)).
+- Flint compiles to Vega, ECharts, *and* Plotly — local `assembleVegaLite` + `assembleECharts` ran on the getting-started spec. Plotly/Excel assemblers not exercised. Hosted `render_chart` enum omits Plotly. See [flint-chart-mcp](../../tools/flint-chart-mcp.md).
 - archify “verifiable” diagrams — need what is verified (nodes vs runtime).
 - Dashboard Stack “OSS repo soon” — not in this bank yet.
 - PRYNE “minutes” — same stills already used as a prompt-gallery example; do not double-count as a diagram system.
@@ -44,6 +45,6 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 
 ## infographics-diagrams — next capture work
 
-1. Export one AntV and one Diagram Design sample to SVG; note whether tokens are editable.
-2. Compile one Flint spec to two backends and screenshot the pair.
+1. AntV SSR fixture + Diagram Design architecture HTML token notes are on the tool pages. Remaining: a *fresh* agent-emitted SVG (not the repo fixture) if someone reruns the skill.
+2. Flint VL+ECharts JSON compile is done; remaining: Plotly assembler + a PNG/SVG pair from `render_chart`.
 3. Ignore carousel studio until the promised repo exists.
