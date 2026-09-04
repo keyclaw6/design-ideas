@@ -52,6 +52,16 @@
       "evidence_ref": "analysis/tools/cult-ui.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-cult-ui#c3",
+      "text": "Live hero strings (2026-09-04): Cult Pro “Shadcn blocks for marketing.” / “Ship your ideas.Even if you don't code.”; Originkit title “Free Animated component library for modern websites” (no SSR h1); Vengeance “Next-Gen UI Interactions” / “Ship landing pages at lightspeed”. Cult OSS homepage still 429. Fetched CSS has no mobile breakpoint besides the Cult challenge page.",
+      "kind": "result",
+      "evidence": "pro.cult-ui.com 562728 B; originkit.dev 562318 B; vengeanceui.com 412678 B; cult-ui.com 429. See cult-ui NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],

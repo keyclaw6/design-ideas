@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/cozyclay.md",
       "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2091577179914338583#c4",
+      "text": "CozyClay npm run verify:capture on this host reached a live editor then timed out on capture_frame (isError: Live editor timed out running capture_frame). No 640x360 PNG receipt.",
+      "kind": "result",
+      "evidence": "verify-live-capture.mjs + google-chrome headless=new; assertion actual true / expected undefined. See cozyclay NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cozyclay.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": null,

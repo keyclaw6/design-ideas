@@ -16,6 +16,7 @@ i made a previs tool
 come look, opensource
 https://github.com/NomaDamas/CozyClay" [post]
 - `x-2091577179914338583#c3` (result, demonstrated) CozyClay mcp verify (v1.7.0, no editor) lists 25 tools, checks 420 frame_shot combinations, and render_prompt (seedance_2 video) carries wide-shot / 24mm / both subjects. README 24-tool count is stale. — evidence: "npm run verify exit 0; listTools 25 including load_motion; render_prompt mode=video model=seedance_2; .cclayproject save/open round-trip." [note]
+- `x-2091577179914338583#c4` (result, demonstrated) CozyClay npm run verify:capture on this host reached a live editor then timed out on capture_frame (isError: Live editor timed out running capture_frame). No 640x360 PNG receipt. — evidence: "verify-live-capture.mjs + google-chrome headless=new; assertion actual true / expected undefined. See cozyclay NOTES." [note]
 **Numbers.** AI video generation cost: 17 USD per 30s (post)
 **Recipe.** —
 **Techniques.** —
