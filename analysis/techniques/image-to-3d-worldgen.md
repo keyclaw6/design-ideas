@@ -14,4 +14,6 @@ One image, panorama, or text prompt → navigable world or posed assets.
 Owner subject: `image-to-3d-world`. Referenced by 5 item(s): x-2088240171565412733, x-2088299905324396589, x-2091748299975880994, x-2094864872853119216, x-2095437841958314100.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — Lumera project page re-fetch.** `GET https://haidilao0328.github.io/Lumera/` **200 / 1,087 B**. Title **Lumera | Engine-Native Editable 3D World Reconstruction**. Meta names object instances, meshes, parametric lights, HDR probes from one image. Still a JS shell. Code/weights missing. Receipt `lumera-project-page-2026-09-04.json`.
 <!-- NOTES:END -->

@@ -1,0 +1,27 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "url": "https://studio.dashboardstack.sh",
+  "http": 200,
+  "bytes": 103784,
+  "title": "Carousel Studio",
+  "description": "Create beautiful carousels from your screen. Upload a screenshot, pan across the product, and export numbered frames.",
+  "h1": "Carousel studio",
+  "named_ui": [
+    "Recipe",
+    "Screenshot",
+    "Pan run",
+    "Slides",
+    "Canvas",
+    "Layout template",
+    "Copy",
+    "Use via MCP"
+  ],
+  "layout_templates_seen": [
+    "Wide pan + reveal",
+    "Blank",
+    "Cover",
+    "Slices"
+  ],
+  "canvas_hint": "1600 \u00d7 1200 \u00b7 4:3",
+  "note": "Saved in this browser. Desktop-first. OSS repo still not linked from the live studio."
+}

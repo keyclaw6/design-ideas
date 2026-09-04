@@ -23,4 +23,6 @@ Agent or MCP builds a Blender/Unreal blockout and authors a camera path before a
 Owner subject: `blockout-to-video-flythrough`. Referenced by 14 item(s): github-scottstts-threejs-awesome-graphics-agent-skills, note-blender-minimax-h3-video-generation, x-2065843739340509693, x-2087565352372723955, x-2091497597743612379, x-2091913781236683162, x-2092008677834387672, x-2092255768770920506….
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — npaka CLI vs MCP note.** `GET https://note.com/npaka/n/n7f7531e7b9ed` **200 / 356,114 B** (2026-09-03). Title **AIでBlenderを操作する方法 - CLIとMCPの使い分け**. CLI generates Blender Python and runs from the command line (`blender scene.blend --background --python script.py`). MCP attaches to a running Blender and inspects state. CLI = batch/auto; MCP = dialogue. Combine: CLI base scene → MCP tweak → CLI batch export. Names Codex and Claude Code. Receipt `npaka-blender-cli-mcp-2026-09-04.json`.
 <!-- NOTES:END -->

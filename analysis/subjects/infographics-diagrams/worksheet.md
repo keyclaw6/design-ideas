@@ -22,8 +22,8 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 | system-atlas | isometric map | one data file | skill | bound to that file | n/a |
 | FleetingBits | explorable diagram | unknown | technique | inspectable dots claimed | n/a |
 | canvas worker | in-chat canvas | unknown | harness add-on | unknown | n/a |
-| iCraft | 3D network | product look | editor | static-ish | n/a |
-| Dashboard Stack | IG/LI slides | studio presets | hosted + OSS soon | static slides | high |
+| iCraft | 3D network (GitHub **1,535★ / 128** forks; icraft.design live) | product look | editor (Free/Pro/Enterprise named) | static-ish | n/a |
+| Dashboard Stack | IG/LI slides | studio presets (Wide pan + reveal, Blank, Cover, Slices) | hosted + **Use via MCP**; OSS still unlinked | static slides | high (1600×1200 4:3) |
 | PRYNE stills | raster heroes | brand purple | example | static | mid |
 | Emil accent graphs | markdown | one accent | taste rule | mermaid-ish | n/a |
 | DuckDB viz endorsement | SQL-native | none | reference | high | n/a |
@@ -34,7 +34,7 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 - AntV “~200” — README bundles templates + items + layouts. Named `registerTemplate` ids sum **137** ([antv-infographic](../../tools/antv-infographic.md)).
 - Flint compiles to Vega, ECharts, *and* Plotly — local `assembleVegaLite` + `assembleECharts` ran on the getting-started spec. Plotly/Excel assemblers not exercised. Hosted `render_chart` enum omits Plotly. See [flint-chart-mcp](../../tools/flint-chart-mcp.md).
 - archify “verifiable” diagrams — need what is verified (nodes vs runtime).
-- Dashboard Stack “OSS repo soon” — not in this bank yet.
+- Dashboard Stack “OSS repo soon” — studio is live (`studio.dashboardstack.sh` **103,784 B**, MCP mentioned); repo still unlinked ([dashboard-stack](../../tools/dashboard-stack.md)).
 - PRYNE “minutes” — same stills already used as a prompt-gallery example; do not double-count as a diagram system.
 
 ## infographics-diagrams — do not treat as load-bearing
@@ -47,4 +47,4 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 
 1. AntV SSR fixture + Diagram Design architecture HTML token notes are on the tool pages. Remaining: a *fresh* agent-emitted SVG (not the repo fixture) if someone reruns the skill.
 2. Flint `assemblePlotly` (1 scatter trace) and hosted `render_chart` vegalite **SVG 17,393 B / PNG 23,944 B** are on [flint-chart-mcp](../../tools/flint-chart-mcp.md). `render_chart` still has no Plotly/Excel backend.
-3. Ignore carousel studio until the promised repo exists.
+3. Carousel studio is live (screenshot → pan → numbered frames; MCP named). Remaining: the promised OSS repo.

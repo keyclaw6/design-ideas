@@ -9,4 +9,6 @@
 Fetched 2026-09-04. Card thread is still `failed` (0 replies). Author @tamrrat is a Mint.gg cofounder.
 
 https://mint.gg is **AI 3D creation** (models, asset packs, materials, worlds) plus a remote **Mint MCP** (browse / generate / post-process / GLB artifacts). It is **not** a documented “3D camera control for video generation” product on the pages fetched. Do not treat mint.gg as a Blender-replacement camera stage until a Studio URL with a camera path export is captured. Compare with CozyClay / Magnific / MiniMax 3D Director on the blockout worksheet.
+
+**2026-09-04 t.co resolve.** Quoted tweet “Live now here!” `https://t.co/kfmFB5sFWU` → **https://mint.gg/** (200). Other t.co on the quoted tweets resolve back to X statuses. Receipt `mint-tco-live-2026-09-04.json`.
 <!-- NOTES:END -->

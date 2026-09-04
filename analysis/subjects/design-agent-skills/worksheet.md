@@ -25,7 +25,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 | Google DESIGN.md | spec + CLI | high (the spec) | lint/diff, not taste | n/a | only if the agent reads it |
 | getdesign.md / Refero | catalogs | high (other people’s files) | low (you inherit their tokens) | n/a | mid (paste a file in) |
 | Sokosumi / Hyperbrowser | extractors | high (emit DESIGN.md) | low | remote browser stated | mid (clone tokens) |
-| Neuform | hosted builder | exports DESIGN.md | low | hosted preview | mid (HTML out) |
+| Neuform | hosted builder | exports DESIGN.md (meta) | low | hosted preview | live **6,499 B** SPA; no template names in HTML |
 | MengTo skills | installable | none | mid (capture→prompt) | video/HTML loop stated | unknown |
 | Opale essay | essay | “write your own SKILL.md” | n/a | n/a | method, not a pack |
 | AIDesigner MCP | remote MCP | brand-kit tools stated | low | in-editor sessions | stated clone of live HTML/CSS |
@@ -33,7 +33,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 | Orca / /human-review | annotate / local editor | none | n/a | high (spatial / visual) | mid (human in the loop) |
 | SceneAI / motionsites | dump | none | low | preview pages | low (prompt paste) |
 | /unlazy + ponytail | installable | none | mid | unknown | one field report |
-| Aura.build | hosted builder | none captured | unknown | hosted | capture is meta-only |
+| Aura.build | hosted builder | none captured | unknown | hosted | live **7,737 B** SPA; meta **189,000** users + HTML/Figma |
 | Fable 5.1 praise tweet | model, not a skill | n/a | n/a | n/a | one-shot claim, no repo |
 
 ## design-agent-skills — claims that need a receipt
@@ -50,7 +50,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — do not treat as load-bearing
 
-- Aura.build — meta capture, no generated HTML in-repo.
+- Aura.build — live **7,737 B** SPA shell; **189,000** users is meta-only; no generated HTML in-repo.
 - skills.sh “top 10 anti-slop” list ([x-2090834948332655011](../../items/x-2090834948332655011/card.md)) — community ranking, not a bake-off.
 - Matt Pocock 25-skill tour — harness-adjacent; only the design-relevant subset belongs here.
 - pdfcn — PDF kit, not a design skill.
@@ -60,7 +60,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 ## design-agent-skills — next capture work
 
 1. 61-id list + desktop URL detects + **mobile 390x844** (fixture 20 / blume 85 / frontal 138) are on [impeccable](../../tools/impeccable.md). Single-URL `networkidle0` still times out on nateherk / complete-shelf. Official **two-URL** path (`waitUntil: load`): stock npx nateherk+example **15** findings (12+3), exit 2; local debug **16** (13+3); local complete-shelf+example **35** (32+3). Remaining: do not treat 4.2.0 as the 4.1 card.
-2. Refero Linear / Notion / Stripe records are JSON `designSystem` blobs (81,180 / 68,148 / 70,976 B), not DESIGN.md files ([styles-refero-design](../../tools/styles-refero-design.md)). Sokosumi unauthed `POST /api/design-md` works: example.com job **1940** in 43.6 s (12,675 B, `source=llm`); gallery **1,211** llm rows; Linear/Stripe/Notion published YAML have **47** color keys. Same-brand overlap with Refero: Linear surface `#08090a`, Notion `#0075de`, Stripe `#533afd`. Linear CTA diverges (`#e5e5e6` vs Refero `#e4f222`). Hyperbrowser `POST /api/generate` is still **401** ([sokosumi-design-md](../../tools/sokosumi-design-md.md)). Remaining: a keyed Hyperbrowser extract of the same two URLs.
+2. Refero Linear / Notion / Stripe records are JSON `designSystem` blobs (81,180 / 68,148 / 70,976 B), not DESIGN.md files ([styles-refero-design](../../tools/styles-refero-design.md)). Sokosumi unauthed `POST /api/design-md` works: example.com job **1940** in 43.6 s (12,675 B, `source=llm`); gallery **1,211** llm rows; Linear/Stripe/Notion published YAML have **47** color keys. Same-brand overlap with Refero: Linear surface `#08090a`, Notion `#0075de`, Stripe `#533afd`. Linear CTA diverges (`#e5e5e6` vs Refero `#e4f222`). Hyperbrowser homepage is a **5,659 B** “Booting DESIGNMD” shell; `POST /api/generate` is still **401** ([sokosumi-design-md](../../tools/sokosumi-design-md.md), [design-md-contract](../../techniques/design-md-contract.md)). Remaining: a keyed Hyperbrowser extract of the same two URLs.
 3. AIDesigner names are on the marketing page (**22** titles vs “Twenty-one tools”). Evening re-fetch still 200; unauthed `initialize` is **401** `OAuth access token required` ([aidesigner-mcp](../../tools/aidesigner-mcp.md)). Remaining: an authed `tools/list`.
 4. Re-fetch `x-2093669411685110141` and the blocked designmd.me / designmd.supply hosts. Neighbor **designmd.app** homepage says **562** files; `/library` title says **561**; sitemap-0.xml is **198** locs (**74** library slugs, **35** brand slugs). Do not collapse those. Originkit MCP hello: **4** tools, registry **461** (not the 468 RSC slugs).
 5. OpenDesign GitHub **94,085** stars / Apache-2.0; README 277 vs 0.8.0 **261** plugins — do not collapse ([open-design](../../tools/open-design.md)). Product site 200. Card is now `ready`.

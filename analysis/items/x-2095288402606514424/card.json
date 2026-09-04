@@ -40,6 +40,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2095288402606514424#c2",
+      "text": "Live GET https://note.com/npaka/n/n7f7531e7b9ed is 200 / 356,114 B (2026-09-03). Title AIでBlenderを操作する方法 - CLIとMCPの使い分け. CLI generates Blender Python and runs from the command line (blender scene.blend --background --python script.py). MCP attaches to a running Blender and inspects state. CLI = batch/auto; MCP = dialogue. Combine: CLI base scene, MCP tweak, CLI batch export. Names Codex and Claude Code.",
+      "kind": "recipe",
+      "evidence": "analysis/_work/captures/npaka-blender-cli-mcp-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/blender-blockout-camera.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
@@ -71,8 +81,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "translation-needed",
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [

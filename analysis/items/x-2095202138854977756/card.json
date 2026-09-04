@@ -51,6 +51,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2095202138854977756#c3",
+      "text": "Live GET https://lightreel.ai is 200 / 68,837 B (lightreelai.com and www.lightreelai.com 301 to the same). Title LightReel: Your AI UGC Marketing Researcher. H1 the first AI that doomscrolls. Meta: 10,000 TikToks added daily. Marketing: Trusted by 4,000+ brands; 3-day free trial. Product is a UGC researcher / creator-strategy agent. 160,000 TikTok views/day is not on this page.",
+      "kind": "counter-claim",
+      "evidence": "analysis/_work/captures/lightreel-ai-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/lightreelai.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
@@ -108,7 +118,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],

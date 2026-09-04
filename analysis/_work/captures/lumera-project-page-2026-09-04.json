@@ -1,0 +1,9 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "url": "https://haidilao0328.github.io/Lumera/",
+  "http": 200,
+  "bytes": 1087,
+  "title": "Lumera | Engine-Native Editable 3D World Reconstruction",
+  "description": "Lumera parses engine-native editable 3D scenes with object instances, meshes, parametric lights, and HDR environment probes from a single image.",
+  "note": "1,087 B JS shell. Code/weights still missing."
+}

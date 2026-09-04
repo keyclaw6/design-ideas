@@ -24,14 +24,15 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 | ComfyUI + H3 | high | high (blockout motion + still) | mid (graph, not MCP) | mid | MiniMax H3 |
 | Unreal MCP CineCamera | high (Level Sequence) | unknown (engine shot, not always a video model) | high | mid (one demo) | Unreal render or later model |
 | CozyClay | mid (browser previs) | low (previs only) | high (MCP) | high (iterate before pay) | whatever you send next |
-| Mint / Intangible | high (browser 3D cam) | unknown | low–mid | unknown | their renderer |
+| Mint / Intangible | Intangible live: compose cameras + **MCP Beta**; Mint live URL is **mint.gg** (assets + MCP, not a path exporter) | unknown | Intangible MCP Beta; Mint MCP is asset pipeline | unknown | their renderer |
 | MiniMax 3D Director | high | mid (H3 still drifts) | low | mid | H3 |
 | Magnific 3D Motion | high | high (export → Seedance 2.5) | low | mid | Seedance 2.5 |
 | kitchen / alchemist MCP builds | high (Blender world) | n/a (they stop at the scene) | high | unknown | none — these are worlds, not spots |
 
 ## blockout-to-video-flythrough — claims that need a receipt
 
-- Mint Studio “browser 3D camera for video” — thread failed. Author’s live product **mint.gg** is a 3D-asset + MCP pipeline, not a documented camera-path exporter ([mint-studio](../../tools/mint-studio.md)).
+- Mint Studio “browser 3D camera for video” — thread failed. “Live now here!” `t.co/kfmFB5sFWU` → **mint.gg**. That site is a 3D-asset + MCP pipeline, not a documented camera-path exporter ([mint-studio](../../tools/mint-studio.md)).
+- npaka CLI vs MCP note is live ([blender-blockout-camera](../../techniques/blender-blockout-camera.md)): CLI = `blender … --background --python`; MCP = running-Blender dialogue. Combine CLI → MCP → CLI.
 - Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read). Official Seedance 2.0 page claims image/audio/video reference including camera movement ([seedance](../../tools/seedance.md)); the cafe `.blend` is still not in this bank.
 - MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage.
 - CozyClay $17/30s miss — useful cost signal. **MCP verified** on this host: **25** tools (`load_motion` is the extra vs README 24), 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip. AGPL-3.0 ([cozyclay](../../tools/cozyclay.md)).
@@ -41,7 +42,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 ## blockout-to-video-flythrough — do not treat as load-bearing
 
 - Ponyo timelapse and Eyecannndy bookmarks — camera *taste*, not a pipeline.
-- npaka CLI-vs-MCP note — operations, not a shot recipe.
+- npaka CLI-vs-MCP note — operations (CLI batch vs MCP dialogue), not a camera-path recipe. Body now fetched.
 - Codex rigid-body desk clip — Blender via Python, no video model.
 
 ## blockout-to-video-flythrough — next capture work
@@ -49,4 +50,5 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file).
 2. CozyClay `mcp` verify (25 tools, 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip) is on [cozyclay](../../tools/cozyclay.md). Stock `verify:capture` timed out at 5 s. With SwiftShader flags + 30 s timeout it passed: **640×360** PNG, **230,400** non-black pixels, five on-camera views, cube occluder 0→7168. Banked `analysis/_work/captures/cozyclay-capture/artifact-640x360.png` (**93,730** B). Remaining: a GPU (non-SwiftShader) capture, and the same-blockout Seedance vs 3D Director pass.
 3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
-4. Do not expand this lane with more model-launch tweets.
+4. Intangible homepage is live (**130,479 B**, MCP Beta, no Blender string). Mint “Live now” t.co → mint.gg. Remaining: a downloadable camera-path from either host.
+5. Do not expand this lane with more model-launch tweets.

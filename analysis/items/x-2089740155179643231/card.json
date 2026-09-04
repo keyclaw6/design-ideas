@@ -42,6 +42,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089740155179643231#c2",
+      "text": "Live https://23rd.dev/docs is 200 / 73,453 B (home redirects to /docs). Title 23rd — Opinionated UI components for shippers. Docs nav names 10 items (Radiant Lines, ASCII Fluid, Shader Gradient, Shader Fire, Tangle Footer, Stretchy Footer, Live Orb, ASCII Logo, Dithered 404, Gooey Color Picker). Install via shadcn CLI for React or Svelte 5. GitHub radiumcoders/23rd.dev is 68 stars / 0 forks. Do not collapse GitHub framework-agnostic copy with the React-or-Svelte docs. /r and /registry.json 404.",
+      "kind": "result",
+      "evidence": "analysis/_work/captures/23rd-dev-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/23rd-dev.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
@@ -80,7 +90,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [

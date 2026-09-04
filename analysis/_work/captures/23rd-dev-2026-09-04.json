@@ -1,0 +1,29 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "docs_url": "https://23rd.dev/docs",
+  "docs_http": 200,
+  "docs_bytes": 73453,
+  "docs_title": "23rd \u2014 Opinionated UI components for shippers",
+  "docs_nav_items": [
+    "Radiant Lines",
+    "ASCII Fluid",
+    "Shader Gradient",
+    "Shader Fire",
+    "Tangle Footer",
+    "Stretchy Footer",
+    "Live Orb",
+    "ASCII Logo",
+    "Dithered 404",
+    "Gooey Color Picker"
+  ],
+  "docs_nav_count": 10,
+  "cli": "shadcn CLI; React or Svelte 5",
+  "github": {
+    "full_name": "radiumcoders/23rd.dev",
+    "stars": 68,
+    "forks": 0,
+    "description": "Opinionated UI Components for shippers. An open source library of tasteful Web components. Framework agnostic. Copy, paste, ship.",
+    "homepage": "https://23rd.dev"
+  },
+  "note": "Do not collapse GitHub 'framework agnostic' with docs 'React or Svelte 5'. /r and /registry.json 404."
+}

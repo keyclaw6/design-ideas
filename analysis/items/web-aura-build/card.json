@@ -39,6 +39,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-aura-build#c2",
+      "text": "Live GET https://www.aura.build/ is 200 / 7,737 B. Title Aura – AI Website Builder. Meta says export to HTML & Figma and Trusted by 189,000 users worldwide. HTML is a SPA shell — no template names in this fetch.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/aura-build-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/prompt-to-html-landing.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -71,10 +81,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "web-neuform-ai",

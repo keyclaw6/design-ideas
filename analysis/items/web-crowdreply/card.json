@@ -12,9 +12,7 @@
   "tools": [
     "crowdreply-mcp"
   ],
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
@@ -79,6 +77,16 @@
       "evidence_ref": "analysis/tools/crowdreply-mcp.md",
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-crowdreply#c4",
+      "text": "Live GET https://crowdreply.io is 200 / 1,136,240 B. Title quotes CrowdReply: The #1 AI Search Visibility Tool (source ranking language). Visible marketing: Engagement Engine; AI Backlinks Marketplace of 40,000+ publishers; Trusted by 5,000+ brands; 7 day free trial; AI Visibility Score. 4%→40% / 11 weeks is still not on this homepage.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/crowdreply-home-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/crowdreply-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "links": {
@@ -110,5 +118,5 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps"
+  "readiness": "ready"
 }

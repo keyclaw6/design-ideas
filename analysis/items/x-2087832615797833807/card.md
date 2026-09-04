@@ -2,7 +2,7 @@
 
 `x-2087832615797833807` · x · product · en · [source](https://x.com/rammcodes/status/2087832615797833807) · [raw](../../../raw/items/x-2087832615797833807/)
 **Author:** rammcodes (@rammcodes) · **Published:** — · **Captured:** 2026-09-04T07:36:40Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [landing-ui-motion](../../subjects/landing-ui-motion/brief.md) · **Also:** — · **Roles:** reference, tool · **Platforms:** react
 
 **Summary.** Amplifier post for beautifului.dev, a component library covering thinking states, streaming text, approval cards, tool chips, task rows, chat, prompt bars, context cards, and diff tables for AI-native app UIs.
@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2087832615797833807#c1` (capability, stated) beautifului.dev ships components for thinking states, streaming text, approval cards, tool chips, and diff tables. — evidence: "Thinking states, streaming text, approval cards, tool chips, task rows, chat, prompt bars, context cards, diff tables, and more." [post]
+- `x-2087832615797833807#c2` (result, demonstrated) Live GET https://www.beautifului.dev/ is 200 / 649,689 B. Title Beautiful UI — Crafted primitives for AI-native interfaces. Homepage names 21 components: Loading State, Thinking, Streaming Text, Approval Card, Tool Chips, Task Rows, Chat, Prompt Bar, Recommendation Card, Context Cards, Diff Table, Records Table, Filter Table, Sidebar Nav, Search, Flowchart, Insight Cards, Code Block, Fine-tune Card, Selection Actions, Agent Screen. /r 404. — evidence: "analysis/_work/captures/beautifului-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

@@ -2,7 +2,7 @@
 
 `x-2091767461058105402` · x · product · en · [source](https://x.com/DennisAdriaans/status/2091767461058105402) · [raw](../../../raw/items/x-2091767461058105402/)
 **Author:** — (@DennisAdriaans) · **Published:** — · **Captured:** 2026-09-04T06:52:48Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [infographics-diagrams](../../subjects/infographics-diagrams/brief.md) · **Also:** — · **Roles:** tool, example · **Platforms:** browser, other
 
 **Summary.** Launch post for studio.dashboardstack.sh: a carousel builder for Instagram and LinkedIn slides, with an open-source repo promised soon and an explicit engagement-farming pitch for social posts.
@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091767461058105402#c1` (availability, stated) Dashboard Stack studio is live for creating Instagram and LinkedIn carousels. — evidence: "and it is live; Instagram + LinkedIn carousels" [post]
 - `x-2091767461058105402#c2` (availability, stated) Author says an open-source repo will be available soon for the carousel studio. — evidence: "open source repo soon available" [post]
+- `x-2091767461058105402#c3` (capability, demonstrated) Live GET https://studio.dashboardstack.sh is 200 / 103,784 B. Title Carousel Studio. UI names Recipe, Screenshot, Pan run, Slides, Canvas, Layout template, Copy, and Use via MCP. Templates seen: Wide pan + reveal, Blank, Cover, Slices. Canvas hint 1600×1200 4:3. Saved in this browser. OSS repo still not linked. — evidence: "analysis/_work/captures/dashboard-studio-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

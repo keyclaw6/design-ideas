@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2087832615797833807#c2",
+      "text": "Live GET https://www.beautifului.dev/ is 200 / 649,689 B. Title Beautiful UI — Crafted primitives for AI-native interfaces. Homepage names 21 components: Loading State, Thinking, Streaming Text, Approval Card, Tool Chips, Task Rows, Chat, Prompt Bar, Recommendation Card, Context Cards, Diff Table, Records Table, Filter Table, Sidebar Nav, Search, Flowchart, Insight Cards, Code Block, Fine-tune Card, Selection Actions, Agent Screen. /r 404.",
+      "kind": "result",
+      "evidence": "analysis/_work/captures/beautifului-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/shadcn-component-kit.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
@@ -71,10 +81,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "web-cult-ui",

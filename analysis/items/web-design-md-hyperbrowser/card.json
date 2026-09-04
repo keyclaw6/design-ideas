@@ -32,6 +32,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-design-md-hyperbrowser#c2",
+      "text": "Live GET https://design-md.hyperbrowser.ai/ is 200 / 5,659 B. Title DESIGNMD. Meta: Extract a DESIGN.md from any website. Following Google's open standard. Visible body is Booting DESIGNMD — SPA boot shell, no extract in this fetch.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/design-md-hyperbrowser-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/design-md-contract.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -65,10 +75,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,

@@ -13,4 +13,6 @@ YouTube/TikTok pipelines that regenerate audio or picture without an on-camera t
 Owner subject: `ai-video-generation`. Referenced by 4 item(s): web-utsubo, x-2093481253043380418, x-2095202138854977756, x-2095427702325231977.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — LightReel is a UGC researcher.** `GET https://lightreel.ai` **200 / 68,837 B**. Title **Your AI UGC Marketing Researcher**. Meta **10,000 TikToks added daily**; marketing **4,000+** brands. **160k views/day is not on this page.** See [lightreelai](../tools/lightreelai.md).
 <!-- NOTES:END -->

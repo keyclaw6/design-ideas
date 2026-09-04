@@ -2,7 +2,7 @@
 
 `x-2089570022490263586` · x · repo · en · [source](https://x.com/tom_doerr/status/2089570022490263586) · [raw](../../../raw/items/x-2089570022490263586/)
 **Author:** @tom_doerr (@tom_doerr) · **Published:** — · **Captured:** 2026-09-04T07:01:47Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [infographics-diagrams](../../subjects/infographics-diagrams/brief.md) · **Also:** [web-3d-scenes](../../subjects/web-3d-scenes/brief.md) · **Roles:** tool, reference · **Platforms:** three-js
 
 **Summary.** Pointer to gantFDT/icraft iCraft Editor for 3D network and architecture diagrams with immersive visual effects—positioned between 2D infographic kits and full Three.js scenes for infra maps on marketing sites.
@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2089570022490263586#c1` (capability, stated) iCraft Editor targets 3D network architecture diagrams with immersive visual effects. — evidence: "iCraft Editor designs 3D network architecture diagrams with immersive visual effects." [post]
+- `x-2089570022490263586#c2` (result, demonstrated) GitHub gantFDT/icraft is 1,535 stars / 128 forks; description iCraft Editor - Help you easily create excellent 3D architecture diagrams; license NOASSERTION; homepage https://icraft.design. Live GET icraft.design is 200 / 105,213 B. Title iCraft Editor - The Easiest 3D Design Tool. Ever. H1 A 3D Scene Design Platform for Everyone. Plans named Free / Pro / Enterprise. — evidence: "analysis/_work/captures/icraft-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

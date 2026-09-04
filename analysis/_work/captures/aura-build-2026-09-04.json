@@ -1,0 +1,9 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "url": "https://www.aura.build/",
+  "http": 200,
+  "bytes": 7737,
+  "title": "Aura \u2013 AI Website Builder",
+  "description": "AI landing page builder that creates stunning designs in seconds. No design skills needed. Export to HTML & Figma. Trusted by 189,000 users worldwide.",
+  "note": "SPA shell. No client-rendered template names in HTML. 189,000 is meta-only."
+}

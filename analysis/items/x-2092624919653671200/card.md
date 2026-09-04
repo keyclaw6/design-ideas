@@ -2,7 +2,7 @@
 
 `x-2092624919653671200` · x · opinion · en · [source](https://x.com/bedesqui/status/2092624919653671200) · [raw](../../../raw/items/x-2092624919653671200/)
 **Author:** bedesqui (@bedesqui) · **Published:** — · **Captured:** 2026-09-04T07:32:03Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [landing-ui-motion](../../subjects/landing-ui-motion/brief.md) · **Also:** — · **Roles:** reference, example · **Platforms:** —
 
 **Summary.** Short X appreciation post pointing at doss.com as an illustration-heavy ERP marketing landing; the author praises the visuals while admitting unfamiliarity with ERP products.
@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2092624919653671200#c1` (opinion, stated) The post highlights doss.com as a website whose illustrations look notably polished. — evidence: "idk what an ERP is, but god those illustrations look nice" [post]
+- `x-2092624919653671200#c2` (availability, demonstrated) Live GET https://www.doss.com/ is 200 / 211,087 B. Title DOSS | Adaptive ERP and Operations Cloud. H1 The AI-Native Operating System for Consumer Goods. This is a product landing, not an illustration kit. — evidence: "analysis/_work/captures/doss-com-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

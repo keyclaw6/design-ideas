@@ -26,7 +26,7 @@ Scores are `high` / `mid` / `low` / `unknown` against the brief axes. `unknown` 
 | TinyLaunch directories | mid (~10 days) | high | low | low | low | stated DR-band guarantee |
 | Sami 15 directories | mid (48h claim) | low | low | low | low | stated; full sheet DM-gated |
 | free one-page tools (Bing) | low (weeks of flat metrics) | low | mid (Bing WM) | low | mid (you ship HTML) | stated 1.01M impressions |
-| CrowdReply | unknown | high | low | high | high (MCP) | **18 named tools** on /mcp (2026-09-04); 4%→40% still a quoted article (403) |
+| CrowdReply | unknown | high | low | high | high (MCP) | homepage **1,136,240 B**; marketplace **40,000+** publishers / **5,000+** brands; MCP docs **58** snake ids vs **18**-row table; 4%→40% still missing |
 | nqz.ai prompt generator | n/a (research aid) | low | low | high | low | stated 4×3 prompts, 10/hour |
 | llms.txt nudge | mid (fetch rate, not rank) | low | n/a | high | low | stated 10/10; screenshot only |
 | press-wire unbranded Qs | mid (weeks) | mid (wire fees) | low | high | low | stated 108 citations / +21% |
@@ -55,7 +55,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 
 ## serp-ai-visibility — next capture work
 
-1. CrowdReply `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap, not 4%→40% / 11 weeks ([crowdreply-mcp](../../tools/crowdreply-mcp.md)). Remaining: a keyed session and the X article body.
+1. CrowdReply homepage is live (**1,136,240 B**; quote-only “#1”). Marketplace **40,000+** publishers / **5,000+** brands. `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap, not 4%→40% / 11 weeks ([crowdreply-mcp](../../tools/crowdreply-mcp.md)). Remaining: a keyed session and the X article body.
 2. Shimanski tool URLs from the must-read card are live (200) but several are now platforms/extensions, not one-job pages ([serp-keyword-research](../../techniques/serp-keyword-research.md)). TurjoAt `t.co/cTa5Jep0AT` **301 → aiedit.com** (100+ models / 15+ tools platform). Thread still 26/3.
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.

@@ -1,0 +1,33 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "url": "https://www.beautifului.dev/",
+  "http": 200,
+  "bytes": 649689,
+  "title": "Beautiful UI \u2014 Crafted primitives for AI-native interfaces",
+  "h1": "Beautiful UI for AI-native interfaces.",
+  "named_components": [
+    "Loading State",
+    "Thinking",
+    "Streaming Text",
+    "Approval Card",
+    "Tool Chips",
+    "Task Rows",
+    "Chat",
+    "Prompt Bar",
+    "Recommendation Card",
+    "Context Cards",
+    "Diff Table",
+    "Records Table",
+    "Filter Table",
+    "Sidebar Nav",
+    "Search",
+    "Flowchart",
+    "Insight Cards",
+    "Code Block",
+    "Fine-tune Card",
+    "Selection Actions",
+    "Agent Screen"
+  ],
+  "named_component_count": 21,
+  "note": "/r 404. Copy-paste kit, not a registry JSON in this fetch."
+}

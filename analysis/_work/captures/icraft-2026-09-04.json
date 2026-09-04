@@ -1,0 +1,23 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "github": {
+    "full_name": "gantFDT/icraft",
+    "stars": 1535,
+    "forks": 128,
+    "description": "iCraft Editor - Help you easily create excellent 3D architecture diagrams",
+    "license": "NOASSERTION",
+    "homepage": "https://icraft.design"
+  },
+  "product": {
+    "url": "https://icraft.design",
+    "http": 200,
+    "bytes": 105213,
+    "title": "iCraft Editor - The Easiest 3D Design Tool. Ever. \u2013 iCraft Editor",
+    "h1": "A 3D Scene Design Platform for Everyone",
+    "plans_named": [
+      "Free",
+      "Pro",
+      "Enterprise"
+    ]
+  }
+}

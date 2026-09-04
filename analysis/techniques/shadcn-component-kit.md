@@ -14,4 +14,6 @@ Install or copy shadcn-compatible components and keep naming stable for agents.
 Owner subject: `design-agent-skills`. Referenced by 5 item(s): web-cult-ui, x-2089263766428950683, x-2089740155179643231, x-2091689598883934666, x-2094524951025914278.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — 23rd.dev + Beautiful UI.** 23rd docs **10** named nav items; GitHub **68★ / 0** forks; `/registry.json` 404 ([23rd-dev](../tools/23rd-dev.md)). Beautiful UI live **21** named homepage components; **649,689 B**; `/r` 404. Receipts `23rd-dev-2026-09-04.json`, `beautifului-2026-09-04.json`.
 <!-- NOTES:END -->

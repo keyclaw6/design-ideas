@@ -1,0 +1,18 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "url": "https://note.com/npaka/n/n7f7531e7b9ed",
+  "http": 200,
+  "bytes": 356114,
+  "title": "AI\u3067Blender\u3092\u64cd\u4f5c\u3059\u308b\u65b9\u6cd5 - CLI\u3068MCP\u306e\u4f7f\u3044\u5206\u3051\uff5cnpaka",
+  "published": "2026-09-03",
+  "h2": [
+    "1. \u306f\u3058\u3081\u306b",
+    "2. Blender CLI",
+    "3. Blender MCP",
+    "4. Blender CLI \u3068 Blender MCP\u306e\u9055\u3044",
+    "5. \u78ba\u8a8d\u65b9\u6cd5\u306e\u9055\u3044",
+    "6. CLI \u3068 MCP \u3092\u7d44\u307f\u5408\u308f\u305b\u308b",
+    "7. \u3069\u3061\u3089\u3092\u4f7f\u3048\u3070\u3088\u3044\u304b"
+  ],
+  "split": "CLI generates Blender Python and runs from the command line (example blender scene.blend --background --python script.py). MCP attaches to a running Blender and inspects state interactively. CLI = batch/auto; MCP = dialogue. Combine: CLI base scene, MCP tweak, CLI batch export. Names Codex and Claude Code."
+}

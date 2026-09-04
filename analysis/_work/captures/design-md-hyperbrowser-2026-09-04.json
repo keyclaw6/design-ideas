@@ -1,0 +1,10 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "url": "https://design-md.hyperbrowser.ai/",
+  "http": 200,
+  "bytes": 5659,
+  "title": "DESIGNMD",
+  "description": "Extract a DESIGN.md from any website. Following Google's open standard.",
+  "visible_body": "Booting DESIGNMD",
+  "note": "SPA boot shell. No extract in this fetch. POST /api/generate remains 401 from prior notes."
+}

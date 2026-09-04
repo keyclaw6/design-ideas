@@ -2,7 +2,7 @@
 
 `web-design-md-hyperbrowser` · website · product · en · [source](https://design-md.hyperbrowser.ai) · [raw](../../../raw/items/web-design-md-hyperbrowser/)
 **Author:** Hyperbrowser (@hyperbrowser) · **Published:** — · **Captured:** 2026-09-02T17:42:00Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Also:** [mcp-and-agent-browsers](../../subjects/mcp-and-agent-browsers/brief.md) · **Roles:** tool · **Platforms:** browser, mcp
 
 **Summary.** design-md.hyperbrowser.ai is a web extractor that reads a live site via Hyperbrowser and emits a Google-format DESIGN.md; the API key is stored locally in the browser only.
@@ -10,6 +10,7 @@
 
 **Claims.**
 - `web-design-md-hyperbrowser#c1` (capability, stated) The tool follows Google's open DESIGN.md specification for token and prose output. — evidence: "Follows Google's open DESIGN.md standard." [linked-page]
+- `web-design-md-hyperbrowser#c2` (availability, demonstrated) Live GET https://design-md.hyperbrowser.ai/ is 200 / 5,659 B. Title DESIGNMD. Meta: Extract a DESIGN.md from any website. Following Google's open standard. Visible body is Booting DESIGNMD — SPA boot shell, no extract in this fetch. — evidence: "analysis/_work/captures/design-md-hyperbrowser-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

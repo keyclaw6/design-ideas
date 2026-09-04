@@ -2,7 +2,7 @@
 
 `web-aura-build` · website · product · en · [source](https://aura.build) · [raw](../../../raw/items/web-aura-build/)
 **Author:** Aura (@aura) · **Published:** — · **Captured:** 2026-09-02T17:42:00Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Also:** — · **Roles:** example, reference · **Platforms:** other
 
 **Summary.** Commercial SPA AI website builder that generates landing pages from prompts and exports to HTML and Figma; capture is meta-only because the client shell blocked full page fetch.
@@ -10,6 +10,7 @@
 
 **Claims.**
 - `web-aura-build#c1` (capability, stated) Aura positions as an AI landing builder with HTML and Figma export and no design skills required. — evidence: "Export to HTML and Figma." [linked-page]
+- `web-aura-build#c2` (availability, demonstrated) Live GET https://www.aura.build/ is 200 / 7,737 B. Title Aura – AI Website Builder. Meta says export to HTML & Figma and Trusted by 189,000 users worldwide. HTML is a SPA shell — no template names in this fetch. — evidence: "analysis/_work/captures/aura-build-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

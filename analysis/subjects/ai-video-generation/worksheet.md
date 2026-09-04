@@ -24,7 +24,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 | OpenStory | mid (script + style) | unknown | mid (cross-scene style) | unknown | unknown |
 | Calliope | mid (script→2D→VO) | VO claimed | 2D characters | unknown | faceless YT length unknown |
 | Higgsfield + Fable + Cursor | mid (design then animate) | unknown | unknown | mid | unknown |
-| LightReel 160k/day | unknown | unknown | unknown | unknown | view claim, not duration |
+| LightReel 160k/day | product is UGC researcher (10k TikToks/day meta) | unknown | unknown | 3-day trial stated | **160k/day not on lightreel.ai** |
 | Base44 / Intelligence Co breakdowns | craft, not a control | unknown | n/a | n/a | 52s clip on Base44 |
 | fal.ai | API routing | model-dependent | model-dependent | pay-per-call | catalog, not one number |
 | H3 unlimited on Runway | host quota | unknown | unknown | iteration volume | none |
@@ -34,7 +34,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 - Face-swap → Seedance identity lock — must-read recipe; need two scenes with the same face and a still that is not the first frame.
 - H3 Max 5s@480p in under 5s — host blog; re-time on a named prompt.
 - 7.5M / 4.6M launch-video views — attributed views, no property export.
-- LightReel 160k daily TikTok — unsupervised stack claim; no account ids.
+- LightReel 160k daily TikTok — unsupervised stack claim; no account ids. Live site is a UGC researcher (**10,000** TikToks/day, **4,000+** brands); 160k is not on the page ([lightreelai](../../tools/lightreelai.md)).
 - OpenStory / Calliope “finished video from a script” — product demos; no repo run in this bank.
 - H3 audio repair — Japanese field note; need the exact downscale and step counts.
 

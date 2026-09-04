@@ -41,6 +41,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2089570022490263586#c2",
+      "text": "GitHub gantFDT/icraft is 1,535 stars / 128 forks; description iCraft Editor - Help you easily create excellent 3D architecture diagrams; license NOASSERTION; homepage https://icraft.design. Live GET icraft.design is 200 / 105,213 B. Title iCraft Editor - The Easiest 3D Design Tool. Ever. H1 A 3D Scene Design Platform for Everyone. Plans named Free / Pro / Enterprise.",
+      "kind": "result",
+      "evidence": "analysis/_work/captures/icraft-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/subjects/infographics-diagrams/worksheet.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,
@@ -74,10 +84,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,

@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2091767461058105402#c3",
+      "text": "Live GET https://studio.dashboardstack.sh is 200 / 103,784 B. Title Carousel Studio. UI names Recipe, Screenshot, Pan run, Slides, Canvas, Layout template, Copy, and Use via MCP. Templates seen: Wide pan + reveal, Blank, Cover, Slices. Canvas hint 1600×1200 4:3. Saved in this browser. OSS repo still not linked.",
+      "kind": "capability",
+      "evidence": "analysis/_work/captures/dashboard-studio-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/dashboard-stack.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": [],
@@ -83,7 +93,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [

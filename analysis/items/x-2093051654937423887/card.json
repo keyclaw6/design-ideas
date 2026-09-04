@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093051654937423887#c3",
+      "text": "Author quoted tweet Live now here! t.co/kfmFB5sFWU resolves to https://mint.gg/ (200). Other t.co on the quoted tweets resolve back to X statuses. mint.gg remains a 3D-asset + MCP product, not a documented camera-path exporter.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/mint-tco-live-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mint-studio.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
@@ -79,7 +89,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-failed"
   ],
   "judge_hints": {
     "compare_with": [

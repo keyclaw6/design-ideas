@@ -19,4 +19,6 @@ A DESIGN.md (or Vision.md) file that compiles taste into a checkable contract.
 Owner subject: `design-agent-skills`. Referenced by 10 item(s): github-google-labs-code-design-md, github-nexu-io-open-design, github-pbakaus-impeccable, web-aidesigner-mcp, web-getdesign-md, web-neuform-ai, web-sokosumi-design-md, web-styles-refero-design….
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — Hyperbrowser DESIGNMD shell.** `GET https://design-md.hyperbrowser.ai/` **200 / 5,659 B**. Title **DESIGNMD**. Meta: Extract a DESIGN.md from any website. Following Google's open standard. Visible body **Booting DESIGNMD**. No extract in this fetch. Receipt `design-md-hyperbrowser-2026-09-04.json`.
 <!-- NOTES:END -->

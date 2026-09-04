@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2093937170717585657#c3",
+      "text": "Live GET https://haidilao0328.github.io/Lumera/ is 200 / 1,087 B. Title Lumera | Engine-Native Editable 3D World Reconstruction. Meta names object instances, meshes, parametric lights, and HDR environment probes from a single image. Page is a JS shell. Code/weights still missing.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/lumera-project-page-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/image-to-3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": [],
@@ -81,7 +91,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [

@@ -19,9 +19,9 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 | Cult UI | kit + agent-pattern gallery | hover / app chrome | npm / registry | high | unknown (OSS home 429; Pro CSS color-scheme only) |
 | Originkit | kit (homepage RSC **468** unique gallery slugs; MCP registry **461**; marketing said 363+) | mixed (text, bg, galleries) | MCP hello 4 tools (`list_components`…); `/pricing` Free $0 / Pro $79/yr / Studio $179/yr (metered copies) | React / Next | CSS bundle has max-width 1023 + min-width 640–1920 (21 blocks) |
 | Vengeance UI | kit (live **46 / 9 families**; registry.json **132** items) | hover + text motion | MIT registry; `/pricing` and `/pro` 404 | high | CSS bundle has min-width 640–1600 + hover/forced-colors (35 blocks) |
-| 23rd.dev | curated registry | shader / animated bg | shadcn add | React + Svelte | unknown |
+| 23rd.dev | curated registry (docs **10** named items; GitHub **68★**) | shader / animated bg | shadcn add (React or Svelte 5) | React + Svelte | unknown |
 | ReactBits Pro | kit (paid) | marketing motion | restyle primitives | React | unknown |
-| AICSS / beautifului | kit (agent UI) | micro / streaming | copy-paste | React implied | unknown |
+| AICSS / beautifului | kit (agent UI; Beautiful UI live **21** named components) | micro / streaming | copy-paste | React implied | unknown |
 | Blume.codes article | finished-page breakdown | seven-layer parallax + scroll-drawn | recipe, not a package | Next / Turborepo | unknown |
 | 300-frame scroll-scrub | finished technique | high (300 frames bound to scroll) | ChatGPT + Gemini + Ezgif + Claude | Framer Motion | unknown |
 | Cartier PDP | finished reference | luxury product motion | screenshot only | n/a | high (commerce PDP) |
@@ -56,4 +56,4 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 2. Pricing receipts are on [cult-ui](../../tools/cult-ui.md) (Cult Pro $129 lifetime; Originkit Free/Pro/Studio yearly; Vengeance no `/pricing`). Live heroes: Cult Pro “Shadcn blocks for marketing.”; Originkit title-only SSR; Vengeance “Next-Gen UI Interactions” / “Ship landing pages at lightspeed”. CSS **bundles** now counted: Originkit 21 `@media` / 11 queries (incl. max-width 1023); Vengeance 35 / 11 (incl. min-width 640–1600). Originkit MCP registry **461**. Cult OSS still 429. Remaining: a controlled same-copy hero built from one kit. Vengeance has no paid pricing column.
 3. Blume homepage first-party copy is on [blume-sidecar](../../tools/blume-sidecar.md). X article `2094493136743473152` body is now on [blume](../../tools/blume.md) via fxtwitter (8,070 chars; four named effects; 7 layers / 6 themes; week-long Codex `/goal`). Logged-out x.com / jina still fail. Card gap stays `thread-partial` (13/3).
 4. Re-fetch the failed landing-ui-motion thread listed in the brief.
-5. AICSS live `/r` is **14 / 10 free / 4 locked** ([aicss](../../tools/aicss.md)). unive.ai is an **admissions** product landing (title Unive - Your AI Admissions Team), not a design-system gallery.
+5. AICSS live `/r` is **14 / 10 free / 4 locked** ([aicss](../../tools/aicss.md)). Beautiful UI homepage names **21** components ([shadcn-component-kit](../../techniques/shadcn-component-kit.md)). 23rd.dev docs **10** nav items / GitHub **68★**; `/registry.json` 404. unive.ai is an **admissions** product landing (title Unive - Your AI Admissions Team), not a design-system gallery. doss.com live **211,087 B** ERP landing.

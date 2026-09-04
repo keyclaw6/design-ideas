@@ -1,0 +1,23 @@
+{
+  "fetched": "2026-09-04T23:55:00Z",
+  "url": "https://www.intangible.ai/",
+  "http": 200,
+  "bytes": 130479,
+  "title": "Intangible \u00b7 For creatives who direct the real world.",
+  "h1": "For creative work in the real world.",
+  "h3_quotes": [
+    "A familiar UX, not a maze of AI nodes and prompts.",
+    "No prompt roulette.",
+    "Control camera movement with"
+  ],
+  "nav": "Product Build create 3D sets / Compose cameras & animation / Visualize pro-quality renders / MCP Beta connect your agent",
+  "industries": [
+    "Advertising",
+    "Film",
+    "Retail",
+    "Events",
+    "Deeptech",
+    "Architecture"
+  ],
+  "note": "HTML has no Blender string. MCP is labeled Beta. No public camera-path file format in this fetch."
+}

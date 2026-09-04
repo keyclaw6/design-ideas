@@ -122,7 +122,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2092255768770920506#c1` | Workflow covers prompt blockout, camera move animation, manual adjustment, and fast reblocking. | stated | [Higgsfield in Blender: prompt blockou…](../../items/x-2092255768770920506/card.md) |
 | `x-2092255768770920506#c2` | Feature ships via Higgsfield MCP or Supercomputer. | stated | [Higgsfield in Blender: prompt blockou…](../../items/x-2092255768770920506/card.md) |
 
-Full set: claims.jsonl (35 rows)
+Full set: claims.jsonl (41 rows)
 
 ## blockout-to-video-flythrough — comparison axes
 

@@ -17,4 +17,6 @@ Score items that use this method on the owner brief's comparison axes. Do not tr
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
 **2026-09-04 capture — YouMind file counts (not a landing kit).** Unique prompt ids **14,965** vs manifest **15,508** vs category-file sum **22,466**. Neighbor MeiGen MCP file **1,446** prompts / 9 tools. See [nano-banana-pro-prompts-recommend](../tools/nano-banana-pro-prompts-recommend.md).
+
+**2026-09-04 capture — Aura / Neuform live shells.** Aura `GET https://www.aura.build/` **200 / 7,737 B**, meta **189,000** users + HTML/Figma export. Neuform `GET https://neuform.ai` **200 / 6,499 B**, meta names remix templates + DESIGN.md. Both are SPA shells — no generated HTML in this bank. Receipts `aura-build-2026-09-04.json`, `neuform-ai-2026-09-04.json`.
 <!-- NOTES:END -->

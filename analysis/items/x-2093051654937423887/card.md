@@ -2,7 +2,7 @@
 
 `x-2093051654937423887` · x · product · en · [source](https://x.com/tamrrat/status/2093051654937423887) · [raw](../../../raw/items/x-2093051654937423887/)
 **Author:** tamrat (@tamrrat) · **Published:** — · **Captured:** 2026-09-04T06:49:37Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
 **Subject:** [blockout-to-video-flythrough](../../subjects/blockout-to-video-flythrough/brief.md) · **Also:** — · **Roles:** tool, example · **Platforms:** browser
 
 **Summary.** Product announcement for Mint Studio, a browser tool offering full 3D camera control for AI video generation without requiring Blender as the camera-authoring stage.
@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2093051654937423887#c1` (capability, stated) Mint Studio advertises full 3D camera control for video generation directly in the browser. — evidence: "Full 3D camera control for video generation right in your browser!" [post]
 - `x-2093051654937423887#c2` (capability, stated) The announcement explicitly positions Mint Studio as not requiring Blender. — evidence: "No Blender required!" [post]
+- `x-2093051654937423887#c3` (availability, demonstrated) Author quoted tweet Live now here! t.co/kfmFB5sFWU resolves to https://mint.gg/ (200). Other t.co on the quoted tweets resolve back to X statuses. mint.gg remains a 3D-asset + MCP product, not a documented camera-path exporter. — evidence: "analysis/_work/captures/mint-tco-live-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

@@ -51,6 +51,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093380307735232543#c3",
+      "text": "Live GET https://www.intangible.ai/ is 200 / 130,479 B. Title Intangible · For creatives who direct the real world. Product nav: Build create 3D sets / Compose cameras & animation / Visualize pro-quality renders / MCP Beta connect your agent. Quotes No prompt roulette. HTML has no Blender string. No public camera-path file format in this fetch.",
+      "kind": "capability",
+      "evidence": "analysis/_work/captures/intangible-ai-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/intangible-ai.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
@@ -95,7 +105,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [

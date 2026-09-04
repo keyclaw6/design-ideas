@@ -2,7 +2,7 @@
 
 `x-2095202138854977756` · x · thread · en · [source](https://x.com/Jibran_05/status/2095202138854977756) · [raw](../../../raw/items/x-2095202138854977756/)
 **Author:** Jibran (@Jibran_05) · **Published:** — · **Captured:** 2026-09-04T06:50:08Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [ai-video-generation](../../subjects/ai-video-generation/brief.md) · **Also:** [agent-harness-loops](../../subjects/agent-harness-loops/brief.md) · **Roles:** example, technique · **Platforms:** other
 
 **Summary.** Poster claims connecting six models through @lightreelai and Doublespeed runs unsupervised TikTok accounts hitting about 160k views per day and millions total, with an open-source link promised.
@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2095202138854977756#c1` (result, stated) An unsupervised AI stack reportedly drives about 160,000 TikTok views per day. — evidence: "An unsupervised AI is doing 160,000 views a day on TikTok" [post]
 - `x-2095202138854977756#c2` (recipe, stated) Six models were connected via lightreelai and Doublespeed to run accounts autonomously. — evidence: "We connected 6 models to @lightreelai and Doublespeed to autonomously run TikTok accounts." [post]
+- `x-2095202138854977756#c3` (counter-claim, demonstrated) Live GET https://lightreel.ai is 200 / 68,837 B (lightreelai.com and www.lightreelai.com 301 to the same). Title LightReel: Your AI UGC Marketing Researcher. H1 the first AI that doomscrolls. Meta: 10,000 TikToks added daily. Marketing: Trusted by 4,000+ brands; 3-day free trial. Product is a UGC researcher / creator-strategy agent. 160,000 TikTok views/day is not on this page. — evidence: "analysis/_work/captures/lightreel-ai-2026-09-04.json" [note]
 **Numbers.** Daily TikTok views: 160000  (post); Models connected: 6  (post)
 **Recipe.** —
 **Techniques.** [faceless-video-pipeline](../../techniques/faceless-video-pipeline.md)

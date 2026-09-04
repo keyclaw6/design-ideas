@@ -51,6 +51,16 @@
       "evidence_ref": "research.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-neuform-ai#c3",
+      "text": "Live GET https://neuform.ai is 200 / 6,499 B. Title AI HTML Landing Page Builder and Remix Templates | Neuform. Meta names remix templates and reusable DESIGN.md files. HTML is a SPA shell — no Verdant/Echo Lab markup in this fetch.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/neuform-ai-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/neuform.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -90,10 +100,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
