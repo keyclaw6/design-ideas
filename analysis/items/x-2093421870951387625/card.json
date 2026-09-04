@@ -1,0 +1,82 @@
+{
+  "id": "x-2093421870951387625",
+  "source_type": "x",
+  "url": "https://x.com/3DxDEV7/status/2093421870951387625",
+  "title": "BQR Blender addon: clean quad topology after boolean hard-surface ops",
+  "author": {
+    "name": "3DxDEV7",
+    "handle": "3DxDEV7",
+    "url": "https://x.com/3DxDEV7"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:46Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "image-to-3d-world",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "opinion",
+  "platforms": [
+    "blender"
+  ],
+  "summary": "3DxDEV7 promotes the BQR Blender addon as producing clean quad topology with native modifiers after boolean operations for hard-surface modeling, avoiding messy manual cleanup. Hype post without linked repo in capture.",
+  "question_it_answers": "What does BQR claim to fix in hard-surface Blender boolean workflows?",
+  "claims": [
+    {
+      "id": "x-2093421870951387625#c1",
+      "text": "Author claims BQR yields clean quad topology with native modifiers after booleans.",
+      "kind": "capability",
+      "evidence": "Clean quad topology with native modifiers\" after booleans? That's the holy grail of hard surface workflow! No more messy cleanup!",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    }
+  ],
+  "numbers": [],
+  "techniques": [
+    "boolean-to-clean-quads"
+  ],
+  "tools": [
+    "bqr-blender-addon"
+  ],
+  "links": {
+    "canonical": "https://x.com/3DxDEV7/status/2093421870951387625",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093421870951387625",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

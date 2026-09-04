@@ -1,0 +1,104 @@
+{
+  "id": "x-2092255768770920506",
+  "source_type": "x",
+  "url": "https://x.com/higgsfield/status/2092255768770920506",
+  "title": "Higgsfield in Blender: prompt blockout, animate camera, reblock shots",
+  "author": {
+    "name": "Higgsfield AI",
+    "handle": "higgsfield",
+    "url": "https://x.com/higgsfield"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:36Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "blender",
+    "higgsfield",
+    "mcp"
+  ],
+  "summary": "Higgsfield announces an in-Blender workflow to prompt a scene blockout, describe and animate camera moves, hand-tweak geometry, and reblock shots in seconds. Available through Higgsfield MCP or Supercomputer product surface.",
+  "question_it_answers": "How does Higgsfield integrate prompt-driven blockout and camera animation inside Blender?",
+  "claims": [
+    {
+      "id": "x-2092255768770920506#c1",
+      "text": "Workflow covers prompt blockout, camera move animation, manual adjustment, and fast reblocking.",
+      "kind": "capability",
+      "evidence": "Prompt the scene and build the blockout\n> Describe the camera move and get it animated\n> Adjust anything by hand\n> Reblock the whole shot in seconds",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2092255768770920506#c2",
+      "text": "Feature ships via Higgsfield MCP or Supercomputer.",
+      "kind": "availability",
+      "evidence": "Now available via Higgsfield MCP or Supercomputer.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "numbers": [],
+  "techniques": [
+    "prompt-blockout",
+    "camera-move-animation"
+  ],
+  "tools": [
+    "higgsfield",
+    "higgsfield-mcp"
+  ],
+  "links": {
+    "canonical": "https://x.com/higgsfield/status/2092255768770920506",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2093047548550525165",
+      "x-2092008677834387672",
+      "note-blender-minimax-h3-video-generation"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092255768770920506",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "camera-control",
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

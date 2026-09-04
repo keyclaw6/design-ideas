@@ -1,0 +1,58 @@
+{
+  "id": "x-2091554449323958423",
+  "source_type": "x",
+  "url": "https://x.com/TheZachMueller/status/2091554449323958423",
+  "title": "Speculative RTX 6000 VRAM math for GLM 5.2 and K3 FP4",
+  "author": {
+    "name": "Zach Mueller",
+    "handle": "TheZachMueller",
+    "url": "https://x.com/TheZachMueller"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:41Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "promo-no-artifact",
+  "shelf_reason": "Tweet is speculative GPU capacity math for GLM 5.2 and K3 FP4 with no model links, install steps, or benchmark receipts—only a challenge to be first to run it.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Zach Mueller posts back-of-envelope VRAM math claiming one RTX 6000 fits GLM 5.2 FP4 and four RTX 6000 cards fit K3 FP4, asking who will run it first. No URLs, weights, or runnable instructions accompany the claim.",
+  "question_it_answers": null,
+  "claims": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/TheZachMueller/status/2091554449323958423",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091554449323958423",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "schema_version": "1",
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

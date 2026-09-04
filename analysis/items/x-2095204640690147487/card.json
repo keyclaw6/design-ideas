@@ -1,0 +1,123 @@
+{
+  "id": "x-2095204640690147487",
+  "source_type": "x",
+  "url": "https://x.com/tom_doerr/status/2095204640690147487",
+  "title": "video-shotcraft: Claude Code plus Remotion with 152 shot recipe cards",
+  "author": {
+    "name": "Tom Doerr",
+    "handle": "tom_doerr",
+    "url": "https://x.com/tom_doerr"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:48:33Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "code-motion-graphics",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "claude-code",
+    "remotion",
+    "codex"
+  ],
+  "summary": "Tom Doerr points to video-shotcraft, an agent skill that storyboards cinematic product videos with Claude Code and Remotion using 152 shot recipe cards and 209 motion styles. README screenshot shows Apache-2.0 repo with beat-synced cuts and 2.5D camera moves.",
+  "question_it_answers": "Which Remotion agent skill ships shot recipe cards for cinematic product videos?",
+  "claims": [
+    {
+      "id": "x-2095204640690147487#c1",
+      "text": "video-shotcraft generates cinematic product videos via Claude Code and Remotion with 152 shot recipe cards.",
+      "kind": "capability",
+      "evidence": "Generates cinematic product videos with Claude Code and Remotion using 152 shot recipe cards and motion styles.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2095204640690147487#c2",
+      "text": "README lists 152 shot recipe cards, 209 styles, and 209 motion previews in a production template.",
+      "kind": "availability",
+      "evidence": "152 shot recipe cards · 209 styles · 209 motion previews · a production-ready template",
+      "evidence_source": "media",
+      "evidence_ref": "media/media_0.jpg",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "shot recipe cards",
+      "value": "152",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "GitHub stars on screenshot",
+      "value": "6600",
+      "unit": null,
+      "source": "media"
+    }
+  ],
+  "techniques": [
+    "shot-recipe-cards",
+    "beat-synced-cuts"
+  ],
+  "tools": [
+    "video-shotcraft",
+    "remotion"
+  ],
+  "links": {
+    "canonical": "https://x.com/tom_doerr/status/2095204640690147487",
+    "repo": "https://github.com/Vincentwei1021/video-shotcraft",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "web-animos-editor"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "GitHub README screenshot for video-shotcraft listing 152 shot recipe cards, 209 styles, Remotion-based cinematic product video workflow, and 6.6k stars.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095204640690147487",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "agent-skills",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

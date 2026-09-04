@@ -1,0 +1,139 @@
+{
+  "id": "x-2094462971598754010",
+  "source_type": "x",
+  "url": "https://x.com/garrytan/status/2094462971598754010",
+  "title": "Garry Tan gbrain-evals: SOTA memory retrieval without LLM-in-loop",
+  "author": {
+    "name": "Garry Tan",
+    "handle": "garrytan",
+    "url": "https://x.com/garrytan"
+  },
+  "published_at": "2026-08-31T16:31:00Z",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Garry Tan announces new gbrain-evals benchmarks showing gbrain retrieval at 97.6% R@5 on LongMemEval without an LLM in the retrieval loop, plus memory-save evals from agent transcripts. Attached table compares read, write, and volunteer-memory arenas.",
+  "question_it_answers": "What benchmark numbers does Garry Tan cite for gbrain memory retrieval and save paths?",
+  "claims": [
+    {
+      "id": "x-2094462971598754010#c1",
+      "text": "LongMemEval reading memory back scores 97.6% R@5 with no LLM in the retrieval loop.",
+      "kind": "benchmark",
+      "evidence": "97.6% R@5 with no LLM in the retrieval loop",
+      "evidence_source": "media",
+      "evidence_ref": "media/photo.jpg",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2094462971598754010#c2",
+      "text": "Cat 35 write-path eval reports 88.1% salient content survives into usable pages.",
+      "kind": "benchmark",
+      "evidence": "88.1% of salient content survives into pages rated 91% usable",
+      "evidence_source": "media",
+      "evidence_ref": "media/photo.jpg",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2094462971598754010#c3",
+      "text": "Author added evals for memory-save from agent transcript as the best enrichment path.",
+      "kind": "capability",
+      "evidence": "I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "LongMemEval R@5",
+      "value": "97.6",
+      "unit": "percent",
+      "source": "media"
+    },
+    {
+      "label": "Cat 35 salient content survival",
+      "value": "88.1",
+      "unit": "percent",
+      "source": "media"
+    },
+    {
+      "label": "gbrain-evals repo stars at capture",
+      "value": "406",
+      "unit": null,
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "llm-free-retrieval-loop",
+    "agent-transcript-memory-save"
+  ],
+  "tools": [
+    "gbrain",
+    "gbrain-evals"
+  ],
+  "links": {
+    "canonical": "https://x.com/garrytan/status/2094462971598754010",
+    "repo": "https://github.com/garrytan/gbrain-evals",
+    "paper": "https://arxiv.org/abs/2604.21284",
+    "product": "https://github.com/garrytan/gbrain",
+    "other": [],
+    "related_items": [
+      "web-davidgasquez-context-engineering",
+      "x-2091169290661838965",
+      "x-2087143369181114868"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/photo.jpg",
+      "type": "image",
+      "description": "Comparison table with three arenas—reading memory back, writing memory down, volunteering memory—listing gbrain scores versus competitors and gap notes.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094462971598754010",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-davidgasquez-context-engineering"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "research.md notes README Cat 35 junk-leakage correction versus tweet still wording."
+  },
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

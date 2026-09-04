@@ -1,0 +1,110 @@
+{
+  "id": "web-animos-editor",
+  "source_type": "website",
+  "url": "https://animos.app/editor",
+  "title": "animos browser editor: 25 motion templates export MP4 or WebM",
+  "author": {
+    "name": "animos",
+    "handle": null,
+    "url": "https://animos.app"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "code-motion-graphics",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "react"
+  ],
+  "summary": "animos.app/editor is a React/Vite SPA with 25 ready-made motion templates for design showcases. Drop in images or video, tweak in browser, and export MP4 or WebM locally without After Effects or custom code.",
+  "question_it_answers": "How can I export a short design-showcase motion clip in the browser without After Effects?",
+  "claims": [
+    {
+      "id": "web-animos-editor#c1",
+      "text": "Editor offers 25 animation templates with in-browser MP4 or WebM export.",
+      "kind": "capability",
+      "evidence": "25 ready-made animation templates — drop in images or videos, tweak, and export MP4/WebM in your browser",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "web-animos-editor#c2",
+      "text": "Output is raster video rather than Lottie or CSS animation.",
+      "kind": "capability",
+      "evidence": "Output is raster video, not Lottie/CSS — complementary to LottieFiles and motion-anything.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "motion templates",
+      "value": "25",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "template-first-motion-export"
+  ],
+  "tools": [
+    "animos-editor"
+  ],
+  "links": {
+    "canonical": "https://animos.app/editor",
+    "repo": null,
+    "paper": null,
+    "product": "https://animos.app/editor",
+    "other": [
+      "https://animos.app/"
+    ],
+    "related_items": [
+      "web-lottiefiles",
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "web-tinyshots",
+      "web-fal-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-animos-editor",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "ui-motion",
+      "design",
+      "video-generation"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

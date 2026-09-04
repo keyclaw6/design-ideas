@@ -1,0 +1,128 @@
+{
+  "id": "x-2093900284896657841",
+  "source_type": "x",
+  "url": "https://x.com/vicky_grok/status/2093900284896657841",
+  "title": "scroll-craft skill: eight page grammars and fingerprint anti-sameness gate",
+  "author": {
+    "name": "Vicky Grok",
+    "handle": "vicky_grok",
+    "url": "https://x.com/vicky_grok"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T08:04:14Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "reference",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "claude-code",
+    "cursor"
+  ],
+  "summary": "Thread promoting Nate Herk scroll-craft Claude Code skill: eight mutually exclusive page grammars, a fingerprint gate on six dimensions, bespoke peak interactions, headless dead-scroll audit, and per-line contrast checks. Claims 900+ GitHub stars in four days.",
+  "question_it_answers": "What anti-sameness checks does the scroll-craft landing skill enforce?",
+  "claims": [
+    {
+      "id": "x-2093900284896657841#c1",
+      "text": "Skill uses eight page grammars that forbid what other grammars require and a fingerprint gate on four of six dimensions.",
+      "kind": "capability",
+      "evidence": "Eight page grammars, each forbidding what the others require\n2. A fingerprint gate: differ from your past builds on 4 of 6 dimensions",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093900284896657841#c2",
+      "text": "Build pipeline includes headless scroll-position audit and per-line contrast measurement at brightest frame.",
+      "kind": "recipe",
+      "evidence": "A headless browser walks every scroll position hunting “dead scroll”\n5. It measures contrast on the composited page, per line, at the brightest frame",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2093900284896657841#c3",
+      "text": "Author claims scroll-craft crossed 900+ GitHub stars within four days.",
+      "kind": "availability",
+      "evidence": "And it already crossed 900+ GitHub stars in 4 days.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "GitHub stars cited",
+      "value": "900",
+      "unit": "+",
+      "source": "post"
+    },
+    {
+      "label": "days to stars cited",
+      "value": "4",
+      "unit": "days",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "scroll-as-timeline",
+    "fingerprint-uniqueness-gate",
+    "dead-scroll-audit"
+  ],
+  "tools": [
+    "scroll-craft"
+  ],
+  "links": {
+    "canonical": "https://x.com/vicky_grok/status/2093900284896657841",
+    "repo": "https://github.com/nateherkai/scroll-craft",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "x-2094978216146452971"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093900284896657841",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "github-nateherkai-scroll-craft",
+      "x-2094978216146452971"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "x-2089223944700326052",
+  "source_type": "x",
+  "url": "https://x.com/Heylaosan/status/2089223944700326052",
+  "title": "Portfolio carousel with inertial swing entry instead of flat slide",
+  "author": {
+    "name": "张老三laosan",
+    "handle": "Heylaosan",
+    "url": "https://x.com/Heylaosan"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:30Z",
+  "lang": "zh",
+  "disposition": "analyze",
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "article",
+  "platforms": [
+    "react",
+    "other"
+  ],
+  "summary": "Laosan breakdown of YousufSoomroDev open portfolio carousel: cards enter with swing and inertia from off-screen, overshoot, then one or two decaying rebounds. Warns long oscillation hurts browse throughput for photography and poster showcases.",
+  "question_it_answers": "What spring motion recipe makes a portfolio carousel feel physical instead of template sliding?",
+  "claims": [
+    {
+      "id": "x-2089223944700326052#c1",
+      "text": "Carousel cards enter with swing and inertia rather than sliding on a flat horizontal track.",
+      "kind": "recipe",
+      "evidence": "卡片不是沿着水平轨道简单滑入，而是带着明显的摆动和惯性从画面外进入，最终回到稳定位置。",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089223944700326052#c2",
+      "text": "Author recommends capping rebound count to one or two decay cycles for browse efficiency.",
+      "kind": "recipe",
+      "evidence": "保持一到两次明显衰减，会更接近真实物理反馈。",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "numbers": [],
+  "techniques": [
+    "inertial-carousel-entry",
+    "spring-rebound-cap"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/Heylaosan/status/2089223944700326052",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "github-nexu-io-motion-anything",
+      "web-animos-editor",
+      "x-2089775679600812150"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2089223944700326052",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "ui-motion",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

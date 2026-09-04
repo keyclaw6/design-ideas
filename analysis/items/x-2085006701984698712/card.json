@@ -1,0 +1,117 @@
+{
+  "id": "x-2085006701984698712",
+  "source_type": "x",
+  "url": "https://x.com/petergyang/status/2085006701984698712",
+  "title": "Peter Yang /human-review skill: local visual editor for HTML and Markdown",
+  "author": {
+    "name": "Peter Yang",
+    "handle": "petergyang",
+    "url": "https://x.com/petergyang"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:50:58Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "claude-code",
+    "cursor"
+  ],
+  "summary": "Peter Yang launches /human-review, a free skill that opens HTML and Markdown in a local visual editor for inline text edits, image resizing, and Google-Doc-style comment pins the agent consumes. Follow-up to /no-ai-slop; review loop stays local.",
+  "question_it_answers": "How does Peter Yang's /human-review skill let me edit agent HTML visually instead of via chat?",
+  "claims": [
+    {
+      "id": "x-2085006701984698712#c1",
+      "text": "Skill opens HTML and Markdown in a visual editor with direct text edit, image resize, and comment pins.",
+      "kind": "capability",
+      "evidence": "Edit and format text directly\n→ Resize images\n→ Leave comments for AI like a Google Doc",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2085006701984698712#c2",
+      "text": "Review loop runs locally with no cloud upload.",
+      "kind": "capability",
+      "evidence": "The whole review loop runs locally, so your data is safe and nothing is uploaded to the cloud.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "/no-ai-slop GitHub stars cited",
+      "value": "4000",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "visual-html-review",
+    "inline-comment-feedback"
+  ],
+  "tools": [
+    "human-review"
+  ],
+  "links": {
+    "canonical": "https://x.com/petergyang/status/2085006701984698712",
+    "repo": "https://github.com/petergyang/human-review",
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually"
+    ],
+    "related_items": [
+      "github-pbakaus-impeccable",
+      "github-emilkowalski-skills",
+      "x-2086715093707063445",
+      "x-2086845465140842638"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Demo video shows the human-review visual editor with inline text editing on a landing page paragraph instead of chat-only feedback.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2085006701984698712",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

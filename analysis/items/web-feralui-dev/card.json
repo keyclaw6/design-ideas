@@ -1,0 +1,116 @@
+{
+  "id": "web-feralui-dev",
+  "source_type": "website",
+  "url": "https://feralui.dev/",
+  "title": "FeralUI v0.1.1: physically inspired React components that swing and crumple",
+  "author": {
+    "name": "FeralUI",
+    "handle": null,
+    "url": "https://feralui.dev/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "react",
+    "three-js"
+  ],
+  "summary": "FeralUI v0.1.1 is an experimental component library whose drop-in parts swing, grab, crumple, and catch light. Homepage catalog includes PullCord, Claw, Crumple, Hologram, Blinds, and Blob for tactile marketing heroes.",
+  "question_it_answers": "Which component library ships physically inspired motion primitives instead of standard fade-and-slide kits?",
+  "claims": [
+    {
+      "id": "web-feralui-dev#c1",
+      "text": "Components are marketed as swinging, grabbing, crumpling, and catching light rather than standard UI motion.",
+      "kind": "capability",
+      "evidence": "Real components you can drop in, that happen to swing, grab, crumple, and catch the light.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-feralui-dev#c2",
+      "text": "Homepage lists PullCord, Claw, Crumple, Hologram, Blinds, Blob, and other experimental modules.",
+      "kind": "availability",
+      "evidence": "PullCord, Claw, Captcha, Gradient Builder, MotionView, Screenery, DeskFolio, Blinds, Blob, AniMaps, Fur, Vacuum, Crumple, Hologram, Matchday",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "library version",
+      "value": "0.1.1",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "physically-inspired-ui-motion"
+  ],
+  "tools": [
+    "feralui"
+  ],
+  "links": {
+    "canonical": "https://feralui.dev/",
+    "repo": "https://github.com/mortspace/feral-blob",
+    "paper": null,
+    "product": "https://feralui.dev/",
+    "other": [],
+    "related_items": [
+      "web-originkit-dev",
+      "web-vengence-ui",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-opale-ui-taste",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/favicon.ico",
+      "type": "other",
+      "description": null,
+      "skip_reason": "Binary favicon only; no component demo captured.",
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/web-feralui-dev",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion",
+      "three-js"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

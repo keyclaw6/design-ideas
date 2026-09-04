@@ -1,0 +1,107 @@
+{
+  "id": "x-2087232392209531166",
+  "source_type": "x",
+  "url": "https://x.com/Howaboua/status/2087232392209531166",
+  "title": "pi-shepherdr: 271-token Pi orchestrator for Herdr multi-agent panes",
+  "author": {
+    "name": "Howaboua",
+    "handle": "Howaboua",
+    "url": "https://x.com/Howaboua"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:25Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "pi",
+    "cli"
+  ],
+  "summary": "howaboua pi-shepherdr lets one master Pi agent list, start, watch, send to, and unwatch worker Pi agents in Herdr panes via a 271-token orchestration surface. Blocked workers return exact Herdr CLI commands; install via pi install npm:@howaboua/pi-shepherdr.",
+  "question_it_answers": "How do I run parallel Pi coding agents in Herdr without a large orchestrator skill?",
+  "claims": [
+    {
+      "id": "x-2087232392209531166#c1",
+      "text": "Orchestration surface exposes list, start, watch, send, and unwatch with explicit pane placement.",
+      "kind": "capability",
+      "evidence": "list finds agents and workspaces\n- start requires a name and explicit placement: a new workspace, new tab or existing pane",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087232392209531166#c2",
+      "text": "Shepherdr deliberately does not focus, move, stop, or close panes; Herdr owns layout lifecycle.",
+      "kind": "capability",
+      "evidence": "Shepherdr does not focus, move, stop or close panes. Herdr owns the terminals, layout and session lifecycle.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "orchestration token budget",
+      "value": "271",
+      "unit": "tokens",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "fire-and-forget-delegation",
+    "herdr-pane-orchestration"
+  ],
+  "tools": [
+    "pi-shepherdr",
+    "herdr"
+  ],
+  "links": {
+    "canonical": "https://x.com/Howaboua/status/2087232392209531166",
+    "repo": "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-shepherdr",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087304957011911157",
+      "x-2087026930323247306",
+      "x-2087263510090874911",
+      "web-blume-codes"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087232392209531166",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

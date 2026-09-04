@@ -1,0 +1,99 @@
+{
+  "id": "x-2093047548550525165",
+  "source_type": "x",
+  "url": "https://x.com/louszbd/status/2093047548550525165",
+  "title": "GLM-5.3-Flash agent builds navigable Blender dream kitchen world",
+  "author": {
+    "name": "Lou",
+    "handle": "louszbd",
+    "url": "https://x.com/louszbd"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:36Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [
+    "image-to-3d-world"
+  ],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "blender",
+    "other"
+  ],
+  "summary": "Lou claims GLM-5.3-Flash built a navigable dream-kitchen 3D world inside Blender and stresses the result is not a generated video. Example of agent-driven interior blockout rather than a BESS marketing site.",
+  "question_it_answers": "What does an agent-built Blender interior look like when it is a 3D world rather than a video model output?",
+  "claims": [
+    {
+      "id": "x-2093047548550525165#c1",
+      "text": "Author states GLM-5.3-Flash built a 3D kitchen world in Blender.",
+      "kind": "result",
+      "evidence": "We use GLM-5.3-Flash build a dream kitchen. A 3D world built in Blender.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093047548550525165#c2",
+      "text": "Author explicitly distinguishes the capture from a generated video.",
+      "kind": "counter-claim",
+      "evidence": "This is not a generated video.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "numbers": [],
+  "techniques": [
+    "agent-blender-blockout"
+  ],
+  "tools": [
+    "glm-5-3-flash"
+  ],
+  "links": {
+    "canonical": "https://x.com/louszbd/status/2093047548550525165",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2092255768770920506",
+      "note-blender-minimax-h3-video-generation"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093047548550525165",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "camera-control",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

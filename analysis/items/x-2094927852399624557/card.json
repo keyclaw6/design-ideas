@@ -1,0 +1,117 @@
+{
+  "id": "x-2094927852399624557",
+  "source_type": "x",
+  "url": "https://x.com/levikmunneke/status/2094927852399624557",
+  "title": "10k emails/day cold outbound stack: Instantly plus MapsData",
+  "author": {
+    "name": "Levi Munneke",
+    "handle": "levikmunneke",
+    "url": "https://x.com/levikmunneke"
+  },
+  "published_at": "2026-09-01T23:18:16Z",
+  "captured_at": "2026-09-02T17:23:28Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "outbound-gtm-agents",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Levi Munneke posts a capacity formula for 10,000 cold emails per day using 500 inboxes across 167 domains with Instantly as sequencer and MapsData for lead lists. Author replies that MapsData works well for businesses under 50 employees.",
+  "question_it_answers": "What inbox, domain, and vendor stack does Levi Munneke cite for 10k cold emails per day?",
+  "claims": [
+    {
+      "id": "x-2094927852399624557#c1",
+      "text": "Author frames 10k emails per day as 500 inboxes and 167 domains with Instantly and MapsData.",
+      "kind": "recipe",
+      "evidence": "10,000 emails/day is just\n\n- 500 inboxes\n- 167 domains\n- https://instantly.ai - sequencer\n- https://mapsdata.ai - leads",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094927852399624557#c2",
+      "text": "Author reply says MapsData leads work well for businesses under 50 employees.",
+      "kind": "result",
+      "evidence": "Have sent to millions of leads from there its very good for targeting businesses under 50 employees",
+      "evidence_source": "reply",
+      "evidence_ref": "comments.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "daily send volume cited",
+      "value": "10000",
+      "unit": "emails/day",
+      "source": "post"
+    },
+    {
+      "label": "inboxes cited",
+      "value": "500",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "domains cited",
+      "value": "167",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "cold-email-capacity-formula"
+  ],
+  "tools": [
+    "instantly",
+    "mapsdata"
+  ],
+  "links": {
+    "canonical": "https://x.com/levikmunneke/status/2094927852399624557",
+    "repo": null,
+    "paper": null,
+    "product": "https://instantly.ai",
+    "other": [
+      "https://mapsdata.ai",
+      "http://b2bfunnel.co"
+    ],
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "web-treg-people-search",
+      "x-2095231184531828762"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2094927852399624557",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

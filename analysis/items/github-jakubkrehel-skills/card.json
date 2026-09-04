@@ -1,0 +1,110 @@
+{
+  "id": "github-jakubkrehel-skills",
+  "source_type": "github",
+  "url": "https://github.com/jakubkrehel/skills",
+  "title": "interfaces.dev better-* agent skills for UI, type, color, and a11y review",
+  "author": {
+    "name": "Jakub Krehel",
+    "handle": "jakubkrehel",
+    "url": "https://github.com/jakubkrehel"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "codex",
+    "claude-code"
+  ],
+  "summary": "MIT skill pack from Interfaces magazine: better-ui, better-typography, better-colors, better-accessibility, and better-layout review skills plus interface-review audits and variant iteration. Installed via npx skills add jakubkrehel/skills.",
+  "question_it_answers": "Which agent skills audit generated UI for typography, contrast, layout, and accessibility after a landing build?",
+  "claims": [
+    {
+      "id": "github-jakubkrehel-skills#c1",
+      "text": "better-interface runs a combined review across the better-* specialist skills.",
+      "kind": "capability",
+      "evidence": "better-interface runs a combined review across the better-* family.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-jakubkrehel-skills#c2",
+      "text": "Install command is npx skills add jakubkrehel/skills.",
+      "kind": "recipe",
+      "evidence": "npx skills add jakubkrehel/skills",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "4759",
+      "unit": null,
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "interface-review-audit",
+    "variant-iteration"
+  ],
+  "tools": [
+    "better-interface",
+    "better-accessibility"
+  ],
+  "links": {
+    "canonical": "https://github.com/jakubkrehel/skills",
+    "repo": "https://github.com/jakubkrehel/skills",
+    "paper": null,
+    "product": "https://jakub.kr/skills",
+    "other": [
+      "https://interfaces.dev/"
+    ],
+    "related_items": [
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "github-pbakaus-impeccable",
+      "web-checklist-design",
+      "web-opale-ui-taste"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-jakubkrehel-skills",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

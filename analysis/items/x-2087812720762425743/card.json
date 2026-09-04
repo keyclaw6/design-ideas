@@ -1,0 +1,109 @@
+{
+  "id": "x-2087812720762425743",
+  "source_type": "x",
+  "url": "https://x.com/davidhdev/status/2087812720762425743",
+  "title": "ReactBits Pro: restyle motion primitives instead of inventing from scratch",
+  "author": {
+    "name": "David Haz",
+    "handle": "davidhdev",
+    "url": "https://x.com/davidhdev"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:27Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "reference",
+    "technique"
+  ],
+  "artifact_type": "opinion",
+  "platforms": [
+    "react"
+  ],
+  "summary": "David Haz argues ReactBits Pro components at pro.reactbits.dev supply about 90% of marketing-page motion, structure, and customization so the remaining 10% is taste via layout, copy, and color reframes. One component ships ten example compositions.",
+  "question_it_answers": "Why should I start from ReactBits Pro components instead of generating landing motion from scratch?",
+  "claims": [
+    {
+      "id": "x-2087812720762425743#c1",
+      "text": "Author claims ReactBits Pro components do 90% of motion, structure, and customization work.",
+      "kind": "opinion",
+      "evidence": "components do 90% of the work: motion, structure, customization. The 10% is where your creativity/taste comes in.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2087812720762425743#c2",
+      "text": "Reframing layout, copy, and colors from one component yields ten distinct page variants.",
+      "kind": "recipe",
+      "evidence": "One component, 10 examples.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "author-stated component share of page work",
+      "value": "90",
+      "unit": "percent",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "component-restyle-not-regenerate"
+  ],
+  "tools": [
+    "reactbits-pro"
+  ],
+  "links": {
+    "canonical": "https://x.com/davidhdev/status/2087812720762425743",
+    "repo": null,
+    "paper": null,
+    "product": "https://pro.reactbits.dev",
+    "other": [],
+    "related_items": [
+      "web-cult-ui",
+      "github-nateherkai-scroll-craft",
+      "github-emilkowalski-skills",
+      "web-vengence-ui",
+      "github-jakubkrehel-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087812720762425743",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

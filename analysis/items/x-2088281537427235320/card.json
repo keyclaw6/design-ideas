@@ -1,0 +1,121 @@
+{
+  "id": "x-2088281537427235320",
+  "source_type": "x",
+  "url": "https://x.com/UnslothAI/status/2088281537427235320",
+  "title": "Unsloth Qwen3.8-27B Dynamic GGUF runs locally on about 17GB RAM",
+  "author": {
+    "name": "Unsloth AI",
+    "handle": "UnslothAI",
+    "url": "https://x.com/UnslothAI"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:29Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "local-inference-models",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "cli",
+    "other"
+  ],
+  "summary": "Unsloth announces Qwen3.8-27B local inference via Dynamic GGUF quantizations targeting about 17GB RAM, plus NVFP4 quants on NVIDIA hardware. Hugging Face hosts weights; docs cover hybrid thinking and non-thinking sampling presets.",
+  "question_it_answers": "What RAM budget does Unsloth cite for running Qwen3.8-27B locally?",
+  "claims": [
+    {
+      "id": "x-2088281537427235320#c1",
+      "text": "Dynamic GGUF path targets about 17GB RAM for Qwen3.8-27B local runs.",
+      "kind": "availability",
+      "evidence": "Run on 17GB RAM via Unsloth Dynamic GGUFs.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2088281537427235320#c2",
+      "text": "Unsloth also uploaded NVFP4 quantizations for NVIDIA boxes.",
+      "kind": "availability",
+      "evidence": "We also uploaded NVFP4 quants.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    }
+  ],
+  "numbers": [
+    {
+      "label": "RAM target for Dynamic GGUF",
+      "value": "17",
+      "unit": "GB",
+      "source": "post"
+    },
+    {
+      "label": "model parameters",
+      "value": "27",
+      "unit": "B",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "dynamic-gguf-quantization"
+  ],
+  "tools": [
+    "unsloth",
+    "qwen3-8-27b"
+  ],
+  "links": {
+    "canonical": "https://x.com/UnslothAI/status/2088281537427235320",
+    "repo": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://unsloth.ai/docs/models/qwen3.8"
+    ],
+    "related_items": [
+      "x-2087562269807030754",
+      "x-2087962842985058365",
+      "x-2087240056037908509"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Infographic lists Qwen3.8-27B specs, RAM tiers by quant bit-width, recommended thinking vs non-thinking sampling presets, and benchmark tables versus other 27B-class models.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088281537427235320",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}

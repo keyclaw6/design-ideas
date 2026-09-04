@@ -1,0 +1,100 @@
+{
+  "id": "web-sokosumi-design-md",
+  "source_type": "website",
+  "url": "https://sokosumi.com/tools/design-md",
+  "title": "Sokosumi free DESIGN.md generator from any website URL",
+  "author": {
+    "name": "Sokosumi",
+    "handle": "sokosumi",
+    "url": "https://sokosumi.com"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "claude-code",
+    "cursor"
+  ],
+  "summary": "Sokosumi free tool at sokosumi.com/tools/design-md opens a remote browser on any URL, reads computed styles, and writes a Google DESIGN.md spec for colors, type, spacing, and components. Edit, copy, or download for Claude Code, Cursor, or Codex.",
+  "question_it_answers": "What is the free URL-to-DESIGN.md extractor in the Sokosumi toolchain?",
+  "claims": [
+    {
+      "id": "web-sokosumi-design-md#c1",
+      "text": "Tool reads computed styles via remote browser and outputs Google DESIGN.md format.",
+      "kind": "capability",
+      "evidence": "Remote browser opens the page, reads computed styles, writes structured DESIGN.md.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-sokosumi-design-md#c2",
+      "text": "Shortcuts include Stripe, Linear, Vercel, and Notion example URLs.",
+      "kind": "recipe",
+      "evidence": "Shortcuts: Stripe, Linear, Vercel, Notion.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "numbers": [],
+  "techniques": [
+    "url-to-design-md-extraction"
+  ],
+  "tools": [
+    "sokosumi-design-md"
+  ],
+  "links": {
+    "canonical": "https://sokosumi.com/tools/design-md",
+    "repo": "https://github.com/google-labs-code/design.md",
+    "paper": null,
+    "product": "https://sokosumi.com/tools/design-md",
+    "other": [
+      "https://x.com/tranmautritam/status/2095078647652917329"
+    ],
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "web-design-md-hyperbrowser",
+      "web-getdesign-md",
+      "web-styles-refero-design",
+      "web-neuform-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-sokosumi-design-md",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "recipe_steps": null,
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-09",
+  "written_at": "2026-09-04T18:15:00Z"
+}
