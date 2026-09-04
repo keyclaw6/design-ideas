@@ -1,0 +1,108 @@
+{
+  "schema_version": "1",
+  "id": "x-2087208634493095978",
+  "source_type": "x",
+  "url": "https://x.com/tom_doerr/status/2087208634493095978",
+  "title": "Memoria — git-like snapshots and branches for AI agent memory",
+  "author": {
+    "name": "Tom Dörr",
+    "handle": "tom_doerr",
+    "url": "https://x.com/tom_doerr"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:24Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "mcp",
+    "cli"
+  ],
+  "summary": "Tom Dörr shares Memoria (matrixorigin/Memoria): a persistent agent memory layer with git-like snapshots, branches, merges, and rollbacks backed by MatrixOne, aimed at auditable long-running agent context.",
+  "question_it_answers": "How can agent memory be version-controlled with branches instead of a single clobbered blob?",
+  "claims": [
+    {
+      "id": "x-2087208634493095978#c1",
+      "text": "Memoria versions AI agent memory with snapshots, branches, and merges.",
+      "kind": "capability",
+      "evidence": "Version controls AI agent memory with snapshots, branches, and merges",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087208634493095978#c2",
+      "text": "README positions Memoria as the first git for AI agent memory with zero-copy branching on MatrixOne.",
+      "kind": "capability",
+      "evidence": "The World's First Git for AI Agent Memory",
+      "evidence_source": "media",
+      "evidence_ref": "media/media_0.jpg",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "memory-branching"
+  ],
+  "tools": [
+    "memoria"
+  ],
+  "links": {
+    "canonical": "https://github.com/matrixorigin/Memoria",
+    "repo": "https://github.com/matrixorigin/Memoria",
+    "paper": "https://arxiv.org/abs/2604.03927",
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087143369181114868",
+      "x-2086920236079681607",
+      "web-davidgasquez-context-engineering"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Memoria README header showing tree logo, v0.4.0 badge, MCP tag, and overview of git-like memory snapshots and semantic search features.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2087208634493095978",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087143369181114868",
+      "x-2086920236079681607"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Tweet is one-liner; repo README screenshot carries the feature list."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

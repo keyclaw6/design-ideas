@@ -1,0 +1,72 @@
+{
+  "schema_version": "1",
+  "id": "x-2087715372787228734",
+  "source_type": "x",
+  "url": "https://x.com/wafer_ai/status/2087715372787228734",
+  "title": "Wafer AI promo — DeepSeek V4 Flash still on OpenRouter",
+  "author": {
+    "name": "wafer",
+    "handle": "wafer_ai",
+    "url": "https://x.com/wafer_ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:26Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "promo-no-artifact",
+  "shelf_reason": "Four-line capacity shout that DeepSeek V4 Flash 0731 is still served on OpenRouter by Wafer with a throughput table screenshot but no setup recipe, pricing link, or routing steps.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Wafer AI vendor promo that DeepSeek V4 Flash 0731 remains available on OpenRouter via their hosting; capture has no API snippet or access instructions beyond a benchmark-style screenshot.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/wafer_ai/status/2087715372787228734",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087240056037908509",
+      "x-2087562269807030754",
+      "x-2088281537427235320"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Provider comparison table listing Wafer Fast throughput at 215 tps versus Baseten, Fireworks, CoreWeave, and others on latency and uptime metrics.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2087715372787228734",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087240056037908509"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

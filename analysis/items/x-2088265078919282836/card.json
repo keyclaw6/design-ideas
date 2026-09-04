@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "id": "x-2088265078919282836",
+  "source_type": "x",
+  "url": "https://x.com/titepommee/status/2088265078919282836",
+  "title": "Meng To tutorial pointer — Three.js landing pages with Claude Code and Opus 5",
+  "author": {
+    "name": null,
+    "handle": "titepommee",
+    "url": "https://x.com/titepommee"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:23Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "claude-code",
+    "three-js"
+  ],
+  "summary": "Recommendation to watch Meng To walk through advanced Three.js landing pages using Claude Code and Opus 5, covering structure, motion, and implementation as onboarding for Meng skill packs and scroll-world stacks.",
+  "question_it_answers": "Where is a taught process for agent-driven Three.js marketing landings with Claude Code?",
+  "claims": [
+    {
+      "id": "x-2088265078919282836#c1",
+      "text": "Meng To walks through building advanced Three.js landing pages with Claude Code and Opus 5 from structure through motion and implementation.",
+      "kind": "recipe",
+      "evidence": "Meng walks through the full process, from structure to motion and implementation.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2088265078919282836#c2",
+      "text": "The tutorial is meant to pair with Meng To skill packs rather than generic make-a-3D-site prompting.",
+      "kind": "recipe",
+      "evidence": "Claude Code + Opus 5 + Meng’s Three.js/landing skills rather than a generic “make a 3D site” prompt.",
+      "evidence_source": "reply",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "threejs-landing-motion"
+  ],
+  "tools": [
+    "claude-code",
+    "mengto-skills"
+  ],
+  "links": {
+    "canonical": "https://x.com/titepommee/status/2088265078919282836",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-mengto-skills",
+      "github-mengto-complete-shelf",
+      "github-oso95-scroll-world",
+      "github-nateherkai-scroll-craft"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088265078919282836",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js",
+      "design",
+      "ui-motion",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "github-mengto-skills",
+      "github-oso95-scroll-world"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Tweet lacks the tutorial URL; research names the Meng skill stack to install."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

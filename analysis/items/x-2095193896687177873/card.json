@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2095193896687177873",
+  "source_type": "x",
+  "url": "https://x.com/adamdotnew/status/2095193896687177873",
+  "title": "Claude Fable 5.1 agentic CAD in Fusion — SO-101 gripper plus Pi Camera mount",
+  "author": {
+    "name": null,
+    "handle": "adamdotnew",
+    "url": "https://x.com/adamdotnew"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:54Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "reference"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "fusion",
+    "claude-code"
+  ],
+  "summary": "Adam reports Claude Fable 5.1 at Max effort is the strongest agentic CAD model they have tested, rebuilding an SO-101 gripper around the stock servo and mounting a Pi Camera Module 3 from official STEP inside Fusion via their harness.",
+  "question_it_answers": "How capable is Claude Fable 5.1 for agentic Fusion CAD with real hardware STEP references?",
+  "claims": [
+    {
+      "id": "x-2095193896687177873#c1",
+      "text": "At Max effort Claude Fable 5.1 is described as the most capable agentic CAD model the author has tested so far.",
+      "kind": "benchmark",
+      "evidence": "At Max effort it's the most capable model we've tested so far.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2095193896687177873#c2",
+      "text": "Inside Fusion the model rebuilt the SO-101 gripper around the stock servo and mounted a Pi Camera Module 3 from official STEP.",
+      "kind": "result",
+      "evidence": "it rebuilt the SO-101 gripper around the stock servo and mounted a real Pi Camera Module 3 from the official STEP.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "agentic-cad-fusion"
+  ],
+  "tools": [
+    "claude-fable",
+    "fusion"
+  ],
+  "links": {
+    "canonical": "https://x.com/adamdotnew/status/2095193896687177873",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2093305736717545869",
+      "x-2090535643353153833"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2095193896687177873",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "media-undescribed",
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2093305736717545869"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Model benchmark claim for Fusion agentic CAD; demo media not stored in harvest."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

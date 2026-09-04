@@ -1,0 +1,113 @@
+{
+  "schema_version": "1",
+  "id": "x-2089182103153897532",
+  "source_type": "x",
+  "url": "https://x.com/scottymatt/status/2089182103153897532",
+  "title": "AICSS.dev — agent-chat UI components for thinking, tools, and streaming",
+  "author": {
+    "name": "Scotty Matthewman",
+    "handle": "scottymatt",
+    "url": "https://x.com/scottymatt"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:40Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "react",
+    "cursor"
+  ],
+  "summary": "Reaction link to aicss.dev: 14 copy-paste UI components for AI agent conversations—thinking states, tool calls, streaming text, approvals—with React/Vue/Svelte snippets and an agent-ingestible /r JSON index.",
+  "question_it_answers": "What component library covers agent thinking, tool traces, and streaming chat UI?",
+  "claims": [
+    {
+      "id": "x-2089182103153897532#c1",
+      "text": "AICSS ships 14 components for AI agent chat UI including thinking states, tool calls, and streaming text.",
+      "kind": "capability",
+      "evidence": "14 components; 10 free, rest behind a one-time license.",
+      "evidence_source": "reply",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089182103153897532#c2",
+      "text": "Components expose a programmatic index at /r and /r/{slug} with optional ?format=md for agent ingestion.",
+      "kind": "recipe",
+      "evidence": "Programmatic index at `/r` and `/r/{slug}` (JSON) plus `?format=md` for agent-ingestible prompts.",
+      "evidence_source": "reply",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "component count",
+      "value": "14",
+      "unit": "components",
+      "source": "reply"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "aicss"
+  ],
+  "links": {
+    "canonical": "https://www.aicss.dev/",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.aicss.dev/",
+    "other": [
+      "https://www.aicss.dev/r"
+    ],
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2089182103153897532",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-cult-ui",
+      "web-originkit-dev"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Tweet is a one-line reaction; research lists component inventory and /r agent index."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

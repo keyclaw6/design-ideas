@@ -1,0 +1,101 @@
+{
+  "schema_version": "1",
+  "id": "x-2093020107509514674",
+  "source_type": "x",
+  "url": "https://x.com/jumarmacato/status/2093020107509514674",
+  "title": "KiCad + OpenEMS harness flags PCB signal-integrity issues before fab",
+  "author": {
+    "name": null,
+    "handle": "jumarmacato",
+    "url": "https://x.com/jumarmacato"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:51Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "kicad",
+    "cli"
+  ],
+  "summary": "Author built a fully open-source KiCad plus OpenEMS physical simulation harness to check PCB signal integrity before sending boards to fabrication; it already flagged issues on their design.",
+  "question_it_answers": "How can you pre-fab check PCB signal integrity with KiCad and OpenEMS?",
+  "claims": [
+    {
+      "id": "x-2093020107509514674#c1",
+      "text": "A custom KiCad plus OpenEMS harness can check signal integrity of a PCB design before fabrication.",
+      "kind": "capability",
+      "evidence": "KiCAD+OpenEMS physical simulation harness so that I can check the signal integrity of my PCB design before shipping it off to the fabs.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2093020107509514674#c2",
+      "text": "The harness already flagged signal-integrity problems on the author's board.",
+      "kind": "result",
+      "evidence": "It's already working coz it flagged my board for signal integrity issues",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "pcb-signal-integrity-sim"
+  ],
+  "tools": [
+    "kicad",
+    "openems"
+  ],
+  "links": {
+    "canonical": "https://x.com/jumarmacato/status/2093020107509514674",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2092106682302140648",
+      "x-2088296314484162719"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093020107509514674",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "keyboard-pcb"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2092106682302140648"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Harness repo or scripts not linked in tweet; claim is demonstrated but artifact unpublished."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

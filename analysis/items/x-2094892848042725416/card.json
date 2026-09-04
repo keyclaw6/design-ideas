@@ -1,0 +1,139 @@
+{
+  "schema_version": "1",
+  "id": "x-2094892848042725416",
+  "source_type": "x",
+  "url": "https://x.com/pierreeliottlal/status/2094892848042725416",
+  "title": "Gojiberry CEO launch — 13-agent outbound tree on hosted MCP for Grok Bot",
+  "author": {
+    "name": "Pierre-Eliott Lallemant",
+    "handle": "pierreeliottlal",
+    "url": "https://x.com/pierreeliottlal"
+  },
+  "published_at": "2026-09-01T20:59:10Z",
+  "captured_at": "2026-09-02T18:10:58Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "outbound-gtm-agents",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "example",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "grok-bot",
+    "mcp"
+  ],
+  "summary": "Gojiberry CEO open-sources a 13-role outbound sales OS for Grok Bot: signal hunting through meeting qualification coordinated via hosted MCP, with propose-don't-send defaults and a comment-BOT lead magnet on a 39.9s launch video.",
+  "question_it_answers": "How does the CEO pitch the 13-agent Gojiberry outbound handoff loop on Grok Bot?",
+  "claims": [
+    {
+      "id": "x-2094892848042725416#c1",
+      "text": "The post introduces a full outbound team of thirteen specialized agents from Head of Sales through Sales Manager.",
+      "kind": "capability",
+      "evidence": "┃  \n┣ 📁 Head of Sales",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094892848042725416#c2",
+      "text": "Agents hand work along a loop from Signal Hunter through Meeting Qualifier powered by the Gojiberry MCP.",
+      "kind": "recipe",
+      "evidence": "All powered by the [@gojiberryai](https://x.com/gojiberryai) MCP.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094892848042725416#c3",
+      "text": "Outreach Operator queues LinkedIn campaigns with zero sent until the user approves.",
+      "kind": "capability",
+      "evidence": "┃ ┗ 📁 0 sent until you say so",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "launch video duration",
+      "value": "39.9",
+      "unit": "seconds",
+      "source": "media"
+    }
+  ],
+  "techniques": [
+    "outbound-agent-pipeline"
+  ],
+  "tools": [
+    "gojiberry-mcp"
+  ],
+  "links": {
+    "canonical": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "repo": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "paper": null,
+    "product": "https://gojiberry.ai/",
+    "other": [
+      "https://mcp.gojiberry.ai/mcp"
+    ],
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "x-2095081419202560010"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "Square video thumbnail with the gojiberryAI wordmark on a light gray background.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": "39.9-second 1080x1080 launch video walking through the thirteen-agent outbound sales OS tree and MCP install pitch.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094892848042725416",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "x-2095081419202560010"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "CEO tree diagram and handoff narrative; 163 replies mostly login-walled."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

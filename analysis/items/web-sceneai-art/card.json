@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "web-sceneai-art",
+  "source_type": "website",
+  "url": "https://sceneai.art/",
+  "title": "SceneAI — copy-paste UI section prompt library with save counts",
+  "author": {
+    "name": "SceneAI",
+    "handle": "sceneai",
+    "url": "https://sceneai.art/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "cursor",
+    "other"
+  ],
+  "summary": "SceneAI hosts ready-made AI prompts for web heroes and landing pages—Neurolink, Exosia, Airlines, Shipmint, and similar sections—with save-count social proof for copy-paste into Cursor or v0 before taste-skill cleanup.",
+  "question_it_answers": "Where can you grab starter hero and landing-page prompts for agent-driven site builds?",
+  "claims": [
+    {
+      "id": "web-sceneai-art#c1",
+      "text": "Homepage samples list hero and landing prompts with save counts from about 1k to 2.8k each.",
+      "kind": "capability",
+      "evidence": "Shipmint Hero Section | 2.8k",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-sceneai-art#c2",
+      "text": "The library targets copy-paste section prompts for animated landing pages rather than full design systems.",
+      "kind": "capability",
+      "evidence": "ready-made AI prompts for web sections and animated landing pages",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://sceneai.art/",
+    "repo": null,
+    "paper": null,
+    "product": "https://sceneai.art/",
+    "other": [],
+    "related_items": [
+      "web-getlayers-ai",
+      "web-recent-design",
+      "github-nateherkai-scroll-craft",
+      "web-meigen-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-sceneai-art",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-getlayers-ai",
+      "web-typeui-sh"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Section-level prompt inventory versus cinematic GetLayers layers."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

@@ -1,0 +1,126 @@
+{
+  "schema_version": "1",
+  "id": "note-blender-minimax-h3-video-generation",
+  "source_type": "note",
+  "url": "raw/notes/blender-minimax-h3-video-generation.md",
+  "title": "BESS flythrough research — Blender MCP camera path to MiniMax H3 and depth conditioning",
+  "author": {
+    "name": null,
+    "handle": null,
+    "url": null
+  },
+  "published_at": "2026-08-15T00:00:00Z",
+  "captured_at": "2026-09-04T17:00:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [
+    "ai-video-generation"
+  ],
+  "roles": [
+    "reference",
+    "technique"
+  ],
+  "artifact_type": "note",
+  "platforms": [
+    "blender",
+    "fal",
+    "comfyui"
+  ],
+  "summary": "Internal research note mapping a photoreal BESS cabinet flythrough: LLM-driven Blender blockout and camera via blender-mcp, Cycles/EXR renders, then first/last-frame or depth-video conditioning into MiniMax H3, Kling, Veo, or Wan VACE with licensing and budget guidance.",
+  "question_it_answers": "How do you pipeline Blender agent camera work into MiniMax H3 and depth-conditioned video models for a product flythrough?",
+  "claims": [
+    {
+      "id": "note-blender-minimax-h3-video-generation#c1",
+      "text": "The dominant 2026 recipe is Blender blockout plus LLM camera path, then feed reference video or first/last frames to a video model for photoreal output.",
+      "kind": "recipe",
+      "evidence": "Blender blockout + LLM-authored camera path (via `blender-mcp`) → render reference video + first/last frames → feed to a video model",
+      "evidence_source": "note",
+      "evidence_ref": "blender-minimax-h3-video-generation.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "note-blender-minimax-h3-video-generation#c2",
+      "text": "MiniMax H3 hosted API pins Blender first and last frames via FL2VA at roughly $0.13/s for 2K while open weights exclude US/EU/UK/KR outputs.",
+      "kind": "pricing",
+      "evidence": "**$0.08/s (768p), $0.13/s (2K)** ≈ **$7.80/min at 2K**; US/EU region selectable",
+      "evidence_source": "note",
+      "evidence_ref": "blender-minimax-h3-video-generation.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    },
+    {
+      "id": "note-blender-minimax-h3-video-generation#c3",
+      "text": "Tight interior camera moves need depth-video conditioning such as Wan 2.2 VACE rather than prompt-only commercial models.",
+      "kind": "recipe",
+      "evidence": "condition the model with a **depth video from Blender's Z pass** (Wan 2.2 VACE / LTX-2.3 3DREAL)",
+      "evidence_source": "note",
+      "evidence_ref": "blender-minimax-h3-video-generation.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "polished 30-60s API budget",
+      "value": "200-800",
+      "unit": "USD",
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "blender-mcp-camera",
+    "depth-conditioning",
+    "first-last-frame"
+  ],
+  "tools": [
+    "minimax-h3",
+    "wan-vace",
+    "kling",
+    "veo",
+    "blender-mcp"
+  ],
+  "links": {
+    "canonical": "raw/notes/blender-minimax-h3-video-generation.md",
+    "repo": "https://github.com/ahujasid/blender-mcp",
+    "paper": null,
+    "product": "https://platform.minimax.io/docs/api-reference/video-generation-v2-create",
+    "other": [
+      "https://huggingface.co/MiniMaxAI/MiniMax-H3"
+    ],
+    "related_items": [
+      "x-2091497597743612379",
+      "x-2093380307735232543",
+      "x-2093064017468145963"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/notes",
+    "post": "blender-minimax-h3-video-generation.md",
+    "comments": null,
+    "research": null,
+    "legacy_topics": [],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2093374092795846745",
+      "x-2093064017468145963"
+    ],
+    "must_read": [
+      "blender-minimax-h3-video-generation.md"
+    ],
+    "why_must_read": "Canonical BESS pipeline synthesis with model matrix, licensing traps, and step-by-step stages."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

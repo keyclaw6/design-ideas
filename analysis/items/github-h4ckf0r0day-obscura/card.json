@@ -1,0 +1,118 @@
+{
+  "schema_version": "1",
+  "id": "github-h4ckf0r0day-obscura",
+  "source_type": "github",
+  "url": "https://github.com/h4ckf0r0day/obscura",
+  "title": "Obscura — Apache-2.0 Rust headless browser for agent automation",
+  "author": {
+    "name": "h4ckf0r0day",
+    "handle": "h4ckf0r0day",
+    "url": "https://github.com/h4ckf0r0day"
+  },
+  "published_at": "2026-04-13T10:31:41Z",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "mcp-and-agent-browsers",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "browser",
+    "mcp",
+    "cli"
+  ],
+  "summary": "Apache-2.0 Rust headless browser (~24k stars) for AI agents and scraping: V8 JS, CDP on port 9222, Puppeteer/Playwright drop-in, native screenshot/PDF without Chromium, plus docs and MCP server guide.",
+  "question_it_answers": "What open-source headless browser replaces Chromium for agent sessions with CDP compatibility?",
+  "claims": [
+    {
+      "id": "github-h4ckf0r0day-obscura#c1",
+      "text": "README claims Obscura uses about 30 MB RAM versus 200+ MB for headless Chrome.",
+      "kind": "benchmark",
+      "evidence": "Memory | 30 MB | 200+ MB",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-h4ckf0r0day-obscura#c2",
+      "text": "Obscura is a drop-in replacement for Puppeteer and Playwright with native rendering and no Chromium dependency.",
+      "kind": "capability",
+      "evidence": "acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "23989",
+      "unit": "stars",
+      "source": "linked-page"
+    },
+    {
+      "label": "claimed page load",
+      "value": "85",
+      "unit": "ms",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "agent-browser-isolation"
+  ],
+  "tools": [
+    "obscura"
+  ],
+  "links": {
+    "canonical": "https://github.com/h4ckf0r0day/obscura",
+    "repo": "https://github.com/h4ckf0r0day/obscura",
+    "paper": null,
+    "product": "https://obscura.sh",
+    "other": [
+      "https://docs.obscura.sh",
+      "https://docs.obscura.sh/llms.txt"
+    ],
+    "related_items": [
+      "web-obscura-sh",
+      "web-cloudflare-kitesurf",
+      "x-2094427822064279870"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-h4ckf0r0day-obscura",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-obscura-sh",
+      "web-cloudflare-kitesurf"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Primary OSS repo capture with install paths, comparison table, and Kitesurf origin note."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

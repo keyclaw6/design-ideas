@@ -1,0 +1,62 @@
+{
+  "schema_version": "1",
+  "id": "x-2083853702696231097",
+  "source_type": "x",
+  "url": "https://x.com/mattpocockuk/status/2083853702696231097",
+  "title": "Matt Pocock repost — get good at the domain, not just AI tools",
+  "author": {
+    "name": "Matt Pocock",
+    "handle": "mattpocockuk",
+    "url": "https://x.com/mattpocockuk"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:35Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "empty-capture",
+  "shelf_reason": "Quote-tweet reposts the thesis get good at the thing you are using AI for but the promised illustration, link, and quoted body were not captured in this harvest.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Matt Pocock repost emphasizing domain mastery over AI tool fluency; the capture ends before any illustration or linked artifact and duplicates better taste-skill sources already in the library.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/mattpocockuk/status/2083853702696231097",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "web-opale-ui-taste",
+      "x-2086838432102228008"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2083853702696231097",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

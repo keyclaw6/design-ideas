@@ -1,0 +1,108 @@
+{
+  "schema_version": "1",
+  "id": "x-2091497597743612379",
+  "source_type": "x",
+  "url": "https://x.com/abyssallD/status/2091497597743612379",
+  "title": "Higgsfield + Claude Opus 5 builds animated low-poly Blender world in-prompt",
+  "author": {
+    "name": null,
+    "handle": "abyssallD",
+    "url": "https://x.com/abyssallD"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:49Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [
+    "web-3d-scenes"
+  ],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "blender",
+    "higgsfield",
+    "claude-code"
+  ],
+  "summary": "Demo thread: Higgsfield plugin with Claude Opus 5 builds a full low-poly forest scene inside Blender from prompts—terrain, lake, lighting, camera—then Meshy 6 drops a rigged character and animates a walk without leaving Blender.",
+  "question_it_answers": "Can an agent plugin inside Blender go from empty cube to animated low-poly world via prompts alone?",
+  "claims": [
+    {
+      "id": "x-2091497597743612379#c1",
+      "text": "Claude Opus 5 through the Higgsfield plugin generates terrain, lake, mountains, trees, paths, lighting, and camera into a real .blend file from one prompt.",
+      "kind": "capability",
+      "evidence": "Full forest appears in the real .blend file",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2091497597743612379#c2",
+      "text": "A follow-on prompt uses Meshy 6 to generate a rigged low-poly adventurer and animate walking in the same Blender scene.",
+      "kind": "recipe",
+      "evidence": "Meshy 6 generates a low-poly adventurer — rigged and ready. Drops him straight into the scene.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "in-blender-agent-scene-build"
+  ],
+  "tools": [
+    "higgsfield",
+    "meshy",
+    "blender"
+  ],
+  "links": {
+    "canonical": "https://x.com/abyssallD/status/2091497597743612379",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "note-blender-minimax-h3-video-generation",
+      "x-2093064017468145963",
+      "x-2093380307735232543"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091497597743612379",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "camera-control",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "media-undescribed"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2093064017468145963",
+      "note-blender-minimax-h3-video-generation"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "In-Blender agent world-build demo distinct from export-to-video-model pipeline."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

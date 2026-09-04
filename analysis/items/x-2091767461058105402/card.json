@@ -1,0 +1,99 @@
+{
+  "schema_version": "1",
+  "id": "x-2091767461058105402",
+  "source_type": "x",
+  "url": "https://x.com/DennisAdriaans/status/2091767461058105402",
+  "title": "Dashboard Stack carousel studio — Instagram and LinkedIn slide generator",
+  "author": {
+    "name": null,
+    "handle": "DennisAdriaans",
+    "url": "https://x.com/DennisAdriaans"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:48Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "infographics-diagrams",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "other"
+  ],
+  "summary": "Launch post for studio.dashboardstack.sh: a carousel builder for Instagram and LinkedIn slides, with an open-source repo promised soon and an explicit engagement-farming pitch for social posts.",
+  "question_it_answers": "What tool generates Instagram and LinkedIn carousel slides for social distribution?",
+  "claims": [
+    {
+      "id": "x-2091767461058105402#c1",
+      "text": "Dashboard Stack studio is live for creating Instagram and LinkedIn carousels.",
+      "kind": "availability",
+      "evidence": "and it is live; Instagram + LinkedIn carousels",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2091767461058105402#c2",
+      "text": "Author says an open-source repo will be available soon for the carousel studio.",
+      "kind": "availability",
+      "evidence": "open source repo soon available",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "dashboard-stack"
+  ],
+  "links": {
+    "canonical": "https://x.com/DennisAdriaans/status/2091767461058105402",
+    "repo": null,
+    "paper": null,
+    "product": "https://studio.dashboardstack.sh",
+    "other": [],
+    "related_items": [
+      "x-2093309791120543846",
+      "web-flint-chart"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091767461058105402",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "infographics",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2093309791120543846"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Only link is the studio URL; product surface not captured yet."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}

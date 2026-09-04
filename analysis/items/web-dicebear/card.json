@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "web-dicebear",
+  "source_type": "website",
+  "url": "https://www.dicebear.com",
+  "title": "DiceBear — MIT avatar library with 61 deterministic seedable styles",
+  "author": {
+    "name": "DiceBear",
+    "handle": "dicebear",
+    "url": "https://github.com/dicebear"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:56:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Open-source MIT avatar library with 61 styles: deterministic profile pictures from a seed via HTTP API, language SDKs, CLI, visual editor, and a Figma-to-JSON custom-style pipeline for profiles, chat, and placeholders.",
+  "question_it_answers": "How do you ship deterministic seeded avatars without storing user photos?",
+  "claims": [
+    {
+      "id": "web-dicebear#c1",
+      "text": "The HTTP API serves deterministic avatars from a style and seed at api.dicebear.com/10.x/{style}/{format}.",
+      "kind": "recipe",
+      "evidence": "HTTP API: `https://api.dicebear.com/10.x/{style}/{format}?seed={seed}`",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-dicebear#c2",
+      "text": "Custom styles can be designed in Figma with DiceBear naming conventions and exported via the Studio plugin to JSON.",
+      "kind": "capability",
+      "evidence": "Design components in Figma with DiceBear naming conventions",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "avatar style count",
+      "value": "61",
+      "unit": "styles",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "dicebear"
+  ],
+  "links": {
+    "canonical": "https://www.dicebear.com",
+    "repo": "https://github.com/dicebear/dicebear",
+    "paper": null,
+    "product": "https://editor.dicebear.com/",
+    "other": [
+      "https://www.dicebear.com/playground/",
+      "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix"
+    ],
+    "related_items": [
+      "web-tinyshots",
+      "web-cult-ui",
+      "web-checklist-design"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-dicebear",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-tinyshots"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "API pattern, editor, and Figma custom-style workflow for marketing-site avatars."
+  },
+  "worker": "cards-07",
+  "written_at": "2026-09-04T18:25:00Z"
+}
