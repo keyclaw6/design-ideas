@@ -17,8 +17,8 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 |---|---|---|---|---|---|
 | scroll-craft | grammar (generates a page) | high scroll-timeline | skill install + QA | high (Claude Code) | unknown (refuse-lists exist; no viewport log) |
 | Cult UI | kit + agent-pattern gallery | hover / app chrome | npm / registry | high | unknown |
-| Originkit | kit (363+ sections) | mixed (text, bg, galleries) | MCP import stated | React / Next | unknown |
-| Vengeance UI | kit (46 marketing parts) | hover + text motion | `npx shadcn add @vengeanceui/…` | high | unknown |
+| Originkit | kit (homepage RSC **468** unique gallery slugs; marketing said 363+) | mixed (text, bg, galleries) | MCP hello at mcp.originkit.dev; no public registry.json | React / Next | unknown |
+| Vengeance UI | kit (live **46 / 9 families**; registry.json **132** items) | hover + text motion | `npx shadcn@latest add @vengeanceui/[component]` exercised on copy only | high | unknown |
 | 23rd.dev | curated registry | shader / animated bg | shadcn add | React + Svelte | unknown |
 | ReactBits Pro | kit (paid) | marketing motion | restyle primitives | React | unknown |
 | AICSS / beautifului | kit (agent UI) | micro / streaming | copy-paste | React implied | unknown |
@@ -36,8 +36,9 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 - scroll-craft fingerprint gate — README names the eight grammars and the ≥4-of-6 rule ([scroll-craft](../../tools/scroll-craft.md)). Still need a before/after of one landing failing the gate.
 - Fable 5.1 “matches Fable 5 landing quality at lower cost” — 149s walkthrough; no side-by-side stills in the card.
 - 300-frame Gemini → Framer bind — pipeline named; no public repo of the 300 frames.
-- Originkit “363+” and Cult “92+ AI SDK patterns” — marketing counts; confirm on the live registries.
-- Vengeance install command — stated on the card; not exercised here.
+- Cult OSS docs: **77** `content/docs/components/*.mdx` including `ai-instructions.mdx`. “92+ AI SDK patterns” still looks Cult Pro, not the OSS count ([cult-ui](../../tools/cult-ui.md)). Homepage fetch 429.
+- Originkit homepage RSC **468 unique** `…/components/<slug>-gallery` slugs. Card “363+” is marketing; 363 in the dump was a font hash. MCP `https://mcp.originkit.dev` JSON hello. Public `/registry.json` 404. Beta quota: components 10/day 25/week, sections 5/day 10/week, templates 3/day 7/week.
+- Vengeance live site `vengeanceui.com` (not vengence-ui.com): **46 / 9 families**. Registry JSON **132** items — may be more than marketing 46. Install command confirmed on the page.
 
 One X primary is `failed` (see brief thread table). Do not read that silence as “no discussion.”
 
@@ -52,6 +53,6 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 ## landing-ui-motion — next capture work
 
 1. Install scroll-craft once and record which of the eight grammars it refuses on a default Claude landing.
-2. Diff Cult vs Originkit vs Vengeance on one hero + one pricing section (same copy) and note mobile breakpoints.
+2. Diff Cult vs Originkit vs Vengeance on one hero + one pricing section (same copy) and note mobile breakpoints. Counts are parked on [cult-ui](../../tools/cult-ui.md); same-copy render still missing.
 3. Fetch the Blume.codes X article body if the card is still `linked-page-unfetched`.
 4. Re-fetch the failed landing-ui-motion thread listed in the brief.
