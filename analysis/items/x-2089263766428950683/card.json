@@ -1,0 +1,115 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/neropursue/status/2089263766428950683",
+  "title": "Curated list of animated UI kits plus Agentation for agent UI markup",
+  "author": {
+    "name": "Nero",
+    "handle": "neropursue",
+    "url": "https://x.com/neropursue"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:30Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Bookmark thread listing ready-to-use animated UI libraries—originkit, orbs, transitions.dev, 21st.dev, Aceternity, component.gallery—and agentation.com for annotating live UI to guide coding agents.",
+  "question_it_answers": "Which UI motion libraries and agent annotation tools should I bookmark for AI-native landing pages?",
+  "claims": [
+    {
+      "id": "x-2089263766428950683#c1",
+      "text": "agentation.com lets you annotate a live UI to guide a coding agent rather than only copying components.",
+      "kind": "capability",
+      "evidence": "http://agentation.com  Annotate your UI. Guide your coding agent",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2089263766428950683#c2",
+      "text": "component.gallery aggregates UI patterns from 95 design systems.",
+      "kind": "availability",
+      "evidence": "http://component.gallery  patterns from 95 design systems",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "design systems on component.gallery",
+      "value": "95",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "ui-annotation-for-agents"
+  ],
+  "tools": [
+    "agentation"
+  ],
+  "links": {
+    "canonical": "https://x.com/neropursue/status/2089263766428950683",
+    "repo": null,
+    "paper": null,
+    "product": "https://agentation.com",
+    "other": [
+      "https://www.originkit.dev/",
+      "https://orbs.jakubantalik.com/",
+      "https://transitions.dev/",
+      "https://21st.dev/",
+      "https://ui.aceternity.com/",
+      "https://component.gallery/"
+    ],
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "x-2089182103153897532",
+      "x-2089740155179643231"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2089263766428950683",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-originkit-dev",
+      "web-cult-ui"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2089263766428950683",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

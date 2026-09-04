@@ -1,0 +1,118 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/EyalToledano/status/2093429897188299113",
+  "title": "Qwen expert-on-disk streaming runs full model in 37GB at 40 tok/s",
+  "author": {
+    "name": "Eyal Toledano",
+    "handle": "EyalToledano",
+    "url": "https://x.com/EyalToledano"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:46Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "local-inference-models",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Follow-up on Qwen3.8-Flash-Next storing sixty percent of MoE experts on disk with on-demand streaming; author reports full-expert eval on thirty-seven gigabytes RAM decoding at forty tokens per second on an M4 Max.",
+  "question_it_answers": "How can MoE experts stream from disk to run a full Qwen model under forty gigabytes locally?",
+  "claims": [
+    {
+      "id": "x-2093429897188299113#c1",
+      "text": "Sixty percent of experts are stored on disk and stream to memory on demand, similar to n-gram streaming.",
+      "kind": "capability",
+      "evidence": "I stored 60% of experts on disk which stream to memory on-demand. Similar technique as n-gram streaming",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2093429897188299113#c2",
+      "text": "Full experts without pruning run in thirty-seven gigabytes and decode at forty tokens per second on M4 Max.",
+      "kind": "benchmark",
+      "evidence": "Just eval'd with FULL experts (no prune) running on just 37gb of memory and decoding at 40 tok/s on my M4 Max",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "experts stored on disk",
+      "value": "60",
+      "unit": "%",
+      "source": "post"
+    },
+    {
+      "label": "resident memory with full experts",
+      "value": "37",
+      "unit": "GB",
+      "source": "post"
+    },
+    {
+      "label": "decode speed on M4 Max",
+      "value": "40",
+      "unit": "tok/s",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "moe-expert-disk-streaming"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/EyalToledano/status/2093429897188299113",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2093160779960774982"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Benchmark table comparing REAP-288 and full-model configs showing resident RAM, bare and MTP speeds, and quality percentages with a highlighted 37.3GB row.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093429897188299113",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2093160779960774982",
+      "x-2087240056037908509"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2093429897188299113",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

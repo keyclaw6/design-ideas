@@ -1,0 +1,122 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/robinstetic/status/2094467179320119498",
+  "title": "AIDesigner MCP clones site HTML and CSS into Claude Code projects",
+  "author": {
+    "name": "robin.",
+    "handle": "robinstetic",
+    "url": "https://x.com/robinstetic"
+  },
+  "published_at": "2026-08-31T16:47:43Z",
+  "captured_at": "2026-09-02T18:33:15Z",
+  "lang": "es",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "claude-code",
+    "mcp"
+  ],
+  "summary": "Spanish promo of a Claude Code demo using AIDesigner MCP to analyze page HTML/CSS and clone or inspire layouts from live URLs such as browserbase.com and linear.app; hosted MCP at api.aidesigner.ai with npm bootstrap @aidesigner/agent-skills.",
+  "question_it_answers": "How does AIDesigner MCP let Claude Code clone or inspire UI from an existing website URL?",
+  "claims": [
+    {
+      "id": "x-2094467179320119498#c1",
+      "text": "AIDesigner MCP analyzes HTML and CSS of any page and extracts colors, typography, and components for Claude Code.",
+      "kind": "capability",
+      "evidence": "Montó un MCP que analiza el HTML/CSS de cualquier página y extrae colores, tipografía y componentes.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2094467179320119498#c2",
+      "text": "The hosted MCP endpoint is https://api.aidesigner.ai/api/v1/mcp with npm bootstrap @aidesigner/agent-skills.",
+      "kind": "availability",
+      "evidence": "MCP endpoint in Cursor config: `https://api.aidesigner.ai/api/v1/mcp`",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "website-clone-mcp",
+    "inspire-from-url"
+  ],
+  "tools": [
+    "aidesigner-mcp",
+    "aidesigner-agent-skills"
+  ],
+  "links": {
+    "canonical": "https://x.com/robinstetic/status/2094467179320119498",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.aidesigner.ai/ai-ui-design-mcp",
+    "other": [
+      "https://api.aidesigner.ai/api/v1/mcp",
+      "https://www.npmjs.com/package/@aidesigner/agent-skills",
+      "https://www.aidesigner.ai/docs/mcp"
+    ],
+    "related_items": [
+      "web-aidesigner-mcp",
+      "web-styles-refero-design",
+      "github-google-labs-code-design-md"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": "Fifty-five second demo of Claude Code in aidesigner-mcp-demo cloning browserbase.com, Linear, and other sites via AIDesigner MCP with before-after localhost comparisons.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "Video thumbnail showing Claude Code v2.1 terminal in the aidesigner-mcp-demo repository ready for MCP clone prompts.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094467179320119498",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-aidesigner-mcp",
+      "web-styles-refero-design"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2094467179320119498",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

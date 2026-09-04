@@ -1,0 +1,114 @@
+{
+  "source_type": "website",
+  "url": "https://microsoft.github.io/flint-chart/",
+  "title": "Microsoft Flint chart IL: compact specs compile to Vega, ECharts, Plotly",
+  "author": {
+    "name": "Microsoft",
+    "handle": null,
+    "url": "https://github.com/microsoft/flint-chart"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "infographics-diagrams",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp",
+    "cursor"
+  ],
+  "summary": "Microsoft Flint is a visualization intermediate language where agents write compact chart specs that compile to Vega-Lite, ECharts, Chart.js, Plotly, or Excel with publication themes. Hosted flint-chart-mcp exposes the compiler to coding agents.",
+  "question_it_answers": "How can an agent emit one chart spec that compiles to multiple visualization backends with styled themes?",
+  "claims": [
+    {
+      "id": "web-flint-chart#c1",
+      "text": "Flint derives scales, axes, and spacing from a semantic spec plus data and optional theme.",
+      "kind": "capability",
+      "evidence": "Flint derives scales, axes, spacing from semantic spec + data + optional theme.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "web-flint-chart#c2",
+      "text": "A hosted MCP server at flint.data-formulator.ai/mcp exposes Flint to agent clients.",
+      "kind": "availability",
+      "evidence": "Hosted MCP: `https://flint.data-formulator.ai/mcp`",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "flint-chart-spec",
+    "chart-theme-presets"
+  ],
+  "tools": [
+    "flint-chart-mcp"
+  ],
+  "links": {
+    "canonical": "https://microsoft.github.io/flint-chart/",
+    "repo": "https://github.com/microsoft/flint-chart",
+    "paper": null,
+    "product": "https://flint.data-formulator.ai/mcp",
+    "other": [
+      "https://www.npmjs.com/package/flint-chart"
+    ],
+    "related_items": [
+      "github-antvis-infographic",
+      "github-cathrynlavery-diagram-design",
+      "web-iandmacomber-post-ai-data-stack",
+      "web-aidesigner-mcp"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/favicon.svg",
+      "type": "other",
+      "description": "Flint site favicon: geometric folded-paper mark in gray tones used on the project docs homepage.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/web-flint-chart",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "infographics",
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-antvis-infographic",
+      "web-aidesigner-mcp"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "web-flint-chart",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

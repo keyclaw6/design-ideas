@@ -1,0 +1,102 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/GarshytHoel/status/2091559663833924082",
+  "title": "system-atlas skill builds explorable isometric maps from one data file",
+  "author": {
+    "name": "harsh",
+    "handle": "GarshytHoel",
+    "url": "https://x.com/GarshytHoel"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:32Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "infographics-diagrams",
+  "secondary_subjects": [
+    "agent-memory-knowledge"
+  ],
+  "roles": [
+    "technique",
+    "tool"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "claude-code",
+    "cursor"
+  ],
+  "summary": "system-atlas is an agent skill that renders an explorable isometric map of a codebase, agent, or pipeline from one data file with progressive disclosure, hover details, and a generated markdown twin that stays in sync.",
+  "question_it_answers": "How can agents explore a large system architecture visually instead of reading walls of docs?",
+  "claims": [
+    {
+      "id": "x-2091559663833924082#c1",
+      "text": "The atlas uses progressive disclosure chapters that reveal a few boxes at a time instead of dumping the whole system.",
+      "kind": "capability",
+      "evidence": "chapters reveal the system a few boxes at a time instead of all at once.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2091559663833924082#c2",
+      "text": "A markdown twin is generated from the same data file so documentation cannot drift from the visual atlas.",
+      "kind": "capability",
+      "evidence": "the md twin is generated from the same file so it can't drift",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "system-atlas-isometric-map"
+  ],
+  "tools": [
+    "system-atlas"
+  ],
+  "links": {
+    "canonical": "https://x.com/GarshytHoel/status/2091559663833924082",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087239769877295158",
+      "x-2086838432102228008",
+      "github-antvis-infographic"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091559663833924082",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "infographics",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087239769877295158",
+      "github-antvis-infographic"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2091559663833924082",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

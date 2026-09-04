@@ -1,0 +1,106 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/martindonadieu/status/2087827123331383751",
+  "title": "Practitioner switched from Ahrefs to OpenSEO after audit credit walls",
+  "author": {
+    "name": "martindonadieu",
+    "handle": "martindonadieu",
+    "url": "https://x.com/martindonadieu"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "claim-source",
+    "example"
+  ],
+  "artifact_type": "opinion",
+  "platforms": [
+    "mcp"
+  ],
+  "summary": "Practitioner rant about dropping a paid Ahrefs plan for OpenSEO.so after site audits stalled on credit limits, crawls failed, and MCP access to broken-backlink lists required another paid upgrade.",
+  "question_it_answers": "What failure modes appear when wiring Ahrefs MCP for agent SEO audits versus OpenSEO?",
+  "claims": [
+    {
+      "id": "x-2087827123331383751#c1",
+      "text": "Ahrefs audits stopped after two weeks with a no-more-credits message despite an active paid plan.",
+      "kind": "result",
+      "evidence": "it's be 2 week it stopped to audit my site and say there is no more credits.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2087827123331383751#c2",
+      "text": "Connecting Ahrefs MCP for broken-backlink data cost an extra eighteen dollars and still prompted another upgrade.",
+      "kind": "pricing",
+      "evidence": "i had to pay 18$ more to connect MCP to get list of my broken backlink i paid and it asked me again to upgrade more....",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "extra MCP connection fee cited",
+      "value": "18",
+      "unit": "USD",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "openseo-so"
+  ],
+  "links": {
+    "canonical": "https://x.com/martindonadieu/status/2087827123331383751",
+    "repo": null,
+    "paper": null,
+    "product": "http://openseo.so",
+    "other": [],
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-crowdreply",
+      "web-seowins-io",
+      "web-tinylaunch-directories"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087827123331383751",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-iannuttall-seo",
+      "web-seowins-io"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2087827123331383751",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

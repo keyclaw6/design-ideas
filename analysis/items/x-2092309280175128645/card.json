@@ -1,0 +1,58 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/vikktorrrre/status/2092309280175128645",
+  "title": "ChatGPT student offer repost: four free months of Plus via SheerID",
+  "author": {
+    "name": "vikktorrrre",
+    "handle": "vikktorrrre",
+    "url": "https://x.com/vikktorrrre"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:45Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "availability-announcement",
+  "shelf_reason": "Repost of OpenAI's ChatGPT student promotion offering four free Plus months through SheerID verification at chatgpt.com/students/2026; capture has no agent artifact, workflow, or library-relevant technique beyond a signup link.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Repost announcing eligible students can claim four months of ChatGPT Plus free via SheerID at chatgpt.com/students/2026; no technical content for the analysis library beyond a consumer promo link.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/vikktorrrre/status/2092309280175128645",
+    "repo": null,
+    "paper": null,
+    "product": "https://chatgpt.com/students/2026",
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092309280175128645",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2092309280175128645",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

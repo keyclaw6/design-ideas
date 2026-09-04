@@ -1,0 +1,116 @@
+{
+  "source_type": "github",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "title": "Leonxlnx Taste Skill: portable anti-slop agent skills for UI layout and motion",
+  "author": {
+    "name": "Leonxlnx",
+    "handle": "Leonxlnx",
+    "url": "https://github.com/Leonxlnx"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "claude-code",
+    "codex"
+  ],
+  "summary": "MIT-licensed agent-skills repo that upgrades AI-built interfaces on layout, typography, motion, and spacing, plus image-generation skills for reference boards. Individual SKILL.md files install in Codex, Cursor, or Claude Code; docs and examples live at tasteskill.dev.",
+  "question_it_answers": "Which portable taste skills upgrade generic AI-built UIs instead of adding another component kit?",
+  "claims": [
+    {
+      "id": "github-leonxlnx-taste-skill#c1",
+      "text": "The repo ships portable Agent Skills that improve layout, typography, motion, and spacing on AI-built interfaces.",
+      "kind": "capability",
+      "evidence": "Portable Agent Skills that upgrade AI-built interfaces: stronger layout, typography, motion, and spacing instead of boilerplate-looking UIs.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-leonxlnx-taste-skill#c2",
+      "text": "Image-generation skills produce reference boards meant to hand off mood and direction to coding agents.",
+      "kind": "capability",
+      "evidence": "Also includes image-generation skills for reference boards to hand off to coding agents.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "anti-slop-ui-skills",
+    "reference-board-handoff"
+  ],
+  "tools": [
+    "taste-skill"
+  ],
+  "links": {
+    "canonical": "https://github.com/Leonxlnx/taste-skill",
+    "repo": "https://github.com/Leonxlnx/taste-skill",
+    "paper": null,
+    "product": "https://tasteskill.dev",
+    "other": [
+      "https://github.com/vercel-labs/agent-skills"
+    ],
+    "related_items": [
+      "github-emilkowalski-skills",
+      "web-opale-ui-taste",
+      "github-pbakaus-impeccable",
+      "github-jakubkrehel-skills",
+      "github-mengto-skills"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/readme-banner.webp",
+      "type": "image",
+      "description": "Wide README banner for Taste Skill branding with preview collage of upgraded UI layouts and typography samples.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/github-leonxlnx-taste-skill",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-emilkowalski-skills",
+      "web-opale-ui-taste"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "github-leonxlnx-taste-skill",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

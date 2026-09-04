@@ -1,0 +1,134 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/0x0SojalSec/status/2094929928865341832",
+  "title": "NVIDIA ArtiFixer tweet: video diffusion repairs sparse 3D scans",
+  "author": {
+    "name": "Md Ismail Šojal",
+    "handle": "0x0SojalSec",
+    "url": "https://x.com/0x0SojalSec"
+  },
+  "published_at": "2026-09-01T23:26:31Z",
+  "captured_at": "2026-09-02T17:38:09Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "gaussian-splatting",
+  "secondary_subjects": [
+    "image-to-3d-world"
+  ],
+  "roles": [
+    "reference",
+    "claim-source"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Aggregator recap of NVIDIA open-source ArtiFixer: video diffusion synthesizes missing camera angles on broken 3D scans then reconstructs the scene; claims seventy-times speed, one-to-four steps, and about three dB over SOTA with Hugging Face weights linked.",
+  "question_it_answers": "What does NVIDIA ArtiFixer do for broken or sparse 3D Gaussian reconstructions?",
+  "claims": [
+    {
+      "id": "x-2094929928865341832#c1",
+      "text": "ArtiFixer uses video diffusion to generate camera angles never captured and reconstructs the scene from generated frames.",
+      "kind": "capability",
+      "evidence": "It uses video diffusion to generate the camera angles you never captured, then reconstructs the scene from the generated frames.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094929928865341832#c2",
+      "text": "The tweet claims ArtiFixer finishes in one to four steps and beats SOTA by about three dB.",
+      "kind": "benchmark",
+      "evidence": "- 70x faster, Finishes in 1 to 4 steps\n- Beats SOTA by 3dB",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "unverified",
+      "subject": "gaussian-splatting"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "inference steps cited",
+      "value": "1-4",
+      "unit": "steps",
+      "source": "post"
+    },
+    {
+      "label": "PSNR improvement cited",
+      "value": "3",
+      "unit": "dB",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "artifixer-video-diffusion-repair"
+  ],
+  "tools": [
+    "artifixer"
+  ],
+  "links": {
+    "canonical": "https://x.com/0x0SojalSec/status/2094929928865341832",
+    "repo": "https://github.com/nv-tlabs/ArtiFixer",
+    "paper": "https://arxiv.org/abs/2603.00492",
+    "product": "https://huggingface.co/nvidia/ArtiFixer",
+    "other": [
+      "https://research.nvidia.com/labs/sil/projects/artifixer/"
+    ],
+    "related_items": [
+      "github-nv-tlabs-ArtiFixer",
+      "x-2094648474377839018",
+      "x-2094826117056414132"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": "Sixteen second comparison video showing ArtiFixer3D+ producing a sharp bicycle-and-bench scene versus blurry 3DGUT, GenFusion, and GSFixer outputs.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "Static four-panel grid comparing 3DGUT, GenFusion, GSFixer noise against a sharp ArtiFixer3D+ bicycle beside a park bench.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094929928865341832",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "camera-control",
+      "gaussian-splatting",
+      "bess-3d-flythrough"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-nv-tlabs-ArtiFixer",
+      "x-2094648474377839018"
+    ],
+    "must_read": [
+      "github-nv-tlabs-ArtiFixer"
+    ],
+    "why_must_read": "Official repo and paper supersede aggregator tweet stats."
+  },
+  "schema_version": "1",
+  "id": "x-2094929928865341832",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

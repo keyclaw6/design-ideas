@@ -1,0 +1,107 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/simplifyinAI/status/2087239769877295158",
+  "title": "Sentrux Rust binary scores codebase architecture for agent sessions",
+  "author": {
+    "name": "Simplifying AI",
+    "handle": "simplifyinAI",
+    "url": "https://x.com/simplifyinAI"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:25Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [
+    "agent-harness-loops"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "cli"
+  ],
+  "summary": "Sentrux is a pure-Rust architectural sensor that scans repo structure and dependencies into a live treemap and folds five root-cause metrics into one quality score so agents start from a map instead of blind grep.",
+  "question_it_answers": "How can an agent keep a live architecture map between sessions without re-explaining the codebase?",
+  "claims": [
+    {
+      "id": "x-2087239769877295158#c1",
+      "text": "Sentrux watches a codebase as a live treemap and compresses structure and dependency risk into one continuous quality score.",
+      "kind": "capability",
+      "evidence": "sentrux is a real-time architectural sensor, it watches your codebase as a live treemap and turns file structure and dependencies into one continuous quality score.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087239769877295158#c2",
+      "text": "Language support lives in plugin.toml and tags.scm files so adding a language needs no Rust changes.",
+      "kind": "capability",
+      "evidence": "all 52 languages live in plugin.toml and tags.scm query files, so a new language needs zero rust code.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "languages via plugins",
+      "value": "52",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "architecture-treemap-score"
+  ],
+  "tools": [
+    "sentrux"
+  ],
+  "links": {
+    "canonical": "https://x.com/simplifyinAI/status/2087239769877295158",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2086838432102228008",
+      "x-2091559663833924082",
+      "github-google-labs-code-design-md",
+      "web-davidgasquez-context-engineering"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087239769877295158",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2091559663833924082",
+      "web-davidgasquez-context-engineering"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2087239769877295158",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

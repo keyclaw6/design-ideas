@@ -1,0 +1,88 @@
+{
+  "source_type": "x",
+  "url": "https://x.com/CadX_Studio/status/2090535643353153833",
+  "title": "CadX Studio prompt-to-CAD wheel hub with bolt circle and spline",
+  "author": {
+    "name": "CadX Studio",
+    "handle": "CadX_Studio",
+    "url": "https://x.com/CadX_Studio"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:32Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "claim-source"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "other"
+  ],
+  "summary": "CadX Studio demo testing AI design of a wheel hub with bolt circle, drive spline, and brake-disc mount, going from prompt to CAD model to engineering drawing at cadxstudio.in.",
+  "question_it_answers": "Can CadX Studio generate constrained mechanical parts like a wheel hub with engineering drawings?",
+  "claims": [
+    {
+      "id": "x-2090535643353153833#c1",
+      "text": "CadX Studio produced a wheel hub with bolt circle, drive spline, and brake disc mount from a prompt through to an engineering drawing.",
+      "kind": "capability",
+      "evidence": "Bolt circle. Drive spline. Brake disc mount. From prompt to CAD model to engineering drawing.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "text-to-cad"
+  ],
+  "tools": [
+    "cadx-studio"
+  ],
+  "links": {
+    "canonical": "https://x.com/CadX_Studio/status/2090535643353153833",
+    "repo": null,
+    "paper": null,
+    "product": "https://cadxstudio.in",
+    "other": [],
+    "related_items": [
+      "x-2089717063921332378",
+      "x-2087272209429766596",
+      "x-2089802212000362939"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2090535643353153833",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087272209429766596",
+      "x-2089802212000362939"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "x-2090535643353153833",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

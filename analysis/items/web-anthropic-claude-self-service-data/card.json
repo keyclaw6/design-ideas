@@ -1,0 +1,118 @@
+{
+  "source_type": "website",
+  "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+  "title": "Anthropic self-service analytics playbook: semantic layer, skills, and evals",
+  "author": {
+    "name": "Anthropic",
+    "handle": null,
+    "url": "https://claude.com"
+  },
+  "published_at": "2026-06-03",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "article",
+  "platforms": [
+    "claude-code",
+    "mcp"
+  ],
+  "summary": "Anthropic engineering post on automating business analytics with Claude by mapping questions to governed entities—not raw SQL generation. Canonical datasets, semantic layers, skills, freshness checks, and evals address ambiguity, staleness, and retrieval misses.",
+  "question_it_answers": "How did Anthropic automate most business analytics queries without agents inventing metric definitions?",
+  "claims": [
+    {
+      "id": "web-anthropic-claude-self-service-data#c1",
+      "text": "Anthropic reports roughly 95% of business analytics queries automated at about 95% aggregate accuracy.",
+      "kind": "benchmark",
+      "evidence": "~95% of business analytics queries automated via Claude",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-anthropic-claude-self-service-data#c2",
+      "text": "Auto-generating metric definitions from raw tables failed evals because definitions stayed plausible but ambiguous.",
+      "kind": "result",
+      "evidence": "Auto-generating metric defs from raw tables **failed evals** (plausible but ambiguous defs)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "business analytics queries automated",
+      "value": "95",
+      "unit": "%",
+      "source": "linked-page"
+    },
+    {
+      "label": "aggregate query accuracy",
+      "value": "95",
+      "unit": "%",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "semantic-layer-first",
+    "canonical-datasets",
+    "analytics-skills-routing"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+      "https://www.iandmacomber.com/blog/post-ai-data-stack",
+      "https://davidgasquez.com/context-engineering-is-a-data-problem"
+    ],
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering",
+      "web-iandmacomber-post-ai-data-stack",
+      "web-chatgpt-training",
+      "web-graphed"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-anthropic-claude-self-service-data",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "web-anthropic-claude-self-service-data",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}

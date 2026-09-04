@@ -1,0 +1,113 @@
+{
+  "source_type": "website",
+  "url": "https://styles.refero.design",
+  "title": "Refero Styles gallery: 2000+ downloadable DESIGN.md files for agents",
+  "author": {
+    "name": "refero",
+    "handle": null,
+    "url": "https://refero.design"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "cursor",
+    "claude-code",
+    "codex",
+    "mcp"
+  ],
+  "summary": "Beta gallery of 2,000+ AI-readable design systems scraped from product sites. Each style exposes colors, typography, spacing, components, and a downloadable DESIGN.md for Cursor, Claude Code, Codex, v0, or Lovable, with Refero MCP for agent retrieval.",
+  "question_it_answers": "Where can agents download named-brand DESIGN.md style files at scale instead of hand-copying tokens?",
+  "claims": [
+    {
+      "id": "web-styles-refero-design#c1",
+      "text": "The gallery lists 2,000+ design systems with downloadable DESIGN.md files for agent hosts.",
+      "kind": "capability",
+      "evidence": "Gallery of 2,000+ AI-readable design systems from leading product websites. Each style exposes colors, typography, spacing, components, and a downloadable DESIGN.md",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-styles-refero-design#c2",
+      "text": "Featured styles include Apple, Linear, Notion, Duolingo, ElevenLabs, Mercury, Authkit, and Harness.io with mood imagery.",
+      "kind": "availability",
+      "evidence": "Apple, Linear, Notion, Duolingo, ElevenLabs, Mercury, Authkit, Harness.io — each with mood-board imagery and linked DESIGN.md.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "design systems in gallery",
+      "value": "2000",
+      "unit": "+",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "design-md-download"
+  ],
+  "tools": [
+    "refero-mcp"
+  ],
+  "links": {
+    "canonical": "https://styles.refero.design",
+    "repo": null,
+    "paper": null,
+    "product": "https://refero.design/mcp",
+    "other": [
+      "https://styles.refero.design/ai-agents/design-md-examples",
+      "https://github.com/google-labs-code/design.md"
+    ],
+    "related_items": [
+      "web-getdesign-md",
+      "github-google-labs-code-design-md",
+      "web-sokosumi-design-md",
+      "web-aidesigner-mcp",
+      "github-pbakaus-impeccable"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-styles-refero-design",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-getdesign-md",
+      "github-google-labs-code-design-md"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "schema_version": "1",
+  "id": "web-styles-refero-design",
+  "worker": "cards-10",
+  "written_at": "2026-09-04T18:15:00Z"
+}
