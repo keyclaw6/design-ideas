@@ -1,0 +1,988 @@
+{
+  "doc": {
+    "height": 11754,
+    "vh": 900,
+    "acts": [
+      "pin",
+      "flow",
+      "pin",
+      "flow",
+      "pan",
+      "flow",
+      "pin"
+    ],
+    "world": null
+  },
+  "report": [
+    {
+      "i": 0,
+      "y": 6,
+      "pct": 0,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "dir": "dark-on-light",
+          "worst": 17.87,
+          "mean": 18
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI A",
+          "dir": "dark-on-light",
+          "worst": 17.84,
+          "mean": 17.96
+        }
+      ],
+      "cues": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "o": 1
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI Automat",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        0,
+        2070,
+        6354,
+        10398
+      ],
+      "segs": [],
+      "custom": [
+        "hero:0",
+        "ring:0"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 1,
+      "y": 158,
+      "pct": 1,
+      "settled": false,
+      "contrast": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "dir": "dark-on-light",
+          "worst": 17.87,
+          "mean": 18
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI A",
+          "dir": "dark-on-light",
+          "worst": 17.84,
+          "mean": 17.96
+        }
+      ],
+      "cues": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "o": 1
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI Automat",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        0,
+        1918,
+        6202,
+        10246
+      ],
+      "segs": [],
+      "custom": [
+        "hero:28",
+        "ring:0"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 2,
+      "y": 309,
+      "pct": 3,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "dir": "dark-on-light",
+          "worst": 17.87,
+          "mean": 18
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI A",
+          "dir": "dark-on-light",
+          "worst": 17.84,
+          "mean": 17.96
+        }
+      ],
+      "cues": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "o": 1
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI Automat",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        0,
+        1767,
+        6051,
+        10095
+      ],
+      "segs": [],
+      "custom": [
+        "hero:66",
+        "ring:0"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 3,
+      "y": 350,
+      "pct": 3,
+      "settled": false,
+      "contrast": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "dir": "dark-on-light",
+          "worst": 17.87,
+          "mean": 18
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI A",
+          "dir": "dark-on-light",
+          "worst": 17.84,
+          "mean": 17.96
+        }
+      ],
+      "cues": [
+        {
+          "t": "Nate Herk. About Thoughts Work with Me",
+          "o": 1
+        },
+        {
+          "t": "950,000+YouTube subscribers 450,000+AI Automat",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -35,
+        1726,
+        6010,
+        10054
+      ],
+      "segs": [],
+      "custom": [
+        "hero:85",
+        "ring:0"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 4,
+      "y": 1196,
+      "pct": 11,
+      "settled": false,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -881,
+        880,
+        5164,
+        9208
+      ],
+      "segs": [],
+      "custom": [
+        "hero:93",
+        "ring:0"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 5,
+      "y": 2041,
+      "pct": 19,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Recognition Awards and features from the",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        }
+      ],
+      "cues": [
+        {
+          "t": "Recognition Awards and features from the AI au",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -1726,
+        35,
+        4319,
+        8363
+      ],
+      "segs": [],
+      "custom": [
+        "hero:97",
+        "ring:0"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 6,
+      "y": 2119,
+      "pct": 20,
+      "settled": false,
+      "contrast": [
+        {
+          "t": "Recognition Awards and features from the",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        }
+      ],
+      "cues": [
+        {
+          "t": "Recognition Awards and features from the AI au",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -1804,
+        0,
+        4241,
+        8285
+      ],
+      "segs": [],
+      "custom": [
+        "hero:99",
+        "ring:-2"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 7,
+      "y": 3156,
+      "pct": 29,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Recognition Awards and features from the",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Winning the Skool Games, one of four con",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        }
+      ],
+      "cues": [
+        {
+          "t": "Recognition Awards and features from the AI au",
+          "o": 1
+        },
+        {
+          "t": "Winning the Skool Games, one of four consecuti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -2841,
+        0,
+        3204,
+        7248
+      ],
+      "segs": [],
+      "custom": [
+        "hero:99",
+        "ring:-66"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 8,
+      "y": 4193,
+      "pct": 39,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Recognition Awards and features from the",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Winning the Skool Games, one of four con",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        }
+      ],
+      "cues": [
+        {
+          "t": "Recognition Awards and features from the AI au",
+          "o": 1
+        },
+        {
+          "t": "Winning the Skool Games, one of four consecuti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -3878,
+        0,
+        2167,
+        6211
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-176"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 9,
+      "y": 4278,
+      "pct": 39,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Recognition Awards and features from the",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Winning the Skool Games, one of four con",
+          "dir": "own-fill",
+          "worst": 17.99,
+          "mean": 17.99
+        }
+      ],
+      "cues": [
+        {
+          "t": "Recognition Awards and features from the AI au",
+          "o": 1
+        },
+        {
+          "t": "Winning the Skool Games, one of four consecuti",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -3963,
+        -42,
+        2082,
+        6126
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-248"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 10,
+      "y": 5298,
+      "pct": 49,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -4983,
+        -1062,
+        1062,
+        5106
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-281"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 11,
+      "y": 6317,
+      "pct": 58,
+      "settled": false,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [],
+      "act": "pan",
+      "stages": [
+        -6002,
+        -2081,
+        43,
+        4087
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-294"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 12,
+      "y": 6405,
+      "pct": 59,
+      "settled": false,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -28
+      ],
+      "wipes": [],
+      "act": "pan",
+      "stages": [
+        -6090,
+        -2169,
+        0,
+        3999
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-302"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 13,
+      "y": 7485,
+      "pct": 69,
+      "settled": false,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -706
+      ],
+      "wipes": [],
+      "act": "pan",
+      "stages": [
+        -7170,
+        -3249,
+        0,
+        2919
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-306"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 14,
+      "y": 8565,
+      "pct": 79,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -1676
+      ],
+      "wipes": [],
+      "act": "pan",
+      "stages": [
+        -8250,
+        -4329,
+        0,
+        1840
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-307"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 15,
+      "y": 8645,
+      "pct": 80,
+      "settled": false,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2140
+      ],
+      "wipes": [],
+      "act": "pan",
+      "stages": [
+        -8330,
+        -4409,
+        -35,
+        1760
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-308"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 16,
+      "y": 9507,
+      "pct": 88,
+      "settled": false,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -2348
+      ],
+      "wipes": [],
+      "act": "flow",
+      "stages": [
+        -9192,
+        -5271,
+        -897,
+        898
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-308"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 17,
+      "y": 10368,
+      "pct": 96,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "New YouTube videos every week.",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Watch on YouTube",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        }
+      ],
+      "cues": [
+        {
+          "t": "New YouTube videos every week.",
+          "o": 1
+        },
+        {
+          "t": "Watch on YouTube",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2442
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -10053,
+        -6132,
+        -1758,
+        37
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-308"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 18,
+      "y": 10413,
+      "pct": 96,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "New YouTube videos every week.",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Watch on YouTube",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        }
+      ],
+      "cues": [
+        {
+          "t": "New YouTube videos every week.",
+          "o": 1
+        },
+        {
+          "t": "Watch on YouTube",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2484
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -10098,
+        -6177,
+        -1803,
+        0
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-309"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 19,
+      "y": 10629,
+      "pct": 98,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "New YouTube videos every week.",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Watch on YouTube",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Or join AI Automation Society. It's free",
+          "dir": "dark-on-light",
+          "worst": 5.55,
+          "mean": 5.55
+        }
+      ],
+      "cues": [
+        {
+          "t": "New YouTube videos every week.",
+          "o": 1
+        },
+        {
+          "t": "Watch on YouTube",
+          "o": 1
+        },
+        {
+          "t": "Or join AI Automation Society. It's free.",
+          "o": 1
+        },
+        {
+          "t": "",
+          "o": 0.66
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2502
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -10314,
+        -6393,
+        -2019,
+        0
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-309"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 20,
+      "y": 10845,
+      "pct": 100,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "New YouTube videos every week.",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Watch on YouTube",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Or join AI Automation Society. It's free",
+          "dir": "dark-on-light",
+          "worst": 5.55,
+          "mean": 5.55
+        }
+      ],
+      "cues": [
+        {
+          "t": "New YouTube videos every week.",
+          "o": 1
+        },
+        {
+          "t": "Watch on YouTube",
+          "o": 1
+        },
+        {
+          "t": "Or join AI Automation Society. It's free.",
+          "o": 1
+        },
+        {
+          "t": "",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2511
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -10530,
+        -6609,
+        -2235,
+        0
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-309"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    },
+    {
+      "i": 21,
+      "y": 10854,
+      "pct": 100,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "New YouTube videos every week.",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Watch on YouTube",
+          "dir": "dark-on-light",
+          "worst": 17.99,
+          "mean": 17.99
+        },
+        {
+          "t": "Or join AI Automation Society. It's free",
+          "dir": "dark-on-light",
+          "worst": 5.55,
+          "mean": 5.55
+        }
+      ],
+      "cues": [
+        {
+          "t": "New YouTube videos every week.",
+          "o": 1
+        },
+        {
+          "t": "Watch on YouTube",
+          "o": 1
+        },
+        {
+          "t": "Or join AI Automation Society. It's free.",
+          "o": 1
+        },
+        {
+          "t": "",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -2515
+      ],
+      "wipes": [],
+      "act": "pin",
+      "stages": [
+        -10539,
+        -6618,
+        -2244,
+        0
+      ],
+      "segs": [],
+      "custom": [
+        "hero:100",
+        "ring:-309"
+      ],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "#F5F6F8"
+    }
+  ],
+  "consoleErrors": [],
+  "failed": []
+}

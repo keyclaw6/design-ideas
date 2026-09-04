@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/obscura.md",
       "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-h4ckf0r0day-obscura#c4",
+      "text": "Obscura 0.2.1 serve RSS with example.com loaded over CDP was 37,856 KB (~37.0 MB), versus 24.5–25.1 MB idle on the same binary. Runtime.evaluate returned title Example Domain.",
+      "kind": "result",
+      "evidence": "serve --port 19233; Target.createTarget + attachToTarget; VmRSS 37856 kB x3; threads 9. See obscura NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/obscura.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "recipe_steps": [],

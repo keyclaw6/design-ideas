@@ -47,5 +47,5 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 ## ai-video-generation — next capture work
 
 1. Official Seedance 2.5 page: 30 s / extend twice / reference + white-model + green-screen — **no identity-lock copy** ([seedance](../../tools/seedance.md)). Face-swap recipe still needs two locked stills + a Seedance clip in this bank.
-2. video-use README still describes a local-folder path (clone/symlink + ffmpeg → `<videos_dir>/edit/final.mp4`); Browser Use Cloud is optional ([video-use](../../tools/video-use.md)). Remaining: a local edit run on this host.
+2. video-use README still describes a local-folder path; Browser Use Cloud is optional ([video-use](../../tools/video-use.md)). Local `helpers/render.py` on a two-range lavfi EDL wrote draft `final.mp4` **132,217** B / **1.666** s / **1280×720** / 24 fps (`analysis/_work/captures/video-use-edit/`). Remaining: a Claude Code / ElevenLabs skill-loop edit of real talking-head takes.
 3. Keep launch-video breakdowns as craft notes; do not score models by view counts.

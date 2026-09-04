@@ -1,0 +1,20 @@
+{
+  "sources": {
+    "take1": "/tmp/vu-src/take1.mp4"
+  },
+  "ranges": [
+    {
+      "source": "take1",
+      "start": 0.0,
+      "end": 0.8,
+      "beat": "open"
+    },
+    {
+      "source": "take1",
+      "start": 1.0,
+      "end": 1.8,
+      "beat": "close"
+    }
+  ],
+  "grade": ""
+}

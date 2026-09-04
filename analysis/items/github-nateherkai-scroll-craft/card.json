@@ -71,6 +71,16 @@
       "evidence_ref": "analysis/tools/scroll-craft.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "github-nateherkai-scroll-craft#c5",
+      "text": "Live shoot.mjs on nateherk.com walked 13.1 viewport-heights across pin>flow>pin>flow>pan>flow>pin (22 frames). failed and consoleErrors were empty; named cues stayed at or above 4.5:1 (worst close-line 5.55).",
+      "kind": "result",
+      "evidence": "analysis/_work/captures/nateherk-shoot/report.json: height 11754 / vh 900; 22 frames; contrast worst 17.87 / 17.84 / 17.99 / 5.55; clips [].",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-craft.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],

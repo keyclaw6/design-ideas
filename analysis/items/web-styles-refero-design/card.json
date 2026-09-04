@@ -50,6 +50,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-styles-refero-design#c3",
+      "text": "Same-brand token check against Sokosumi DESIGN.md: Linear surface #08090a, Notion primary #0075de, and Stripe primary #533afd match this JSON; Linear CTA does not (Refero Acid Lime #e4f222 vs Sokosumi #e5e5e6).",
+      "kind": "result",
+      "evidence": "Refero Linear/Notion/Stripe designSystem notes vs Sokosumi analysis YAML (47 color keys). See styles-refero-design and sokosumi-design-md NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/styles-refero-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2094061655990702150#c1` (capability, stated) Video Use handles cutting, filler removal, captions, color correction, animations, and final render from a folder of raw files. — evidence: "Corta los clips" [post]
 - `x-2094061655990702150#c2` (capability, stated) video-use README (2026-09-04) still describes a local-folder editor: clone/symlink + ffmpeg, drop takes in a directory, write edit/final.mp4. Browser Use Cloud is optional, not required. — evidence: "Drop raw footage in a folder… All outputs live in <videos_dir>/edit/. Cloud link is optional." [note]
+- `x-2094061655990702150#c3` (result, demonstrated) Local video-use helpers/render.py on a 2-range lavfi EDL wrote draft final.mp4 132,217 B / 1.666 s / 1280x720 / 24 fps libx264. No Claude Code session and no ElevenLabs key. — evidence: "testsrc+sine 2.000s 35910 B in; two 0.80s ranges; --draft --no-subtitles --no-loudnorm exit 0. analysis/_work/captures/video-use-edit/." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

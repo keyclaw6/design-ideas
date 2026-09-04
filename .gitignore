@@ -15,3 +15,6 @@ agent-tools/
 analysis/_work/gen_cards_*.py
 analysis/_work/_gen_cards_*.py
 analysis/_work/__pycache__/
+analysis/_work/captures/nateherk-shoot/*.png
+analysis/_work/captures/video-use-edit/base_draft.mp4
+analysis/_work/captures/video-use-edit/clips_draft/

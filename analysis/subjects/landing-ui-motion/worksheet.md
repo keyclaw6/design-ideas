@@ -15,7 +15,7 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 
 | item | finished-page vs kit | scroll vs hover/micro | copy-paste cost | shadcn/React | mobile covered |
 |---|---|---|---|---|---|
-| scroll-craft | grammar (generates a page) | high scroll-timeline | skill install + QA | high (Claude Code) | fixture 390×844 shots exist; no `shoot.mjs` on a `data-sc-act` page |
+| scroll-craft | grammar (generates a page) | high scroll-timeline | skill install + QA | high (Claude Code) | fixture 390×844 shots; live `shoot.mjs` on nateherk.com (13.1 vh, 22 frames, no dead scroll) |
 | Cult UI | kit + agent-pattern gallery | hover / app chrome | npm / registry | high | unknown |
 | Originkit | kit (homepage RSC **468** unique gallery slugs; marketing said 363+) | mixed (text, bg, galleries) | MCP hello; `/pricing` Free $0 / Pro $79/yr / Studio $179/yr (metered copies) | React / Next | unknown (no @media in fetched HTML) |
 | Vengeance UI | kit (live **46 / 9 families**; registry.json **132** items) | hover + text motion | MIT registry; `/pricing` and `/pro` 404 | high | unknown |
@@ -52,7 +52,7 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 
 ## landing-ui-motion — next capture work
 
-1. Default-Claude fixture scored against taste.md + all eight uniqueness.md grammars — [scroll-craft](../../tools/scroll-craft.md). Impeccable `--viewport 390x844`: **20** findings. Headed Chrome shots at 390×844: Inter, h1 **83.2px**, hero **1012.8px** vs 844 vh (`analysis/_work/captures/claude-landing-mobile/`). Remaining: `shoot.mjs` on a real `data-sc-act` build (this fixture has none).
+1. Default-Claude fixture scored against taste.md + all eight uniqueness.md grammars — [scroll-craft](../../tools/scroll-craft.md). Impeccable `--viewport 390x844`: **20** findings. Headed Chrome shots at 390×844: Inter, h1 **83.2px**, hero **1012.8px** vs 844 vh. Live `shoot.mjs` on `https://www.nateherk.com/`: **13.1** vh, act sequence pin>flow>pin>flow>pan>flow>pin, **22** frames, `failed: []`, contrast ≥4.5 (close-line **5.55**). Receipt `analysis/_work/captures/nateherk-shoot/report.json`. Remaining: same walk on perkform / aiautomationsociety (both 403 this catalog).
 2. Pricing receipts are on [cult-ui](../../tools/cult-ui.md) (Cult Pro $129 lifetime; Originkit Free/Pro/Studio yearly; Vengeance no `/pricing`). Remaining: same-copy hero + pricing HTML from all three and a mobile breakpoint log. Vengeance has no paid pricing column.
 3. Blume homepage first-party copy is on [blume-sidecar](../../tools/blume-sidecar.md). X article `2094493136743473152` still unfetched (jina 403). Card `x-2094524951025914278` gap is `thread-partial`, not `linked-page-unfetched`.
 4. Re-fetch the failed landing-ui-motion thread listed in the brief.

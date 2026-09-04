@@ -14,6 +14,7 @@
 > 3 detail levels from summary to full, loading only what's needed
 > every search is traceable" [post]
 - `x-2091169290661838965#c2` (capability, demonstrated) OpenViking MCP endpoint exposes 15 named tools on :1933/mcp, including find, search (list|context), read of viking:// URIs, write/edit, and health. — evidence: "docs/en/guides/06-mcp-integration.md: Once connected, OpenViking exposes 15 tools; table lists find, search, read, list, tree, remember, write, edit, add_resource, list_watches, cancel_watch, grep, glob, forget, health." [note]
+- `x-2091169290661838965#c3` (result, demonstrated) pip install openviking 0.4.17.1 on this host; openviking-server doctor passes Python/native-engine/AGFS and fails Config/Embedding/VLM because ~/.openviking/ov.conf is missing. Not a viking:// session. — evidence: "doctor: Config FAIL; Native Engine PASS variant=x86_avx512; AGFS SDK 0.1.7; Ollama not configured. See openviking NOTES." [note]
 **Numbers.** claimed token reduction: 91 % (reply); documented MCP tools: 15 tools (note)
 **Recipe.** —
 **Techniques.** [filesystem-context-memory](../../techniques/filesystem-context-memory.md), [context-etl](../../techniques/context-etl.md)

@@ -50,6 +50,16 @@
       "evidence_ref": "analysis/tools/openviking.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2091169290661838965#c3",
+      "text": "pip install openviking 0.4.17.1 on this host; openviking-server doctor passes Python/native-engine/AGFS and fails Config/Embedding/VLM because ~/.openviking/ov.conf is missing. Not a viking:// session.",
+      "kind": "result",
+      "evidence": "doctor: Config FAIL; Native Engine PASS variant=x86_avx512; AGFS SDK 0.1.7; Ollama not configured. See openviking NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openviking.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],

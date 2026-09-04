@@ -12,6 +12,7 @@
 - `github-h4ckf0r0day-obscura#c1` (benchmark, stated) README claims Obscura uses about 30 MB RAM versus 200+ MB for headless Chrome. — evidence: "Memory | 30 MB | 200+ MB" [linked-page]
 - `github-h4ckf0r0day-obscura#c2` (capability, stated) Obscura is a drop-in replacement for Puppeteer and Playwright with native rendering and no Chromium dependency. — evidence: "acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright" [linked-page]
 - `github-h4ckf0r0day-obscura#c3` (result, demonstrated) Obscura 0.2.1 x86_64-linux fetch of example.com wrote a 17,130-byte 1280x720 PNG. Idle serve RSS was 24.5–25.1 MB; /json/version reports Chrome/145 CDP 1.3. — evidence: "screenshot PNG magic + 1280x720. serve --port 19222 RSS 24480–25068 KB. Binary 105616672 B. README 30 MB / 70 MB not collapsed with these." [note]
+- `github-h4ckf0r0day-obscura#c4` (result, demonstrated) Obscura 0.2.1 serve RSS with example.com loaded over CDP was 37,856 KB (~37.0 MB), versus 24.5–25.1 MB idle on the same binary. Runtime.evaluate returned title Example Domain. — evidence: "serve --port 19233; Target.createTarget + attachToTarget; VmRSS 37856 kB x3; threads 9. See obscura NOTES." [note]
 **Numbers.** GitHub stars: 23989 stars (linked-page); claimed page load: 85 ms (linked-page)
 **Recipe.** —
 **Techniques.** [agent-browser-isolation](../../techniques/agent-browser-isolation.md)

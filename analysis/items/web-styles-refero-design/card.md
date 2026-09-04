@@ -11,6 +11,7 @@
 **Claims.**
 - `web-styles-refero-design#c1` (capability, stated) The gallery lists 2,000+ design systems with downloadable DESIGN.md files for agent hosts. — evidence: "Gallery of 2,000+ AI-readable design systems from leading product websites. Each style exposes colors, typography, spacing, components, and a downloadable DESIGN.md" [linked-page]
 - `web-styles-refero-design#c2` (availability, stated) Featured styles include Apple, Linear, Notion, Duolingo, ElevenLabs, Mercury, Authkit, and Harness.io with mood imagery. — evidence: "Apple, Linear, Notion, Duolingo, ElevenLabs, Mercury, Authkit, Harness.io — each with mood-board imagery and linked DESIGN.md." [linked-page]
+- `web-styles-refero-design#c3` (result, demonstrated) Same-brand token check against Sokosumi DESIGN.md: Linear surface #08090a, Notion primary #0075de, and Stripe primary #533afd match this JSON; Linear CTA does not (Refero Acid Lime #e4f222 vs Sokosumi #e5e5e6). — evidence: "Refero Linear/Notion/Stripe designSystem notes vs Sokosumi analysis YAML (47 color keys). See styles-refero-design and sokosumi-design-md NOTES." [note]
 **Numbers.** design systems in gallery: 2000 + (linked-page)
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md)

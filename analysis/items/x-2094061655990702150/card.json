@@ -50,6 +50,16 @@
       "evidence_ref": "analysis/tools/video-use.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2094061655990702150#c3",
+      "text": "Local video-use helpers/render.py on a 2-range lavfi EDL wrote draft final.mp4 132,217 B / 1.666 s / 1280x720 / 24 fps libx264. No Claude Code session and no ElevenLabs key.",
+      "kind": "result",
+      "evidence": "testsrc+sine 2.000s 35910 B in; two 0.80s ranges; --draft --no-subtitles --no-loudnorm exit 0. analysis/_work/captures/video-use-edit/.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/video-use.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
