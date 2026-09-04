@@ -7,4 +7,8 @@
 
 <!-- NOTES:START -->
 
+Fetched 2026-09-04 https://github.com/sengchor/kokraf README.
+
+Repo is a **browser VEF mesh modeler** (Three.js render only; edit ops on Vertex–Edge–Face). Live: https://kokraf.com/. README does **not** describe four-view AI texture projection. That technique is on the X card/media, not in the published README. Do not treat the repo as a texture-projection skill pack.
+
 <!-- NOTES:END -->

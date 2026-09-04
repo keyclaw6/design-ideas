@@ -22,7 +22,7 @@ Scores are `high` / `mid` / `low` / `unknown` against the brief axes. `unknown` 
 | github-iannuttall-seo | mid (audit, not citation) | low (local; Google APIs) | high | low | high (CLI/MCP) | stated (repo README) |
 | OpenSEO + DataforSEO | mid | mid (API usage) | mid | low | mid (Workers + API) | stated |
 | Brave submit-url | mid (index request only) | low | low | mid (Brave answers) | low (form; CAPTCHA) | stated; form not exercised |
-| TinyShelf | high if badge accepted | low (free + badge) | low | low | low | stated DR 11→46, no third-party export |
+| TinyShelf | high if badge accepted | low (free + badge) | low | low | low | directory live: 19 cats / ~657 listings (2026-09-04); DR 11→46 still tweet-only |
 | TinyLaunch directories | mid (~10 days) | high | low | low | low | stated DR-band guarantee |
 | Sami 15 directories | mid (48h claim) | low | low | low | low | stated; full sheet DM-gated |
 | free one-page tools (Bing) | low (weeks of flat metrics) | low | mid (Bing WM) | low | mid (you ship HTML) | stated 1.01M impressions |
@@ -58,4 +58,5 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 1. CrowdReply MCP catalogue is now named on [crowdreply-mcp](../../tools/crowdreply-mcp.md). Still need a keyed session (endpoint 401) and the 4%→40% article body (403).
 2. Re-open [x-2094770895021572502](../../items/x-2094770895021572502/thread.md) (must-read, 26 replies / 3 captured) for the tool URLs.
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
-4. Exercise Brave submit-url in a headed browser; the form exists, this pass did not submit.
+4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
+5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing.

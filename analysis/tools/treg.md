@@ -8,4 +8,8 @@
 
 <!-- NOTES:START -->
 
+Fetched 2026-09-04 README https://github.com/superdesigndev/treg (1,183 stars at API fetch).
+
+README still states **2,896 catalogued endpoints across 60 providers**. Catalog lives behind the hosted proxy (`treg catalog`, `/call/…`, `X-Treg-Token`). No endpoint JSON in the public repo tree to `wc`. $1.00 free prepaid on a new team. Team keys override catalog keys and are unmetered (same as the card). Count remains `stated` until someone dumps `treg catalog`.
+
 <!-- NOTES:END -->

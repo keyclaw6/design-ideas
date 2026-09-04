@@ -38,7 +38,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — claims that need a receipt
 
-- Impeccable 61 detectors and 23 slash commands — README counts; run `/impeccable` on one slop landing and list which detectors fire.
+- Impeccable 61 detectors and 23 slash commands — **README lead confirms the counts** ([impeccable](../../tools/impeccable.md)). Still need a detector run on one slop landing (exit 2 + rule ids).
 - Chinese “keep four after trials” — practitioner shortlist, 3 replies / 1 captured; transitions.dev is not a primary here.
 - /unlazy “works well with Opus 5 + ponytail” — one user ([x-2088742864310481025](../../items/x-2088742864310481025/card.md)).
 - AIDesigner “21 MCP tools” and live-site clone — marketing + Spanish demo; no tool-list dump in this bank.

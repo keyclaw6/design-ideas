@@ -28,7 +28,7 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 
 ## mcp-and-agent-browsers — claims that need a receipt
 
-- treg 2,896 endpoints — must-read; count the catalog, do not trust the README integer.
+- treg 2,896 endpoints — must-read; README restates the integer ([treg](../../tools/treg.md)). Public repo has no catalog dump; still need `treg catalog` output.
 - Obscura ~24k stars, sub-50ms boot, 30MB RAM, 85ms loads — marketing + viral restatement; time a session locally.
 - Kitesurf “ported from Obscura” — Cloudflare blog; note what the Workers beta cannot do (downloads, extensions).
 - Free search “$0 vs $7/1k” — name the API or drop the claim.
