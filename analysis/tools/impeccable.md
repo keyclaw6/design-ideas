@@ -10,6 +10,8 @@
 
 Fetched 2026-09-04 README https://github.com/pbakaus/impeccable
 
-README lead: “1 skill, 23 commands, live browser iteration, and 61 deterministic detector rules.” `/impeccable init` writes `PRODUCT.md`; visual system goes in `DESIGN.md`. Detectors run with no LLM/API key (`npx impeccable detect`). Examples named: side-tab borders, purple gradients, bounce easing, dark glows, line length, cramped padding, small touch targets, skipped headings. Docs: https://impeccable.style/docs/detector — page fetched, does not enumerate all 61 ids in the HTML. **Not run** on a sample landing in this pass.
+README lead: “1 skill, 23 commands, live browser iteration, and 61 deterministic detector rules.” `/impeccable init` writes `PRODUCT.md`; visual system goes in `DESIGN.md`. Detectors run with no LLM/API key (`npx impeccable detect`). Docs: https://impeccable.style/docs/detector — page fetched, does not enumerate all 61 ids in the HTML.
+
+**Ran 2026-09-04** `npx impeccable detect` on a local 15-line slop `index.html` (purple gradient, bounce, glow, “cutting-edge”, 11px button). Exit **0**. Text report: **9 anti-patterns**. Rule ids that fired: `gradient-text` (×2), `low-contrast` (×2, 1.0:1), `dark-glow` (×2), `bounce-easing`, `ai-color-palette`, `marketing-buzzword`. CLI also documents `--json`, `--scope type,layout`, `--viewport WxH`, URL mode via Puppeteer, and advisory findings that never change the exit code. Not a 61-id dump; not a live-site URL pass.
 
 <!-- NOTES:END -->

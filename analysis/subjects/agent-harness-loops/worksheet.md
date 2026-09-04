@@ -17,8 +17,8 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 
 | item | runnable loop vs essay | permission / blast-radius | eval / OOS check | session persist / migrate | multi-agent vs single |
 |---|---|---|---|---|---|
-| loop-library | mid (catalog of named loops) | unknown | “shipped” claimed | unknown | varies |
-| Headlong | high (Bash <10k LOC) | Slack/Telegram in | none in card | designed always-on | single persistent |
+| loop-library | high (23 named prompts on loopany.ai) | local agent; server does not run LLM | “shipped” still marketing | cadence per loop | varies |
+| Headlong | high (Bash ~11K LOC, Apache-2.0) | Slack/Telegram in; Docker default | none in card | designed always-on | one mind, many people |
 | session-migrate | n/a (converter) | n/a | n/a | high (this *is* migrate) | n/a |
 | Chadha primer | essay + site | n/a | primer on evals | n/a | research swarm |
 | Codex 212× QR | example write-up | unknown | GPU Mode task | unknown | search loop |
@@ -39,7 +39,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 - Autoquant 135 agents / four-layer pipeline — architecture claim.
 - fini 23,999 actions in 20 minutes — warning anecdote; useful as a blast-radius story, not a benchmark.
 - Anthropic cost $0.29 → 90% less — cookbook; re-run the notebook.
-- Headlong “<10K LOC” and “continuous inner thoughts” — repo size and a session log.
+- Headlong “<10K LOC” — **README now says ~11K** (cloc, capped 11.5K). Blog 9.9K / tweet <10K are stale. Persistent-agency + $1–2/hr idle cost are first-party ([headlong](../../tools/headlong.md)).
 
 ## agent-harness-loops — do not treat as load-bearing
 
@@ -51,5 +51,5 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 ## agent-harness-loops — next capture work
 
 1. 232× / qr_v2 / 12th-of-183 is on the Codex tool NOTES. Remaining: the popcorn CLI + one submission id from the lineage chart.
-2. Clone Headlong and loop-library; list the actual template names.
+2. Headlong tool list + loopany **23 template names** are on the tool NOTES. Remaining: dump one loop prompt body; confirm Headlong `bin/`+`thinkers/` cloc locally.
 3. Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.

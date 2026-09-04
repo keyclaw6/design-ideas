@@ -6,5 +6,16 @@
 - [loop-library: open catalog of field-tested agent loops at loopany.ai](../items/x-2086790895538700379/card.md) — tool, reference — agent-harness-loops
 
 <!-- NOTES:START -->
+Fetched 2026-09-04 https://loopany.ai/templates (no GitHub repo found via search).
 
+**23 named loops** in six marketing groups. Copy-paste prompts; “the server never runs an LLM or your code.” Groups and names:
+
+- Growth (5): Reddit Karma; SEO - Try New Keywords; SEO - Scale Proven Keywords; Market Monitor; Changelog Broadcaster
+- Business Ops (3): Support Triage; Metrics Digest; Funnel Watch
+- Codebase Autopilot (5): Doc Maintainer; Error Sweep; React Doctor; Tech Debt Cleanup; Dependency Triage
+- CI, Test & Security (3): Test Guardian; Security Sweep; CI Doctor
+- Personal (3): Morning Briefing; Homebrew Updater; Daily Lesson
+- Goal Loops (4): Follow-up Tracker; A/B Experiment Watch; Bug Vigil; Release Shepherd
+
+Each card states cadence (always-on / daily / weekly) and output (PR, digest, alert). “Shipped in production” is still marketing on the tweet — this page does not name a customer. Not cloned; prompts not dumped to this bank.
 <!-- NOTES:END -->

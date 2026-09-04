@@ -19,9 +19,9 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 |---|---|---|---|---|---|
 | threejs-awesome-graphics-agent-skills | n/a (skill, not a page) | teaches rigs | WebGL + TSL/WebGPU | high | validation hooks stated |
 | /improve-threejs | n/a (slash skill) | unknown | WebGL implied | mid (polish pass) | “faster / less buggy” stated |
-| MengTo Sylva + 3 skills | high (reference scene) | mid (interaction, not only scroll) | WebGL / Three.js | high (extracted skills) | ~130k instanced blades, <1 MB code (stated) |
+| MengTo Sylva + 3 skills | high (reference scene) | mid (interaction, not only scroll) | WebGL / Three.js r149 | high (extracted skills) | README up to 250k blades; first-load ≈1.51 MB |
 | scroll-world | high (generated landing) | high (scroll-scrub flight) | WebGL (isometric stills + connectors) | high (skill interviews brand) | unknown JS budget |
-| Complete Shelf | high (one index.html) | mid (orbit + shelf states) | WebGL | mid (repo is the example) | single-file, no bundler (stated) |
+| Complete Shelf | high (one index.html) | mid (orbit + shelf states) | WebGL / Three r165 CDN | mid (repo is the example) | HTML 2.23 MB + ≈1.64 MB CDN Three |
 | VanhDesign WebGPU page | high (one HTML) | high (scene *is* the page) | WebGPU | low | unknown polycount |
 | GetLayers | mid (prompt → HTML layer) | depends on layer | WebGL/GLSL in prompts | mid (MCP assemble) | unknown |
 | FeralUI | high (React components) | pointer / physics, not camera | WebGL-adjacent CSS/R3F | low | experimental v0.1.1 |
@@ -32,7 +32,8 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 
 ## web-3d-scenes — claims that need a receipt
 
-- Sylva 130k instanced blades under 1 MB — need the live page’s transfer size, not the tweet.
+- Sylva 130k blades / <1 MB — **README says up to 250k blades**. Live first-load ≈1.51 MB (HTML+assets); HTML+JS only ≈0.96 MB. See [sylva](../../tools/sylva.md).
+- Complete Shelf “single file” — `index.html` is 2,233,796 bytes uncompressed / 1,574,186 gzip, plus jsDelivr Three r165 ≈1.64 MB. See [complete-shelf](../../tools/complete-shelf.md). FPS still unmeasured.
 - scroll-world “no cuts, scrubbed to scroll” — skill README; need one generated site under a 3 MB JS budget (open question on the brief).
 - Graphics skills produce valid R3F vs screenshot-alike HTML — README (2026-09-04) is **vanilla Three + TSL/WebGPU examples**, no R3F. Still need to open one example and diff the scene graph. See [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md).
 - Gemini Antigravity Bugatti in ~4 minutes — demo clock, no repo.
@@ -49,6 +50,6 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 ## web-3d-scenes — next capture work
 
 1. README says vanilla Three + example library (not R3F). Remaining: open one gallery example and record whether it is a runnable scene or a still.
-2. Measure Complete Shelf and Sylva transfer size + FPS on a laptop GPU.
+2. Transfer sizes are on the tool NOTES. Remaining: headed FPS on a laptop GPU (not run here).
 3. Re-open [x-2089400082550620636](../../items/x-2089400082550620636/thread.md) (55 replies / 1 captured) for /improve-threejs install path.
 4. Keep splat viewers out of this stack; if the page *is* a splat, use the gaussian-splatting worksheet.

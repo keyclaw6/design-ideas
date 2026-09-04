@@ -19,8 +19,8 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 | Ryven RAW/WIKI | files | ETL-ish (immutable RAW) | markdown + CLAUDE.md | yes | high (git) |
 | Obsidian Mind | vault | template + chat residue | vault search | yes | high |
 | Memoria | git-like DB | snapshots / branches | their API | OSS | high (rollback) |
-| OpenViking | filesystem metaphor | unknown | ls/tree/find claimed | OSS claimed | mid |
-| ReasoningBank | traces | success *and* failure | research retrieval | research | mid (trajectories) |
+| OpenViking | filesystem metaphor (`viking://`) | ingest → L0/L1 sidecars | find/search + L2 read | OSS AGPLv3 | high (traj + sidecars) |
+| ReasoningBank | traces | success *and* failure | research retrieval | research / demo | mid (trajectories) |
 | gbrain-evals | product + bench | unknown | 97.6% R@5 stated, no LLM-in-loop | unknown | bench, not the store |
 | Gasquez essay | warehouse metaphor | ETL | semantic models | yes (method) | high (datasets) |
 | Anthropic analytics | semantic layer | mapped entities, not raw SQL | governed metrics | Claude + warehouse | high if the layer is real |
@@ -35,8 +35,8 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 
 - gbrain “97.6% R@5” tweet vs **gbrain-evals README (2026-09-02, v0.48.2.0)**: official `recall_all@5` **93.19%** reranker off (438/470) / **95.32%** with Voyage rerank-2.5 (448/470). No generative LLM in the retrieval loop; reranker row adds one Voyage call. Different metric than the tweet.
 - Cerebras 15,000+ questions/day — internal metric.
-- OpenViking “Viking protocol” — README fetched: `viking://` + L0/L1/L2, AGPLv3 ([openviking](../../tools/openviking.md)).
-- ReasoningBank stores failures as well as successes — README + ICLR 2026 paper; **demo-only, not an official Google product** ([reasoning-bank](../../tools/reasoning-bank.md)).
+- OpenViking “Viking protocol” — docs table: L0 256 chars / L1 4000 chars / L2 unlimited; directory sidecars, not per-file ([openviking](../../tools/openviking.md)). FAQ “~100 / ~2000 tokens” is the gloss.
+- ReasoningBank stores failures as well as successes — paper tables now on the tool NOTES (WebArena Flash 48.8 vs 40.5; SWE Flash 38.8 vs 34.2; MaTTS Shopping 55.1 at k=5). **Demo-only, not an official Google product** ([reasoning-bank](../../tools/reasoning-bank.md)).
 - Slite “nine architectures” — ebook; extract the comparison table into claims.
 
 ## agent-memory-knowledge — do not treat as load-bearing
@@ -50,3 +50,4 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 1. Gasquez extract/transform/publish is on [context-etl](../../techniques/context-etl.md). Remaining: one example artifact list from a real vault.
 2. gbrain-evals official rows are 93.19% / 95.32% `recall_all@5`, not 97.6%. Keep the tweet as marketing.
 3. Diff Ryven’s five automations against Obsidian Mind’s template files.
+4. OpenViking studio is still a JS shell; remaining: one `viking://` session log.

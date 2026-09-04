@@ -38,7 +38,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — claims that need a receipt
 
-- Impeccable 61 detectors and 23 slash commands — **README lead confirms the counts** ([impeccable](../../tools/impeccable.md)). Still need a detector run on one slop landing (exit 2 + rule ids).
+- Impeccable 61 detectors and 23 slash commands — **README lead confirms the counts**. A local slop HTML run fired `gradient-text`, `low-contrast`, `dark-glow`, `bounce-easing`, `ai-color-palette`, `marketing-buzzword` (9 findings, exit 0 — advisory/fail split means detect is not “exit 2”). See [impeccable](../../tools/impeccable.md). Still need a live URL + full id list.
 - Chinese “keep four after trials” — practitioner shortlist, 3 replies / 1 captured; transitions.dev is not a primary here.
 - /unlazy “works well with Opus 5 + ponytail” — one user ([x-2088742864310481025](../../items/x-2088742864310481025/card.md)).
 - AIDesigner “21 MCP tools” and live-site clone — marketing + Spanish demo; no tool-list dump in this bank.
@@ -59,7 +59,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — next capture work
 
-1. Run Impeccable detectors on one default-Claude landing; paste the fired-rule list into claims.
+1. Local detector run is on the tool NOTES (6 rule ids). Remaining: a live URL pass and the full 61-id list.
 2. Extract DESIGN.md from two known sites via Sokosumi *and* Hyperbrowser; diff the YAML tokens.
 3. Dump AIDesigner MCP tool names (the CrowdReply-style gap: “21 tools” with no list).
 4. Re-fetch `x-2093669411685110141` and the blocked designmd.* domains.

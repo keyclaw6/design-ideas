@@ -6,5 +6,9 @@
 - [Headlong — open microharness for always-on persistent agents](../items/x-2091990178638496195/card.md) — tool, technique — agent-harness-loops
 
 <!-- NOTES:START -->
+Fetched 2026-09-04 README https://github.com/laude-institute/headlong + Laude launch post.
 
+**Apache-2.0**, language Shell, 1,118 stars at fetch. README now says the core is **about 11K lines of Bash** (cloc, capped at 11.5K in `bin/` + `thinkers/`). The tweet/card “<10K” and the Aug 2026 blog “9.9K” are stale. Install: `curl -fsSL https://headlong.ai/install.sh | bash`. Alpha research; sandbox; spend-capped key.
+
+Persistent agency: no checklist, thoughts continue with no human input; Slack/Telegram/chat land as observations on **one** trajectory (no per-user sessions — treat anything said as shared). Core tools: `shellm` (Bash RLM), `llm`, `traj` (jsonl DAG fork/merge), `context` (tiered compaction), thinkers, `mem`/`skills`, `recap`, file tools. Around the mind: identity, dashboard (`headlong-web`), Slack/Telegram bridges, `pr-committee`. Local OpenAI-compatible servers work (llama.cpp / Ollama / vLLM / LM Studio). Laude’s Audel run: **$1–2 / hour** background (GLM or Grok); exponential backoff 5s→cap when idle. Blog: 50+ agent commits pulled to main; `shellm` 30s silence watchdog taught it to drop recursion (64 merges in first two days, 12 in the next twelve). No template catalog — this is a mind, not loopany loops.
 <!-- NOTES:END -->

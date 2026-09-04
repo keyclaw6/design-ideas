@@ -24,7 +24,7 @@ LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-20905892936770235
 | IZUTSUYA 4dgs.jp | PLY | none | GLB/STL/OBJ | browser beta | unknown |
 | ArtiFixer | sparse 3DGRUT / broken scan | diffusion fill | repaired splat/scan | local, heavy weights | this *is* the repair step |
 | Aholo / LOD / SPZ | city-scale splat | view | browser stream | viewer | n/a |
-| LightFuse | multi-scan | relight / materials | research recon | research | n/a |
+| LightFuse | multi-scan RGB + masks/depth/normals | rearrange + relight + edit material | research recon (2DGS + one-bounce RT) | research; no public weights | n/a |
 | GaussianGPT | tokens (gen, not capture) | none | generated splat scene | research | n/a |
 
 ## gaussian-splatting — claims that need a receipt
@@ -37,7 +37,7 @@ LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-20905892936770235
 - ArtiFixer checkpoint sizes (~16.9B / ~1.68B) — from the card’s HF note; confirm filenames before planning VRAM.
 - Print path LichtFeld → Splat2Mesh → Mimaki 3DUJ-2207 — empty thread, demo only. Need whether the mesh is watertight.
 
-Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-2094769581965369822](../../items/x-2094769581965369822/thread.md)) and Splat2Mesh JP ([x-2095136786095951924](../../items/x-2095136786095951924/thread.md)). A 2026-09-04 retry got `og:description` only. LightFuse og title: *Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing*. Do not read silence as “no discussion.”
+Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-2094769581965369822](../../items/x-2094769581965369822/thread.md)) and Splat2Mesh JP ([x-2095136786095951924](../../items/x-2095136786095951924/thread.md)). Replies still empty. **Paper + project page now fetched** (arXiv:2608.29269, https://zhn202.github.io/LightFuse/): +9.74 dB PSNR / +0.121 SSIM vs strongest baseline; no code repo found. See [splat-pipeline](../../techniques/splat-pipeline.md). Do not read empty replies as “no discussion.”
 
 ## gaussian-splatting — do not treat as load-bearing
 
@@ -48,6 +48,6 @@ Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-209
 ## gaussian-splatting — next capture work
 
 1. EULA + sample.ply URL are on the tool page. Remaining: run the Windows app on `sample.ply` and record wall-clock + whether the OBJ is watertight.
-2. Re-fetch LightFuse / Splat2Mesh JP replies (retry HTML still has 0 tweet nodes).
+2. LightFuse paper/project page are on the splat-pipeline NOTES. Remaining: replies on X, and a code/weights drop if one appears. Splat2Mesh JP replies still 0 tweet nodes.
 3. Record whether IZUTSUYA STL is manifold enough for print vs Arcana OBJ/GLB.
 4. Decide ArtiFixer: phone capture vs research scan. Nothing in this bank tests a handheld video.
