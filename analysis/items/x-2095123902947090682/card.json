@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2095123902947090682",
+  "source_type": "x",
+  "url": "https://x.com/kyleanthony/status/2095123902947090682",
+  "title": "Brass Hands Neo Industrialism Swiss-grid terrain-intel landing mock",
+  "author": {
+    "name": "Kyle Anthony Miller",
+    "handle": "kyleanthony",
+    "url": "https://x.com/kyleanthony"
+  },
+  "published_at": "2026-09-02T12:17:18Z",
+  "captured_at": "2026-09-02T17:31:40Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "reference"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "NYC brand designer Kyle Anthony Miller (Brass Hands) posts a Neo Industrialism style still: Swiss grid, industrial typography, and utilitarian HUD overlay on a desert terrain-intelligence landing mock titled FROM ABOVE TO AHEAD with WGS 84 readouts and orange target lock.",
+  "question_it_answers": "What does Neo Industrialism Swiss-grid HUD styling look like on a defense-tech landing hero?",
+  "claims": [
+    {
+      "id": "x-2095123902947090682#c1",
+      "text": "The post names Swiss grids, technical systems, industrial typography, and utilitarian interfaces as Neo Industrialism.",
+      "kind": "opinion",
+      "evidence": "Swiss grids. Technical systems. Industrial typography. Utilitarian interfaces.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "swiss-grid-hud",
+    "neo-industrialism"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/kyleanthony/status/2095123902947090682",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.brasshands.com/",
+    "other": [
+      "https://brasshands.com/contact",
+      "https://store.brasshands.com/"
+    ],
+    "related_items": [
+      "web-cartier-ballon-bleu",
+      "x-2094978216146452971"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/photo.jpg",
+      "type": "image",
+      "description": "3456x2234 landing mock with desert aerial photo, white Swiss grid overlay, DRONE nav, headline FROM ABOVE TO AHEAD, Terrain Intelligence copy, orange TARGET LOCKED bracket on a vehicle, and corner label G-01 with WGS 84 datum readouts.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095123902947090682",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-cartier-ballon-bleu",
+      "x-2094978216146452971"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

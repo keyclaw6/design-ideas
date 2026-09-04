@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2091951051343593929",
+  "source_type": "x",
+  "url": "https://x.com/MaxfusionAI/status/2091951051343593929",
+  "title": "MaxfusionAI Gemini Flash vs Opus teaser with no benchmark artifact",
+  "author": {
+    "name": "maxfusion.ai",
+    "handle": "MaxfusionAI",
+    "url": "https://x.com/MaxfusionAI"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:34Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "promo-no-artifact",
+  "shelf_reason": "Post only names Gemini Flash 3.7 versus Opus 5 and calls the result surprising without attaching scores, screenshots, or a linked eval in the harvested capture.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Tweet teases a surprising Gemini Flash 3.7 versus Opus 5 comparison but the capture includes no screenshot, numbers, or linked benchmark in post or media.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/MaxfusionAI/status/2091951051343593929",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091951051343593929",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

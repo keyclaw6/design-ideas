@@ -20,7 +20,7 @@
   "primary_subject": "ai-video-generation",
   "secondary_subjects": [],
   "roles": [
-    "product",
+    "tool",
     "technique"
   ],
   "artifact_type": "demo-video",

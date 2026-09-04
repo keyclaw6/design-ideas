@@ -1,0 +1,62 @@
+{
+  "schema_version": "1",
+  "id": "x-2088600811307979218",
+  "source_type": "x",
+  "url": "https://x.com/dejavucoder/status/2088600811307979218",
+  "title": "dejavucoder Hacker News #1 rank celebration with no linked artifact",
+  "author": {
+    "name": null,
+    "handle": "dejavucoder",
+    "url": "https://x.com/dejavucoder"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:23Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "Post only celebrates being number one on Hacker News three times with no linked article, repo, screenshot, or technique in the harvested capture.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Tweet celebrating reaching Hacker News front page for the third time; capture contains no URL, repo, product, or technical claim beyond the rank flex.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/dejavucoder/status/2088600811307979218",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2088623462109593792",
+      "x-2088695568474546387"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088600811307979218",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

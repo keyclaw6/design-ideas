@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "id": "github-punkpeye-awesome-mcp-servers",
+  "source_type": "github",
+  "url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "title": "awesome-mcp-servers curated MCP index (~94k stars) with Glama sync",
+  "author": {
+    "name": "punkpeye",
+    "handle": "punkpeye",
+    "url": "https://github.com/punkpeye"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "mcp-and-agent-browsers",
+  "secondary_subjects": [
+    "serp-ai-visibility"
+  ],
+  "roles": [
+    "reference",
+    "tool"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "mcp"
+  ],
+  "summary": "Community-maintained awesome list of Model Context Protocol servers (~94k stars) with categorized README index, language/scope legend, and a synced Glama web directory for browsing browser, design, SEO, and database MCPs.",
+  "question_it_answers": "Where do I find a categorized catalog of MCP servers before adopting a specific tool router?",
+  "claims": [
+    {
+      "id": "github-punkpeye-awesome-mcp-servers#c1",
+      "text": "The README indexes MCP servers by category with legend for language, local vs cloud scope, and OS.",
+      "kind": "capability",
+      "evidence": "Legend marks language (Python, TS, Go, Rust), scope (local/cloud), and OS.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-punkpeye-awesome-mcp-servers#c2",
+      "text": "Glama.ai/mcp/servers mirrors the list as a browsable web directory.",
+      "kind": "availability",
+      "evidence": "https://glama.ai/mcp/servers — synced web directory",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "93831",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://github.com/punkpeye/awesome-mcp-servers",
+    "repo": "https://github.com/punkpeye/awesome-mcp-servers",
+    "paper": null,
+    "product": "https://glama.ai/mcp/servers",
+    "other": [
+      "https://modelcontextprotocol.io/",
+      "https://github.com/punkpeye/awesome-mcp-clients"
+    ],
+    "related_items": [
+      "github-superdesigndev-treg",
+      "web-aidesigner-mcp",
+      "web-graphed",
+      "web-crowdreply",
+      "github-h4ckf0r0day-obscura"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-punkpeye-awesome-mcp-servers",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-superdesigndev-treg",
+      "web-cloudflare-kitesurf"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

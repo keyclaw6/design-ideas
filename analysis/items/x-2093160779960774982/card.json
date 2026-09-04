@@ -1,0 +1,110 @@
+{
+  "schema_version": "1",
+  "id": "x-2093160779960774982",
+  "source_type": "x",
+  "url": "https://x.com/EyalToledano/status/2093160779960774982",
+  "title": "HamsterResearch Qwen3.8-Flash REAP-288 MLX 4-bit runs 180B-class on 39GB",
+  "author": {
+    "name": null,
+    "handle": "EyalToledano",
+    "url": "https://x.com/EyalToledano"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:50:34Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "local-inference-models",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Eyal Toledano announces HamsterResearch Qwen3.8-Flash-Next-REAP-288-MLX-4bit: MLX-native 4-bit quant pruned from 512 to 288 experts via REAP, claiming 91.5% HumanEval at 39GB VRAM.",
+  "question_it_answers": "What REAP-pruned MLX 4-bit quant lets a ~180B Qwen class model run in 39GB?",
+  "claims": [
+    {
+      "id": "x-2093160779960774982#c1",
+      "text": "REAP pruning cuts MoE experts from 512 to 288 with MLX 4-bit build 60% smaller than stock q4.",
+      "kind": "capability",
+      "evidence": "Pruned 512→288 experts via REAP",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2093160779960774982#c2",
+      "text": "Author claims 91.5% HumanEval versus 93.9% stock while fitting in 39GB memory.",
+      "kind": "benchmark",
+      "evidence": "91.5% HumanEval (vs 93.9% stock)",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "contested",
+      "subject": "local-inference-models"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "VRAM requirement",
+      "value": "39",
+      "unit": "GB",
+      "source": "post"
+    },
+    {
+      "label": "HumanEval score",
+      "value": "91.5",
+      "unit": "percent",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "reap-expert-pruning",
+    "mlx-4bit-quant"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/EyalToledano/status/2093160779960774982",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://huggingface.co"
+    ],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Screen recording demo of the REAP-pruned Qwen MLX 4-bit model running locally with benchmark overlay.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093160779960774982",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

@@ -1,0 +1,129 @@
+{
+  "schema_version": "1",
+  "id": "x-2095437841958314100",
+  "source_type": "x",
+  "url": "https://x.com/grokkedd/status/2095437841958314100",
+  "title": "Hyper3D WorldGen builds editable physics worlds from one photo",
+  "author": {
+    "name": "grokkedd",
+    "handle": "grokkedd",
+    "url": "https://x.com/grokkedd"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:50:46Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-to-3d-world",
+  "secondary_subjects": [
+    "ai-video-generation"
+  ],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "blender",
+    "unreal",
+    "fal"
+  ],
+  "summary": "Announcement thread for Hyper3D WorldGen (Yingmu Technology, CAST/SIGGRAPH 2025): one 2D image becomes an interactive 3D world with per-object meshes, built-in physics, and exports to Blender, Unity, and Unreal — pairable with Seedance for cinematic video on the scene.",
+  "question_it_answers": "How does WorldGen turn a single photo into editable physics-ready 3D scenes for engines?",
+  "claims": [
+    {
+      "id": "x-2095437841958314100#c1",
+      "text": "WorldGen segments a single image into independently movable 3D objects with inferred hidden geometry.",
+      "kind": "capability",
+      "evidence": "Feed it a single 2D image, and it picks out every object, fills in the hidden parts, and rebuilds each one as its own separate 3D model",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2095437841958314100#c2",
+      "text": "Physics collisions, mass, and friction are inferred so objects sit and lean realistically.",
+      "kind": "capability",
+      "evidence": "Physics comes built in. It figures out collisions, mass, friction, and how objects actually sit or lean on each other",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2095437841958314100#c3",
+      "text": "Pairing WorldGen with Seedance 2.5 yields cinematic video from the reconstructed 3D scene.",
+      "kind": "recipe",
+      "evidence": "pair it with video models like Seedance 2.5, and you get a full pipeline.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "photo-to-3d-world",
+    "worldgen-seedance-pipeline"
+  ],
+  "tools": [
+    "hyper3d-worldgen",
+    "seedance"
+  ],
+  "links": {
+    "canonical": "https://x.com/grokkedd/status/2095437841958314100",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2093937170717585657",
+      "note-blender-minimax-h3-video-generation"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Demo video showing a single input photo transformed into an interactive 3D room scene with separately selectable furniture and props.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/media_1.jpg",
+      "type": "video",
+      "description": "Follow-up demo clip showing physics interaction and engine export from the WorldGen reconstruction.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095437841958314100",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "bess-3d-flythrough",
+      "video-generation",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2093937170717585657",
+      "x-2094864872853119216"
+    ],
+    "must_read": true,
+    "why_must_read": "One-photo-to-world pipeline that pairs with video models for flythrough production."
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

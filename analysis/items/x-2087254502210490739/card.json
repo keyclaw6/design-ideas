@@ -45,7 +45,7 @@
     {
       "id": "x-2087254502210490739#c2",
       "text": "The Control Plane Pattern replaces handoff pipelines with signal queues, a single reasoning agent, and a knowledge-graph control plane.",
-      "kind": "technique",
+      "kind": "recipe",
       "evidence": "Deterministic signal queues, single centralized reasoning agents, and Knowledge Graph control planes replace brittle handoff pipelines",
       "evidence_source": "post",
       "evidence_ref": "post.md",

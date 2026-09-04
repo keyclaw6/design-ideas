@@ -22,7 +22,7 @@
     "blockout-to-video-flythrough"
   ],
   "roles": [
-    "product",
+    "tool",
     "example"
   ],
   "artifact_type": "demo-video",
@@ -47,7 +47,7 @@
     {
       "id": "x-2088299905324396589#c2",
       "text": "Atlas keeps the world on one canvas so the look stays consistent from first image to engine.",
-      "kind": "technique",
+      "kind": "capability",
       "evidence": "One canvas, so the world keeps one look from first image to engine.",
       "evidence_source": "post",
       "evidence_ref": "post.md",

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "id": "web-nqz-ai-search-prompt-generator",
+  "source_type": "website",
+  "url": "https://nqz.ai/ai-search-prompt-generator",
+  "title": "nqz.ai free AI Search Prompt Generator for GEO pre-awareness queries",
+  "author": {
+    "name": "nqzai",
+    "handle": null,
+    "url": "https://nqz.ai/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Free nqz.ai tool that fetches one public URL and outputs four topics times three natural-language buyer prompts each for ChatGPT, Perplexity, and Gemini. No login, ten generations per hour, brand names excluded to test GEO citation not recall.",
+  "question_it_answers": "How do I generate a varied GEO prompt set from a single product URL without a keyword tool?",
+  "claims": [
+    {
+      "id": "web-nqz-ai-search-prompt-generator#c1",
+      "text": "The generator returns four distinct topics with three intents each: discovery, comparison, and decision.",
+      "kind": "capability",
+      "evidence": "4 distinct topics — different category/use-case angles, not paraphrases",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-nqz-ai-search-prompt-generator#c2",
+      "text": "Visitors are limited to ten generations per hour with no account and no stored crawl data.",
+      "kind": "pricing",
+      "evidence": "No login; limited to 10 generations/hour per visitor",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "hourly generation limit",
+      "value": "10",
+      "unit": "generations/hour",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "geo-prompt-testing"
+  ],
+  "tools": [
+    "nqz-ai-search-prompt-generator"
+  ],
+  "links": {
+    "canonical": "https://nqz.ai/ai-search-prompt-generator",
+    "repo": null,
+    "paper": null,
+    "product": "https://nqz.ai/ai-search-prompt-generator",
+    "other": [
+      "https://nqz.ai/free-ai-tools",
+      "https://x.com/jakezward/status/2094771557864292784"
+    ],
+    "related_items": [
+      "web-crowdreply",
+      "web-known-agency",
+      "web-seowins-io",
+      "github-iannuttall-seo",
+      "web-brave-submit-url"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-nqz-ai-search-prompt-generator",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-crowdreply",
+      "web-known-agency"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

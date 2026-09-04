@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "web-meigen-ai",
+  "source_type": "website",
+  "url": "https://www.meigen.ai/",
+  "title": "MeiGen: cross-model prompt gallery with MCP for GPT Image, Seedance, Nano Banana",
+  "author": {
+    "name": null,
+    "handle": null,
+    "url": null
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-prompt-galleries",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp",
+    "comfyui"
+  ],
+  "summary": "MeiGen (meigen.ai) is a free community prompt gallery spanning GPT Image 2, Seedance, Nano Banana, and Midjourney with publish-to-earn credits, in-app generation tiers, and a 9-tool MCP repo for ComfyUI or OpenAI-compatible backends.",
+  "question_it_answers": "Which prompt gallery covers both image and video models with an agent-facing MCP server?",
+  "claims": [
+    {
+      "id": "web-meigen-ai#c1",
+      "text": "MeiGen MCP repo advertises 1,446+ curated prompts and nine MCP tools.",
+      "kind": "capability",
+      "evidence": "1,446+ curated prompts, 9 MCP tools",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "web-meigen-ai#c2",
+      "text": "Gallery spans GPT Image, Seedance, Nanobanana, and Midjourney with category browse and publish-to-earn credits.",
+      "kind": "capability",
+      "evidence": "All GPT Image Seedance Nanobanana Midjourney",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "image-prompt-galleries"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "MCP GitHub stars",
+      "value": "1737",
+      "unit": "stars",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://www.meigen.ai/",
+    "repo": "https://github.com/jau123/MeiGen-AI-Design-MCP",
+    "paper": null,
+    "product": "https://www.meigen.ai/app",
+    "other": [],
+    "related_items": [
+      "github-wuyoscar-gpt-image2-skill",
+      "github-youmind-openlab-nano-banana-pro-prompts",
+      "web-fal-ai",
+      "web-sceneai-art",
+      "github-oso95-scroll-world"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-meigen-ai",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills",
+      "video-generation"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

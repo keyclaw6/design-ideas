@@ -1,0 +1,141 @@
+{
+  "schema_version": "1",
+  "id": "x-2094770895021572502",
+  "source_type": "x",
+  "url": "https://x.com/a_shimanski/status/2094770895021572502",
+  "title": "Free one-page tools SEO playbook via Bing keyword research",
+  "author": {
+    "name": "Artyom Shimanski",
+    "handle": "a_shimanski",
+    "url": "https://x.com/a_shimanski"
+  },
+  "published_at": "2026-09-01T12:54:34Z",
+  "captured_at": "2026-09-02T17:53:08Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Founder Artyom Shimanski explains programmatic SEO via free browser-only one-page tools: find demand in Bing Webmaster keyword research, ship one URL per job with soft product CTA, submit to GSC and Bing, then wait roughly six weeks before impressions cliff.",
+  "question_it_answers": "How do I find and ship free-tool pages that earn search traffic instead of blog posts?",
+  "claims": [
+    {
+      "id": "x-2094770895021572502#c1",
+      "text": "Almost none of the cited 1.01M impressions traffic goes to blog posts; it goes to free tools.",
+      "kind": "result",
+      "evidence": "Almost none of this traffic goes to blog posts. It goes to free tools.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c2",
+      "text": "Demand research uses Bing Webmaster Tools keyword research for volume and related terms.",
+      "kind": "recipe",
+      "evidence": "Bing Webmaster Tools → Keyword Research. Type a term from your niche, see real volume plus related terms.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c3",
+      "text": "Each tool is one page, one job, free, no signup, with six weeks of flat metrics before growth.",
+      "kind": "recipe",
+      "evidence": "one page, one tool, one job → free, no signup, works instantly",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "quoted GSC impressions",
+      "value": "1.01",
+      "unit": "million",
+      "source": "post"
+    },
+    {
+      "label": "quoted GSC clicks",
+      "value": "16.3",
+      "unit": "thousand",
+      "source": "post"
+    },
+    {
+      "label": "flat period before growth",
+      "value": "6",
+      "unit": "weeks",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "free-tool-seo",
+    "bing-keyword-research"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/a_shimanski/status/2094770895021572502",
+    "repo": null,
+    "paper": null,
+    "product": "https://shimanski.dev",
+    "other": [
+      "http://aiedit.com",
+      "http://postformatter.com",
+      "http://blurr.ing",
+      "http://unicodegames.com",
+      "https://x.com/a_shimanski/status/2094338304070004768"
+    ],
+    "related_items": [
+      "web-nqz-ai-search-prompt-generator",
+      "web-tinyshelf",
+      "web-brave-submit-url"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/quoted-gsc.jpg",
+      "type": "image",
+      "description": "Google Search Console performance chart showing 1.01M impressions and 16.3K clicks over three months with a flat May-June period then steep July-August growth cliff.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094770895021572502",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-nqz-ai-search-prompt-generator",
+      "web-tinyshelf"
+    ],
+    "must_read": true,
+    "why_must_read": "Concrete free-tool SEO recipe with GSC proof chart and Bing research step."
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

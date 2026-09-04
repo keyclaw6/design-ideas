@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "web-chatgpt-training",
+  "source_type": "website",
+  "url": "https://learn.chatgpt.com/training",
+  "title": "OpenAI ChatGPT Training: Work/Codex labs and plugins-vs-skills walkthroughs",
+  "author": {
+    "name": "OpenAI",
+    "handle": null,
+    "url": "https://openai.com"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:38:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "technique"
+  ],
+  "artifact_type": "course",
+  "platforms": [
+    "codex",
+    "browser"
+  ],
+  "summary": "Official learn.chatgpt.com/training hub with hands-on Work and Codex labs plus six walkthroughs covering plugins vs skills, scheduled tasks, browser use, and llms.txt machine-readable doc exports.",
+  "question_it_answers": "Where does OpenAI document the difference between ChatGPT plugins and skills for Work and Codex?",
+  "claims": [
+    {
+      "id": "web-chatgpt-training#c1",
+      "text": "OpenAI defines plugins as new capabilities and skills as how you want them done.",
+      "kind": "capability",
+      "evidence": "Plugins = new capabilities; skills = how you want them done",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "web-chatgpt-training#c2",
+      "text": "Training hub ships two hands-on labs (Work planning, Codex first code change) and six ordered walkthroughs.",
+      "kind": "availability",
+      "evidence": "Hands-on labs ... Walkthroughs (6)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://learn.chatgpt.com/training",
+    "repo": null,
+    "paper": null,
+    "product": "https://learn.chatgpt.com/training",
+    "other": [
+      "https://learn.chatgpt.com/llms.txt",
+      "https://learn.chatgpt.com/docs/llms-full.txt",
+      "https://learn.chatgpt.com/docs/build-skills.md",
+      "https://academy.openai.com/home/events"
+    ],
+    "related_items": [
+      "web-blume-codes",
+      "github-pbakaus-impeccable",
+      "web-anthropic-claude-self-service-data",
+      "github-emilkowalski-skills",
+      "web-opale-ui-taste"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-chatgpt-training",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

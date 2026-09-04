@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2093236801079279978",
+  "source_type": "x",
+  "url": "https://x.com/elayadesigns/status/2093236801079279978",
+  "title": "ChatGPT ideation, Fable 5 build, Higgsfield animate design workflow",
+  "author": {
+    "name": "elayadesigns",
+    "handle": "elayadesigns",
+    "url": "https://x.com/elayadesigns"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:50:37Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-video-generation",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "higgsfield",
+    "other"
+  ],
+  "summary": "Designer elayadesigns shares a four-step workflow: ideate in ChatGPT, build scenes in Fable 5, animate with Higgsfield, then iterate. Short claim with attached demo media showing the toolchain in practice.",
+  "question_it_answers": "What toolchain does elayadesigns use to go from concept to animated design output?",
+  "claims": [
+    {
+      "id": "x-2093236801079279978#c1",
+      "text": "The workflow chains ChatGPT ideation, Fable 5 building, and Higgsfield animation with iterative refinement.",
+      "kind": "recipe",
+      "evidence": "Ideate with ChatGPT • Build with Fable 5 • Animate with Higgsfield • Keep iterating",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "chatgpt-ideation",
+    "fable-scene-build",
+    "higgsfield-animation"
+  ],
+  "tools": [
+    "fable-5",
+    "higgsfield"
+  ],
+  "links": {
+    "canonical": "https://x.com/elayadesigns/status/2093236801079279978",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Short demo video showing design work produced through the ChatGPT, Fable 5, and Higgsfield toolchain described in the post.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093236801079279978",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2095427702325231977",
+      "note-blender-minimax-h3-video-generation"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

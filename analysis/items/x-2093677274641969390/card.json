@@ -1,0 +1,124 @@
+{
+  "schema_version": "1",
+  "id": "x-2093677274641969390",
+  "source_type": "x",
+  "url": "https://x.com/imryven/status/2093677274641969390",
+  "title": "Self-maintaining second brain: RAW, WIKI, CLAUDE.md, five automations",
+  "author": {
+    "name": "Ryven",
+    "handle": "imryven",
+    "url": "https://x.com/imryven"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:49Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [
+    "agent-harness-loops"
+  ],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "claude-code"
+  ],
+  "summary": "Ryven describes a self-maintaining knowledge compiler replacing manual second brains: immutable RAW ingest, model-written WIKI, central CLAUDE.md identity file, and five automations (ingest, write, manage, review, maintain) that close a compounding context loop without manual tagging.",
+  "question_it_answers": "How can an agent-maintained RAW/WIKI/CLAUDE.md stack replace a manual second brain?",
+  "claims": [
+    {
+      "id": "x-2093677274641969390#c1",
+      "text": "RAW holds immutable unstructured ground truth while WIKI is structured evergreen knowledge written by the model, not the user.",
+      "kind": "recipe",
+      "evidence": "RAW holds everything unstructured. articles. transcripts. notes. screenshots. immutable. ground truth.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2093677274641969390#c2",
+      "text": "Five automations — ingest, write, manage, review, maintain — run without being asked.",
+      "kind": "capability",
+      "evidence": "five automations run the whole thing without you. INGEST captures and extracts. WRITE retrieves and drafts.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2093677274641969390#c3",
+      "text": "After three months the researcher had 4,000 notes in RAW with zero time spent organizing.",
+      "kind": "result",
+      "evidence": "three months in he has 4,000 notes in RAW. zero time spent organizing.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "RAW notes after three months",
+      "value": "4000",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "raw-wiki-split",
+    "claude-md-identity",
+    "knowledge-compiler-loop"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/imryven/status/2093677274641969390",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2092918452423983363",
+      "x-2086920236079681607",
+      "web-davidgasquez-context-engineering"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Architecture infographic titled Second Brain Architecture showing RAW to WIKI flow, CLAUDE.md center hub, five automations (ingest, write, manage, review, maintain), directory tree for raw/wiki/output/ctx/mem folders, and a sources-to-memory feedback loop.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093677274641969390",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2092918452423983363",
+      "x-2086920236079681607"
+    ],
+    "must_read": true,
+    "why_must_read": "Concrete directory and automation pattern for agent-maintained project memory."
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

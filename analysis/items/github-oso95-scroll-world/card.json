@@ -1,0 +1,116 @@
+{
+  "schema_version": "1",
+  "id": "github-oso95-scroll-world",
+  "source_type": "github",
+  "url": "https://github.com/oso95/scroll-world",
+  "title": "oso95 scroll-world: agent skill for scroll-scrubbed isometric flythrough landings",
+  "author": {
+    "name": "oso95",
+    "handle": "oso95",
+    "url": "https://github.com/oso95"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "blockout-to-video-flythrough"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "browser",
+    "claude-code",
+    "codex"
+  ],
+  "summary": "MIT GitHub agent skill (~8.9k stars) that interviews for brand/scene order, generates GPT Image stills plus Monid/Seedance connector clips, and wires a vanilla-JS scroll-scrub engine into any web stack.",
+  "question_it_answers": "How do I build Apple-style scroll-scrubbed isometric world flythrough landing pages with an agent skill?",
+  "claims": [
+    {
+      "id": "github-oso95-scroll-world#c1",
+      "text": "scroll-world builds continuous camera flight through AI isometric diorama scenes with no cuts, scrubbed to scroll.",
+      "kind": "capability",
+      "evidence": "continuous camera flight through AI-generated isometric diorama scenes with no cuts",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "github-oso95-scroll-world#c2",
+      "text": "Default video backend is Monid CLI (Seedance 2.0) with Higgsfield CLI as fallback.",
+      "kind": "recipe",
+      "evidence": "Monid CLI (default video backend, Seedance 2.0) or Higgsfield CLI fallback",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "8906",
+      "unit": "stars",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "scroll-scrub-flythrough",
+    "seam-locked-clip-generation"
+  ],
+  "tools": [
+    "monid-cli",
+    "higgsfield-cli",
+    "scroll-world-skill"
+  ],
+  "links": {
+    "canonical": "https://github.com/oso95/scroll-world",
+    "repo": "https://github.com/oso95/scroll-world",
+    "paper": null,
+    "product": "https://monid.ai",
+    "other": [
+      "https://higgsfield.ai"
+    ],
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "web-fal-ai",
+      "github-nv-tlabs-ArtiFixer",
+      "web-utsubo",
+      "web-getlayers-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-oso95-scroll-world",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "bess-3d-flythrough",
+      "camera-control",
+      "video-generation",
+      "agent-skills",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

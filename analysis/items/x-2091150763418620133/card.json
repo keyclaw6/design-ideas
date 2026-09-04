@@ -1,0 +1,128 @@
+{
+  "schema_version": "1",
+  "id": "x-2091150763418620133",
+  "source_type": "x",
+  "url": "https://x.com/akshay_pachaar/status/2091150763418620133",
+  "title": "FreeToken MoE inference engine: PCIe/CPU split and agent prefill checkpoints",
+  "author": {
+    "name": "akshay_pachaar",
+    "handle": "akshay_pachaar",
+    "url": "https://x.com/akshay_pachaar"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:39Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "local-inference-models",
+  "secondary_subjects": [
+    "agent-harness-loops"
+  ],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "cli"
+  ],
+  "summary": "Long-form thread on Berkeley FlashML FreeToken: profiles PCIe vs CPU bandwidth per machine to split MoE expert cache misses, serves OpenAI/Anthropic APIs locally, and checkpoints at agent-framework edit boundaries so prefill after history rewrites stays under 44 seconds.",
+  "question_it_answers": "How does FreeToken run large MoE models on consumer GPUs and speed agent prefill?",
+  "claims": [
+    {
+      "id": "x-2091150763418620133#c1",
+      "text": "FreeToken serves Qwen3.6-35B at 39.3 tokens per second on an 8GB GPU by exploiting MoE sparsity.",
+      "kind": "benchmark",
+      "evidence": "Qwen3.6-35B on an 8GB GPU at 39.3 tokens/s",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2091150763418620133#c2",
+      "text": "The engine profiles PCIe and CPU bandwidth once per machine and splits each step's expert misses proportionally between GPU copy and CPU compute.",
+      "kind": "capability",
+      "evidence": "FreeToken measures both bandwidths on your machine and splits each step's misses between the two paths in proportion.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2091150763418620133#c3",
+      "text": "Agent-oriented checkpoints at framework edit boundaries keep slowest first token under 44 seconds versus 232 for llama.cpp.",
+      "kind": "benchmark",
+      "evidence": "its slowest first token stays under 44 seconds, while llama.cpp peaks at 232 and KTransformers at 946.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "Qwen3.6-35B throughput on 8GB GPU",
+      "value": "39.3",
+      "unit": "tokens/s",
+      "source": "post"
+    },
+    {
+      "label": "FreeToken slowest first token",
+      "value": "44",
+      "unit": "seconds",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "moe-expert-offload",
+    "agent-prefill-checkpoints"
+  ],
+  "tools": [
+    "freetoken"
+  ],
+  "links": {
+    "canonical": "https://x.com/akshay_pachaar/status/2091150763418620133",
+    "repo": "https://github.com/FlashML-org/FreeToken",
+    "paper": "https://arxiv.org/pdf/2608.16157",
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087240056037908509",
+      "x-2087562269807030754"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Screen recording or animated explainer accompanying the FreeToken throughput and MoE expert-routing narrative in the thread.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2091150763418620133",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087240056037908509",
+      "x-2087562269807030754"
+    ],
+    "must_read": true,
+    "why_must_read": "Runnable local MoE inference detail for agent harnesses that rewrite history."
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

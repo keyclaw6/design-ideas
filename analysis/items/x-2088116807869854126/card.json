@@ -1,0 +1,89 @@
+{
+  "schema_version": "1",
+  "id": "x-2088116807869854126",
+  "source_type": "x",
+  "url": "https://x.com/Saboo_Shubham_/status/2088116807869854126",
+  "title": "Shubhamsaboo awesome-llm-apps catalog (~132k stars)",
+  "author": {
+    "name": "Saboo Shubham",
+    "handle": "Saboo_Shubham_",
+    "url": "https://x.com/Saboo_Shubham_"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:41Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cli"
+  ],
+  "summary": "Tweet pointing at Shubhamsaboo/awesome-llm-apps, a large curated list of end-to-end LLM application examples spanning RAG, agents, and multimodal demos. Star-ask framing but the linked repo is the browseable artifact.",
+  "question_it_answers": "Where can I browse example LLM app implementations when no domain-specific item exists yet?",
+  "claims": [
+    {
+      "id": "x-2088116807869854126#c1",
+      "text": "The linked GitHub repo awesome-llm-apps has over 132,000 stars.",
+      "kind": "availability",
+      "evidence": "GitHub repo (132,000+ stars), share and star to help me keep shipping:  https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "132000",
+      "unit": "+",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/Saboo_Shubham_/status/2088116807869854126",
+    "repo": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-sindresorhus-awesome",
+      "github-punkpeye-awesome-mcp-servers",
+      "github-superdesigndev-treg",
+      "github-LessieAI-people-search-bench"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088116807869854126",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-punkpeye-awesome-mcp-servers"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

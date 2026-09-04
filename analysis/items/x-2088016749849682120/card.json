@@ -1,0 +1,93 @@
+{
+  "schema_version": "1",
+  "id": "x-2088016749849682120",
+  "source_type": "x",
+  "url": "https://x.com/fleetingbits/status/2088016749849682120",
+  "title": "FleetingBits: Claude-generated explorable codebase diagrams with inspectable data dots",
+  "author": {
+    "name": "FleetingBits",
+    "handle": "fleetingbits",
+    "url": "https://x.com/fleetingbits"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:28Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "infographics-diagrams",
+  "secondary_subjects": [
+    "agent-harness-loops"
+  ],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "claude-code"
+  ],
+  "summary": "FleetingBits describes having Claude render codebases as interactive visual diagrams so he can discuss architecture with the agent; moving dots represent data snippets he can inspect in the UI.",
+  "question_it_answers": "How can an agent turn a codebase into an explorable visual diagram for paired discussion?",
+  "claims": [
+    {
+      "id": "x-2088016749849682120#c1",
+      "text": "Claude can render a codebase as a visual diagram with moving data snippets the author can inspect while discussing the code.",
+      "kind": "capability",
+      "evidence": "the moving dots are data snippets that i can inspect",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/fleetingbits/status/2088016749849682120",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "x-2087329201451855933",
+      "github-antvis-infographic",
+      "web-flint-chart"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Isometric rivers-of-empire system map with labeled evolution-loop blocks, pan/zoom controls, and a documentation sidebar.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088016749849682120",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "infographics",
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

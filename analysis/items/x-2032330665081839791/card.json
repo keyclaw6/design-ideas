@@ -1,0 +1,115 @@
+{
+  "schema_version": "1",
+  "id": "x-2032330665081839791",
+  "source_type": "x",
+  "url": "https://x.com/varun_mathur/status/2032330665081839791",
+  "title": "Autoquant: Karpathy autoresearch swarm applied to multi-factor quant backtests",
+  "author": {
+    "name": "Varun",
+    "handle": "varun_mathur",
+    "url": "https://x.com/varun_mathur"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:23Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "cli"
+  ],
+  "summary": "Varun Mathur describes Autoquant v2.6.9: 135 agents mutate four-layer trading pipelines (macro, sector, alpha, risk officer) via Darwinian selection on ten years of market data, with out-of-sample and crisis stress gates.",
+  "question_it_answers": "What pipeline shape does Autoquant use for distributed autoresearch on quantitative finance?",
+  "claims": [
+    {
+      "id": "x-2032330665081839791#c1",
+      "text": "Autoquant runs ~135 agents with 30 mutations per round and Darwinian selection across a P2P gossip network.",
+      "kind": "capability",
+      "evidence": "30 mutations compete per round. Best strategies propagate across the swarm.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2032330665081839791#c2",
+      "text": "Agents independently converged on dropping three factors and risk-parity sizing, claiming Sharpe 1.32 versus 1.04 baseline.",
+      "kind": "result",
+      "evidence": "Sharpe 1.32, 3x return, 5.5% max drawdown",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "contested",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "agent count",
+      "value": "135",
+      "unit": "agents",
+      "source": "post"
+    },
+    {
+      "label": "claimed Sharpe",
+      "value": "1.32",
+      "unit": "ratio",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "darwinian-mutation-loop",
+    "out-of-sample-validation"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/varun_mathur/status/2032330665081839791",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2032671842230501729",
+      "x-2080856252687745093",
+      "x-2074912810803560497",
+      "x-2087151807965401320"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "ASCII infographic: 135 Autoquant agents on a P2P gossip network, Darwinian selection box, and claimed Sharpe 1.32 result card.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2032330665081839791",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}

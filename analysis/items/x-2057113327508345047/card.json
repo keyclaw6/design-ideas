@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "id": "x-2057113327508345047",
+  "source_type": "x",
+  "url": "https://x.com/kokraf3d/status/2057113327508345047",
+  "title": "kokraf four-view AI texture projection for Three.js meshes",
+  "author": {
+    "name": "kokraf3d",
+    "handle": "kokraf3d",
+    "url": "https://x.com/kokraf3d"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:41Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-to-3d-world",
+  "secondary_subjects": [
+    "web-3d-scenes"
+  ],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "three-js"
+  ],
+  "summary": "kokraf3d builds a one-click AI texturing flow for Three.js meshes: render four orthographic sides, generate textures with an image model, and project them back onto the mesh. Open-source at github.com/sengchor/kokraf.",
+  "question_it_answers": "How can I texture a gray 3D mesh for a web scene without manual lookdev?",
+  "claims": [
+    {
+      "id": "x-2057113327508345047#c1",
+      "text": "The pipeline renders a model from four sides and projects generated textures back onto the mesh.",
+      "kind": "recipe",
+      "evidence": "I render the model from four sides and project the generated textures back onto the model.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2057113327508345047#c2",
+      "text": "Source code is published at github.com/sengchor/kokraf.",
+      "kind": "availability",
+      "evidence": "Project Source Code: https://github.com/sengchor/kokraf",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "four-view-texture-projection"
+  ],
+  "tools": [
+    "kokraf"
+  ],
+  "links": {
+    "canonical": "https://x.com/kokraf3d/status/2057113327508345047",
+    "repo": "https://github.com/sengchor/kokraf",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-skills",
+      "web-oryzo-ai",
+      "x-2086599657925329347"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Screen recording demo cycling a gray 3D mesh through four orthographic renders and showing AI-generated textures projected back onto the model.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2057113327508345047",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2086599657925329347",
+      "web-oryzo-ai"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-20",
+  "written_at": "2026-09-04T18:20:00Z"
+}

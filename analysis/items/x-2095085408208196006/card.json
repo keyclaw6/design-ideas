@@ -1,0 +1,108 @@
+{
+  "schema_version": "1",
+  "id": "x-2095085408208196006",
+  "source_type": "x",
+  "url": "https://x.com/Palakonweb/status/2095085408208196006",
+  "title": "Imageory.in ChatGPT prompt gallery promo with surreal blue-statue stills",
+  "author": {
+    "name": null,
+    "handle": "Palakonweb",
+    "url": "https://x.com/Palakonweb"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:52:39Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-prompt-galleries",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "tool"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Palakonweb promotes Imageory.in as a ChatGPT prompt source, attaching four surreal monochrome-blue classical-statue images with red accent elements as style references.",
+  "question_it_answers": "What is Imageory.in and what visual style do its sample ChatGPT prompts produce?",
+  "claims": [
+    {
+      "id": "x-2095085408208196006#c1",
+      "text": "Author made attached stills with ChatGPT and points to Imageory.in for prompts.",
+      "kind": "capability",
+      "evidence": "Made with @ChatGPT check out https://Imageory.in for prompts",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-prompt-galleries"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/Palakonweb/status/2095085408208196006",
+    "repo": null,
+    "paper": null,
+    "product": "https://Imageory.in",
+    "other": [],
+    "related_items": [
+      "web-meigen-ai"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Blue monochrome classical bust facing a floating red poppy on a solid blue background.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_1.jpg",
+      "type": "image",
+      "description": "Blue classical male bust in profile with a glowing red-orange sphere above the forehead.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_2.jpg",
+      "type": "image",
+      "description": "Blue-robed classical figure reaching toward a large red moon in a minimalist night landscape.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_3.jpg",
+      "type": "image",
+      "description": "Blue classical bust wearing glossy red wraparound visor sunglasses against a matching blue backdrop.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095085408208196006",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-18",
+  "written_at": "2026-09-04T18:25:52Z"
+}
