@@ -1,0 +1,84 @@
+{
+  "schema_version": "1",
+  "id": "x-2086845465140842638",
+  "source_type": "x",
+  "url": "https://x.com/tomjohndesign/status/2086845465140842638",
+  "title": "/bro skill endorsement for humanizing AI copy and UI voice",
+  "author": {
+    "name": "Tom Johnson",
+    "handle": "tomjohndesign",
+    "url": "https://x.com/tomjohndesign"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:45Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "repo",
+  "platforms": [],
+  "summary": "Tom Johnson endorses the /bro agent skill (luchasarie/bro-skill) with a before/after example for restyling generated copy and UI toward a more human, less-assistant voice.",
+  "question_it_answers": "Which installable skill rewrites AI-generated copy toward a more human voice?",
+  "claims": [
+    {
+      "id": "x-2086845465140842638#c1",
+      "text": "/bro is an installable agent skill that restyles output toward a more human voice with before/after results.",
+      "kind": "capability",
+      "evidence": "/bro is my new favorite skill.\n\nbefore | after",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "anti-slop-voice-pass"
+  ],
+  "tools": [
+    "bro-skill"
+  ],
+  "links": {
+    "canonical": "https://x.com/tomjohndesign/status/2086845465140842638",
+    "repo": "https://github.com/luchasarie/bro-skill",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "x-2090834948332655011",
+      "x-2085006701984698712",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2086845465140842638",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}

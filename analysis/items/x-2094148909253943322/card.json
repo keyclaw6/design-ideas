@@ -1,0 +1,106 @@
+{
+  "schema_version": "1",
+  "id": "x-2094148909253943322",
+  "source_type": "x",
+  "url": "https://x.com/coreyhainesco/status/2094148909253943322",
+  "title": "Weekly unbranded press-wire releases earned 108 AI answer citations",
+  "author": {
+    "name": "Corey Haines",
+    "handle": "coreyhainesco",
+    "url": "https://x.com/coreyhainesco"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:53Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "Corey Haines describes a weekly newswire press-release program written around unbranded buyer questions for AI citation; in weeks it earned 108 repeating citations and lifted category prompt scores 21%.",
+  "question_it_answers": "How fast can structured press-wire releases move AI-answer citation scores?",
+  "claims": [
+    {
+      "id": "x-2094148909253943322#c1",
+      "text": "Weekly neutral press releases around unbranded buyer questions earned 108 repeating AI citations in a few weeks.",
+      "kind": "result",
+      "evidence": "In just a few weeks, the releases earned 108 repeating citations!",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094148909253943322#c2",
+      "text": "Category prompts that never named the client directly improved 21% after the program.",
+      "kind": "result",
+      "evidence": "The scores for category prompts that never named the client directly improved by 21%",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "repeating citations",
+      "value": "108",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "citations from top release",
+      "value": "78",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "category prompt score lift",
+      "value": "21",
+      "unit": "percent",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "press-wire-aeo",
+    "unbranded-question-releases"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/coreyhainesco/status/2094148909253943322",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2094148909253943322",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}

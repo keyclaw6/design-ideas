@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "x-2088046188037902579",
+  "source_type": "x",
+  "url": "https://x.com/KingBootoshi/status/2088046188037902579",
+  "title": "Hidden llms.txt anchor nudge raises model fetch rate to 10/10 runs",
+  "author": {
+    "name": "King Bootoshi",
+    "handle": "KingBootoshi",
+    "url": "https://x.com/KingBootoshi"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:41Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "article",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "King Bootoshi shares a near-invisible /llms.txt link whose title tells browsing LLMs to read the file; after adding it every model fetched llms.txt in 10/10 reruns of the same browse prompt.",
+  "question_it_answers": "How can I make browsing LLMs reliably fetch my site's llms.txt file?",
+  "claims": [
+    {
+      "id": "x-2088046188037902579#c1",
+      "text": "A tiny llms.txt anchor with an LLM-directed title attribute made every tested model fetch the file in 10/10 runs.",
+      "kind": "result",
+      "evidence": "Every single model hit the llms.txt file in all 10 runs.",
+      "evidence_source": "media",
+      "evidence_ref": "media/media_0.jpg",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2088046188037902579#c2",
+      "text": "Only GPT-5.5 initially checked llms.txt proactively and only once before the nudge was added.",
+      "kind": "result",
+      "evidence": "Initially, only openai's gpt-5.5 knew to proactively check for a llms.txt and only did so once",
+      "evidence_source": "media",
+      "evidence_ref": "media/media_0.jpg",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "llms-txt-nudge-link",
+    "geo-crawler-prompt"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/KingBootoshi/status/2088046188037902579",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "web-crowdreply",
+      "github-iannuttall-seo",
+      "web-nqz-ai-search-prompt-generator",
+      "web-seowins-io",
+      "web-known-agency"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Blog screenshot showing a 9px llms.txt anchor HTML snippet and text reporting 10/10 model fetch success after the nudge.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088046188037902579",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}

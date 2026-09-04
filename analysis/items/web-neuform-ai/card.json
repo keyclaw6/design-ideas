@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "web-neuform-ai",
+  "source_type": "website",
+  "url": "https://neuform.ai",
+  "title": "Neuform: prompt-to-HTML landing builder exporting remixable DESIGN.md",
+  "author": {
+    "name": "Neuform",
+    "handle": "neuform",
+    "url": "https://neuform.ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Neuform.ai turns prompts into AI HTML landing pages and remixable community templates while exporting DESIGN.md so later agent edits stay on-brand — positioned between Aura and OpenDesign.",
+  "question_it_answers": "Which hosted builder ships HTML landings together with a reusable DESIGN.md for agents?",
+  "claims": [
+    {
+      "id": "web-neuform-ai#c1",
+      "text": "Prompt or remix templates such as Verdant, Echo Lab, and Aether into HTML landing output.",
+      "kind": "capability",
+      "evidence": "Verdant, Echo Lab, Aether, Nexus, Systema Core — remixable HTML templates with remix counts.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-neuform-ai#c2",
+      "text": "Exports DESIGN.md so subsequent agent edits follow the generated visual system.",
+      "kind": "capability",
+      "evidence": "Emits DESIGN.md so later agent edits stay on-brand — closer to Google spec workflow than Aura’s opaque builder.",
+      "evidence_source": "note",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "prompt-to-html-landing",
+    "design-md-export"
+  ],
+  "tools": [
+    "neuform"
+  ],
+  "links": {
+    "canonical": "https://neuform.ai",
+    "repo": null,
+    "paper": null,
+    "product": "https://neuform.ai",
+    "other": [
+      "https://x.com/tranmautritam/status/2095078647652917329"
+    ],
+    "related_items": [
+      "web-open-design-ai",
+      "github-google-labs-code-design-md",
+      "web-getdesign-md",
+      "web-aura-build",
+      "web-sokosumi-design-md"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-neuform-ai",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}

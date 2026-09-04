@@ -1,0 +1,133 @@
+{
+  "schema_version": "1",
+  "id": "github-pbakaus-impeccable",
+  "source_type": "github",
+  "url": "https://github.com/pbakaus/impeccable",
+  "title": "Impeccable: agent design skill with PRODUCT.md, detectors, and 23 slash commands",
+  "author": {
+    "name": "Paul Bakaus",
+    "handle": "pbakaus",
+    "url": "https://github.com/pbakaus"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "cli",
+    "browser"
+  ],
+  "summary": "GitHub repo (~65k stars) shipping one design skill, 23 slash commands, live browser iteration, and 61 deterministic anti-slop detector rules. Evolved from Anthropic frontend-design; init writes PRODUCT.md separately from DESIGN.md.",
+  "question_it_answers": "How do I install Impeccable to split PRODUCT.md from DESIGN.md and run deterministic slop audits?",
+  "claims": [
+    {
+      "id": "github-pbakaus-impeccable#c1",
+      "text": "Install via npx impeccable install then /impeccable init writes PRODUCT.md for audience and voice apart from DESIGN.md visual direction.",
+      "kind": "recipe",
+      "evidence": "Install: `npx impeccable install`, then `/impeccable init`.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c2",
+      "text": "61 deterministic detector rules flag Inter-everywhere, purple-blue gradients, and card-in-card patterns without calling an LLM.",
+      "kind": "capability",
+      "evidence": "Design guidance for AI coding agents: 1 skill, 23 slash commands, live browser iteration, 61 deterministic detector rules.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "64933",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "slash commands",
+      "value": "23",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "detector rules",
+      "value": "61",
+      "unit": null,
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "product-design-md-split",
+    "deterministic-slop-detectors",
+    "live-browser-iteration"
+  ],
+  "tools": [
+    "impeccable"
+  ],
+  "links": {
+    "canonical": "https://github.com/pbakaus/impeccable",
+    "repo": "https://github.com/pbakaus/impeccable",
+    "paper": null,
+    "product": "https://impeccable.style",
+    "other": [
+      "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+    ],
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "github-nateherkai-scroll-craft",
+      "web-checklist-design"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/favicon.ico",
+      "type": "other",
+      "description": "Site favicon asset bundled with the GitHub capture.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/github-pbakaus-impeccable",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}

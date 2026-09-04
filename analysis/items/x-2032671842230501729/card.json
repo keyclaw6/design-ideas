@@ -1,0 +1,123 @@
+{
+  "schema_version": "1",
+  "id": "x-2032671842230501729",
+  "source_type": "x",
+  "url": "https://x.com/varun_mathur/status/2032671842230501729",
+  "title": "Hyperspace v3: generic Karpathy autoresearch swarms, Research DAG, and Warps",
+  "author": {
+    "name": "Varun Mathur",
+    "handle": "varun_mathur",
+    "url": "https://x.com/varun_mathur"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:23Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "cli",
+    "other"
+  ],
+  "summary": "Varun Mathur announces Hyperspace v3.0.10: plain-English goals spawn P2P Autoswarms, a cross-domain Research DAG compounds findings, and stackable Warps reconfigure nodes — claiming 237 agents ran 14,832 experiments.",
+  "question_it_answers": "How does Hyperspace v3 generalize the Karpathy autoresearch loop with swarms, a DAG, and Warps?",
+  "claims": [
+    {
+      "id": "x-2032671842230501729#c1",
+      "text": "Autoswarms let users describe a goal in English and the network spins up sandboxed mutate-evaluate WASM experiments on P2P peers.",
+      "kind": "capability",
+      "evidence": "Now anyone can propose an optimization problem in plain English, and the network spins up a distributed swarm to solve it - no code required.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2032671842230501729#c2",
+      "text": "Research DAG links observations and experiments across ML, search, finance, and skills so AutoThinker proposes cross-domain hypotheses.",
+      "kind": "capability",
+      "evidence": "Every experiment across every domain feeds into a shared Research DAG - a knowledge graph where observations, experiments, and syntheses link across domains.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2032671842230501729#c3",
+      "text": "Warps are declarative presets (power-mode, privacy-mode, GPU sentinel) stackable to change overnight agent behavior.",
+      "kind": "recipe",
+      "evidence": "Warps are declarative configuration presets that transform what your agent does on the network.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "agents reported",
+      "value": "237",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "experiments reported",
+      "value": "14832",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "autoresearch-swarm",
+    "research-dag",
+    "declarative-warps"
+  ],
+  "tools": [
+    "hyperspace"
+  ],
+  "links": {
+    "canonical": "https://x.com/varun_mathur/status/2032671842230501729",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2032330665081839791",
+      "x-2080856252687745093",
+      "x-2086790895538700379",
+      "x-2087151807965401320"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2032671842230501729",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": "1",
+  "id": "web-checklist-design",
+  "source_type": "website",
+  "url": "https://www.checklist.design/",
+  "title": "Checklist Design: page-type QA checklists with Figma plugin and agent skill",
+  "author": {
+    "name": "George Hatzis",
+    "handle": null,
+    "url": "https://georgehatzis.com/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "George Hatzis checklist.design offers searchable design checklists for websites, web apps, mobile, design-system components, and flows — as a web app, Figma plugin, Figma skill, and downloadable agent skill.",
+  "question_it_answers": "Where can I get page-type design checklists usable by both Figma and coding agents?",
+  "claims": [
+    {
+      "id": "web-checklist-design#c1",
+      "text": "Covers mobile, web app, website, design-system, and flow checklist categories browsable on the site.",
+      "kind": "capability",
+      "evidence": "Browse or search checklists covering websites, web apps, mobile, components, design systems, and user flows.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-checklist-design#c2",
+      "text": "Agent skill at checklist.design/skill mirrors the Figma plugin lists for coding-agent QA.",
+      "kind": "capability",
+      "evidence": "Agent skill at checklist.design/skill so coding agents can run the same lists as designers in Figma.",
+      "evidence_source": "note",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "page-type-design-qa"
+  ],
+  "tools": [
+    "checklist-design"
+  ],
+  "links": {
+    "canonical": "https://www.checklist.design/",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.checklist.design/",
+    "other": [
+      "https://www.checklist.design/skill",
+      "https://www.figma.com/community/plugin/1548640679824154718/checklist-design",
+      "https://www.figma.com/community/skill/74536/checklist-design"
+    ],
+    "related_items": [
+      "github-jakubkrehel-skills",
+      "github-pbakaus-impeccable",
+      "github-google-labs-code-design-md",
+      "web-flowmapp",
+      "github-nateherkai-scroll-craft"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-checklist-design",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}

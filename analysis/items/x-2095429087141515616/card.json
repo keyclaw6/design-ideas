@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2095429087141515616",
+  "source_type": "x",
+  "url": "https://x.com/AltamashAyazz/status/2095429087141515616",
+  "title": "Premium motion landing clip as brand value before interaction",
+  "author": {
+    "name": "Altamash",
+    "handle": "AltamashAyazz",
+    "url": "https://x.com/AltamashAyazz"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:50:12Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [],
+  "summary": "AltamashAyazz shares a premium motion-landing video arguing high-end design makes a brand feel valuable before interaction, with thin marketing copy and the clip as the primary artifact.",
+  "question_it_answers": "What does a premium motion-first landing reference look like for conversion-focused brands?",
+  "claims": [
+    {
+      "id": "x-2095429087141515616#c1",
+      "text": "Author claims premium design makes a brand feel valuable before any customer interaction.",
+      "kind": "opinion",
+      "evidence": "Premium design isn’t just about looking good—it’s about making your brand feel valuable before a customer even interacts with it.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/AltamashAyazz/status/2095429087141515616",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.mp4",
+      "type": "video",
+      "description": "Attached motion-landing demo clip showcasing premium scroll and transition polish for a brand site.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095429087141515616",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-19",
+  "written_at": "2026-09-04T18:19:37Z"
+}
