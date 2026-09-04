@@ -71,6 +71,26 @@
       "evidence_ref": "analysis/tools/obscura.md",
       "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-h4ckf0r0day-obscura#c5",
+      "text": "Obscura 0.2.1 fetch CLI of www.tinyshelf.co wrote a 73,559-byte 1280×720 PNG; eval returned title TinyShelf and body text length 13,883 with scrollHeight 3158. This is fetch, not serve RSS.",
+      "kind": "result",
+      "evidence": "fetch --eval title|body.innerText.length --screenshot analysis/_work/captures/obscura-tinyshelf.png; PNG 73559 B; scrollHeight 3158.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/obscura.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-h4ckf0r0day-obscura#c6",
+      "text": "Obscura 0.2.1 serve RSS with www.tinyshelf.co loaded over CDP was 73,080 KB (~71.4 MB) versus 25,108 KB idle on the same binary; Runtime.evaluate returned title TinyShelf, bodyLen 13883, scrollHeight 3158, 20 threads.",
+      "kind": "result",
+      "evidence": "serve --port 19255; Target.createTarget + attach; VmRSS 73080 kB x3 idle 25108 kB x3. Bank analysis/_work/captures/obscura-tinyshelf-cdp.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/obscura.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "recipe_steps": [],

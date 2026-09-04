@@ -35,7 +35,7 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 - motion-anything README **403** vs tree **218** `recipe.motion.yaml` ([motion-anything](../../tools/motion-anything.md)). Do not collapse the two numbers.
 - video-shotcraft tweet 152/209 is stale; README + tree **157** cards / **214** styles ([video-shotcraft](../../tools/video-shotcraft.md)).
 - LottieFiles “~90% smaller than GIF” and “800k+” — marketing.
-- HeyGen HyperFrames “code is in the thread” — confirm the code actually landed in `thread.md`.
+- HeyGen HyperFrames “code is in the thread” — quoted `t.co` resolves to `heygen-com/hyperframes-launches` (`claude-paper-launch/`); **20** launch dirs / README **19** video rows / tree **185** html. Thread still `captured_partial` (5/1). Receipts on [hyperframes](../../tools/hyperframes.md).
 - MiniMax M3 logo-to-brand-film — claim-source, no recipe.
 
 ## code-motion-graphics — do not treat as load-bearing
@@ -47,5 +47,5 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 ## code-motion-graphics — next capture work
 
 1. Local html-video smoke of `frame-data-chart-nyt` is now in the bank: `analysis/_work/captures/html-video-smoke/output-2026-09-04_22-12-31.mp4` (**241,922** B, 4.75 s, 1920×1080/60). Earlier `/tmp` smoke was 226,463 B / 4.77 s. Path + ffprobe on [html-video](../../tools/html-video.md).
-2. If the HeyGen thread promised source, extract it into `thread-raw/` if it is still missing.
+2. HeyGen quoted tweet is `heygen-com/hyperframes-launches` (not missing). Counts + LFS + NOTICE on [hyperframes](../../tools/hyperframes.md). Remaining: the other **4** replies into `thread-raw/` (status stays `captured_partial` until then).
 3. loopany reddit-karma prompt body is on [loop-library](../../tools/loop-library.md). Headlong cloc 1.98 (**9,912 code**) is on [headlong](../../tools/headlong.md).

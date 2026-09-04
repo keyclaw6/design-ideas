@@ -44,7 +44,8 @@
       "text": "https://t.co/bUrBBPhqFJ",
       "text_en": null,
       "urls": [
-        "https://t.co/bUrBBPhqFJ"
+        "https://t.co/bUrBBPhqFJ",
+        "https://github.com/heygen-com/hyperframes-launches/tree/main/claude-paper-launch"
       ],
       "media_urls": [],
       "metrics": {
@@ -69,10 +70,25 @@
       "target": "https://api.fxtwitter.com/JakeFromHeyGen/status/2093129469926215800",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-04T22:45:49Z",
+      "method": "other",
+      "target": "https://t.co/bUrBBPhqFJ",
+      "outcome": "ok",
+      "note": "301 Location=https://github.com/heygen-com/hyperframes-launches/tree/main/claude-paper-launch"
+    },
+    {
+      "at": "2026-09-04T22:45:49Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/JakeFromHeyGen/status/2093129558883209348",
+      "outcome": "ok",
+      "note": "quoted tweet text is the GitHub launches URL; 4 of 5 replies still unfetched"
     }
   ],
   "raw_payloads": [
-    "raw/items/x-2093129469926215800/thread-raw/x-web-dom-20260904T175325Z.html"
+    "raw/items/x-2093129469926215800/thread-raw/x-web-dom-20260904T175325Z.html",
+    "raw/items/x-2093129469926215800/thread-raw/fxtwitter-quoted-2093129558883209348-20260904T224549Z.json"
   ],
   "worker": "threads-script",
   "written_at": "2026-09-04T17:54:20Z"

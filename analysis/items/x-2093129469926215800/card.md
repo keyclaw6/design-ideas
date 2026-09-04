@@ -5,16 +5,17 @@
 **Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [code-motion-graphics](../../subjects/code-motion-graphics/brief.md) · **Also:** — · **Roles:** example · **Platforms:** remotion
 
-**Summary.** Jake Moran from HeyGen shares a launch video made with HyperFrames and says the code for this and other launch videos is in the thread, though the thread was not fully captured here.
+**Summary.** Jake Moran from HeyGen shares a launch video made with HyperFrames and says the code is in the thread. The quoted tweet's t.co resolves to heygen-com/hyperframes-launches (claude-paper-launch); four of five replies are still unfetched.
 **Question it answers.** Where does HeyGen publish HyperFrames code for its launch motion videos?
 
 **Claims.**
 - `x-2093129469926215800#c1` (availability, stated) Author claims launch video code, including this clip, is available in the X thread. — evidence: "the code for our launch videos, including this one, located in thread" [post]
+- `x-2093129469926215800#c2` (availability, demonstrated) Quoted tweet t.co/bUrBBPhqFJ 301s to heygen-com/hyperframes-launches/tree/main/claude-paper-launch. That repo is Apache-2.0 on composition source (NOTICE excludes bundled media/fonts), 20 launch directories, README 19 video rows, recursive tree 1,142 entries / 185 html. Official CLI is heygen-com/hyperframes. — evidence: "t.co 301 Location: https://github.com/heygen-com/hyperframes-launches/tree/main/claude-paper-launch. GitHub API: 20 launch dirs, 473 stars, NOTICE not-Apache media. Tree 1142 / 185 html. See hyperframes NOTES." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** [hyperframes](../../tools/hyperframes.md)
-**Links.** —
+**Links.** repo (https://github.com/heygen-com/hyperframes-launches), product (https://hyperframes.dev), https://github.com/heygen-com/hyperframes-launches/tree/main/claude-paper-launch, https://github.com/heygen-com/hyperframes
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md)
 **Media.**
 `raw/items/x-2093129469926215800/media/media_0.mp4` (video, carries_technique=true) — 54-second HeyGen launch video demo using HyperFrames code-rendered motion graphics.

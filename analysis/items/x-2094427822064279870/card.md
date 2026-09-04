@@ -16,6 +16,7 @@
 
 Sin Nodejs. Sin dependencias. Un solo binario" [post]
 - `x-2094427822064279870#c3` (availability, demonstrated) Immediate self-reply points to github.com/h4ckf0r0day/obscura as the repo behind the claims. — evidence: "> https://github.com/h4ckf0r0day/obscura" [author-thread]
+- `x-2094427822064279870#c4` (counter-claim, demonstrated) Local 0.2.1 serve RSS is 25,108 KB idle, 37,856 KB with example.com, and 73,080 KB with tinyshelf.co — above the tweet's 30 MB RAM line. Do not treat 30 MB as a page-loaded session. — evidence: "Idle 25108 kB; example.com CDP 37856 kB; tinyshelf CDP 73080 kB. README/tweet 30 MB not collapsed. See obscura NOTES." [note]
 **Numbers.** GitHub stars at capture: 23982 stars (linked-page)
 **Recipe.** —
 **Techniques.** [agent-browser-isolation](../../techniques/agent-browser-isolation.md)

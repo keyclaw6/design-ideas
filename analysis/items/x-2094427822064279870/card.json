@@ -60,6 +60,16 @@
       "evidence_ref": "comments.md",
       "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2094427822064279870#c4",
+      "text": "Local 0.2.1 serve RSS is 25,108 KB idle, 37,856 KB with example.com, and 73,080 KB with tinyshelf.co — above the tweet's 30 MB RAM line. Do not treat 30 MB as a page-loaded session.",
+      "kind": "counter-claim",
+      "evidence": "Idle 25108 kB; example.com CDP 37856 kB; tinyshelf CDP 73080 kB. README/tweet 30 MB not collapsed. See obscura NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/obscura.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "recipe_steps": [],
