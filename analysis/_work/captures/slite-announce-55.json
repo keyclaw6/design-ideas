@@ -1,0 +1,20 @@
+{
+  "url": "https://slite.com/blog/slite-announcing-self-maintaining-knowledge-base",
+  "http": 200,
+  "bytes": 105291,
+  "title": "Say hello to Slite, the self-maintaining knowledge base",
+  "h1": "Say hello to Slite, the self-maintaining knowledge base",
+  "quote": "Maintenance is where company brains die: 55% of teams that built one themselves gave up, almost always on upkeep. Company Brain 101 is our detailed report on what survives it, with interviews from the teams making it work.",
+  "ebook_cta": "https://slite.com/ebooks/company-brain",
+  "nine_architecture_names_present": false,
+  "gorgias_12000_present": false,
+  "survey_149_present": false,
+  "neighbor": {
+    "https://slite.com/blog/building-a-second-brain-for-teams": {
+      "http": 200,
+      "bytes": 108844,
+      "title": "Can a team build a second brain?",
+      "fifty_five": false
+    }
+  }
+}

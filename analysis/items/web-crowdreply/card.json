@@ -69,6 +69,16 @@
       "evidence_ref": "page.md",
       "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "web-crowdreply#c3",
+      "text": "Public /docs/mcp (53,320 B, updated 15 July 2026) names endpoint mcp.crowdreply.io/mcp/client with OAuth 2.1 PKCE. HTML extract has 58 snake_case tool ids — do not collapse with the marketing 18-row table. Features-page 4% is a ChatGPT-vs-Perplexity gap, not 4%→40% in 11 weeks.",
+      "kind": "result",
+      "evidence": "GET 200 crowdreply.io/docs/mcp; E_PLAN_GATE; 58 snake names after dropping org_id/public_key/sample_*/trace_id. Features: 30% ChatGPT / 4% Perplexity. See crowdreply-mcp NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/crowdreply-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "links": {
@@ -78,7 +88,8 @@
     "product": "https://crowdreply.io/mcp",
     "other": [
       "https://crowdreply.io/features/citation-outreach",
-      "https://mcp.crowdreply.io/mcp"
+      "https://mcp.crowdreply.io/mcp",
+      "https://crowdreply.io/docs/mcp"
     ],
     "related_items": [
       "github-iannuttall-seo",

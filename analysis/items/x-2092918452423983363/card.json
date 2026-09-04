@@ -59,6 +59,16 @@
       "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2092918452423983363#c4",
+      "text": "Slite announcing blog (105,291 B) states first-party: 55% of teams that built a company brain themselves gave up, almost always on upkeep. Company Brain 101 / the ebook CTA still points at the gated /ebooks/company-brain form. Nine architecture names and the 149-team survey count are not on this post.",
+      "kind": "result",
+      "evidence": "GET 200 slite.com/blog/slite-announcing-self-maintaining-knowledge-base; quote Maintenance is where company brains die: 55% … Get the ebook → /ebooks/company-brain. See filesystem-context-memory NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],

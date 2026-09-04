@@ -93,6 +93,16 @@
       "evidence_ref": "analysis/tools/impeccable.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c7",
+      "text": "Official two-URL detect uses waitUntil load. Stock npx on nateherk.com + example.com exited 2 with 15 findings (12+3). Local debug binary: 16 findings (13+3) on the same pair, and 35 findings (32+3) on complete-shelf + example.com. Do not collapse 15 with 16.",
+      "kind": "result",
+      "evidence": "npx 15 (nateherk 12: low-contrast x8 + dark-glow + kicker + overused-font + radial-spotlight-glow). Local shelf 32: undersized-ui-text x11, dark-glow x9, gpt-thin-border-wide-shadow x7 advisory. See impeccable NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

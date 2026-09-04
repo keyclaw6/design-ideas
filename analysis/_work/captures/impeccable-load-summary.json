@@ -1,0 +1,200 @@
+{
+  "local_nate_example": {
+    "n": 16,
+    "bytes": 7883,
+    "files": {
+      "https://www.nateherk.com/": 13,
+      "https://example.com": 3
+    },
+    "rules": [
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "dark-glow",
+        "severity": "warning",
+        "advisory": false,
+        "n": 2
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "low-contrast",
+        "severity": "warning",
+        "advisory": false,
+        "n": 7
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "radial-spotlight-glow",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "buried-raster",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "overused-font",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "kicker-above-heading",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://example.com",
+        "rule": "line-length",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://example.com",
+        "rule": "low-contrast",
+        "severity": "warning",
+        "advisory": false,
+        "n": 2
+      }
+    ]
+  },
+  "npx_nate_example": {
+    "n": 15,
+    "bytes": 7131,
+    "files": {
+      "https://www.nateherk.com/": 12,
+      "https://example.com": 3
+    },
+    "rules": [
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "dark-glow",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "low-contrast",
+        "severity": "warning",
+        "advisory": false,
+        "n": 8
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "radial-spotlight-glow",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "overused-font",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://www.nateherk.com/",
+        "rule": "kicker-above-heading",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://example.com",
+        "rule": "line-length",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://example.com",
+        "rule": "low-contrast",
+        "severity": "warning",
+        "advisory": false,
+        "n": 2
+      }
+    ]
+  },
+  "local_shelf_example": {
+    "n": 35,
+    "bytes": 24513,
+    "files": {
+      "https://mengto.github.io/complete-shelf/": 32,
+      "https://example.com": 3
+    },
+    "rules": [
+      {
+        "file": "https://mengto.github.io/complete-shelf/",
+        "rule": "dark-glow",
+        "severity": "warning",
+        "advisory": false,
+        "n": 9
+      },
+      {
+        "file": "https://mengto.github.io/complete-shelf/",
+        "rule": "undersized-ui-text",
+        "severity": "warning",
+        "advisory": false,
+        "n": 11
+      },
+      {
+        "file": "https://mengto.github.io/complete-shelf/",
+        "rule": "all-caps-body",
+        "severity": "warning",
+        "advisory": false,
+        "n": 2
+      },
+      {
+        "file": "https://mengto.github.io/complete-shelf/",
+        "rule": "extreme-negative-tracking",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://mengto.github.io/complete-shelf/",
+        "rule": "gpt-thin-border-wide-shadow",
+        "severity": "advisory",
+        "advisory": true,
+        "n": 7
+      },
+      {
+        "file": "https://mengto.github.io/complete-shelf/",
+        "rule": "overused-font",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://mengto.github.io/complete-shelf/",
+        "rule": "layout-transition",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://example.com",
+        "rule": "line-length",
+        "severity": "warning",
+        "advisory": false,
+        "n": 1
+      },
+      {
+        "file": "https://example.com",
+        "rule": "low-contrast",
+        "severity": "warning",
+        "advisory": false,
+        "n": 2
+      }
+    ]
+  }
+}
