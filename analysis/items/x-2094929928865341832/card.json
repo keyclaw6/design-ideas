@@ -67,7 +67,7 @@
     }
   ],
   "techniques": [
-    "artifixer-video-diffusion-repair"
+    "splat-pipeline"
   ],
   "tools": [
     "artifixer"

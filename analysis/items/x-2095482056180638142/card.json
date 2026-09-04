@@ -46,8 +46,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "scroll-scrubbed-hero",
-    "title-shrink-to-logo"
+    "scroll-driven-3d",
+    "parallax-scroll-landing"
   ],
   "tools": [
     "fable"

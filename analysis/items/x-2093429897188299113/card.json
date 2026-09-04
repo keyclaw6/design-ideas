@@ -71,7 +71,7 @@
     }
   ],
   "techniques": [
-    "moe-expert-disk-streaming"
+    "moe-expert-offload"
   ],
   "tools": [],
   "links": {

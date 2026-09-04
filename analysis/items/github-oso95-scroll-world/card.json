@@ -65,8 +65,8 @@
     }
   ],
   "techniques": [
-    "scroll-scrub-flythrough",
-    "seam-locked-clip-generation"
+    "worldgen-to-video",
+    "worldgen-to-video"
   ],
   "tools": [
     "monid-cli",

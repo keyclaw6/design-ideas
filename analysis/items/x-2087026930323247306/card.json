@@ -5,7 +5,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "dynamic-workflow-fanout"
+    "agent-harness-ops"
   ],
   "tools": [
     "claude-agent-sdk"

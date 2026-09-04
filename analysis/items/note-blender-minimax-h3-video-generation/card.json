@@ -75,9 +75,9 @@
     }
   ],
   "techniques": [
-    "blender-mcp-camera",
-    "depth-conditioning",
-    "first-last-frame"
+    "blender-blockout-camera",
+    "seedance-motion-reference",
+    "seedance-motion-reference"
   ],
   "tools": [
     "minimax-h3",

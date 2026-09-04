@@ -57,8 +57,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "rust-to-wasm-browser",
-    "workers-isolation"
+    "agent-browser-isolation",
+    "session-hardening"
   ],
   "tools": [
     "kitesurf",

@@ -42,7 +42,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "anti-slop-voice-pass"
+    "anti-slop-ui-skills"
   ],
   "tools": [
     "bro-skill"

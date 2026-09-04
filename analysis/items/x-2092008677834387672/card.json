@@ -48,8 +48,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "unreal-mcp-camera",
-    "level-sequence-automation"
+    "blender-blockout-camera",
+    "agent-video-editing"
   ],
   "tools": [
     "unreal-engine"

@@ -73,9 +73,9 @@
     }
   ],
   "techniques": [
-    "raw-wiki-split",
-    "claude-md-identity",
-    "knowledge-compiler-loop"
+    "agent-harness-ops",
+    "agent-harness-ops",
+    "agent-harness-ops"
   ],
   "tools": [],
   "links": {

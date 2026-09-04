@@ -1,0 +1,84 @@
+{
+  "schema_version": "1",
+  "slug": "agent-harness-loops",
+  "name": "Agent harnesses, autoresearch loops, orchestration, agent ops",
+  "owner_aliases": [
+    "autoresearch",
+    "harness",
+    "agent ops"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "Autoresearch and self-improving loops, harness design (Pi, Hermes, Headlong, loop-library, managed deep agents), orchestration cookbooks, multi-agent papers, permission stances, session/tool migration, agent observability (sideshow, Blume), curated repo lists, training pages, prompt-wording results.",
+  "exclusion_rule": "Memory/knowledge systems → agent-memory-knowledge. MCP servers and agent browsers → mcp-and-agent-browsers.",
+  "item_count_primary": 35,
+  "item_count_secondary": 12,
+  "role_counts": {
+    "tool": 11,
+    "technique": 17,
+    "example": 5,
+    "claim-source": 8,
+    "reference": 20
+  },
+  "thread_coverage": {
+    "x_items": 32,
+    "captured_full": 1,
+    "captured_partial": 30,
+    "empty": 0,
+    "failed": 1
+  },
+  "techniques": [
+    "autoresearch-loop",
+    "agent-harness-ops",
+    "session-hardening"
+  ],
+  "tools": [
+    "blume-sidecar",
+    "hyperspace",
+    "codex",
+    "nix-darwin",
+    "automicvault",
+    "loop-library",
+    "claude-agent-sdk",
+    "pi-shepherdr",
+    "herdr",
+    "pi-clarify",
+    "pi-codex-conversion",
+    "pi-gippity-control",
+    "codex-plusplus",
+    "is-agentic",
+    "graft",
+    "agency-agents",
+    "codebase-memory-mcp",
+    "openmontage",
+    "agent-reach",
+    "orca",
+    "sideshow-sh",
+    "rivet",
+    "session-migrate",
+    "headlong",
+    "hermes",
+    "chatgpt-training"
+  ],
+  "must_read": [
+    "x-2074912810803560497",
+    "x-2080856252687745093"
+  ],
+  "comparison_axes": [
+    "runnable loop vs architecture essay",
+    "permission / blast-radius model",
+    "eval or out-of-sample check",
+    "session persistence and migration",
+    "multi-agent vs single harness"
+  ],
+  "open_questions": [
+    "Which loop has an eval that is not the author’s anecdote?",
+    "What is the minimum permission stance that still lets a design agent click a browser?"
+  ],
+  "adjacent_subjects": [
+    "agent-memory-knowledge",
+    "mcp-and-agent-browsers",
+    "design-agent-skills"
+  ],
+  "written_by": "subject-agent-harness-loops",
+  "written_at": "2026-09-04T18:39:00Z"
+}

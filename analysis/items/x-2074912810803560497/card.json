@@ -52,7 +52,7 @@
   ],
   "techniques": [
     "autoresearch-loop",
-    "gpu-kernel-search"
+    "autoresearch-loop"
   ],
   "tools": [
     "codex"

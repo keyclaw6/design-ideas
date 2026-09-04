@@ -77,8 +77,8 @@
     }
   ],
   "techniques": [
-    "llm-free-retrieval-loop",
-    "agent-transcript-memory-save"
+    "autoresearch-loop",
+    "filesystem-context-memory"
   ],
   "tools": [
     "gbrain",

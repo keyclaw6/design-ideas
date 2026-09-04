@@ -54,8 +54,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "exploded-view-cad",
-    "cad-motion-simulation"
+    "text-to-cad",
+    "text-to-cad"
   ],
   "tools": [
     "vibecad"

@@ -63,7 +63,7 @@
   "numbers": [],
   "techniques": [
     "context-etl",
-    "materialized-views-for-llms"
+    "context-etl"
   ],
   "tools": [],
   "links": {

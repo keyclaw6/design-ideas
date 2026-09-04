@@ -49,8 +49,8 @@
   ],
   "numbers": [],
   "techniques": [
-    "inertial-carousel-entry",
-    "spring-rebound-cap"
+    "parallax-scroll-landing",
+    "ui-motion-physics"
   ],
   "tools": [],
   "links": {

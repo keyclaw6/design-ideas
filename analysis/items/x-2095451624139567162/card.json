@@ -5,7 +5,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "sol-website-prompt"
+    "prompt-to-html-landing"
   ],
   "tools": [
     "gpt-5-6-sol"

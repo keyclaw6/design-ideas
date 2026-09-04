@@ -1,0 +1,23 @@
+# Impeccable 4.1 release — critique, native review, live mode fixes
+
+`x-2088254428730085690` · x · announcement · en · [source](https://x.com/pbakaus/status/2088254428730085690) · [raw](../../../raw/items/x-2088254428730085690/)
+**Author:** Paul Bakaus (@@pbakaus) · **Published:** — · **Captured:** 2026-09-04T06:35:39Z
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
+**Subject:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Also:** [landing-ui-motion](../../subjects/landing-ui-motion/brief.md) · **Roles:** tool, reference · **Platforms:** cursor, codex, cli
+
+**Summary.** Paul Bakaus announces Impeccable 4.1 with 43 PRs: chat critique reliability, calmer design hooks, native iOS/Android reviews, Windows install fixes, and live mode on ddev/valet hosts.
+**Question it answers.** What changed in Impeccable 4.1 for critique, native apps, and live-mode dev hosts?
+
+**Claims.**
+- `x-2088254428730085690#c1` (capability, stated) Critique results print in chat before follow-up questions more reliably. — evidence: "critique results more reliably prints in chat before asking you questions" [post]
+- `x-2088254428730085690#c2` (capability, stated) Live mode now works on ddev, valet, and other non-localhost dev hosts. — evidence: "works on ddev, valet, and other non-localhost dev hosts" [post]
+- `x-2088254428730085690#c3` (recipe, stated) Install or upgrade via npx impeccable install at impeccable.style. — evidence: "npx impeccable install" [post]
+**Numbers.** —
+**Recipe.** —
+**Techniques.** —
+**Tools.** —
+**Links.** repo (https://github.com/pbakaus/impeccable), product (http://impeccable.style)
+**Related items.** [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2086715093707063445](../x-2086715093707063445/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)
+**Media.** —
+**Thread.** captured_partial · reported 11 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: True · compare with: [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)

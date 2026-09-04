@@ -54,8 +54,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "realtime-voice-delegation",
-    "extension-voice-announcements"
+    "session-hardening",
+    "session-hardening"
   ],
   "tools": [
     "pi-codex-conversion",

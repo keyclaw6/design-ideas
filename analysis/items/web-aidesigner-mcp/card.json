@@ -59,7 +59,7 @@
   "numbers": [],
   "techniques": [
     "url-clone-ui",
-    "design-as-compilation-target"
+    "design-md-contract"
   ],
   "tools": [
     "aidesigner-mcp",

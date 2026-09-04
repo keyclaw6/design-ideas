@@ -69,8 +69,8 @@
     }
   ],
   "techniques": [
-    "step-by-step-reasoning-block",
-    "scratchpad-context"
+    "agent-harness-ops",
+    "agent-harness-ops"
   ],
   "tools": [],
   "links": {

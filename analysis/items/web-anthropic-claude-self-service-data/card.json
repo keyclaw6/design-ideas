@@ -66,9 +66,9 @@
     }
   ],
   "techniques": [
-    "semantic-layer-first",
-    "canonical-datasets",
-    "analytics-skills-routing"
+    "semantic-layer-contract",
+    "context-etl",
+    "context-etl"
   ],
   "tools": [],
   "links": {

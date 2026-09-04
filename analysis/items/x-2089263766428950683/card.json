@@ -60,7 +60,7 @@
     }
   ],
   "techniques": [
-    "ui-annotation-for-agents"
+    "shadcn-component-kit"
   ],
   "tools": [
     "agentation"

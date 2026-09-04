@@ -45,8 +45,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "ui-component-naming",
-    "prompt-by-pattern-name"
+    "shadcn-component-kit",
+    "prompt-to-html-landing"
   ],
   "tools": [
     "name-that-ui"

@@ -56,7 +56,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "four-view-texture-projection"
+    "mesh-cleanup-retopo"
   ],
   "tools": [
     "kokraf"

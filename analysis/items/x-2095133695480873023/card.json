@@ -45,8 +45,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "chatgpt-work-onboarding",
-    "codex-hands-on-training"
+    "agent-harness-ops",
+    "agent-harness-ops"
   ],
   "tools": [
     "chatgpt-training"

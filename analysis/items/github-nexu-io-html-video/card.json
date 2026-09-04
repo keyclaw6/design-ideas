@@ -58,9 +58,9 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "html-to-mp4",
-    "content-graph-storyboard",
-    "hyperframes-render"
+    "remotion-code-video",
+    "remotion-code-video",
+    "remotion-code-video"
   ],
   "tools": [
     "html-video",

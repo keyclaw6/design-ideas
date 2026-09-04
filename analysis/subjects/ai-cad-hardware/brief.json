@@ -1,0 +1,69 @@
+{
+  "schema_version": "1",
+  "slug": "ai-cad-hardware",
+  "name": "AI CAD, text-to-CAD, PCB and keyboard hardware",
+  "owner_aliases": [
+    "CAD",
+    "keyboard",
+    "PCB",
+    "KiCad"
+  ],
+  "priority": "later",
+  "inclusion_rule": "Text-to-CAD tools and demos (CadXStudio, Smith, VibeCAD, OpenSCAD+skills, Fusion MCP, text-to-cad), FreeCAD internals, PCB autorouting, KiCAD+OpenEMS simulation, AI schematic design, EM field visualisation for boards, ergonomic keyboards.",
+  "exclusion_rule": "Web 3D engine demos → web-3d-scenes.",
+  "item_count_primary": 17,
+  "item_count_secondary": 0,
+  "role_counts": {
+    "tool": 4,
+    "technique": 6,
+    "example": 13,
+    "claim-source": 7,
+    "reference": 2
+  },
+  "thread_coverage": {
+    "x_items": 17,
+    "captured_full": 0,
+    "captured_partial": 16,
+    "empty": 1,
+    "failed": 0
+  },
+  "techniques": [
+    "text-to-cad",
+    "pcb-autorouting",
+    "cad-agent-assembly"
+  ],
+  "tools": [
+    "cadxstudio",
+    "vibecad",
+    "cadx-studio",
+    "freerouting",
+    "deeppcb",
+    "kicad",
+    "openems",
+    "autodesk-fusion",
+    "claude-fable",
+    "fusion",
+    "fable-cad",
+    "text-to-cad"
+  ],
+  "must_read": [
+    "x-2093305736717545869"
+  ],
+  "comparison_axes": [
+    "text-to-CAD vs MCP-in-Fusion/KiCad",
+    "mesh/solid validity",
+    "PCB / SI simulation present",
+    "local vs cloud CAD",
+    "keyboard-specific vs general mechanical"
+  ],
+  "open_questions": [
+    "Does any text-to-CAD item produce manifold solids a mill can cut?",
+    "Is Fusion MCP further along than OpenSCAD skills for assemblies?"
+  ],
+  "adjacent_subjects": [
+    "image-to-3d-world",
+    "gaussian-splatting"
+  ],
+  "written_by": "subject-ai-cad-hardware",
+  "written_at": "2026-09-04T18:39:00Z"
+}

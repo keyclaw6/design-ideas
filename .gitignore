@@ -12,3 +12,6 @@ raw/items/x-2095521587785081193/media/media_0.mp4
 .cursor/
 graphify-out/cache/
 agent-tools/
+analysis/_work/gen_cards_*.py
+analysis/_work/_gen_cards_*.py
+analysis/_work/__pycache__/

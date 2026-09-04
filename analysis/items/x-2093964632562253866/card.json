@@ -44,7 +44,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "brave-url-submission"
+    "alternate-engine-indexing"
   ],
   "tools": [
     "brave-submit-url"

@@ -72,8 +72,8 @@
     }
   ],
   "techniques": [
-    "icp-definition-agent",
-    "linkedin-outreach-automation"
+    "agent-browser-isolation",
+    "agent-browser-isolation"
   ],
   "tools": [
     "gojiberryai",

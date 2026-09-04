@@ -75,9 +75,9 @@
     }
   ],
   "techniques": [
-    "channel-sequencing",
-    "warm-before-email",
-    "signal-targeting"
+    "outbound-agent-pipeline",
+    "outbound-agent-pipeline",
+    "outbound-agent-pipeline"
   ],
   "tools": [
     "clay",

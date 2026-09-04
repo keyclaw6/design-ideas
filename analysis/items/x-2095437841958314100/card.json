@@ -68,8 +68,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "photo-to-3d-world",
-    "worldgen-seedance-pipeline"
+    "image-to-3d-worldgen",
+    "worldgen-to-video"
   ],
   "tools": [
     "hyper3d-worldgen",

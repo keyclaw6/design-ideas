@@ -58,7 +58,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "in-blender-agent-scene-build"
+    "blender-blockout-camera"
   ],
   "tools": [
     "higgsfield",

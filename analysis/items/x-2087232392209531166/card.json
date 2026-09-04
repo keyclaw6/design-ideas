@@ -56,8 +56,8 @@
     }
   ],
   "techniques": [
-    "fire-and-forget-delegation",
-    "herdr-pane-orchestration"
+    "agent-harness-ops",
+    "agent-harness-ops"
   ],
   "tools": [
     "pi-shepherdr",

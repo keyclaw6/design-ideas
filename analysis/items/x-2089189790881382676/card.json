@@ -57,8 +57,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "vision-md-contract",
-    "feature-triage-by-vision"
+    "design-md-contract",
+    "screenshot-verify-loop"
   ],
   "tools": [
     "vision-skill"

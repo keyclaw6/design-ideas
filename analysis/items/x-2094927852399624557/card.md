@@ -1,0 +1,27 @@
+# 10k emails/day cold outbound stack: Instantly plus MapsData
+
+`x-2094927852399624557` · x · thread · en · [source](https://x.com/levikmunneke/status/2094927852399624557) · [raw](../../../raw/items/x-2094927852399624557/)
+**Author:** Levi Munneke (@levikmunneke) · **Published:** 2026-09-01T23:18:16Z · **Captured:** 2026-09-02T17:23:28Z
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
+**Subject:** [outbound-gtm-agents](../../subjects/outbound-gtm-agents/brief.md) · **Also:** — · **Roles:** technique, claim-source · **Platforms:** other
+
+**Summary.** Levi Munneke posts a capacity formula for 10,000 cold emails per day using 500 inboxes across 167 domains with Instantly as sequencer and MapsData for lead lists. Author replies that MapsData works well for businesses under 50 employees.
+**Question it answers.** What inbox, domain, and vendor stack does Levi Munneke cite for 10k cold emails per day?
+
+**Claims.**
+- `x-2094927852399624557#c1` (recipe, stated) Author frames 10k emails per day as 500 inboxes and 167 domains with Instantly and MapsData. — evidence: "10,000 emails/day is just
+
+- 500 inboxes
+- 167 domains
+- https://instantly.ai - sequencer
+- https://mapsdata.ai - leads" [post]
+- `x-2094927852399624557#c2` (result, stated) Author reply says MapsData leads work well for businesses under 50 employees. — evidence: "Have sent to millions of leads from there its very good for targeting businesses under 50 employees" [reply]
+**Numbers.** daily send volume cited: 10000 emails/day (post); inboxes cited: 500  (post); domains cited: 167  (post)
+**Recipe.** —
+**Techniques.** [cold-email-sequence](../../techniques/cold-email-sequence.md)
+**Tools.** [instantly](../../tools/instantly.md), [mapsdata](../../tools/mapsdata.md)
+**Links.** product (https://instantly.ai), https://mapsdata.ai, http://b2bfunnel.co
+**Related items.** [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [web-treg-people-search](../web-treg-people-search/card.md), [x-2095231184531828762](../x-2095231184531828762/card.md)
+**Media.** —
+**Thread.** captured_partial · reported 13 · captured 3 · relevant 1 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: [] · compare with: —

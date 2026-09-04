@@ -74,9 +74,9 @@
     }
   ],
   "techniques": [
-    "scroll-as-timeline",
-    "fingerprint-uniqueness-gate",
-    "dead-scroll-audit"
+    "scroll-driven-3d",
+    "anti-slop-ui-skills",
+    "parallax-scroll-landing"
   ],
   "tools": [
     "scroll-craft"

@@ -48,8 +48,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "threejs-camera-direction",
-    "threejs-visual-validation"
+    "blender-blockout-camera",
+    "blender-blockout-camera"
   ],
   "tools": [
     "threejs-awesome-graphics-agent-skills"

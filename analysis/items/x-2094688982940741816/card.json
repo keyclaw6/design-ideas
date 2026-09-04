@@ -71,7 +71,7 @@
     }
   ],
   "techniques": [
-    "brave-search-submit",
+    "alternate-engine-indexing",
     "alternate-engine-indexing"
   ],
   "tools": [],

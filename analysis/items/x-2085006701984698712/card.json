@@ -56,8 +56,8 @@
     }
   ],
   "techniques": [
-    "visual-html-review",
-    "inline-comment-feedback"
+    "screenshot-verify-loop",
+    "taste-skill-encoding"
   ],
   "tools": [
     "human-review"

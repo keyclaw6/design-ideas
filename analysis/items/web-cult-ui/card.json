@@ -47,8 +47,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "ai-sdk-agent-patterns",
-    "shadcn-component-copy"
+    "taste-skill-encoding",
+    "shadcn-component-kit"
   ],
   "tools": [
     "cult-ui"

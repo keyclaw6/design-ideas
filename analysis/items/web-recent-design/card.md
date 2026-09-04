@@ -1,0 +1,21 @@
+# Recent.design curated UI motion inspiration feed
+
+`web-recent-design` · website · product · en · [source](https://recent.design/) · [raw](../../../raw/items/web-recent-design/)
+**Author:** Recent (@recentdesign) · **Published:** — · **Captured:** 2026-09-02T17:15:42Z
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
+**Subject:** [landing-ui-motion](../../subjects/landing-ui-motion/brief.md) · **Also:** — · **Roles:** reference, example · **Platforms:** browser
+
+**Summary.** recent.design is a masonry gallery of UI motion, web, icon, and poster inspiration sourced from X and Instagram, with detail pages crediting creators and video previews hosted on cdn.recent.design.
+**Question it answers.** Where can you browse curated scroll and motion design inspiration with creator credits and video previews?
+
+**Claims.**
+- `web-recent-design#c1` (capability, stated) Site aggregates design inspiration in a masonry feed with items linking to detail pages and original X or Instagram creators. — evidence: "Each item links to a detail page (`/i/<slug>`) and credits the original creator (X or Instagram profile)." [linked-page]
+- `web-recent-design#c2` (capability, stated) Feed mixes FUI loaders, glass shaders, onboarding flows, and WebGPU demos as daily taste references rather than a component library. — evidence: "Mix includes FUI loaders, 404 experiments, glass/refraction, 3D cards, onboarding flows, WebGPU libs — useful as daily taste input" [linked-page]
+**Numbers.** —
+**Recipe.** —
+**Techniques.** —
+**Tools.** —
+**Links.** product (https://recent.design/), https://cdn.recent.design/
+**Related items.** [web-sceneai-art](../web-sceneai-art/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)
+**Media.** —
+**Judge hints.** must_read: [] · compare with: —

@@ -54,8 +54,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "simple-cold-email",
-    "pipeline-kpi-over-reply-rate"
+    "cold-email-sequence",
+    "outbound-agent-pipeline"
   ],
   "tools": [],
   "links": {

@@ -56,7 +56,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "camera-motion-export",
+    "blender-blockout-camera",
     "seedance-motion-reference"
   ],
   "tools": [

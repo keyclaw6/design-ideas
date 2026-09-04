@@ -67,8 +67,8 @@
     }
   ],
   "techniques": [
-    "criteria-grounded-verification",
-    "people-search-benchmark"
+    "outbound-agent-pipeline",
+    "people-search-eval"
   ],
   "tools": [
     "people-search-bench"

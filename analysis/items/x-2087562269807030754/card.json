@@ -24,7 +24,7 @@
     }
   ],
   "techniques": [
-    "sparse-moe-ssd-streaming"
+    "moe-expert-offload"
   ],
   "tools": [
     "edge8-35b"

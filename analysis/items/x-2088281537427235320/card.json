@@ -62,7 +62,7 @@
     }
   ],
   "techniques": [
-    "dynamic-gguf-quantization"
+    "dynamic-quantization"
   ],
   "tools": [
     "unsloth",

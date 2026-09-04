@@ -65,8 +65,8 @@
     }
   ],
   "techniques": [
-    "relightable-gaussian-reconstruction",
-    "2dgs-ray-tracing"
+    "splat-pipeline",
+    "splat-pipeline"
   ],
   "tools": [],
   "links": {

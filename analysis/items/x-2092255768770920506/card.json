@@ -52,8 +52,8 @@
   ],
   "numbers": [],
   "techniques": [
-    "prompt-blockout",
-    "camera-move-animation"
+    "worldgen-to-video",
+    "blender-blockout-camera"
   ],
   "tools": [
     "higgsfield",

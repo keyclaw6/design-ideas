@@ -77,9 +77,9 @@
     }
   ],
   "techniques": [
-    "product-design-md-split",
-    "deterministic-slop-detectors",
-    "live-browser-iteration"
+    "design-md-contract",
+    "anti-slop-ui-skills",
+    "screenshot-verify-loop"
   ],
   "tools": [
     "impeccable"

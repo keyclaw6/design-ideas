@@ -53,7 +53,7 @@
   ],
   "techniques": [
     "filesystem-context-memory",
-    "traceable-agent-search"
+    "context-etl"
   ],
   "tools": [
     "openviking"

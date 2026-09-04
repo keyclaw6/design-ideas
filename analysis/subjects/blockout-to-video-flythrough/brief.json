@@ -1,0 +1,78 @@
+{
+  "schema_version": "1",
+  "slug": "blockout-to-video-flythrough",
+  "name": "Blender/Unreal blockout + agent camera → video model",
+  "owner_aliases": [
+    "BESS flythrough",
+    "blockout to video",
+    "camera path"
+  ],
+  "priority": "now",
+  "inclusion_rule": "The BESS marketing pipeline: LLM/MCP-driven Blender or Unreal scene build, camera path authoring, depth/reference renders, first/last-frame or motion-reference conditioning into Seedance / MiniMax H3 / Veo / Kling / Runway; browser 3D camera stages (Mint Studio, MiniMax 3D Director, Higgsfield in Blender, CozyClay previs); camera-technique references.",
+  "exclusion_rule": "Video generation without a 3D camera stage → ai-video-generation. Web 3D scroll heroes → web-3d-scenes.",
+  "item_count_primary": 23,
+  "item_count_secondary": 7,
+  "role_counts": {
+    "tool": 7,
+    "technique": 18,
+    "example": 14,
+    "claim-source": 0,
+    "reference": 5
+  },
+  "thread_coverage": {
+    "x_items": 22,
+    "captured_full": 2,
+    "captured_partial": 15,
+    "empty": 4,
+    "failed": 1
+  },
+  "techniques": [
+    "blender-blockout-camera",
+    "seedance-motion-reference",
+    "agent-video-editing",
+    "worldgen-to-video"
+  ],
+  "tools": [
+    "minimax-h3",
+    "wan-vace",
+    "kling",
+    "veo",
+    "blender-mcp",
+    "codex",
+    "blender",
+    "seedance",
+    "higgsfield",
+    "meshy",
+    "cozyclay",
+    "magnific-3d-motion",
+    "unreal-engine",
+    "higgsfield-mcp",
+    "comfyui",
+    "glm-5-3-flash",
+    "mint-studio",
+    "minimax-3d-director",
+    "intangible-ai"
+  ],
+  "must_read": [
+    "x-2087565352372723955",
+    "x-2092008677834387672"
+  ],
+  "comparison_axes": [
+    "camera authored in 3D vs prompt-only",
+    "reference conditioning (depth, first/last frame, motion)",
+    "MCP/agent can rebuild the scene",
+    "repeatability across shots",
+    "target model family (Seedance, MiniMax H3, Veo, Kling)"
+  ],
+  "open_questions": [
+    "MiniMax H3 vs Seedance: which accepts Blender camera + depth most reliably?",
+    "Can an MCP rebuild the same shot without a human nudging the viewport?"
+  ],
+  "adjacent_subjects": [
+    "ai-video-generation",
+    "image-to-3d-world",
+    "web-3d-scenes"
+  ],
+  "written_by": "subject-blockout-to-video-flythrough",
+  "written_at": "2026-09-04T18:39:00Z"
+}

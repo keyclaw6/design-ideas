@@ -56,7 +56,7 @@
   "numbers": [],
   "techniques": [
     "design-md-contract",
-    "token-lint-ci"
+    "anti-slop-ui-skills"
   ],
   "tools": [
     "google-design-md-cli"

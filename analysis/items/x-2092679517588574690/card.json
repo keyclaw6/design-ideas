@@ -48,7 +48,7 @@
   "numbers": [],
   "techniques": [
     "blender-blockout-camera",
-    "reference-guided-environment"
+    "seedance-motion-reference"
   ],
   "tools": [
     "minimax-h3",

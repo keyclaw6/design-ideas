@@ -1,0 +1,71 @@
+{
+  "schema_version": "1",
+  "slug": "agent-memory-knowledge",
+  "name": "Agent memory, second brains, company knowledge bases",
+  "owner_aliases": [
+    "second brain",
+    "GBrain",
+    "context engineering"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "Memory systems (GBrain, Memoria, ReasoningBank, Obsidian Mind, Type), company-brain/KB essays, context-engineering-as-ETL, semantic-layer analytics, enterprise knowledge connectors, post-AI data stack, intelligence-layer arguments.",
+  "exclusion_rule": "Harness/loop mechanics → agent-harness-loops.",
+  "item_count_primary": 16,
+  "item_count_secondary": 2,
+  "role_counts": {
+    "tool": 7,
+    "technique": 6,
+    "example": 4,
+    "claim-source": 6,
+    "reference": 9
+  },
+  "thread_coverage": {
+    "x_items": 12,
+    "captured_full": 1,
+    "captured_partial": 11,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "semantic-layer-contract",
+    "context-etl",
+    "filesystem-context-memory",
+    "agent-harness-ops",
+    "autoresearch-loop"
+  ],
+  "tools": [
+    "reasoning-bank",
+    "memoria",
+    "sentrux",
+    "type",
+    "obsidian-mind",
+    "pipeshub",
+    "openviking",
+    "gbrain",
+    "gbrain-evals"
+  ],
+  "must_read": [
+    "web-davidgasquez-context-engineering",
+    "x-2087143369181114868",
+    "x-2091169290661838965",
+    "x-2092918452423983363",
+    "x-2093677274641969390"
+  ],
+  "comparison_axes": [
+    "store type (files, vault, DB, traces)",
+    "write path is ETL vs chat residue",
+    "retrieval is semantic-layer or grep",
+    "works without a paid memory SaaS",
+    "auditability of what the agent remembers"
+  ],
+  "open_questions": [
+    "Is a git-backed markdown vault enough, or is a semantic layer required?",
+    "Which memory write path an agent can audit after a week of sessions?"
+  ],
+  "adjacent_subjects": [
+    "agent-harness-loops",
+    "infographics-diagrams"
+  ],
+  "written_by": "subject-agent-memory-knowledge",
+  "written_at": "2026-09-04T18:39:00Z"
+}

@@ -64,8 +64,8 @@
     }
   ],
   "techniques": [
-    "single-image-world-generation",
-    "gaussian-splat-web-viewer"
+    "image-to-3d-worldgen",
+    "splat-pipeline"
   ],
   "tools": [
     "atlas",

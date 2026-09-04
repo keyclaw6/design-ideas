@@ -1,0 +1,76 @@
+{
+  "schema_version": "1",
+  "slug": "landing-ui-motion",
+  "name": "Landing pages, UI component libraries, scroll motion, visual reference",
+  "owner_aliases": [
+    "landing motion",
+    "UI kits",
+    "scroll"
+  ],
+  "priority": "now",
+  "inclusion_rule": "Finished-page examples and breakdowns, scroll-driven sections, parallax, component/animation libraries (reactbits, originkit, cult-ui, great-ui, aicss, Mono-style kits), fonts/gradients, templates, design-inspiration sites, brand pages used as reference, screenshot polish tools.",
+  "exclusion_rule": "Skills that change how the agent designs → design-agent-skills. 3D-first scenes → web-3d-scenes.",
+  "item_count_primary": 35,
+  "item_count_secondary": 21,
+  "role_counts": {
+    "tool": 12,
+    "technique": 8,
+    "example": 23,
+    "claim-source": 1,
+    "reference": 15
+  },
+  "thread_coverage": {
+    "x_items": 26,
+    "captured_full": 4,
+    "captured_partial": 20,
+    "empty": 1,
+    "failed": 1
+  },
+  "techniques": [
+    "parallax-scroll-landing",
+    "taste-skill-encoding",
+    "shadcn-component-kit",
+    "ui-motion-physics",
+    "scroll-driven-3d",
+    "anti-slop-ui-skills",
+    "url-clone-ui",
+    "screenshot-verify-loop",
+    "design-md-contract"
+  ],
+  "tools": [
+    "scroll-craft",
+    "cult-ui",
+    "dicebear",
+    "tinyshots",
+    "reactbits-pro",
+    "aicss",
+    "agentation",
+    "23rd-dev",
+    "great-ui",
+    "claude-code",
+    "chatgpt",
+    "codex",
+    "blume",
+    "fable-5-1",
+    "cursor"
+  ],
+  "must_read": [],
+  "comparison_axes": [
+    "finished-page vs kit-only",
+    "scroll-driven vs hover/micro",
+    "copy-paste cost (registry, npm, screenshot)",
+    "works with shadcn/React",
+    "mobile layout covered"
+  ],
+  "open_questions": [
+    "Which kits survive a shadcn refresh without restyling by hand?",
+    "Is scroll-craft a unique primitive or a thin GSAP wrapper?"
+  ],
+  "adjacent_subjects": [
+    "design-agent-skills",
+    "web-3d-scenes",
+    "code-motion-graphics"
+  ],
+  "written_by": "subject-landing-ui-motion",
+  "written_at": "2026-09-04T18:39:00Z"
+}

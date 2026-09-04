@@ -52,7 +52,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "splat-to-mesh"
+    "splat-pipeline"
   ],
   "tools": [
     "arcana-splat2mesh"

@@ -1,0 +1,74 @@
+{
+  "schema_version": "1",
+  "slug": "serp-ai-visibility",
+  "name": "SERP & AI-answer visibility (SEO / AEO / GEO)",
+  "owner_aliases": [
+    "syrups",
+    "SERP optimization",
+    "SEO",
+    "AEO",
+    "GEO"
+  ],
+  "priority": "now",
+  "inclusion_rule": "Getting a site or brand ranked or cited: classic SEO tooling and audits, AEO/GEO citation outreach, directory/backlink DR plays, indexing submissions (Brave/Bing/IndexNow/GSC), topical maps, free-tool pages, Reddit/LinkedIn ranking hacks, AI-crawler user-agent handling, visibility tracking (CrowdReply, OpenSEO, DataforSEO).",
+  "exclusion_rule": "Outbound prospecting and cold email → outbound-gtm-agents. MCP wiring of SEO tools stays here (tool role).",
+  "item_count_primary": 28,
+  "item_count_secondary": 7,
+  "role_counts": {
+    "tool": 10,
+    "technique": 13,
+    "example": 9,
+    "claim-source": 14,
+    "reference": 9
+  },
+  "thread_coverage": {
+    "x_items": 20,
+    "captured_full": 1,
+    "captured_partial": 19,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "serp-keyword-research",
+    "citation-outreach",
+    "geo-prompt-testing",
+    "directory-submission",
+    "alternate-engine-indexing",
+    "grok-marketing-bot-stack"
+  ],
+  "tools": [
+    "seo-skill-cli",
+    "indexnow",
+    "crowdreply-mcp",
+    "nqz-ai-search-prompt-generator",
+    "tinyshelf",
+    "openseo-so",
+    "brave-submit-url",
+    "seo-cli",
+    "seoskill-dev",
+    "blogr-ai"
+  ],
+  "must_read": [
+    "x-2094770895021572502"
+  ],
+  "comparison_axes": [
+    "time-to-first-index-or-citation",
+    "requires paid API or SaaS",
+    "works from first-party crawl/GSC data",
+    "covers assistant answers (AEO/GEO) not only classic SERP",
+    "agent-callable (CLI/MCP) vs dashboard-only",
+    "evidence quality (demonstrated vs stated)"
+  ],
+  "open_questions": [
+    "Which citation-outreach vendors show a before/after in assistant answers, not just a dashboard screenshot?",
+    "Is Brave submit-url still load-bearing once IndexNow + GSC are in the loop?",
+    "How much of the “syrups” lane is directory DR vs actual AEO?"
+  ],
+  "adjacent_subjects": [
+    "outbound-gtm-agents",
+    "mcp-and-agent-browsers",
+    "infographics-diagrams"
+  ],
+  "written_by": "subject-serp-ai-visibility",
+  "written_at": "2026-09-04T18:39:00Z"
+}

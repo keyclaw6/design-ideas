@@ -1,0 +1,67 @@
+{
+  "schema_version": "1",
+  "slug": "image-to-3d-world",
+  "name": "Image/video → 3D world, mesh, scene",
+  "owner_aliases": [
+    "freedom modeling",
+    "world from image",
+    "photogrammetry",
+    "text-to-3d"
+  ],
+  "priority": "now",
+  "inclusion_rule": "One image / panorama / video → navigable world, editable engine scene, mesh, or posed assets (World Labs Atlas, Hyper3D WorldGen, Lumera, Lucida, Magnific 3D Motion); image→3D model generators and arenas (Hitem3D, Meshy, Tripo); AI texturing / materials (I2M); mesh cleanup, retopo, baking (Customuse, BQR, Needle); Blender MCP builds from photo/panorama input.",
+  "exclusion_rule": "Splat-native pipelines → gaussian-splatting. Blockout for video → blockout-to-video-flythrough.",
+  "item_count_primary": 14,
+  "item_count_secondary": 7,
+  "role_counts": {
+    "tool": 7,
+    "technique": 4,
+    "example": 6,
+    "claim-source": 7,
+    "reference": 3
+  },
+  "thread_coverage": {
+    "x_items": 14,
+    "captured_full": 1,
+    "captured_partial": 13,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "mesh-cleanup-retopo",
+    "image-to-3d-worldgen",
+    "worldgen-to-video",
+    "splat-pipeline"
+  ],
+  "tools": [
+    "kokraf",
+    "atlas-3d-ai",
+    "bqr-blender-addon",
+    "atlas",
+    "spark-js",
+    "three-js",
+    "hyper3d-worldgen",
+    "seedance"
+  ],
+  "must_read": [
+    "x-2095437841958314100"
+  ],
+  "comparison_axes": [
+    "input type (single image, panorama, video)",
+    "output is editable scene vs baked render",
+    "mesh topology quality after generation",
+    "engine import path (Blender, Unreal, three.js)",
+    "commercial license clarity"
+  ],
+  "open_questions": [
+    "Atlas / Hyper3D / Lumera: which output is an editable mesh versus a flythrough video?",
+    "Where does retopo have to happen before a design agent can restyle the scene?"
+  ],
+  "adjacent_subjects": [
+    "gaussian-splatting",
+    "blockout-to-video-flythrough",
+    "web-3d-scenes"
+  ],
+  "written_by": "subject-image-to-3d-world",
+  "written_at": "2026-09-04T18:39:00Z"
+}

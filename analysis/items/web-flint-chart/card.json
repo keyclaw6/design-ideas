@@ -55,7 +55,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "flint-chart-spec",
+    "chart-theme-presets",
     "chart-theme-presets"
   ],
   "tools": [

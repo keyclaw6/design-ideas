@@ -1,0 +1,76 @@
+{
+  "schema_version": "1",
+  "slug": "outbound-gtm-agents",
+  "name": "Outbound / GTM agent stacks",
+  "owner_aliases": [
+    "outbound",
+    "GTM",
+    "cold email",
+    "sales OS"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "Prospecting, people search, lead data, cold email/call sequencing, sales-OS agent teams, LinkedIn lead magnets, marketing agent bundles (Grok bots for ads/outbound).",
+  "exclusion_rule": "Anything whose goal is ranking/citation → serp-ai-visibility.",
+  "item_count_primary": 15,
+  "item_count_secondary": 2,
+  "role_counts": {
+    "tool": 7,
+    "technique": 7,
+    "example": 4,
+    "claim-source": 9,
+    "reference": 2
+  },
+  "thread_coverage": {
+    "x_items": 10,
+    "captured_full": 0,
+    "captured_partial": 10,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "people-search-eval",
+    "outbound-agent-pipeline",
+    "agent-browser-isolation",
+    "cold-email-sequence",
+    "grok-marketing-bot-stack"
+  ],
+  "tools": [
+    "lessie",
+    "exa",
+    "juicebox-peoplegpt",
+    "gojiberry-mcp",
+    "people-search-bench",
+    "graphed-mcp",
+    "dataforseo",
+    "treg",
+    "apollo-io",
+    "clay",
+    "instantly",
+    "lemlist",
+    "gojiberryai",
+    "grok-bot",
+    "mapsdata"
+  ],
+  "must_read": [
+    "x-2094162743985308047",
+    "x-2094326291906310180"
+  ],
+  "comparison_axes": [
+    "people-search precision vs recall documented",
+    "requires paid data vendors",
+    "agent-runnable sequence vs slideware",
+    "channel coverage (email, LinkedIn, call)",
+    "evaluation harness present"
+  ],
+  "open_questions": [
+    "Does PeopleSearchBench predict outbound reply rate or only retrieval F1?",
+    "Are Grok marketing bots a channel or just wrappers around the same LLM?"
+  ],
+  "adjacent_subjects": [
+    "serp-ai-visibility",
+    "agent-harness-loops",
+    "mcp-and-agent-browsers"
+  ],
+  "written_by": "subject-outbound-gtm-agents",
+  "written_at": "2026-09-04T18:39:00Z"
+}

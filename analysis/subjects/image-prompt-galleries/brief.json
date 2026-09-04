@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "slug": "image-prompt-galleries",
+  "name": "Image-gen prompt galleries and prompt-as-skill",
+  "owner_aliases": [
+    "prompt gallery",
+    "nano banana",
+    "GPT Image"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "GPT Image 2 / Nano Banana / Sol prompt collections, prompt-as-code template engines, prompt-gallery skills and CLIs, prompt marketplaces.",
+  "exclusion_rule": "Prompts for websites/UI → design-agent-skills. Video prompts → ai-video-generation.",
+  "item_count_primary": 8,
+  "item_count_secondary": 2,
+  "role_counts": {
+    "tool": 5,
+    "technique": 1,
+    "example": 4,
+    "claim-source": 0,
+    "reference": 3
+  },
+  "thread_coverage": {
+    "x_items": 5,
+    "captured_full": 0,
+    "captured_partial": 3,
+    "empty": 1,
+    "failed": 1
+  },
+  "techniques": [
+    "prompt-to-html-landing",
+    "taste-skill-encoding",
+    "prompt-as-code"
+  ],
+  "tools": [
+    "nano-banana-pro-prompts-recommend",
+    "clawhub",
+    "gpt-image-2",
+    "gpt-image",
+    "gpt-5-6-sol"
+  ],
+  "must_read": [],
+  "comparison_axes": [
+    "model family named (GPT Image, Nano Banana, Sol)",
+    "prompts stored as code or searchable gallery",
+    "reproducible parameters",
+    "license / attribution of examples"
+  ],
+  "open_questions": [
+    "Do gallery skills beat a folder of .md prompts for GPT Image 2?",
+    "Should this subject merge into design-agent-skills after the next pass?"
+  ],
+  "adjacent_subjects": [
+    "design-agent-skills",
+    "ai-video-generation"
+  ],
+  "written_by": "subject-image-prompt-galleries",
+  "written_at": "2026-09-04T18:39:00Z"
+}

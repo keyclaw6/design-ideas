@@ -1,0 +1,21 @@
+# Matt Pocock ten-minute tour of all 25 skills in mattpocock/skills
+
+`x-2088290952704151671` · x · demo-video · en · [source](https://x.com/mattpocockuk/status/2088290952704151671) · [raw](../../../raw/items/x-2088290952704151671/)
+**Author:** Matt Pocock (@mattpocockuk) · **Published:** — · **Captured:** 2026-09-04T06:49:29Z
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
+**Subject:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Also:** [agent-harness-loops](../../subjects/agent-harness-loops/brief.md) · **Roles:** reference, example · **Platforms:** claude-code, cursor
+
+**Summary.** Matt Pocock recorded a roughly ten-minute overview explaining every skill in his mattpocock/skills repo—25 skills marked theo-approved—after a comment noted no full catalog tour existed.
+**Question it answers.** Which skills ship in mattpocock/skills and what does each one do?
+
+**Claims.**
+- `x-2088290952704151671#c1` (availability, stated) The repo contains 25 agent skills explained in a single ten-minute overview video. — evidence: "So, here it is. My 25 skills (now @theo-approved), explained in 10 minutes:" [post]
+**Numbers.** skills in repo: 25  (post); overview video length: 10 minutes (post)
+**Recipe.** —
+**Techniques.** —
+**Tools.** —
+**Links.** repo (https://github.com/mattpocock/skills)
+**Related items.** [x-2088260067204137135](../x-2088260067204137135/card.md), [x-2087263510090874911](../x-2087263510090874911/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-jakubkrehel-skills](../github-jakubkrehel-skills/card.md), [github-mengto-skills](../github-mengto-skills/card.md)
+**Media.** —
+**Thread.** captured_partial · reported 85 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: [] · compare with: [x-2087263510090874911](../x-2087263510090874911/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)

@@ -66,8 +66,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "markdown-second-brain",
-    "persistent-memory-pointer"
+    "filesystem-context-memory",
+    "filesystem-context-memory"
   ],
   "tools": [],
   "links": {

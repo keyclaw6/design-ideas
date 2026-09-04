@@ -7,7 +7,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "multi-agent-catalog"
+    "agent-harness-ops"
   ],
   "tools": [
     "graft",

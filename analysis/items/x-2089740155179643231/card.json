@@ -47,7 +47,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "shadcn-registry-install"
+    "shadcn-component-kit"
   ],
   "tools": [
     "23rd-dev"

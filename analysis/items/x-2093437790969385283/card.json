@@ -55,8 +55,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "hermes-judgment-layer",
-    "agent-telemetry-loop"
+    "agent-harness-ops",
+    "session-hardening"
   ],
   "tools": [
     "hermes"

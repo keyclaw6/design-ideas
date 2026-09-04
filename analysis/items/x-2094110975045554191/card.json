@@ -68,8 +68,8 @@
     }
   ],
   "techniques": [
-    "agent-blast-radius-audit",
-    "shared-session-hardening"
+    "session-hardening",
+    "session-hardening"
   ],
   "tools": [],
   "links": {

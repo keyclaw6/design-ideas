@@ -1,0 +1,75 @@
+{
+  "schema_version": "1",
+  "slug": "ai-video-generation",
+  "name": "AI video models, tools, and launch-video craft",
+  "owner_aliases": [
+    "video generation",
+    "Seedance",
+    "Kling",
+    "Veo"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "Model announcements with usable detail (MiniMax H3 / H3 Max, Seedance), audio fixes, story/consistency tools (OpenStory, Calliope), agent video editing (video-use), launch-video breakdowns, faceless/TikTok pipelines, product-render-via-video-model.",
+  "exclusion_rule": "Code-rendered motion → code-motion-graphics. Anything with a Blender/Unreal camera stage → blockout-to-video-flythrough.",
+  "item_count_primary": 20,
+  "item_count_secondary": 14,
+  "role_counts": {
+    "tool": 7,
+    "technique": 8,
+    "example": 11,
+    "claim-source": 6,
+    "reference": 3
+  },
+  "thread_coverage": {
+    "x_items": 19,
+    "captured_full": 2,
+    "captured_partial": 17,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "agent-video-editing",
+    "seedance-motion-reference",
+    "remotion-code-video",
+    "worldgen-to-video",
+    "faceless-video-pipeline"
+  ],
+  "tools": [
+    "fal-api",
+    "seedance",
+    "elayadesign-ai-design-skills",
+    "minimax-h3",
+    "openstory",
+    "minimax-h3-max",
+    "magnific",
+    "video-use",
+    "codex",
+    "fable-5",
+    "higgsfield",
+    "calliope",
+    "gpt-image-2",
+    "lightreelai",
+    "doublespeed"
+  ],
+  "must_read": [
+    "x-2094819241916801165"
+  ],
+  "comparison_axes": [
+    "control surface beyond text prompt",
+    "audio and lip-sync handling",
+    "character or product consistency",
+    "local preview before paid API",
+    "usable duration and resolution numbers"
+  ],
+  "open_questions": [
+    "Which audio-only regen tools keep lipsync without re-rolling picture?",
+    "Are story/consistency tools (Calliope, OpenStory) usable without their SaaS?"
+  ],
+  "adjacent_subjects": [
+    "blockout-to-video-flythrough",
+    "code-motion-graphics",
+    "image-prompt-galleries"
+  ],
+  "written_by": "subject-ai-video-generation",
+  "written_at": "2026-09-04T18:39:00Z"
+}

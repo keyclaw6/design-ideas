@@ -69,8 +69,8 @@
     }
   ],
   "techniques": [
-    "grep-prompt-search",
-    "content-remix-prompting"
+    "prompt-to-html-landing",
+    "taste-skill-encoding"
   ],
   "tools": [
     "nano-banana-pro-prompts-recommend",

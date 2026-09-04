@@ -1,0 +1,65 @@
+{
+  "schema_version": "1",
+  "slug": "mcp-and-agent-browsers",
+  "name": "MCP servers, tool routers, agent browsers, computer-use",
+  "owner_aliases": [
+    "MCP",
+    "agent browser",
+    "computer use"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "MCP server catalogs, tool routers (treg), headless/agent browsers (Obscura, Kitesurf, Kernel), mock stacks (aimock), screen parsers (OmniParser), free search/fetch APIs for agents, open Grok-Bot alternatives.",
+  "exclusion_rule": "Domain MCPs (Blender MCP, CrowdReply MCP, Fusion MCP) are primary in their domain subject with mcp platform tag; this subject is secondary for them.",
+  "item_count_primary": 11,
+  "item_count_secondary": 22,
+  "role_counts": {
+    "tool": 10,
+    "technique": 1,
+    "example": 0,
+    "claim-source": 5,
+    "reference": 5
+  },
+  "thread_coverage": {
+    "x_items": 6,
+    "captured_full": 0,
+    "captured_partial": 6,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "agent-browser-isolation",
+    "session-hardening"
+  ],
+  "tools": [
+    "obscura",
+    "treg",
+    "kitesurf",
+    "browser-run",
+    "copilotkit-aimock",
+    "kernel-browser",
+    "tiny-fish",
+    "monidhq"
+  ],
+  "must_read": [
+    "github-superdesigndev-treg",
+    "web-cloudflare-kitesurf"
+  ],
+  "comparison_axes": [
+    "catalog vs runnable server",
+    "isolation model (workers, headless browser)",
+    "auth and secrets handling",
+    "search/fetch without paid SERP API",
+    "computer-use vs HTTP-only tools"
+  ],
+  "open_questions": [
+    "Obscura vs Kitesurf vs a headed Playwright MCP: isolation vs fidelity?",
+    "Does awesome-mcp-servers help selection or only discovery?"
+  ],
+  "adjacent_subjects": [
+    "agent-harness-loops",
+    "serp-ai-visibility",
+    "outbound-gtm-agents"
+  ],
+  "written_by": "subject-mcp-and-agent-browsers",
+  "written_at": "2026-09-04T18:39:00Z"
+}

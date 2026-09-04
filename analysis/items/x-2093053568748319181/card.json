@@ -56,8 +56,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "3d-director-stage",
-    "camera-path-blocking"
+    "blender-blockout-camera",
+    "blender-blockout-camera"
   ],
   "tools": [
     "minimax-3d-director"

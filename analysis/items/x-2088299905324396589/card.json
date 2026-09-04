@@ -58,8 +58,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "text-to-world-pipeline",
-    "concept-to-engine-consistency"
+    "image-to-3d-worldgen",
+    "worldgen-to-video"
   ],
   "tools": [
     "atlas-3d-ai"

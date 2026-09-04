@@ -68,8 +68,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "brand-matched-diagrams",
-    "mermaid-redraw"
+    "svg-infographic-rendering",
+    "svg-infographic-rendering"
   ],
   "tools": [
     "diagram-design"

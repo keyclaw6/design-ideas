@@ -80,7 +80,7 @@
   ],
   "techniques": [
     "moe-expert-offload",
-    "agent-prefill-checkpoints"
+    "agent-harness-ops"
   ],
   "tools": [
     "freetoken"

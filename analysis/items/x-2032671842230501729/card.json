@@ -78,9 +78,9 @@
     }
   ],
   "techniques": [
-    "autoresearch-swarm",
-    "research-dag",
-    "declarative-warps"
+    "autoresearch-loop",
+    "autoresearch-loop",
+    "agent-harness-ops"
   ],
   "tools": [
     "hyperspace"

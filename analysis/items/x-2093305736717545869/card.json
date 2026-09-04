@@ -45,8 +45,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "fusion-mcp-assembly",
-    "cad-agent-benchmark"
+    "cad-agent-assembly",
+    "text-to-cad"
   ],
   "tools": [
     "autodesk-fusion"

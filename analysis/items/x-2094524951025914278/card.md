@@ -1,0 +1,33 @@
+# Blume.codes landing page build breakdown (X article)
+
+`x-2094524951025914278` · x · article · en · [source](https://x.com/olavlj/status/2094524951025914278) · [raw](../../../raw/items/x-2094524951025914278/)
+**Author:** olav (@olavlj) · **Published:** 2026-08-31T20:37:17Z · **Captured:** 2026-09-02T18:49:18Z
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
+**Subject:** [landing-ui-motion](../../subjects/landing-ui-motion/brief.md) · **Also:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Roles:** technique, example · **Platforms:** cursor, codex, other
+
+**Summary.** Olav's X article documents four blume.codes effects: seven-layer Codex parallax hero, Turborepo-shared live product demo, scroll-drawn Dicebear vine, and a six-theme flower picker—framed as attention-budget craft for an agent sidecar landing page.
+**Question it answers.** How did Blume build parallax, live demos, and scroll motion on their agent sidecar landing page?
+
+**Claims.**
+- `x-2094524951025914278#c1` (recipe, stated) The parallax hero used at least seven Codex-generated alpha layers with faster parallax on nearer layers. — evidence: "Minimum 3 layers; they used **7**." [linked-page]
+- `x-2094524951025914278#c2` (capability, stated) The landing page embeds a live mock-data instance of the Electron app via a shared Turborepo UI package. — evidence: "Landing page and Electron app share a **Turborepo** UI package; the site embed is a live mock-data instance of the app." [linked-page]
+- `x-2094524951025914278#c3` (recipe, stated) A scroll-drawn vector vine uses daily-seeded Dicebear flower crowns as a hidden easter-egg motif. — evidence: "Scroll-drawn vector path; flower crowns from a custom Dicebear style, seeded by the current date so they change daily." [linked-page]
+**Numbers.** parallax layers: 7 layers (linked-page); article views at capture: 46503 views (post)
+**Recipe.** —
+**Techniques.** [parallax-scroll-landing](../../techniques/parallax-scroll-landing.md), [shadcn-component-kit](../../techniques/shadcn-component-kit.md), [scroll-driven-3d](../../techniques/scroll-driven-3d.md)
+**Tools.** [codex](../../tools/codex.md), [dicebear](../../tools/dicebear.md), [blume](../../tools/blume.md)
+**Links.** product (https://blume.codes), https://www.dicebear.com, https://fal.ai
+**Related items.** [web-blume-codes](../web-blume-codes/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-dicebear](../web-dicebear/card.md), [web-cult-ui](../web-cult-ui/card.md)
+**Media.**
+`media/article-cover.jpg` (image, carries_technique=false) — Cover art: cream UI card listing three agent rows among orange lilies and a green vine beside All Your Agents, in Focus headline.
+`media/article-hero-still.jpg` (image, carries_technique=true) — Blume hero over sunflower field: Download DMG callout plus floating Cursor, Codex, and Claude Code windows above Improve-tab analytics gauges.
+`media/article-reference.jpg` (image, carries_technique=true) — Makoto Shinkai-style reference landscape with sunflowers, orange lilies, roses, and bellflowers under a bright blue cloudy sky.
+`media/article-layers.jpg` (image, carries_technique=true) — Eight tilted cards showing far mountains through mid cliffs to foreground wildflowers, illustrating separate parallax layer plates.
+`media/article-video-interactive.mp4` (video, carries_technique=true) — 16s demo of the live interactive Blume app embed on the landing page with analytics and suggestion cards.
+`media/article-video-interactive-thumb.jpg` (image, carries_technique=false) — Still frame of the interactive product demo video showing Blume Improve tab over the parallax hero background.
+`media/article-video-vine.mp4` (video, carries_technique=true) — 12s scroll capture of the journey vine section with Works With logos and agent list illustration.
+`media/article-video-vine-thumb.jpg` (image, carries_technique=false) — Still of the vine section headline Your journey begins here with Cursor, Claude Code, Codex, and Pi logos.
+`media/article-video-theme.mp4` (video, carries_technique=true) — 19s demo cycling Blume flower themes that regenerate page graphics and agent card styling.
+`media/article-video-theme-thumb.jpg` (image, carries_technique=false) — Still of the theme-picker section showing All Your Agents in Focus beside lily-decorated UI cards and Download DMG button.
+**Thread.** captured_partial · reported 13 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)
+**Judge hints.** must_read: ['post.md', 'research.md'] · compare with: [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-blume-codes](../web-blume-codes/card.md), [web-dicebear](../web-dicebear/card.md)

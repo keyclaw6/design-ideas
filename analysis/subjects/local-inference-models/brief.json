@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "slug": "local-inference-models",
+  "name": "Local / edge inference, open-weight model releases",
+  "owner_aliases": [
+    "local LLM",
+    "GGUF",
+    "FreeToken"
+  ],
+  "priority": "later",
+  "inclusion_rule": "Open-weight model releases with runnable detail (Qwen GGUFs, Unsloth, Bonsai, Edge8), inference engines (FreeToken, MLX tricks), cheap hosted endpoints with numbers (RunInfra, AMD Token Factory), VRAM math. Pure now-live-on-gateway or discount posts are noise/availability-announcement.",
+  "exclusion_rule": "Gateway promo with no runnable detail → shelf noise.",
+  "item_count_primary": 10,
+  "item_count_secondary": 0,
+  "role_counts": {
+    "tool": 5,
+    "technique": 2,
+    "example": 1,
+    "claim-source": 7,
+    "reference": 3
+  },
+  "thread_coverage": {
+    "x_items": 10,
+    "captured_full": 0,
+    "captured_partial": 10,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "moe-expert-offload",
+    "dynamic-quantization",
+    "agent-harness-ops"
+  ],
+  "tools": [
+    "edge8-35b",
+    "unsloth",
+    "qwen3-8-27b",
+    "runinfra",
+    "llama-cpp",
+    "freetoken"
+  ],
+  "must_read": [
+    "x-2091150763418620133"
+  ],
+  "comparison_axes": [
+    "weights actually downloadable",
+    "quant recipe (GGUF, MLX, MoE offload)",
+    "VRAM / token numbers present",
+    "license allows local use",
+    "hosting discount posts excluded"
+  ],
+  "open_questions": [
+    "Which GGUF/MLX recipes still match the published VRAM numbers on a 24 GB card?",
+    "Are MoE offload tricks worth the I/O hit for design-agent local use?"
+  ],
+  "adjacent_subjects": [
+    "agent-harness-loops"
+  ],
+  "written_by": "subject-local-inference-models",
+  "written_at": "2026-09-04T18:39:00Z"
+}

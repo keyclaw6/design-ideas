@@ -55,7 +55,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "agentic-cad-fusion"
+    "cad-agent-assembly"
   ],
   "tools": [
     "claude-fable",

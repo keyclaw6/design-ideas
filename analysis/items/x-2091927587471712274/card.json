@@ -76,7 +76,7 @@
     }
   ],
   "techniques": [
-    "browser-mesh-decimation"
+    "mesh-cleanup-retopo"
   ],
   "tools": [],
   "links": {

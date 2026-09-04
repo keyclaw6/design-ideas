@@ -44,8 +44,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "anti-ai-slop-editing",
-    "banned-word-audit"
+    "anti-slop-ui-skills",
+    "anti-slop-ui-skills"
   ],
   "tools": [
     "claude-skills-free"

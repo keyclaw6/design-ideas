@@ -1,0 +1,76 @@
+{
+  "schema_version": "1",
+  "slug": "web-3d-scenes",
+  "name": "Three.js / WebGL / WebGPU / Spline scenes on the web",
+  "owner_aliases": [
+    "three.js",
+    "WebGL",
+    "scroll world"
+  ],
+  "priority": "now",
+  "inclusion_rule": "Three.js and R3F sites and templates, graphics agent skills for Three.js, WebGPU shader libraries, scroll-world 3D heroes, Spline, 3D component packs, 3D-driven landing pages, 3D diagram editors that ship as web scenes.",
+  "exclusion_rule": "Splat viewers → gaussian-splatting unless the item is about the web scene itself. Non-3D landing motion → landing-ui-motion.",
+  "item_count_primary": 18,
+  "item_count_secondary": 11,
+  "role_counts": {
+    "tool": 9,
+    "technique": 7,
+    "example": 11,
+    "claim-source": 2,
+    "reference": 4
+  },
+  "thread_coverage": {
+    "x_items": 11,
+    "captured_full": 1,
+    "captured_partial": 9,
+    "empty": 1,
+    "failed": 0
+  },
+  "techniques": [
+    "worldgen-to-video",
+    "blender-blockout-camera",
+    "ui-motion-physics",
+    "scroll-driven-3d",
+    "faceless-video-pipeline",
+    "image-to-3d-worldgen",
+    "taste-skill-encoding"
+  ],
+  "tools": [
+    "complete-shelf",
+    "monid-cli",
+    "higgsfield-cli",
+    "scroll-world-skill",
+    "threejs-awesome-graphics-agent-skills",
+    "feralui",
+    "getlayers",
+    "claude-code",
+    "mengto-skills",
+    "improve-threejs",
+    "sylva",
+    "threejs-wireframe-scan-reveal",
+    "spline",
+    "blender",
+    "webgpu"
+  ],
+  "must_read": [
+    "github-scottstts-threejs-awesome-graphics-agent-skills"
+  ],
+  "comparison_axes": [
+    "ships as a web page (not a DCC file)",
+    "scroll or pointer drives the camera",
+    "WebGL vs WebGPU vs Spline",
+    "agent-skill coverage for Three.js",
+    "performance notes (polycount, LOD)"
+  ],
+  "open_questions": [
+    "Which scroll-world templates stay under a 3 MB JS budget?",
+    "Do graphics-agent skills produce valid R3F or only screenshot-alike HTML?"
+  ],
+  "adjacent_subjects": [
+    "landing-ui-motion",
+    "gaussian-splatting",
+    "image-to-3d-world"
+  ],
+  "written_by": "subject-web-3d-scenes",
+  "written_at": "2026-09-04T18:39:00Z"
+}

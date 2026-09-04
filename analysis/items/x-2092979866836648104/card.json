@@ -9,7 +9,7 @@
   ],
   "numbers": [],
   "techniques": [
-    "brand-campaign-prompt"
+    "prompt-as-code"
   ],
   "tools": [
     "gpt-image"

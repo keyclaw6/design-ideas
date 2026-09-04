@@ -57,7 +57,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "threejs-landing-motion"
+    "scroll-driven-3d"
   ],
   "tools": [
     "claude-code",

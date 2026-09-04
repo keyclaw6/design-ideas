@@ -47,9 +47,9 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "chatgpt-ideation",
-    "fable-scene-build",
-    "higgsfield-animation"
+    "agent-video-editing",
+    "worldgen-to-video",
+    "seedance-motion-reference"
   ],
   "tools": [
     "fable-5",

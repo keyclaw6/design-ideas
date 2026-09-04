@@ -12,7 +12,7 @@
     }
   ],
   "techniques": [
-    "persistent-agent-loop"
+    "agent-harness-ops"
   ],
   "tools": [
     "headlong"

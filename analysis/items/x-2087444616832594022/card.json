@@ -59,7 +59,7 @@
     }
   ],
   "techniques": [
-    "self-evolving-agent-evaluation"
+    "autoresearch-loop"
   ],
   "tools": [],
   "links": {

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1",
+  "slug": "design-agent-skills",
+  "name": "Design skills, DESIGN.md contracts, vibe-design workspaces, anti-slop",
+  "owner_aliases": [
+    "DESIGN.md",
+    "taste skill",
+    "anti-slop"
+  ],
+  "priority": "now",
+  "inclusion_rule": "Installable design/taste/motion skill packs (Impeccable, Emil, Taste, interfaces.dev, MengTo, unlazy, /vision, /bro, no-ai-slop), DESIGN.md spec/extractors/collections, vibe-design and AI site builders (OpenDesign, Aura, Neuform, AIDesigner MCP, Orca design mode), UI prompt libraries for websites (SceneAI, typeui, 590+ prompts), anti-slop prose skills.",
+  "exclusion_rule": "Image prompt galleries → image-prompt-galleries. Component libraries → landing-ui-motion. Generic agent harness → agent-harness-loops.",
+  "item_count_primary": 50,
+  "item_count_secondary": 31,
+  "role_counts": {
+    "tool": 35,
+    "technique": 13,
+    "example": 12,
+    "claim-source": 5,
+    "reference": 24
+  },
+  "thread_coverage": {
+    "x_items": 29,
+    "captured_full": 0,
+    "captured_partial": 28,
+    "empty": 0,
+    "failed": 1
+  },
+  "techniques": [
+    "design-md-contract",
+    "anti-slop-ui-skills",
+    "taste-skill-encoding",
+    "url-clone-ui",
+    "prompt-to-html-landing",
+    "remotion-code-video",
+    "screenshot-verify-loop",
+    "shadcn-component-kit",
+    "scroll-driven-3d",
+    "parallax-scroll-landing"
+  ],
+  "tools": [
+    "google-design-md-cli",
+    "better-interface",
+    "better-accessibility",
+    "taste-skill",
+    "mengto-skills",
+    "open-design",
+    "hyperframes",
+    "impeccable",
+    "aidesigner-mcp",
+    "aidesigner-agent-skills",
+    "checklist-design",
+    "getdesign-md",
+    "neuform",
+    "sokosumi-design-md",
+    "refero-mcp",
+    "human-review",
+    "gsap-skills",
+    "bro-skill",
+    "vision-skill",
+    "unlazy",
+    "name-that-ui",
+    "have-some-range",
+    "styles-refero-design",
+    "avoid-ai-writing",
+    "claude-skills-free",
+    "motionsites-ai",
+    "fable"
+  ],
+  "must_read": [
+    "github-emilkowalski-skills",
+    "web-opale-ui-taste",
+    "x-2088254428730085690",
+    "x-2093766772029559077"
+  ],
+  "comparison_axes": [
+    "installable skill vs prompt dump",
+    "DESIGN.md or equivalent contract present",
+    "anti-slop rules are checkable",
+    "visual verify loop (screenshot/browser)",
+    "changes agent output on a real page"
+  ],
+  "open_questions": [
+    "Which DESIGN.md extractors survive a real client site, not a blog template?",
+    "Do anti-slop lists change layout or only copy?"
+  ],
+  "adjacent_subjects": [
+    "landing-ui-motion",
+    "image-prompt-galleries",
+    "agent-harness-loops"
+  ],
+  "written_by": "subject-design-agent-skills",
+  "written_at": "2026-09-04T18:39:00Z"
+}

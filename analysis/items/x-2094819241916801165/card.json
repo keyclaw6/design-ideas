@@ -51,8 +51,8 @@
   ],
   "numbers": [],
   "techniques": [
-    "gpt-image-face-swap",
-    "seedance-character-lock"
+    "agent-video-editing",
+    "seedance-motion-reference"
   ],
   "tools": [
     "gpt-image-2",

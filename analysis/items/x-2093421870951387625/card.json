@@ -38,7 +38,7 @@
   ],
   "numbers": [],
   "techniques": [
-    "boolean-to-clean-quads"
+    "mesh-cleanup-retopo"
   ],
   "tools": [
     "bqr-blender-addon"

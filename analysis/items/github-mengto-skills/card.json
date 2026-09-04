@@ -65,9 +65,9 @@
     }
   ],
   "techniques": [
-    "video-to-super-prompt",
-    "html-to-interaction-prompts",
-    "full-page-capture"
+    "prompt-to-html-landing",
+    "remotion-code-video",
+    "screenshot-verify-loop"
   ],
   "tools": [
     "mengto-skills"

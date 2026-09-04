@@ -67,8 +67,8 @@
     }
   ],
   "techniques": [
-    "darwinian-mutation-loop",
-    "out-of-sample-validation"
+    "autoresearch-loop",
+    "autoresearch-loop"
   ],
   "tools": [],
   "links": {

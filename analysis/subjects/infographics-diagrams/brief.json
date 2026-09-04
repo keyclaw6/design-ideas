@@ -1,0 +1,64 @@
+{
+  "schema_version": "1",
+  "slug": "infographics-diagrams",
+  "name": "Infographics, diagrams-as-content, charts",
+  "owner_aliases": [
+    "infographics",
+    "diagrams",
+    "charts"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "Diagram/infographic skills and frameworks (AntV, diagram-design, archify, pretty-mermaid, system-atlas), chart ILs (Flint), chart component kits (Mono Charts), fast dataviz, codebase visual maps, social carousels, layer-diagram-as-argument.",
+  "exclusion_rule": "A diagram that only illustrates an SEO claim → serp-ai-visibility primary, this secondary.",
+  "item_count_primary": 14,
+  "item_count_secondary": 3,
+  "role_counts": {
+    "tool": 9,
+    "technique": 7,
+    "example": 5,
+    "claim-source": 2,
+    "reference": 4
+  },
+  "thread_coverage": {
+    "x_items": 11,
+    "captured_full": 2,
+    "captured_partial": 9,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "svg-infographic-rendering",
+    "chart-theme-presets",
+    "agent-harness-ops"
+  ],
+  "tools": [
+    "antv-infographic",
+    "diagram-design",
+    "flint-chart-mcp",
+    "system-atlas",
+    "dashboard-stack",
+    "archify"
+  ],
+  "must_read": [
+    "github-antvis-infographic",
+    "github-cathrynlavery-diagram-design"
+  ],
+  "comparison_axes": [
+    "output format (SVG, mermaid, chart IL)",
+    "brand/theme control",
+    "agent-skill vs component kit",
+    "data binding vs static illustration",
+    "fits social/carousel sizes"
+  ],
+  "open_questions": [
+    "Can AntV / Flint emit on-brand SVG from a claim table without a designer pass?",
+    "When is a diagram the artifact versus decoration on an SEO post?"
+  ],
+  "adjacent_subjects": [
+    "landing-ui-motion",
+    "serp-ai-visibility",
+    "design-agent-skills"
+  ],
+  "written_by": "subject-infographics-diagrams",
+  "written_at": "2026-09-04T18:39:00Z"
+}

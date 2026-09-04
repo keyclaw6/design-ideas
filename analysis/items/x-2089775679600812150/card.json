@@ -44,8 +44,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "word-focus-scroll",
-    "blur-scroll-reveal"
+    "parallax-scroll-landing",
+    "parallax-scroll-landing"
   ],
   "tools": [
     "great-ui"

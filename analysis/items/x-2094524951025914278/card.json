@@ -81,9 +81,9 @@
     }
   ],
   "techniques": [
-    "parallax-hero-layers",
-    "shared-ui-package-embed",
-    "scroll-drawn-vine"
+    "parallax-scroll-landing",
+    "shadcn-component-kit",
+    "scroll-driven-3d"
   ],
   "tools": [
     "codex",

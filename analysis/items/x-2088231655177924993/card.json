@@ -45,8 +45,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "obsidian-vault-memory",
-    "markdown-agent-context"
+    "filesystem-context-memory",
+    "filesystem-context-memory"
   ],
   "tools": [
     "obsidian-mind"

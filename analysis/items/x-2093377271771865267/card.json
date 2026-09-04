@@ -55,8 +55,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "blender-previz-camera-lock",
-    "seedance-reference-conditioning"
+    "blender-blockout-camera",
+    "seedance-motion-reference"
   ],
   "tools": [
     "seedance",

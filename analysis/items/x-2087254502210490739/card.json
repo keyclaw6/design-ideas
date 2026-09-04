@@ -79,8 +79,8 @@
     }
   ],
   "techniques": [
-    "control-plane-pattern",
-    "knowledge-graph-control-plane"
+    "agent-harness-ops",
+    "agent-harness-ops"
   ],
   "tools": [],
   "links": {

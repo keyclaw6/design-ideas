@@ -55,7 +55,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "session-migration"
+    "session-hardening"
   ],
   "tools": [
     "session-migrate"

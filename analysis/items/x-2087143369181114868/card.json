@@ -44,8 +44,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "reasoning-trace-memory",
-    "memory-aware-test-time-scaling"
+    "semantic-layer-contract",
+    "semantic-layer-contract"
   ],
   "tools": [
     "reasoning-bank"

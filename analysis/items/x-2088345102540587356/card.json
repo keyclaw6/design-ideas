@@ -47,8 +47,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "agent-as-folder",
-    "mda-deploy"
+    "agent-harness-ops",
+    "agent-harness-ops"
   ],
   "tools": [],
   "links": {

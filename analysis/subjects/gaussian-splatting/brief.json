@@ -1,0 +1,59 @@
+{
+  "schema_version": "1",
+  "slug": "gaussian-splatting",
+  "name": "Gaussian splatting (3DGS) capture, edit, export",
+  "owner_aliases": [
+    "Gaussian splatting",
+    "3DGS",
+    "splats"
+  ],
+  "priority": "now",
+  "inclusion_rule": "3DGS training/viewers/editors (Splat.js, LichtFeld Studio, SplatPaint, brush selection), splat→mesh (Splat2Mesh, 3DGS Mesh Converter), splat repair (ArtiFixer), splat research (GaussianGPT, LightFuse), streaming/LOD, camera animation and 4K export from splats, splat→3D print.",
+  "exclusion_rule": "Reconstruction that does not produce/consume splats → image-to-3d-world.",
+  "item_count_primary": 17,
+  "item_count_secondary": 1,
+  "role_counts": {
+    "tool": 10,
+    "technique": 3,
+    "example": 4,
+    "claim-source": 7,
+    "reference": 6
+  },
+  "thread_coverage": {
+    "x_items": 15,
+    "captured_full": 1,
+    "captured_partial": 8,
+    "empty": 4,
+    "failed": 2
+  },
+  "techniques": [
+    "splat-pipeline"
+  ],
+  "tools": [
+    "splat2mesh",
+    "splat-js",
+    "lichtfeld-studio",
+    "arcana-splat2mesh",
+    "supersplat",
+    "artifixer"
+  ],
+  "must_read": [],
+  "comparison_axes": [
+    "input (phone video, DSLR, existing splat)",
+    "edit affordance (brush, crop, relight)",
+    "export target (mesh, print, engine, web viewer)",
+    "local vs hosted GPU",
+    "repair step required before use"
+  ],
+  "open_questions": [
+    "Which splat→mesh path survives print or engine collision?",
+    "Is ArtiFixer required on phone-captured splats or only on research scenes?"
+  ],
+  "adjacent_subjects": [
+    "image-to-3d-world",
+    "web-3d-scenes",
+    "ai-cad-hardware"
+  ],
+  "written_by": "subject-gaussian-splatting",
+  "written_at": "2026-09-04T18:39:00Z"
+}

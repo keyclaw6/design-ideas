@@ -67,8 +67,8 @@
     }
   ],
   "techniques": [
-    "reap-expert-pruning",
-    "mlx-4bit-quant"
+    "moe-expert-offload",
+    "dynamic-quantization"
   ],
   "tools": [],
   "links": {

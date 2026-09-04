@@ -43,7 +43,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "design-md-client-contract"
+    "design-md-contract"
   ],
   "tools": [
     "cursor"

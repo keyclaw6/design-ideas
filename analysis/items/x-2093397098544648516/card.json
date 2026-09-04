@@ -53,7 +53,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "brush-splat-selection"
+    "splat-pipeline"
   ],
   "tools": [
     "supersplat"

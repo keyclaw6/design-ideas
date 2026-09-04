@@ -59,7 +59,7 @@
     }
   ],
   "techniques": [
-    "free-agent-web-search"
+    "agent-browser-isolation"
   ],
   "tools": [
     "tiny-fish",

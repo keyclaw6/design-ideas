@@ -61,7 +61,7 @@
     }
   ],
   "techniques": [
-    "architecture-treemap-score"
+    "agent-harness-ops"
   ],
   "tools": [
     "sentrux"

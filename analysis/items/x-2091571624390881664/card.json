@@ -48,8 +48,8 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "three-js-prompt-axes",
-    "claude-code-variants"
+    "scroll-driven-3d",
+    "taste-skill-encoding"
   ],
   "tools": [],
   "links": {

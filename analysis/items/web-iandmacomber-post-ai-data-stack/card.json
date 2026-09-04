@@ -64,7 +64,7 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "llms-txt-data-products",
+    "context-etl",
     "semantic-layer-contract"
   ],
   "tools": [],

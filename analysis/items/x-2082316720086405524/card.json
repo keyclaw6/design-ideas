@@ -66,8 +66,8 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [
-    "disposable-dev-environment",
-    "secrets-gating"
+    "agent-harness-ops",
+    "session-hardening"
   ],
   "tools": [
     "nix-darwin",

@@ -55,7 +55,7 @@
   "recipe_steps": [],
   "numbers": [],
   "techniques": [
-    "memory-branching"
+    "filesystem-context-memory"
   ],
   "tools": [
     "memoria"

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1",
+  "slug": "code-motion-graphics",
+  "name": "Code-rendered motion graphics and HTML-as-video",
+  "owner_aliases": [
+    "Remotion",
+    "html-video",
+    "HyperFrames"
+  ],
+  "priority": "standard",
+  "inclusion_rule": "Remotion, HyperFrames / html-video, Motion Prompt, motion-anything, Claude for motion graphics, glif motion skill, CoAnimator, shot-recipe cards, Lottie/motion template libraries, After Effects → video model hand-offs, logo videos.",
+  "exclusion_rule": "Scroll/UI motion on a web page → landing-ui-motion.",
+  "item_count_primary": 14,
+  "item_count_secondary": 2,
+  "role_counts": {
+    "tool": 8,
+    "technique": 7,
+    "example": 7,
+    "claim-source": 2,
+    "reference": 2
+  },
+  "thread_coverage": {
+    "x_items": 10,
+    "captured_full": 1,
+    "captured_partial": 9,
+    "empty": 0,
+    "failed": 0
+  },
+  "techniques": [
+    "remotion-code-video",
+    "lottie-export"
+  ],
+  "tools": [
+    "html-video",
+    "hyperframes",
+    "ffmpeg",
+    "motion-anything",
+    "animos-editor",
+    "remotion",
+    "claude-motion-prompt",
+    "remotion-code-video",
+    "glif",
+    "minimax-h3-max",
+    "claude-motion-graphics",
+    "coanimator",
+    "claude-fable",
+    "video-shotcraft"
+  ],
+  "must_read": [],
+  "comparison_axes": [
+    "code is source of truth vs GUI export",
+    "runtime (Remotion, HTML, Lottie)",
+    "shot-recipe reuse",
+    "agent can author the timeline",
+    "handoff into a video model"
+  ],
+  "open_questions": [
+    "Does html-video beat Remotion for agent-authored spots?",
+    "Which shot-recipe format an agent can regenerate without a GUI?"
+  ],
+  "adjacent_subjects": [
+    "ai-video-generation",
+    "landing-ui-motion",
+    "design-agent-skills"
+  ],
+  "written_by": "subject-code-motion-graphics",
+  "written_at": "2026-09-04T18:39:00Z"
+}

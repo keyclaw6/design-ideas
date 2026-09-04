@@ -86,9 +86,9 @@
     }
   ],
   "techniques": [
-    "named-design-references",
+    "url-clone-ui",
     "screenshot-verify-loop",
-    "scroll-as-timeline"
+    "scroll-driven-3d"
   ],
   "tools": [
     "scroll-craft",

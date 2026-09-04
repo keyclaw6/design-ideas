@@ -58,7 +58,7 @@
     }
   ],
   "techniques": [
-    "physically-inspired-ui-motion"
+    "ui-motion-physics"
   ],
   "tools": [
     "feralui"

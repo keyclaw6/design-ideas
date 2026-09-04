@@ -695,18 +695,14 @@ def main() -> int:
     else:
         c.fail(37, f"{bad37[:5]}")
 
-    # 38 markdown hygiene
+    # 38 markdown hygiene — spec §9: card.md, thread.md, tools/*.md, techniques/*.md
     bad38 = []
-    md_files = list((WORKSPACE / "analysis").rglob("*.md"))
-    for md in md_files:
-        if "_work" in md.parts:
-            continue
-        if md.name == "brief.md":
-            continue  # brief.md allows H2
-        if md.parent.name == "shelf":
-            if check_heading_hygiene(md):
-                bad38.append(str(md))
-            continue
+    scoped: list[Path] = []
+    scoped.extend((WORKSPACE / "analysis" / "items").rglob("card.md"))
+    scoped.extend((WORKSPACE / "analysis" / "items").rglob("thread.md"))
+    scoped.extend((WORKSPACE / "analysis" / "tools").glob("*.md"))
+    scoped.extend((WORKSPACE / "analysis" / "techniques").glob("*.md"))
+    for md in scoped:
         errs = check_heading_hygiene(md)
         if errs:
             bad38.append(str(md))
