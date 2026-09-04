@@ -1,0 +1,57 @@
+{
+  "schema_version": "1",
+  "id": "x-2093064017468145963",
+  "tweet_id": "2093064017468145963",
+  "root_author_handle": "abyssallD",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 0,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [
+    {
+      "id": "2093015706497679589",
+      "author_handle": "abyssallD",
+      "created_at": "2026-08-27T16:40:05Z",
+      "text": "THE FINAL SCENE LANDS IN UNITY\n\nNot a generated picture.\nA playable interior.\n\nMedieval alchemist shop.\n\n&gt; Warm light\n&gt; Potion shelves\n&gt; Green cauldron\n&gt; Fireplace\n&gt; Herbs hanging from the beams\n\nThe room was assembled in Blender.\nThen dropped straight into Unity.\n\nThis is the https://t.co/SH4qVxeEer",
+      "text_en": null,
+      "urls": [
+        "https://t.co/SH4qVxeEer"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/abyssallD/status/2093064017468145963",
+      "outcome": "ok",
+      "note": "html_bytes=145714 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/abyssallD/status/2093064017468145963",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093064017468145963/thread-raw/x-web-dom-20260904T175325Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

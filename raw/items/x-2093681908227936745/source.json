@@ -1,0 +1,25 @@
+{
+  "id": "x-2093681908227936745",
+  "url": "https://x.com/fakharkamario/status/2093681908227936745",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:50Z",
+  "title": "This launch video got more than 7.5M views. full breakdown:",
+  "authors": [
+    "Fakhar (@fakharkamario)"
+  ],
+  "topics": [
+    "video-generation",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2093681908227936745",
+    "author_handle": "fakharkamario",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "7.5M-view launch video with attached breakdown clip."
+  }
+}

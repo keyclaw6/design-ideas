@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2090787985721856437",
+  "tweet_id": "2090787985721856437",
+  "root_author_handle": "zcode_ai",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 186,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 44,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 183,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2090801936085955056",
+      "author_handle": "unknown",
+      "created_at": "2026-08-21T14:03:21Z",
+      "text": "@zcode_ai md，纯纯忽悠人注册刷指标，上次被骗注册，又没给，就已经不是新用户了",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 30,
+        "replies": 8,
+        "reposts": 0,
+        "views": 11651
+      },
+      "parent_id": "2090787985721856437",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2090827225683603821",
+      "author_handle": "unknown",
+      "created_at": "2026-08-21T15:43:50Z",
+      "text": "@zcode_ai @zcode_ai can you clarify the 100m tokens rule for everyone?\n\ndoes \"log in for the first time\" during aug 22 00:00 – aug 24 09:00 utc+8 mean the account has to be created inside that window, or is it ok if the account was made earlier as long as the first login happens during the",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 10289
+      },
+      "parent_id": "2090787985721856437",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2090794373864648895",
+      "author_handle": "unknown",
+      "created_at": "2026-08-21T13:33:18Z",
+      "text": "@zcode_ai What disgusting solicitation, you’re unable to provide what you ‘offer,’ and what’s more you degrade the usage of your paying clients.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1328
+      },
+      "parent_id": "2090787985721856437",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/zcode_ai/status/2090787985721856437",
+      "outcome": "ok",
+      "note": "html_bytes=185049 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/zcode_ai/status/2090787985721856437",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090787985721856437/thread-raw/x-web-dom-20260904T175315Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

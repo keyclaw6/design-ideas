@@ -1,0 +1,30 @@
+{
+  "id": "github-google-labs-code-design-md",
+  "url": "https://github.com/google-labs-code/design.md",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "DESIGN.md",
+  "authors": [
+    "google-labs-code"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://stitch.withgoogle.com/docs/design-md/specification"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "description": "Format specification for visual identity for coding agents",
+    "related_items": [
+      "web-getdesign-md",
+      "web-sokosumi-design-md",
+      "web-styles-refero-design",
+      "web-design-md-hyperbrowser",
+      "github-pbakaus-impeccable"
+    ],
+    "category_note": "Google Labs DESIGN.md spec + lint/diff CLI."
+  }
+}

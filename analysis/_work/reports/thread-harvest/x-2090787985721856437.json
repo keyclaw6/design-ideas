@@ -1,0 +1,81 @@
+{
+  "root_id": "2090787985721856437",
+  "reply_count_reported": 186,
+  "quote_count_reported": 44,
+  "tweets": [
+    {
+      "id": "2090787985721856437",
+      "author_handle": null,
+      "created_at": "2026-08-21T13:07:55Z",
+      "text": "GLM-5.3 × ZCode Weekend Build, Round 2 🚀\nNew users: log in to ZCode for the first time from Aug 22, 00:00 to Aug 24, 09:00 (UTC+8) and automatically get 100M free GLM-5.3 tokens. 50,000 packs, first come, first served; ZCode only. Unused tokens expire when the event ends.\n Grab https://t.co/DGwpHTff1E",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 815,
+        "replies": 186,
+        "reposts": 59,
+        "views": 262338,
+        "quotes": 44
+      },
+      "urls": [
+        "https://t.co/DGwpHTff1E"
+      ]
+    },
+    {
+      "id": "2090801936085955056",
+      "author_handle": null,
+      "created_at": "2026-08-21T14:03:21Z",
+      "text": "@zcode_ai md，纯纯忽悠人注册刷指标，上次被骗注册，又没给，就已经不是新用户了",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 30,
+        "replies": 8,
+        "reposts": 0,
+        "views": 11651,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090827225683603821",
+      "author_handle": null,
+      "created_at": "2026-08-21T15:43:50Z",
+      "text": "@zcode_ai @zcode_ai can you clarify the 100m tokens rule for everyone?\n\ndoes \"log in for the first time\" during aug 22 00:00 – aug 24 09:00 utc+8 mean the account has to be created inside that window, or is it ok if the account was made earlier as long as the first login happens during the",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 10289,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090794373864648895",
+      "author_handle": null,
+      "created_at": "2026-08-21T13:33:18Z",
+      "text": "@zcode_ai What disgusting solicitation, you’re unable to provide what you ‘offer,’ and what’s more you degrade the usage of your paying clients.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1328,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090787985721856437",
+    "2090794373864648895",
+    "2090801936085955056",
+    "2090827225683603821"
+  ],
+  "item_id": "x-2090787985721856437",
+  "handle": "zcode_ai",
+  "http_status": 200,
+  "url": "https://x.com/zcode_ai/status/2090787985721856437",
+  "html_bytes": 185049,
+  "raw_path": "raw/items/x-2090787985721856437/thread-raw/x-web-dom-20260904T175315Z.html"
+}

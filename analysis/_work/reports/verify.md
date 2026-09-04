@@ -1,0 +1,46 @@
+# Verify report
+
+- CHECK 1 FAIL: missing: analysis/README.md, analysis/subjects.json, analysis/registry/aliases.json, analysis/shelf/shelf.jsonl, analysis/shelf/noise.md, analysis/shelf/duplicate.md, analysis/shelf/out-of-scope.md, analysis/shelf/uncategorized.md
+- CHECK 2 FAIL: analysis=0 missing=388 extra=0 card_json=True card_md=True
+- CHECK 3 FAIL: thread.json=0 thread.md=0 non_x=0
+- CHECK 4 FAIL: missing thread-raw for 311 ids (e.g. ['x-2092979866836648104', 'x-2091497597743612379', 'x-2087832615797833807', 'x-2092918452423983363', 'x-2092242135504552118'])
+- CHECK 5 FAIL: lines=0 sorted=True set_match=False
+- CHECK 6 FAIL: |S|=0 missing_files=0 extra_dirs=set()
+- CHECK 7 PASS: batches=20 sizes_diff=1
+- CHECK 8 SKIP: no workers referenced yet
+- CHECK 9 PASS: 
+- CHECK 10 PASS: 
+- CHECK 11 PASS: 
+- CHECK 12 PASS: 
+- CHECK 13 PASS: 
+- CHECK 14 PASS: 
+- CHECK 15 PASS: 
+- CHECK 16 PASS: 
+- CHECK 17 PASS: 
+- CHECK 18 PASS: 
+- CHECK 19 PASS: 
+- CHECK 20 PASS: 
+- CHECK 21 PASS: null_count=0
+- CHECK 22 PASS: 
+- CHECK 23 PASS: 
+- CHECK 24 PASS: 
+- CHECK 25 PASS: 
+- CHECK 26 PASS: 
+- CHECK 27 PASS: failed=0
+- CHECK 28 PASS: 
+- CHECK 29 PASS: 
+- CHECK 30 PASS: 
+- CHECK 31 PASS: 
+- CHECK 32 PASS: sum=0
+- CHECK 33 PASS: 
+- CHECK 34 PASS: 
+- CHECK 35 PASS: 
+- CHECK 36 PASS: shelf=0 uncategorized=0
+- CHECK 37 PASS: 
+- CHECK 38 PASS: 
+- CHECK 39 FAIL: banned hub Research; banned hub Comments / thread; banned hub Replies; AGENTS.md missing analysis/ reference
+- CHECK 40 SKIP: SAMPLE analyze ids: 
+- CHECK 41 SKIP: SAMPLE shelf ids: 
+- CHECK 42 FAIL: missing: ['catalog/README.md', 'SCHEMA.md', 'AGENTS.md', 'README.md']
+- CHECK 43 PASS: 
+- CHECK 44 FAIL: working tree not clean

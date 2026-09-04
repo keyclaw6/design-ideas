@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2087905319255257296",
+  "tweet_id": "2087905319255257296",
+  "root_author_handle": "top3dai",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 2,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 1,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088028607545508209",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T22:23:08Z",
+      "text": "@top3dai Love this blind battles make it fair. Excited to see who wins",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 101
+      },
+      "parent_id": "2087905319255257296",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/top3dai/status/2087905319255257296",
+      "outcome": "ok",
+      "note": "html_bytes=138440 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/top3dai/status/2087905319255257296",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087905319255257296/thread-raw/x-web-dom-20260904T175307Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

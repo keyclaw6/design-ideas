@@ -1,0 +1,124 @@
+{
+  "schema_version": "1",
+  "id": "x-2090098441200517416",
+  "tweet_id": "2090098441200517416",
+  "root_author_handle": "MiniMax_AI",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 16,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 13,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2090146459866083736",
+      "author_handle": "unknown",
+      "created_at": "2026-08-19T18:38:43Z",
+      "text": "@MiniMax_AI Why are you promoting Runwayml \"Unlimited\" scams?\n\n It's for 4 days of \"unlimited\"\nhttps://t.co/dKY8Rb4a4S https://t.co/qRJ6g5yL6N",
+      "text_en": null,
+      "urls": [
+        "https://t.co/dKY8Rb4a4S",
+        "https://t.co/qRJ6g5yL6N"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 540
+      },
+      "parent_id": "2090098441200517416",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2090198065932013964",
+      "author_handle": "unknown",
+      "created_at": "2026-08-19T22:03:47Z",
+      "text": "@MiniMax_AI Nope, it's not. It says \"You need to upgrade to generate a video\".\n\nDisappointed",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 274
+      },
+      "parent_id": "2090098441200517416",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2090114310135574884",
+      "author_handle": "unknown",
+      "created_at": "2026-08-19T16:30:58Z",
+      "text": "@MiniMax_AI Fool me once….",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 231
+      },
+      "parent_id": "2090098441200517416",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090090516151243063",
+      "author_handle": "MiniMax_AI",
+      "created_at": "2026-08-19T14:56:25Z",
+      "text": "MiniMax H3 is now unlimited on Runway.\n\nFor a limited time, Max plan users can generate as much as they want with no caps, no counting, just unlimited access to one of the best video models available. Get started now at the link below. https://t.co/5mx6XHOlZj",
+      "text_en": null,
+      "urls": [
+        "https://t.co/5mx6XHOlZj"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/MiniMax_AI/status/2090098441200517416",
+      "outcome": "ok",
+      "note": "html_bytes=211318 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/MiniMax_AI/status/2090098441200517416",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090098441200517416/thread-raw/x-web-dom-20260904T175314Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

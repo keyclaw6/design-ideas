@@ -1,0 +1,68 @@
+{
+  "root_id": "2088308976278790258",
+  "reply_count_reported": 4,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2088308976278790258",
+      "author_handle": null,
+      "created_at": "2026-08-14T16:57:13Z",
+      "text": "If you've ever had a hardware idea and just... didn't build it because CAD felt like a wall - this hexacopter is what happens when that wall isn't there anymore. Built in https://t.co/roV6BbcdVx .\n\n#TextToCAD #Hexacopter https://t.co/B7A07CUyQd",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 103,
+        "replies": 4,
+        "reposts": 13,
+        "views": 5402,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/roV6BbcdVx",
+        "https://t.co/B7A07CUyQd"
+      ]
+    },
+    {
+      "id": "2088310111270015001",
+      "author_handle": null,
+      "created_at": "2026-08-14T17:01:44Z",
+      "text": "Rendered. https://t.co/D5WsdkEmLA",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 239,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/D5WsdkEmLA"
+      ]
+    },
+    {
+      "id": "2088320961971900735",
+      "author_handle": null,
+      "created_at": "2026-08-14T17:44:51Z",
+      "text": "@CadX_Studio I would definitely check this out",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 78,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2088308976278790258",
+    "2088310111270015001",
+    "2088320961971900735"
+  ],
+  "item_id": "x-2088308976278790258",
+  "handle": "CadX_Studio",
+  "http_status": 200,
+  "url": "https://x.com/CadX_Studio/status/2088308976278790258",
+  "html_bytes": 168726,
+  "raw_path": "raw/items/x-2088308976278790258/thread-raw/x-web-dom-20260904T175309Z.html"
+}

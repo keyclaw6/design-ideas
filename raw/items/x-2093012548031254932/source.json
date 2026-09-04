@@ -1,0 +1,24 @@
+{
+  "id": "x-2093012548031254932",
+  "url": "https://x.com/matiNotFound/status/2093012548031254932",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:53Z",
+  "title": "About 7 months ago, I started designing a WebGPU library to ship performant shaders at Vercel. Today, we are announcing ",
+  "authors": [
+    "@matiNotFound"
+  ],
+  "topics": [
+    "three-js",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2093012548031254932",
+    "author_handle": "matiNotFound",
+    "category_note": "vgpu: WebGPU lib designed for agents"
+  }
+}

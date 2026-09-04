@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "id": "x-2094984529853530345",
+  "tweet_id": "2094984529853530345",
+  "root_author_handle": "himanshubuildss",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 5,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 4,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095165152492761514",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T15:01:13Z",
+      "text": "@himanshubuildss Looks unique!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 141
+      },
+      "parent_id": "2094984529853530345",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2094984533078876523",
+      "author_handle": "himanshubuildss",
+      "created_at": "2026-09-02T03:03:30Z",
+      "text": "The multi-agent pipeline:  \n\n1️⃣ Assets: Pinterest for UI reference + ChatGPT to generate the neural-interface subject.  \n2️⃣ Cinematic Motion: Google Gemini to animate the still portrait into a fluid video.  \n3️⃣ Extraction: Ezgif to slice the video into 300 sequential frames",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 495
+      }
+    },
+    {
+      "id": "2094984535503204553",
+      "author_handle": "himanshubuildss",
+      "created_at": "2026-09-02T03:03:30Z",
+      "text": "You don’t have to spend hours fighting with AI to recreate this.  \n\nI packaged the entire architecture—the Framer Motion math, the scroll choreography, and the exact Claude prompts—into a single blueprint.  \n\nCheck Link in Bio ✌️",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 379
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/himanshubuildss/status/2094984529853530345",
+      "outcome": "ok",
+      "note": "html_bytes=186464 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/himanshubuildss/status/2094984529853530345",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094984529853530345/thread-raw/x-web-dom-20260904T175335Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

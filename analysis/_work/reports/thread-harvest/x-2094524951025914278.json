@@ -1,0 +1,63 @@
+{
+  "root_id": "2094524951025914278",
+  "reply_count_reported": 13,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2094603606607761556",
+      "author_handle": null,
+      "created_at": "2026-09-01T01:49:50Z",
+      "text": "@olavlj The vine is what got me. Tiny detail, but it made the page feel like it was pulling me forward instead of just sitting there waiting to be read.\n\nThat's the whole point. Pretty is cheap now. Alive is not.\n\nStealing the \"would they say wow on first scroll?\" test for my next site.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 863,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094535804223647781",
+      "author_handle": null,
+      "created_at": "2026-08-31T21:20:24Z",
+      "text": "@olavlj The flower selector is such a tiny detail, but one I truly love🌹",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 560,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094640770271547471",
+      "author_handle": null,
+      "created_at": "2026-09-01T04:17:30Z",
+      "text": "@olavlj Fantastic design, and thanks for the article!  The vine animation is absolutely stunning.  I had never heard of DiceBear.  Would love it if you elaborated some more on how you did the vine animation.  Bravo.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 403,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094535804223647781",
+    "2094603606607761556",
+    "2094640770271547471"
+  ],
+  "item_id": "x-2094524951025914278",
+  "handle": "olavlj",
+  "http_status": 200,
+  "url": "https://x.com/olavlj/status/2094524951025914278",
+  "html_bytes": 311248,
+  "raw_path": "raw/items/x-2094524951025914278/thread-raw/x-web-dom-20260904T175333Z.html"
+}

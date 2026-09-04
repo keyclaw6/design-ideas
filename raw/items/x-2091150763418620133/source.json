@@ -1,0 +1,22 @@
+{
+  "id": "x-2091150763418620133",
+  "url": "https://x.com/akshay_pachaar/status/2091150763418620133",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:39Z",
+  "title": "UC Berkeley just open-sourced FreeToken. (2–4x faster local LLM inference than Ollama) the results are wild: - Qwen3.6-3",
+  "authors": [
+    "@akshay_pachaar"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2091150763418620133",
+    "author_handle": "akshay_pachaar",
+    "filtered": true,
+    "category_note": "Duplicate FreeToken inference writeup; no matching topic slug"
+  }
+}

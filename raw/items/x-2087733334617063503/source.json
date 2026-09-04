@@ -1,0 +1,27 @@
+{
+  "id": "x-2087733334617063503",
+  "url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:37Z",
+  "title": "Agent Plugins: Build it once, use it everywhere.",
+  "authors": [
+    "Google Cloud Tech (@GoogleCloudTech)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087733334617063503",
+    "author_handle": "GoogleCloudTech",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:37:02Z",
+    "related_items": [
+      "x-2087569590268391897",
+      "github-emilkowalski-skills",
+      "github-punkpeye-awesome-mcp-servers"
+    ],
+    "filtered": true,
+    "category_note": "Slogan-only GCP marketing; no artifact"
+  }
+}

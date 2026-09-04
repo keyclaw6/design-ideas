@@ -1,0 +1,67 @@
+{
+  "root_id": "2095482056180638142",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095482056180638142",
+      "author_handle": null,
+      "created_at": "2026-09-03T12:00:29Z",
+      "text": "Fabel 5.1 cooked it.\n\nTry the prompt yourself👇 https://t.co/j6DrnXUvbk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 58,
+        "replies": 4,
+        "reposts": 1,
+        "views": 2629,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/j6DrnXUvbk"
+      ]
+    },
+    {
+      "id": "2095482280185876486",
+      "author_handle": null,
+      "created_at": "2026-09-03T12:01:22Z",
+      "text": "Access all prompts https://t.co/8yqOGQgCZU\n\nThe PROMPT\n\n# Header\n\nA scroll-scrubbed hero header for the LAOUNGE coffee brand, featuring a frame-accurate background video that seeks in sync with scroll and a giant title that shrinks into a floating logo as the user scrolls.\n\n##",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 406,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/8yqOGQgCZU"
+      ]
+    },
+    {
+      "id": "2095536833933300146",
+      "author_handle": null,
+      "created_at": "2026-09-03T15:38:09Z",
+      "text": "@iamtanzil_ Genialne",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 63,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095482056180638142",
+    "2095482280185876486",
+    "2095536833933300146"
+  ],
+  "item_id": "x-2095482056180638142",
+  "handle": "iamtanzil_",
+  "http_status": 200,
+  "url": "https://x.com/iamtanzil_/status/2095482056180638142",
+  "html_bytes": 196839,
+  "raw_path": "raw/items/x-2095482056180638142/thread-raw/x-web-dom-20260904T175339Z.html"
+}

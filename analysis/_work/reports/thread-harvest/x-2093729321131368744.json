@@ -1,0 +1,99 @@
+{
+  "root_id": "2093729321131368744",
+  "reply_count_reported": 9,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093729321131368744",
+      "author_handle": null,
+      "created_at": "2026-08-29T15:55:44Z",
+      "text": "A business followed the recommendations in this article and added over $100,000 in ChatGPT, Google and broader AI search-driven traffic. https://t.co/JiUTuke1cj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 86,
+        "replies": 9,
+        "reposts": 26,
+        "views": 41864,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/JiUTuke1cj"
+      ]
+    },
+    {
+      "id": "2014016570163597443",
+      "author_handle": null,
+      "created_at": "2026-01-21T16:45:43Z",
+      "text": "https://t.co/V1O6b6P8x8",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 148733,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/V1O6b6P8x8"
+      ]
+    },
+    {
+      "id": "2095523871679992308",
+      "author_handle": null,
+      "created_at": "2026-09-03T14:46:38Z",
+      "text": "@alexgroberman It’s valuable! Thanks for sharing",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094434857338507393",
+      "author_handle": null,
+      "created_at": "2026-08-31T14:39:17Z",
+      "text": "@alexgroberman 87% of ChatGPT citations line up with Bing top results. Which means the article that added six figures probably won Bing before it won anything else.\n\nThe tell would be Bing URL Inspection showing crawled and indexed on the pages that spiked. Anyone testing this: check Bing",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 12,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094084420571705420",
+      "author_handle": null,
+      "created_at": "2026-08-30T15:26:46Z",
+      "text": "@alexgroberman Applied one of your teardowns to a fiber-careers site 6 weeks ago. Zero ChatGPT citations before. Rewrote the top career pages with the entity plus FAQ plus structured-data pass. Now 5 of the last 7 job applicants name ChatGPT as the source. Google sent 1 click in the same 7",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 34,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2014016570163597443",
+    "2093729321131368744",
+    "2094084420571705420",
+    "2094434857338507393",
+    "2095523871679992308"
+  ],
+  "item_id": "x-2093729321131368744",
+  "handle": "alexgroberman",
+  "http_status": 200,
+  "url": "https://x.com/alexgroberman/status/2093729321131368744",
+  "html_bytes": 202845,
+  "raw_path": "raw/items/x-2093729321131368744/thread-raw/x-web-dom-20260904T175329Z.html"
+}

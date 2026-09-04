@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2091118605392019658",
+  "tweet_id": "2091118605392019658",
+  "root_author_handle": "simplifyinAI",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 11,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 3,
+  "replies_dropped_unfetched": 8,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091160692061864125",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T13:48:55Z",
+      "text": "@simplifyinAI Actually this is outdated information especially with fable class models. Step by step or explain your reasoning worsens the process.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "views": 300
+      },
+      "parent_id": "2091118605392019658",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "recipe",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091405742393753876",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T06:02:40Z",
+      "text": "@simplifyinAI This is extremely stupid information. It's from 2022 on DaVinci002. LLMs in 2026 are reasoning models. Unless you use gpt4 still this is useless information actually wasting tokens. Just get better at talking to agents.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 148
+      },
+      "parent_id": "2091118605392019658",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "correction",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091403022685327701",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T05:51:51Z",
+      "text": "@simplifyinAI Something's wrong with your word count there.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 107
+      },
+      "parent_id": "2091118605392019658",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "correction",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/simplifyinAI/status/2091118605392019658",
+      "outcome": "ok",
+      "note": "html_bytes=195437 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/simplifyinAI/status/2091118605392019658",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091118605392019658/thread-raw/x-web-dom-20260904T175315Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

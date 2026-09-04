@@ -1,0 +1,41 @@
+{
+  "id": "web-crowdreply",
+  "url": "https://crowdreply.io",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:56:00Z",
+  "title": "CrowdReply \u2014 AI search visibility platform",
+  "authors": [
+    "CrowdReply"
+  ],
+  "topics": [
+    "seo-agents",
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/Crowdreply_io/status/2094553318031024285",
+    "https://crowdreply.io/mcp",
+    "https://crowdreply.io/features/citation-outreach",
+    "https://mcp.crowdreply.io/mcp",
+    "https://crowdreply.io/signup",
+    "https://crowdreply.io/pricing"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "mcp_endpoint": "https://mcp.crowdreply.io/mcp",
+    "mcp_probe_status": "401 Unauthorized (no API key)",
+    "mcp_tool_count": "18+",
+    "g2_rating": 4.9,
+    "customer_count": "5,000+ brands",
+    "fetch": "r.jina.ai landing + /mcp + /features/citation-outreach; curl MCP endpoint",
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-known-agency",
+      "web-nqz-ai-search-prompt-generator",
+      "web-seowins-io",
+      "github-superdesigndev-treg"
+    ],
+    "category_note": "AEO/citation visibility platform + MCP (18+ tools). Landing HTML not on disk."
+  }
+}

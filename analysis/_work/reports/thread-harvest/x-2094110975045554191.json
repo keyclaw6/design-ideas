@@ -1,0 +1,85 @@
+{
+  "root_id": "2094110975045554191",
+  "reply_count_reported": 18,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094110975045554191",
+      "author_handle": null,
+      "created_at": "2026-08-30T17:12:17Z",
+      "text": "everyone showing off their six agent company is showing off one login.\n\nI counted what mine actually did in twenty minutes. 23,999 actions. Peak rate 38 per second. Six bots on the board.\n\nOne profile.\n\nThat is the whole thing. Six names in a sidebar, one browser session https://t.co/YVWPbF6Ej7",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 75,
+        "replies": 18,
+        "reposts": 4,
+        "views": 4467,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/YVWPbF6Ej7"
+      ]
+    },
+    {
+      "id": "2091898304900571501",
+      "author_handle": null,
+      "created_at": "2026-08-24T14:39:56Z",
+      "text": "https://t.co/K5FnOQbTdA",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 4084156,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/K5FnOQbTdA"
+      ]
+    },
+    {
+      "id": "2094119072971608125",
+      "author_handle": null,
+      "created_at": "2026-08-30T17:44:28Z",
+      "text": "my github: https://t.co/o6HgHkP2Vg",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "views": 354,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/o6HgHkP2Vg"
+      ]
+    },
+    {
+      "id": "2094111946425442783",
+      "author_handle": null,
+      "created_at": "2026-08-30T17:16:09Z",
+      "text": "@0xfini thats a lot of actions for one profile ngl",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 48,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091898304900571501",
+    "2094110975045554191",
+    "2094111946425442783",
+    "2094119072971608125"
+  ],
+  "item_id": "x-2094110975045554191",
+  "handle": "0xfini",
+  "http_status": 200,
+  "url": "https://x.com/0xfini/status/2094110975045554191",
+  "html_bytes": 216088,
+  "raw_path": "raw/items/x-2094110975045554191/thread-raw/x-web-dom-20260904T175331Z.html"
+}

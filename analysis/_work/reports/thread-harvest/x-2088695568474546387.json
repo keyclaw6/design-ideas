@@ -1,0 +1,67 @@
+{
+  "root_id": "2088695568474546387",
+  "reply_count_reported": 22,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2088695568474546387",
+      "author_handle": null,
+      "created_at": "2026-08-15T18:33:24Z",
+      "text": "🚨 BREAKING: \n\nDeepSeek-V4-Flash-0731-Fast⚡️ is live on @vercel AI Gateway!\n\npick @wafer_ai as your provider  \n\n(ss taken 8.15.26) https://t.co/Cs9M4Ap3EY",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 175,
+        "replies": 22,
+        "reposts": 7,
+        "views": 40885,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/Cs9M4Ap3EY"
+      ]
+    },
+    {
+      "id": "2088707780161274243",
+      "author_handle": null,
+      "created_at": "2026-08-15T19:21:55Z",
+      "text": "@vercel see here: https://t.co/IwRnnPMnPS",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1970,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/IwRnnPMnPS"
+      ]
+    },
+    {
+      "id": "2088696588541755635",
+      "author_handle": null,
+      "created_at": "2026-08-15T18:37:27Z",
+      "text": "@wafer_ai @vercel tpsmaxxing",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 515,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2088695568474546387",
+    "2088696588541755635",
+    "2088707780161274243"
+  ],
+  "item_id": "x-2088695568474546387",
+  "handle": "wafer_ai",
+  "http_status": 200,
+  "url": "https://x.com/wafer_ai/status/2088695568474546387",
+  "html_bytes": 182562,
+  "raw_path": "raw/items/x-2088695568474546387/thread-raw/x-web-dom-20260904T175311Z.html"
+}

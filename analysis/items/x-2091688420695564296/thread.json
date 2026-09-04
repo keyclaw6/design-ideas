@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2091688420695564296",
+  "tweet_id": "2091688420695564296",
+  "root_author_handle": "_adishj",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 5,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091920549341753785",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T16:08:19Z",
+      "text": "@_adishj I need a whole tutorial on how that works. Really want to play!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 81
+      },
+      "parent_id": "2091688420695564296",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091883501205234075",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T13:41:06Z",
+      "text": "@_adishj \"can you believe that every pixel here is fully editable?\"\n\nI'll be honest, i don't even know what that means, but sick video.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 30
+      },
+      "parent_id": "2091688420695564296",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091881012569485697",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T13:31:13Z",
+      "text": "@_adishj So sick!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 80
+      },
+      "parent_id": "2091688420695564296",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/_adishj/status/2091688420695564296",
+      "outcome": "ok",
+      "note": "html_bytes=201961 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/_adishj/status/2091688420695564296",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091688420695564296/thread-raw/x-web-dom-20260904T175319Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

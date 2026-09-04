@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2087208634493095978",
+  "tweet_id": "2087208634493095978",
+  "root_author_handle": "tom_doerr",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 1,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087326166369869970",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T23:51:53Z",
+      "text": "@tom_doerr Interesting to see version-control style memory (snapshots/branches).\nWe took a different route in SodaMem — temporal validity with valid_from / valid_until and SUPERSEDES links, so old versions stay readable instead of being rewritten.\nEvery memory also points back to the exact",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 36
+      },
+      "parent_id": "2087208634493095978",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    },
+    {
+      "id": "2087263697777611068",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T19:43:39Z",
+      "text": "@tom_doerr merging is the strange part. detecting a contradiction is easy next to deciding which branch was right.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 22
+      },
+      "parent_id": "2087208634493095978",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087238234614968811",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T18:02:28Z",
+      "text": "@tom_doerr Campfire works at the layer beneath memory: the actual execution state. Instead of persisting memory across sessions, we fork the entire session using git worktrees. Each fork is a branch: a snapshot of the codebase at that moment, plus the full JSONL trace of what the agent did",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 37
+      },
+      "parent_id": "2087208634493095978",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087322314820268058",
+      "author_handle": "tom_doerr",
+      "created_at": "2026-08-11T23:36:35Z",
+      "text": "🧵 Just open-sourced SodaMem — a continuously learning agentic memory system for AI agents.\nIt does more than store and retrieve.\nIt can plan how to recall, trace claims back to the original conversation turns, and track when a fact is still valid or has been superseded.\nIf https://t.co/UAo4x4ivBV",
+      "text_en": null,
+      "urls": [
+        "https://t.co/UAo4x4ivBV"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 4523
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/tom_doerr/status/2087208634493095978",
+      "outcome": "ok",
+      "note": "html_bytes=222968 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/tom_doerr/status/2087208634493095978",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087208634493095978/thread-raw/x-web-dom-20260904T175304Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

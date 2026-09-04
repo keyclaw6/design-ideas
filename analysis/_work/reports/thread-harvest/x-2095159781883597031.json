@@ -1,0 +1,65 @@
+{
+  "root_id": "2095159781883597031",
+  "reply_count_reported": 3,
+  "quote_count_reported": 6,
+  "tweets": [
+    {
+      "id": "2095159781883597031",
+      "author_handle": null,
+      "created_at": "2026-09-02T14:39:52Z",
+      "text": "Blender MCPでFable 5.1を使い、右のエクイレクタングラー方式の都市パノラマ画像をリソースとして都市を構築させたところ、一発でこの情報量のモデルが完成。\n\nこれを手作業で作れと言われたら、3人日はかかるかな……。 https://t.co/xAOhWn2Psr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 216,
+        "replies": 3,
+        "reposts": 17,
+        "views": 19655,
+        "quotes": 6
+      },
+      "urls": [
+        "https://t.co/xAOhWn2Psr"
+      ]
+    },
+    {
+      "id": "2095320080422932885",
+      "author_handle": null,
+      "created_at": "2026-09-03T01:16:50Z",
+      "text": "@hayashimon1 自動生成でここまで再現できるなんて、ツールの進化がすごい。手作業との比較が具体的で、可能性を感じさせるね。",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 719,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095282845929685363",
+      "author_handle": null,
+      "created_at": "2026-09-02T22:48:53Z",
+      "text": "@hayashimon1 ふぇええ👀 スゴイなぁ。",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 955,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095159781883597031",
+    "2095282845929685363",
+    "2095320080422932885"
+  ],
+  "item_id": "x-2095159781883597031",
+  "handle": "hayashimon1",
+  "http_status": 200,
+  "url": "https://x.com/hayashimon1/status/2095159781883597031",
+  "html_bytes": 170225,
+  "raw_path": "raw/items/x-2095159781883597031/thread-raw/x-web-dom-20260904T175336Z.html"
+}

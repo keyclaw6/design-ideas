@@ -1,0 +1,51 @@
+{
+  "root_id": "2087832615797833807",
+  "reply_count_reported": 1,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087832615797833807",
+      "author_handle": null,
+      "created_at": "2026-08-13T09:24:20Z",
+      "text": "Homieeee... This feels like finding a shovel during a gold rush. 🌋\n\nA stunning collection of UI components built specifically for AI-native apps.\n\nThinking states, streaming text, approval cards, tool chips, task rows, chat, prompt bars, context cards, diff tables, and more. https://t.co/agCawBHx5S",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 134,
+        "replies": 1,
+        "reposts": 15,
+        "views": 7451,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/agCawBHx5S"
+      ]
+    },
+    {
+      "id": "2088125265268383892",
+      "author_handle": null,
+      "created_at": "2026-08-14T04:47:13Z",
+      "text": "@rammcodes https://t.co/SVFuO9T6Qm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 248,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/SVFuO9T6Qm"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2087832615797833807",
+    "2088125265268383892"
+  ],
+  "item_id": "x-2087832615797833807",
+  "handle": "rammcodes",
+  "http_status": 200,
+  "url": "https://x.com/rammcodes/status/2087832615797833807",
+  "html_bytes": 140128,
+  "raw_path": "raw/items/x-2087832615797833807/thread-raw/x-web-dom-20260904T175307Z.html"
+}

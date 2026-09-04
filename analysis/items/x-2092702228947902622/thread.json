@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2092702228947902622",
+  "tweet_id": "2092702228947902622",
+  "root_author_handle": "RenLeanna",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 16,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 13,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093042098547388430",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T18:24:57Z",
+      "text": "@RenLeanna @MiniMaxAgent This is a kind of Blender viewport, wow gonna trying this out",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 48
+      },
+      "parent_id": "2092702228947902622",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2092941421787439487",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T11:44:54Z",
+      "text": "@RenLeanna @MiniMaxAgent nice, I did 3d referencing with seedance 2.5 - also works great",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 70
+      },
+      "parent_id": "2092702228947902622",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2092703140739178709",
+      "author_handle": "unknown",
+      "created_at": "2026-08-26T19:58:03Z",
+      "text": "@RenLeanna @MiniMaxAgent Don't hype me to try it lol\n\nI'll do it",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 177
+      },
+      "parent_id": "2092702228947902622",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/RenLeanna/status/2092702228947902622",
+      "outcome": "ok",
+      "note": "html_bytes=196263 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/RenLeanna/status/2092702228947902622",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092702228947902622/thread-raw/x-web-dom-20260904T175323Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

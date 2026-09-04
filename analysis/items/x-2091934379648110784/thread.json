@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2091934379648110784",
+  "tweet_id": "2091934379648110784",
+  "root_author_handle": "ImranUxi",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 22,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 5,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 19,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092138486329692494",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T06:34:19Z",
+      "text": "@ImranUxi 2000+ 设计系统喂给 agent 之前，建议先挑 3-5 个和你产品气质最像的做成 .claude/CLAUDE.md 或 project instructions，而不是一次性全塞。agent 吃设计规范的关键是「少而一致」，多了反而互相打架。",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "views": 731
+      },
+      "parent_id": "2091934379648110784",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2092081354481791230",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T02:47:18Z",
+      "text": "@ImranUxi Two thousand real design files is a serious head start for agents.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1895
+      },
+      "parent_id": "2091934379648110784",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091987778435452956",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T20:35:28Z",
+      "text": "@ImranUxi We use this everyday at Rantir",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 929
+      },
+      "parent_id": "2091934379648110784",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ImranUxi/status/2091934379648110784",
+      "outcome": "ok",
+      "note": "html_bytes=190218 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ImranUxi/status/2091934379648110784",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091934379648110784/thread-raw/x-web-dom-20260904T175320Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

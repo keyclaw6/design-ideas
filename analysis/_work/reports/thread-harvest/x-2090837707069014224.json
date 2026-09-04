@@ -1,0 +1,65 @@
+{
+  "root_id": "2090837707069014224",
+  "reply_count_reported": 68,
+  "quote_count_reported": 44,
+  "tweets": [
+    {
+      "id": "2090837707069014224",
+      "author_handle": null,
+      "created_at": "2026-08-21T16:25:29Z",
+      "text": "UA spoofing is back on baby, for only $0.00 you too can be OpenAI File Downloader, XaiImageApiFetch/1.0\n\nSome sites like LinkedIn even remove their click-bait/paywall garbage if you're Claude-User https://t.co/ti2VbZetVW",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3668,
+        "replies": 68,
+        "reposts": 208,
+        "views": 733208,
+        "quotes": 44
+      },
+      "urls": [
+        "https://t.co/ti2VbZetVW"
+      ]
+    },
+    {
+      "id": "2090846367824363850",
+      "author_handle": null,
+      "created_at": "2026-08-21T16:59:54Z",
+      "text": "* im sure some of the edge gateways are smarter and check TLS fingerprints etc. -&gt; table above doesn't reflect all you can do w/ it as I didn't try that hard\npoint is more so that it seems no one adopted the signed bots thingy CF came up with and you can 100% roleplay as clawd",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 177,
+        "replies": 2,
+        "reposts": 1,
+        "views": 36075,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090839581251797044",
+      "author_handle": null,
+      "created_at": "2026-08-21T16:32:56Z",
+      "text": "@_can1357 I'd halfmost have gatekept this but the people need to know",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 98,
+        "replies": 1,
+        "reposts": 0,
+        "views": 28349,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090837707069014224",
+    "2090839581251797044",
+    "2090846367824363850"
+  ],
+  "item_id": "x-2090837707069014224",
+  "handle": "_can1357",
+  "http_status": 200,
+  "url": "https://x.com/_can1357/status/2090837707069014224",
+  "html_bytes": 149974,
+  "raw_path": "raw/items/x-2090837707069014224/thread-raw/x-web-dom-20260904T175315Z.html"
+}

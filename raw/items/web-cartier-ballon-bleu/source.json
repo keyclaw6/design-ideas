@@ -1,0 +1,31 @@
+{
+  "id": "web-cartier-ballon-bleu",
+  "url": "https://www.cartier.com/en-dk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRWSBB0049",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "Ballon Bleu de Cartier watch CRWSBB0049",
+  "authors": [
+    "Cartier"
+  ],
+  "topics": [
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://www.cartier.com/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "product_ref": "CRWSBB0049",
+    "price_region": "en-dk",
+    "related_items": [
+      "web-utsubo",
+      "web-oryzo-ai",
+      "github-nateherkai-scroll-craft",
+      "web-checklist-design",
+      "web-recent-design"
+    ],
+    "category_note": "Luxury PDP reference: motion guide, engraving, bracelet fit."
+  }
+}

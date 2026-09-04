@@ -1,0 +1,89 @@
+{
+  "root_id": "2093986548404428942",
+  "reply_count_reported": 18,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2093986548404428942",
+      "author_handle": null,
+      "created_at": "2026-08-30T08:57:52Z",
+      "text": "3 websites every AI filmmaker should bookmark:\n\n🎥 https://t.co/X0fFWEiuuY — camera techniques\n\n🎨 https://t.co/aVoWRSA1OV — curated moodboard inspiration\n\n✨ https://t.co/sdOhH4riC4 — FREE 2× video upscaling, no login\n\nActually useful. Actually free. https://t.co/8EVSvddvKV",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1167,
+        "replies": 18,
+        "reposts": 216,
+        "views": 55723,
+        "quotes": 5
+      },
+      "urls": [
+        "https://t.co/X0fFWEiuuY",
+        "https://t.co/aVoWRSA1OV",
+        "https://t.co/sdOhH4riC4",
+        "https://t.co/8EVSvddvKV"
+      ]
+    },
+    {
+      "id": "2093987426108645434",
+      "author_handle": null,
+      "created_at": "2026-08-30T09:01:21Z",
+      "text": "https://t.co/WU3iWPMa0G",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 18,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2846,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/WU3iWPMa0G"
+      ]
+    },
+    {
+      "id": "2074512989122687171",
+      "author_handle": null,
+      "created_at": "2026-07-07T15:16:53Z",
+      "text": "AI Filmmakers,\n\nWe’re building the AI filmmaking library we wish we had when we started.\n\nEvery tool we share is meant to save you hours of searching.\n\nBookmark this now. You probably won’t find it again when you actually need it.\n\nhttps://t.co/jmnlATveUW https://t.co/OLNqCbyCwN",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 172299,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/jmnlATveUW",
+        "https://t.co/OLNqCbyCwN"
+      ]
+    },
+    {
+      "id": "2094293502129476080",
+      "author_handle": null,
+      "created_at": "2026-08-31T05:17:35Z",
+      "text": "@Ragu_Cinema You're so good with digging out websites for us Ragu 😌🔥",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 97,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2074512989122687171",
+    "2093986548404428942",
+    "2093987426108645434",
+    "2094293502129476080"
+  ],
+  "item_id": "x-2093986548404428942",
+  "handle": "Ragu_Cinema",
+  "http_status": 200,
+  "url": "https://x.com/Ragu_Cinema/status/2093986548404428942",
+  "html_bytes": 183960,
+  "raw_path": "raw/items/x-2093986548404428942/thread-raw/x-web-dom-20260904T175330Z.html"
+}

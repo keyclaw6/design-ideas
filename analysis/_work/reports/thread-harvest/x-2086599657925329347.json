@@ -1,0 +1,83 @@
+{
+  "root_id": "2086599657925329347",
+  "reply_count_reported": 15,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2086599657925329347",
+      "author_handle": null,
+      "created_at": "2026-08-09T23:45:00Z",
+      "text": "Claude can now build 3D websites and most people still don't know how.\n\nThis free 1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with AI.\n\nhttps://t.co/U65dxxUIfB",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 247,
+        "replies": 15,
+        "reposts": 18,
+        "views": 57115,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/U65dxxUIfB"
+      ]
+    },
+    {
+      "id": "2086633001396424704",
+      "author_handle": null,
+      "created_at": "2026-08-10T01:57:29Z",
+      "text": "@RoundtableSpace LEARN TO BUILD $30,000 3D WEBSITES FOR FREE\n1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with  \nCLAUDE AI.\nhttps://t.co/Xox8VfhCVC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 213,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Xox8VfhCVC"
+      ]
+    },
+    {
+      "id": "2086607481178837262",
+      "author_handle": null,
+      "created_at": "2026-08-10T00:16:05Z",
+      "text": "@RoundtableSpace Claude can draft 3D site code, but turning it into a performant web experience still needs WebGL/Three.js know‑how and optimization.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 196,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2086600261351407713",
+      "author_handle": null,
+      "created_at": "2026-08-09T23:47:24Z",
+      "text": "@RoundtableSpace There's nothing Claude can't do right now",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 428,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086599657925329347",
+    "2086600261351407713",
+    "2086607481178837262",
+    "2086633001396424704"
+  ],
+  "item_id": "x-2086599657925329347",
+  "handle": "RoundtableSpace",
+  "http_status": 200,
+  "url": "https://x.com/RoundtableSpace/status/2086599657925329347",
+  "html_bytes": 218234,
+  "raw_path": "raw/items/x-2086599657925329347/thread-raw/x-web-dom-20260904T175302Z.html"
+}

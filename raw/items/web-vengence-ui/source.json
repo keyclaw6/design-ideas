@@ -1,0 +1,36 @@
+{
+  "id": "web-vengence-ui",
+  "url": "https://www.vengenceui.com/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Vengeance UI",
+  "authors": [
+    "Ashutoshx7"
+  ],
+  "topics": [
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://www.vengeanceui.com/",
+    "https://github.com/Ashutoshx7/VengeanceUI"
+  ],
+  "media": [
+    "media/favicon.ico",
+    "media/logo.png"
+  ],
+  "unsaved": false,
+  "extra": {
+    "note": "vengenceui.com redirects/resolves same as vengeanceui.com",
+    "components": 46,
+    "cli": "npx shadcn@latest add @vengeanceui/[component]",
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "github-emilkowalski-skills",
+      "github-nateherkai-scroll-craft",
+      "web-feralui-dev"
+    ],
+    "category_note": "Open-source animated React marketing components; shadcn registry (typo URL)."
+  }
+}

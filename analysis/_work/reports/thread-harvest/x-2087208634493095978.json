@@ -1,0 +1,100 @@
+{
+  "root_id": "2087208634493095978",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087208634493095978",
+      "author_handle": null,
+      "created_at": "2026-08-11T16:04:51Z",
+      "text": "Version controls AI agent memory with snapshots, branches, and merges\n\nhttps://t.co/8Ytk2vEEGP https://t.co/MMntvUtZHR",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 70,
+        "replies": 4,
+        "reposts": 4,
+        "views": 6335,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/8Ytk2vEEGP",
+        "https://t.co/MMntvUtZHR"
+      ]
+    },
+    {
+      "id": "2087326166369869970",
+      "author_handle": null,
+      "created_at": "2026-08-11T23:51:53Z",
+      "text": "@tom_doerr Interesting to see version-control style memory (snapshots/branches).\nWe took a different route in SodaMem — temporal validity with valid_from / valid_until and SUPERSEDES links, so old versions stay readable instead of being rewritten.\nEvery memory also points back to the exact",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 36,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087322314820268058",
+      "author_handle": "tom_doerr",
+      "created_at": "2026-08-11T23:36:35Z",
+      "text": "🧵 Just open-sourced SodaMem — a continuously learning agentic memory system for AI agents.\nIt does more than store and retrieve.\nIt can plan how to recall, trace claims back to the original conversation turns, and track when a fact is still valid or has been superseded.\nIf https://t.co/UAo4x4ivBV",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 4523,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/UAo4x4ivBV"
+      ]
+    },
+    {
+      "id": "2087263697777611068",
+      "author_handle": null,
+      "created_at": "2026-08-11T19:43:39Z",
+      "text": "@tom_doerr merging is the strange part. detecting a contradiction is easy next to deciding which branch was right.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 22,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087238234614968811",
+      "author_handle": null,
+      "created_at": "2026-08-11T18:02:28Z",
+      "text": "@tom_doerr Campfire works at the layer beneath memory: the actual execution state. Instead of persisting memory across sessions, we fork the entire session using git worktrees. Each fork is a branch: a snapshot of the codebase at that moment, plus the full JSONL trace of what the agent did",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 37,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087208634493095978",
+    "2087238234614968811",
+    "2087263697777611068",
+    "2087322314820268058",
+    "2087326166369869970"
+  ],
+  "item_id": "x-2087208634493095978",
+  "handle": "tom_doerr",
+  "http_status": 200,
+  "url": "https://x.com/tom_doerr/status/2087208634493095978",
+  "html_bytes": 222968,
+  "raw_path": "raw/items/x-2087208634493095978/thread-raw/x-web-dom-20260904T175304Z.html"
+}

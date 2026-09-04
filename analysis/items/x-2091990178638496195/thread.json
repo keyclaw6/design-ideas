@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2091990178638496195",
+  "tweet_id": "2091990178638496195",
+  "root_author_handle": "andykonwinski",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 139,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 89,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 136,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092016619665190985",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T22:30:04Z",
+      "text": "@andykonwinski “What should $NAME think about when idle,” is the question I've most thought about in an install wizard.\n\nAlso, love this: https://t.co/Tq2Zxi6It8",
+      "text_en": null,
+      "urls": [
+        "https://t.co/Tq2Zxi6It8"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 21,
+        "replies": 2,
+        "reposts": 0,
+        "views": 7323
+      },
+      "parent_id": "2091990178638496195",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2092005602209722628",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T21:46:17Z",
+      "text": "@andykonwinski i lost you at 10k lines of bash",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 16,
+        "replies": 3,
+        "reposts": 0,
+        "views": 3421
+      },
+      "parent_id": "2091990178638496195",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091999546993955257",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T21:22:14Z",
+      "text": "@andykonwinski while true:",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3896
+      },
+      "parent_id": "2091990178638496195",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/andykonwinski/status/2091990178638496195",
+      "outcome": "ok",
+      "note": "html_bytes=220616 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/andykonwinski/status/2091990178638496195",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091990178638496195/thread-raw/x-web-dom-20260904T175321Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

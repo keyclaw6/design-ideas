@@ -1,0 +1,54 @@
+{
+  "id": "web-arxiv-2603-27476",
+  "url": "https://arxiv.org/abs/2603.27476",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "PeopleSearchBench: Evaluating AI-Powered People Search Platforms",
+  "authors": [
+    "Tianyu Shi",
+    "Wei Wang",
+    "Zequn Xie",
+    "Shuai Zhang",
+    "Boyang Xia",
+    "Chenyu Zeng",
+    "Qi Zhang",
+    "Lynn Ai",
+    "Yaqi Yu",
+    "Kaiming Zhang",
+    "Feiyue Tang",
+    "Zhenyu Yu",
+    "Lei Ding"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://arxiv.org/pdf/2603.27476",
+    "https://arxiv.org/html/2603.27476v3",
+    "https://github.com/LessieAI/people-search-bench",
+    "https://treg.to/people-search",
+    "https://x.com/pmitu/status/2094740953554932149"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "arxiv_id": "2603.27476",
+    "subjects": [
+      "cs.AI",
+      "cs.LG"
+    ],
+    "pages": 25,
+    "doi": "10.48550/arXiv.2603.27476",
+    "venue": "EMNLP 2026 Industry Track",
+    "fetch": "r.jina.ai arxiv abs",
+    "related_items": [
+      "github-LessieAI-people-search-bench",
+      "web-treg-people-search",
+      "github-superdesigndev-treg",
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "github-iannuttall-seo"
+    ],
+    "category_note": "PeopleSearchBench paper (EMNLP 2026 Industry); same bench as Lessie repo."
+  }
+}

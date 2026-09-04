@@ -1,0 +1,81 @@
+{
+  "root_id": "2095060844547592437",
+  "reply_count_reported": 15,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095060844547592437",
+      "author_handle": null,
+      "created_at": "2026-09-02T08:06:44Z",
+      "text": "How do you write lead magnets that go viral on LinkedIn?\n\nIn the last 30 days, our lead magnets have generated over 20,000+ comments across all client accounts.\n\nThe answer isn't simply \"make a better resource\"... at least, not at first.\n\nIn my experience, lead magnets that https://t.co/Kc1d6kdOWP",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 85,
+        "replies": 15,
+        "reposts": 2,
+        "views": 6980,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Kc1d6kdOWP"
+      ]
+    },
+    {
+      "id": "2095079539571368174",
+      "author_handle": null,
+      "created_at": "2026-09-02T09:21:01Z",
+      "text": "@paolo_scales I'd add that the contrary takes are working much better lately \npeople loove to argue",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 137,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095108884604068139",
+      "author_handle": null,
+      "created_at": "2026-09-02T11:17:37Z",
+      "text": "@paolo_scales The hook really is everything",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 97,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095196313692356650",
+      "author_handle": null,
+      "created_at": "2026-09-02T17:05:02Z",
+      "text": "@paolo_scales The comment section is the real payoff here. 12k commenters is an intent list, and most people never work it past the auto-DM.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 8,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095060844547592437",
+    "2095079539571368174",
+    "2095108884604068139",
+    "2095196313692356650"
+  ],
+  "item_id": "x-2095060844547592437",
+  "handle": "paolo_scales",
+  "http_status": 200,
+  "url": "https://x.com/paolo_scales/status/2095060844547592437",
+  "html_bytes": 201609,
+  "raw_path": "raw/items/x-2095060844547592437/thread-raw/x-web-dom-20260904T175336Z.html"
+}

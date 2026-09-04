@@ -1,0 +1,99 @@
+{
+  "root_id": "2093690856637182435",
+  "reply_count_reported": 6,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093690856637182435",
+      "author_handle": null,
+      "created_at": "2026-08-29T13:22:53Z",
+      "text": "How to install a $1,000,000 content system into your personal brand on X + LinkedIn \n\n(bookmark this) https://t.co/rmGoFAlcb3",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 347,
+        "replies": 6,
+        "reposts": 32,
+        "views": 49813,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/rmGoFAlcb3"
+      ]
+    },
+    {
+      "id": "2093369716685295914",
+      "author_handle": null,
+      "created_at": "2026-08-28T16:06:48Z",
+      "text": "https://t.co/LiBojETBdZ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 64019,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/LiBojETBdZ"
+      ]
+    },
+    {
+      "id": "2093773853801750666",
+      "author_handle": null,
+      "created_at": "2026-08-29T18:52:41Z",
+      "text": "@wizofecom Agreed",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 220,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093826077902676052",
+      "author_handle": null,
+      "created_at": "2026-08-29T22:20:13Z",
+      "text": "@wizofecom looks important, bookmarked for later",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 357,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095068432098271609",
+      "author_handle": null,
+      "created_at": "2026-09-02T08:36:53Z",
+      "text": "@wizofecom solid brother",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 19,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093369716685295914",
+    "2093690856637182435",
+    "2093773853801750666",
+    "2093826077902676052",
+    "2095068432098271609"
+  ],
+  "item_id": "x-2093690856637182435",
+  "handle": "wizofecom",
+  "http_status": 200,
+  "url": "https://x.com/wizofecom/status/2093690856637182435",
+  "html_bytes": 214475,
+  "raw_path": "raw/items/x-2093690856637182435/thread-raw/x-web-dom-20260904T175329Z.html"
+}

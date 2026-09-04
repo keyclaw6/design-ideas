@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2091689598883934666",
+  "tweet_id": "2091689598883934666",
+  "root_author_handle": "toolfolio",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 6,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 5,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092013632611664224",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T22:18:12Z",
+      "text": "@toolfolio Nombrar bien el componente cambia el resultado: pedir un segmented control en vez de botones te da el patrón correcto a la primera.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 178
+      },
+      "parent_id": "2091689598883934666",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091689600200880164",
+      "author_handle": "toolfolio",
+      "created_at": "2026-08-24T00:50:37Z",
+      "text": "https://t.co/KYuOOs0GhP",
+      "text_en": null,
+      "urls": [
+        "https://t.co/KYuOOs0GhP"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "reposts": 3,
+        "views": 1544
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/toolfolio/status/2091689598883934666",
+      "outcome": "ok",
+      "note": "html_bytes=183411 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/toolfolio/status/2091689598883934666",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091689598883934666/thread-raw/x-web-dom-20260904T175319Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

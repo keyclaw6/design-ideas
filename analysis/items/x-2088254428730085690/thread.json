@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2088254428730085690",
+  "tweet_id": "2088254428730085690",
+  "root_author_handle": "pbakaus",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 11,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 4,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 8,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088291699801850185",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T15:48:34Z",
+      "text": "@pbakaus Awesome, thank you for continuing to make impeccable better. Been waiting for a while for impeccable to have better capabilities for native app design so this was a very welcome addition. Taking it for a spin right now!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 315
+      },
+      "parent_id": "2088254428730085690",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2088256941659422917",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T13:30:27Z",
+      "text": "@pbakaus just did the thing https://t.co/0zGLc0KKut",
+      "text_en": null,
+      "urls": [
+        "https://t.co/0zGLc0KKut"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 349
+      },
+      "parent_id": "2088254428730085690",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2088254557423862145",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T13:20:59Z",
+      "text": "@pbakaus 🫡",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 278
+      },
+      "parent_id": "2088254428730085690",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/pbakaus/status/2088254428730085690",
+      "outcome": "ok",
+      "note": "html_bytes=248821 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/pbakaus/status/2088254428730085690",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2088254428730085690/thread-raw/x-web-dom-20260904T175308Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

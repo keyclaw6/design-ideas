@@ -1,0 +1,31 @@
+{
+  "id": "github-wuyoscar-gpt-image2-skill",
+  "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "GPT Image 2 Prompt Gallery + Agentic Skill + CLI",
+  "authors": [
+    "wuyoscar"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 5056,
+    "forks": 437,
+    "license": "MIT",
+    "language": "Python",
+    "related_items": [
+      "github-youmind-openlab-nano-banana-pro-prompts",
+      "web-meigen-ai",
+      "web-fal-ai",
+      "github-oso95-scroll-world",
+      "web-sceneai-art"
+    ],
+    "category_note": "GPT Image 2 gallery + CLI skill for OpenAI image gen/edit."
+  }
+}

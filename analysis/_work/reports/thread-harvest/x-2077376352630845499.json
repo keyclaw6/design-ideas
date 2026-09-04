@@ -1,0 +1,81 @@
+{
+  "root_id": "2077376352630845499",
+  "reply_count_reported": 22,
+  "quote_count_reported": 7,
+  "tweets": [
+    {
+      "id": "2077376352630845499",
+      "author_handle": null,
+      "created_at": "2026-07-15T12:54:52Z",
+      "text": "INSTEAD OF WATCHING AN HOUR OF NETFLIX TONIGHT.\n\nThis 60-minute Cambridge lecture by Demis Hassabis will teach you more about the future of AI than most people will learn in the next 5 years.\n\nBookmark it and give it an hour, no matter what. https://t.co/2RTYDkKQnR",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 982,
+        "replies": 22,
+        "reposts": 210,
+        "views": 244289,
+        "quotes": 7
+      },
+      "urls": [
+        "https://t.co/2RTYDkKQnR"
+      ]
+    },
+    {
+      "id": "2077419670345568332",
+      "author_handle": null,
+      "created_at": "2026-07-15T15:47:00Z",
+      "text": "@TechWithLilyAi I’d recommend everyone watch free documentary on Alpha Go on YouTube.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1916,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2077573239866269823",
+      "author_handle": null,
+      "created_at": "2026-07-16T01:57:14Z",
+      "text": "@TechWithLilyAi @grok summarize this",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 350,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2077385100304728354",
+      "author_handle": null,
+      "created_at": "2026-07-15T13:29:38Z",
+      "text": "@TechWithLilyAi Insane",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 726,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2077376352630845499",
+    "2077385100304728354",
+    "2077419670345568332",
+    "2077573239866269823"
+  ],
+  "item_id": "x-2077376352630845499",
+  "handle": "TechWithLilyAi",
+  "http_status": 200,
+  "url": "https://x.com/TechWithLilyAi/status/2077376352630845499",
+  "html_bytes": 185640,
+  "raw_path": "raw/items/x-2077376352630845499/thread-raw/x-web-dom-20260904T175300Z.html"
+}

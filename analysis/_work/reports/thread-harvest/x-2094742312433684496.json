@@ -1,0 +1,81 @@
+{
+  "root_id": "2094742312433684496",
+  "reply_count_reported": 8,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094742312433684496",
+      "author_handle": null,
+      "created_at": "2026-09-01T11:01:00Z",
+      "text": "I personally love this SEO hack:\n\n1. Search Google with a keyword.\n2. Look for Reddit post ranking on page 1.\n3. If there are any, open them.\n4. Write a pretty helpful comment.\n5. Mention your brand when relevant.\n6. Get some upvotes now.\n\nPeople will now read your comment.\n\nAnd https://t.co/sxzZawDGJe",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 117,
+        "replies": 8,
+        "reposts": 5,
+        "views": 7531,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/sxzZawDGJe"
+      ]
+    },
+    {
+      "id": "2094759558421893555",
+      "author_handle": null,
+      "created_at": "2026-09-01T12:09:32Z",
+      "text": "@hridoyreh This doesn't really work as easy as you make people think to be. Most posts over 6 months are archived and can't be commented on. 70% more will get you shadow banned/banned/deleted when you comment on such old posts because Reddit moderators are dicks. There's a way to do this",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 298,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094935371226521861",
+      "author_handle": null,
+      "created_at": "2026-09-01T23:48:09Z",
+      "text": "@hridoyreh Same hack, still solid",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 31,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094811138630299879",
+      "author_handle": null,
+      "created_at": "2026-09-01T15:34:29Z",
+      "text": "@hridoyreh But Google and Reddit seems to be having issues.... Mayb Reddit  didn't keep to promise 😂😂. \n\nI barely see them on SERP these days.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 87,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094742312433684496",
+    "2094759558421893555",
+    "2094811138630299879",
+    "2094935371226521861"
+  ],
+  "item_id": "x-2094742312433684496",
+  "handle": "hridoyreh",
+  "http_status": 200,
+  "url": "https://x.com/hridoyreh/status/2094742312433684496",
+  "html_bytes": 185475,
+  "raw_path": "raw/items/x-2094742312433684496/thread-raw/x-web-dom-20260904T175333Z.html"
+}

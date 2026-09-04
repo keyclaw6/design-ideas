@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2086845465140842638",
+  "tweet_id": "2086845465140842638",
+  "root_author_handle": "tomjohndesign",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 8,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 5,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086845620313104812",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T16:02:22Z",
+      "text": "@tomjohndesign mine is \"word vomit. what's important here?\"",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "views": 4440
+      },
+      "parent_id": "2086845465140842638",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2086951098523472183",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T23:01:30Z",
+      "text": "@tomjohndesign haha. I say \"bro\" when it's gone completely off-brief and needs to be scared of my next input...",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 1,
+        "views": 3196
+      },
+      "parent_id": "2086845465140842638",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2086959647663984897",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T23:35:28Z",
+      "text": "@tomjohndesign @dillon_mulroy who’s that bro who stole ur bro",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2577
+      },
+      "parent_id": "2086845465140842638",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/tomjohndesign/status/2086845465140842638",
+      "outcome": "ok",
+      "note": "html_bytes=189216 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/tomjohndesign/status/2086845465140842638",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086845465140842638/thread-raw/x-web-dom-20260904T175302Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

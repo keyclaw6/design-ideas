@@ -1,0 +1,83 @@
+{
+  "root_id": "2095231184531828762",
+  "reply_count_reported": 24,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2095231184531828762",
+      "author_handle": null,
+      "created_at": "2026-09-02T19:23:36Z",
+      "text": "Hey Grok, make $1M, make no mistakes\n\n9 Grok bots to run your marketing 👇\n\n1/ Ads Grok\n-&gt;  Connect Google and Meta in 1 click and say \"do it for me\"\n-&gt;  Builds creatives, changes targeting, tweaks performance weekly\n\n2/ SEO Grok\n-&gt;  1-click connect your site or store\n-&gt;  Audits https://t.co/oAMqQuYEQM",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 256,
+        "replies": 24,
+        "reposts": 24,
+        "views": 55826,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/oAMqQuYEQM"
+      ]
+    },
+    {
+      "id": "2094562614051246430",
+      "author_handle": null,
+      "created_at": "2026-08-31T23:06:56Z",
+      "text": "36 tools you can use within Grok for marketing:\n\n&gt; 7 providers of SEO and GEO data (some are free)\n&gt; Google Ads\n&gt; Meta Ads\n&gt; Meta Ad Library\n&gt; Search Console\n&gt; Shopify\n&gt; PostHog\n&gt; Google Analytics\n&gt; ChatGPT Ads\n&gt; 16 models for video and image generation\n&gt; make any SEO edits on",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 38957,
+        "quotes": null
+      },
+      "urls": []
+    },
+    {
+      "id": "2095231621158854794",
+      "author_handle": null,
+      "created_at": "2026-09-02T19:25:20Z",
+      "text": "Connect Grok to 50+ marketing tools and let it do the marketing for you:\n\nhttps://t.co/EZax5PplaJ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1133,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/EZax5PplaJ"
+      ]
+    },
+    {
+      "id": "2095464834783756683",
+      "author_handle": null,
+      "created_at": "2026-09-03T10:52:03Z",
+      "text": "@irabukht This is a strong example of AI moving from individual tasks to coordinated teams",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 136,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094562614051246430",
+    "2095231184531828762",
+    "2095231621158854794",
+    "2095464834783756683"
+  ],
+  "item_id": "x-2095231184531828762",
+  "handle": "irabukht",
+  "http_status": 200,
+  "url": "https://x.com/irabukht/status/2095231184531828762",
+  "html_bytes": 217861,
+  "raw_path": "raw/items/x-2095231184531828762/thread-raw/x-web-dom-20260904T175337Z.html"
+}

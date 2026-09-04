@@ -1,0 +1,81 @@
+{
+  "root_id": "2094148909253943322",
+  "reply_count_reported": 22,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2094148909253943322",
+      "author_handle": null,
+      "created_at": "2026-08-30T19:43:02Z",
+      "text": "I love how much faster the feedback loop is with AEO than SEO.\n\nA client came to us to boost their presence in AI answers and not just in Google results.\n\nWe built a weekly press release program designed for AI citation: neutral, factual releases distributed over a newswire, each https://t.co/RV7OYxklGQ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 228,
+        "replies": 22,
+        "reposts": 7,
+        "views": 21242,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/RV7OYxklGQ"
+      ]
+    },
+    {
+      "id": "2094159037830922522",
+      "author_handle": null,
+      "created_at": "2026-08-30T20:23:16Z",
+      "text": "@coreyhainesco Its crazy how all the SEO tricks from 15 years ago are back in action.\n\nI recall that trick from \"The New Rules of Marketing and PR\" by @dmscott back when I was a newly-hatched marketing grub.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 856,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094303859556704630",
+      "author_handle": null,
+      "created_at": "2026-08-31T05:58:45Z",
+      "text": "@coreyhainesco any APIs to check this citatation data? dataforSEO don't provide this ig",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 524,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094222909845684682",
+      "author_handle": null,
+      "created_at": "2026-08-31T00:37:05Z",
+      "text": "@coreyhainesco The trap is treating “X citations” as the KPI.\n\nIf RevOps/Mops can’t tie those citations to pipeline (which SKU, which question, which stage) then you just built a vanity AEO report.\n\nYou scoring citation quality or only vol?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 135,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094148909253943322",
+    "2094159037830922522",
+    "2094222909845684682",
+    "2094303859556704630"
+  ],
+  "item_id": "x-2094148909253943322",
+  "handle": "coreyhainesco",
+  "http_status": 200,
+  "url": "https://x.com/coreyhainesco/status/2094148909253943322",
+  "html_bytes": 185720,
+  "raw_path": "raw/items/x-2094148909253943322/thread-raw/x-web-dom-20260904T175331Z.html"
+}

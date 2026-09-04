@@ -1,0 +1,24 @@
+{
+  "id": "x-2093397098544648516",
+  "url": "https://x.com/slimbuck7/status/2093397098544648516",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:45Z",
+  "title": "OMG the new brush selection mode is awesome. As in \"we should have added this years ago\" type awesome.",
+  "authors": [
+    "Donovan Hutchence (@slimbuck7)"
+  ],
+  "topics": [
+    "gaussian-splatting"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2093397098544648516",
+    "author_handle": "slimbuck7",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "SuperSplat editor brush-selection mode (PlayCanvas/Snap)."
+  }
+}

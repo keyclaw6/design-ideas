@@ -1,0 +1,81 @@
+{
+  "root_id": "2094467179320119498",
+  "reply_count_reported": 22,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2094467179320119498",
+      "author_handle": null,
+      "created_at": "2026-08-31T16:47:43Z",
+      "text": "Esta persona le dio a Claude Code la capacidad de replicar el diseño de cualquier web.\n\nMontó un MCP que analiza el HTML/CSS de cualquier página y extrae colores, tipografía y componentes.\n\nResultado: interfaces limpias por fin.\n\nGuárdatelo 🔖 https://t.co/5WvIDmMgLr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 387,
+        "replies": 22,
+        "reposts": 61,
+        "views": 24391,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/5WvIDmMgLr"
+      ]
+    },
+    {
+      "id": "2094536164858343833",
+      "author_handle": null,
+      "created_at": "2026-08-31T21:21:50Z",
+      "text": "@robinstetic Wheres the link?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 144,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094472230650421464",
+      "author_handle": null,
+      "created_at": "2026-08-31T17:07:47Z",
+      "text": "@robinstetic El MCP resuelve bien la capa visual, Robin. El reto de verdad está en capturar estados, comportamiento responsive y accesibilidad, ahí se nota si Claude Code reconstruye el sistema o solo imita una captura.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 343,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094468002632663342",
+      "author_handle": null,
+      "created_at": "2026-08-31T16:50:59Z",
+      "text": "@robinstetic buen uso de MCP, este es de los casos que tienen sentido de verdad",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 943,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094467179320119498",
+    "2094468002632663342",
+    "2094472230650421464",
+    "2094536164858343833"
+  ],
+  "item_id": "x-2094467179320119498",
+  "handle": "robinstetic",
+  "http_status": 200,
+  "url": "https://x.com/robinstetic/status/2094467179320119498",
+  "html_bytes": 186226,
+  "raw_path": "raw/items/x-2094467179320119498/thread-raw/x-web-dom-20260904T175332Z.html"
+}

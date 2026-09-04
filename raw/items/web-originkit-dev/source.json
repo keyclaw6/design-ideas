@@ -1,0 +1,35 @@
+{
+  "id": "web-originkit-dev",
+  "url": "https://www.originkit.dev/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Originkit",
+  "authors": [
+    "Originkit"
+  ],
+  "topics": [
+    "design",
+    "ui-motion",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://github.com/vellum-ai/originkit",
+    "https://www.originkit.dev/"
+  ],
+  "media": [
+    "media/og-image.png"
+  ],
+  "unsaved": false,
+  "extra": {
+    "component_count": 363,
+    "description": "Free animated component library",
+    "related_items": [
+      "web-vengence-ui",
+      "web-cult-ui",
+      "web-feralui-dev",
+      "github-nexu-io-motion-anything",
+      "web-lottiefiles"
+    ],
+    "category_note": "363+ free animated components; MCP import plugin."
+  }
+}

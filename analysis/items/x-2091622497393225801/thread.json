@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2091622497393225801",
+  "tweet_id": "2091622497393225801",
+  "root_author_handle": "fortysevenfx",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 8,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 5,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091657208433983868",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T22:41:54Z",
+      "text": "@fortysevenfx I agree w this comment re “path to not reading code”\n\nAlso makes me think there’s some other set of primitives out there we haven’t found yet",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 9,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1144
+      },
+      "parent_id": "2091622497393225801",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091678010378187129",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T00:04:33Z",
+      "text": "@fortysevenfx @bentlegen this css looks pretty nice, where can i steal it?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 668
+      },
+      "parent_id": "2091622497393225801",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091653930815979559",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T22:28:52Z",
+      "text": "@fortysevenfx @bentlegen That's really nice! I've always thought we're missing a UI somewhere in our work with agents. The chat paradigm jars a bit with how I think about code, I think in system diagrams, connections, and so on. Keeping an eye on this.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 617
+      },
+      "parent_id": "2091622497393225801",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/fortysevenfx/status/2091622497393225801",
+      "outcome": "ok",
+      "note": "html_bytes=182444 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/fortysevenfx/status/2091622497393225801",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091622497393225801/thread-raw/x-web-dom-20260904T175318Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

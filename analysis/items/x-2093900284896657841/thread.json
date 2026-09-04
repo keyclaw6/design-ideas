@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2093900284896657841",
+  "tweet_id": "2093900284896657841",
+  "root_author_handle": "vicky_grok",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 22,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 19,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094016088547708974",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T10:55:15Z",
+      "text": "@vicky_grok Couldn't agree more",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 100
+      },
+      "parent_id": "2093900284896657841",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094016603906269558",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T10:57:17Z",
+      "text": "@vicky_grok Great shere",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 135
+      },
+      "parent_id": "2093900284896657841",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094024478606901271",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T11:28:35Z",
+      "text": "@vicky_grok So real",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 83
+      },
+      "parent_id": "2093900284896657841",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090064227570766226",
+      "author_handle": "vicky_grok",
+      "created_at": "2026-08-19T13:11:58Z",
+      "text": "stop trying to fine-tune an llm on your company data. it's expensive and it doesn't prevent hallucinations. the industry standard is RAG (retrieval-augmented generation). here is the complete architectural blueprint for building it. https://t.co/rXgetfEx9F",
+      "text_en": null,
+      "urls": [
+        "https://t.co/rXgetfEx9F"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 257875
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/vicky_grok/status/2093900284896657841",
+      "outcome": "ok",
+      "note": "html_bytes=219554 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/vicky_grok/status/2093900284896657841",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093900284896657841/thread-raw/x-web-dom-20260904T175330Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "x-2091748299975880994",
+  "url": "https://x.com/VanhDesign/status/2091748299975880994",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:36:45Z",
+  "title": "3d model within a website is just so crazy with Claude. I built this template where one 3D scene drives the whole page. ",
+  "authors": [
+    "@VanhDesign"
+  ],
+  "topics": [
+    "three-js",
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2091748299975880994",
+    "author_handle": "VanhDesign",
+    "category_note": "WebGPU page-as-scene, not Three.js; keyboard is the model"
+  }
+}

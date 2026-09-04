@@ -1,0 +1,34 @@
+{
+  "id": "github-scottstts-threejs-awesome-graphics-agent-skills",
+  "url": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "Three.js Awesome Graphics Agent Skills",
+  "authors": [
+    "scottstts"
+  ],
+  "topics": [
+    "three-js",
+    "agent-skills",
+    "camera-control"
+  ],
+  "related_urls": [
+    "https://www.npmjs.com/package/threejs-awesome-graphics-agent-skills"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 778,
+    "forks": 87,
+    "license": "MIT",
+    "language": "JavaScript",
+    "related_items": [
+      "github-mengto-complete-shelf",
+      "github-mengto-skills",
+      "github-oso95-scroll-world",
+      "web-feralui-dev",
+      "web-utsubo"
+    ],
+    "category_note": "Three.js graphics skills: camera rigs, PBR, TSL/WebGPU, validation."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "id": "x-2086078399366230075",
+  "tweet_id": "2086078399366230075",
+  "root_author_handle": "SaturateSkin",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 27,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 26,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086458568027341096",
+      "author_handle": "unknown",
+      "created_at": "2026-08-09T14:24:21Z",
+      "text": "@SaturateSkin Да как он отражается справа, у него два лица на голове или это аналоговый хоррор?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "views": 2779
+      },
+      "parent_id": "2086078399366230075",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090015417867935899",
+      "author_handle": "SaturateSkin",
+      "created_at": "2026-08-19T09:58:00Z",
+      "text": "Do you have time for a seven-step routine every night? Of course not. It’s a waste, and those brands know it.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2569
+      }
+    },
+    {
+      "id": "2090100164438663353",
+      "author_handle": "SaturateSkin",
+      "created_at": "2026-08-19T15:34:46Z",
+      "text": "SATURATE assumes you have better things to do.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1712
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/SaturateSkin/status/2086078399366230075",
+      "outcome": "ok",
+      "note": "html_bytes=176592 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/SaturateSkin/status/2086078399366230075",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086078399366230075/thread-raw/x-web-dom-20260904T175301Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

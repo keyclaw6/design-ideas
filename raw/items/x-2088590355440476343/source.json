@@ -1,0 +1,32 @@
+{
+  "id": "x-2088590355440476343",
+  "url": "https://x.com/mfpiccolo/status/2088590355440476343",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:07:49Z",
+  "title": "I heavily use diagraming tools for architecting which means a lot of screenshotting and pasting. To make things simpler,",
+  "authors": [
+    "@mfpiccolo"
+  ],
+  "topics": [
+    "infographics",
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088590355440476343",
+    "author_handle": "mfpiccolo",
+    "related_items": [
+      "x-2088016749849682120",
+      "github-cathrynlavery-diagram-design",
+      "x-2087329201451855933",
+      "web-flint-chart",
+      "github-antvis-infographic"
+    ],
+    "category_note": "Harness canvas worker: diagrams in chat"
+  }
+}

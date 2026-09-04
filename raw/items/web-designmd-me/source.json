@@ -1,0 +1,30 @@
+{
+  "id": "web-designmd-me",
+  "url": "https://designmd.me",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:42:00Z",
+  "title": "designmd.me",
+  "authors": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/tranmautritam/status/2095078647652917329",
+    "https://github.com/google-labs-code/design.md"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "error": "HTTP 429 Vercel Security Checkpoint on direct curl and r.jina.ai",
+    "related_items": [
+      "web-designmd-supply",
+      "web-typeui-sh",
+      "github-google-labs-code-design-md",
+      "web-sokosumi-design-md",
+      "web-getdesign-md"
+    ],
+    "category_note": "DESIGN.md ecosystem URL; Vercel 429, no body captured."
+  }
+}

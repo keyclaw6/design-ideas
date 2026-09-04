@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2092656414351118647",
+  "tweet_id": "2092656414351118647",
+  "root_author_handle": "tom_doerr",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 5,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092703859613307030",
+      "author_handle": "unknown",
+      "created_at": "2026-08-26T20:00:55Z",
+      "text": "@tom_doerr show the matched pattern beside each rewrite. reviewers need to see whether the tool caught a real habit or erased an intentional choice.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 112
+      },
+      "parent_id": "2092656414351118647",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2092664312573657098",
+      "author_handle": "unknown",
+      "created_at": "2026-08-26T17:23:46Z",
+      "text": "@tom_doerr so it flags itself and then rewrites its own apology",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 614
+      },
+      "parent_id": "2092656414351118647",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2092688335076753653",
+      "author_handle": "unknown",
+      "created_at": "2026-08-26T18:59:14Z",
+      "text": "@tom_doerr this is so clever, i love how it keeps your original voice while just cleaning things up. how does it handle shorter snippets like emails?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 295
+      },
+      "parent_id": "2092656414351118647",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/tom_doerr/status/2092656414351118647",
+      "outcome": "ok",
+      "note": "html_bytes=179672 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/tom_doerr/status/2092656414351118647",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092656414351118647/thread-raw/x-web-dom-20260904T175322Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2087562269807030754",
+  "tweet_id": "2087562269807030754",
+  "root_author_handle": "SamuelZengML",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 32,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 10,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 29,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087616316744294655",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T19:04:50Z",
+      "text": "@SamuelZengML 44 tok/s for moe on iphone is amazing.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 618
+      },
+      "parent_id": "2087562269807030754",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087592604372480143",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T17:30:37Z",
+      "text": "@SamuelZengML Looks awesome. Do you want to demo this at the next AiOS meetup in SF in September and tell more about the architecture? Just curious: is it similar to Apple and keeps the same experts active across multiple tokens or branch prediction?\n\nPS: Silicon Valley is obviously a tv show",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 616
+      },
+      "parent_id": "2087562269807030754",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2087666600795091189",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T22:24:39Z",
+      "text": "@SamuelZengML so anymore actual details, evals, etc",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 380
+      },
+      "parent_id": "2087562269807030754",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/SamuelZengML/status/2087562269807030754",
+      "outcome": "ok",
+      "note": "html_bytes=192746 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/SamuelZengML/status/2087562269807030754",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087562269807030754/thread-raw/x-web-dom-20260904T175306Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

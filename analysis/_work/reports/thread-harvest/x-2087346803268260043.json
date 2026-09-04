@@ -1,0 +1,81 @@
+{
+  "root_id": "2087346803268260043",
+  "reply_count_reported": 21,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2087346803268260043",
+      "author_handle": null,
+      "created_at": "2026-08-12T01:13:53Z",
+      "text": "Slop writing is mostly solved\n\n\"Can you make it like google dev docs style. More dead prose. No aphorisms, no flourishes. Simple.\" https://t.co/IcojT2o17g",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2048,
+        "replies": 21,
+        "reposts": 45,
+        "views": 178690,
+        "quotes": 5
+      },
+      "urls": [
+        "https://t.co/IcojT2o17g"
+      ]
+    },
+    {
+      "id": "2087432065843085635",
+      "author_handle": null,
+      "created_at": "2026-08-12T06:52:41Z",
+      "text": "@aaronvi You need to add a rule somewhere to tell it to stop making current document an archeological dumping site. \n\nWhen a fresh agent or a person reads a document, they don’t care about what the previous document looked like or did. It’s confusing and you’ll continue to have poor slop",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 85,
+        "replies": 2,
+        "reposts": 0,
+        "views": 8310,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087390932006281480",
+      "author_handle": null,
+      "created_at": "2026-08-12T04:09:14Z",
+      "text": "@aaronvi Slop is not solved. In large code bases AI performs at a very junior level.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 16,
+        "replies": 4,
+        "reposts": 0,
+        "views": 7547,
+        "quotes": 1
+      },
+      "urls": []
+    },
+    {
+      "id": "2087421855129079821",
+      "author_handle": null,
+      "created_at": "2026-08-12T06:12:07Z",
+      "text": "@aaronvi is this &gt; ASD-STE100?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 1,
+        "reposts": 0,
+        "views": 11349,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087346803268260043",
+    "2087390932006281480",
+    "2087421855129079821",
+    "2087432065843085635"
+  ],
+  "item_id": "x-2087346803268260043",
+  "handle": "aaronvi",
+  "http_status": 200,
+  "url": "https://x.com/aaronvi/status/2087346803268260043",
+  "html_bytes": 184678,
+  "raw_path": "raw/items/x-2087346803268260043/thread-raw/x-web-dom-20260904T175305Z.html"
+}

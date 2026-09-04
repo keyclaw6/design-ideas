@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2088308976278790258",
+  "tweet_id": "2088308976278790258",
+  "root_author_handle": "CadX_Studio",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 3,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088320961971900735",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T17:44:51Z",
+      "text": "@CadX_Studio I would definitely check this out",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 78
+      },
+      "parent_id": "2088308976278790258",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2088310111270015001",
+      "author_handle": "CadX_Studio",
+      "created_at": "2026-08-14T17:01:44Z",
+      "text": "Rendered. https://t.co/D5WsdkEmLA",
+      "text_en": null,
+      "urls": [
+        "https://t.co/D5WsdkEmLA"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 239
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/CadX_Studio/status/2088308976278790258",
+      "outcome": "ok",
+      "note": "html_bytes=168726 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/CadX_Studio/status/2088308976278790258",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2088308976278790258/thread-raw/x-web-dom-20260904T175309Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

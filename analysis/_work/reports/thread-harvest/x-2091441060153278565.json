@@ -1,0 +1,101 @@
+{
+  "root_id": "2091441060153278565",
+  "reply_count_reported": 6,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2091441060153278565",
+      "author_handle": null,
+      "created_at": "2026-08-23T08:23:00Z",
+      "text": "AI just changed how we create creative logo videos.\n\nMiniMax M3 can turn a simple logo into a polished, premium brand film with surprisingly little effort.\n\nYou don't need professional motion design skills. You might not even need to hire a motion design studio.\n\nThis is a https://t.co/8eZA9i5by5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 179,
+        "replies": 6,
+        "reposts": 18,
+        "views": 18975,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/8eZA9i5by5"
+      ]
+    },
+    {
+      "id": "2091443059116384264",
+      "author_handle": null,
+      "created_at": "2026-08-23T08:30:57Z",
+      "text": "Prompt Here:\nA slick, high-energy, 15-second tech brand motion graphics promo featuring the geometric logo letter \"P\". The visual style is rooted in modern Swiss-style graphic design, minimalist UI/UX design tools, and bold tech brutalism. Key elements include precise vector path",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 26,
+        "replies": 0,
+        "reposts": 2,
+        "views": 1024,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091441062489595914",
+      "author_handle": null,
+      "created_at": "2026-08-23T08:23:01Z",
+      "text": "Second. Crazy. https://t.co/a2JmzFGyC9",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 730,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/a2JmzFGyC9"
+      ]
+    },
+    {
+      "id": "2091441784685809931",
+      "author_handle": null,
+      "created_at": "2026-08-23T08:25:53Z",
+      "text": "3rd. https://t.co/KLPoVajLfd",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 516,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/KLPoVajLfd"
+      ]
+    },
+    {
+      "id": "2091521277819572546",
+      "author_handle": null,
+      "created_at": "2026-08-23T13:41:45Z",
+      "text": "@lepadphone Could you please share how to make such animation",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 352,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091441060153278565",
+    "2091441062489595914",
+    "2091441784685809931",
+    "2091443059116384264",
+    "2091521277819572546"
+  ],
+  "item_id": "x-2091441060153278565",
+  "handle": "lepadphone",
+  "http_status": 200,
+  "url": "https://x.com/lepadphone/status/2091441060153278565",
+  "html_bytes": 228380,
+  "raw_path": "raw/items/x-2091441060153278565/thread-raw/x-web-dom-20260904T175316Z.html"
+}

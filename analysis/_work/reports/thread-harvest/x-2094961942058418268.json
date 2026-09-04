@@ -1,0 +1,51 @@
+{
+  "root_id": "2094961942058418268",
+  "reply_count_reported": 1,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094961942058418268",
+      "author_handle": null,
+      "created_at": "2026-09-02T01:33:44Z",
+      "text": "屋内動画を編集可能な3Dアセット化するByteDance「Lucida」🏠\n\n🔹ByteDanceの「Lucida」が屋内動画から3Dシーンを再構築\n🔹VLMやSeed3D 2.0を活用しReal-to-Simを実現\n🔹物体検出やポーズ整合により、個別の3Dアセットとして生成\n\n実世界の動画から編集可能な3D空間を作る試み。\n情報元はリプ欄。 https://t.co/GAstlgatLo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 133,
+        "replies": 1,
+        "reposts": 18,
+        "views": 6887,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/GAstlgatLo"
+      ]
+    },
+    {
+      "id": "2094962032718270497",
+      "author_handle": null,
+      "created_at": "2026-09-02T01:34:05Z",
+      "text": "情報元ページ\nhttps://t.co/nuTE88wjpv",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 453,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/nuTE88wjpv"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2094961942058418268",
+    "2094962032718270497"
+  ],
+  "item_id": "x-2094961942058418268",
+  "handle": "tokufxug",
+  "http_status": 200,
+  "url": "https://x.com/tokufxug/status/2094961942058418268",
+  "html_bytes": 155041,
+  "raw_path": "raw/items/x-2094961942058418268/thread-raw/x-web-dom-20260904T175335Z.html"
+}

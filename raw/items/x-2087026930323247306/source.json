@@ -1,0 +1,29 @@
+{
+  "id": "x-2087026930323247306",
+  "url": "https://x.com/dani_avila7/status/2087026930323247306",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:01:46Z",
+  "title": "Anthropic shared a Dynamic Workflows cookbook worth reviewing Bookmark this one Claude writes the orchestration script a",
+  "authors": [
+    "@dani_avila7"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/anthropics/claude-cookbooks/blob/main/claude_agent_sdk/08_Dynamic_workflows.ipynb"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087026930323247306",
+    "author_handle": "dani_avila7",
+    "related_items": [
+      "x-2087232392209531166",
+      "x-2086790895538700379",
+      "x-2087254502210490739",
+      "web-anthropic-claude-self-service-data"
+    ],
+    "category_note": "Anthropic cookbook: Claude writes an orchestration script and can spawn up to 1,000 subagents."
+  }
+}

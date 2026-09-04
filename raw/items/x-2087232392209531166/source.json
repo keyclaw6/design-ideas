@@ -1,0 +1,30 @@
+{
+  "id": "x-2087232392209531166",
+  "url": "https://x.com/Howaboua/status/2087232392209531166",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:25Z",
+  "title": "People of @pidotdev! I just clanked up pi-shepherdr (KEKW): talk to one Pi, let it run the others. One master Pi gets a ",
+  "authors": [
+    "Howaboua (@Howaboua)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-shepherdr"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087232392209531166",
+    "author_handle": "Howaboua",
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2087304957011911157",
+      "x-2087026930323247306",
+      "x-2087263510090874911",
+      "web-blume-codes"
+    ],
+    "category_note": "pi-shepherdr: 271-token master Pi orchestrates other Pi agents via Herdr panes."
+  }
+}

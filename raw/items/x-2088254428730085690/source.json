@@ -1,0 +1,34 @@
+{
+  "id": "x-2088254428730085690",
+  "url": "https://x.com/pbakaus/status/2088254428730085690",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:39Z",
+  "title": "Impeccable 4.1 is here: core: -critique results more reliably prints in chat before asking you questions - the design ho",
+  "authors": [
+    "Paul Bakaus (@pbakaus)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "http://impeccable.style"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088254428730085690",
+    "author_handle": "pbakaus",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:37:33Z",
+    "related_items": [
+      "github-pbakaus-impeccable",
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "x-2086715093707063445",
+      "github-google-labs-code-design-md"
+    ],
+    "category_note": "Impeccable 4.1 changelog (install + native + live mode)"
+  }
+}

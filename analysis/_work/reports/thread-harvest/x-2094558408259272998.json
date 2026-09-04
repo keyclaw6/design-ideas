@@ -1,0 +1,118 @@
+{
+  "root_id": "2094558408259272998",
+  "reply_count_reported": 7,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2094558408259272998",
+      "author_handle": null,
+      "created_at": "2026-08-31T22:50:14Z",
+      "text": "What the #3 defining feature of an AI-native company?\n\n\"Centralized intelligence layer that aggregates structured and unstructured data, documents, and business logic into a single source of truth that is queryable &amp; agentic work can be done on top of.\" *\n\nThis is what data teams https://t.co/1PNE3ojrnd",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 93,
+        "replies": 7,
+        "reposts": 8,
+        "views": 16630,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/1PNE3ojrnd"
+      ]
+    },
+    {
+      "id": "2094213970215231831",
+      "author_handle": null,
+      "created_at": "2026-08-31T00:01:33Z",
+      "text": "30 features of an AI native company: \n\n1) Function-by-function process blueprint of your entire business.\n\n2) Everyone in org using a daily driver harness like Grok Bot, Claude Cowork, ChatGPT at Work.\n\n3) Centralized intelligence layer that aggregates structured and unstructured",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": []
+    },
+    {
+      "id": "2094565845884080286",
+      "author_handle": null,
+      "created_at": "2026-08-31T23:19:47Z",
+      "text": "@medriscoll Great post MD!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 189,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094714982906708067",
+      "author_handle": null,
+      "created_at": "2026-09-01T09:12:24Z",
+      "text": "@medriscoll Wrote about #3 too recently.\n\nhttps://t.co/UXO6jeQKhq\n\nThere are still many things to figure out. I'd love to see more companies posting and sharing their approach!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 176,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/UXO6jeQKhq"
+      ]
+    },
+    {
+      "id": "2085803390391460099",
+      "author_handle": "medriscoll",
+      "created_at": "2026-08-07T19:00:55Z",
+      "text": "Wrote about why context engineering is a data problem.\n\nOrganizations need to own the process that turns raw sources into useful artifacts for their agents. \n\nMuch of this is work data teams already know how to do!\n\nhttps://t.co/n8QEWWdN9A https://t.co/jK5QsWKBqC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 7408,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/n8QEWWdN9A",
+        "https://t.co/jK5QsWKBqC"
+      ]
+    },
+    {
+      "id": "2094597350778188000",
+      "author_handle": null,
+      "created_at": "2026-09-01T01:24:58Z",
+      "text": "@medriscoll Fully agree! We implement our own version of this for customers, I wonder if the future of this will be a tool like Glean, or an on-prem version that the company owns themselves",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 139,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2085803390391460099",
+    "2094213970215231831",
+    "2094558408259272998",
+    "2094565845884080286",
+    "2094597350778188000",
+    "2094714982906708067"
+  ],
+  "item_id": "x-2094558408259272998",
+  "handle": "medriscoll",
+  "http_status": 200,
+  "url": "https://x.com/medriscoll/status/2094558408259272998",
+  "html_bytes": 246420,
+  "raw_path": "raw/items/x-2094558408259272998/thread-raw/x-web-dom-20260904T175333Z.html"
+}

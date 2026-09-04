@@ -1,0 +1,67 @@
+{
+  "root_id": "2089457435459404093",
+  "reply_count_reported": 114,
+  "quote_count_reported": 30,
+  "tweets": [
+    {
+      "id": "2089457435459404093",
+      "author_handle": null,
+      "created_at": "2026-08-17T21:00:47Z",
+      "text": "PSA: If you are tired of Claude-lish or Chat-lish, tell your AI to read the Google Developer Docs Style Guide and build a skill that follows it\n\nIt’s like magic. Suddenly your AI will make sense again!\n\nI’ve tried both and this is much better than the ASD-STE100 Simplified",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4194,
+        "replies": 114,
+        "reposts": 216,
+        "views": 310966,
+        "quotes": 30
+      },
+      "urls": []
+    },
+    {
+      "id": "2090087689873715481",
+      "author_handle": null,
+      "created_at": "2026-08-19T14:45:11Z",
+      "text": "Well, this got more popular than I expected.\n\nI've seen a few replies here and there with skills folks have built off this, and here's mine:\n\nhttps://t.co/aqeXD3GPv6",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1929,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/aqeXD3GPv6"
+      ]
+    },
+    {
+      "id": "2089501491702780279",
+      "author_handle": null,
+      "created_at": "2026-08-17T23:55:51Z",
+      "text": "@natebjones https://t.co/Bbpvy87NuI",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 118,
+        "replies": 1,
+        "reposts": 5,
+        "views": 7618,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/Bbpvy87NuI"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2089457435459404093",
+    "2089501491702780279",
+    "2090087689873715481"
+  ],
+  "item_id": "x-2089457435459404093",
+  "handle": "natebjones",
+  "http_status": 200,
+  "url": "https://x.com/natebjones/status/2089457435459404093",
+  "html_bytes": 256112,
+  "raw_path": "raw/items/x-2089457435459404093/thread-raw/x-web-dom-20260904T175312Z.html"
+}

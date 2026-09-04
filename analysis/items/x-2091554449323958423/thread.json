@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2091554449323958423",
+  "tweet_id": "2091554449323958423",
+  "root_author_handle": "TheZachMueller",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 1,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091726138670284835",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T03:15:48Z",
+      "text": "@TheZachMueller You’re going to need a whole lot of CPU memory too.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 390
+      },
+      "parent_id": "2091554449323958423",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091591647142302129",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T18:21:23Z",
+      "text": "@TheZachMueller How much system ram do you have? I was kinda hopeful I could run deepseek v4 flash but 128GB of system ram is not enough. IIUC you need enough system ram to hold all weights unless the GPU’s can hold them all.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 231
+      },
+      "parent_id": "2091554449323958423",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091560117447676220",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T16:16:05Z",
+      "text": "@TheZachMueller Thought this would be a good use case for my 256gb ddr4 2x 3090 rig, but found out it does not support using both 3090s yet. Could have been interesting for ds4",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 230
+      },
+      "parent_id": "2091554449323958423",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/TheZachMueller/status/2091554449323958423",
+      "outcome": "ok",
+      "note": "html_bytes=217362 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/TheZachMueller/status/2091554449323958423",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091554449323958423/thread-raw/x-web-dom-20260904T175317Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

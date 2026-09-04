@@ -1,0 +1,52 @@
+{
+  "root_id": "2089223944700326052",
+  "reply_count_reported": 0,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2089223944700326052",
+      "author_handle": null,
+      "created_at": "2026-08-17T05:32:58Z",
+      "text": "30｜带物理摆动感的作品集 Carousel\n来自@YousufSoomroDev \n\n一个用于作品集展示的 Carousel 组件。切换项目时，卡片不是沿着水平轨道简单滑入，而是带着明显的摆动和惯性从画面外进入，最终回到稳定位置。作者同时将这一组件开源，作为可复用的作品展示模块。 https://t.co/xpIQdVn2iu",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 19,
+        "replies": 0,
+        "reposts": 2,
+        "views": 7878,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/xpIQdVn2iu"
+      ]
+    },
+    {
+      "id": "2075520890880827512",
+      "author_handle": null,
+      "created_at": "2026-07-10T10:01:56Z",
+      "text": "这个网站集合了我之前发布的部分设计灵感、UX bites和各家年度报告，欢迎大家来体验和批评～\n\n地址👉https://t.co/CKSNrGzoET https://t.co/kqaMX23dq8",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 4276,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/CKSNrGzoET",
+        "https://t.co/kqaMX23dq8"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2075520890880827512",
+    "2089223944700326052"
+  ],
+  "item_id": "x-2089223944700326052",
+  "handle": "Heylaosan",
+  "http_status": 200,
+  "url": "https://x.com/Heylaosan/status/2089223944700326052",
+  "html_bytes": 141506,
+  "raw_path": "raw/items/x-2089223944700326052/thread-raw/x-web-dom-20260904T175312Z.html"
+}

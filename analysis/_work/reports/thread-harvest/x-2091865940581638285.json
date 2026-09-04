@@ -1,0 +1,81 @@
+{
+  "root_id": "2091865940581638285",
+  "reply_count_reported": 10,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2091865940581638285",
+      "author_handle": null,
+      "created_at": "2026-08-24T12:31:19Z",
+      "text": "/have-some-range https://t.co/zPK69FjkG8",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1053,
+        "replies": 10,
+        "reposts": 78,
+        "views": 22666,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/zPK69FjkG8"
+      ]
+    },
+    {
+      "id": "2092114126906802476",
+      "author_handle": null,
+      "created_at": "2026-08-25T04:57:32Z",
+      "text": "@michaelmicasso @dhh check this artist out for omarchy themes and styling 🤌",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 53,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091928766574436818",
+      "author_handle": null,
+      "created_at": "2026-08-24T16:40:58Z",
+      "text": "@michaelmicasso uhhh @Teknium",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 93,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091927568186585103",
+      "author_handle": null,
+      "created_at": "2026-08-24T16:36:13Z",
+      "text": "@michaelmicasso 😍",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 80,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091865940581638285",
+    "2091927568186585103",
+    "2091928766574436818",
+    "2092114126906802476"
+  ],
+  "item_id": "x-2091865940581638285",
+  "handle": "michaelmicasso",
+  "http_status": 200,
+  "url": "https://x.com/michaelmicasso/status/2091865940581638285",
+  "html_bytes": 182384,
+  "raw_path": "raw/items/x-2091865940581638285/thread-raw/x-web-dom-20260904T175320Z.html"
+}

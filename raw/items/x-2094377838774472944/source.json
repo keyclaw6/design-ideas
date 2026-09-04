@@ -1,0 +1,23 @@
+{
+  "id": "x-2094377838774472944",
+  "url": "https://x.com/ShreyashT25/status/2094377838774472944",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:54:39Z",
+  "title": "Gaussian splats let you choose the camera move after you've left the location. We added animation tools and 4K video exp",
+  "authors": [
+    "@ShreyashT25"
+  ],
+  "topics": [
+    "gaussian-splatting",
+    "camera-control",
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094377838774472944",
+    "author_handle": "ShreyashT25",
+    "category_note": "Spatial Studio: splat capture then in-browser camera animation + 4K export."
+  }
+}

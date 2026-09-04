@@ -1,0 +1,34 @@
+{
+  "root_id": "2090535643353153833",
+  "reply_count_reported": 0,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2090535643353153833",
+      "author_handle": null,
+      "created_at": "2026-08-20T20:25:12Z",
+      "text": "Testing if AI can actually design a wheel hub on CadXStudio.\n\nBolt circle. Drive spline. Brake disc mount. From prompt to CAD model to engineering drawing.\nhttps://t.co/SIS9OYJMw1 https://t.co/4VpUiQAbmE",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 29,
+        "replies": 0,
+        "reposts": 5,
+        "views": 1506,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/SIS9OYJMw1",
+        "https://t.co/4VpUiQAbmE"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2090535643353153833"
+  ],
+  "item_id": "x-2090535643353153833",
+  "handle": "CadX_Studio",
+  "http_status": 200,
+  "url": "https://x.com/CadX_Studio/status/2090535643353153833",
+  "html_bytes": 106872,
+  "raw_path": "raw/items/x-2090535643353153833/thread-raw/x-web-dom-20260904T175314Z.html"
+}

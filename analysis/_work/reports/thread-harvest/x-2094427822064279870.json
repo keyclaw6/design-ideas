@@ -1,0 +1,67 @@
+{
+  "root_id": "2094427822064279870",
+  "reply_count_reported": 46,
+  "quote_count_reported": 12,
+  "tweets": [
+    {
+      "id": "2094427822064279870",
+      "author_handle": null,
+      "created_at": "2026-08-31T14:11:20Z",
+      "text": "UN DESARROLLADOR ACABA DE HACER LO QUE GOOGLE LLEVA AÑOS IGNORANDO\n\nCreo un navegador en Rust pensado especificamente para automatizar tareas, web scraping y agentes de IA\n\n&gt; Consume 30MB de RAM\n&gt; Las paginas cargan en 85ms\n&gt; Bloquea +3.500 trackers automaticamente\n&gt; Evita https://t.co/sgnnkIlwSC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1770,
+        "replies": 46,
+        "reposts": 212,
+        "views": 117766,
+        "quotes": 12
+      },
+      "urls": [
+        "https://t.co/sgnnkIlwSC"
+      ]
+    },
+    {
+      "id": "2094427823976886345",
+      "author_handle": null,
+      "created_at": "2026-08-31T14:11:20Z",
+      "text": "https://t.co/AdJcIuOZ4L",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 73,
+        "replies": 0,
+        "reposts": 9,
+        "views": 9036,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/AdJcIuOZ4L"
+      ]
+    },
+    {
+      "id": "2094444514928677045",
+      "author_handle": null,
+      "created_at": "2026-08-31T15:17:39Z",
+      "text": "@0xJokker La parte realmente interesante no son los 30 MB de RAM.\nEs diseñar un navegador pensando desde el inicio en agentes y automatizacion, en lugar de adaptar un navegador tradicional para que los soporte.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 14,
+        "replies": 3,
+        "reposts": 0,
+        "views": 4957,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094427822064279870",
+    "2094427823976886345",
+    "2094444514928677045"
+  ],
+  "item_id": "x-2094427822064279870",
+  "handle": "0xJokker",
+  "http_status": 200,
+  "url": "https://x.com/0xJokker/status/2094427822064279870",
+  "html_bytes": 186015,
+  "raw_path": "raw/items/x-2094427822064279870/thread-raw/x-web-dom-20260904T175332Z.html"
+}

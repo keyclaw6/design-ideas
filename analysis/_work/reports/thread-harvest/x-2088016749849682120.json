@@ -1,0 +1,88 @@
+{
+  "root_id": "2088016749849682120",
+  "reply_count_reported": 196,
+  "quote_count_reported": 108,
+  "tweets": [
+    {
+      "id": "2088016749849682120",
+      "author_handle": null,
+      "created_at": "2026-08-13T21:36:01Z",
+      "text": "i've started having claude turn my codebases into visual diagrams so i can discuss the codebases with claude more easily - the moving dots are data snippets that i can inspect https://t.co/e2lYvdQu7M",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7491,
+        "replies": 196,
+        "reposts": 307,
+        "views": 1553277,
+        "quotes": 108
+      },
+      "urls": [
+        "https://t.co/e2lYvdQu7M"
+      ]
+    },
+    {
+      "id": "2088332814928269640",
+      "author_handle": null,
+      "created_at": "2026-08-14T18:31:57Z",
+      "text": "@fleetingbits Tried to point out hermes on your image and obtained HTML with structure one of my projects! Looks cool but kinda useless as well - some additional thinking required to understand what to show and in which form - AI haven't figure it out from one prompt: https://t.co/iRf19az0E7",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 205,
+        "replies": 3,
+        "reposts": 3,
+        "views": 35303,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/iRf19az0E7"
+      ]
+    },
+    {
+      "id": "2088145944185352645",
+      "author_handle": null,
+      "created_at": "2026-08-14T06:09:23Z",
+      "text": "@fleetingbits I had some fun and took it a bit too far, made an interactive game https://t.co/RlQNWV9VfL",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 130,
+        "replies": 6,
+        "reposts": 6,
+        "views": 12094,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/RlQNWV9VfL"
+      ]
+    },
+    {
+      "id": "2088102948299485635",
+      "author_handle": null,
+      "created_at": "2026-08-14T03:18:32Z",
+      "text": "@fleetingbits https://t.co/Lr58xVpQrt\nI’ve been playing with this too… https://t.co/86vU29ZHve",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 120,
+        "replies": 1,
+        "reposts": 6,
+        "views": 9132,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Lr58xVpQrt",
+        "https://t.co/86vU29ZHve"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088016749849682120",
+    "2088102948299485635",
+    "2088145944185352645",
+    "2088332814928269640"
+  ],
+  "item_id": "x-2088016749849682120",
+  "handle": "fleetingbits",
+  "http_status": 200,
+  "url": "https://x.com/fleetingbits/status/2088016749849682120",
+  "html_bytes": 198090,
+  "raw_path": "raw/items/x-2088016749849682120/thread-raw/x-web-dom-20260904T175308Z.html"
+}

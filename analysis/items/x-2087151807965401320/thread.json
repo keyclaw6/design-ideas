@@ -1,0 +1,60 @@
+{
+  "schema_version": "1",
+  "id": "x-2087151807965401320",
+  "tweet_id": "2087151807965401320",
+  "root_author_handle": "HuggingPapers",
+  "status": "failed",
+  "author_thread_status": "unknown",
+  "reply_count_reported": 2,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [
+    {
+      "id": "2087151818006569416",
+      "author_handle": "HuggingPapers",
+      "created_at": "2026-08-11T12:19:05Z",
+      "text": "Paper: https://t.co/MD8dNCInIZ\n\nProject: https://t.co/dKMnbNWOTR\n\nFull traces on Hugging Face: https://t.co/GgzUrCm5TI and https://t.co/y0r6vqryuD",
+      "text_en": null,
+      "urls": [
+        "https://t.co/MD8dNCInIZ",
+        "https://t.co/dKMnbNWOTR",
+        "https://t.co/GgzUrCm5TI",
+        "https://t.co/y0r6vqryuD"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 872
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/HuggingPapers/status/2087151807965401320",
+      "outcome": "ok",
+      "note": "html_bytes=155123 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/HuggingPapers/status/2087151807965401320",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087151807965401320/thread-raw/x-web-dom-20260904T175303Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2095192939169234945",
+  "tweet_id": "2095192939169234945",
+  "root_author_handle": "0xfJuan",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 39,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 21,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 36,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095202497241497817",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T17:29:36Z",
+      "text": "@0xfJuan if people can’t explain your project in their own words, you’ve failed\n\nthis article is a distribution goldmine",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 11,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1561
+      },
+      "parent_id": "2095192939169234945",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2095231563403309311",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T19:25:06Z",
+      "text": "@0xfJuan but I don't understand where the concept\nthat the more views the more interested people came from?\n\nbecause in fact it's the opposite, as described in the article\nand I've noticed this myself many times",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1598
+      },
+      "parent_id": "2095192939169234945",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2095193455622267141",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T16:53:41Z",
+      "text": "@0xfJuan every founder needs to read this",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1479
+      },
+      "parent_id": "2095192939169234945",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/0xfJuan/status/2095192939169234945",
+      "outcome": "ok",
+      "note": "html_bytes=306789 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/0xfJuan/status/2095192939169234945",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095192939169234945/thread-raw/x-web-dom-20260904T175338Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,113 @@
+{
+  "root_id": "2093020107509514674",
+  "reply_count_reported": 34,
+  "quote_count_reported": 8,
+  "tweets": [
+    {
+      "id": "2093020107509514674",
+      "author_handle": null,
+      "created_at": "2026-08-27T16:57:34Z",
+      "text": "Made a custom fully open-source based KiCAD+OpenEMS physical simulation harness so that I can check the signal integrity of my PCB design before shipping it off to the fabs.\n\nIt's already working coz it flagged my board for signal integrity issues  😂 https://t.co/wLB8uybNTw",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1803,
+        "replies": 34,
+        "reposts": 157,
+        "views": 79239,
+        "quotes": 8
+      },
+      "urls": [
+        "https://t.co/wLB8uybNTw"
+      ]
+    },
+    {
+      "id": "2093091356378107970",
+      "author_handle": null,
+      "created_at": "2026-08-27T21:40:41Z",
+      "text": "Twisted flex is generated on the fly in the designated FFC connectors and the whole 3d scene is \"rasterized\" into 3D FEA cells that OpenEMS accepts for simulation.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 19,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2821,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093091358529769913",
+      "author_handle": null,
+      "created_at": "2026-08-27T21:40:42Z",
+      "text": "I then captured an oscilloscope reading of the source signal, dumped it to my computer and have the agent convert it to a OpenEMS phasor to replay it in the sim.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2210,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093091360622715131",
+      "author_handle": null,
+      "created_at": "2026-08-27T21:40:42Z",
+      "text": "Currently this is a hodge podge of python scripts but perhaps it'd be helpful to combine it into one seamless open source app, when i get some more free time of course ;)",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2010,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093092114645356548",
+      "author_handle": null,
+      "created_at": "2026-08-27T21:43:42Z",
+      "text": "The final view is the KiCAD 3D model, the generated Flex cable mesh and OpenEMS's simulation output combined into one view. It generates a standalone html file that you can poke around and adjust animation parameters to.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1851,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093079160822321360",
+      "author_handle": null,
+      "created_at": "2026-08-27T20:52:14Z",
+      "text": "@jumarmacato This sounds excellent. Honestly a bit above my head at this point, but definitely in the realm of my interests with electronics. \n\nAdditionally, I'm attempting to surface, track, and helping to facilitate the closing of gaps in the Linux engineering tools space (spaces).\n\nIf you",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 2,
+        "reposts": 2,
+        "views": 1638,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093020107509514674",
+    "2093079160822321360",
+    "2093091356378107970",
+    "2093091358529769913",
+    "2093091360622715131",
+    "2093092114645356548"
+  ],
+  "item_id": "x-2093020107509514674",
+  "handle": "jumarmacato",
+  "http_status": 200,
+  "url": "https://x.com/jumarmacato/status/2093020107509514674",
+  "html_bytes": 245955,
+  "raw_path": "raw/items/x-2093020107509514674/thread-raw/x-web-dom-20260904T175324Z.html"
+}

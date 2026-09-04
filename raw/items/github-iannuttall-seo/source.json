@@ -1,0 +1,37 @@
+{
+  "id": "github-iannuttall-seo",
+  "url": "https://github.com/iannuttall/seo",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:57:00Z",
+  "title": "SEO Skill",
+  "authors": [
+    "iannuttall"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://x.com/iannuttall/status/2095055297949610427",
+    "https://seoskill.dev"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 380,
+    "license": "Apache-2.0",
+    "homepage": "https://seoskill.dev",
+    "npm": "seo@0.2.40",
+    "node": "22+",
+    "language": "TypeScript",
+    "related_items": [
+      "web-crowdreply",
+      "github-LessieAI-people-search-bench",
+      "github-superdesigndev-treg",
+      "web-brave-submit-url",
+      "web-seowins-io"
+    ],
+    "category_note": "Local SEO CLI + MCP using your crawl/GSC/GA4."
+  }
+}

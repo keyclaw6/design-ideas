@@ -1,0 +1,33 @@
+{
+  "root_id": "2093377271771865267",
+  "reply_count_reported": 0,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093377271771865267",
+      "author_handle": null,
+      "created_at": "2026-08-28T16:36:49Z",
+      "text": "BLENDER LOCKS THE SHOT. SEEDANCE FINISHES IT\n\nThis is not a lucky night video.\n\nThe 3D scene was built first.\nThen the camera was locked inside Blender.\n\nHiggsfield plugin sits inside Blender.\n\nLow-poly car. Road. Exact camera path.\nThat previz becomes the structure for Seedance https://t.co/tsBTfyfVvo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1986,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/tsBTfyfVvo"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2093377271771865267"
+  ],
+  "item_id": "x-2093377271771865267",
+  "handle": "abyssallD",
+  "http_status": 200,
+  "url": "https://x.com/abyssallD/status/2093377271771865267",
+  "html_bytes": 147745,
+  "raw_path": "raw/items/x-2093377271771865267/thread-raw/x-web-dom-20260904T175327Z.html"
+}

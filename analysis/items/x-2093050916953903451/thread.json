@@ -1,0 +1,84 @@
+{
+  "schema_version": "1",
+  "id": "x-2093050916953903451",
+  "tweet_id": "2093050916953903451",
+  "root_author_handle": "shengkunye",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 387,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 134,
+  "replies_captured": 2,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 385,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093053691133829626",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T19:11:01Z",
+      "text": "@Tiny_Fish We don't need your credit card for free search.   \n\nJust give this to your agent. \nhttps://t.co/GbQ7lZtot2",
+      "text_en": null,
+      "urls": [
+        "https://t.co/GbQ7lZtot2"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 496,
+        "replies": 25,
+        "reposts": 27,
+        "views": 46736
+      },
+      "parent_id": "2093050916953903451",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093057107096678587",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T19:24:36Z",
+      "text": "@shengkunye Let's goooo!!!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 110,
+        "replies": 5,
+        "reposts": 4,
+        "views": 29769
+      },
+      "parent_id": "2093050916953903451",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/shengkunye/status/2093050916953903451",
+      "outcome": "ok",
+      "note": "html_bytes=196419 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/shengkunye/status/2093050916953903451",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093050916953903451/thread-raw/x-web-dom-20260904T175325Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

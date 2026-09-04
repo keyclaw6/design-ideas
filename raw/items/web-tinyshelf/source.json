@@ -1,0 +1,35 @@
+{
+  "id": "web-tinyshelf",
+  "url": "https://tinyshelf.co",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:56:00Z",
+  "title": "TinyShelf \u2014 curated software directory",
+  "authors": [
+    "TinyShelf"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/chrissyinspace/status/2094328961522397530",
+    "https://tinyshelf.co/submit",
+    "https://tinyshelf.co/tools/tinyshots",
+    "https://tinyshots.app",
+    "https://www.tinylaunch.com/directories"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "submit_flow": "Google OAuth sign-in",
+    "category_count": 19,
+    "fetch": "r.jina.ai landing + /submit + /tools/tinyshots",
+    "related_items": [
+      "web-tinylaunch-directories",
+      "web-tinyshots",
+      "web-brave-submit-url",
+      "web-crowdreply",
+      "github-iannuttall-seo"
+    ],
+    "category_note": "Human-reviewed software directory; TinyShots listed here."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schema_version": "1",
+  "id": "x-2089602918605619401",
+  "tweet_id": "2089602918605619401",
+  "root_author_handle": "MengTo",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 63,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 14,
+  "replies_captured": 3,
+  "replies_relevant": 3,
+  "replies_dropped_unfetched": 60,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089617622560387307",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T07:37:19Z",
+      "text": "@MengTo Looks very great! \n\nI too tried to create 3d website using grok. \n\nHere's the post: \n\nhttps://t.co/aNdh1cJnaK",
+      "text_en": null,
+      "urls": [
+        "https://t.co/aNdh1cJnaK"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 16,
+        "replies": 5,
+        "reposts": 2,
+        "views": 2487
+      },
+      "parent_id": "2089602918605619401",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2089613001813090631",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T07:18:57Z",
+      "text": "@MengTo Thanks buddy did this after your tokyo landing page, and skills. Keep sharing stuffs. ☺️ https://t.co/ifExcj0yL6",
+      "text_en": null,
+      "urls": [
+        "https://t.co/ifExcj0yL6"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1215
+      },
+      "parent_id": "2089602918605619401",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2089686159278367061",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T12:09:39Z",
+      "text": "@MengTo 👀 Have a look.\nhttps://t.co/AwacZmKF3H",
+      "text_en": null,
+      "urls": [
+        "https://t.co/AwacZmKF3H"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 184
+      },
+      "parent_id": "2089602918605619401",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2089252548473688076",
+      "author_handle": "MengTo",
+      "created_at": "2026-08-17T07:26:38Z",
+      "text": "I’m blown away by the quality of the landing pages that Opus 5 can create in Three.js.\n\nPrompting it with \"orbit using mouse\" is enough to create a 3D parallax effect. The same goes for \"add particles to pointer.\" It’s like creating a living, breathing world.\n\nMore prompts I https://t.co/F04IAtOwvR",
+      "text_en": null,
+      "urls": [
+        "https://t.co/F04IAtOwvR"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    },
+    {
+      "id": "2089423535127269884",
+      "author_handle": "MengTo",
+      "created_at": "2026-08-17T18:46:05Z",
+      "text": "I built Cosmic Atlas using Grok Build [Grok 4.6]\n\n3D rendered planets using Three.js\nreal maps using Solar System Scope\ncamera hops using GSAP\norbits using Kepler math\n\ngo fly it → https://t.co/IYWTBsJdlX https://t.co/yYWAJmeuyH",
+      "text_en": null,
+      "urls": [
+        "https://t.co/IYWTBsJdlX",
+        "https://t.co/yYWAJmeuyH"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 4955
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/MengTo/status/2089602918605619401",
+      "outcome": "ok",
+      "note": "html_bytes=275009 tweets=6"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/MengTo/status/2089602918605619401",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089602918605619401/thread-raw/x-web-dom-20260904T175313Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

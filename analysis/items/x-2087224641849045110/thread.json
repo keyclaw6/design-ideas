@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2087224641849045110",
+  "tweet_id": "2087224641849045110",
+  "root_author_handle": "Stagehanddev",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 3,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087228610000331236",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T17:24:14Z",
+      "text": "@Stagehanddev @browserbase Good read! Tbh the effort that went into v4 has really paid off. Hats off to the Stagehand team 👏",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 68
+      },
+      "parent_id": "2087224641849045110",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Stagehanddev/status/2087224641849045110",
+      "outcome": "ok",
+      "note": "html_bytes=275850 tweets=1"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Stagehanddev/status/2087224641849045110",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087224641849045110/thread-raw/x-web-dom-20260904T175304Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

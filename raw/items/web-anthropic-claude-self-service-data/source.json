@@ -1,0 +1,36 @@
+{
+  "id": "web-anthropic-claude-self-service-data",
+  "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "title": "How Anthropic enables self-service data analytics with Claude",
+  "authors": [
+    "Anthropic"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://x.com/medriscoll/status/2094558408259272998",
+    "https://x.com/ClaudeDevs/status/2062274312363770064",
+    "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+    "https://www.iandmacomber.com/blog/post-ai-data-stack",
+    "https://davidgasquez.com/context-engineering-is-a-data-problem"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "published": "2026-06-03",
+    "accuracy_claim": "~95% of business analytics queries automated; ~95% aggregate accuracy",
+    "fetch": "r.jina.ai",
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering",
+      "web-iandmacomber-post-ai-data-stack",
+      "web-chatgpt-training",
+      "web-graphed"
+    ],
+    "category_note": "Anthropic playbook: semantic layer + skills \u2192 ~95% analytics."
+  }
+}

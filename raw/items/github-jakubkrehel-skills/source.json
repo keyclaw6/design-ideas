@@ -1,0 +1,34 @@
+{
+  "id": "github-jakubkrehel-skills",
+  "url": "https://github.com/jakubkrehel/skills",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "interfaces.dev Skills",
+  "authors": [
+    "jakubkrehel"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://jakub.kr/skills",
+    "https://interfaces.dev/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 4759,
+    "forks": 163,
+    "license": "MIT",
+    "language": "Markdown",
+    "related_items": [
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "github-pbakaus-impeccable",
+      "web-checklist-design",
+      "web-opale-ui-taste"
+    ],
+    "category_note": "interfaces.dev better-* UI/type/a11y skill pack."
+  }
+}

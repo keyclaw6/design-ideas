@@ -1,0 +1,57 @@
+{
+  "schema_version": "1",
+  "id": "x-2089717063921332378",
+  "tweet_id": "2089717063921332378",
+  "root_author_handle": "CadX_Studio",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 0,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [
+    {
+      "id": "2089706893635928468",
+      "author_handle": "CadX_Studio",
+      "created_at": null,
+      "text": "As someone who spent years on traditional CAD before co-founding @CadX_Studio this hits different.\n2 prompts. A fully parametric flat-head screwdriver. Rendered, browser-native.\nWelcome to the AI age of design.\n\n#CAD #Engineering #AI https://t.co/Srk51mu9R2",
+      "text_en": null,
+      "urls": [
+        "https://t.co/Srk51mu9R2"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/CadX_Studio/status/2089717063921332378",
+      "outcome": "ok",
+      "note": "html_bytes=175791 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/CadX_Studio/status/2089717063921332378",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089717063921332378/thread-raw/x-web-dom-20260904T175313Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

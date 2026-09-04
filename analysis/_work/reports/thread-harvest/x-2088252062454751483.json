@@ -1,0 +1,85 @@
+{
+  "root_id": "2088252062454751483",
+  "reply_count_reported": 17,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2088252062454751483",
+      "author_handle": null,
+      "created_at": "2026-08-14T13:11:04Z",
+      "text": "OpenSCAD + Cursor + grill-me is incredible! I just made a custom homelab server device rack\n\n1. Create an empty folder with grill-me\n2. Plan mode, tell it the size of your space and list the items in the rack\n3. Hit Go\n4. Dump the STLs into Bambu Studio https://t.co/kU6QmazdbN",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 421,
+        "replies": 17,
+        "reposts": 20,
+        "views": 20387,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/kU6QmazdbN"
+      ]
+    },
+    {
+      "id": "2088327998063693951",
+      "author_handle": null,
+      "created_at": "2026-08-14T18:12:48Z",
+      "text": "@anaisbetts this grill-me? \n\nhttps://t.co/yIPMiN9j4k\n\nI have been unknowingly a baby version of this unknowingly and I think it rips.\n\nI can't believe how good those designs look.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 14,
+        "replies": 1,
+        "reposts": 0,
+        "views": 923,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/yIPMiN9j4k"
+      ]
+    },
+    {
+      "id": "2088254061762019696",
+      "author_handle": null,
+      "created_at": "2026-08-14T13:19:00Z",
+      "text": "@anaisbetts openscad plus llms is so fun for homelab stuff! \n\nwas able to put together a super cheap but effective fan cooling system for my mini rack using a random pwm fan controller pcb + a few 80mm fans and i’ve never done 3d modeling before",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 765,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088593551856681412",
+      "author_handle": null,
+      "created_at": "2026-08-15T11:48:01Z",
+      "text": "@anaisbetts You may like https://t.co/NOGx8QjLUO",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 16,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/NOGx8QjLUO"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088252062454751483",
+    "2088254061762019696",
+    "2088327998063693951",
+    "2088593551856681412"
+  ],
+  "item_id": "x-2088252062454751483",
+  "handle": "anaisbetts",
+  "http_status": 200,
+  "url": "https://x.com/anaisbetts/status/2088252062454751483",
+  "html_bytes": 213951,
+  "raw_path": "raw/items/x-2088252062454751483/thread-raw/x-web-dom-20260904T175308Z.html"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "web-aura-build",
+  "url": "https://aura.build",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:42:00Z",
+  "title": "Aura \u2014 AI Website Builder",
+  "authors": [
+    "aura"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/tranmautritam/status/2095078647652917329"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "capture_note": "SPA shell; meta description from direct HTML",
+    "related_items": [
+      "github-mengto-skills",
+      "web-neuform-ai",
+      "web-open-design-ai",
+      "github-nexu-io-open-design",
+      "web-aidesigner-mcp"
+    ],
+    "category_note": "SPA AI landing builder; capture is meta-only."
+  }
+}

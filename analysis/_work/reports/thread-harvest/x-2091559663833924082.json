@@ -1,0 +1,87 @@
+{
+  "root_id": "2091559663833924082",
+  "reply_count_reported": 30,
+  "quote_count_reported": 11,
+  "tweets": [
+    {
+      "id": "2091559663833924082",
+      "author_handle": null,
+      "created_at": "2026-08-23T16:14:17Z",
+      "text": "system-atlas: a skill that builds an explorable isometric map of your codebase / agent / pipeline from one data file\n\narranging the system visually does something for my brain that a wall of text doesn't\n\ni've found it way more useful to build up understanding of a system or a https://t.co/NFu3dfGf6J",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1856,
+        "replies": 30,
+        "reposts": 101,
+        "views": 163719,
+        "quotes": 11
+      },
+      "urls": [
+        "https://t.co/NFu3dfGf6J"
+      ]
+    },
+    {
+      "id": "2088016749849682120",
+      "author_handle": null,
+      "created_at": "2026-08-13T21:36:01Z",
+      "text": "i've started having claude turn my codebases into visual diagrams so i can discuss the codebases with claude more easily - the moving dots are data snippets that i can inspect https://t.co/e2lYvdQu7M",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 1553277,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/e2lYvdQu7M"
+      ]
+    },
+    {
+      "id": "2091559666736406778",
+      "author_handle": null,
+      "created_at": "2026-08-23T16:14:18Z",
+      "text": "`npx skills add inkboard/system-atlas`\n\nhttps://t.co/ViIMDVN6RU",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 103,
+        "replies": 1,
+        "reposts": 7,
+        "views": 5213,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/ViIMDVN6RU"
+      ]
+    },
+    {
+      "id": "2092007346234872185",
+      "author_handle": null,
+      "created_at": "2026-08-24T21:53:13Z",
+      "text": "@GarshytHoel ELITE - our team gave it a go and are going to keep using your work. congrats.\n\nwe did find a lil issue in the HTML template if you want to check it out: https://t.co/U4Ibw4mbcQ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 174,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/U4Ibw4mbcQ"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088016749849682120",
+    "2091559663833924082",
+    "2091559666736406778",
+    "2092007346234872185"
+  ],
+  "item_id": "x-2091559663833924082",
+  "handle": "GarshytHoel",
+  "http_status": 200,
+  "url": "https://x.com/GarshytHoel/status/2091559663833924082",
+  "html_bytes": 249310,
+  "raw_path": "raw/items/x-2091559663833924082/thread-raw/x-web-dom-20260904T175317Z.html"
+}

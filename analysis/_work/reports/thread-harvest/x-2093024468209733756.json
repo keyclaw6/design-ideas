@@ -1,0 +1,67 @@
+{
+  "root_id": "2093024468209733756",
+  "reply_count_reported": 14,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093024468209733756",
+      "author_handle": null,
+      "created_at": "2026-08-27T17:14:54Z",
+      "text": "You don't need to outbid everyone for attention if your product actually looks good. Here’s a design that proves it https://t.co/uCbX29UOlj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 135,
+        "replies": 14,
+        "reposts": 6,
+        "views": 3869,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/uCbX29UOlj"
+      ]
+    },
+    {
+      "id": "2093028186007241101",
+      "author_handle": null,
+      "created_at": "2026-08-27T17:29:40Z",
+      "text": "Your brand could have been here, but you didn't order a design from me 👀🦭😁 https://t.co/fcpwDR65ON",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 244,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/fcpwDR65ON"
+      ]
+    },
+    {
+      "id": "2093162059882262871",
+      "author_handle": null,
+      "created_at": "2026-08-28T02:21:38Z",
+      "text": "@KrisAnfalova I love it! 👌",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 133,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093024468209733756",
+    "2093028186007241101",
+    "2093162059882262871"
+  ],
+  "item_id": "x-2093024468209733756",
+  "handle": "KrisAnfalova",
+  "http_status": 200,
+  "url": "https://x.com/KrisAnfalova/status/2093024468209733756",
+  "html_bytes": 159270,
+  "raw_path": "raw/items/x-2093024468209733756/thread-raw/x-web-dom-20260904T175324Z.html"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "github-youmind-openlab-nano-banana-pro-prompts",
+  "url": "https://github.com/youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "Nano Banana Pro Prompts Recommend Skill",
+  "authors": [
+    "YouMind-OpenLab"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://youmind.com/nano-banana-pro-prompts",
+    "https://clawhub.com/skill/nano-banana-pro-prompts-recommend"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 1843,
+    "forks": 198,
+    "license": "MIT",
+    "language": "TypeScript",
+    "related_items": [
+      "github-wuyoscar-gpt-image2-skill",
+      "web-meigen-ai",
+      "github-antvis-infographic",
+      "web-sceneai-art",
+      "github-oso95-scroll-world"
+    ],
+    "category_note": "10k+ Nano Banana Pro prompts; grep-style agent search."
+  }
+}

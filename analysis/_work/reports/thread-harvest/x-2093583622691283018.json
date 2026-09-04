@@ -1,0 +1,65 @@
+{
+  "root_id": "2093583622691283018",
+  "reply_count_reported": 70,
+  "quote_count_reported": 15,
+  "tweets": [
+    {
+      "id": "2093583622691283018",
+      "author_handle": null,
+      "created_at": "2026-08-29T06:16:47Z",
+      "text": "Este tipo explica cómo crear páginas web profesionales con GPT-5.6 Sol.\n\nUn tutorial de 21 minutos donde explica paso a paso cómo construir diseños con un acabado cinematográfico.\n\n🔖 Guárdalo. Vale cada minuto. https://t.co/uO29VU1XMH",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6164,
+        "replies": 70,
+        "reposts": 662,
+        "views": 420311,
+        "quotes": 15
+      },
+      "urls": [
+        "https://t.co/uO29VU1XMH"
+      ]
+    },
+    {
+      "id": "2093723106498240764",
+      "author_handle": null,
+      "created_at": "2026-08-29T15:31:02Z",
+      "text": "@alextalksai the honest answer is that gpt's capabilities are still ahead of most designers' understanding of what they can do. this guy's tutorial is a good start, but we'll see more breakthroughs when people grasp the medium itself, not just the tool",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 1,
+        "reposts": 0,
+        "views": 8312,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093724120878141737",
+      "author_handle": null,
+      "created_at": "2026-08-29T15:35:04Z",
+      "text": "@alextalksai 21 minutes well spent, love the cinematic finish walkthrough.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2412,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093583622691283018",
+    "2093723106498240764",
+    "2093724120878141737"
+  ],
+  "item_id": "x-2093583622691283018",
+  "handle": "alextalksai",
+  "http_status": 200,
+  "url": "https://x.com/alextalksai/status/2093583622691283018",
+  "html_bytes": 183102,
+  "raw_path": "raw/items/x-2093583622691283018/thread-raw/x-web-dom-20260904T175328Z.html"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x-2085006701984698712",
+  "url": "https://x.com/petergyang/status/2085006701984698712",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:50:58Z",
+  "title": "My last open-source skill, /no-ai-slop, clearly hit a nerve with 4K GitHub stars. Today, I’m introducing /human-review, ",
+  "authors": [
+    "@petergyang"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/petergyang/human-review",
+    "https://creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2085006701984698712",
+    "author_handle": "petergyang",
+    "related_items": [
+      "github-pbakaus-impeccable",
+      "github-emilkowalski-skills",
+      "x-2086715093707063445",
+      "x-2086845465140842638"
+    ],
+    "category_note": "Local visual editor skill for HTML/MD: edit copy/images and leave Doc-style comments for the agent."
+  }
+}

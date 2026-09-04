@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2091559663833924082",
+  "tweet_id": "2091559663833924082",
+  "root_author_handle": "GarshytHoel",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 30,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 11,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 29,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092007346234872185",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T21:53:13Z",
+      "text": "@GarshytHoel ELITE - our team gave it a go and are going to keep using your work. congrats.\n\nwe did find a lil issue in the HTML template if you want to check it out: https://t.co/U4Ibw4mbcQ",
+      "text_en": null,
+      "urls": [
+        "https://t.co/U4Ibw4mbcQ"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 174
+      },
+      "parent_id": "2091559663833924082",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2088016749849682120",
+      "author_handle": "GarshytHoel",
+      "created_at": "2026-08-13T21:36:01Z",
+      "text": "i've started having claude turn my codebases into visual diagrams so i can discuss the codebases with claude more easily - the moving dots are data snippets that i can inspect https://t.co/e2lYvdQu7M",
+      "text_en": null,
+      "urls": [
+        "https://t.co/e2lYvdQu7M"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 1553277
+      }
+    },
+    {
+      "id": "2091559666736406778",
+      "author_handle": "GarshytHoel",
+      "created_at": "2026-08-23T16:14:18Z",
+      "text": "`npx skills add inkboard/system-atlas`\n\nhttps://t.co/ViIMDVN6RU",
+      "text_en": null,
+      "urls": [
+        "https://t.co/ViIMDVN6RU"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 103,
+        "replies": 1,
+        "reposts": 7,
+        "views": 5213
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/GarshytHoel/status/2091559663833924082",
+      "outcome": "ok",
+      "note": "html_bytes=249310 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/GarshytHoel/status/2091559663833924082",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091559663833924082/thread-raw/x-web-dom-20260904T175317Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

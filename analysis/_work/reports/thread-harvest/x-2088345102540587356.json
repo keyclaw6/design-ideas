@@ -1,0 +1,82 @@
+{
+  "root_id": "2088345102540587356",
+  "reply_count_reported": 34,
+  "quote_count_reported": 13,
+  "tweets": [
+    {
+      "id": "2088345102540587356",
+      "author_handle": null,
+      "created_at": "2026-08-14T19:20:46Z",
+      "text": "anatomy of a managed deep agent. https://t.co/pnmD06la9i https://t.co/5YhIkJP6SI",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1714,
+        "replies": 34,
+        "reposts": 196,
+        "views": 332914,
+        "quotes": 13
+      },
+      "urls": [
+        "https://t.co/pnmD06la9i",
+        "https://t.co/5YhIkJP6SI"
+      ]
+    },
+    {
+      "id": "2088360929360822622",
+      "author_handle": null,
+      "created_at": "2026-08-14T20:23:40Z",
+      "text": "@caspar_br I’ve been trying to figure out a way to explain this to people. They don’t quite get it yet.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 13,
+        "replies": 2,
+        "reposts": 0,
+        "views": 6210,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088374746744598804",
+      "author_handle": null,
+      "created_at": "2026-08-14T21:18:34Z",
+      "text": "@caspar_br I am waiting for \"your agent is a micro service\" next 😝",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 4635,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088482479032397905",
+      "author_handle": null,
+      "created_at": "2026-08-15T04:26:39Z",
+      "text": "@caspar_br My agent is most certainly NOT a folder.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 950,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2088345102540587356",
+    "2088360929360822622",
+    "2088374746744598804",
+    "2088482479032397905"
+  ],
+  "item_id": "x-2088345102540587356",
+  "handle": "caspar_br",
+  "http_status": 200,
+  "url": "https://x.com/caspar_br/status/2088345102540587356",
+  "html_bytes": 183068,
+  "raw_path": "raw/items/x-2088345102540587356/thread-raw/x-web-dom-20260904T175309Z.html"
+}

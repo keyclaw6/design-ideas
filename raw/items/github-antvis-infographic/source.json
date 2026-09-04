@@ -1,0 +1,36 @@
+{
+  "id": "github-antvis-infographic",
+  "url": "https://github.com/antvis/infographic",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "AntV Infographic",
+  "authors": [
+    "antvis"
+  ],
+  "topics": [
+    "infographics",
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://infographic.antv.vision",
+    "https://infographic.antv.vision/gallery",
+    "https://infographic.antv.vision/ai"
+  ],
+  "media": [
+    "media/preview.webp"
+  ],
+  "unsaved": false,
+  "extra": {
+    "stars": 6531,
+    "npm": "@antv/infographic",
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "web-flint-chart",
+      "github-youmind-openlab-nano-banana-pro-prompts",
+      "web-iandmacomber-post-ai-data-stack",
+      "github-wuyoscar-gpt-image2-skill"
+    ],
+    "category_note": "AntV SVG infographic framework + agent skills."
+  }
+}

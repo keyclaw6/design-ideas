@@ -1,0 +1,23 @@
+{
+  "id": "x-2092222199620833420",
+  "url": "https://x.com/trending_repos/status/2092222199620833420",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:47Z",
+  "title": "Trending repository of the day 📈 awesome-gpt-image-2 Prompt as Code | Industrial-grade prompt engine and template librar",
+  "authors": [
+    "Trending GitHub Repositories (@trending_repos)"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2092222199620833420",
+    "author_handle": "trending_repos",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:39:53Z"
+  }
+}

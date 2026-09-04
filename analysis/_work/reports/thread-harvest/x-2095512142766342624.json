@@ -1,0 +1,67 @@
+{
+  "root_id": "2095512142766342624",
+  "reply_count_reported": 123,
+  "quote_count_reported": 50,
+  "tweets": [
+    {
+      "id": "2095512142766342624",
+      "author_handle": null,
+      "created_at": "2026-09-03T14:00:02Z",
+      "text": "Take a photo of the real world\nPaste it into Blender 3D https://t.co/3N23eJjleK",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4187,
+        "replies": 123,
+        "reposts": 299,
+        "views": 423663,
+        "quotes": 50
+      },
+      "urls": [
+        "https://t.co/3N23eJjleK"
+      ]
+    },
+    {
+      "id": "2095512143110213939",
+      "author_handle": null,
+      "created_at": "2026-09-03T14:00:02Z",
+      "text": "Try it out: https://t.co/jxeeC03PEV",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 509,
+        "replies": 8,
+        "reposts": 47,
+        "views": 18481,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/jxeeC03PEV"
+      ]
+    },
+    {
+      "id": "2095578618726322354",
+      "author_handle": null,
+      "created_at": "2026-09-03T18:24:11Z",
+      "text": "@sidahuj This is slop. Cleverly pipelined, but still slop",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 85,
+        "replies": 5,
+        "reposts": 0,
+        "views": 9853,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095512142766342624",
+    "2095512143110213939",
+    "2095578618726322354"
+  ],
+  "item_id": "x-2095512142766342624",
+  "handle": "sidahuj",
+  "http_status": 200,
+  "url": "https://x.com/sidahuj/status/2095512142766342624",
+  "html_bytes": 183692,
+  "raw_path": "raw/items/x-2095512142766342624/thread-raw/x-web-dom-20260904T175339Z.html"
+}

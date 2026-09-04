@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2089377925086982281",
+  "tweet_id": "2089377925086982281",
+  "root_author_handle": "tjrfinn",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 1,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089398342912512202",
+      "author_handle": "unknown",
+      "created_at": "2026-08-17T17:05:58Z",
+      "text": "@tjrfinn Interesting",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 846
+      },
+      "parent_id": "2089377925086982281",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2089624536572407962",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T08:04:47Z",
+      "text": "@tjrfinn if your tool cold calls me i will personally show up at your door and beat you to death",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 45
+      },
+      "parent_id": "2089377925086982281",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2089656137964573177",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T10:10:21Z",
+      "text": "@tjrfinn If cold calling works so well, why are you advertising on X?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 28
+      },
+      "parent_id": "2089377925086982281",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/tjrfinn/status/2089377925086982281",
+      "outcome": "ok",
+      "note": "html_bytes=179494 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/tjrfinn/status/2089377925086982281",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089377925086982281/thread-raw/x-web-dom-20260904T175312Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "github-LessieAI-people-search-bench",
+  "url": "https://github.com/LessieAI/people-search-bench",
+  "source_type": "github",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "People Search Bench",
+  "authors": [
+    "LessieAI"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/pmitu/status/2094740953554932149",
+    "https://arxiv.org/abs/2603.27476",
+    "https://treg.to/people-search",
+    "https://lessie.ai"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 132,
+    "license": "MIT",
+    "language": "Python",
+    "forks": 33,
+    "fetch": "GitHub API + raw README main",
+    "related_items": [
+      "web-arxiv-2603-27476",
+      "web-treg-people-search",
+      "github-superdesigndev-treg",
+      "github-iannuttall-seo",
+      "github-romangojiberryAI-gojiberryai-sales-os"
+    ],
+    "category_note": "Open people-search eval; pairs with treg catalog and arXiv paper."
+  }
+}

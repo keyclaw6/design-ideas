@@ -1,0 +1,105 @@
+{
+  "root_id": "2093051654937423887",
+  "reply_count_reported": 2,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2093051654937423887",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:02:56Z",
+      "text": "Introducing Mint Studio →  Full 3D camera control for video generation right in your browser!\n\nNo Blender required! https://t.co/VqDx9xzQ1L",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 48,
+        "replies": 2,
+        "reposts": 7,
+        "views": 6994,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/VqDx9xzQ1L"
+      ]
+    },
+    {
+      "id": "2093051656426406288",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:02:56Z",
+      "text": "step 1 - Click and drag models to compose in 3D\nstep 2 - Add camera animation keyframe\nstep 3 - Render as video https://t.co/6lHZu4Hbez",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 363,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/6lHZu4Hbez"
+      ]
+    },
+    {
+      "id": "2093051658016035321",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:02:56Z",
+      "text": "Mint studio also allows you to import a 3D model of any city in under 10 seconds to use as your scene https://t.co/DmLAUd8Ffb",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 189,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/DmLAUd8Ffb"
+      ]
+    },
+    {
+      "id": "2093051659383390332",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:02:57Z",
+      "text": "Mint Studio also supports @theworldlabs generated worlds as your 3D previz environment https://t.co/8SIFIBCs5J",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 139,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/8SIFIBCs5J"
+      ]
+    },
+    {
+      "id": "2093053746796245077",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:11:14Z",
+      "text": "Live now here! https://t.co/kfmFB5sFWU",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 99,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/kfmFB5sFWU"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2093051654937423887",
+    "2093051656426406288",
+    "2093051658016035321",
+    "2093051659383390332",
+    "2093053746796245077"
+  ],
+  "item_id": "x-2093051654937423887",
+  "handle": "tamrrat",
+  "http_status": 200,
+  "url": "https://x.com/tamrrat/status/2093051654937423887",
+  "html_bytes": 246261,
+  "raw_path": "raw/items/x-2093051654937423887/thread-raw/x-web-dom-20260904T175325Z.html"
+}

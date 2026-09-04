@@ -1,0 +1,121 @@
+{
+  "root_id": "2089701163117494735",
+  "reply_count_reported": 27,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2089701163117494735",
+      "author_handle": null,
+      "created_at": "2026-08-18T13:09:16Z",
+      "text": "Had to try it on an invoice https://t.co/Pt3yqZAQE7",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2291,
+        "replies": 27,
+        "reposts": 57,
+        "views": 232534,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/Pt3yqZAQE7"
+      ]
+    },
+    {
+      "id": "2089372767934115883",
+      "author_handle": null,
+      "created_at": null,
+      "text": "Currently I’m really into markdown graphs with one vibrant accent color https://t.co/OZkRrENTMb",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/OZkRrENTMb"
+      ]
+    },
+    {
+      "id": "2089752429944324333",
+      "author_handle": null,
+      "created_at": "2026-08-18T16:32:59Z",
+      "text": "🫠 https://t.co/meFJM3X6IL",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 5231,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/meFJM3X6IL"
+      ]
+    },
+    {
+      "id": "2089787324028555342",
+      "author_handle": null,
+      "created_at": "2026-08-18T18:51:39Z",
+      "text": "fixed ✅ https://t.co/GT9s4Yc887",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3778,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/GT9s4Yc887"
+      ]
+    },
+    {
+      "id": "2089799141614309662",
+      "author_handle": null,
+      "created_at": "2026-08-18T19:38:36Z",
+      "text": "merged https://t.co/OZxbAsuiQ5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2689,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/OZxbAsuiQ5"
+      ]
+    },
+    {
+      "id": "2089782950929813523",
+      "author_handle": null,
+      "created_at": "2026-08-18T18:34:16Z",
+      "text": "@kairevicius Yeah, this style is pretty versatile. Nice one!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1998,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089372767934115883",
+    "2089701163117494735",
+    "2089752429944324333",
+    "2089782950929813523",
+    "2089787324028555342",
+    "2089799141614309662"
+  ],
+  "item_id": "x-2089701163117494735",
+  "handle": "kairevicius",
+  "http_status": 200,
+  "url": "https://x.com/kairevicius/status/2089701163117494735",
+  "html_bytes": 237703,
+  "raw_path": "raw/items/x-2089701163117494735/thread-raw/x-web-dom-20260904T175314Z.html"
+}

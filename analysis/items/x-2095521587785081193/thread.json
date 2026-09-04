@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "id": "x-2095521587785081193",
+  "tweet_id": "2095521587785081193",
+  "root_author_handle": "titouangillet_",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 20,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 19,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095525883536707709",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T14:54:38Z",
+      "text": "@titouangillet_ @intelligenceco I'd also add the emotional factor was huge in terms of carrying the video. I got *literally thousands* of comments on the grandma/how it made them feel.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "views": 666
+      },
+      "parent_id": "2095521587785081193",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2095521756765208887",
+      "author_handle": "titouangillet_",
+      "created_at": "2026-09-03T14:38:14Z",
+      "text": "What makes it work:\n\n1. Founder on camera ➜ Andrew carries the video himself.\n\n2. Live product proof ➜ Real UI running live. Zero mockups.\n\n3. Zero friction ➜ You get what it does in 3s without reading features.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 835
+      }
+    },
+    {
+      "id": "2095521833424429342",
+      "author_handle": "titouangillet_",
+      "created_at": "2026-09-03T14:38:32Z",
+      "text": "Huge props to @ndrewpignanelli and the team on this one 👏",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 582
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/titouangillet_/status/2095521587785081193",
+      "outcome": "ok",
+      "note": "html_bytes=221557 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/titouangillet_/status/2095521587785081193",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095521587785081193/thread-raw/x-web-dom-20260904T175339Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2093729321131368744",
+  "tweet_id": "2093729321131368744",
+  "root_author_handle": "alexgroberman",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 9,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 6,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095523871679992308",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T14:46:38Z",
+      "text": "@alexgroberman It’s valuable! Thanks for sharing",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2
+      },
+      "parent_id": "2093729321131368744",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094434857338507393",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T14:39:17Z",
+      "text": "@alexgroberman 87% of ChatGPT citations line up with Bing top results. Which means the article that added six figures probably won Bing before it won anything else.\n\nThe tell would be Bing URL Inspection showing crawled and indexed on the pages that spiked. Anyone testing this: check Bing",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 12
+      },
+      "parent_id": "2093729321131368744",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094084420571705420",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T15:26:46Z",
+      "text": "@alexgroberman Applied one of your teardowns to a fiber-careers site 6 weeks ago. Zero ChatGPT citations before. Rewrote the top career pages with the entity plus FAQ plus structured-data pass. Now 5 of the last 7 job applicants name ChatGPT as the source. Google sent 1 click in the same 7",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 34
+      },
+      "parent_id": "2093729321131368744",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2014016570163597443",
+      "author_handle": "alexgroberman",
+      "created_at": "2026-01-21T16:45:43Z",
+      "text": "https://t.co/V1O6b6P8x8",
+      "text_en": null,
+      "urls": [
+        "https://t.co/V1O6b6P8x8"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 148733
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/alexgroberman/status/2093729321131368744",
+      "outcome": "ok",
+      "note": "html_bytes=202845 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/alexgroberman/status/2093729321131368744",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093729321131368744/thread-raw/x-web-dom-20260904T175329Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

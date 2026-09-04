@@ -1,0 +1,85 @@
+{
+  "root_id": "2088155107544191339",
+  "reply_count_reported": 10,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2088155107544191339",
+      "author_handle": null,
+      "created_at": "2026-08-14T06:45:48Z",
+      "text": "claude dropped Motion Prompt, and the crazy part is this entire animation was made with code, not AI-generated images or video. \n\none Claude prompt can turn your idea/script into a finished promo film.\n\nthink dark neon, glass-and-light motion films (Apple product reveal × https://t.co/l3LG3tQQLf",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 22,
+        "replies": 10,
+        "reposts": 4,
+        "views": 1531,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/l3LG3tQQLf"
+      ]
+    },
+    {
+      "id": "2087993701859500498",
+      "author_handle": null,
+      "created_at": "2026-08-13T20:04:26Z",
+      "text": "Vinh Nguyen dropped an 8-minute breakdown of Graph Engineering with Claude, based on the full 14-step roadmap.\n\nthe key idea:\n\nmost multi-step AI agents fail because the work isn’t really linear, it’s a graph.\n\n here’s how it works now:\n\n10% → linear\ndevelopers build agents https://t.co/eLKk2uHpnk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/eLKk2uHpnk"
+      ]
+    },
+    {
+      "id": "2088155295012806833",
+      "author_handle": null,
+      "created_at": "2026-08-14T06:46:33Z",
+      "text": "https://t.co/Wyc5bWYU9P",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 74,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Wyc5bWYU9P"
+      ]
+    },
+    {
+      "id": "2088195837415334167",
+      "author_handle": null,
+      "created_at": "2026-08-14T09:27:39Z",
+      "text": "@kaddisdeployed @ib_senpaiii Claude is really amazing",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 34,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087993701859500498",
+    "2088155107544191339",
+    "2088155295012806833",
+    "2088195837415334167"
+  ],
+  "item_id": "x-2088155107544191339",
+  "handle": "kaddisdeployed",
+  "http_status": 200,
+  "url": "https://x.com/kaddisdeployed/status/2088155107544191339",
+  "html_bytes": 217175,
+  "raw_path": "raw/items/x-2088155107544191339/thread-raw/x-web-dom-20260904T175308Z.html"
+}

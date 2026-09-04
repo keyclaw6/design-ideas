@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2095482056180638142",
+  "tweet_id": "2095482056180638142",
+  "root_author_handle": "iamtanzil_",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 3,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095536833933300146",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T15:38:09Z",
+      "text": "@iamtanzil_ Genialne",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 63
+      },
+      "parent_id": "2095482056180638142",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2095482280185876486",
+      "author_handle": "iamtanzil_",
+      "created_at": "2026-09-03T12:01:22Z",
+      "text": "Access all prompts https://t.co/8yqOGQgCZU\n\nThe PROMPT\n\n# Header\n\nA scroll-scrubbed hero header for the LAOUNGE coffee brand, featuring a frame-accurate background video that seeks in sync with scroll and a giant title that shrinks into a floating logo as the user scrolls.\n\n##",
+      "text_en": null,
+      "urls": [
+        "https://t.co/8yqOGQgCZU"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 406
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/iamtanzil_/status/2095482056180638142",
+      "outcome": "ok",
+      "note": "html_bytes=196839 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/iamtanzil_/status/2095482056180638142",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095482056180638142/thread-raw/x-web-dom-20260904T175339Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "github-deedy-qr-data-transfer",
+  "url": "https://github.com/deedy/qr-data-transfer",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "QRFerry (qr-data-transfer)",
+  "authors": [
+    "deedy"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 460,
+    "forks": 87,
+    "language": "TypeScript",
+    "related_items": [
+      "web-dicebear",
+      "web-tinyshots",
+      "web-checklist-design",
+      "github-nateherkai-scroll-craft",
+      "web-animos-editor"
+    ],
+    "category_note": "Browser-only QR fountain-code file transfer (QRFerry)."
+  }
+}

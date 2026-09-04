@@ -1,0 +1,100 @@
+{
+  "root_id": "2093654908322951447",
+  "reply_count_reported": 73,
+  "quote_count_reported": 11,
+  "tweets": [
+    {
+      "id": "2093654908322951447",
+      "author_handle": null,
+      "created_at": "2026-08-29T11:00:03Z",
+      "text": "It's crazy how my entire LinkedIn feed is AI-slop content. No one cares to edit AI-written content. Here are 12 AI tells to delete &amp; the 11 skills that fix it:\n\n(all 11 skills are free here → https://t.co/Q6hsKOpV25)\n\nDelete these from your writing today-\n\n1. \"Delve.\" You've https://t.co/gfjMT5NOzh",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1933,
+        "replies": 73,
+        "reposts": 185,
+        "views": 252541,
+        "quotes": 11
+      },
+      "urls": [
+        "https://t.co/Q6hsKOpV25",
+        "https://t.co/gfjMT5NOzh"
+      ]
+    },
+    {
+      "id": "2080171634103840976",
+      "author_handle": null,
+      "created_at": "2026-07-23T06:02:19Z",
+      "text": "https://t.co/XAisibLmEi",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 1377152,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/XAisibLmEi"
+      ]
+    },
+    {
+      "id": "2093694990564376815",
+      "author_handle": null,
+      "created_at": "2026-08-29T13:39:19Z",
+      "text": "@rubenhassid the irony of an ai-written post telling people to stop writing like ai",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 0,
+        "reposts": 0,
+        "views": 551,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093708935291085277",
+      "author_handle": null,
+      "created_at": "2026-08-29T14:34:44Z",
+      "text": "@rubenhassid I do not understand the preference for human slop over AI slop. I just want to read interesting well written content. Most human writing is garbage too.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 12,
+        "replies": 1,
+        "reposts": 0,
+        "views": 587,
+        "quotes": 1
+      },
+      "urls": []
+    },
+    {
+      "id": "2093897382203175415",
+      "author_handle": null,
+      "created_at": "2026-08-30T03:03:33Z",
+      "text": "@rubenhassid This is such a ridiculous list. Anyone who grew up in a commonwealth country uses the red ones at the top (including delve) pretty frequently versus the average American. Now you’re saying the way they normally speak English is AI slop?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 310,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2080171634103840976",
+    "2093654908322951447",
+    "2093694990564376815",
+    "2093708935291085277",
+    "2093897382203175415"
+  ],
+  "item_id": "x-2093654908322951447",
+  "handle": "rubenhassid",
+  "http_status": 200,
+  "url": "https://x.com/rubenhassid/status/2093654908322951447",
+  "html_bytes": 227576,
+  "raw_path": "raw/items/x-2093654908322951447/thread-raw/x-web-dom-20260904T175328Z.html"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "web-obscura-sh",
+  "url": "https://obscura.sh",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "title": "Obscura \u2014 Give every agent its own browser",
+  "authors": [
+    "Obscura"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://x.com/0xJokker/status/2094427822064279870",
+    "https://github.com/h4ckf0r0day/obscura",
+    "https://docs.obscura.sh",
+    "https://docs.obscura.sh/llms.txt",
+    "https://blog.cloudflare.com/kitesurf/",
+    "https://x.com/obscura_sh"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "tagline": "Give every agent its own browser",
+    "fetch": "r.jina.ai homepage + docs.obscura.sh intro",
+    "related_items": [
+      "github-h4ckf0r0day-obscura",
+      "web-cloudflare-kitesurf",
+      "github-punkpeye-awesome-mcp-servers",
+      "web-design-md-hyperbrowser",
+      "github-nateherkai-scroll-craft"
+    ],
+    "category_note": "Marketing site for Obscura; docs + llms.txt + MCP guide."
+  }
+}

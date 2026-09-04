@@ -1,0 +1,99 @@
+{
+  "root_id": "2094553318031024285",
+  "reply_count_reported": 8,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094553318031024285",
+      "author_handle": null,
+      "created_at": "2026-08-31T22:30:00Z",
+      "text": "grok bot is literally Jarvis for AEO.\n\nit could take ANY local service business to $100k/month in 90 days.\n\nhere's how you do it (in 4 mins)\n\n1. install grok bot and make it your Chief of AI Visibility\n2. connect CrowdReply MCP\n3. feed it the article below with all prompts\n\nsetup https://t.co/EvMAc4scMv",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 93,
+        "replies": 8,
+        "reposts": 4,
+        "views": 30611,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/EvMAc4scMv"
+      ]
+    },
+    {
+      "id": "2094451439573881015",
+      "author_handle": null,
+      "created_at": "2026-08-31T15:45:10Z",
+      "text": "https://t.co/GJ8ZToja6V",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 373368,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/GJ8ZToja6V"
+      ]
+    },
+    {
+      "id": "2094621014453780738",
+      "author_handle": null,
+      "created_at": "2026-09-01T02:59:00Z",
+      "text": "@Crowdreply_io And run it thru AgentBoard to see if AI can see it",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 1,
+        "views": 202,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094685384449933679",
+      "author_handle": null,
+      "created_at": "2026-09-01T07:14:47Z",
+      "text": "@Crowdreply_io I manage 10 SaaS companies pulling in more than $500K / month in revenue.\n\nCan you give me a TLDR explanation of what this is and why we should invest in this?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 269,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094855407692857788",
+      "author_handle": null,
+      "created_at": "2026-09-01T18:30:24Z",
+      "text": "@Crowdreply_io Hey @grok is this true or deceptive",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 38,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094451439573881015",
+    "2094553318031024285",
+    "2094621014453780738",
+    "2094685384449933679",
+    "2094855407692857788"
+  ],
+  "item_id": "x-2094553318031024285",
+  "handle": "Crowdreply_io",
+  "http_status": 200,
+  "url": "https://x.com/Crowdreply_io/status/2094553318031024285",
+  "html_bytes": 224107,
+  "raw_path": "raw/items/x-2094553318031024285/thread-raw/x-web-dom-20260904T175333Z.html"
+}

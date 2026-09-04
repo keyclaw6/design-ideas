@@ -1,0 +1,31 @@
+{
+  "id": "x-2087143369181114868",
+  "url": "https://x.com/yibie/status/2087143369181114868",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:35Z",
+  "title": "Agent 记忆不该只记成功的——失败的轨迹同样有价值，推理过程本身就是最好的记忆内容。 Google Research 开源 ReasoningBank：经验驱动的记忆被当作继参数规模、测试时计算之后的第三个扩展维度。 Reasoning",
+  "authors": [
+    "yibie (@yibie)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/google-research/reasoning-bank"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087143369181114868",
+    "author_handle": "yibie",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:36:27Z",
+    "related_items": [
+      "x-2087208634493095978",
+      "x-2086920236079681607",
+      "web-cerebras-knowledge-base",
+      "x-2087151807965401320"
+    ],
+    "category_note": "Google ReasoningBank: memory from success and failure traces; third scaling axis after params and test-time compute."
+  }
+}

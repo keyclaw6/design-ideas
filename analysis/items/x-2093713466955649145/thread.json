@@ -1,0 +1,96 @@
+{
+  "schema_version": "1",
+  "id": "x-2093713466955649145",
+  "tweet_id": "2093713466955649145",
+  "root_author_handle": "HsanC_",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 10,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 9,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093720511909933189",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T15:20:44Z",
+      "text": "@HsanC_ All to promote a bullshit platform",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 482
+      },
+      "parent_id": "2093713466955649145",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093624705030959554",
+      "author_handle": "HsanC_",
+      "created_at": "2026-08-29T09:00:02Z",
+      "text": "Here's how I make AI mention my SaaS:\n\n1. Create high-quality content for my money keywords 💰\n2. Build relevant backlinks 🔗\n3. Get mentioned on 3rd party sites 🌐\n4. LinkedIn articles + Reddit posts (both gets indexed)\n5. Create original data/content worth citing 📊\n\nYou need https://t.co/HgtgfwfMGj",
+      "text_en": null,
+      "urls": [
+        "https://t.co/HgtgfwfMGj"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 44715
+      }
+    },
+    {
+      "id": "2093742966984638898",
+      "author_handle": "HsanC_",
+      "created_at": "2026-08-29T16:49:57Z",
+      "text": "i built https://t.co/9rrD0MSb2T to automate the entire SEO backlink building process btw:",
+      "text_en": null,
+      "urls": [
+        "https://t.co/9rrD0MSb2T"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1154
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/HsanC_/status/2093713466955649145",
+      "outcome": "ok",
+      "note": "html_bytes=208017 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/HsanC_/status/2093713466955649145",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093713466955649145/thread-raw/x-web-dom-20260904T175329Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

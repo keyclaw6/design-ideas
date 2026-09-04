@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2089372767934115883",
+  "tweet_id": "2089372767934115883",
+  "root_author_handle": "emilkowalski",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 54,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 10,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 53,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089555487289401583",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T03:30:24Z",
+      "text": "@emilkowalski What makes these “markdown”?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 32,
+        "replies": 3,
+        "reposts": 0,
+        "views": 13666
+      },
+      "parent_id": "2089372767934115883",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2089373277781103079",
+      "author_handle": "emilkowalski",
+      "created_at": "2026-08-17T15:26:22Z",
+      "text": "Inspired by @lenjaminbeonard beautiful work on https://t.co/3uzj5lL4Zc",
+      "text_en": null,
+      "urls": [
+        "https://t.co/3uzj5lL4Zc"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 123,
+        "replies": 3,
+        "reposts": 0,
+        "views": 23212
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/emilkowalski/status/2089372767934115883",
+      "outcome": "ok",
+      "note": "html_bytes=193411 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/emilkowalski/status/2089372767934115883",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089372767934115883/thread-raw/x-web-dom-20260904T175312Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

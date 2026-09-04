@@ -1,0 +1,85 @@
+{
+  "schema_version": "1",
+  "id": "x-2094009989220430084",
+  "tweet_id": "2094009989220430084",
+  "root_author_handle": "viktoroddy",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 19,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 2,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 17,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094013546858443120",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T10:45:09Z",
+      "text": "@viktoroddy https://t.co/5ocitR3qL2 is currently down mate, just fyi if u don't know. https://t.co/Vm782kVH3y",
+      "text_en": null,
+      "urls": [
+        "https://t.co/5ocitR3qL2",
+        "https://t.co/Vm782kVH3y"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1367
+      },
+      "parent_id": "2094009989220430084",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094011101633712498",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T10:35:26Z",
+      "text": "@viktoroddy I have recently brought the premium plan but I would like to see more of non video websites or sections added - Rest keep up the good work",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 493
+      },
+      "parent_id": "2094009989220430084",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/viktoroddy/status/2094009989220430084",
+      "outcome": "ok",
+      "note": "html_bytes=171954 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/viktoroddy/status/2094009989220430084",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094009989220430084/thread-raw/x-web-dom-20260904T175330Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

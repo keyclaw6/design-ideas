@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2094684433546985907",
+  "tweet_id": "2094684433546985907",
+  "root_author_handle": "samigrows",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 23,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 20,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094781115110424813",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T13:35:11Z",
+      "text": "@samigrows agree. the real win is a fresh domain getting indexed and looking legit in the first 90 days, not the DR bump. do you bother with guest posts at all for a brand new site, or just hammer directories?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 294
+      },
+      "parent_id": "2094684433546985907",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094972131830636682",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T02:14:13Z",
+      "text": "@samigrows those Tier 1 sites are gold, I've seen real DR boosts from Crunchbase and G2",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 33
+      },
+      "parent_id": "2094684433546985907",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094819126342762726",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T16:06:14Z",
+      "text": "@samigrows LIST",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 138
+      },
+      "parent_id": "2094684433546985907",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2094093678080119153",
+      "author_handle": "samigrows",
+      "created_at": "2026-08-30T16:03:33Z",
+      "text": "The fastest backlink you can get today is a directory submission. 90+  \n\nCrunchbase, G2, Clutch, Product Hunt, Capterra.  All DR 70 plus. All free. All indexable within days. \n\nMost founders spend months chasing guest posts.  \n\nTen directory submissions this afternoon beats six https://t.co/ts63Vwsvs3",
+      "text_en": null,
+      "urls": [
+        "https://t.co/ts63Vwsvs3"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 34007
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/samigrows/status/2094684433546985907",
+      "outcome": "ok",
+      "note": "html_bytes=210590 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/samigrows/status/2094684433546985907",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094684433546985907/thread-raw/x-web-dom-20260904T175333Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

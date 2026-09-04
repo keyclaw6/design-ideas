@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2091951051343593929",
+  "tweet_id": "2091951051343593929",
+  "root_author_handle": "MaxfusionAI",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 2,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 3,
+  "replies_captured": 2,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091952571275440565",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T18:15:34Z",
+      "text": "@MaxfusionAI Felt like Gemini 3.7 had a bit more \"soul\" in it",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 614
+      },
+      "parent_id": "2091951051343593929",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091951347503366174",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T18:10:42Z",
+      "text": "@MaxfusionAI Seems like the guys at Google are improving at a rapid pace",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 592
+      },
+      "parent_id": "2091951051343593929",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/MaxfusionAI/status/2091951051343593929",
+      "outcome": "ok",
+      "note": "html_bytes=160245 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/MaxfusionAI/status/2091951051343593929",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091951051343593929/thread-raw/x-web-dom-20260904T175321Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

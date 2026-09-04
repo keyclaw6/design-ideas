@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2087263510090874911",
+  "tweet_id": "2087263510090874911",
+  "root_author_handle": "1kartikkabadi1",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 20,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 4,
+  "replies_captured": 2,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 18,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087263512737583352",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T19:42:55Z",
+      "text": "@_can1357 &amp; @mattpocockuk are cooking, hats off!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1920
+      },
+      "parent_id": "2087263510090874911",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087350345173528813",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T01:27:58Z",
+      "text": "@1kartikkabadi1 that's not how you use an agent, though agents are supposed to free up time for strategic thinking, not replace human judgment with an endless Q&amp;A session",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 407
+      },
+      "parent_id": "2087263510090874911",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/1kartikkabadi1/status/2087263510090874911",
+      "outcome": "ok",
+      "note": "html_bytes=158531 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/1kartikkabadi1/status/2087263510090874911",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087263510090874911/thread-raw/x-web-dom-20260904T175304Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,33 @@
+{
+  "root_id": "2093118868092748246",
+  "reply_count_reported": 1,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093118868092748246",
+      "author_handle": null,
+      "created_at": "2026-08-27T23:30:01Z",
+      "text": "This is crazy.\n\n266K views in 10 days.\n\nFrom a channel with JUST 1.95K subscribers.\n\nAnd look at how simple the video is.\n\n→ One question people instantly get curious about\n→ Simple 2D visuals\n→ Faceless storytelling\n→ A topic that feels surprisingly relatable\n\nAnd there are https://t.co/MOucNy6l7P",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 31,
+        "replies": 1,
+        "reposts": 3,
+        "views": 25281,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/MOucNy6l7P"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2093118868092748246"
+  ],
+  "item_id": "x-2093118868092748246",
+  "handle": "CalliopeLabsyt",
+  "http_status": 200,
+  "url": "https://x.com/CalliopeLabsyt/status/2093118868092748246",
+  "html_bytes": 104589,
+  "raw_path": "raw/items/x-2093118868092748246/thread-raw/x-web-dom-20260904T175325Z.html"
+}

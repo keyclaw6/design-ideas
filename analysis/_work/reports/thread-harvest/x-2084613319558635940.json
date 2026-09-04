@@ -1,0 +1,119 @@
+{
+  "root_id": "2084613319558635940",
+  "reply_count_reported": 47,
+  "quote_count_reported": 6,
+  "tweets": [
+    {
+      "id": "2084613319558635940",
+      "author_handle": null,
+      "created_at": "2026-08-04T12:12:00Z",
+      "text": "THIS GUY MAKES COMPLEX AI AGENT CONCEPTS RIDICULOUSLY EASY TO UNDERSTAND.\n\nNo jargon wall. No assuming you already know what a reward model or an evaluation harness is.\n\nJust a straight line from \"I have no idea how agents actually work\" to \"oh, that's genuinely simple.\"\n\nThe https://t.co/GysRDyDSyd",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 781,
+        "replies": 47,
+        "reposts": 101,
+        "views": 397791,
+        "quotes": 6
+      },
+      "urls": [
+        "https://t.co/GysRDyDSyd"
+      ]
+    },
+    {
+      "id": "2084505415065198916",
+      "author_handle": null,
+      "created_at": "2026-08-04T05:03:13Z",
+      "text": "https://t.co/HrYHy9Y4Ju",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 742364,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/HrYHy9Y4Ju"
+      ]
+    },
+    {
+      "id": "2086537826863358364",
+      "author_handle": null,
+      "created_at": "2026-08-09T19:39:18Z",
+      "text": "@cyrilXBT I’m the author of all of these videos they sticked together without asking. They like to call me ‘this guy’ ‘ex-Google engineer’. Follow ‘this guy’ and let’s chat. Original post is here: https://t.co/hMy8jAFHxj\n\nIf you want to learn AI Agent Harness System with Loop, Memory and",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 60,
+        "replies": 1,
+        "reposts": 2,
+        "views": 2008,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/hMy8jAFHxj"
+      ]
+    },
+    {
+      "id": "2073748899748008405",
+      "author_handle": "cyrilXBT",
+      "created_at": "2026-07-05T12:40:40Z",
+      "text": "Hermes Agent by just crossed 200K GitHub stars in just a few months. I tested every claim in the @NousResearch project: memory, skills, cron, sub agents, all from Hermes Desktop App and WhatsApp.\n\nThe whole system is one loop:\nmessage in → agent run → tools fire → loop ends → https://t.co/MNwJ3FHMKC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/MNwJ3FHMKC"
+      ]
+    },
+    {
+      "id": "2084629279761932770",
+      "author_handle": null,
+      "created_at": "2026-08-04T13:15:25Z",
+      "text": "@cyrilXBT the difference between confusion and understanding is usually one good analogy",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3135,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2084852133858328871",
+      "author_handle": null,
+      "created_at": "2026-08-05T04:00:58Z",
+      "text": "@cyrilXBT Why not at least link to his Youtube channel or name who he is then",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 1,
+        "views": 575,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2073748899748008405",
+    "2084505415065198916",
+    "2084613319558635940",
+    "2084629279761932770",
+    "2084852133858328871",
+    "2086537826863358364"
+  ],
+  "item_id": "x-2084613319558635940",
+  "handle": "cyrilXBT",
+  "http_status": 200,
+  "url": "https://x.com/cyrilXBT/status/2084613319558635940",
+  "html_bytes": 245358,
+  "raw_path": "raw/items/x-2084613319558635940/thread-raw/x-web-dom-20260904T175301Z.html"
+}

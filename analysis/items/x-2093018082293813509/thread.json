@@ -1,0 +1,80 @@
+{
+  "schema_version": "1",
+  "id": "x-2093018082293813509",
+  "tweet_id": "2093018082293813509",
+  "root_author_handle": "customuse",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 45,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 27,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 44,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093019736628171234",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T16:56:06Z",
+      "text": "@customuse Is the UV unwrapping part fully automated, or can you still control how the UVs are laid out?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1721
+      },
+      "parent_id": "2093018082293813509",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "recipe",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093018085313712397",
+      "author_handle": "customuse",
+      "created_at": "2026-08-27T16:49:32Z",
+      "text": "Try it now on https://t.co/QYIr8SS7ZD https://t.co/HkpqUPCcLH",
+      "text_en": null,
+      "urls": [
+        "https://t.co/QYIr8SS7ZD",
+        "https://t.co/HkpqUPCcLH"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 19,
+        "replies": 1,
+        "reposts": 1,
+        "views": 10193
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/customuse/status/2093018082293813509",
+      "outcome": "ok",
+      "note": "html_bytes=164188 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/customuse/status/2093018082293813509",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093018082293813509/thread-raw/x-web-dom-20260904T175324Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

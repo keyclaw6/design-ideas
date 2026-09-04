@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2091713204418490406",
+  "tweet_id": "2091713204418490406",
+  "root_author_handle": "indie_maker_fox",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 12,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 11,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091770322118959468",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T06:11:22Z",
+      "text": "@indie_maker_fox Hey, creator of OpenStory here. I was wondering why I was getting so many sign ups from China today. Thank you so much for the post! It’s much appreciated. If anyone wants to contribute to the project, please feel free to raise a PR",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 14,
+        "replies": 3,
+        "reposts": 0,
+        "views": 1513
+      },
+      "parent_id": "2091713204418490406",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091818482203804126",
+      "author_handle": "indie_maker_fox",
+      "created_at": "2026-08-24T09:22:44Z",
+      "text": "If you have interests in indie hacking, please follow me @indie_maker_fox. \n\nI'm the founder of https://t.co/YGRNSBlqOp, https://t.co/23KjJQJkzS and https://t.co/s04yP8aq8q, and I'm building in public and sharing all my thoughts on X and my blog.\n\n👉 https://t.co/YES4211vVH 👈",
+      "text_en": null,
+      "urls": [
+        "https://t.co/YGRNSBlqOp",
+        "https://t.co/23KjJQJkzS",
+        "https://t.co/s04yP8aq8q",
+        "https://t.co/YES4211vVH"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1979
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/indie_maker_fox/status/2091713204418490406",
+      "outcome": "ok",
+      "note": "html_bytes=192062 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/indie_maker_fox/status/2091713204418490406",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091713204418490406/thread-raw/x-web-dom-20260904T175319Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

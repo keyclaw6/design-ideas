@@ -1,0 +1,99 @@
+{
+  "root_id": "2093900284896657841",
+  "reply_count_reported": 22,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093900284896657841",
+      "author_handle": null,
+      "created_at": "2026-08-30T03:15:05Z",
+      "text": "🚨 THIS IS INSANE\n\nA Claude Code skill just started REFUSING to build websites that look like everyone else’s.\n\nSameness is literally a failed check.\n\nIt’s called scrollcraft — a skill that builds premium scroll-driven sites and holds them to a real design standard.\n\nAnd it https://t.co/PrTfYJWcc8",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 316,
+        "replies": 22,
+        "reposts": 65,
+        "views": 32747,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/PrTfYJWcc8"
+      ]
+    },
+    {
+      "id": "2090064227570766226",
+      "author_handle": null,
+      "created_at": "2026-08-19T13:11:58Z",
+      "text": "stop trying to fine-tune an llm on your company data. it's expensive and it doesn't prevent hallucinations. the industry standard is RAG (retrieval-augmented generation). here is the complete architectural blueprint for building it. https://t.co/rXgetfEx9F",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 257875,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/rXgetfEx9F"
+      ]
+    },
+    {
+      "id": "2094016088547708974",
+      "author_handle": null,
+      "created_at": "2026-08-30T10:55:15Z",
+      "text": "@vicky_grok Couldn't agree more",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 100,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094016603906269558",
+      "author_handle": null,
+      "created_at": "2026-08-30T10:57:17Z",
+      "text": "@vicky_grok Great shere",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 135,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094024478606901271",
+      "author_handle": null,
+      "created_at": "2026-08-30T11:28:35Z",
+      "text": "@vicky_grok So real",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 83,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090064227570766226",
+    "2093900284896657841",
+    "2094016088547708974",
+    "2094016603906269558",
+    "2094024478606901271"
+  ],
+  "item_id": "x-2093900284896657841",
+  "handle": "vicky_grok",
+  "http_status": 200,
+  "url": "https://x.com/vicky_grok/status/2093900284896657841",
+  "html_bytes": 219554,
+  "raw_path": "raw/items/x-2093900284896657841/thread-raw/x-web-dom-20260904T175330Z.html"
+}

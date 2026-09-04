@@ -1,0 +1,67 @@
+{
+  "root_id": "2092009056164872620",
+  "reply_count_reported": 4,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2092009056164872620",
+      "author_handle": null,
+      "created_at": "2026-08-24T22:00:01Z",
+      "text": "CozyClayっていうオープンソースのプレビス制作ソフトつかってみました。Blenderに比べると拡張性は低いんだけど、MCPあるし格段に使いやすい\n\n一回シーンをつくっちゃったら構図変更するのも30秒くらい。これで何回もやり直して、そこから動画生成にいけばかなり効率いいよ https://t.co/I7CZgW9S4G",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 165,
+        "replies": 4,
+        "reposts": 26,
+        "views": 18513,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/I7CZgW9S4G"
+      ]
+    },
+    {
+      "id": "2092009056882016530",
+      "author_handle": null,
+      "created_at": "2026-08-24T22:00:01Z",
+      "text": "https://t.co/7Fcti8gQI7",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 1,
+        "views": 1083,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/7Fcti8gQI7"
+      ]
+    },
+    {
+      "id": "2092137022190481660",
+      "author_handle": null,
+      "created_at": "2026-08-25T06:28:30Z",
+      "text": "@yachimat_manga 私が作ったものを他の人が使うのを見るということは嬉しいことですね",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 1,
+        "views": 184,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092009056164872620",
+    "2092009056882016530",
+    "2092137022190481660"
+  ],
+  "item_id": "x-2092009056164872620",
+  "handle": "yachimat_manga",
+  "http_status": 200,
+  "url": "https://x.com/yachimat_manga/status/2092009056164872620",
+  "html_bytes": 188542,
+  "raw_path": "raw/items/x-2092009056164872620/thread-raw/x-web-dom-20260904T175321Z.html"
+}

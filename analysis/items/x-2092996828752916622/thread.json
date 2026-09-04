@@ -1,0 +1,80 @@
+{
+  "schema_version": "1",
+  "id": "x-2092996828752916622",
+  "tweet_id": "2092996828752916622",
+  "root_author_handle": "DopeOblivion",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 19,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 18,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092997117786661132",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T15:26:13Z",
+      "text": "@DopeOblivion this is a sick one man",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 49
+      },
+      "parent_id": "2092996828752916622",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2092996963138449599",
+      "author_handle": "DopeOblivion",
+      "created_at": "2026-08-27T15:25:36Z",
+      "text": "Check out Forja:\nhttps://t.co/rMft4Ya62Y https://t.co/zObDoI0m99",
+      "text_en": null,
+      "urls": [
+        "https://t.co/rMft4Ya62Y",
+        "https://t.co/zObDoI0m99"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 1,
+        "views": 376
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/DopeOblivion/status/2092996828752916622",
+      "outcome": "ok",
+      "note": "html_bytes=169423 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/DopeOblivion/status/2092996828752916622",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092996828752916622/thread-raw/x-web-dom-20260904T175324Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

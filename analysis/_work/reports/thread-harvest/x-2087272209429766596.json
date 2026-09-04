@@ -1,0 +1,67 @@
+{
+  "root_id": "2087272209429766596",
+  "reply_count_reported": 32,
+  "quote_count_reported": 9,
+  "tweets": [
+    {
+      "id": "2087272209429766596",
+      "author_handle": null,
+      "created_at": "2026-08-11T20:17:29Z",
+      "text": "Hardware design is having its Chat GPT moment.\n\nTyped one prompt. CadXStudio generated this  full parametric bookshelf speaker enclosure, walnut legs, perforated steel grille, manufacturing-ready.\n\nNo CAD software. No 10 years of experience. Just an idea.\n\nBuilt on https://t.co/TA65R6bJcl",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 960,
+        "replies": 32,
+        "reposts": 103,
+        "views": 58323,
+        "quotes": 9
+      },
+      "urls": [
+        "https://t.co/TA65R6bJcl"
+      ]
+    },
+    {
+      "id": "2087273618132844626",
+      "author_handle": null,
+      "created_at": "2026-08-11T20:23:04Z",
+      "text": "This speaker was designed entirely in CadXStudio using just a text prompt.\n\nNo sketches. No traditional CAD workflow.\nJust Text → CAD.\nThis is what AI-native hardware design looks like.\n\n#ai #cad #texttocad #aicad https://t.co/jN9qqATgJq",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 14,
+        "replies": 0,
+        "reposts": 1,
+        "views": 1859,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/jN9qqATgJq"
+      ]
+    },
+    {
+      "id": "2087295350121873408",
+      "author_handle": null,
+      "created_at": "2026-08-11T21:49:26Z",
+      "text": "@CadX_Studio Hi! Can CADx Studio be used to design flat-pack furniture? For example, can I create the assembled model, lay out each panel as a 2D cutting profile, and export the individual parts as DXF files for CNC routing? Or is export currently limited to STEP?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1069,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087272209429766596",
+    "2087273618132844626",
+    "2087295350121873408"
+  ],
+  "item_id": "x-2087272209429766596",
+  "handle": "CadX_Studio",
+  "http_status": 200,
+  "url": "https://x.com/CadX_Studio/status/2087272209429766596",
+  "html_bytes": 175684,
+  "raw_path": "raw/items/x-2087272209429766596/thread-raw/x-web-dom-20260904T175305Z.html"
+}

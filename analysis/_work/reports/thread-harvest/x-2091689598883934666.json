@@ -1,0 +1,67 @@
+{
+  "root_id": "2091689598883934666",
+  "reply_count_reported": 6,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2091689598883934666",
+      "author_handle": null,
+      "created_at": "2026-08-24T00:50:36Z",
+      "text": "This site is perfect for Vibecoding\n\nIt gives you the names of all the common UI + their prompts so you can tell AI to build them in your style!\n\nTools You Need to Know - (Day 302) https://t.co/hn5eaF7YuF",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 244,
+        "replies": 6,
+        "reposts": 21,
+        "views": 16042,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/hn5eaF7YuF"
+      ]
+    },
+    {
+      "id": "2091689600200880164",
+      "author_handle": null,
+      "created_at": "2026-08-24T00:50:37Z",
+      "text": "https://t.co/KYuOOs0GhP",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "reposts": 3,
+        "views": 1544,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/KYuOOs0GhP"
+      ]
+    },
+    {
+      "id": "2092013632611664224",
+      "author_handle": null,
+      "created_at": "2026-08-24T22:18:12Z",
+      "text": "@toolfolio Nombrar bien el componente cambia el resultado: pedir un segmented control en vez de botones te da el patrón correcto a la primera.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 178,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091689598883934666",
+    "2091689600200880164",
+    "2092013632611664224"
+  ],
+  "item_id": "x-2091689598883934666",
+  "handle": "toolfolio",
+  "http_status": 200,
+  "url": "https://x.com/toolfolio/status/2091689598883934666",
+  "html_bytes": 183411,
+  "raw_path": "raw/items/x-2091689598883934666/thread-raw/x-web-dom-20260904T175319Z.html"
+}

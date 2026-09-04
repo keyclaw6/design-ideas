@@ -1,0 +1,32 @@
+{
+  "id": "x-2089775679600812150",
+  "url": "https://x.com/srbh_here/status/2089775679600812150",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:36Z",
+  "title": "Grind Log #044 - 18 August 2026 - Solved LeetCode: 268, 1656, 3043. - Added 3 new components to https://great-ui.com : h",
+  "authors": [
+    "@srbh_here"
+  ],
+  "topics": [
+    "ui-motion",
+    "design"
+  ],
+  "related_urls": [
+    "https://www.great-ui.com/components/word-focus-scroll",
+    "https://www.great-ui.com/components/split-line-fly-in",
+    "https://www.great-ui.com/components/blur-scroll-reveal"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2089775679600812150",
+    "author_handle": "srbh_here",
+    "category_note": "great-ui.com scroll components: word-focus, split-line fly-in, blur-reveal.",
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "github-oso95-scroll-world",
+      "github-nexu-io-motion-anything",
+      "x-2089223944700326052"
+    ]
+  }
+}

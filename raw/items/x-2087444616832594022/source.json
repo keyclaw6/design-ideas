@@ -1,0 +1,31 @@
+{
+  "id": "x-2087444616832594022",
+  "url": "https://x.com/TencentHunyuan/status/2087444616832594022",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:19Z",
+  "title": "📄New Research on Self-Evolving Agents: When AI agents modify themselves, how do we know they actually got better? We pre",
+  "authors": [
+    "@TencentHunyuan"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://openreview.net/forum?id=CGO1hDTHNe",
+    "https://github.com/wkqdzkd/Awesome-Reliable-Self-Evolving-Agents",
+    "https://wkqdzkd.github.io/Awesome-Reliable-Self-Evolving-Agents/"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087444616832594022",
+    "author_handle": "TencentHunyuan",
+    "related_items": [
+      "x-2087151807965401320",
+      "x-2080856252687745093",
+      "web-davidgasquez-context-engineering",
+      "github-punkpeye-awesome-mcp-servers"
+    ],
+    "category_note": "Survey + catalog for reliable self-evolving agents"
+  }
+}

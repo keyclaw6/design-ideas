@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2091722166685610284",
+  "tweet_id": "2091722166685610284",
+  "root_author_handle": "Yun_HDY",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 3,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091848593745252612",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T11:22:24Z",
+      "text": "@Yun_HDY How are you prompting for the rig movement? I couldn't figure it out when i downloaded the app!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 24
+      },
+      "parent_id": "2091722166685610284",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091724409946161250",
+      "author_handle": "Yun_HDY",
+      "created_at": "2026-08-24T03:08:56Z",
+      "text": "https://t.co/CxgZHabgiI",
+      "text_en": null,
+      "urls": [
+        "https://t.co/CxgZHabgiI"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 200
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Yun_HDY/status/2091722166685610284",
+      "outcome": "ok",
+      "note": "html_bytes=186225 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Yun_HDY/status/2091722166685610284",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091722166685610284/thread-raw/x-web-dom-20260904T175319Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

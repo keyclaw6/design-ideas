@@ -1,0 +1,79 @@
+{
+  "root_id": "2091554449323958423",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2091554449323958423",
+      "author_handle": null,
+      "created_at": "2026-08-23T15:53:34Z",
+      "text": "So if the math is right:\n\n1x 6000: GLM 5.2 FP4\n4x 6000: K3 FP4\n\nWho will be the first to /goal it?\n\n(I may tonight. Need to get a few more stuff done on the workhorse first)",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 39,
+        "replies": 4,
+        "reposts": 0,
+        "views": 7857,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091726138670284835",
+      "author_handle": null,
+      "created_at": "2026-08-24T03:15:48Z",
+      "text": "@TheZachMueller You’re going to need a whole lot of CPU memory too.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 390,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091591647142302129",
+      "author_handle": null,
+      "created_at": "2026-08-23T18:21:23Z",
+      "text": "@TheZachMueller How much system ram do you have? I was kinda hopeful I could run deepseek v4 flash but 128GB of system ram is not enough. IIUC you need enough system ram to hold all weights unless the GPU’s can hold them all.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 231,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091560117447676220",
+      "author_handle": null,
+      "created_at": "2026-08-23T16:16:05Z",
+      "text": "@TheZachMueller Thought this would be a good use case for my 256gb ddr4 2x 3090 rig, but found out it does not support using both 3090s yet. Could have been interesting for ds4",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 230,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091554449323958423",
+    "2091560117447676220",
+    "2091591647142302129",
+    "2091726138670284835"
+  ],
+  "item_id": "x-2091554449323958423",
+  "handle": "TheZachMueller",
+  "http_status": 200,
+  "url": "https://x.com/TheZachMueller/status/2091554449323958423",
+  "html_bytes": 217362,
+  "raw_path": "raw/items/x-2091554449323958423/thread-raw/x-web-dom-20260904T175317Z.html"
+}

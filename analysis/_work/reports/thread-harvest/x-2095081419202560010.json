@@ -1,0 +1,65 @@
+{
+  "root_id": "2095081419202560010",
+  "reply_count_reported": 157,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2095081419202560010",
+      "author_handle": null,
+      "created_at": "2026-09-02T09:28:29Z",
+      "text": "We open-sourced our entire outbound team.\n\n13 AI sales agents.\nRunning inside Grok Bot.\nPowered by the GojiberryAI MCP. 🍇\n\nAnd they work while you sleep.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🟢 GOJIBERRY SALES OS — ONLINE\n\n🧠 STRATEGY\n\n🖤 Head of Sales\n└─ Decides WHO to https://t.co/84bA8doUYm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 147,
+        "replies": 157,
+        "reposts": 10,
+        "views": 35842,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/84bA8doUYm"
+      ]
+    },
+    {
+      "id": "2095189377978626225",
+      "author_handle": null,
+      "created_at": "2026-09-02T16:37:29Z",
+      "text": "Thank you for this beautiful tool @joshkim",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 951,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095461138091614431",
+      "author_handle": null,
+      "created_at": "2026-09-03T10:37:21Z",
+      "text": "@gojiberryai Bot",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095081419202560010",
+    "2095189377978626225",
+    "2095461138091614431"
+  ],
+  "item_id": "x-2095081419202560010",
+  "handle": "gojiberryai",
+  "http_status": 200,
+  "url": "https://x.com/gojiberryai/status/2095081419202560010",
+  "html_bytes": 174207,
+  "raw_path": "raw/items/x-2095081419202560010/thread-raw/x-web-dom-20260904T175336Z.html"
+}

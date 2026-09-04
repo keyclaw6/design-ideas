@@ -1,0 +1,87 @@
+{
+  "root_id": "2090858571613470919",
+  "reply_count_reported": 142,
+  "quote_count_reported": 47,
+  "tweets": [
+    {
+      "id": "2090858571613470919",
+      "author_handle": null,
+      "created_at": "2026-08-21T17:48:24Z",
+      "text": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against https://t.co/bnjggVrBDj until it got to 100/100.\n\nIt made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time &amp; tokens.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2187,
+        "replies": 142,
+        "reposts": 74,
+        "views": 455073,
+        "quotes": 47
+      },
+      "urls": [
+        "https://t.co/bnjggVrBDj"
+      ]
+    },
+    {
+      "id": "2090957234381705547",
+      "author_handle": null,
+      "created_at": "2026-08-22T00:20:27Z",
+      "text": "@rauchg 96/100!\n\nNice tool https://t.co/mLona545pm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 1,
+        "reposts": 0,
+        "views": 6723,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/mLona545pm"
+      ]
+    },
+    {
+      "id": "2090912631942992379",
+      "author_handle": null,
+      "created_at": "2026-08-21T21:23:13Z",
+      "text": "@rauchg Used https://t.co/ePLV5Mgcxd to get to 97/100.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1579,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ePLV5Mgcxd"
+      ]
+    },
+    {
+      "id": "2090887541331198120",
+      "author_handle": null,
+      "created_at": "2026-08-21T19:43:31Z",
+      "text": "@rauchg @SlopOrNotAI scored higher than @vercel. Nice! https://t.co/m28fZMTjtj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 194,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/m28fZMTjtj"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2090858571613470919",
+    "2090887541331198120",
+    "2090912631942992379",
+    "2090957234381705547"
+  ],
+  "item_id": "x-2090858571613470919",
+  "handle": "rauchg",
+  "http_status": 200,
+  "url": "https://x.com/rauchg/status/2090858571613470919",
+  "html_bytes": 342375,
+  "raw_path": "raw/items/x-2090858571613470919/thread-raw/x-web-dom-20260904T175316Z.html"
+}

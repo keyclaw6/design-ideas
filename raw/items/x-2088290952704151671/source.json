@@ -1,0 +1,31 @@
+{
+  "id": "x-2088290952704151671",
+  "url": "https://x.com/mattpocockuk/status/2088290952704151671",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:29Z",
+  "title": "Just saw a comment saying that I've never made a proper overview of EVERY skill in my skills repo I thought \"damn it, he",
+  "authors": [
+    "Matt Pocock (@mattpocockuk)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/mattpocock/skills"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088290952704151671",
+    "author_handle": "mattpocockuk",
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2088260067204137135",
+      "x-2087263510090874911",
+      "github-emilkowalski-skills",
+      "github-jakubkrehel-skills",
+      "github-mengto-skills"
+    ],
+    "category_note": "Video tour of mattpocock/skills (25 skills)"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "root_id": "2095451624139567162",
+  "reply_count_reported": 3,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095451624139567162",
+      "author_handle": null,
+      "created_at": "2026-09-03T09:59:33Z",
+      "text": "❤️‍🔥 GPT 5.6 Sol \n\nPrompt 👇 https://t.co/blO8ldul8Y",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 22,
+        "replies": 3,
+        "reposts": 3,
+        "views": 1833,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/blO8ldul8Y"
+      ]
+    },
+    {
+      "id": "2095451727088828653",
+      "author_handle": null,
+      "created_at": "2026-09-03T09:59:58Z",
+      "text": "Access this prompt as well as UNLIMITED prompts for stunning AI websites in one click: https://t.co/l7GTxtJsvg",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 254,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/l7GTxtJsvg"
+      ]
+    },
+    {
+      "id": "2095453374225211747",
+      "author_handle": null,
+      "created_at": "2026-09-03T10:06:30Z",
+      "text": "@ranakabiria Amazing 🤩",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 81,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095451624139567162",
+    "2095451727088828653",
+    "2095453374225211747"
+  ],
+  "item_id": "x-2095451624139567162",
+  "handle": "ranakabiria",
+  "http_status": 200,
+  "url": "https://x.com/ranakabiria/status/2095451624139567162",
+  "html_bytes": 183401,
+  "raw_path": "raw/items/x-2095451624139567162/thread-raw/x-web-dom-20260904T175338Z.html"
+}

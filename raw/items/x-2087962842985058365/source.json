@@ -1,0 +1,27 @@
+{
+  "id": "x-2087962842985058365",
+  "url": "https://x.com/GlennSonna/status/2087962842985058365",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:27Z",
+  "title": "Pushed Bonsai-1.7B from @PrismML further again. 64 → 90 tok/s decode on the same Android Device. CPU only, no NPU, no GP",
+  "authors": [
+    "Glenn Sonna (@GlennSonna)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087962842985058365",
+    "author_handle": "GlennSonna",
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2087562269807030754",
+      "x-2088281537427235320",
+      "x-2087240056037908509"
+    ],
+    "category_note": "Bonsai-1.7B 90 tok/s Android CPU decode"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "root_id": "2094450512938856802",
+  "reply_count_reported": 2,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2094450512938856802",
+      "author_handle": null,
+      "created_at": "2026-08-31T15:41:29Z",
+      "text": "A brand followed the advice in this article and generated more than $25,000 from ChatGPT, Google and Perplexity-driven traffic. https://t.co/dInJslzKoq",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 128,
+        "replies": 2,
+        "reposts": 29,
+        "views": 48000,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/dInJslzKoq"
+      ]
+    },
+    {
+      "id": "2013988297673204197",
+      "author_handle": null,
+      "created_at": "2026-01-21T14:53:22Z",
+      "text": "https://t.co/rEnNUyrVcN",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 113483,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/rEnNUyrVcN"
+      ]
+    },
+    {
+      "id": "2094817928310923599",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:01:28Z",
+      "text": "@alexgroberman curious how concentrated that was. whenever i've seen this it's one or two pages doing basically all of it, and never the ones you'd expect.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 14,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094495625756934351",
+      "author_handle": null,
+      "created_at": "2026-08-31T18:40:45Z",
+      "text": "@alexgroberman @grok real or bull",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 103,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2013988297673204197",
+    "2094450512938856802",
+    "2094495625756934351",
+    "2094817928310923599"
+  ],
+  "item_id": "x-2094450512938856802",
+  "handle": "alexgroberman",
+  "http_status": 200,
+  "url": "https://x.com/alexgroberman/status/2094450512938856802",
+  "html_bytes": 175070,
+  "raw_path": "raw/items/x-2094450512938856802/thread-raw/x-web-dom-20260904T175332Z.html"
+}

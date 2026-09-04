@@ -1,0 +1,85 @@
+{
+  "root_id": "2089740155179643231",
+  "reply_count_reported": 9,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2089740155179643231",
+      "author_handle": null,
+      "created_at": "2026-08-18T15:44:13Z",
+      "text": "Whatttt this existed, why no one showed me this yet, https://t.co/mj6tx29Bui",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 84,
+        "replies": 9,
+        "reposts": 1,
+        "views": 10361,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/mj6tx29Bui"
+      ]
+    },
+    {
+      "id": "2089771086288449675",
+      "author_handle": null,
+      "created_at": "2026-08-18T17:47:07Z",
+      "text": "@radiumcoders https://t.co/XgbvKQVUTN",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 502,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/XgbvKQVUTN"
+      ]
+    },
+    {
+      "id": "2089804763252609473",
+      "author_handle": null,
+      "created_at": "2026-08-18T20:00:56Z",
+      "text": "@radiumcoders https://t.co/cyB7LVxlWb",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 70,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/cyB7LVxlWb"
+      ]
+    },
+    {
+      "id": "2089755533477613661",
+      "author_handle": null,
+      "created_at": "2026-08-18T16:45:19Z",
+      "text": "@radiumcoders 😁",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 257,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089740155179643231",
+    "2089755533477613661",
+    "2089771086288449675",
+    "2089804763252609473"
+  ],
+  "item_id": "x-2089740155179643231",
+  "handle": "radiumcoders",
+  "http_status": 200,
+  "url": "https://x.com/radiumcoders/status/2089740155179643231",
+  "html_bytes": 197932,
+  "raw_path": "raw/items/x-2089740155179643231/thread-raw/x-web-dom-20260904T175313Z.html"
+}

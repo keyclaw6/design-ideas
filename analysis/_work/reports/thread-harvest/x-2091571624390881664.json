@@ -1,0 +1,99 @@
+{
+  "root_id": "2091571624390881664",
+  "reply_count_reported": 51,
+  "quote_count_reported": 12,
+  "tweets": [
+    {
+      "id": "2091571624390881664",
+      "author_handle": null,
+      "created_at": "2026-08-23T17:01:49Z",
+      "text": "This blew up, so I added 60 more three.js components from experiments I made over the last two weeks.\n\nI'm still amazed by how well Claude Code can create variants from source code, so I went wild with new themes, environments, and interactions.\n\nSome three.js prompts I used:\n- https://t.co/FZklsbwda9",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1132,
+        "replies": 51,
+        "reposts": 96,
+        "views": 100776,
+        "quotes": 12
+      },
+      "urls": [
+        "https://t.co/FZklsbwda9"
+      ]
+    },
+    {
+      "id": "2090817187900780961",
+      "author_handle": null,
+      "created_at": "2026-08-21T15:03:57Z",
+      "text": "I open-sourced ThreeUI, my library of three.js components and landing pages.\n\n160+ are free, and the tool is free too. It includes procedural 3D hero sections, icons, and motion designs. Copy the prompt or source, give it to your agent, then change the theme, lighting, motion or https://t.co/YagCLibnqu",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/YagCLibnqu"
+      ]
+    },
+    {
+      "id": "2091574187613643043",
+      "author_handle": null,
+      "created_at": "2026-08-23T17:12:00Z",
+      "text": "@MengTo genuinely the best use of opus for frontend i've seen posted, not a demo, an actual growing library",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 512,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091585649480470598",
+      "author_handle": null,
+      "created_at": "2026-08-23T17:57:33Z",
+      "text": "@MengTo 160 free components is a lot of surface area to keep consistent. How are you catching regressions when you tweak shared source across the whole set, spot checking scenes manually or do you have some kind of batch render and diff step before you ship a theme change?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 716,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091578849486123476",
+      "author_handle": null,
+      "created_at": "2026-08-23T17:30:32Z",
+      "text": "@MengTo Meng i can see you're in a flow and feel unstoppable, i want to stress that you're output is so high quality that i hope people can catch up but i want you to know that the work you're doing now will be discussed for a long time after the momentum of these posts.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 427,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090817187900780961",
+    "2091571624390881664",
+    "2091574187613643043",
+    "2091578849486123476",
+    "2091585649480470598"
+  ],
+  "item_id": "x-2091571624390881664",
+  "handle": "MengTo",
+  "http_status": 200,
+  "url": "https://x.com/MengTo/status/2091571624390881664",
+  "html_bytes": 236977,
+  "raw_path": "raw/items/x-2091571624390881664/thread-raw/x-web-dom-20260904T175318Z.html"
+}

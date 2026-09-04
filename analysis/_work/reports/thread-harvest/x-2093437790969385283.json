@@ -1,0 +1,83 @@
+{
+  "root_id": "2093437790969385283",
+  "reply_count_reported": 24,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2093437790969385283",
+      "author_handle": null,
+      "created_at": "2026-08-28T20:37:18Z",
+      "text": "This is how I've been building production agents lately.\n\nHermes - owns judgement, objectives, timing, etc.\nSkills - procedural knowledge, not code. Still very slim\nCLIs - tools for the agents that are deterministic\n\nThen the important part is the telemetry. If you're running https://t.co/frbgk5e2aU",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 561,
+        "replies": 24,
+        "reposts": 44,
+        "views": 30109,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/frbgk5e2aU"
+      ]
+    },
+    {
+      "id": "2093459577626837467",
+      "author_handle": null,
+      "created_at": "2026-08-28T22:03:52Z",
+      "text": "@gregmushen same?:\n. https://t.co/Do0m80s67B",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 696,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Do0m80s67B"
+      ]
+    },
+    {
+      "id": "2093735571109945397",
+      "author_handle": null,
+      "created_at": "2026-08-29T16:20:34Z",
+      "text": "@gregmushen Interesting that your loop feeds failures back to the agent. Hermes' telemetry docs separate bounded status/retry categories from raw args/results. If that telemetry enters the recovery prompt, the data boundary matters: debugging context can become an injection surface.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 310,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093672247609204752",
+      "author_handle": null,
+      "created_at": "2026-08-29T12:08:57Z",
+      "text": "@gregmushen Real time telemetry that loops back into the agent turns debugging into self healing",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 120,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093437790969385283",
+    "2093459577626837467",
+    "2093672247609204752",
+    "2093735571109945397"
+  ],
+  "item_id": "x-2093437790969385283",
+  "handle": "gregmushen",
+  "http_status": 200,
+  "url": "https://x.com/gregmushen/status/2093437790969385283",
+  "html_bytes": 186397,
+  "raw_path": "raw/items/x-2093437790969385283/thread-raw/x-web-dom-20260904T175327Z.html"
+}

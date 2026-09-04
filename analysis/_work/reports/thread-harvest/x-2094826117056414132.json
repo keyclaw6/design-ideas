@@ -1,0 +1,34 @@
+{
+  "root_id": "2094826117056414132",
+  "reply_count_reported": 0,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2094826117056414132",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:34:00Z",
+      "text": "3D Gaussian SplattingデータをOBJやGLBのポリゴンメッシュへ変換できる無料ソフト！Win\n\nSplat2Mesh \nhttps://t.co/rfpTtHbm3p \nby @ArcanaMfg \n\n#3DGS #Splat2Mesh https://t.co/5FnkjLH6IU",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 349,
+        "replies": 0,
+        "reposts": 49,
+        "views": 28233,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/rfpTtHbm3p",
+        "https://t.co/5FnkjLH6IU"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2094826117056414132"
+  ],
+  "item_id": "x-2094826117056414132",
+  "handle": "ymt3d",
+  "http_status": 200,
+  "url": "https://x.com/ymt3d/status/2094826117056414132",
+  "html_bytes": 107353,
+  "raw_path": "raw/items/x-2094826117056414132/thread-raw/x-web-dom-20260904T175334Z.html"
+}

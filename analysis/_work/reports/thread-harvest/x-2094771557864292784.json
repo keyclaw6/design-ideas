@@ -1,0 +1,81 @@
+{
+  "root_id": "2094771557864292784",
+  "reply_count_reported": 42,
+  "quote_count_reported": 7,
+  "tweets": [
+    {
+      "id": "2094771557864292784",
+      "author_handle": null,
+      "created_at": "2026-09-01T12:57:13Z",
+      "text": "SEO is now WAY bigger than ranking #1 on Google.\n\nNot because Google matters less, but because the job of SEO has expanded.\n\nToday, SEO is also about:\n\n1. Getting found when someone searches on Google\n2. Appearing in AI Overviews for Google searches\n3. Getting recommended in https://t.co/KZAWvIkF2D",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 277,
+        "replies": 42,
+        "reposts": 35,
+        "views": 20744,
+        "quotes": 7
+      },
+      "urls": [
+        "https://t.co/KZAWvIkF2D"
+      ]
+    },
+    {
+      "id": "2094801637202395338",
+      "author_handle": null,
+      "created_at": "2026-09-01T14:56:44Z",
+      "text": "@jakezward No it’s not lol what you mentioned is different things and it’s not considered search engine optimization. These bots in your comments are weird too. These posts suck.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 348,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094773645356790098",
+      "author_handle": null,
+      "created_at": "2026-09-01T13:05:30Z",
+      "text": "@jakezward It’s cool to visual this like Maslows hierarchy of needs",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 253,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095197112883396782",
+      "author_handle": null,
+      "created_at": "2026-09-02T17:08:13Z",
+      "text": "@jakezward SEO isn’t just about being found anymore, it’s about being trusted once you are.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 22,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094771557864292784",
+    "2094773645356790098",
+    "2094801637202395338",
+    "2095197112883396782"
+  ],
+  "item_id": "x-2094771557864292784",
+  "handle": "jakezward",
+  "http_status": 200,
+  "url": "https://x.com/jakezward/status/2094771557864292784",
+  "html_bytes": 186847,
+  "raw_path": "raw/items/x-2094771557864292784/thread-raw/x-web-dom-20260904T175334Z.html"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "x-2094684433546985907",
+  "url": "https://x.com/samigrows/status/2094684433546985907",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:53:08Z",
+  "title": "Directory backlinks that move DR \u2014 Crunchbase, G2, 15 names",
+  "authors": [
+    "Sami | SEO AI (@samigrows)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/samigrows/status/2094093678080119153",
+    "https://www.crunchbase.com/",
+    "https://www.g2.com/",
+    "https://www.producthunt.com/",
+    "https://www.capterra.com/",
+    "https://www.getapp.com/",
+    "https://clutch.co/",
+    "https://www.saashub.com/",
+    "https://alternativeto.net/",
+    "https://stackshare.io/",
+    "https://betalist.com/",
+    "https://www.slant.co/",
+    "https://sourceforge.net/",
+    "https://www.indiehackers.com/",
+    "https://wellfound.com/"
+  ],
+  "media": [
+    "media/photo.jpg",
+    "media/quoted-photo.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094684433546985907",
+    "author_handle": "samigrows",
+    "author_id": "1839571892677566464",
+    "author_name": "Sami | SEO AI",
+    "created_at": "2026-09-01T07:11:00Z",
+    "likes": 91,
+    "replies": 21,
+    "retweets": 7,
+    "bookmarks": 219,
+    "quotes": 1,
+    "views": 13955,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": false,
+    "quoted_tweet_id": "2094093678080119153",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai; photos via pbs.twimg.com",
+    "comments_note": "21 replies; 3 first-level + 2 author nested captured. LIST sheet is DM-gated, not in comments. Rest login-walled.",
+    "topics_note": "Directory submissions as SEO links; seo-agents is the SCHEMA slot."
+  }
+}

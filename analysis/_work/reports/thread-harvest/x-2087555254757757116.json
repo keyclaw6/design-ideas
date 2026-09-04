@@ -1,0 +1,67 @@
+{
+  "root_id": "2087555254757757116",
+  "reply_count_reported": 6,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2087555254757757116",
+      "author_handle": null,
+      "created_at": "2026-08-12T15:02:12Z",
+      "text": "KERNEL browsers now support custom proxies with CA bundles.\n\npass your CA bundle in when you create the proxy and it will be installed in the browser's trust store automatically. https://t.co/pKWpIR2Gx3",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 30,
+        "replies": 6,
+        "reposts": 2,
+        "views": 4350,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/pKWpIR2Gx3"
+      ]
+    },
+    {
+      "id": "2087555255995138096",
+      "author_handle": null,
+      "created_at": "2026-08-12T15:02:12Z",
+      "text": "bundles are write-only: responses return `has_ca_bundle: true`, never the certificate contents.\n\nlearn more in our docs.\nhttps://t.co/85DUycEUCn",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 1,
+        "views": 291,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/85DUycEUCn"
+      ]
+    },
+    {
+      "id": "2087556304445325593",
+      "author_handle": null,
+      "created_at": "2026-08-12T15:06:22Z",
+      "text": "@usekernel the dx is just so clean",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 74,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087555254757757116",
+    "2087555255995138096",
+    "2087556304445325593"
+  ],
+  "item_id": "x-2087555254757757116",
+  "handle": "usekernel",
+  "http_status": 200,
+  "url": "https://x.com/usekernel/status/2087555254757757116",
+  "html_bytes": 184360,
+  "raw_path": "raw/items/x-2087555254757757116/thread-raw/x-web-dom-20260904T175305Z.html"
+}

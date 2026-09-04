@@ -1,0 +1,66 @@
+{
+  "root_id": "2087812720762425743",
+  "reply_count_reported": 2,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087812720762425743",
+      "author_handle": null,
+      "created_at": "2026-08-13T08:05:16Z",
+      "text": "One component, 10 examples.\n\nhttps://t.co/NZXeXFlIAh components do 90% of the work: motion, structure, customization. The 10% is where your creativity/taste comes in.\n\nReframe it, change layouts, copy, colors, etc.\n\nIt becomes something completely different each time. https://t.co/23iLVnHqBP",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 34,
+        "replies": 2,
+        "reposts": 1,
+        "views": 1899,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/NZXeXFlIAh",
+        "https://t.co/23iLVnHqBP"
+      ]
+    },
+    {
+      "id": "2087910691822833883",
+      "author_handle": null,
+      "created_at": "2026-08-13T14:34:35Z",
+      "text": "@davidhdev Smoking Hot &gt; Smoke for the Soul",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 32,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087831727708504268",
+      "author_handle": null,
+      "created_at": "2026-08-13T09:20:48Z",
+      "text": "@davidhdev 10% is probably where the real differentiation happens, once the motion and structure are handled, the decisions around hierarchy, copy, spacing, and composition are what stop two products from looking identical",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 13,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087812720762425743",
+    "2087831727708504268",
+    "2087910691822833883"
+  ],
+  "item_id": "x-2087812720762425743",
+  "handle": "davidhdev",
+  "http_status": 200,
+  "url": "https://x.com/davidhdev/status/2087812720762425743",
+  "html_bytes": 162767,
+  "raw_path": "raw/items/x-2087812720762425743/thread-raw/x-web-dom-20260904T175306Z.html"
+}

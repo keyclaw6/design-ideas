@@ -1,0 +1,39 @@
+{
+  "id": "x-2094927852399624557",
+  "url": "https://x.com/levikmunneke/status/2094927852399624557",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:23:28Z",
+  "title": "10,000 emails/day via Instantly sequencer + MapsData leads",
+  "authors": [
+    "Levi Munneke (@levikmunneke)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://instantly.ai",
+    "https://mapsdata.ai",
+    "http://b2bfunnel.co",
+    "http://mapsdata.ai"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:29:45Z",
+    "unsaved_via": "cursor-ide-browser bookmarks pane JS click",
+    "tweet_id": "2094927852399624557",
+    "author_handle": "levikmunneke",
+    "author_id": "1546897551953080320",
+    "created_at": "2026-09-01T23:18:16Z",
+    "likes": 133,
+    "replies": 11,
+    "retweets": 7,
+    "bookmarks": 187,
+    "quotes": 1,
+    "views": 10069,
+    "lang": "en",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com + r.jina.ai",
+    "topics_note": "No SCHEMA topic maps to cold-email / outbound infra; left empty rather than force-fit.",
+    "filtered": true,
+    "category_note": "Instantly + MapsData cold-outbound infra; out of taxonomy."
+  }
+}

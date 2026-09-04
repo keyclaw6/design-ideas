@@ -1,0 +1,67 @@
+{
+  "root_id": "2093374092795846745",
+  "reply_count_reported": 71,
+  "quote_count_reported": 13,
+  "tweets": [
+    {
+      "id": "2093374092795846745",
+      "author_handle": null,
+      "created_at": "2026-08-28T16:24:11Z",
+      "text": "Stop burning credits on AI videos. Block the scene in Blender first. \n\nFull 19-minute tutorial: https://t.co/2lTZiAqKsZ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2510,
+        "replies": 71,
+        "reposts": 244,
+        "views": 134753,
+        "quotes": 13
+      },
+      "urls": [
+        "https://t.co/2lTZiAqKsZ"
+      ]
+    },
+    {
+      "id": "2093374875696247056",
+      "author_handle": null,
+      "created_at": "2026-08-28T16:27:18Z",
+      "text": "All the prompts and files: https://t.co/Nb0qtJgjMD",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 63,
+        "replies": 2,
+        "reposts": 6,
+        "views": 6355,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/Nb0qtJgjMD"
+      ]
+    },
+    {
+      "id": "2093546633237795226",
+      "author_handle": null,
+      "created_at": "2026-08-29T03:49:48Z",
+      "text": "@adilinthewild I used higgsfield once it had super annoying and  predatory pricing structure and constant upgrade windows everywhere even after i upgraded. They also made it realllyyy hard and confusing to cancel and completely misled the ability of their product in advertising. I don’t like",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 0,
+        "reposts": 0,
+        "views": 945,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093374092795846745",
+    "2093374875696247056",
+    "2093546633237795226"
+  ],
+  "item_id": "x-2093374092795846745",
+  "handle": "adilinthewild",
+  "http_status": 200,
+  "url": "https://x.com/adilinthewild/status/2093374092795846745",
+  "html_bytes": 190311,
+  "raw_path": "raw/items/x-2093374092795846745/thread-raw/x-web-dom-20260904T175327Z.html"
+}

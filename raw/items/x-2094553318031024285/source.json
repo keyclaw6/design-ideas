@@ -1,0 +1,69 @@
+{
+  "id": "x-2094553318031024285",
+  "url": "https://x.com/Crowdreply_io/status/2094553318031024285",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "title": "Grok Bot as Chief of AI Visibility + CrowdReply MCP",
+  "authors": [
+    "CrowdReply (@Crowdreply_io)"
+  ],
+  "topics": [
+    "seo-agents",
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/dawoodkhan254/status/2094451439573881015",
+    "https://x.com/i/article/2094451432208711681",
+    "https://crowdreply.io",
+    "https://crowdreply.io/mcp",
+    "https://mcp.crowdreply.io/mcp",
+    "https://mcp.crowdreply.io/mcp/client",
+    "https://crowdreply.io/features/citation-outreach",
+    "https://calendly.com/d/d3hw-zsm-rm4/citation-outreach-demo",
+    "https://x.ai/bot/AloagFdLLL5SoNPyIszRb",
+    "https://x.ai/bot/gDvJh38CGXP1Jumemg4d-",
+    "https://x.ai/bot/5HgM7_cL2xIikkIxLa_4v",
+    "https://x.ai/bot/L4sWZ2981T7YzegQffkVz",
+    "https://x.ai/bot/IOSFiZskNs_IB7p0gys4R",
+    "https://x.ai/bot/xGvgD-GCpkaWCp-akkVj7"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg",
+    "media/quoted-article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-03T10:05:00Z",
+    "unsaved_via": "agent-browser post-detail verify (aria-label Bookmark, not Remove)",
+    "tweet_id": "2094553318031024285",
+    "author_handle": "Crowdreply_io",
+    "author_id": "1937551934132527104",
+    "author_name": "CrowdReply",
+    "created_at": "2026-08-31T22:30:00Z",
+    "likes": 91,
+    "replies": 8,
+    "retweets": 3,
+    "bookmarks": 290,
+    "quotes": 0,
+    "views": 30296,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": true,
+    "video_duration_s": 11.424,
+    "video_id": "2094511041401200640",
+    "video_size": "1920x1080",
+    "video_bytes": 6136603,
+    "source_client": "Twitter Web Client",
+    "quoted_tweet_id": "2094451439573881015",
+    "quoted_author": "dawoodkhan254",
+    "quoted_article_id": "2094451432208711681",
+    "quoted_article_title": "How I use Grok Bots to rank brands on AI answers that it feels illegal",
+    "mcp_url": "https://mcp.crowdreply.io/mcp",
+    "mcp_docs": "https://crowdreply.io/mcp",
+    "fetch": "api.fxtwitter.com (quoted Dawood article payload) + api.vxtwitter.com + r.jina.ai on fixupx.com; 1080p mp4 via video.twimg.com; crowdreply.io + /mcp via r.jina.ai; mcp.crowdreply.io/mcp HEAD 401 application/json",
+    "comments_note": "8 replies; 3 first-level + 3 nested (CrowdReply TLDR, Toma, Grok) via fixupx then fx API. Remaining ~2 login-walled. Quoted Dawood article tweet in related_urls only (no extra x-* folder).",
+    "topics_note": "AEO / citation outreach via Grok bots + hosted MCP; SCHEMA seo-agents, mcp, agent-skills."
+  }
+}

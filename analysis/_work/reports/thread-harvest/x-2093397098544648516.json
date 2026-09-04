@@ -1,0 +1,65 @@
+{
+  "root_id": "2093397098544648516",
+  "reply_count_reported": 4,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093397098544648516",
+      "author_handle": null,
+      "created_at": "2026-08-28T17:55:36Z",
+      "text": "OMG the new brush selection mode is awesome.\n\nAs in \"we should have added this years ago\" type awesome. https://t.co/WMOnflmSf9",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 144,
+        "replies": 4,
+        "reposts": 11,
+        "views": 10257,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/WMOnflmSf9"
+      ]
+    },
+    {
+      "id": "2093643667403665905",
+      "author_handle": null,
+      "created_at": "2026-08-29T10:15:22Z",
+      "text": "It's a bit subtle in the video, but you can just about see the editor switch to (fast) stochastic rendering when the camera moves so editing remins snappy.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 179,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093433598481244192",
+      "author_handle": null,
+      "created_at": "2026-08-28T20:20:38Z",
+      "text": "@slimbuck7 Imagine the time saved with an AI hook that can differentiate between objects so you don't have to un-select portions you don't need when using the brush.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 210,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093397098544648516",
+    "2093433598481244192",
+    "2093643667403665905"
+  ],
+  "item_id": "x-2093397098544648516",
+  "handle": "slimbuck7",
+  "http_status": 200,
+  "url": "https://x.com/slimbuck7/status/2093397098544648516",
+  "html_bytes": 156370,
+  "raw_path": "raw/items/x-2093397098544648516/thread-raw/x-web-dom-20260904T175327Z.html"
+}

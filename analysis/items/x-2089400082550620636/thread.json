@@ -1,0 +1,80 @@
+{
+  "schema_version": "1",
+  "id": "x-2089400082550620636",
+  "tweet_id": "2089400082550620636",
+  "root_author_handle": "aidenybai",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 55,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 14,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 54,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089426022110265840",
+      "author_handle": "unknown",
+      "created_at": "2026-08-17T18:55:57Z",
+      "text": "@aidenybai LoL a slop over a slop using opus 5 nonetheless. would be a little more credible using sol .. or fable.. or literally anything else.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 19,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2400
+      },
+      "parent_id": "2089400082550620636",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2089400083796378033",
+      "author_handle": "aidenybai",
+      "created_at": "2026-08-17T17:12:53Z",
+      "text": "Run this to install:\n\nnpx skills add https://t.co/lmGnTiM5px --skill improve-threejs\n\nPowered by React Doctor. Open source:\n\nhttps://t.co/APAcpkPWrB",
+      "text_en": null,
+      "urls": [
+        "https://t.co/lmGnTiM5px",
+        "https://t.co/APAcpkPWrB"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 131,
+        "replies": 1,
+        "reposts": 5,
+        "views": 6346
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/aidenybai/status/2089400082550620636",
+      "outcome": "ok",
+      "note": "html_bytes=187610 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/aidenybai/status/2089400082550620636",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089400082550620636/thread-raw/x-web-dom-20260904T175312Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

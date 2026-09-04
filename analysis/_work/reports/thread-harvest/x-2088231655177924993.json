@@ -1,0 +1,81 @@
+{
+  "root_id": "2088231655177924993",
+  "reply_count_reported": 8,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2088231655177924993",
+      "author_handle": null,
+      "created_at": "2026-08-14T11:49:58Z",
+      "text": "Bro... imagine giving Claude Code a strong fuckin memory. 🧠\n\nObsidian Mind is an open-source Obsidian vault that gives AI coding agents persistent memory across sessions.\n\nIt helps your agent keep track of projects, decisions, tasks, notes, and context, so it doesn't have to https://t.co/ZbEWRWszVF",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 8,
+        "reposts": 0,
+        "views": 798,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ZbEWRWszVF"
+      ]
+    },
+    {
+      "id": "2088319227883384862",
+      "author_handle": null,
+      "created_at": "2026-08-14T17:37:57Z",
+      "text": "@rammcodes I think editable memory could be a great add also",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 5,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088252547777859654",
+      "author_handle": null,
+      "created_at": "2026-08-14T13:12:59Z",
+      "text": "@rammcodes 终于不用每次开新会话都给它补课了",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 31,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088238253052678196",
+      "author_handle": null,
+      "created_at": "2026-08-14T12:16:11Z",
+      "text": "@rammcodes Persistent memory needs a forgetting mechanism too. Old decisions and abandoned tasks can make an agent consistently wrong across every future session. Does the vault distinguish current source-of-truth context from historical notes?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 14,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2088231655177924993",
+    "2088238253052678196",
+    "2088252547777859654",
+    "2088319227883384862"
+  ],
+  "item_id": "x-2088231655177924993",
+  "handle": "rammcodes",
+  "http_status": 200,
+  "url": "https://x.com/rammcodes/status/2088231655177924993",
+  "html_bytes": 183349,
+  "raw_path": "raw/items/x-2088231655177924993/thread-raw/x-web-dom-20260904T175308Z.html"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "web-graphed",
+  "url": "https://www.graphed.com/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "Graphed \u2014 Deploy AI Agents for Marketing",
+  "authors": [
+    "Graphed"
+  ],
+  "topics": [
+    "mcp",
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.graphed.com/mcp",
+    "https://mcp.graphed.com/mcp",
+    "https://x.com/codyschneider/status/2094893065202803014",
+    "https://www.graphed.com/register?returnTo=%2Fbook-demo"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "mcp_url": "https://mcp.graphed.com/mcp",
+    "sources_count": "750+",
+    "fetch": "r.jina.ai homepage + /mcp",
+    "related_items": [
+      "github-superdesigndev-treg",
+      "github-iannuttall-seo",
+      "web-crowdreply",
+      "web-anthropic-claude-self-service-data",
+      "github-romangojiberryAI-gojiberryai-sales-os"
+    ],
+    "category_note": "FDE-deployed marketing agents on warehouse + Graphed MCP."
+  }
+}

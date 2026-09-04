@@ -1,0 +1,30 @@
+{
+  "id": "x-2087565352372723955",
+  "url": "https://x.com/abyssallD/status/2087565352372723955",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:01:47Z",
+  "title": "BLENDER + SEEDANCE = FULL CAMERA CONTROL Claude Opus 5 builds a simple 3D mockup of the cafe in Blender. Basic blocks fo",
+  "authors": [
+    "@abyssallD"
+  ],
+  "topics": [
+    "camera-control",
+    "video-generation",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087565352372723955",
+    "author_handle": "abyssallD",
+    "related_items": [
+      "note-blender-minimax-h3-video-generation",
+      "github-oso95-scroll-world",
+      "x-2065843739340509693",
+      "web-fal-ai",
+      "github-nv-tlabs-ArtiFixer"
+    ],
+    "category_note": "Blender blockout + Seedance camera-path reference"
+  }
+}

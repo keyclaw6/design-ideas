@@ -1,0 +1,81 @@
+{
+  "root_id": "2093767075131220005",
+  "reply_count_reported": 9,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2093767075131220005",
+      "author_handle": null,
+      "created_at": "2026-08-29T18:25:45Z",
+      "text": "Walk into Hogwarts...\n\nBuilt this landing for an AI-based Harry Potter Experience event.\n\nBuilt by Custom Skills + My Video Tool + Cursor + Some Creativity https://t.co/CV5k2uuLlp",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 71,
+        "replies": 9,
+        "reposts": 3,
+        "views": 4303,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/CV5k2uuLlp"
+      ]
+    },
+    {
+      "id": "2094072267865296962",
+      "author_handle": null,
+      "created_at": "2026-08-30T14:38:29Z",
+      "text": "@DesignByMoein Wow, incredible work!! 🔥",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 23,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093813446504587723",
+      "author_handle": null,
+      "created_at": "2026-08-29T21:30:01Z",
+      "text": "@DesignByMoein This is so clean, do you perhaps use antigravity or google studio to build your frontend because I’ve been struggling to get my animated videos on my sites",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 90,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093787314900148443",
+      "author_handle": null,
+      "created_at": "2026-08-29T19:46:11Z",
+      "text": "@DesignByMoein looks amazing? how does it work? is it a background video, frontground svg-from-video?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 90,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093767075131220005",
+    "2093787314900148443",
+    "2093813446504587723",
+    "2094072267865296962"
+  ],
+  "item_id": "x-2093767075131220005",
+  "handle": "DesignByMoein",
+  "http_status": 200,
+  "url": "https://x.com/DesignByMoein/status/2093767075131220005",
+  "html_bytes": 187865,
+  "raw_path": "raw/items/x-2093767075131220005/thread-raw/x-web-dom-20260904T175329Z.html"
+}

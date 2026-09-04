@@ -1,0 +1,82 @@
+{
+  "root_id": "2089770081459056765",
+  "reply_count_reported": 10,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2089770081459056765",
+      "author_handle": null,
+      "created_at": "2026-08-18T17:43:08Z",
+      "text": "Animated in Higgsfield Seedance 2.5 + Cursor Composer 2.5\n\nAI Skill: https://t.co/Gs1RT1BZxi https://t.co/Pd4M8Tf2S1",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 712,
+        "replies": 10,
+        "reposts": 30,
+        "views": 38342,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/Gs1RT1BZxi",
+        "https://t.co/Pd4M8Tf2S1"
+      ]
+    },
+    {
+      "id": "2089770657664155992",
+      "author_handle": null,
+      "created_at": "2026-08-18T17:45:25Z",
+      "text": "@elayadesigns It reminds me of the trips I took as a child! Amazing design 🔥",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 891,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2089783448978243777",
+      "author_handle": null,
+      "created_at": "2026-08-18T18:36:15Z",
+      "text": "@elayadesigns loved the creativity",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 539,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2089776283693568363",
+      "author_handle": null,
+      "created_at": "2026-08-18T18:07:46Z",
+      "text": "@elayadesigns van cabin as the frame works",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 801,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089770081459056765",
+    "2089770657664155992",
+    "2089776283693568363",
+    "2089783448978243777"
+  ],
+  "item_id": "x-2089770081459056765",
+  "handle": "elayadesigns",
+  "http_status": 200,
+  "url": "https://x.com/elayadesigns/status/2089770081459056765",
+  "html_bytes": 193221,
+  "raw_path": "raw/items/x-2089770081459056765/thread-raw/x-web-dom-20260904T175313Z.html"
+}

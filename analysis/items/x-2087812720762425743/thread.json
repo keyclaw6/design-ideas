@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2087812720762425743",
+  "tweet_id": "2087812720762425743",
+  "root_author_handle": "davidhdev",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 2,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 2,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087910691822833883",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T14:34:35Z",
+      "text": "@davidhdev Smoking Hot &gt; Smoke for the Soul",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 32
+      },
+      "parent_id": "2087812720762425743",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087831727708504268",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T09:20:48Z",
+      "text": "@davidhdev 10% is probably where the real differentiation happens, once the motion and structure are handled, the decisions around hierarchy, copy, spacing, and composition are what stop two products from looking identical",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 13
+      },
+      "parent_id": "2087812720762425743",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/davidhdev/status/2087812720762425743",
+      "outcome": "ok",
+      "note": "html_bytes=162767 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/davidhdev/status/2087812720762425743",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087812720762425743/thread-raw/x-web-dom-20260904T175306Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

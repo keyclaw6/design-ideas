@@ -1,0 +1,81 @@
+{
+  "root_id": "2093013941412852083",
+  "reply_count_reported": 57,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2093013941412852083",
+      "author_handle": null,
+      "created_at": "2026-08-27T16:33:04Z",
+      "text": "After paying for years for SEMrush, I finally canceled it and moved to open source. DataforSEO API + OpenSEO is a powerful combo &amp;  more affordable for my + my client needs. Check it out. You can self host for free (+ API usage) on Cloudflare workers.  https://t.co/IVQWXSE9tp",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1147,
+        "replies": 57,
+        "reposts": 77,
+        "views": 85376,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/IVQWXSE9tp"
+      ]
+    },
+    {
+      "id": "2093036910436556919",
+      "author_handle": null,
+      "created_at": "2026-08-27T18:04:20Z",
+      "text": "@brendanocwp dataforseo is a good default, but check the backlink leg if openseo pulls it: $0.024 a domain there, vs se ranking $0.0027 and majestic $0.0008 on your own key. same field, 30x spread. we list the four side by side with measured success rates.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 926,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093477279221350861",
+      "author_handle": null,
+      "created_at": "2026-08-28T23:14:12Z",
+      "text": "@brendanocwp What does OpenSEO do above and beyond DataForSEO",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "views": 26894,
+        "quotes": 1
+      },
+      "urls": []
+    },
+    {
+      "id": "2093202982967902458",
+      "author_handle": null,
+      "created_at": "2026-08-28T05:04:15Z",
+      "text": "@brendanocwp Same move here. DataForSEO API connected to Claude via MCP has replaced most of what I was paying for in traditional SEO tools.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 159,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093013941412852083",
+    "2093036910436556919",
+    "2093202982967902458",
+    "2093477279221350861"
+  ],
+  "item_id": "x-2093013941412852083",
+  "handle": "brendanocwp",
+  "http_status": 200,
+  "url": "https://x.com/brendanocwp/status/2093013941412852083",
+  "html_bytes": 227842,
+  "raw_path": "raw/items/x-2093013941412852083/thread-raw/x-web-dom-20260904T175324Z.html"
+}

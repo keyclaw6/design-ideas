@@ -1,0 +1,83 @@
+{
+  "root_id": "2092918452423983363",
+  "reply_count_reported": 97,
+  "quote_count_reported": 22,
+  "tweets": [
+    {
+      "id": "2092918452423983363",
+      "author_handle": null,
+      "created_at": "2026-08-27T10:13:38Z",
+      "text": "Everyone's suddenly building company brains.\n\nNobody agrees on what's inside one. 😵‍💫\n\nSo we opened up 9+ company brains to see how they're actually built.\n\nEvery single one does the same four things: getting signals, remembering, dreaming &amp; pruning, speaking &amp; searching.\n\n𝟭. https://t.co/eaLBSeqWFi",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1734,
+        "replies": 97,
+        "reposts": 199,
+        "views": 143587,
+        "quotes": 22
+      },
+      "urls": [
+        "https://t.co/eaLBSeqWFi"
+      ]
+    },
+    {
+      "id": "2092953929432616964",
+      "author_handle": null,
+      "created_at": "2026-08-27T12:34:36Z",
+      "text": "@femke_plantinga everyone builds the remembering part, nobody wants to own the forgetting part",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 14,
+        "replies": 3,
+        "reposts": 0,
+        "views": 2756,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092970396001960139",
+      "author_handle": null,
+      "created_at": "2026-08-27T13:40:02Z",
+      "text": "@femke_plantinga I’m building a knowledge graph. Used to have it on neo4j. Now just dynamically building locally on research tasks with levels of expiration",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2087,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093122279874215941",
+      "author_handle": null,
+      "created_at": "2026-08-27T23:43:34Z",
+      "text": "@femke_plantinga You haven’t tried the best one yet: https://t.co/9NXgrLFpAH",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 1,
+        "views": 182,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/9NXgrLFpAH"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2092918452423983363",
+    "2092953929432616964",
+    "2092970396001960139",
+    "2093122279874215941"
+  ],
+  "item_id": "x-2092918452423983363",
+  "handle": "femke_plantinga",
+  "http_status": 200,
+  "url": "https://x.com/femke_plantinga/status/2092918452423983363",
+  "html_bytes": 234923,
+  "raw_path": "raw/items/x-2092918452423983363/thread-raw/x-web-dom-20260904T175323Z.html"
+}

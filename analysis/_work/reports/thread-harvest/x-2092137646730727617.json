@@ -1,0 +1,49 @@
+{
+  "root_id": "2092137646730727617",
+  "reply_count_reported": 0,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2092137646730727617",
+      "author_handle": null,
+      "created_at": "2026-08-25T06:30:59Z",
+      "text": "this person crazy too",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 22,
+        "replies": 0,
+        "reposts": 3,
+        "views": 2720,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092009056164872620",
+      "author_handle": null,
+      "created_at": null,
+      "text": "CozyClayっていうオープンソースのプレビス制作ソフトつかってみました。Blenderに比べると拡張性は低いんだけど、MCPあるし格段に使いやすい\n\n一回シーンをつくっちゃったら構図変更するのも30秒くらい。これで何回もやり直して、そこから動画生成にいけばかなり効率いいよ https://t.co/I7CZgW9S4G",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/I7CZgW9S4G"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2092009056164872620",
+    "2092137646730727617"
+  ],
+  "item_id": "x-2092137646730727617",
+  "handle": "Yun_HDY",
+  "http_status": 200,
+  "url": "https://x.com/Yun_HDY/status/2092137646730727617",
+  "html_bytes": 125023,
+  "raw_path": "raw/items/x-2092137646730727617/thread-raw/x-web-dom-20260904T175321Z.html"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "web-typeui-sh",
+  "url": "https://typeui.sh",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:42:00Z",
+  "title": "typeui.sh",
+  "authors": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/tranmautritam/status/2095078647652917329"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "error": "HTTP 429 Vercel Security Checkpoint on direct curl and r.jina.ai",
+    "related_items": [
+      "web-designmd-me",
+      "web-designmd-supply",
+      "github-google-labs-code-design-md",
+      "github-jakubkrehel-skills",
+      "web-checklist-design"
+    ],
+    "category_note": "DESIGN.md-thread domain (type/UI); Vercel 429, no body."
+  }
+}

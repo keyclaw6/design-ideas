@@ -1,0 +1,52 @@
+{
+  "root_id": "2086715093707063445",
+  "reply_count_reported": 3,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2086715093707063445",
+      "author_handle": null,
+      "created_at": "2026-08-10T07:23:42Z",
+      "text": "在试用了大部分热门的设计 SKILL 之后，最终我只留下这 4 个：\n1. Impeccable\nhttps://t.co/rPMYh9dzXw\n\n2. Skills for Design Engineers\nhttps://t.co/bueOrx4DLT\n\n3. transitions dev\nhttps://t.co/VwIbJskZZf\n\n4. GSAP Skills\nhttps://t.co/70imhmH08i",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 158,
+        "replies": 3,
+        "reposts": 20,
+        "views": 12219,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/rPMYh9dzXw",
+        "https://t.co/bueOrx4DLT",
+        "https://t.co/VwIbJskZZf",
+        "https://t.co/70imhmH08i"
+      ]
+    },
+    {
+      "id": "2086989988391162281",
+      "author_handle": null,
+      "created_at": "2026-08-11T01:36:02Z",
+      "text": "@ricouii Saving this list, been meaning to try GSAP skills for a while now.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 331,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086715093707063445",
+    "2086989988391162281"
+  ],
+  "item_id": "x-2086715093707063445",
+  "handle": "ricouii",
+  "http_status": 200,
+  "url": "https://x.com/ricouii/status/2086715093707063445",
+  "html_bytes": 178768,
+  "raw_path": "raw/items/x-2086715093707063445/thread-raw/x-web-dom-20260904T175302Z.html"
+}

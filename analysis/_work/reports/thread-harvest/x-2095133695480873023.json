@@ -1,0 +1,81 @@
+{
+  "root_id": "2095133695480873023",
+  "reply_count_reported": 40,
+  "quote_count_reported": 13,
+  "tweets": [
+    {
+      "id": "2095133695480873023",
+      "author_handle": null,
+      "created_at": "2026-09-02T12:56:13Z",
+      "text": "If you’re getting started with ChatGPT Work or Codex, I recommend checking out our new training page.\n\nThere are many walkthroughs on how to best use it for general or technical work. \n\nEven if you’re a regular user, I’m sure you’ll learn a thing or two!\n\nhttps://t.co/Yi6PakASK5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1389,
+        "replies": 40,
+        "reposts": 131,
+        "views": 149223,
+        "quotes": 13
+      },
+      "urls": [
+        "https://t.co/Yi6PakASK5"
+      ]
+    },
+    {
+      "id": "2095149193728041283",
+      "author_handle": null,
+      "created_at": "2026-09-02T13:57:48Z",
+      "text": "@derrickcchoi Even using Codex every day, I still find features I had no idea existed. This page was overdue.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1542,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095178497199370721",
+      "author_handle": null,
+      "created_at": "2026-09-02T15:54:14Z",
+      "text": "@derrickcchoi This is very very  useful!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 52,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095150803623567623",
+      "author_handle": null,
+      "created_at": "2026-09-02T14:04:12Z",
+      "text": "@derrickcchoi Thank you very much, this was very helpful and informative.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1238,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095133695480873023",
+    "2095149193728041283",
+    "2095150803623567623",
+    "2095178497199370721"
+  ],
+  "item_id": "x-2095133695480873023",
+  "handle": "derrickcchoi",
+  "http_status": 200,
+  "url": "https://x.com/derrickcchoi/status/2095133695480873023",
+  "html_bytes": 226368,
+  "raw_path": "raw/items/x-2095133695480873023/thread-raw/x-web-dom-20260904T175336Z.html"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "x-2091899114153754949",
+  "url": "https://x.com/janusch_patas/status/2091899114153754949",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:07:52Z",
+  "title": "LichtFeld Studio is getting faster recently... 5m Gaussians, mrnf, 30k steps on RTX 4090",
+  "authors": [
+    "@janusch_patas"
+  ],
+  "topics": [
+    "gaussian-splatting"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2091899114153754949",
+    "author_handle": "janusch_patas"
+  }
+}

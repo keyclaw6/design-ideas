@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2065843739340509693",
+  "tweet_id": "2065843739340509693",
+  "root_author_handle": "EHuanglu",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 119,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 20,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 116,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2066161124270330197",
+      "author_handle": "unknown",
+      "created_at": "2026-06-14T14:09:34Z",
+      "text": "@EHuanglu you did it through mcp or programming? I'm not sure but you can make models by wiritng code in blender",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2372
+      },
+      "parent_id": "2065843739340509693",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2065900023317955027",
+      "author_handle": "unknown",
+      "created_at": "2026-06-13T20:52:02Z",
+      "text": "@EHuanglu Do you render the scene in blender then animate it with Seeddream??",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2916
+      },
+      "parent_id": "2065843739340509693",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2065922171059241275",
+      "author_handle": "unknown",
+      "created_at": "2026-06-13T22:20:03Z",
+      "text": "@EHuanglu No way this was done with a LLM 🫪",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 2,
+        "reposts": 0,
+        "views": 4625
+      },
+      "parent_id": "2065843739340509693",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/EHuanglu/status/2065843739340509693",
+      "outcome": "ok",
+      "note": "html_bytes=185888 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/EHuanglu/status/2065843739340509693",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2065843739340509693/thread-raw/x-web-dom-20260904T175300Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

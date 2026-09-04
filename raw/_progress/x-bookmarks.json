@@ -1,0 +1,61 @@
+{
+  "count": 6,
+  "incomplete": true,
+  "source": "cursor-ide-browser DOM extract at https://x.com/i/history Bookmarks tab",
+  "items": [
+    {
+      "id": "x-2094927852399624557",
+      "url": "https://x.com/levikmunneke/status/2094927852399624557",
+      "status_id": "2094927852399624557",
+      "author": "levikmunneke",
+      "preview": "10,000 emails/day is just 500 inboxes / 167 domains / instantly.ai sequencer / mapsdata.ai leads",
+      "has_media": false,
+      "has_video": false
+    },
+    {
+      "id": "x-2094864872853119216",
+      "url": "https://x.com/XRarchitect/status/2094864872853119216",
+      "status_id": "2094864872853119216",
+      "author": "XRarchitect",
+      "preview": "Scene from one input image. Atlas fills gaps. atlas (world labs), spark.js, three.js",
+      "has_media": true,
+      "has_video": true
+    },
+    {
+      "id": "x-2095060844547592437",
+      "url": "https://x.com/paolo_scales/status/2095060844547592437",
+      "status_id": "2095060844547592437",
+      "author": "paolo_scales",
+      "preview": "How do you write lead magnets that go viral on LinkedIn?",
+      "has_media": false,
+      "has_video": false
+    },
+    {
+      "id": "x-2094820035344621901",
+      "url": "https://x.com/harris/status/2094820035344621901",
+      "status_id": "2094820035344621901",
+      "author": "harris",
+      "preview": "Meet investors in waves. Venture fundraising FRM.",
+      "has_media": true,
+      "has_video": true
+    },
+    {
+      "id": "x-2095130625976176754",
+      "url": "https://x.com/karakhanyanS/status/2095130625976176754",
+      "status_id": "2095130625976176754",
+      "author": "karakhanyanS",
+      "preview": "Topical maps vs chasing keywords one at a time. blogr.ai",
+      "has_media": false,
+      "has_video": false
+    },
+    {
+      "id": "x-2094961942058418268",
+      "url": "https://x.com/tokufxug/status/2094961942058418268",
+      "status_id": "2094961942058418268",
+      "author": "tokufxug",
+      "preview": "ByteDance Lucida converts indoor videos into editable 3D assets. VLM + Seed3D 2.0.",
+      "has_media": true,
+      "has_video": true
+    }
+  ]
+}

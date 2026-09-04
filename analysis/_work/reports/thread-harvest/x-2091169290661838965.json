@@ -1,0 +1,85 @@
+{
+  "root_id": "2091169290661838965",
+  "reply_count_reported": 4,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2091169290661838965",
+      "author_handle": null,
+      "created_at": "2026-08-22T14:23:05Z",
+      "text": "This is f*cking insane\n\nThe craziest self evolving internal memory stack I've ever found\n\nMatter of fact, it just hit 31,931 stars, and it’s not stopping anytime soon\n\nHere's what it does:\n\n&gt; one layer for agent memory, rag, and skills under the viking protocol\n&gt; agents explore https://t.co/5KDArXIVvK",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 115,
+        "replies": 4,
+        "reposts": 19,
+        "views": 20558,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/5KDArXIVvK"
+      ]
+    },
+    {
+      "id": "2090271647219769640",
+      "author_handle": null,
+      "created_at": "2026-08-20T02:56:10Z",
+      "text": "🚨 55,000 STARS AND IT'S STILL COMPLETELY FREE.\n\nNO F*CKIN WAY THIS ISN'T A DREAM.\n\nStrix just hit 55,731 stars on GitHub (+10k stars in 1 week)\n\n&gt; multi-agent team that hacks like a real attacker, not a scanner\n&gt; every finding is proven with a real PoC, no false positives\n&gt; https://t.co/jIEx2ZoJ5z",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 36158,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/jIEx2ZoJ5z"
+      ]
+    },
+    {
+      "id": "2091181219207663648",
+      "author_handle": null,
+      "created_at": "2026-08-22T15:10:29Z",
+      "text": "https://t.co/BJlCON8mji",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1124,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/BJlCON8mji"
+      ]
+    },
+    {
+      "id": "2091182526132035880",
+      "author_handle": null,
+      "created_at": "2026-08-22T15:15:41Z",
+      "text": "@defileo didnt know its backed by bytedance and can cut token use by up to 91 percent",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 536,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090271647219769640",
+    "2091169290661838965",
+    "2091181219207663648",
+    "2091182526132035880"
+  ],
+  "item_id": "x-2091169290661838965",
+  "handle": "defileo",
+  "http_status": 200,
+  "url": "https://x.com/defileo/status/2091169290661838965",
+  "html_bytes": 224300,
+  "raw_path": "raw/items/x-2091169290661838965/thread-raw/x-web-dom-20260904T175316Z.html"
+}

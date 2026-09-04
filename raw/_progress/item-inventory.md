@@ -1,0 +1,391 @@
+# Item inventory (compact)
+
+387 items
+
+- `github-LessieAI-people-search-bench` [KEEP] [empty] topics=seo-agents,agent-skills replies=None :: People Search Bench
+- `github-antvis-infographic` [KEEP] [empty] topics=infographics,design,agent-skills replies=None :: AntV Infographic
+- `github-cathrynlavery-diagram-design` [KEEP] [empty] topics=infographics,agent-skills,design replies=None :: Diagram Design
+- `github-deedy-qr-data-transfer` [KEEP] [empty] topics=design replies=None :: QRFerry (qr-data-transfer)
+- `github-emilkowalski-skills` [KEEP] [empty] topics=agent-skills,design,ui-motion replies=None :: Skills For Designers and Engineers
+- `github-google-labs-code-design-md` [KEEP] [empty] topics=design,agent-skills replies=None :: DESIGN.md
+- `github-h4ckf0r0day-obscura` [KEEP] [empty] topics=agent-skills,mcp replies=None :: Obscura — headless browser for AI agents
+- `github-iannuttall-seo` [KEEP] [empty] topics=seo-agents,agent-skills,mcp replies=None :: SEO Skill
+- `github-jakubkrehel-skills` [KEEP] [empty] topics=agent-skills,design replies=None :: interfaces.dev Skills
+- `github-leonxlnx-taste-skill` [KEEP] [empty] topics=agent-skills,design,ui-motion replies=None :: Taste Skill
+- `github-mengto-complete-shelf` [KEEP] [empty] topics=three-js,design,ui-motion replies=None :: The Complete Shelf
+- `github-mengto-skills` [KEEP] [empty] topics=agent-skills,design,three-js,ui-motion replies=None :: Agent Skills (MengTo)
+- `github-nateherkai-scroll-craft` [KEEP] [empty] topics=design,agent-skills,ui-motion replies=None :: scroll-craft
+- `github-nexu-io-html-video` [KEEP] [empty] topics=video-generation,agent-skills replies=None :: html-video
+- `github-nexu-io-motion-anything` [KEEP] [empty] topics=ui-motion,agent-skills,design replies=None :: motion-anything
+- `github-nexu-io-open-design` [KEEP] [empty] topics=design,agent-skills,ui-motion,video-generation replies=None :: OpenDesign
+- `github-nv-tlabs-ArtiFixer` [KEEP] [empty] topics=video-generation,camera-control,gaussian-splatting,bess-3d-flythrough replies=None :: ArtiFixer
+- `github-oso95-scroll-world` [KEEP] [empty] topics=bess-3d-flythrough,camera-control,video-generation,agent-skills,ui-motion replies=None :: scroll-world
+- `github-pbakaus-impeccable` [KEEP] [empty] topics=agent-skills,design,ui-motion replies=None :: Impeccable
+- `github-punkpeye-awesome-mcp-servers` [KEEP] [empty] topics=mcp,agent-skills,seo-agents replies=None :: awesome-mcp-servers
+- `github-romangojiberryAI-gojiberryai-sales-os` [KEEP] [empty] topics=mcp,agent-skills,seo-agents replies=None :: gojiberryai-sales-os
+- `github-scottstts-threejs-awesome-graphics-agent-skills` [KEEP] [empty] topics=three-js,agent-skills,camera-control replies=None :: Three.js Awesome Graphics Agent Skills
+- `github-sindresorhus-awesome` [KEEP] [empty] topics=design replies=None :: awesome
+- `github-superdesigndev-treg` [KEEP] [empty] topics=mcp,agent-skills,seo-agents replies=None :: treg — OpenRouter for agent tools
+- `github-wuyoscar-gpt-image2-skill` [KEEP] [empty] topics=agent-skills,design replies=None :: GPT Image 2 Prompt Gallery + Agentic Skill + CLI
+- `github-youmind-openlab-nano-banana-pro-prompts` [KEEP] [empty] topics=agent-skills,design replies=None :: Nano Banana Pro Prompts Recommend Skill
+- `web-aidesigner-mcp` [KEEP] [empty] topics=mcp,design,agent-skills replies=None :: AIDesigner MCP — AI UI design in the editor
+- `web-animos-editor` [KEEP] [empty] topics=ui-motion,design,video-generation replies=None :: animos — Motion templates for design showcases
+- `web-anthropic-claude-self-service-data` [KEEP] [empty] topics=agent-skills,mcp replies=None :: How Anthropic enables self-service data analytics with Claude
+- `web-arcana-splat2mesh` [KEEP] [empty] topics=gaussian-splatting,bess-3d-flythrough replies=None :: Splat2Mesh
+- `web-arxiv-2603-27476` [KEEP] [empty] topics=seo-agents,agent-skills replies=None :: PeopleSearchBench: Evaluating AI-Powered People Search Platforms
+- `web-aura-build` [KEEP] [empty] topics=design,agent-skills replies=None :: Aura — AI Website Builder
+- `web-blume-codes` [KEEP] [empty] topics=agent-skills,mcp replies=None :: Blume Sidecar — monitor and improve coding agents
+- `web-brave-submit-url` [KEEP] [empty] topics=seo-agents replies=None :: Brave Search — Submit URL
+- `web-cartier-ballon-bleu` [KEEP] [empty] topics=design,ui-motion replies=None :: Ballon Bleu de Cartier watch CRWSBB0049
+- `web-cerebras-knowledge-base` [KEEP] [empty] topics=agent-skills replies=None :: How Cerebras Built Its Enterprise Knowledge Base
+- `web-chatgpt-training` [KEEP] [empty] topics=agent-skills replies=None :: ChatGPT Training — Work, Codex, walkthroughs
+- `web-checklist-design` [KEEP] [empty] topics=design,agent-skills replies=None :: Checklist Design — Check every detail, ship better work
+- `web-cloudflare-kitesurf` [KEEP] [empty] topics=agent-skills,mcp replies=None :: Kitesurf — agent-first browser on Cloudflare Workers
+- `web-crowdreply` [KEEP] [empty] topics=seo-agents,mcp,agent-skills replies=None :: CrowdReply — AI search visibility platform
+- `web-cult-ui` [KEEP] [empty] topics=design,ui-motion,agent-skills,seo-agents replies=None :: Cult UI
+- `web-davidgasquez-context-engineering` [KEEP] [empty] topics=agent-skills replies=None :: Context Engineering Is a Data Problem
+- `web-design-md-hyperbrowser` [KEEP] [empty] topics=design,agent-skills,mcp replies=None :: DESIGNMD — Hyperbrowser DESIGN.md Extractor
+- `web-designmd-me` [KEEP] [empty] topics=design,agent-skills replies=None :: designmd.me
+- `web-designmd-supply` [KEEP] [empty] topics=design,agent-skills replies=None :: designmd.supply
+- `web-dicebear` [KEEP] [empty] topics=design replies=None :: DiceBear — open source avatar library & API
+- `web-fal-ai` [KEEP] [empty] topics=video-generation,agent-skills replies=None :: fal — generative media platform for developers
+- `web-feralui-dev` [KEEP] [empty] topics=design,ui-motion,three-js replies=None :: FeralUI
+- `web-flint-chart` [KEEP] [empty] topics=infographics,mcp,agent-skills replies=None :: Flint: A Visualization Language for the AI Era
+- `web-flowmapp` [KEEP] [empty] topics=design replies=None :: Flowmapp — Website Planning Tool
+- `web-getdesign-md` [KEEP] [empty] topics=design,agent-skills replies=None :: getdesign.md — DESIGN.md Collection for AI Coding Agents
+- `web-getlayers-ai` [KEEP] [empty] topics=design,three-js,ui-motion,agent-skills,mcp replies=None :: GetLayers AI
+- `web-graphed` [KEEP] [empty] topics=mcp,seo-agents,agent-skills replies=None :: Graphed — Deploy AI Agents for Marketing
+- `web-iandmacomber-post-ai-data-stack` [KEEP] [empty] topics=agent-skills,infographics replies=None :: The Shape and Feel of the Post-AI Data Stack
+- `web-known-agency` [KEEP] [empty] topics=seo-agents replies=None :: known.agency — AI Search Optimization Agency
+- `web-lottiefiles` [KEEP] [empty] topics=ui-motion,design replies=None :: LottieFiles
+- `web-meigen-ai` [KEEP] [empty] topics=design,agent-skills,video-generation replies=None :: MeiGen — Free GPT Image 2, Nano Banana & Seedance Prompts
+- `web-neuform-ai` [KEEP] [empty] topics=design,agent-skills replies=None :: Neuform — AI HTML Landing Page Builder
+- `web-nqz-ai-search-prompt-generator` [KEEP] [empty] topics=seo-agents replies=None :: Free AI Search Prompt Generator — nqzai
+- `web-obscura-sh` [KEEP] [empty] topics=agent-skills,mcp replies=None :: Obscura — Give every agent its own browser
+- `web-opale-ui-taste` [KEEP] [empty] topics=agent-skills,design,three-js,ui-motion replies=None :: A Developer's Guide to Taste in the Age of AI
+- `web-open-design-ai` [KEEP] [empty] topics=design,agent-skills replies=None :: OpenDesign — Open Source Vibe Design Workspace
+- `web-originkit-dev` [KEEP] [empty] topics=design,ui-motion,mcp replies=None :: Originkit
+- `web-oryzo-ai` [KEEP] [empty] topics=design,three-js replies=None :: ORYZO AI
+- `web-recent-design` [KEEP] [empty] topics=design,ui-motion replies=None :: Recent — Design Inspiration
+- `web-sceneai-art` [KEEP] [empty] topics=design,agent-skills replies=None :: SceneAI — UI Prompt Library
+- `web-seowins-io` [KEEP] [empty] topics=seo-agents replies=None :: SEO Wins — 150+ SEO and AI SEO Strategies
+- `web-sokosumi-design-md` [KEEP] [empty] topics=design,agent-skills replies=None :: Sokosumi — Free DESIGN.md Generator
+- `web-styles-refero-design` [KEEP] [empty] topics=design,agent-skills replies=None :: Refero Styles — DESIGN.md Examples for AI Agents
+- `web-tinylaunch-directories` [KEEP] [empty] topics=seo-agents replies=None :: TinyLaunch — product directory submission service
+- `web-tinyshelf` [KEEP] [empty] topics=seo-agents replies=None :: TinyShelf — curated software directory
+- `web-tinyshots` [KEEP] [empty] topics=design,ui-motion,agent-skills replies=None :: TinyShots — macOS screenshot polish app
+- `web-treg-people-search` [KEEP] [empty] topics=mcp,agent-skills,seo-agents replies=None :: treg — Claude for People Search
+- `web-typeui-sh` [KEEP] [empty] topics=design,agent-skills replies=None :: typeui.sh
+- `web-utsubo` [KEEP] [empty] topics=design,three-js,bess-3d-flythrough replies=None :: Utsubo
+- `web-vengence-ui` [KEEP] [empty] topics=design,ui-motion replies=None :: Vengeance UI
+- `x-2032330665081839791` [KEEP] [has_thread] topics=agent-skills replies=None :: Autoquant: a distributed quant research lab | v2.6.9 We pointed @karpathy's autoresearch loop at quantitative finance. 1
+- `x-2032671842230501729` [KEEP] [has_thread] topics=agent-skills replies=None :: Agentic General Intelligence | v3.0.10 We made the Karpathy autoresearch loop generic. Now anyone can propose an optimiz
+- `x-2057113327508345047` [KEEP] [empty] topics=three-js,design replies=None :: I'm working on a one-click AI-generated texturing feature for 3D models. I render the model from four sides and project 
+- `x-2065843739340509693` [KEEP] [empty] topics=camera-control,bess-3d-flythrough,agent-skills replies=None :: codex + blender is insane
+- `x-2074912810803560497` [KEEP] [empty] topics=agent-skills replies=None :: my latest blog post "auto-research with codex: how I achieved a 212x faster kernel over baseline with codex in GPU Mode'
+- `x-2077359594666651900` [FILTERED] [has_thread] topics= replies=None :: A man spends 50 years teaching at MIT. He knows his time is running out. So he records one last lecture — everything he 
+- `x-2077376352630845499` [FILTERED] [has_thread] topics= replies=None :: INSTEAD OF WATCHING AN HOUR OF NETFLIX TONIGHT. This 60-minute Cambridge lecture by Demis Hassabis will teach you more a
+- `x-2080856252687745093` [KEEP] [has_thread] topics=agent-skills replies=None :: 🧪 [𝐏𝐫𝐢𝐦𝐞𝐫] 𝐀𝐮𝐭𝐨𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐇𝐚𝐫𝐧𝐞𝐬𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 • http://autoresearch.aman.ai - I believe autoresearch matters because i
+- `x-2082316720086405524` [KEEP] [has_thread] topics=agent-skills replies=None :: i always disable all permission checks for my agents - i don't even do auto review. many people saw that in my videos an
+- `x-2083853702696231097` [FILTERED] [has_thread] topics= replies=None :: I know I've reposted this before, but it's worth re-emphasizing. If you want to get good at using AI, GET GOOD AT THE TH
+- `x-2084613319558635940` [FILTERED] [empty] topics= replies=None :: THIS GUY MAKES COMPLEX AI AGENT CONCEPTS RIDICULOUSLY EASY TO UNDERSTAND. No jargon wall. No assuming you already know w
+- `x-2085006701984698712` [KEEP] [empty] topics=agent-skills,design replies=None :: My last open-source skill, /no-ai-slop, clearly hit a nerve with 4K GitHub stars. Today, I’m introducing /human-review, 
+- `x-2086030681772376399` [KEEP] [empty] topics=video-generation,ui-motion,agent-skills replies=None :: this is terrifying. Claude Opus 5 + Remotion can now generate videos. It can do motion design, demos and animations from
+- `x-2086078399366230075` [FILTERED] [empty] topics= replies=None :: Everyone knows a 7 step guy. Dead vitamin C, retinol listed after the fragrance, doses: trust me bro. Vector ONE is the 
+- `x-2086533896993112572` [FILTERED] [empty] topics= replies=None :: A 7-step routine costs about €488 for 120 nights. That's €4 a night. Most of it is water. I'm a chemist. I put every act
+- `x-2086537093120164177` [KEEP] [empty] topics=three-js,agent-skills,design replies=None :: Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) 🚀 I finally figured out ho
+- `x-2086599657925329347` [KEEP] [empty] topics=three-js,design,agent-skills replies=None :: Claude can now build 3D websites and most people still don't know how. This free 1-hour course covers interactive 3D exp
+- `x-2086715093707063445` [KEEP] [empty] topics=agent-skills,design,ui-motion replies=None :: 在试用了大部分热门的设计 SKILL 之后，最终我只留下这 4 个： 1. Impeccable http://impeccable.style 2. Skills for Design Engineers http://github.co
+- `x-2086790895538700379` [KEEP] [empty] topics=agent-skills replies=None :: Introduce loop-library People talk loops, but most loops sucks That's why we built the loop library - loops that ACTUALL
+- `x-2086801779358875912` [KEEP] [empty] topics=design,agent-skills replies=None :: Introducing ... 🥁 "Agentic UI Showcase" https://agenticui.net/showcase A collection of best product interfaces made with
+- `x-2086838432102228008` [KEEP] [empty] topics=agent-skills replies=None :: Vibed out an app today and I haven't looked at the internals at all Things are going wrong with it, I'm scared and frust
+- `x-2086845465140842638` [KEEP] [empty] topics=agent-skills,design replies=None :: /bro is my new favorite skill. before | after https://github.com/luchasarie/bro-skill
+- `x-2086920236079681607` [KEEP] [empty] topics=agent-skills replies=None :: one of the best write-ups I have seen on getting hermes agent to build your life OS and second brain EP released a singl
+- `x-2087026930323247306` [KEEP] [empty] topics=agent-skills replies=None :: Anthropic shared a Dynamic Workflows cookbook worth reviewing Bookmark this one Claude writes the orchestration script a
+- `x-2087143369181114868` [KEEP] [has_thread] topics=agent-skills replies=None :: Agent 记忆不该只记成功的——失败的轨迹同样有价值，推理过程本身就是最好的记忆内容。 Google Research 开源 ReasoningBank：经验驱动的记忆被当作继参数规模、测试时计算之后的第三个扩展维度。 Reasoning
+- `x-2087151521121419648` [KEEP] [has_thread] topics=agent-skills,mcp replies=None :: That's the full stack. One package. One port. `npm i @copilotkit/aimock` Docs: http://aimock.copilotkit.dev GitHub: http
+- `x-2087151807965401320` [KEEP] [empty] topics=agent-skills replies=None :: Ouroboros: A self-improving coding agent It can evolve its own tools, prompts, and architecture through reviewed commits
+- `x-2087178722420171020` [KEEP] [empty] topics=agent-skills replies=None :: Github Repo: https://github.com/cloudflare/cloudflare-os
+- `x-2087205167662088363` [KEEP] [empty] topics=infographics replies=None :: not only does this work, but it EXTREMELY works. Dataviz at duckdb speed, for nearly free, no js required
+- `x-2087208634493095978` [KEEP] [has_thread] topics=agent-skills replies=None :: Version controls AI agent memory with snapshots, branches, and merges https://github.com/matrixorigin/Memoria
+- `x-2087224641849045110` [FILTERED] [empty] topics= replies=None :: X post 2087224641849045110
+- `x-2087232392209531166` [KEEP] [has_thread] topics=agent-skills replies=None :: People of @pidotdev! I just clanked up pi-shepherdr (KEKW): talk to one Pi, let it run the others. One master Pi gets a 
+- `x-2087239769877295158` [KEEP] [has_thread] topics=agent-skills replies=None :: you don't need to re-explain your codebase's architecture to your agent every session. most tools stop at telling you wh
+- `x-2087240056037908509` [KEEP] [empty] topics=agent-skills replies=None :: DEEPSEEK V4 FLASH AND QWEN3.6 ARE FREE ON AMD'S OWN CLOUD AT $10 OF USAGE A DAY • AMD Token Factory > DeepSeek V4 Flash,
+- `x-2087254502210490739` [KEEP] [empty] topics=agent-skills replies=None :: This paper is f*cking genius A computer science paper from Stanford AI Systems Lab formalizes why multi-agent pipelines 
+- `x-2087263510090874911` [KEEP] [empty] topics=agent-skills,design replies=None :: My workflow now is basically this: 1. AGENTS.md auto loads up these 4 skills: ponytail grilling wayfinder ask-matt 2. I 
+- `x-2087272209429766596` [KEEP] [empty] topics=design,agent-skills replies=None :: Hardware design is having its Chat GPT moment. Typed one prompt. CadXStudio generated this full parametric bookshelf spe
+- `x-2087280401475600698` [FILTERED] [has_thread] topics= replies=None :: You can now copy 650% ROI Polymarket whales...👇 1. Sign up to cosmos and connect your polymarket account (free) 2. Choos
+- `x-2087304957011911157` [KEEP] [has_thread] topics=agent-skills replies=None :: stop sending bad prompts to your Pi coding agent. you liked pi-clarify, so i published it on npm too: pi install npm:pi-
+- `x-2087329201451855933` [KEEP] [empty] topics=infographics,agent-skills,design replies=None :: Pretty-Mermaid Skills renders Mermaid diagrams as beautiful SVGs or ASCII art with zero DOM dependencies. https://github
+- `x-2087346803268260043` [KEEP] [has_thread] topics=agent-skills,design replies=None :: Slop writing is mostly solved "Can you make it like google dev docs style. More dead prose. No aphorisms, no flourishes.
+- `x-2087444616832594022` [KEEP] [empty] topics=agent-skills replies=None :: 📄New Research on Self-Evolving Agents: When AI agents modify themselves, how do we know they actually got better? We pre
+- `x-2087555254757757116` [KEEP] [empty] topics=agent-skills,mcp replies=None :: KERNEL browsers now support custom proxies with CA bundles. pass your CA bundle in when you create the proxy and it will
+- `x-2087562269807030754` [KEEP] [empty] topics=agent-skills replies=None :: 35B parameters. One iPhone. No cloud. We trained Edge8-35B, an ultra-sparse MoE with a jointly trained dynamic expert pl
+- `x-2087565352372723955` [KEEP] [empty] topics=camera-control,video-generation,bess-3d-flythrough replies=None :: BLENDER + SEEDANCE = FULL CAMERA CONTROL Claude Opus 5 builds a simple 3D mockup of the cafe in Blender. Basic blocks fo
+- `x-2087569590268391897` [FILTERED] [empty] topics= replies=None :: X post 2087569590268391897
+- `x-2087656088124719304` [KEEP] [empty] topics=design,agent-skills replies=None :: Introducing pdfcn 📄 by @shadcnlabs > Built on Takumi by @kanewang_ and Forme > Zero config, one command setup. > @shadcn
+- `x-2087708050002239702` [KEEP] [empty] topics=design,agent-skills,mcp replies=None :: Orca has a design mode: draw and annotate right on your site, then send that feedback to any AI agent. Drop the site you
+- `x-2087714580491370655` [KEEP] [empty] topics=agent-skills replies=None :: People of @pidotdev! I have just spent roughly 16 hours using realtime voice to build, review and debug the biggest real
+- `x-2087715372787228734` [FILTERED] [has_thread] topics= replies=None :: 🚨 AND STILL Deepseek V4 Flash 0731 on @OpenRouter served by @wafer_ai
+- `x-2087733334617063503` [FILTERED] [has_thread] topics= replies=None :: Agent Plugins: Build it once, use it everywhere.
+- `x-2087812720762425743` [KEEP] [has_thread] topics=design,ui-motion,agent-skills replies=None :: One component, 10 examples. https://pro.reactbits.dev components do 90% of the work: motion, structure, customization. T
+- `x-2087827123331383751` [KEEP] [empty] topics=seo-agents,mcp replies=None :: another day where OSS win i stopped paying AHREF plan and switched to http://openseo.so The more i paid AHREF the less i
+- `x-2087832615797833807` [KEEP] [empty] topics=design,agent-skills,ui-motion replies=None :: Homieeee... This feels like finding a shovel during a gold rush. 🌋 A stunning collection of UI components built specific
+- `x-2087873421094896122` [FILTERED] [has_thread] topics= replies=None :: Trending repository of the day 📈 diagram-design 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N
+- `x-2087893705059356898` [FILTERED] [has_thread] topics= replies=None :: It is live and free to download... A full 44-page guide on the exact sales framework for $20k-$100k+ freelancer or agenc
+- `x-2087898602890744089` [KEEP] [has_thread] topics=agent-skills,mcp replies=None :: Introducing Rakazo, an open-source Grok Bot alternative! - Use any LLM (pi harness) - Use any sandbox provider. Or Docke
+- `x-2087905319255257296` [KEEP] [empty] topics=three-js,bess-3d-flythrough replies=None :: Three new models are live in the Arena: ⚫ Hitem3D v3.0 (Preview) - Main Arena ⚫ Meshy 7 - Main Arena ⚫ Tripo P2.0 - Low 
+- `x-2087955721732460791` [KEEP] [empty] topics=agent-skills replies=None :: Your company brain should learn and improve as your team works. Type builds a separate memory on the individual, team an
+- `x-2087962842985058365` [KEEP] [has_thread] topics=agent-skills replies=None :: Pushed Bonsai-1.7B from @PrismML further again. 64 → 90 tok/s decode on the same Android Device. CPU only, no NPU, no GP
+- `x-2088016749849682120` [KEEP] [has_thread] topics=infographics,agent-skills,design replies=None :: i've started having claude turn my codebases into visual diagrams so i can discuss the codebases with claude more easily
+- `x-2088046188037902579` [KEEP] [empty] topics=seo-agents,agent-skills replies=None :: genius LLM SEO/GEO hack
+- `x-2088116807869854126` [KEEP] [empty] topics=agent-skills replies=None :: GitHub repo (132,000+ stars), share and star to help me keep shipping: https://github.com/Shubhamsaboo/awesome-llm-apps
+- `x-2088155107544191339` [KEEP] [empty] topics=ui-motion,video-generation,agent-skills,design replies=None :: claude dropped Motion Prompt, and the crazy part is this entire animation was made with code, not AI-generated images or
+- `x-2088231655177924993` [KEEP] [empty] topics=agent-skills replies=None :: Bro... imagine giving Claude Code a strong fuckin memory. 🧠 Obsidian Mind is an open-source Obsidian vault that gives AI
+- `x-2088240171565412733` [KEEP] [empty] topics=three-js,agent-skills,camera-control replies=None :: Gemini 3.7 Flash High in Antigravity 🔥🔥 it created this in ~4 mins - pretty fast and perfect > Bugatti W16 engine with m
+- `x-2088252062454751483` [KEEP] [has_thread] topics=agent-skills,keyboard-pcb replies=None :: OpenSCAD + Cursor + grill-me is incredible! I just made a custom homelab server device rack 1. Create an empty folder wi
+- `x-2088254428730085690` [KEEP] [has_thread] topics=agent-skills,design,ui-motion replies=None :: Impeccable 4.1 is here: core: -critique results more reliably prints in chat before asking you questions - the design ho
+- `x-2088260067204137135` [KEEP] [empty] topics=agent-skills replies=None :: @mattpocockuk Ah, I just looked at the new one! I see it has a bit more detail now. Linking your repo here for anyone in
+- `x-2088265078919282836` [KEEP] [empty] topics=three-js,design,ui-motion,agent-skills replies=None :: This is a really useful tutorial if you want to learn how to build more advanced Three.js landing pages with Claude Code
+- `x-2088277946918142211` [KEEP] [has_thread] topics=agent-skills,keyboard-pcb replies=None :: More VibeCAD work on the exploded views and simulations. I honestly think this is getting to the place where its very de
+- `x-2088281537427235320` [KEEP] [has_thread] topics=agent-skills replies=None :: Qwen3.8-27B can now be run locally! ✨ Run on 17GB RAM via Unsloth Dynamic GGUFs. Qwen3.8-27B is by far the strongest mod
+- `x-2088290952704151671` [KEEP] [has_thread] topics=agent-skills replies=None :: Just saw a comment saying that I've never made a proper overview of EVERY skill in my skills repo I thought "damn it, he
+- `x-2088296314484162719` [KEEP] [has_thread] topics=mcp,agent-skills,keyboard-pcb replies=None :: The scary part about AI in CAD is not that it can draw a part. It is that it can now understand a messy engineering proj
+- `x-2088299905324396589` [KEEP] [empty] topics=three-js,video-generation,camera-control,bess-3d-flythrough replies=None :: The bike, the ruins, the ramps, the Highlands sky. All of it started as one sentence typed into Atlas. Concept art, 3D a
+- `x-2088308976278790258` [KEEP] [has_thread] topics=agent-skills,keyboard-pcb replies=None :: If you've ever had a hardware idea and just... didn't build it because CAD felt like a wall - this hexacopter is what ha
+- `x-2088345102540587356` [KEEP] [has_thread] topics=agent-skills,mcp replies=None :: anatomy of a managed deep agent. https://langch.in/mda
+- `x-2088590355440476343` [KEEP] [empty] topics=infographics,agent-skills,design replies=None :: I heavily use diagraming tools for architecting which means a lot of screenshotting and pasting. To make things simpler,
+- `x-2088594942482374759` [KEEP] [empty] topics=agent-skills replies=None :: 278.3 tok/s. $0.13/1M input. $0.27/1M output. full BF16 DeepSeek V4 Flash is now live on RunInfra -- the fastest full-pr
+- `x-2088599468698751328` [KEEP] [empty] topics=infographics,design,ui-motion replies=None :: Introducing Mono Charts. A collection of minimal, animated chart components for React. Now you can add beautiful, intera
+- `x-2088600811307979218` [FILTERED] [empty] topics= replies=None :: oh shit i am number 1 on hackernews atm (3x hackernews now lfg)
+- `x-2088623462109593792` [KEEP] [empty] topics=agent-skills,mcp replies=None :: Connects enterprise knowledge across your organization to build AI agents, RAG applications, and search on a single gove
+- `x-2088634091671531923` [KEEP] [empty] topics=agent-skills replies=None :: @b_nnett Is this one of the tweaks from your codex-plusplus? Which one? https://github.com/b-nnett/codex-plusplus
+- `x-2088695568474546387` [KEEP] [empty] topics=agent-skills replies=None :: 🚨 BREAKING: DeepSeek-V4-Flash-0731-Fast⚡️ is live on @vercel AI Gateway! pick @wafer_ai as your provider (ss taken 8.15.
+- `x-2088706415586377792` [FILTERED] [empty] topics= replies=None :: Deepseek V4 Flash 0731 Fast⚡️ on @vercel AI Gateway
+- `x-2088738850705113398` [KEEP] [empty] topics=three-js,agent-skills,camera-control replies=None :: @threejs Awesome Graphics Agent Skills v0.8.0 is out! npx threejs-awesome-graphics-agent-skills@latest install --agent c
+- `x-2088742864310481025` [KEEP] [empty] topics=agent-skills,design replies=None :: okay I tested /unlazy more with Opus 5 and I'm ngl it's really good Sol, Fable and I cooked lol try it here! https://git
+- `x-2088830609615397333` [FILTERED] [empty] topics= replies=None :: Free open source react UI library you should visit on - Graphs - Loaders - Components & many more Go Visit - https://ami
+- `x-2089165107364278341` [KEEP] [has_thread] topics=agent-skills replies=None :: Anthropic shared a Cost Optimization cookbook worth reviewing (Bookmark this one) A real agent goes from $0.29/task down
+- `x-2089182103153897532` [KEEP] [has_thread] topics=design,ui-motion,agent-skills replies=None :: wtf this is sick https://www.aicss.dev/
+- `x-2089189790881382676` [KEEP] [has_thread] topics=agent-skills,design replies=None :: i didn't tell anyone about this repo but it kept getting stars 😂 so i guess it's time to share it introducing /vision. i
+- `x-2089223944700326052` [KEEP] [has_thread] topics=ui-motion,design replies=None :: 30｜带物理摆动感的作品集 Carousel 来自@YousufSoomroDev 一个用于作品集展示的 Carousel 组件。切换项目时，卡片不是沿着水平轨道简单滑入，而是带着明显的摆动和惯性从画面外进入，最终回到稳定位置。作者同时将这
+- `x-2089263766428950683` [KEEP] [has_thread] topics=design,ui-motion,agent-skills replies=None :: The best UI components ready to use, save this 👇 - http://originkit.dev free animated component library - http://orbs.ja
+- `x-2089372767934115883` [KEEP] [empty] topics=infographics,design replies=None :: Currently I’m really into markdown graphs with one vibrant accent color
+- `x-2089377925086982281` [FILTERED] [empty] topics= replies=None :: Cold calling is the necessary evil when founding a startup. To make it easier we build a cold calling tool for ourselves
+- `x-2089400082550620636` [KEEP] [empty] topics=three-js,agent-skills,ui-motion replies=None :: Introducing /improve-threejs Turn vibe-slop Three.js prototypes into stunning apps It makes slow, visually buggy games r
+- `x-2089457435459404093` [KEEP] [empty] topics=agent-skills,design replies=None :: PSA: If you are tired of Claude-lish or Chat-lish, tell your AI to read the Google Developer Docs Style Guide and build 
+- `x-2089570022490263586` [KEEP] [empty] topics=three-js,infographics,design replies=None :: iCraft Editor designs 3D network architecture diagrams with immersive visual effects. https://github.com/gantFDT/icraft
+- `x-2089602918605619401` [KEEP] [empty] topics=three-js,agent-skills,ui-motion replies=None :: I open-sourced the Sylva three.js site and the skills behind it. I started with one reference and asked Opus 5 to recrea
+- `x-2089618415493218381` [KEEP] [empty] topics=design,ui-motion replies=None :: The craziest font website ever https://departuremono.com
+- `x-2089701163117494735` [FILTERED] [empty] topics= replies=None :: Had to try it on an invoice
+- `x-2089717063921332378` [KEEP] [empty] topics=agent-skills,design replies=None :: Straight from the team: From prompt to a fully designed Screwdriver all in https://cadxstudio.in #TextToCAD #CAD
+- `x-2089740155179643231` [KEEP] [empty] topics=design,ui-motion,three-js replies=None :: Whatttt this existed, why no one showed me this yet, https://23rd.dev
+- `x-2089770081459056765` [KEEP] [empty] topics=video-generation,agent-skills,design,ui-motion replies=None :: Animated in Higgsfield Seedance 2.5 + Cursor Composer 2.5 AI Skill: https://github.com/elayadesign/ai-design-skills
+- `x-2089775679600812150` [KEEP] [empty] topics=ui-motion,design replies=None :: Grind Log #044 - 18 August 2026 - Solved LeetCode: 268, 1656, 3043. - Added 3 new components to https://great-ui.com : h
+- `x-2089802212000362939` [KEEP] [empty] topics=agent-skills replies=None :: A manufacturable mini jet engine, designed with Opus in Smith. This result would have been pretty unthinkable a few mont
+- `x-2090031918523842766` [KEEP] [has_thread] topics=ui-motion,agent-skills,design replies=None :: New skill: /animate-expo All the animation knowledge, but for your native apps. React Native and Expo: gestures, sheets,
+- `x-2090079734571098131` [KEEP] [empty] topics=design,agent-skills,video-generation replies=None :: Another design direction for this AI SaaS. built by Custom Skills + My Video Tool + Claude + Some Creativity
+- `x-2090098441200517416` [KEEP] [has_thread] topics=video-generation,bess-3d-flythrough,camera-control replies=None :: MiniMax H3 just went unlimited on Runway. Generate responsibly. Or don't. It's unlimited 😌
+- `x-2090103470015828184` [KEEP] [has_thread] topics=agent-skills replies=None :: We’re releasing new Qwen3.8-27B GGUFs with 10% higher accuracy. Unsloth Dynamic V3 outperforms others by >10% on Div-300
+- `x-2090165248196252003` [FILTERED] [has_thread] topics= replies=None :: Back-to-school season is here and starting today, eligible college students can get a full year of Gemini on us: - US st
+- `x-2090526692427104508` [KEEP] [has_thread] topics=three-js,bess-3d-flythrough,design replies=None :: wow spline is so back if anything disrupts the big 3d softwares, it'll be spline
+- `x-2090535643353153833` [KEEP] [has_thread] topics=agent-skills,design replies=None :: Testing if AI can actually design a wheel hub on CadXStudio. Bolt circle. Drive spline. Brake disc mount. From prompt to
+- `x-2090589293677023507` [KEEP] [has_thread] topics=gaussian-splatting,bess-3d-flythrough,three-js replies=None :: The core claim checks out. For years 3D Gaussian Splatting quality was solid, but huge files, missing streaming/LOD, and
+- `x-2090787985721856437` [FILTERED] [empty] topics= replies=None :: GLM-5.3 × ZCode Weekend Build, Round 2 🚀 New users: log in to ZCode for the first time from Aug 22, 00:00 to Aug 24, 09:
+- `x-2090834948332655011` [KEEP] [empty] topics=agent-skills,design replies=None :: Post got a lot of traction, so I made a rank with the anti-slop skills people need to install. 1. stop-slop - @hvpandya 
+- `x-2090837707069014224` [KEEP] [empty] topics=agent-skills,seo-agents replies=None :: UA spoofing is back on baby, for only $0.00 you too can be OpenAI File Downloader, XaiImageApiFetch/1.0 Some sites like 
+- `x-2090839282831270173` [KEEP] [empty] topics=gaussian-splatting,three-js replies=None :: train gaussian splatting straight in the browser with Splat.js. SfM included, open source, and MIT Licensed. Video from 
+- `x-2090858571613470919` [KEEP] [empty] topics=agent-skills replies=None :: This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against http://is-agentic.com until it got to 100/100. It mad
+- `x-2090930324817498246` [FILTERED] [empty] topics= replies=None :: UC Berkeley + MIT researchers open sourced a new inference engine and so far IT’S CRAZY: > runs DeepSeek-V4-Flash 284B a
+- `x-2091118605392019658` [KEEP] [empty] topics=agent-skills replies=None :: Adding four words to a prompt took a model's accuracy on math questions from 17% to 78%. That's not made up, it's a real
+- `x-2091125349308399923` [KEEP] [empty] topics=agent-skills,design replies=None :: You don't know how good this skill is until you try it https://github.com/Leonxlnx/unlazy
+- `x-2091150763418620133` [FILTERED] [empty] topics= replies=None :: UC Berkeley just open-sourced FreeToken. (2–4x faster local LLM inference than Ollama) the results are wild: - Qwen3.6-3
+- `x-2091157554919280688` [KEEP] [empty] topics=agent-skills,mcp,video-generation replies=None :: 6 repos de AI Agents que estan explotando en github 1. Graft — https://github.com/NanoNets/Graft Hace que claude code se
+- `x-2091169290661838965` [KEEP] [empty] topics=agent-skills replies=None :: This is f*cking insane The craziest self evolving internal memory stack I've ever found Matter of fact, it just hit 31,9
+- `x-2091195599995728198` [FILTERED] [empty] topics= replies=None :: Steve Jobs on a potential Google hire March 28, 2006
+- `x-2091362595844567436` [FILTERED] [empty] topics= replies=None :: the site is actually up on the wayback machine https://web.archive.org/web/20221112173629/https://cursor.so/
+- `x-2091441060153278565` [KEEP] [has_thread] topics=video-generation,ui-motion replies=None :: AI just changed how we create creative logo videos. MiniMax M3 can turn a simple logo into a polished, premium brand fil
+- `x-2091479075697430784` [KEEP] [empty] topics=design,ui-motion replies=None :: We are working on the new animated gradients collection “Dither Animation” It will be live on http://grainient.supply th
+- `x-2091497597743612379` [KEEP] [empty] topics=camera-control,agent-skills replies=None :: HIGGSFIELD BUILDS A FULL LOW-POLY WORLD INSIDE BLENDER One prompt. Claude Opus 5 takes control through the Higgsfield pl
+- `x-2091519705911795761` [KEEP] [empty] topics=video-generation replies=None :: これ無料だから、同時並行で何個も試しまくれるのが超ありがたい。 簡単に使えるので、やり方気になる人多ければ解説記事出します！ 使ってるモデルはMiniMax H3
+- `x-2091554449323958423` [FILTERED] [empty] topics= replies=None :: So if the math is right: 1x 6000: GLM 5.2 FP4 4x 6000: K3 FP4 Who will be the first to /goal it? (I may tonight. Need to
+- `x-2091559663833924082` [KEEP] [has_thread] topics=agent-skills,infographics,design replies=None :: system-atlas: a skill that builds an explorable isometric map of your codebase / agent / pipeline from one data file arr
+- `x-2091560960066793483` [KEEP] [empty] topics=design replies=None :: on a quest to create the most beautiful non-vibe-coded-yet-it's-beige-themed website on the internet. 🤝
+- `x-2091564966797029541` [FILTERED] [has_thread] topics= replies=None :: #FreeCAD is being improved everyday. One of the ways is continuously addressing the #Toponaming issue. This PR is a WIP 
+- `x-2091570990048276897` [KEEP] [has_thread] topics=design,agent-skills replies=None :: You can just RL a coding model to paint with javascript btw
+- `x-2091571624390881664` [KEEP] [empty] topics=three-js,ui-motion,agent-skills replies=None :: This blew up, so I added 60 more three.js components from experiments I made over the last two weeks. I'm still amazed b
+- `x-2091577179914338583` [KEEP] [has_thread] topics=video-generation,camera-control replies=None :: ok we are paying $17 for 30s... and then one miss and you pay it again also prompting cant hold my whole head so i make 
+- `x-2091616414063022208` [KEEP] [empty] topics=design replies=None :: Someday I'll return to entertaining "what's necessary?" in design. But right now, I'm only interested in "what's possibl
+- `x-2091621183422943726` [FILTERED] [empty] topics= replies=None :: Everyone's obsessed with Stanley cups. We asked AI to design one - in one shot, zero CAD skills. Built entirely in http:
+- `x-2091622497393225801` [KEEP] [empty] topics=agent-skills,design replies=None :: Weekend project: setting up @bentlegen's http://sideshow.sh to visually understand & interact with my agents' work. This
+- `x-2091622751756751211` [KEEP] [empty] topics=video-generation,agent-skills replies=None :: You can also make beautifully imperfect videos with AI coding models
+- `x-2091686636698657080` [KEEP] [empty] topics=agent-skills replies=None :: nick turned our docs in to a book we've always put a lot of work in to hand-written docs for humans (plus skills for age
+- `x-2091688420695564296` [KEEP] [has_thread] topics=ui-motion,agent-skills,design replies=None :: can you believe that every pixel here is fully editable? this was created with the Motion harness
+- `x-2091689598883934666` [KEEP] [empty] topics=design,agent-skills replies=None :: This site is perfect for Vibecoding It gives you the names of all the common UI + their prompts so you can tell AI to bu
+- `x-2091713204418490406` [KEEP] [has_thread] topics=video-generation,camera-control replies=None :: 分享个真正牛逼的 AI 开源项目 OpenStory AI 视频创作真正困难的，往往不是生成一张漂亮的图片，而是让角色、场景、色彩、光线和叙事在每一个镜头中保持一致。 OpenStory 希望把「一段剧本」直接变成一套具有统一视觉风格的视频
+- `x-2091722166685610284` [KEEP] [has_thread] topics=video-generation,camera-control replies=None :: ok i dont want slow mo sitting in some other app next to the camera app its a handle on the timeline now stretch it and 
+- `x-2091729720303874220` [FILTERED] [empty] topics= replies=None :: Invoice Builder is an offline-first invoicing application for freelancers and small businesses. It creates and exports i
+- `x-2091748299975880994` [KEEP] [empty] topics=three-js,design,agent-skills replies=None :: 3d model within a website is just so crazy with Claude. I built this template where one 3D scene drives the whole page. 
+- `x-2091767461058105402` [KEEP] [empty] topics=infographics,design replies=None :: and it is live; Instagram + LinkedIn carousels open source repo soon available go farm some engagement on Instagram and 
+- `x-2091835143522840732` [FILTERED] [has_thread] topics= replies=None :: I am falling in love with this design aesthetics. So you’re?
+- `x-2091865940581638285` [KEEP] [empty] topics=design,agent-skills replies=None :: /have-some-range
+- `x-2091891133286605067` [KEEP] [has_thread] topics=keyboard-pcb replies=None :: My autorouter works! This board completes in around 1 min, and manages to implement the required routing on just 2 layer
+- `x-2091899114153754949` [KEEP] [empty] topics=gaussian-splatting replies=None :: LichtFeld Studio is getting faster recently... 5m Gaussians, mrnf, 30k steps on RTX 4090
+- `x-2091913781236683162` [KEEP] [empty] topics=camera-control,video-generation replies=None :: Magnific 3D Motion is insanely cool. Generate an entire 3D space, control the camera motion around it. Export the 3D mot
+- `x-2091918691747189053` [KEEP] [empty] topics=camera-control replies=None :: New in Toolbag 5.03: SpaceMouse Support! 🖱️ By popular request, we’ve added robust SpaceMouse support in Toolbag 5 for v
+- `x-2091924963288580539` [KEEP] [empty] topics=video-generation replies=None :: H3 Max is a post-trained variant of MiniMax H3 Tuned for stronger prompt adherence and elevated visual quality by @fal N
+- `x-2091927587471712274` [KEEP] [has_thread] topics=three-js replies=None :: 3,200,000 → 3,000 triangles, 3 SECONDS for the full bake. In the browser, with @threejs and @NeedleTools. Superb normals
+- `x-2091934379648110784` [KEEP] [empty] topics=design,agent-skills replies=None :: 2,000+ DESIGN.md files from real product sites, colors, type, spacing, components, ready to paste into Cursor, Claude Co
+- `x-2091943679317463153` [KEEP] [has_thread] topics=gaussian-splatting,three-js replies=None :: SplatPaint is a real-time browser-based creative sandbox for Gaussian Splats: paint, sculpt, recolor, relight, deform, a
+- `x-2091951051343593929` [FILTERED] [has_thread] topics= replies=None :: Gemini Flash 3.7 (high) vs. Opus 5 (max) Seems like a truly surprising result... we did not expect this
+- `x-2091957150793023651` [KEEP] [has_thread] topics=video-generation replies=None :: Done before you're done MiniMax H3 Max generates a 5 second clip at 480p in under 5 seconds Unlimited, for the next 3 da
+- `x-2091970263088816272` [KEEP] [empty] topics=agent-skills replies=None :: Introducing 𝙨𝙚𝙨𝙨𝙞𝙤𝙣-𝙢𝙞𝙜𝙧𝙖𝙩𝙚, a tool for migrating coding agent sessions across Claude Code, Codex, Pi, OpenCode, and mor
+- `x-2091990178638496195` [KEEP] [empty] topics=agent-skills replies=None :: Introducing Headlong, an open source microharness for persistent agents: self-guided agents that think continuously. Mos
+- `x-2092008677834387672` [KEEP] [has_thread] topics=camera-control,mcp,agent-skills replies=None :: CLAUDE DIRECTS A FULL CINEMATIC SHOT IN UNREAL One prompt. Claude takes control through Unreal MCP > Spawns CineCamera >
+- `x-2092009056164872620` [KEEP] [has_thread] topics=video-generation,mcp,camera-control replies=None :: CozyClayっていうオープンソースのプレビス制作ソフトつかってみました。Blenderに比べると拡張性は低いんだけど、MCPあるし格段に使いやすい 一回シーンをつくっちゃったら構図変更するのも30秒くらい。これで何回もやり直して、そこか
+- `x-2092040265234260091` [KEEP] [has_thread] topics=video-generation,ui-motion replies=None :: AfterEffect → Minimax H3 「AI動画をレンダリングマシンとして使う」 生成するとき… ・AEでラフな同コンテを作成 ・Chat GPTでマテリアルを作成 ・強化するプロンプトを作成 ・H3でAEラフとマテリアル画像を
+- `x-2092106682302140648` [KEEP] [empty] topics=keyboard-pcb replies=None :: 🤖 #AI automated schematic design — what takes a skilled engineer half a day, it finishes in just one hour ⚡. It’s not ju
+- `x-2092137646730727617` [FILTERED] [empty] topics= replies=None :: this person crazy too
+- `x-2092222199620833420` [KEEP] [has_thread] topics=design,agent-skills replies=None :: Trending repository of the day 📈 awesome-gpt-image-2 Prompt as Code | Industrial-grade prompt engine and template librar
+- `x-2092242135504552118` [KEEP] [empty] topics=three-js replies=None :: I genuinely don't have any words for this 🤯 Just ONE image of a robotic bee and somehow got this incredibly gooood 3D mo
+- `x-2092255768770920506` [KEEP] [has_thread] topics=camera-control,mcp,agent-skills replies=None :: Introducing Higgsfield in Blender. > Prompt the scene and build the blockout > Describe the camera move and get it anima
+- `x-2092309280175128645` [FILTERED] [empty] topics= replies=None :: ChatGPT Student Offer is back! Eligible students can get 4 months of ChatGPT Plus for free (up to $80 value) How to clai
+- `x-2092624919653671200` [KEEP] [empty] topics=design replies=None :: who made the https://www.doss.com/ website???? idk what an ERP is, but god those illustrations look nice
+- `x-2092644473868050684` [KEEP] [empty] topics=design,camera-control replies=None :: Polly Pockets, but for gamers: ViscousRealm imagined tiny gaming rooms inside different controllers. Which animation is 
+- `x-2092656414351118647` [KEEP] [empty] topics=agent-skills,seo-agents replies=None :: avoid-ai-writing audits text for AI writing patterns and rewrites flagged passages in place. https://github.com/conorbro
+- `x-2092657951618249080` [KEEP] [empty] topics=camera-control,video-generation replies=None :: Consistency across scenes, objects, and characters has never been easier to control. Place the cameras, animate, and par
+- `x-2092658333337469133` [FILTERED] [empty] topics= replies=None :: Who said you can't achieve realism in Blender? 💫 Credit to @ruihuang_art for crafting this insanely detailed scene using
+- `x-2092679517588574690` [KEEP] [empty] topics=video-generation,camera-control replies=None :: In this setup, a Blender blockout provides the motion and composition while a reference image guides the environment, su
+- `x-2092702228947902622` [KEEP] [empty] topics=video-generation,design replies=None :: @MiniMaxAgent just shipped H3-based plugins for dynamic images and white-model rendering! Been playing around with them 
+- `x-2092790491741823402` [FILTERED] [empty] topics= replies=None :: BREAKING: 90% off GLM 5.3 Flash, starting today. In Merge Gateway through end of September: $0.012 in, $0.04 out, $0.003
+- `x-2092890365930131920` [KEEP] [empty] topics=design,infographics replies=None :: made all of these visuals for a random math brand in a few minutes with AI pretty insane that we live in this era
+- `x-2092918452423983363` [KEEP] [empty] topics=agent-skills replies=None :: Everyone's suddenly building company brains. Nobody agrees on what's inside one. 😵‍💫 So we opened up 9+ company brains t
+- `x-2092979866836648104` [KEEP] [empty] topics=design,agent-skills,infographics replies=None :: okay yall asked for the prompt under this here's the exact template + a mini tutorial on how to use it for basically any
+- `x-2092980272819999227` [KEEP] [has_thread] topics=video-generation,agent-skills replies=None :: video-use + codex for video editing is mindblowingly good one of the best AI tools I've ever used https://github.com/bro
+- `x-2092996828752916622` [KEEP] [has_thread] topics=design replies=None :: Releasing my new template - Forja Template for AI agencies, agent studios, and automation companies Check the full websi
+- `x-2093012548031254932` [KEEP] [empty] topics=three-js,agent-skills replies=None :: About 7 months ago, I started designing a WebGPU library to ship performant shaders at Vercel. Today, we are announcing 
+- `x-2093013941412852083` [KEEP] [has_thread] topics=seo-agents,agent-skills replies=None :: After paying for years for SEMrush, I finally canceled it and moved to open source. DataforSEO API + OpenSEO is a powerf
+- `x-2093018082293813509` [KEEP] [empty] topics=three-js replies=None :: Mesh cleanup, UV unwrapping, and texture baking are live on Customuse. AI gives you amazing meshes with messy topology a
+- `x-2093020107509514674` [KEEP] [empty] topics=keyboard-pcb replies=None :: Made a custom fully open-source based KiCAD+OpenEMS physical simulation harness so that I can check the signal integrity
+- `x-2093024468209733756` [KEEP] [empty] topics=design replies=None :: You don't need to outbid everyone for attention if your product actually looks good. Here’s a design that proves it
+- `x-2093047548550525165` [KEEP] [has_thread] topics=camera-control,agent-skills replies=None :: We use GLM-5.3-Flash build a dream kitchen. A 3D world built in Blender. This is not a generated video.
+- `x-2093050916953903451` [KEEP] [has_thread] topics=agent-skills,seo-agents replies=None :: We just killed Exa, Tavily, SerpAPI, and Brave. Your agent can now search & fetch any webpage for 100% FREE. Them: $7 pe
+- `x-2093051654937423887` [KEEP] [has_thread] topics=camera-control,video-generation replies=None :: Introducing Mint Studio → Full 3D camera control for video generation right in your browser! No Blender required!
+- `x-2093053568748319181` [KEEP] [empty] topics=camera-control,video-generation replies=None :: "Can you actually direct the camera now, or is it still a prompt lottery?" MiniMax Design's 3D Director Stage lets you b
+- `x-2093064017468145963` [KEEP] [has_thread] topics=mcp,agent-skills,camera-control replies=None :: CLAUDE BUILDS AN ALCHEMIST SHOP ACROSS TWO MCP SERVERS This is not one tool doing everything. Claude Code runs the whole
+- `x-2093081833911058772` [KEEP] [has_thread] topics=video-generation,ui-motion,agent-skills replies=None :: Built a @heyglif skill that generates incredible motion graphics videos end to end, in any style, based on your script o
+- `x-2093118868092748246` [FILTERED] [has_thread] topics= replies=None :: This is crazy. 266K views in 10 days. From a channel with JUST 1.95K subscribers. And look at how simple the video is. →
+- `x-2093129469926215800` [KEEP] [has_thread] topics=video-generation replies=None :: devastating hyperframes mog 🥀 oh and btw the code for our launch videos, including this one, located in thread
+- `x-2093153416214114558` [KEEP] [empty] topics=agent-skills replies=None :: OmniParser gives any LLM the ability to see and click a screen, not just models built specifically for computer use. It 
+- `x-2093160779960774982` [FILTERED] [empty] topics= replies=None :: From the @HamsterResearch lab: Introducing Qwen3.8-Flash-Next-REAP-288-MLX-4bit, a 180B-class model running on just 39gb
+- `x-2093179838249251011` [KEEP] [empty] topics=gaussian-splatting replies=None :: 3DGSをメッシュ変換するソフトを近日公開予定です。 ローカル環境で動作し、GPUなども不要です。 基本無料でどなたでもご利用いただけるように準備しています！ #3DGS #LichtFeldStudio #3DPrint
+- `x-2093236801079279978` [KEEP] [empty] topics=video-generation,agent-skills replies=None :: My workflow has completely changed. • Ideate with ChatGPT • Build with Fable 5 • Animate with Higgsfield • Keep iteratin
+- `x-2093256024635666465` [KEEP] [empty] topics=camera-control,video-generation replies=None :: 【note更新しました📢】 本日は「Blenderチュートリアル動画まとめ」から 『崖の上のポニョのファンムービーの制作過程をタイムラプスで大公開！』 （原題：Ponyo and Sosuke | Fan Art Timelapse） をご
+- `x-2093305736717545869` [KEEP] [empty] topics=mcp,agent-skills replies=None :: This is what happens when you stop testing AI CAD on sensible objects. Built inside Autodesk Fusion through MCP, the ass
+- `x-2093309791120543846` [KEEP] [empty] topics=infographics,agent-skills,design,ui-motion replies=None :: Trending repository of the day 📈 archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-fl
+- `x-2093364419044794836` [KEEP] [empty] topics=design,ui-motion replies=None :: I can't wait to finally launch this site
+- `x-2093374092795846745` [KEEP] [empty] topics=video-generation,camera-control replies=None :: Stop burning credits on AI videos. Block the scene in Blender first. Full 19-minute tutorial:
+- `x-2093377271771865267` [KEEP] [has_thread] topics=video-generation,camera-control replies=None :: BLENDER LOCKS THE SHOT. SEEDANCE FINISHES IT This is not a lucky night video. The 3D scene was built first. Then the cam
+- `x-2093380307735232543` [KEEP] [empty] topics=camera-control,video-generation replies=None :: THIS IS REVOLUTIONARY 3D Camera Control → AI Rendered Video ALL in your BROWSER NO BLENDER. NO PROMPT ROULETTE.
+- `x-2093397098544648516` [KEEP] [has_thread] topics=gaussian-splatting replies=None :: OMG the new brush selection mode is awesome. As in "we should have added this years ago" type awesome.
+- `x-2093421870951387625` [KEEP] [empty] topics=design replies=None :: BQR is an absolute GAME-CHANGER for hard surface modeling! 🔥Clean quad topology with native modifiers" after booleans? T
+- `x-2093429897188299113` [FILTERED] [has_thread] topics= replies=None :: Another Qwen3.8-Flash-Next breakthrough I stored 60% of experts on disk which stream to memory on-demand. Similar techni
+- `x-2093437790969385283` [KEEP] [empty] topics=agent-skills replies=None :: This is how I've been building production agents lately. Hermes - owns judgement, objectives, timing, etc. Skills - proc
+- `x-2093481253043380418` [KEEP] [has_thread] topics=video-generation replies=None :: This is what faceless video creation should look like. You have an idea. Calliope turns it into a complete 2D video. One
+- `x-2093563796237471912` [KEEP] [has_thread] topics=gaussian-splatting replies=None :: GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation ECCV 2026 https://github.com/nicolasvonluetzow/Gaussian
+- `x-2093583622691283018` [KEEP] [empty] topics=design,agent-skills replies=None :: Este tipo explica cómo crear páginas web profesionales con GPT-5.6 Sol. Un tutorial de 21 minutos donde explica paso a p
+- `x-2093624705030959554` [KEEP] [has_thread] topics=seo-agents replies=None :: Here's how I make AI mention my SaaS: 1. Create high-quality content for my money keywords 💰 2. Build relevant backlinks
+- `x-2093654908322951447` [KEEP] [has_thread] topics=agent-skills replies=None :: It's crazy how my entire LinkedIn feed is AI-slop content. No one cares to edit AI-written content. Here are 12 AI tells
+- `x-2093663876692754713` [KEEP] [empty] topics=video-generation,camera-control,mcp replies=None :: Stop wasting hundreds of AI credits trying to get precise camera movement in Seedance 2.5 🚫 Instead of relying purely on
+- `x-2093669411685110141` [KEEP] [empty] topics=design,agent-skills replies=None :: Design Engineers, this one's for you. A curated collection of the best tools and resources for designing, prototyping, a
+- `x-2093672017937547613` [FILTERED] [empty] topics= replies=None :: Trending repository of the day 📈 archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-fl
+- `x-2093677274641969390` [KEEP] [has_thread] topics=agent-skills replies=None :: a researcher told me he abandoned his second brain after four months. "the more i added, the more i had to manage. it be
+- `x-2093681908227936745` [KEEP] [has_thread] topics=video-generation,design replies=None :: This launch video got more than 7.5M views. full breakdown:
+- `x-2093690856637182435` [FILTERED] [empty] topics= replies=None :: How to install a $1,000,000 content system into your personal brand on X + LinkedIn (bookmark this)
+- `x-2093713466955649145` [KEEP] [has_thread] topics=seo-agents,agent-skills replies=None :: I started using AI agents to build SEO backlinks recently. What used to take me 2–3 hours a day manually is now mostly a
+- `x-2093729321131368744` [KEEP] [empty] topics=seo-agents replies=None :: A business followed the recommendations in this article and added over $100,000 in ChatGPT, Google and broader AI search
+- `x-2093766772029559077` [KEEP] [empty] topics=design,agent-skills replies=None :: Someone turned the design language of 2,000+ of the world’s best products into DESIGN.md files that Codex / Claude Code 
+- `x-2093767075131220005` [KEEP] [empty] topics=design,ui-motion,agent-skills,video-generation replies=None :: Walk into Hogwarts... Built this landing for an AI-based Harry Potter Experience event. Built by Custom Skills + My Vide
+- `x-2093774183356379560` [KEEP] [empty] topics=design replies=None :: Just found https://unive.ai on todays top 3 of https://outbid.lol and I just wanted to give a shoutout to them as their 
+- `x-2093776000781869278` [FILTERED] [empty] topics= replies=None :: We've helped dozens of YC startups and enterprise B2B companies build their go-to-market motions. All of our top perform
+- `x-2093900284896657841` [KEEP] [empty] topics=design,ui-motion,agent-skills replies=None :: 🚨 THIS IS INSANE A Claude Code skill just started REFUSING to build websites that look like everyone else’s. Sameness is
+- `x-2093915384944414827` [KEEP] [empty] topics=design,ui-motion,agent-skills replies=None :: You don't need a massive agency budget to build an ultra-premium, interactive finance website. Watch how to build this p
+- `x-2093937170717585657` [KEEP] [empty] topics=bess-3d-flythrough,camera-control replies=None :: How about one image straight to an editable UE5 or Blender scene? Lumera just dropped paper - Engine-Native Editable 3D 
+- `x-2093964632562253866` [KEEP] [has_thread] topics=seo-agents replies=None :: If your website is not on Brave yet, Then just follow this: 1. Go to search∙brave∙com/submit-url. 2. Enter your website 
+- `x-2093986548404428942` [KEEP] [empty] topics=camera-control,video-generation replies=None :: 3 websites every AI filmmaker should bookmark: 🎥 http://eyecannndy.com — camera techniques 🎨 http://sesohq.com/pages/moo
+- `x-2093990583576486268` [KEEP] [empty] topics=seo-agents replies=None :: Posted this as a LinkedIn article targeting “SEO in 2026” and in 24 hours it's ranking on page one of Google LinkedIn’s 
+- `x-2094009989220430084` [KEEP] [empty] topics=design,ui-motion,three-js,agent-skills,mcp replies=None :: I created the world's best library of AI prompts for websites that don’t look like AI slop. 👇 • 590+ Al Animation Websit
+- `x-2094061655990702150` [KEEP] [empty] topics=video-generation,agent-skills replies=None :: 🚨 ADIÓS A LA EDICIÓN DE VIDEO Alguien acaba de crear una herramienta de edición de video gratuita para Claude Code... y 
+- `x-2094069236524061059` [KEEP] [empty] topics=design,agent-skills,ui-motion replies=None :: 🔴 Los DISEÑOS web que genera tu agente APESTAN Espaciado raro Tipografia generica Gradientes de siempre Ese look de IA q
+- `x-2094110975045554191` [KEEP] [has_thread] topics=agent-skills replies=None :: everyone showing off their six agent company is showing off one login. I counted what mine actually did in twenty minute
+- `x-2094148909253943322` [KEEP] [empty] topics=seo-agents replies=None :: I love how much faster the feedback loop is with AEO than SEO. A client came to us to boost their presence in AI answers
+- `x-2094162743985308047` [FILTERED] [empty] topics= replies=None :: We sent the same 1,000 cold emails twice and tripled the deals on the second run. The first run followed the classic pla
+- `x-2094164487381414344` [KEEP] [empty] topics=ui-motion,video-generation,agent-skills replies=None :: Today we're launching Claude for motion graphics 2.0. It does the sound now. One person is now a whole production team: 
+- `x-2094326291906310180` [KEEP] [failed_stub] topics=mcp,agent-skills,seo-agents replies=12 :: GrokBot booked a demo via GojiberryAI MCP (97 prospects / 24h)
+- `x-2094328961522397530` [KEEP] [failed_stub] topics=seo-agents replies=21 :: TinyShelf DR 14→46 via directory backlink; TinyShots listed
+- `x-2094377838774472944` [KEEP] [empty] topics=gaussian-splatting,camera-control,video-generation replies=None :: Gaussian splats let you choose the camera move after you've left the location. We added animation tools and 4K video exp
+- `x-2094424821450817563` [FILTERED] [empty] topics= replies=None :: Your founder account will never reach a full buying committee on its own. Dan and I have 81k combined on LinkedIn, but W
+- `x-2094424967345496191` [KEEP] [empty] topics=agent-skills replies=None :: https://x.com/i/article/2094424686499160065
+- `x-2094427822064279870` [KEEP] [failed_stub] topics=agent-skills replies=46 :: Obscura — Rust headless browser for agents (claims ~22k★)
+- `x-2094450512938856802` [KEEP] [has_thread] topics=seo-agents replies=None :: A brand followed the advice in this article and generated more than $25,000 from ChatGPT, Google and Perplexity-driven t
+- `x-2094462971598754010` [KEEP] [failed_stub] topics=agent-skills replies=99 :: GBrain evals — retrieval without LLM-in-loop + memory-save
+- `x-2094467179320119498` [KEEP] [failed_stub] topics=mcp,design replies=22 :: MCP that clones any site's HTML/CSS for Claude Code (AIDesigner)
+- `x-2094524951025914278` [KEEP] [failed_stub] topics=design,ui-motion replies=13 :: How we built the blume.codes landing page (X article)
+- `x-2094553318031024285` [KEEP] [failed_stub] topics=seo-agents,mcp,agent-skills replies=8 :: Grok Bot as Chief of AI Visibility + CrowdReply MCP
+- `x-2094558408259272998` [KEEP] [failed_stub] topics=agent-skills,mcp,infographics replies=6 :: AI-native company #3: centralized intelligence layer
+- `x-2094648474377839018` [KEEP] [failed_stub] topics=gaussian-splatting,bess-3d-flythrough replies=0 :: Splat2Mesh launch (JA) — 3DGS PLY → OBJ/GLB
+- `x-2094684433546985907` [KEEP] [failed_stub] topics=seo-agents replies=21 :: Directory backlinks that move DR — Crunchbase, G2, 15 names
+- `x-2094688982940741816` [KEEP] [failed_stub] topics=seo-agents replies=13 :: Submit your website to Brave Search
+- `x-2094740953554932149` [KEEP] [failed_stub] topics=seo-agents,agent-skills,mcp replies=34 :: treg people-search GTM — $0.0089/lead, quotes Jason Zhou
+- `x-2094742312433684496` [KEEP] [failed_stub] topics=seo-agents replies=8 :: Reddit page-1 SEO comment hack — 6 steps
+- `x-2094769581965369822` [KEEP] [has_thread] topics=gaussian-splatting replies=None :: LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing Contr
+- `x-2094770895021572502` [KEEP] [failed_stub] topics=seo-agents replies=26 :: SEO traffic to free tools, not blog posts — Bing KW + one-page tools
+- `x-2094771557864292784` [KEEP] [failed_stub] topics=seo-agents,infographics replies=35 :: 5 layers of SEO in 2026 — beyond ranking #1
+- `x-2094819241916801165` [FILTERED] [empty] topics= replies=None :: everyone is posting these AI character videos and nobody explains how they get this realistic.. so here's my exact proce
+- `x-2094820035344621901` [KEEP] [has_thread] topics=mcp,agent-skills replies=4 :: Meet investors in waves — venture fundraising FRM
+- `x-2094826117056414132` [KEEP] [failed_stub] topics=gaussian-splatting,bess-3d-flythrough replies=0 :: Splat2Mesh — free Win tool, 3DGS PLY → OBJ/GLB
+- `x-2094840529997410525` [KEEP] [failed_stub] topics=three-js,design,keyboard-pcb replies=22 :: Atlas Fields Studios — EM fields around PCB designs, free
+- `x-2094864872853119216` [KEEP] [has_thread] topics=three-js,gaussian-splatting,camera-control,video-generation,design replies=14 :: Atlas + spark.js + three.js scene from one input image
+- `x-2094892848042725416` [KEEP] [failed_stub] topics=mcp,agent-skills,seo-agents replies=163 :: Open-sourced outbound team — GojiberryAI Sales OS for Grok Bot
+- `x-2094893065202803014` [FILTERED] [failed_stub] topics= replies=29 :: cold email explained — Low IQ / Midwit / High IQ
+- `x-2094927852399624557` [FILTERED] [has_thread] topics= replies=11 :: 10,000 emails/day via Instantly sequencer + MapsData leads
+- `x-2094929928865341832` [KEEP] [failed_stub] topics=video-generation,camera-control,gaussian-splatting,bess-3d-flythrough replies=2 :: NVIDIA ArtiFixer — video diffusion that rebuilds broken/blurry 3D scans
+- `x-2094961942058418268` [KEEP] [failed_stub] topics=bess-3d-flythrough replies=1 :: ByteDance Lucida: indoor video → editable 3D assets
+- `x-2094978216146452971` [KEEP] [failed_stub] topics=ui-motion,design,agent-skills replies=29 :: Fable 5.1 website outputs cheaper than Fable 5 — /scroll-craft in replies
+- `x-2094984529853530345` [KEEP] [failed_stub] topics=ui-motion,design,agent-skills replies=5 :: Scroll-animated $5k site without writing CSS — ChatGPT + Gemini + Claude Code
+- `x-2095055297949610427` [KEEP] [failed_stub] topics=seo-agents,agent-skills,mcp replies=26 :: Ian Nuttall asking if anyone uses his SEO skill/CLI for real work
+- `x-2095060844547592437` [KEEP] [failed_stub] topics=design replies=12 :: How to write LinkedIn lead magnets that get comments
+- `x-2095078647652917329` [KEEP] [failed_stub] topics=design,agent-skills replies=29 :: Best websites to get DESIGN.md
+- `x-2095081419202560010` [KEEP] [failed_stub] topics=mcp,agent-skills,seo-agents replies=87 :: Open-sourced outbound team — 13 AI sales agents in Grok Bot + GojiberryAI MCP
+- `x-2095085408208196006` [KEEP] [empty] topics=design,agent-skills replies=None :: Made with @ChatGPT check out https://Imageory.in for prompts
+- `x-2095111032171876470` [KEEP] [empty] topics=keyboard-pcb,ui-motion,agent-skills replies=None :: Made this 3D keyboard animation with CoAnimator, Claude Fable 5.1 ⌨️ ✨ Best part ? You can edit and customize the whole 
+- `x-2095123902947090682` [KEEP] [failed_stub] topics=design replies=18 :: Swiss grids / Neo Industrialism — FROM ABOVE TO AHEAD mock
+- `x-2095130625976176754` [KEEP] [has_thread] topics=seo-agents replies=2 :: Topical maps vs chasing keywords one at a time — blogr.ai
+- `x-2095133695480873023` [KEEP] [failed_stub] topics=agent-skills replies=28 :: ChatGPT Work / Codex training page (learn.chatgpt.com)
+- `x-2095136786095951924` [KEEP] [has_thread] topics=gaussian-splatting replies=None :: 3DGSは見た目がリアルでも「面」を持たず、Blender編集や3Dプリントにそのまま使いにくい。 - 長野の@ArcanaMfg製作所がSplat2Meshを公開 - 対応PLYからポリゴンMeshを生成し、OBJ／GLBへ出力 - Wi
+- `x-2095156045303701766` [KEEP] [empty] topics=video-generation,mcp,agent-skills replies=None :: AI was supposed to replace artists. So I hired one to make an AI Gucci ad. He drew every shot on paper first. Then Claud
+- `x-2095159781883597031` [KEEP] [empty] topics=mcp,agent-skills,camera-control replies=None :: Blender MCPでFable 5.1を使い、右のエクイレクタングラー方式の都市パノラマ画像をリソースとして都市を構築させたところ、一発でこの情報量のモデルが完成。 これを手作業で作れと言われたら、3人日はかかるかな……。 テストでこの
+- `x-2095192939169234945` [FILTERED] [has_thread] topics= replies=None :: https://x.com/i/article/2095192419562033152
+- `x-2095193896687177873` [KEEP] [empty] topics=mcp,agent-skills replies=None :: Claude Fable 5.1 is a beast at agentic CAD! At Max effort it's the most capable model we've tested so far. Here, inside 
+- `x-2095202138854977756` [KEEP] [has_thread] topics=video-generation,agent-skills replies=None :: BREAKING: An unsupervised AI is doing 160,000 views a day on TikTok We connected 6 models to @lightreelai and Doublespee
+- `x-2095204640690147487` [KEEP] [empty] topics=video-generation,agent-skills,ui-motion replies=None :: Generates cinematic product videos with Claude Code and Remotion using 152 shot recipe cards and motion styles. https://
+- `x-2095207624396652956` [KEEP] [empty] topics=design,ui-motion,agent-skills replies=None :: Hero section design. built by Custom Skills + My Video Tool + Cursor + Client design md file and Some Creativity
+- `x-2095214420398121034` [FILTERED] [has_thread] topics= replies=None :: Introducing MapsData > $0.33-$0.98 per 1,000 leads > up to 100,000 leads per scrape > over 4000 queries to scrape > live
+- `x-2095231184531828762` [KEEP] [has_thread] topics=seo-agents,agent-skills replies=None :: Hey Grok, make $1M, make no mistakes 9 Grok bots to run your marketing 👇 1/ Ads Grok -> Connect Google and Meta in 1 cli
+- `x-2095288402606514424` [KEEP] [has_thread] topics=mcp,agent-skills,camera-control replies=None :: AIでBlenderを操作する方法 - CLIとMCPの使い分け｜npaka @npaka123 https://note.com/npaka/n/n7f7531e7b9ed?sub_rt=share_sb
+- `x-2095336950890983773` [KEEP] [has_thread] topics=gaussian-splatting replies=None :: 3DGSのPLYデータをブラウザだけでメッシュ化！ GLB・STL・OBJへ変換可能なWebサービスがβ公開！ 3DGS Mesh Converter https://3dnchu.com/archives/3dgs-mesh-conver
+- `x-2095352925597884465` [KEEP] [empty] topics=agent-skills replies=None :: fable 5.1 one shotting a quad-turbo W16 engine (this is a full CAD model + animation)
+- `x-2095368133070700884` [KEEP] [has_thread] topics=design,agent-skills replies=None :: ❤️‍🔥GPT 5.6 Sol Prompt 👇
+- `x-2095375790875840593` [KEEP] [empty] topics=gaussian-splatting replies=None :: LichtFeldStudioで出力したデータをSplat2Meshで変換し、そのままMimakiの3DUJ-2207で出力しました。 https://arcana-mfg.com/splat2mesh/ English: https://
+- `x-2095427702325231977` [KEEP] [empty] topics=video-generation replies=None :: MiniMax H3の動画生成で生じる音声劣化を、高速に修正する手法が話題。 映像を低解像度にして音声のみを高ステップで再生成し、元動画と合成する仕組み。 生成時間を短縮しつつズレを防ぐため、Latentを縮小する工夫が賢いと好評。 #Mi
+- `x-2095429087141515616` [KEEP] [has_thread] topics=design,ui-motion replies=None :: Premium design isn’t just about looking good—it’s about making your brand feel valuable before a customer even interacts
+- `x-2095437841958314100` [KEEP] [empty] topics=bess-3d-flythrough,video-generation,camera-control replies=None :: This is insane: Hyper3D just dropped WorldGen, an AI that turns ONE photo into a full interactive 3D world Yingmu Techno
+- `x-2095451624139567162` [KEEP] [empty] topics=design,agent-skills replies=None :: ❤️‍🔥 GPT 5.6 Sol Prompt 👇
+- `x-2095482056180638142` [KEEP] [empty] topics=design,agent-skills replies=None :: Fabel 5.1 cooked it. Try the prompt yourself👇
+- `x-2095483352375837020` [KEEP] [empty] topics=video-generation replies=None :: MiniMax H3をプロダクトCGのレンダラー的に使うの試してみてる。ローカルで処理できるのはアツいね。 ローカルで方向性が定まってからAPIに投げられるので無駄が少ない。
+- `x-2095502642218664004` [KEEP] [empty] topics=design replies=None :: I2M 1.2 is Live! 🎉 ✅ Improved Metallics ✅ Improved Roughness ✅ Improved Albedo ✅ Improved Index of Refraction Other gene
+- `x-2095512142766342624` [KEEP] [empty] topics=camera-control,agent-skills replies=None :: Take a photo of the real world Paste it into Blender 3D
+- `x-2095521587785081193` [KEEP] [has_thread] topics=video-generation replies=None :: this launch video generated 4.6M+ views for @intelligenceco. posted by founder @ndrewpignanelli. full breakdown:
+- `x-2095548418533798086` [KEEP] [empty] topics=agent-skills replies=None :: one of the beautiful things about programmatic CAD and 3D design is more efficient expression: the text-to-cad repo has 
+- `x-2095549461737111905` [KEEP] [has_thread] topics=design,agent-skills,ui-motion replies=None :: Claude Fable 5.1 has given me the best website outputs compared to any AI model One-shots - don't need to spend a lot.

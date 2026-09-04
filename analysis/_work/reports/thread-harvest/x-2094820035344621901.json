@@ -1,0 +1,81 @@
+{
+  "root_id": "2094820035344621901",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094820035344621901",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:09:50Z",
+      "text": "One of the best fundraising tools is the simplest: meet investors in waves 🌊\n\nPlan all your pitches within 1-2 weeks to generate a competitive auction among investors.\n\nWe built the concept into our venture fundraising FRM (beta access below).\n\nBut honestly you can do this with https://t.co/lH37cIqkFz",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 73,
+        "replies": 4,
+        "reposts": 1,
+        "views": 8286,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/lH37cIqkFz"
+      ]
+    },
+    {
+      "id": "2095045230596853830",
+      "author_handle": null,
+      "created_at": "2026-09-02T07:04:41Z",
+      "text": "@harris waves work. picking the wrong two weeks is what kills them. fall partner calendars get eaten by whatever their firm is sponsoring, so a wave landing on a big event week gets you associates and reschedules. worth checking what your targets are attending before you lock dates",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 45,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094934283492147363",
+      "author_handle": null,
+      "created_at": "2026-09-01T23:43:49Z",
+      "text": "@harris Why would you delete afterwards",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 95,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094896160364187766",
+      "author_handle": null,
+      "created_at": "2026-09-01T21:12:20Z",
+      "text": "@harris Very cool! Checking it out :)",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 164,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094820035344621901",
+    "2094896160364187766",
+    "2094934283492147363",
+    "2095045230596853830"
+  ],
+  "item_id": "x-2094820035344621901",
+  "handle": "harris",
+  "http_status": 200,
+  "url": "https://x.com/harris/status/2094820035344621901",
+  "html_bytes": 191091,
+  "raw_path": "raw/items/x-2094820035344621901/thread-raw/x-web-dom-20260904T175334Z.html"
+}

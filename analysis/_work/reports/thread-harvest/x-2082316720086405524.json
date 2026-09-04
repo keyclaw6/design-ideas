@@ -1,0 +1,81 @@
+{
+  "root_id": "2082316720086405524",
+  "reply_count_reported": 41,
+  "quote_count_reported": 12,
+  "tweets": [
+    {
+      "id": "2082316720086405524",
+      "author_handle": null,
+      "created_at": "2026-07-29T04:06:08Z",
+      "text": "i always disable all permission checks for my agents - i don't even do auto review. many people saw that in my videos and asked me how i dare do that, and that's actually a really good question\n\non a high level, there are 3 things that allowed me to do that -\n\n1. a mindset shift",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 726,
+        "replies": 41,
+        "reposts": 40,
+        "views": 53056,
+        "quotes": 12
+      },
+      "urls": []
+    },
+    {
+      "id": "2082396216403403069",
+      "author_handle": null,
+      "created_at": "2026-07-29T09:22:01Z",
+      "text": "@kunchenguid We've built something that gives you the best of both worlds. \n\nWould love to get your feedback! \n\nhttps://t.co/OiQrgdhtYY",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 137,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/OiQrgdhtYY"
+      ]
+    },
+    {
+      "id": "2082468381673099703",
+      "author_handle": null,
+      "created_at": "2026-07-29T14:08:47Z",
+      "text": "@kunchenguid +1 to all of this! Though I'm probably even more cavalier about secrets and access my agents have through my various logins. Where we are super careful is around \"write\" access to production. Otherwise, the productivity gain from letting agents just do stuff can't be beat.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 303,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2082413443303285195",
+      "author_handle": null,
+      "created_at": "2026-07-29T10:30:28Z",
+      "text": "@kunchenguid Have you tried using a vps instead of your laptop? That is what I have been doing the past few months and it’s made a huge difference. Not only in case something goes wrong but also so my laptop isn’t on 24/7. I am also working a lot more from my phone using termius and herdr.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1042,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2082316720086405524",
+    "2082396216403403069",
+    "2082413443303285195",
+    "2082468381673099703"
+  ],
+  "item_id": "x-2082316720086405524",
+  "handle": "kunchenguid",
+  "http_status": 200,
+  "url": "https://x.com/kunchenguid/status/2082316720086405524",
+  "html_bytes": 279805,
+  "raw_path": "raw/items/x-2082316720086405524/thread-raw/x-web-dom-20260904T175301Z.html"
+}

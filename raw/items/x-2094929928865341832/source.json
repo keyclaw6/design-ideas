@@ -1,0 +1,60 @@
+{
+  "id": "x-2094929928865341832",
+  "url": "https://x.com/0x0SojalSec/status/2094929928865341832",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:38:09Z",
+  "title": "NVIDIA ArtiFixer — video diffusion that rebuilds broken/blurry 3D scans",
+  "authors": [
+    "Md Ismail Šojal (@0x0SojalSec)"
+  ],
+  "topics": [
+    "video-generation",
+    "camera-control",
+    "gaussian-splatting",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [
+    "https://huggingface.co/nvidia/ArtiFixer",
+    "https://github.com/nv-tlabs/ArtiFixer",
+    "https://research.nvidia.com/labs/sil/projects/artifixer/",
+    "https://arxiv.org/abs/2603.00492",
+    "https://arxiv.org/pdf/2603.00492",
+    "https://research.nvidia.com/labs/sil/projects/artifixer/assets/paper.pdf"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:46:00Z",
+    "unsaved_via": "cursor-ide-browser post-detail Bookmark click",
+    "tweet_id": "2094929928865341832",
+    "author_handle": "0x0SojalSec",
+    "author_id": "1445347022555340805",
+    "author_name": "Md Ismail Šojal",
+    "created_at": "2026-09-01T23:26:31Z",
+    "likes": 202,
+    "replies": 2,
+    "retweets": 23,
+    "bookmarks": 205,
+    "quotes": 0,
+    "views": 8553,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": true,
+    "video_duration_s": 16.3,
+    "video_id": "2094929391336009728",
+    "video_size": "1654x1080",
+    "video_native_size": "3308x2160",
+    "source_client": "Twitter Web App",
+    "model": "ArtiFixer",
+    "arxiv": "2603.00492",
+    "repo": "nv-tlabs/ArtiFixer",
+    "repo_stars": 635,
+    "hf": "nvidia/ArtiFixer",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + GitHub/HF/arXiv APIs; mp4 via video.twimg.com (1080p)",
+    "comments_note": "2 replies; none visible without X login. Model identified from tweet HF link + verified.",
+    "topics_note": "Fixes sparse 3DGS/3DGRUT scans via novel-view video diffusion; bess-3d-flythrough is the closest SCHEMA slot for facility-from-scan 3D."
+  }
+}

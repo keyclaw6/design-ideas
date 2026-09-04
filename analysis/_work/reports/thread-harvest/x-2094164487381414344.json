@@ -1,0 +1,101 @@
+{
+  "root_id": "2094164487381414344",
+  "reply_count_reported": 156,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2094164487381414344",
+      "author_handle": null,
+      "created_at": "2026-08-30T20:44:56Z",
+      "text": "Today we're launching Claude for motion graphics 2.0. It does the sound now.\n\nOne person is now a whole production team:\n\nTurn words into your next launch video, voiceover and music included\n\nChange a word in the script and the voiceover updates itself. No re-record\n\nOne click https://t.co/2SpKn9IuAo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 345,
+        "replies": 156,
+        "reposts": 22,
+        "views": 25340,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/2SpKn9IuAo"
+      ]
+    },
+    {
+      "id": "2094165607230910755",
+      "author_handle": null,
+      "created_at": "2026-08-30T20:49:23Z",
+      "text": "Use this exact video as a free template for your next product video\nhttps://t.co/KhAZy3E4ZG",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1693,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/KhAZy3E4ZG"
+      ]
+    },
+    {
+      "id": "2094168999617601926",
+      "author_handle": null,
+      "created_at": "2026-08-30T21:02:51Z",
+      "text": "@tvnxty here is the sound mode u wanted. I take feedback seriously. Leave me some here\nhttps://t.co/ClE6SOWP5f",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1738,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ClE6SOWP5f"
+      ]
+    },
+    {
+      "id": "2089024517725168005",
+      "author_handle": "tvnxty",
+      "created_at": "2026-08-16T16:20:31Z",
+      "text": "I respect everyone who builds something, but at this point it seems like there's a new \"Claude for motion graphics\" app every week.\n\nI'm not sure I understand who's the target market? \n\nSerious founders and brands will always opt in for a studio or an experienced motion designer",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 3059,
+        "quotes": null
+      },
+      "urls": []
+    },
+    {
+      "id": "2094167164278239637",
+      "author_handle": null,
+      "created_at": "2026-08-30T20:55:34Z",
+      "text": "@cy_burns The video and audio were done 100% in raylight",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 116,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089024517725168005",
+    "2094164487381414344",
+    "2094165607230910755",
+    "2094167164278239637",
+    "2094168999617601926"
+  ],
+  "item_id": "x-2094164487381414344",
+  "handle": "cy_burns",
+  "http_status": 200,
+  "url": "https://x.com/cy_burns/status/2094164487381414344",
+  "html_bytes": 201528,
+  "raw_path": "raw/items/x-2094164487381414344/thread-raw/x-web-dom-20260904T175332Z.html"
+}

@@ -1,0 +1,124 @@
+{
+  "root_id": "2089602918605619401",
+  "reply_count_reported": 63,
+  "quote_count_reported": 14,
+  "tweets": [
+    {
+      "id": "2089602918605619401",
+      "author_handle": null,
+      "created_at": "2026-08-18T06:38:53Z",
+      "text": "I open-sourced the Sylva three.js site and the skills behind it.\n\nI started with one reference and asked Opus 5 to recreate it in Three.js as a single HTML file (looped for 2 hours). The moss root is procedural geometry with around 130,000 instanced blades, and all the code is https://t.co/y2dIHPmqhE",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1696,
+        "replies": 63,
+        "reposts": 167,
+        "views": 131448,
+        "quotes": 14
+      },
+      "urls": [
+        "https://t.co/y2dIHPmqhE"
+      ]
+    },
+    {
+      "id": "2089252548473688076",
+      "author_handle": null,
+      "created_at": "2026-08-17T07:26:38Z",
+      "text": "I’m blown away by the quality of the landing pages that Opus 5 can create in Three.js.\n\nPrompting it with \"orbit using mouse\" is enough to create a 3D parallax effect. The same goes for \"add particles to pointer.\" It’s like creating a living, breathing world.\n\nMore prompts I https://t.co/F04IAtOwvR",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/F04IAtOwvR"
+      ]
+    },
+    {
+      "id": "2089617622560387307",
+      "author_handle": null,
+      "created_at": "2026-08-18T07:37:19Z",
+      "text": "@MengTo Looks very great! \n\nI too tried to create 3d website using grok. \n\nHere's the post: \n\nhttps://t.co/aNdh1cJnaK",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 16,
+        "replies": 5,
+        "reposts": 2,
+        "views": 2487,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/aNdh1cJnaK"
+      ]
+    },
+    {
+      "id": "2089423535127269884",
+      "author_handle": "MengTo",
+      "created_at": "2026-08-17T18:46:05Z",
+      "text": "I built Cosmic Atlas using Grok Build [Grok 4.6]\n\n3D rendered planets using Three.js\nreal maps using Solar System Scope\ncamera hops using GSAP\norbits using Kepler math\n\ngo fly it → https://t.co/IYWTBsJdlX https://t.co/yYWAJmeuyH",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 4955,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/IYWTBsJdlX",
+        "https://t.co/yYWAJmeuyH"
+      ]
+    },
+    {
+      "id": "2089613001813090631",
+      "author_handle": null,
+      "created_at": "2026-08-18T07:18:57Z",
+      "text": "@MengTo Thanks buddy did this after your tokyo landing page, and skills. Keep sharing stuffs. ☺️ https://t.co/ifExcj0yL6",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1215,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ifExcj0yL6"
+      ]
+    },
+    {
+      "id": "2089686159278367061",
+      "author_handle": null,
+      "created_at": "2026-08-18T12:09:39Z",
+      "text": "@MengTo 👀 Have a look.\nhttps://t.co/AwacZmKF3H",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 184,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/AwacZmKF3H"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2089252548473688076",
+    "2089423535127269884",
+    "2089602918605619401",
+    "2089613001813090631",
+    "2089617622560387307",
+    "2089686159278367061"
+  ],
+  "item_id": "x-2089602918605619401",
+  "handle": "MengTo",
+  "http_status": 200,
+  "url": "https://x.com/MengTo/status/2089602918605619401",
+  "html_bytes": 275009,
+  "raw_path": "raw/items/x-2089602918605619401/thread-raw/x-web-dom-20260904T175313Z.html"
+}

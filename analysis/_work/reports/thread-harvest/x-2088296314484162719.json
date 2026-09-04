@@ -1,0 +1,99 @@
+{
+  "root_id": "2088296314484162719",
+  "reply_count_reported": 18,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2088296314484162719",
+      "author_handle": null,
+      "created_at": "2026-08-14T16:06:54Z",
+      "text": "The scary part about AI in CAD is not that it can draw a part.\n\nIt is that it can now understand a messy engineering project well enough to search it, isolate the right components, change their parameters, and reorganize the whole thing from plain English.\n\nThis guy is working https://t.co/cOnkFws0QJ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 494,
+        "replies": 18,
+        "reposts": 34,
+        "views": 33285,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/cOnkFws0QJ"
+      ]
+    },
+    {
+      "id": "2087561481478897679",
+      "author_handle": null,
+      "created_at": "2026-08-12T15:26:56Z",
+      "text": "CAD software just became a chat window.\n\nThis guy is redesigning a 400ml cup in Autodesk Fusion by talking to Claude.\n\nHe asks for a tapered body. Claude builds it through MCP. Then he asks for grip rings. Claude adds them. One looks wrong, so he says remove it. Then he changes https://t.co/2yS34TKlMX",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/2yS34TKlMX"
+      ]
+    },
+    {
+      "id": "2088336075051675762",
+      "author_handle": null,
+      "created_at": "2026-08-14T18:44:54Z",
+      "text": "@irinatoxi @sts_3d Aren't you the \"guy\"",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 577,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088319604607144126",
+      "author_handle": null,
+      "created_at": "2026-08-14T17:39:27Z",
+      "text": "@irinatoxi Everything works in the digital sandbox. I use ai 3D modeling workflows every day to run my custom mold making business. I have also been learning blender for over a year using it every day. I can confidently say that if you can’t use your CAD software manually, then you’re not",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 382,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088379812809437409",
+      "author_handle": null,
+      "created_at": "2026-08-14T21:38:42Z",
+      "text": "@irinatoxi Extra credit for going to McMaster-Carr, downloading off the shelf fasteners and parts, integrating them into the assembly and placing a tentative order subject to your OK.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 330,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087561481478897679",
+    "2088296314484162719",
+    "2088319604607144126",
+    "2088336075051675762",
+    "2088379812809437409"
+  ],
+  "item_id": "x-2088296314484162719",
+  "handle": "irinatoxi",
+  "http_status": 200,
+  "url": "https://x.com/irinatoxi/status/2088296314484162719",
+  "html_bytes": 234303,
+  "raw_path": "raw/items/x-2088296314484162719/thread-raw/x-web-dom-20260904T175309Z.html"
+}

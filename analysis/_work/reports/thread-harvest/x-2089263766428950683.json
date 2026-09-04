@@ -1,0 +1,89 @@
+{
+  "root_id": "2089263766428950683",
+  "reply_count_reported": 31,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2089263766428950683",
+      "author_handle": null,
+      "created_at": "2026-08-17T08:11:13Z",
+      "text": "The best UI components ready to use, save this 👇\n\n- https://t.co/reBVrC6Lhr  free animated component library\n- https://t.co/iYyKVCQWE5  Animated thinking orb component\n- https://t.co/xrq0nyk7IK  essential transitions for web apps\n- https://t.co/qKBCMczxgC  crafted UI for https://t.co/0Q4G2t4iNc",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1386,
+        "replies": 31,
+        "reposts": 148,
+        "views": 91062,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/reBVrC6Lhr",
+        "https://t.co/iYyKVCQWE5",
+        "https://t.co/xrq0nyk7IK",
+        "https://t.co/qKBCMczxgC",
+        "https://t.co/0Q4G2t4iNc"
+      ]
+    },
+    {
+      "id": "2089294969437634572",
+      "author_handle": null,
+      "created_at": "2026-08-17T10:15:12Z",
+      "text": "@neropursue https://t.co/PLhJQRkFAJ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 439,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/PLhJQRkFAJ"
+      ]
+    },
+    {
+      "id": "2089278300682367139",
+      "author_handle": null,
+      "created_at": "2026-08-17T09:08:58Z",
+      "text": "@neropursue https://t.co/ESh9bY2EPC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 525,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ESh9bY2EPC"
+      ]
+    },
+    {
+      "id": "2089278128342331860",
+      "author_handle": null,
+      "created_at": "2026-08-17T09:08:17Z",
+      "text": "@neropursue You missed @vanta_ui",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 374,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089263766428950683",
+    "2089278128342331860",
+    "2089278300682367139",
+    "2089294969437634572"
+  ],
+  "item_id": "x-2089263766428950683",
+  "handle": "neropursue",
+  "http_status": 200,
+  "url": "https://x.com/neropursue/status/2089263766428950683",
+  "html_bytes": 237858,
+  "raw_path": "raw/items/x-2089263766428950683/thread-raw/x-web-dom-20260904T175312Z.html"
+}

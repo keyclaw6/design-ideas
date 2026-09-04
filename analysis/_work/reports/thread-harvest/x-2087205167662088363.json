@@ -1,0 +1,97 @@
+{
+  "root_id": "2087205167662088363",
+  "reply_count_reported": 6,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2087205167662088363",
+      "author_handle": null,
+      "created_at": "2026-08-11T15:51:05Z",
+      "text": "not only does this work, but it EXTREMELY works. Dataviz at duckdb speed, for nearly free, no js required https://t.co/oJr6WUUGtO",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 173,
+        "replies": 6,
+        "reposts": 2,
+        "views": 20328,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/oJr6WUUGtO"
+      ]
+    },
+    {
+      "id": "2086965647788109944",
+      "author_handle": null,
+      "created_at": "2026-08-10T23:59:19Z",
+      "text": "think it's time to try my nuttiest idea, Database-Side Rendering (DSR). aka \"how to generate 10 million svg sparklines in DuckDB\"",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 23413,
+        "quotes": null
+      },
+      "urls": []
+    },
+    {
+      "id": "2087206336354222127",
+      "author_handle": null,
+      "created_at": "2026-08-11T15:55:43Z",
+      "text": "@hamiltonulmer goddamn. And you say you're not a data person",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 653,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087223967375663272",
+      "author_handle": null,
+      "created_at": "2026-08-11T17:05:47Z",
+      "text": "@hamiltonulmer uPlot rocks!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 501,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087405158653423809",
+      "author_handle": null,
+      "created_at": "2026-08-12T05:05:46Z",
+      "text": "@hamiltonulmer is demo available publicly?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 271,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086965647788109944",
+    "2087205167662088363",
+    "2087206336354222127",
+    "2087223967375663272",
+    "2087405158653423809"
+  ],
+  "item_id": "x-2087205167662088363",
+  "handle": "hamiltonulmer",
+  "http_status": 200,
+  "url": "https://x.com/hamiltonulmer/status/2087205167662088363",
+  "html_bytes": 181394,
+  "raw_path": "raw/items/x-2087205167662088363/thread-raw/x-web-dom-20260904T175304Z.html"
+}

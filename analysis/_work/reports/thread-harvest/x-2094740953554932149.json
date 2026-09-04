@@ -1,0 +1,103 @@
+{
+  "root_id": "2094740953554932149",
+  "reply_count_reported": 35,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2094740953554932149",
+      "author_handle": null,
+      "created_at": "2026-09-01T10:55:36Z",
+      "text": "Interesting GTM tool for direct sales!\n\nPricing model is quite competitive: no subscriptions, $0.0089 per lead\n\nProducts can build an automated workflow to reach 1B+ contacts across all networks through @treg_ai\n\nFully open source 👌\n\nFounders, reach your potential users every https://t.co/H5Q0ZuptG5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 220,
+        "replies": 35,
+        "reposts": 11,
+        "views": 35080,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/H5Q0ZuptG5"
+      ]
+    },
+    {
+      "id": "2094741771783962742",
+      "author_handle": null,
+      "created_at": "2026-09-01T10:58:51Z",
+      "text": "@pmitu @treg_ai I am building a toB product (AI agent that automates AI UGC production and distribution) and this is AWESOME! I have generated 140M view with AI UGC but have zero experience with toB marketing",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "views": 510,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094807278276985330",
+      "author_handle": null,
+      "created_at": "2026-09-01T15:19:09Z",
+      "text": "@pmitu @treg_ai https://t.co/CYNCOUhabv\ndid some part of it internally at my org\nwrote about it here:)",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 451,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/CYNCOUhabv"
+      ]
+    },
+    {
+      "id": "2094776618015498536",
+      "author_handle": "treg_ai",
+      "created_at": "2026-09-01T13:17:19Z",
+      "text": "How I built KYC Genie — an AI engine that automates the entire account research and GTM pipeline, from raw company name to a sourced, sales-ready dossier. https://t.co/fEE7OibQaa",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 5644,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/fEE7OibQaa"
+      ]
+    },
+    {
+      "id": "2094742427500191781",
+      "author_handle": null,
+      "created_at": "2026-09-01T11:01:27Z",
+      "text": "@pmitu @treg_ai curious if this’ll help me find more creators for unfair\n\nI’ll give it a shot https://t.co/wL1NeE75M5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 421,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/wL1NeE75M5"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2094740953554932149",
+    "2094741771783962742",
+    "2094742427500191781",
+    "2094776618015498536",
+    "2094807278276985330"
+  ],
+  "item_id": "x-2094740953554932149",
+  "handle": "pmitu",
+  "http_status": 200,
+  "url": "https://x.com/pmitu/status/2094740953554932149",
+  "html_bytes": 251772,
+  "raw_path": "raw/items/x-2094740953554932149/thread-raw/x-web-dom-20260904T175334Z.html"
+}

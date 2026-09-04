@@ -1,0 +1,34 @@
+{
+  "id": "x-2086715093707063445",
+  "url": "https://x.com/ricouii/status/2086715093707063445",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:13Z",
+  "title": "在试用了大部分热门的设计 SKILL 之后，最终我只留下这 4 个： 1. Impeccable http://impeccable.style 2. Skills for Design Engineers http://github.co",
+  "authors": [
+    "@ricouii"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://impeccable.style",
+    "https://github.com/emilkowalski/skills",
+    "https://github.com/Jakubantalik/transitions.dev",
+    "https://github.com/greensock/gsap-skills"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2086715093707063445",
+    "author_handle": "ricouii",
+    "related_items": [
+      "github-pbakaus-impeccable",
+      "github-emilkowalski-skills",
+      "github-jakubkrehel-skills",
+      "github-leonxlnx-taste-skill"
+    ],
+    "category_note": "Field report: after trying popular design skills, keep these four (Impeccable, emilkowalski, transitions.dev, GSAP)."
+  }
+}

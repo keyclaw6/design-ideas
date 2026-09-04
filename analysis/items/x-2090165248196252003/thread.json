@@ -1,0 +1,145 @@
+{
+  "schema_version": "1",
+  "id": "x-2090165248196252003",
+  "tweet_id": "2090165248196252003",
+  "root_author_handle": "GeminiApp",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 563,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1509,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 562,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2090179667756220437",
+      "author_handle": "unknown",
+      "created_at": "2026-08-19T20:50:41Z",
+      "text": "@GeminiApp So US students get the 20$ plan while everyone else gets the 5$ plan. Weird racism going on here😭",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 968,
+        "replies": 15,
+        "reposts": 2,
+        "views": 74669
+      },
+      "parent_id": "2090165248196252003",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090166400367357973",
+      "author_handle": "GeminiApp",
+      "created_at": "2026-08-19T19:57:57Z",
+      "text": "Get organized with the new student hub.\n\nWe’ve built a dedicated hub just for students. Start a study notebook, create flashcards, take a practice quiz and more. As we roll out new learning tools, you’ll find them in the student hub.\n\nAccess the new student hub here: https://t.co/juAZ9nAwSr",
+      "text_en": null,
+      "urls": [
+        "https://t.co/juAZ9nAwSr"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 895,
+        "replies": 15,
+        "reposts": 41,
+        "views": 656853
+      }
+    },
+    {
+      "id": "2090166402263240923",
+      "author_handle": "GeminiApp",
+      "created_at": "2026-08-19T19:57:58Z",
+      "text": "Use study notebooks for an adaptive learning environment.\n\nWhen looking for more personalized study help, Gemini steps in.\n→ Pinpoints your exact knowledge gaps with diagnostic quizzes\n→ Builds bite-sized lessons grounded in your class materials\n→ Tracks your progress on a https://t.co/UYKQJQsskD",
+      "text_en": null,
+      "urls": [
+        "https://t.co/UYKQJQsskD"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 342,
+        "replies": 4,
+        "reposts": 16,
+        "views": 394682
+      }
+    },
+    {
+      "id": "2090166404993683697",
+      "author_handle": "GeminiApp",
+      "created_at": "2026-08-19T19:57:59Z",
+      "text": "Dive deeper with interactive visualizations.\n\nGemini can now generate functional, interactive 3D simulations and dynamic tables directly in your chat.\n\nJust start your prompt with “Show me…” and use our Flash model for the best results:\n+ “Show me how DNA works in 3D” (zoom, https://t.co/z4ED3sHwyB",
+      "text_en": null,
+      "urls": [
+        "https://t.co/z4ED3sHwyB"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 251,
+        "replies": 2,
+        "reposts": 8,
+        "views": 275450
+      }
+    },
+    {
+      "id": "2090166406868533734",
+      "author_handle": "GeminiApp",
+      "created_at": "2026-08-19T19:57:59Z",
+      "text": "Talk through research with Gemini Live.\n\nYou can now kick off multi-step research reports with your voice:\n1) Ask Gemini Live to Deep Research a complex topic\n2) Lock your phone or switch tasks while it works in the background\n3) Get notified when it's done, then seamlessly talk https://t.co/k77qPCzALk",
+      "text_en": null,
+      "urls": [
+        "https://t.co/k77qPCzALk"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 210,
+        "replies": 4,
+        "reposts": 9,
+        "views": 252182
+      }
+    },
+    {
+      "id": "2090166408642752550",
+      "author_handle": "GeminiApp",
+      "created_at": "2026-08-19T19:57:59Z",
+      "text": "The student hub, study notebooks, interactive visualizations, and Deep Research in Gemini Live are rolling out today to eligible Gemini app users globally.\n\nClaim your student plan for one year at no cost. Offer runs through December 31st, 2026 for eligible students. Terms apply.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 584,
+        "replies": 11,
+        "reposts": 46,
+        "views": 247132
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/GeminiApp/status/2090165248196252003",
+      "outcome": "ok",
+      "note": "html_bytes=339762 tweets=7"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/GeminiApp/status/2090165248196252003",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090165248196252003/thread-raw/x-web-dom-20260904T175314Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

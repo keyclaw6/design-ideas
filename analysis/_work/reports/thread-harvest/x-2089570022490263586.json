@@ -1,0 +1,50 @@
+{
+  "root_id": "2089570022490263586",
+  "reply_count_reported": 1,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2089570022490263586",
+      "author_handle": null,
+      "created_at": "2026-08-18T04:28:10Z",
+      "text": "iCraft Editor designs 3D network architecture diagrams with immersive visual effects.\n\nhttps://t.co/8kLxHrY9yE https://t.co/aAMuOgL36A",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 163,
+        "replies": 1,
+        "reposts": 25,
+        "views": 10968,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/8kLxHrY9yE",
+        "https://t.co/aAMuOgL36A"
+      ]
+    },
+    {
+      "id": "2089583895834411157",
+      "author_handle": null,
+      "created_at": "2026-08-18T05:23:18Z",
+      "text": "@tom_doerr does it render live network traffic or just static diagrams?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 199,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089570022490263586",
+    "2089583895834411157"
+  ],
+  "item_id": "x-2089570022490263586",
+  "handle": "tom_doerr",
+  "http_status": 200,
+  "url": "https://x.com/tom_doerr/status/2089570022490263586",
+  "html_bytes": 124653,
+  "raw_path": "raw/items/x-2089570022490263586/thread-raw/x-web-dom-20260904T175312Z.html"
+}

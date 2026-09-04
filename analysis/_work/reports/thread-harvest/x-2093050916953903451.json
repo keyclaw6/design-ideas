@@ -1,0 +1,67 @@
+{
+  "root_id": "2093050916953903451",
+  "reply_count_reported": 387,
+  "quote_count_reported": 134,
+  "tweets": [
+    {
+      "id": "2093050916953903451",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:00:00Z",
+      "text": "We just killed Exa, Tavily, SerpAPI, and Brave.\n\nYour agent can now search &amp; fetch any webpage for 100% FREE.\n\nThem: $7 per 1,000 searches.\nUs: $0. No subscriptions, no quotas.\n\nHumans search Google for free. Agents shouldn't have to pay either.\n\nMade possible by @Tiny_Fish and https://t.co/rBhRWWseDv",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4780,
+        "replies": 387,
+        "reposts": 355,
+        "views": 870963,
+        "quotes": 134
+      },
+      "urls": [
+        "https://t.co/rBhRWWseDv"
+      ]
+    },
+    {
+      "id": "2093053691133829626",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:11:01Z",
+      "text": "@Tiny_Fish We don't need your credit card for free search.   \n\nJust give this to your agent. \nhttps://t.co/GbQ7lZtot2",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 496,
+        "replies": 25,
+        "reposts": 27,
+        "views": 46736,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/GbQ7lZtot2"
+      ]
+    },
+    {
+      "id": "2093057107096678587",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:24:36Z",
+      "text": "@shengkunye Let's goooo!!!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 110,
+        "replies": 5,
+        "reposts": 4,
+        "views": 29769,
+        "quotes": 1
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093050916953903451",
+    "2093053691133829626",
+    "2093057107096678587"
+  ],
+  "item_id": "x-2093050916953903451",
+  "handle": "shengkunye",
+  "http_status": 200,
+  "url": "https://x.com/shengkunye/status/2093050916953903451",
+  "html_bytes": 196419,
+  "raw_path": "raw/items/x-2093050916953903451/thread-raw/x-web-dom-20260904T175325Z.html"
+}

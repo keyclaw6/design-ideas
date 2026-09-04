@@ -1,0 +1,67 @@
+{
+  "root_id": "2091899114153754949",
+  "reply_count_reported": 13,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2091899114153754949",
+      "author_handle": null,
+      "created_at": "2026-08-24T14:43:09Z",
+      "text": "LichtFeld Studio is getting faster recently... \n\n5m Gaussians, mrnf, 30k steps on RTX 4090 https://t.co/pezMATzXjb",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 242,
+        "replies": 13,
+        "reposts": 31,
+        "views": 17911,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/pezMATzXjb"
+      ]
+    },
+    {
+      "id": "2091903422500880731",
+      "author_handle": null,
+      "created_at": "2026-08-24T15:00:16Z",
+      "text": "Help to make this project sustainable: https://t.co/3dysnzKTRT",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1173,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/3dysnzKTRT"
+      ]
+    },
+    {
+      "id": "2091908422316728700",
+      "author_handle": null,
+      "created_at": "2026-08-24T15:20:08Z",
+      "text": "@janusch_patas Man that’s insane, especially for an automated pipeline with tons of datasets to process daily",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 373,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091899114153754949",
+    "2091903422500880731",
+    "2091908422316728700"
+  ],
+  "item_id": "x-2091899114153754949",
+  "handle": "janusch_patas",
+  "http_status": 200,
+  "url": "https://x.com/janusch_patas/status/2091899114153754949",
+  "html_bytes": 184424,
+  "raw_path": "raw/items/x-2091899114153754949/thread-raw/x-web-dom-20260904T175320Z.html"
+}

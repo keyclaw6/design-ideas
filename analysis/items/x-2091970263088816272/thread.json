@@ -1,0 +1,97 @@
+{
+  "schema_version": "1",
+  "id": "x-2091970263088816272",
+  "tweet_id": "2091970263088816272",
+  "root_author_handle": "xhluca",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 22,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 8,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 21,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092096649073988043",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T03:48:05Z",
+      "text": "@xhluca Thanks Xing for creating this!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 133
+      },
+      "parent_id": "2091970263088816272",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091970265194316269",
+      "author_handle": "xhluca",
+      "created_at": "2026-08-24T19:25:52Z",
+      "text": "Don't want to use the CLI? \n\nJust ask your agent to do it: \"Follow https://t.co/HZ5FGLp1Dj to migrate this session to {Codex, Pi, etc.}\" https://t.co/ZgCmezN5CX",
+      "text_en": null,
+      "urls": [
+        "https://t.co/HZ5FGLp1Dj",
+        "https://t.co/ZgCmezN5CX"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 885
+      }
+    },
+    {
+      "id": "2091970267778031983",
+      "author_handle": "xhluca",
+      "created_at": "2026-08-24T19:25:53Z",
+      "text": "It current supports: @claudeai code, @openai codex, @pidotdev, @opencode, @MistralAI vibe, @antigravity, @GitHubCopilot cli, @cursor_ai agent (partial).\n\nHere's an example of Claude -&gt; Pi. You can use models like @Kimi_Moonshot K3 or @Alibaba_Qwen 3.8 via @huggingface Inference. https://t.co/YF2RoE4wq3",
+      "text_en": null,
+      "urls": [
+        "https://t.co/YF2RoE4wq3"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 593
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/xhluca/status/2091970263088816272",
+      "outcome": "ok",
+      "note": "html_bytes=189286 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/xhluca/status/2091970263088816272",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091970263088816272/thread-raw/x-web-dom-20260904T175321Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

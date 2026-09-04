@@ -1,0 +1,124 @@
+{
+  "schema_version": "1",
+  "id": "x-2095085408208196006",
+  "tweet_id": "2095085408208196006",
+  "root_author_handle": "Palakonweb",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 8,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 5,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095092737913827381",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T10:13:28Z",
+      "text": "@Palakonweb @ChatGPT already using it https://t.co/1zoHX0vpHA good one actually 🫱🏻‍🫲🏼",
+      "text_en": null,
+      "urls": [
+        "https://t.co/1zoHX0vpHA"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 170
+      },
+      "parent_id": "2095085408208196006",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2095100909852463545",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T10:45:56Z",
+      "text": "@Palakonweb @ChatGPT Cool",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 43
+      },
+      "parent_id": "2095085408208196006",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2095164258548068786",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T14:57:40Z",
+      "text": "@Palakonweb @ChatGPT damnn keep cooking",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 41
+      },
+      "parent_id": "2095085408208196006",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2094797941554958536",
+      "author_handle": "Palakonweb",
+      "created_at": "2026-09-01T14:42:03Z",
+      "text": "Every time I post my GPT-generated images, my DMs and comments get flooded with people asking for prompts.\n\nSo I built  https://t.co/Vcemq5XiZP\n\nPinterest, but with the prompts attached.\n\nBrowse AI-generated images, discover the exact prompts behind them, and use them as a https://t.co/Fbr62ED90i",
+      "text_en": null,
+      "urls": [
+        "https://t.co/Vcemq5XiZP",
+        "https://t.co/Fbr62ED90i"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Palakonweb/status/2095085408208196006",
+      "outcome": "ok",
+      "note": "html_bytes=244336 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Palakonweb/status/2095085408208196006",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095085408208196006/thread-raw/x-web-dom-20260904T175336Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "x-2092009056164872620",
+  "url": "https://x.com/yachimat_manga/status/2092009056164872620",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:35Z",
+  "title": "CozyClayっていうオープンソースのプレビス制作ソフトつかってみました。Blenderに比べると拡張性は低いんだけど、MCPあるし格段に使いやすい 一回シーンをつくっちゃったら構図変更するのも30秒くらい。これで何回もやり直して、そこか",
+  "authors": [
+    "yachimat - AI Short Anime (@yachimat_manga)"
+  ],
+  "topics": [
+    "video-generation",
+    "mcp",
+    "camera-control"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2092009056164872620",
+    "author_handle": "yachimat_manga",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "CozyClay + MCP review; same tool as x-2091577179914338583"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "root_id": "2091157554919280688",
+  "reply_count_reported": 64,
+  "quote_count_reported": 12,
+  "tweets": [
+    {
+      "id": "2091157554919280688",
+      "author_handle": null,
+      "created_at": "2026-08-22T13:36:27Z",
+      "text": "6 repos de AI Agents que estan explotando en github\n\n1. Graft —\nhttps://t.co/G5BErzXVeY\nHace que claude code sea 4 veces mas barato y 3 veces mas rapido, es compatible con cualquier agente 60% menos tiempo por sesión\n\n2. Agency agents —https://t.co/bfICMJr8e9\nAgencia de IA https://t.co/VCwOG6XNQf",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2587,
+        "replies": 64,
+        "reposts": 360,
+        "views": 208141,
+        "quotes": 12
+      },
+      "urls": [
+        "https://t.co/G5BErzXVeY",
+        "https://t.co/bfICMJr8e9",
+        "https://t.co/VCwOG6XNQf"
+      ]
+    },
+    {
+      "id": "2091209630927945759",
+      "author_handle": null,
+      "created_at": "2026-08-22T17:03:23Z",
+      "text": "@robiartec El verdadero cuello de botella deja de ser el modelo y pasa a ser la infraestructura de coordinación entre agentes",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1053,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091194713080475828",
+      "author_handle": null,
+      "created_at": "2026-08-22T16:04:06Z",
+      "text": "@robiartec Compatibilidad con cualquier agente sugiere que actúa como middleware/proxy sobre las llamadas al modelo, interesante approach arquitectónico",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1114,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091162678576246827",
+      "author_handle": null,
+      "created_at": "2026-08-22T13:56:49Z",
+      "text": "@robiartec La tendencia clara es mover la complejidad del prompt engineering hacia infraestructura (memoria, orquestación, routing)",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 724,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091157554919280688",
+    "2091162678576246827",
+    "2091194713080475828",
+    "2091209630927945759"
+  ],
+  "item_id": "x-2091157554919280688",
+  "handle": "robiartec",
+  "http_status": 200,
+  "url": "https://x.com/robiartec/status/2091157554919280688",
+  "html_bytes": 215890,
+  "raw_path": "raw/items/x-2091157554919280688/thread-raw/x-web-dom-20260904T175316Z.html"
+}

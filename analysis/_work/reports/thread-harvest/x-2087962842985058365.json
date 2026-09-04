@@ -1,0 +1,87 @@
+{
+  "root_id": "2087962842985058365",
+  "reply_count_reported": 15,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2087962842985058365",
+      "author_handle": null,
+      "created_at": "2026-08-13T18:01:48Z",
+      "text": "Pushed Bonsai-1.7B from @PrismML further again.\n\n64 → 90 tok/s decode on the same Android Device.\nCPU only, no NPU, no GPU.\n\nAlmost 3x faster than the llama.cpp reference. https://t.co/Rp4bwYMdU5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 240,
+        "replies": 15,
+        "reposts": 22,
+        "views": 12565,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/Rp4bwYMdU5"
+      ]
+    },
+    {
+      "id": "2081081245736284627",
+      "author_handle": "PrismML",
+      "created_at": "2026-07-25T18:16:48Z",
+      "text": "Pushed Bonsai-1.7B from @PrismML further.\n\n32 → 64 tok/s on the same OnePlus 13. 2×.\n\nParallelized attention and hoisted the conversion out of the KV walk.\n\nBit-for-bit identical output.\n\nPure CPU. I’m sure we can go harder. https://t.co/75vgBO86Sr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 33741,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/75vgBO86Sr"
+      ]
+    },
+    {
+      "id": "2088044555094331519",
+      "author_handle": null,
+      "created_at": "2026-08-13T23:26:30Z",
+      "text": "We will open source the inference engine soon. Meanwhile you can checkout our on-device sdk \n\nhttps://t.co/Y2JhJSqG2z",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 336,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Y2JhJSqG2z"
+      ]
+    },
+    {
+      "id": "2088004142992433456",
+      "author_handle": null,
+      "created_at": "2026-08-13T20:45:55Z",
+      "text": "@GlennSonna @PrismML Dude where were you 6 months ago... could have saved us lots of time 😅\n\nhttps://t.co/fBWHnMyGiz",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 319,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/fBWHnMyGiz"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2081081245736284627",
+    "2087962842985058365",
+    "2088004142992433456",
+    "2088044555094331519"
+  ],
+  "item_id": "x-2087962842985058365",
+  "handle": "GlennSonna",
+  "http_status": 200,
+  "url": "https://x.com/GlennSonna/status/2087962842985058365",
+  "html_bytes": 237348,
+  "raw_path": "raw/items/x-2087962842985058365/thread-raw/x-web-dom-20260904T175308Z.html"
+}

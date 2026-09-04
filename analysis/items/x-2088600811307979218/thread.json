@@ -1,0 +1,118 @@
+{
+  "schema_version": "1",
+  "id": "x-2088600811307979218",
+  "tweet_id": "2088600811307979218",
+  "root_author_handle": "dejavucoder",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 25,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 2,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 23,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088618409403830459",
+      "author_handle": "unknown",
+      "created_at": "2026-08-15T13:26:48Z",
+      "text": "@__tosh crazy lol https://t.co/wvM5Pu85uG",
+      "text_en": null,
+      "urls": [
+        "https://t.co/wvM5Pu85uG"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1148
+      },
+      "parent_id": "2088600811307979218",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2088602246967931367",
+      "author_handle": "unknown",
+      "created_at": "2026-08-15T12:22:34Z",
+      "text": "@dejavucoder dejavucoder labs!\nnext is model drop",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 832
+      },
+      "parent_id": "2088600811307979218",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2074912810803560497",
+      "author_handle": "dejavucoder",
+      "created_at": "2026-07-08T17:45:38Z",
+      "text": "my latest blog post \"auto-research with codex: how I achieved a 212x faster kernel over baseline with codex in GPU Mode's qr_v2 problem\" is up now. in this post, i talk about my approach towards auto-kerneling on the QR decomposition problem. \n\nhttps://t.co/tKwV9xMDC8 https://t.co/OUKzqrXjdA",
+      "text_en": null,
+      "urls": [
+        "https://t.co/tKwV9xMDC8",
+        "https://t.co/OUKzqrXjdA"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 223343
+      }
+    },
+    {
+      "id": "2088602345127202824",
+      "author_handle": "dejavucoder",
+      "created_at": "2026-08-15T12:22:58Z",
+      "text": "thanks for submitting on your own and letting me know lol @__tosh",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 10,
+        "replies": 1,
+        "reposts": 1,
+        "views": 1456
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/dejavucoder/status/2088600811307979218",
+      "outcome": "ok",
+      "note": "html_bytes=193260 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/dejavucoder/status/2088600811307979218",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2088600811307979218/thread-raw/x-web-dom-20260904T175310Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

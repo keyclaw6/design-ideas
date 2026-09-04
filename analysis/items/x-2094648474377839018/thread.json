@@ -1,0 +1,57 @@
+{
+  "schema_version": "1",
+  "id": "x-2094648474377839018",
+  "tweet_id": "2094648474377839018",
+  "root_author_handle": "ArcanaMfg",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 0,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 10,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [
+    {
+      "id": "2093179838249251011",
+      "author_handle": "ArcanaMfg",
+      "created_at": "2026-08-28T03:32:17Z",
+      "text": "3DGSをメッシュ変換するソフトを近日公開予定です。\nローカル環境で動作し、GPUなども不要です。\n基本無料でどなたでもご利用いただけるように準備しています！\n#3DGS #LichtFeldStudio #3DPrint https://t.co/sRa1MDtV00",
+      "text_en": null,
+      "urls": [
+        "https://t.co/sRa1MDtV00"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 61098
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ArcanaMfg/status/2094648474377839018",
+      "outcome": "ok",
+      "note": "html_bytes=141648 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ArcanaMfg/status/2094648474377839018",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094648474377839018/thread-raw/x-web-dom-20260904T175332Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

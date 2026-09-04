@@ -1,0 +1,36 @@
+{
+  "id": "github-romangojiberryAI-gojiberryai-sales-os",
+  "url": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:45:00Z",
+  "title": "gojiberryai-sales-os",
+  "authors": [
+    "romangojiberryAI"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/gojiberryai/status/2095081419202560010",
+    "https://mcp.gojiberry.ai/mcp"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "github": "romangojiberryAI/gojiberryai-sales-os",
+    "description": "GojiberryAI Sales OS: a full AI outbound team for Grok Bot, powered by the GojiberryAI MCP.",
+    "stargazer_count": 69,
+    "primary_language": null,
+    "license": "MIT",
+    "related_items": [
+      "github-superdesigndev-treg",
+      "web-treg-people-search",
+      "github-LessieAI-people-search-bench",
+      "web-graphed",
+      "web-crowdreply"
+    ],
+    "category_note": "13-agent outbound sales OS on hosted Gojiberry MCP."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2093047548550525165",
+  "tweet_id": "2093047548550525165",
+  "root_author_handle": "louszbd",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 315,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 143,
+  "replies_captured": 3,
+  "replies_relevant": 3,
+  "replies_dropped_unfetched": 312,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093048250643132429",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T18:49:24Z",
+      "text": "@louszbd This is amazing. You need to release assets and prompt.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 132,
+        "replies": 3,
+        "reposts": 0,
+        "views": 25283
+      },
+      "parent_id": "2093047548550525165",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "recipe",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093113084944724231",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T23:07:02Z",
+      "text": "@louszbd Here’s as far as I got. https://t.co/OSmgSKRItJ",
+      "text_en": null,
+      "urls": [
+        "https://t.co/OSmgSKRItJ"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 55,
+        "replies": 1,
+        "reposts": 1,
+        "views": 3265
+      },
+      "parent_id": "2093047548550525165",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093051204519526405",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T19:01:08Z",
+      "text": "@louszbd GLM-5.3-Flash is an excellent model. Running it locally on 4 x RTX 6K Pros with great results. Was using GLM-5.2 locally before and I can see the difference.\n\nIt seems faster and smarter. The vision capabilities are also extremely helpful for my workflows.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 41,
+        "replies": 4,
+        "reposts": 0,
+        "views": 8085
+      },
+      "parent_id": "2093047548550525165",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/louszbd/status/2093047548550525165",
+      "outcome": "ok",
+      "note": "html_bytes=204423 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/louszbd/status/2093047548550525165",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093047548550525165/thread-raw/x-web-dom-20260904T175325Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

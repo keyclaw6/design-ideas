@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2090031918523842766",
+  "tweet_id": "2090031918523842766",
+  "root_author_handle": "emilkowalski",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 53,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 26,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 52,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2090056277367902222",
+      "author_handle": "unknown",
+      "created_at": "2026-08-19T12:40:22Z",
+      "text": "@emilkowalski @expo I like relying on iOS's default animations instead of reinventing them. Also I like the heuristics to decide animations.\n\nI' have strong conviction on these libraries:\n\npulsar(synch) &gt; expo-haptics(async)\nrive &gt; lottie",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 2,
+        "reposts": 0,
+        "views": 4663
+      },
+      "parent_id": "2090031918523842766",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090047490632327630",
+      "author_handle": "emilkowalski",
+      "created_at": "2026-08-19T12:05:27Z",
+      "text": "As always, I'll be sending a few example prompts that work well with this skill later today:\n\nhttps://t.co/DdIT7efTkQ",
+      "text_en": null,
+      "urls": [
+        "https://t.co/DdIT7efTkQ"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 40,
+        "replies": 2,
+        "reposts": 1,
+        "views": 12718
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/emilkowalski/status/2090031918523842766",
+      "outcome": "ok",
+      "note": "html_bytes=212999 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/emilkowalski/status/2090031918523842766",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090031918523842766/thread-raw/x-web-dom-20260904T175314Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

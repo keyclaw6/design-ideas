@@ -1,0 +1,36 @@
+{
+  "id": "github-mengto-skills",
+  "url": "https://github.com/MengTo/Skills",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "Agent Skills (MengTo)",
+  "authors": [
+    "MengTo"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "three-js",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://ui-skills.com",
+    "https://aura.build"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 5734,
+    "forks": 689,
+    "license": "MIT",
+    "language": "HTML",
+    "related_items": [
+      "github-mengto-complete-shelf",
+      "web-aura-build",
+      "github-nateherkai-scroll-craft",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-getlayers-ai"
+    ],
+    "category_note": "MengTo UI/Three.js/GSAP skill pack; video\u2192prompt workflows."
+  }
+}

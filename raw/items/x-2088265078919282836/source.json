@@ -1,0 +1,31 @@
+{
+  "id": "x-2088265078919282836",
+  "url": "https://x.com/titepommee/status/2088265078919282836",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:23Z",
+  "title": "This is a really useful tutorial if you want to learn how to build more advanced Three.js landing pages with Claude Code",
+  "authors": [
+    "@titepommee"
+  ],
+  "topics": [
+    "three-js",
+    "design",
+    "ui-motion",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088265078919282836",
+    "author_handle": "titepommee",
+    "related_items": [
+      "github-mengto-skills",
+      "github-mengto-complete-shelf",
+      "github-oso95-scroll-world",
+      "github-nateherkai-scroll-craft",
+      "github-scottstts-threejs-awesome-graphics-agent-skills"
+    ],
+    "category_note": "Meng To: Three.js landings with Claude Code + Opus 5"
+  }
+}

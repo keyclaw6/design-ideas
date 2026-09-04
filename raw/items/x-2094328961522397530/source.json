@@ -1,0 +1,57 @@
+{
+  "id": "x-2094328961522397530",
+  "url": "https://x.com/chrissyinspace/status/2094328961522397530",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "title": "TinyShelf DR 14\u219246 via directory backlink; TinyShots listed",
+  "authors": [
+    "Christopher Woggon (@chrissyinspace)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/chrissyinspace/status/2093895489364316594",
+    "https://tinyshelf.co",
+    "https://tinyshelf.co/submit",
+    "https://tinyshelf.co/tools/tinyshots",
+    "https://tinyshots.app",
+    "https://www.tinylaunch.com/directories",
+    "https://tinylaunch.com"
+  ],
+  "media": [
+    "media/photo.jpg",
+    "media/quoted-photo.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094328961522397530",
+    "author_handle": "chrissyinspace",
+    "author_id": "2185112773",
+    "author_name": "Christopher Woggon",
+    "created_at": "2026-08-31T07:38:29Z",
+    "likes": 84,
+    "replies": 21,
+    "retweets": 4,
+    "bookmarks": 145,
+    "quotes": 2,
+    "views": 22714,
+    "lang": "en",
+    "is_note_tweet": true,
+    "source_client": "Twitter Web App",
+    "media_id": "2094325075885572096",
+    "media_size": "1426x894",
+    "media_bytes": 44262,
+    "quoted_tweet_id": "2093895489364316594",
+    "quoted_media_id": "2093895483546873856",
+    "quoted_media_size": "718x441",
+    "quoted_media_bytes": 19404,
+    "quoted_created_at": "2026-08-30T02:56:02Z",
+    "quoted_likes": 151,
+    "quoted_replies": 22,
+    "quoted_views": 46735,
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com/fxtwitter.com (x.com jina AbuseAlleviation until 2026-09-02T19:31:55Z); photos via pbs.twimg.com; tinyshelf/tinyshots/tinylaunch via r.jina.ai",
+    "comments_note": "21 replies on parent; 0 visible (fx embed, no reply list). Quoted 2093895489364316594 captured here only (no extra x-* folder); 22 replies there also unlisted. 2 quotes unlisted.",
+    "topics_note": "Directory dofollow / DR play; seo-agents is the SCHEMA SEO slot."
+  }
+}

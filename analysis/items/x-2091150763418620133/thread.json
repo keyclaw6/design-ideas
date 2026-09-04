@@ -1,0 +1,123 @@
+{
+  "schema_version": "1",
+  "id": "x-2091150763418620133",
+  "tweet_id": "2091150763418620133",
+  "root_author_handle": "akshay_pachaar",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 72,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 54,
+  "replies_captured": 3,
+  "replies_relevant": 3,
+  "replies_dropped_unfetched": 69,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091248237675995447",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T19:36:48Z",
+      "text": "@akshay_pachaar Even ornith-1.0-35b-Q4_K_M + locally compiled llama.cpp can reach easily 45-55 t/s\n\nAgain: RTX-5060 mobile 8G VRAM + 32 GB DDR5 on the host, with a Full Ubuntu desktop running with 2 browsers full of tabs, two instances of vscode woking on 2 separate projects, etc... https://t.co/nWu8USiCaC",
+      "text_en": null,
+      "urls": [
+        "https://t.co/nWu8USiCaC"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 10,
+        "replies": 3,
+        "reposts": 2,
+        "views": 2743
+      },
+      "parent_id": "2091150763418620133",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091154607195984225",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T13:24:44Z",
+      "text": "@akshay_pachaar 39 tokens/s on an 8GB card for a 35B model is absurd. If this holds up, Ollama has a real problem.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 10,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1383
+      },
+      "parent_id": "2091150763418620133",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091635736512491960",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T21:16:34Z",
+      "text": "@akshay_pachaar No where did you mention that the testing they completed involved ddr5 9700x and a bm660 with 192gb of ram. \nKind of misleading. \nThe model has to fit inside the ram!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 689
+      },
+      "parent_id": "2091150763418620133",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087928032904523980",
+      "author_handle": "akshay_pachaar",
+      "created_at": "2026-08-13T15:43:29Z",
+      "text": "https://t.co/LZBmYCeFnK",
+      "text_en": null,
+      "urls": [
+        "https://t.co/LZBmYCeFnK"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 733805
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/akshay_pachaar/status/2091150763418620133",
+      "outcome": "ok",
+      "note": "html_bytes=246102 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/akshay_pachaar/status/2091150763418620133",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091150763418620133/thread-raw/x-web-dom-20260904T175316Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

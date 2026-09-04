@@ -1,0 +1,8 @@
+# Graph covers the analysis layer only.
+*
+!analysis/
+!analysis/**
+analysis/_work/
+analysis/**/*.json
+analysis/**/*.jsonl
+graphify-out/

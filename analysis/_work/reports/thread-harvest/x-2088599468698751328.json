@@ -1,0 +1,118 @@
+{
+  "root_id": "2088599468698751328",
+  "reply_count_reported": 47,
+  "quote_count_reported": 8,
+  "tweets": [
+    {
+      "id": "2088599468698751328",
+      "author_handle": null,
+      "created_at": "2026-08-15T12:11:32Z",
+      "text": "Introducing Mono Charts.\n\nA collection of minimal, animated chart components for React.\n\nNow you can add beautiful, interactive charts to your app with a single CLI command. ✨\n\nPart of Amicro.\nOpen source.\n\nTry it: https://t.co/kgtLAWN1ZV https://t.co/ENFsWvjtWU",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2605,
+        "replies": 47,
+        "reposts": 184,
+        "views": 177829,
+        "quotes": 8
+      },
+      "urls": [
+        "https://t.co/kgtLAWN1ZV",
+        "https://t.co/ENFsWvjtWU"
+      ]
+    },
+    {
+      "id": "2088599471051747538",
+      "author_handle": null,
+      "created_at": "2026-08-15T12:11:32Z",
+      "text": "Github with 1.5k+ stars :\nhttps://t.co/RkZmW57stR",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 19,
+        "replies": 0,
+        "reposts": 0,
+        "views": 4108,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/RkZmW57stR"
+      ]
+    },
+    {
+      "id": "2088632691302498528",
+      "author_handle": null,
+      "created_at": "2026-08-15T14:23:33Z",
+      "text": "Cc : @benjitaylor @davidhdev @ShruPosts please take a look at my open source mono charts project",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2260,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2089038621064257891",
+      "author_handle": null,
+      "created_at": "2026-08-16T17:16:34Z",
+      "text": "Cc : @shadcn take a look at this open source mono charts",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 948,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2089769013434089501",
+      "author_handle": null,
+      "created_at": "2026-08-18T17:38:53Z",
+      "text": "Take a look at this @benjitaylor u'll love it",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 343,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088638127892291804",
+      "author_handle": null,
+      "created_at": "2026-08-15T14:45:09Z",
+      "text": "@SubhanHQ impressive @SubhanHQ please fix the \"more\" tab navigation, add padding after the chevron 😎 https://t.co/8jbkFFAUzu",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 777,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/8jbkFFAUzu"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088599468698751328",
+    "2088599471051747538",
+    "2088632691302498528",
+    "2088638127892291804",
+    "2089038621064257891",
+    "2089769013434089501"
+  ],
+  "item_id": "x-2088599468698751328",
+  "handle": "SubhanHQ",
+  "http_status": 200,
+  "url": "https://x.com/SubhanHQ/status/2088599468698751328",
+  "html_bytes": 264951,
+  "raw_path": "raw/items/x-2088599468698751328/thread-raw/x-web-dom-20260904T175311Z.html"
+}

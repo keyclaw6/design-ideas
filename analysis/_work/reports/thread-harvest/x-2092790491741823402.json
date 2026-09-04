@@ -1,0 +1,83 @@
+{
+  "root_id": "2092790491741823402",
+  "reply_count_reported": 94,
+  "quote_count_reported": 38,
+  "tweets": [
+    {
+      "id": "2092790491741823402",
+      "author_handle": null,
+      "created_at": "2026-08-27T01:45:10Z",
+      "text": "BREAKING: 90% off GLM 5.3 Flash, starting today.\n\nIn Merge Gateway through end of September: $0.012 in, $0.04 out, $0.003 cached, per million tokens.\n\nThe model scores 57 out of 100 on the Artificial Analysis Intelligence Index. Everything else scoring 55 or above costs at least https://t.co/2dxO8WRqEk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 902,
+        "replies": 94,
+        "reposts": 53,
+        "views": 306595,
+        "quotes": 38
+      },
+      "urls": [
+        "https://t.co/2dxO8WRqEk"
+      ]
+    },
+    {
+      "id": "2092819560034636185",
+      "author_handle": null,
+      "created_at": "2026-08-27T03:40:40Z",
+      "text": "@merge_api how heavy is the quant? and the pricing is not updated https://t.co/dbC51jktSo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 9,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2751,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/dbC51jktSo"
+      ]
+    },
+    {
+      "id": "2092843666213593337",
+      "author_handle": null,
+      "created_at": "2026-08-27T05:16:27Z",
+      "text": "@merge_api excuse me can i use a trillion tokens?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1253,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092862064910074030",
+      "author_handle": null,
+      "created_at": "2026-08-27T06:29:34Z",
+      "text": "@merge_api YES glad this is live!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1404,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092790491741823402",
+    "2092819560034636185",
+    "2092843666213593337",
+    "2092862064910074030"
+  ],
+  "item_id": "x-2092790491741823402",
+  "handle": "merge_api",
+  "http_status": 200,
+  "url": "https://x.com/merge_api/status/2092790491741823402",
+  "html_bytes": 189166,
+  "raw_path": "raw/items/x-2092790491741823402/thread-raw/x-web-dom-20260904T175323Z.html"
+}

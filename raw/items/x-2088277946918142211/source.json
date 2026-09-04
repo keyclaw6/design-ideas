@@ -1,0 +1,29 @@
+{
+  "id": "x-2088277946918142211",
+  "url": "https://x.com/10_X_eng/status/2088277946918142211",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:28Z",
+  "title": "More VibeCAD work on the exploded views and simulations. I honestly think this is getting to the place where its very de",
+  "authors": [
+    "RobitOverload (@10_X_eng)"
+  ],
+  "topics": [
+    "agent-skills",
+    "keyboard-pcb"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088277946918142211",
+    "author_handle": "10_X_eng",
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2088252062454751483",
+      "x-2088296314484162719",
+      "x-2088308976278790258",
+      "x-2087272209429766596"
+    ],
+    "category_note": "VibeCAD exploded views + sims (prompt not in capture)"
+  }
+}

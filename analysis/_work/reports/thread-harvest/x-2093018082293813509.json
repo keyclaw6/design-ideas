@@ -1,0 +1,68 @@
+{
+  "root_id": "2093018082293813509",
+  "reply_count_reported": 45,
+  "quote_count_reported": 27,
+  "tweets": [
+    {
+      "id": "2093018082293813509",
+      "author_handle": null,
+      "created_at": "2026-08-27T16:49:31Z",
+      "text": "Mesh cleanup, UV unwrapping, and texture baking are live on Customuse.\n\nAI gives you amazing meshes with messy topology and broken UVs. \n\nNot good enough for production.\n\nNow: generate → clean → unwrap → bake. All in one place.\n\nLive now. https://t.co/vZkaNBQe6Z",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 533,
+        "replies": 45,
+        "reposts": 68,
+        "views": 108244,
+        "quotes": 27
+      },
+      "urls": [
+        "https://t.co/vZkaNBQe6Z"
+      ]
+    },
+    {
+      "id": "2093018085313712397",
+      "author_handle": null,
+      "created_at": "2026-08-27T16:49:32Z",
+      "text": "Try it now on https://t.co/QYIr8SS7ZD https://t.co/HkpqUPCcLH",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 19,
+        "replies": 1,
+        "reposts": 1,
+        "views": 10193,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/QYIr8SS7ZD",
+        "https://t.co/HkpqUPCcLH"
+      ]
+    },
+    {
+      "id": "2093019736628171234",
+      "author_handle": null,
+      "created_at": "2026-08-27T16:56:06Z",
+      "text": "@customuse Is the UV unwrapping part fully automated, or can you still control how the UVs are laid out?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1721,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093018082293813509",
+    "2093018085313712397",
+    "2093019736628171234"
+  ],
+  "item_id": "x-2093018082293813509",
+  "handle": "customuse",
+  "http_status": 200,
+  "url": "https://x.com/customuse/status/2093018082293813509",
+  "html_bytes": 164188,
+  "raw_path": "raw/items/x-2093018082293813509/thread-raw/x-web-dom-20260904T175324Z.html"
+}

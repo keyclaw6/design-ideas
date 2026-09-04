@@ -1,0 +1,101 @@
+{
+  "root_id": "2094688982940741816",
+  "reply_count_reported": 13,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2094688982940741816",
+      "author_handle": null,
+      "created_at": "2026-09-01T07:29:05Z",
+      "text": "Submit your website to Brave Search.\n\nYou will thank me later... https://t.co/jH2xsLSvQM",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 383,
+        "replies": 13,
+        "reposts": 14,
+        "views": 47268,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/jH2xsLSvQM"
+      ]
+    },
+    {
+      "id": "2093964632562253866",
+      "author_handle": null,
+      "created_at": "2026-08-30T07:30:47Z",
+      "text": "If your website is not on Brave yet,\n\nThen just follow this:\n\n1. Go to search∙brave∙com/submit-url.\n2. Enter your website URL now.\n3. Press the Submit button.\n\nYour site will appear in Search... https://t.co/4mxjWOeJZx",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 71576,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/4mxjWOeJZx"
+      ]
+    },
+    {
+      "id": "2094814530492666081",
+      "author_handle": null,
+      "created_at": "2026-09-01T15:47:58Z",
+      "text": "@hridoyreh Great Tip",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 119,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094874214797132266",
+      "author_handle": null,
+      "created_at": "2026-09-01T19:45:08Z",
+      "text": "@hridoyreh Thanks for the hack",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 131,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095147743270617218",
+      "author_handle": null,
+      "created_at": "2026-09-02T13:52:02Z",
+      "text": "@hridoyreh Just did thanks! https://t.co/P7pufneWDg",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 12,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/P7pufneWDg"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2093964632562253866",
+    "2094688982940741816",
+    "2094814530492666081",
+    "2094874214797132266",
+    "2095147743270617218"
+  ],
+  "item_id": "x-2094688982940741816",
+  "handle": "hridoyreh",
+  "http_status": 200,
+  "url": "https://x.com/hridoyreh/status/2094688982940741816",
+  "html_bytes": 195871,
+  "raw_path": "raw/items/x-2094688982940741816/thread-raw/x-web-dom-20260904T175333Z.html"
+}

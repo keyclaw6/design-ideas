@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2090930324817498246",
+  "tweet_id": "2090930324817498246",
+  "root_author_handle": "Hesamation",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 32,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 6,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 29,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091076800545767840",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T08:15:34Z",
+      "text": "@Hesamation Yeah, you just need 192GB of RAM to hold the model. It’s bullshit",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 15,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1166
+      },
+      "parent_id": "2090930324817498246",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2090965356823085474",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T00:52:43Z",
+      "text": "@Hesamation minecraft benchmark goes crazy",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 13,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2677
+      },
+      "parent_id": "2090930324817498246",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2090999933180563827",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T03:10:07Z",
+      "text": "@Hesamation the hardware range here is probably the craziest part\n\naccording to the FreeToken benchmarks:\n\n8GB RTX 4060 laptop → Qwen3.6-35B at 39.3 tok/s\nRTX 5090 desktop → DeepSeek-V4-Flash 284B at ~22-25 tok/s\nRTX PRO 6000 workstation → GLM-5.2 753B at ~15 tok/s\n\nso we're now at the",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1381
+      },
+      "parent_id": "2090930324817498246",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Hesamation/status/2090930324817498246",
+      "outcome": "ok",
+      "note": "html_bytes=222019 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Hesamation/status/2090930324817498246",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090930324817498246/thread-raw/x-web-dom-20260904T175315Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

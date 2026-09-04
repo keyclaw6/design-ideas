@@ -1,0 +1,50 @@
+{
+  "root_id": "2091943679317463153",
+  "reply_count_reported": 0,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2091943679317463153",
+      "author_handle": null,
+      "created_at": "2026-08-24T17:40:14Z",
+      "text": "SplatPaint is a real-time browser-based creative sandbox for Gaussian Splats: paint, sculpt, recolor, relight, deform, animate, and layer wicked particle system FX.\n\nYou don’t even need a splat asset to begin. Grab an image, logo, or 3D model, convert it into splats (inside",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 21,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2271,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091942687704293698",
+      "author_handle": null,
+      "created_at": "1970-01-21T16:33:12Z",
+      "text": "Create splat art from a single image. No splat assets needed. SplatPaint turns images into volumetric splats in seconds, then lets you deform them, stack real-time FX, and copy/paste looks between assets. \n\nFree for 48 hours:\n https://t.co/97HeExXaA9 https://t.co/vxdbJZTiez",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/97HeExXaA9",
+        "https://t.co/vxdbJZTiez"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2091942687704293698",
+    "2091943679317463153"
+  ],
+  "item_id": "x-2091943679317463153",
+  "handle": "SpenserFX",
+  "http_status": 200,
+  "url": "https://x.com/SpenserFX/status/2091943679317463153",
+  "html_bytes": 128802,
+  "raw_path": "raw/items/x-2091943679317463153/thread-raw/x-web-dom-20260904T175320Z.html"
+}

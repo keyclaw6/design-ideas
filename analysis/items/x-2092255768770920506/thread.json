@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2092255768770920506",
+  "tweet_id": "2092255768770920506",
+  "root_author_handle": "higgsfield",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 158,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 107,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 157,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092270674777968794",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T15:19:36Z",
+      "text": "@higgsfield Bullshit promo again",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 77,
+        "replies": 0,
+        "reposts": 0,
+        "views": 3877
+      },
+      "parent_id": "2092255768770920506",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2092255771245621275",
+      "author_handle": "higgsfield",
+      "created_at": "2026-08-25T14:20:22Z",
+      "text": "Try Higgsfield in Blender now:\nhttps://t.co/YdgbG0Hmfm",
+      "text_en": null,
+      "urls": [
+        "https://t.co/YdgbG0Hmfm"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 60,
+        "replies": 4,
+        "reposts": 5,
+        "views": 20918
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/higgsfield/status/2092255768770920506",
+      "outcome": "ok",
+      "note": "html_bytes=187126 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/higgsfield/status/2092255768770920506",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092255768770920506/thread-raw/x-web-dom-20260904T175322Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

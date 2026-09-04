@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2087346803268260043",
+  "tweet_id": "2087346803268260043",
+  "root_author_handle": "aaronvi",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 21,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 5,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 18,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087432065843085635",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T06:52:41Z",
+      "text": "@aaronvi You need to add a rule somewhere to tell it to stop making current document an archeological dumping site. \n\nWhen a fresh agent or a person reads a document, they don’t care about what the previous document looked like or did. It’s confusing and you’ll continue to have poor slop",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 85,
+        "replies": 2,
+        "reposts": 0,
+        "views": 8310
+      },
+      "parent_id": "2087346803268260043",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2087390932006281480",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T04:09:14Z",
+      "text": "@aaronvi Slop is not solved. In large code bases AI performs at a very junior level.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 16,
+        "replies": 4,
+        "reposts": 0,
+        "views": 7547
+      },
+      "parent_id": "2087346803268260043",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087421855129079821",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T06:12:07Z",
+      "text": "@aaronvi is this &gt; ASD-STE100?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 15,
+        "replies": 1,
+        "reposts": 0,
+        "views": 11349
+      },
+      "parent_id": "2087346803268260043",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/aaronvi/status/2087346803268260043",
+      "outcome": "ok",
+      "note": "html_bytes=184678 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/aaronvi/status/2087346803268260043",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087346803268260043/thread-raw/x-web-dom-20260904T175305Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

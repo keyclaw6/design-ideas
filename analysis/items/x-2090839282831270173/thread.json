@@ -1,0 +1,80 @@
+{
+  "schema_version": "1",
+  "id": "x-2090839282831270173",
+  "tweet_id": "2090839282831270173",
+  "root_author_handle": "RadianceFields",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 3,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091416276048523640",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T06:44:31Z",
+      "text": "@RadianceFields @PixelBilly @arrival_space_ @grok can you create a tutorial for this?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 86
+      },
+      "parent_id": "2090839282831270173",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "fact-check",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090839284454473823",
+      "author_handle": "RadianceFields",
+      "created_at": "2026-08-21T16:31:45Z",
+      "text": "Article: https://t.co/bMoWTkvFup\nTry it: https://t.co/F10DhXNKSS",
+      "text_en": null,
+      "urls": [
+        "https://t.co/bMoWTkvFup",
+        "https://t.co/F10DhXNKSS"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 828
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/RadianceFields/status/2090839282831270173",
+      "outcome": "ok",
+      "note": "html_bytes=186703 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/RadianceFields/status/2090839282831270173",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090839282831270173/thread-raw/x-web-dom-20260904T175315Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

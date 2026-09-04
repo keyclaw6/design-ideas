@@ -1,0 +1,81 @@
+{
+  "root_id": "2091913781236683162",
+  "reply_count_reported": 6,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2091913781236683162",
+      "author_handle": null,
+      "created_at": "2026-08-24T15:41:25Z",
+      "text": "Magnific 3D Motion is insanely cool.\n\nGenerate an entire 3D space, control the camera motion around it.\n\nExport the 3D motion and use it as a reference for Seedance 2.5!\n\nThen you can build a brand new scene that follows the movement.\n\nQuick demo here: https://t.co/cZVSfdhCiE",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 94,
+        "replies": 6,
+        "reposts": 10,
+        "views": 7254,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/cZVSfdhCiE"
+      ]
+    },
+    {
+      "id": "2091929245874364422",
+      "author_handle": null,
+      "created_at": "2026-08-24T16:42:53Z",
+      "text": "@jerrod_lew Dope, time to build some scenes out in After effects.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 140,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092036362467738061",
+      "author_handle": null,
+      "created_at": "2026-08-24T23:48:31Z",
+      "text": "@jerrod_lew The same motion scene can be built using Blender as well. Once major difference is, Blender is free.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 104,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092223433446948998",
+      "author_handle": null,
+      "created_at": "2026-08-25T12:11:52Z",
+      "text": "@jerrod_lew this is a great tip for creators. don’t just prompt the final shot. build the movement first, then generate around it.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 95,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091913781236683162",
+    "2091929245874364422",
+    "2092036362467738061",
+    "2092223433446948998"
+  ],
+  "item_id": "x-2091913781236683162",
+  "handle": "jerrod_lew",
+  "http_status": 200,
+  "url": "https://x.com/jerrod_lew/status/2091913781236683162",
+  "html_bytes": 186513,
+  "raw_path": "raw/items/x-2091913781236683162/thread-raw/x-web-dom-20260904T175320Z.html"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "x-2089740155179643231",
+  "url": "https://x.com/radiumcoders/status/2089740155179643231",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:36Z",
+  "title": "Whatttt this existed, why no one showed me this yet, https://23rd.dev",
+  "authors": [
+    "@radiumcoders"
+  ],
+  "topics": [
+    "design",
+    "ui-motion",
+    "three-js"
+  ],
+  "related_urls": [
+    "https://23rd.dev",
+    "https://github.com/radiumcoders/23rd.dev"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2089740155179643231",
+    "author_handle": "radiumcoders",
+    "category_note": "23rd.dev — opinionated shadcn registry (shaders, backgrounds, motion).",
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "x-2089263766428950683",
+      "github-nexu-io-open-design"
+    ]
+  }
+}

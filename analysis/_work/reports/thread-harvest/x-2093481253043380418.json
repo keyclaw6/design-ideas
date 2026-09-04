@@ -1,0 +1,99 @@
+{
+  "root_id": "2093481253043380418",
+  "reply_count_reported": 3,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2093481253043380418",
+      "author_handle": null,
+      "created_at": "2026-08-28T23:30:00Z",
+      "text": "This is what faceless video creation should look like.\n\nYou have an idea.\n\nCalliope turns it into a complete 2D video.\n\nOne idea → script → characters → 2D animation → voiceover → finished video.\n\nNo animation experience required.\n\nJust bring the idea. https://t.co/PYB8guPJR5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 232,
+        "replies": 3,
+        "reposts": 25,
+        "views": 20142,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/PYB8guPJR5"
+      ]
+    },
+    {
+      "id": "2093118868092748246",
+      "author_handle": null,
+      "created_at": "2026-08-27T23:30:01Z",
+      "text": "This is crazy.\n\n266K views in 10 days.\n\nFrom a channel with JUST 1.95K subscribers.\n\nAnd look at how simple the video is.\n\n→ One question people instantly get curious about\n→ Simple 2D visuals\n→ Faceless storytelling\n→ A topic that feels surprisingly relatable\n\nAnd there are https://t.co/MOucNy6l7P",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 25281,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/MOucNy6l7P"
+      ]
+    },
+    {
+      "id": "2093744675689472168",
+      "author_handle": null,
+      "created_at": "2026-08-29T16:56:45Z",
+      "text": "@CalliopeLabsyt Deepseek v4 flash, el edita por mi en premiere, el hace con el api de openai las imagenes, hace la voz en off con elevenlabs, carga todo a premiere, edita, exporta, eso si, para subir y programar lo hago yo! estoy semi automatico, el 100% del trabajo pesado y aburrido lo hace el",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 2,
+        "reposts": 0,
+        "views": 229,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093738976603484623",
+      "author_handle": null,
+      "created_at": "2026-08-29T16:34:06Z",
+      "text": "@CalliopeLabsyt how many credits would this have taken",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 164,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093663518079828289",
+      "author_handle": null,
+      "created_at": "2026-08-29T11:34:15Z",
+      "text": "@CalliopeLabsyt do you use any skills to master script generation? ai can't generate cool scripts without proper instructions",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 410,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093118868092748246",
+    "2093481253043380418",
+    "2093663518079828289",
+    "2093738976603484623",
+    "2093744675689472168"
+  ],
+  "item_id": "x-2093481253043380418",
+  "handle": "CalliopeLabsyt",
+  "http_status": 200,
+  "url": "https://x.com/CalliopeLabsyt/status/2093481253043380418",
+  "html_bytes": 213311,
+  "raw_path": "raw/items/x-2093481253043380418/thread-raw/x-web-dom-20260904T175327Z.html"
+}

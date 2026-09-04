@@ -1,0 +1,50 @@
+{
+  "root_id": "2093256024635666465",
+  "reply_count_reported": 1,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093256024635666465",
+      "author_handle": null,
+      "created_at": "2026-08-28T08:35:01Z",
+      "text": "【note更新しました📢】\n本日は「Blenderチュートリアル動画まとめ」から\n『崖の上のポニョのファンムービーの制作過程をタイムラプスで大公開！』\n（原題：Ponyo and Sosuke | Fan Art Timelapse）\nをご紹介します👀\n紹介記事：https://t.co/U8VHOTjlKr\n著者：trungduyng様（@trungduyng） https://t.co/Yjs0c9oirp",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 409,
+        "replies": 1,
+        "reposts": 35,
+        "views": 14087,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/U8VHOTjlKr",
+        "https://t.co/Yjs0c9oirp"
+      ]
+    },
+    {
+      "id": "2093336843089523159",
+      "author_handle": null,
+      "created_at": "2026-08-28T13:56:10Z",
+      "text": "@AcarcaneCG @trungduyng Beautiful! 🥰",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 84,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093256024635666465",
+    "2093336843089523159"
+  ],
+  "item_id": "x-2093256024635666465",
+  "handle": "AcarcaneCG",
+  "http_status": 200,
+  "url": "https://x.com/AcarcaneCG/status/2093256024635666465",
+  "html_bytes": 141060,
+  "raw_path": "raw/items/x-2093256024635666465/thread-raw/x-web-dom-20260904T175326Z.html"
+}

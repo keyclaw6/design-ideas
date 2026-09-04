@@ -1,0 +1,70 @@
+{
+  "root_id": "2090834948332655011",
+  "reply_count_reported": 56,
+  "quote_count_reported": 28,
+  "tweets": [
+    {
+      "id": "2090834948332655011",
+      "author_handle": null,
+      "created_at": "2026-08-21T16:14:32Z",
+      "text": "Post got a lot of traction, so I made a rank with the anti-slop skills people need to install.\n\n1. stop-slop - @hvpandya\n https://t.co/fwum2sgv7b\n\n2. no-ai-slop - @petergyang\n https://t.co/uhXJhn2yj3\n\n3. humanizer - @blader\n https://t.co/u7N5iXdgIN\n\n4. unslop - @poteto https://t.co/0kwtaGPTYZ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3529,
+        "replies": 56,
+        "reposts": 300,
+        "views": 591417,
+        "quotes": 28
+      },
+      "urls": [
+        "https://t.co/fwum2sgv7b",
+        "https://t.co/uhXJhn2yj3",
+        "https://t.co/u7N5iXdgIN",
+        "https://t.co/0kwtaGPTYZ"
+      ]
+    },
+    {
+      "id": "2090834951235088891",
+      "author_handle": null,
+      "created_at": "2026-08-21T16:14:32Z",
+      "text": "which ones am i missing?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 5,
+        "reposts": 0,
+        "views": 7739,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090863864338374966",
+      "author_handle": null,
+      "created_at": "2026-08-21T18:09:26Z",
+      "text": "@juampitech @hvpandya @petergyang @blader @poteto you’re missing the god tier anti-slop rules by @dillon_mulroy \n\nhttps://t.co/ahxVotKMMy",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 31,
+        "replies": 2,
+        "reposts": 2,
+        "views": 4885,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ahxVotKMMy"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2090834948332655011",
+    "2090834951235088891",
+    "2090863864338374966"
+  ],
+  "item_id": "x-2090834948332655011",
+  "handle": "juampitech",
+  "http_status": 200,
+  "url": "https://x.com/juampitech/status/2090834948332655011",
+  "html_bytes": 289856,
+  "raw_path": "raw/items/x-2090834948332655011/thread-raw/x-web-dom-20260904T175315Z.html"
+}

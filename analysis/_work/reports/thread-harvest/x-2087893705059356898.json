@@ -1,0 +1,31 @@
+{
+  "root_id": "2087893705059356898",
+  "reply_count_reported": 0,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2087893705059356898",
+      "author_handle": null,
+      "created_at": "2026-08-13T13:27:05Z",
+      "text": "It is live and free to download... \n\nA full 44-page guide on the exact sales framework for $20k-$100k+ freelancer or agency deals.\n\nThis is THE way to sell design, development, branding etc.\n\nI've used it to close $3.5m in deals. My students use it to close millions each month.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 342,
+        "replies": 0,
+        "reposts": 13,
+        "views": 2421213,
+        "quotes": 4
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087893705059356898"
+  ],
+  "item_id": "x-2087893705059356898",
+  "handle": "theroborourke",
+  "http_status": 200,
+  "url": "https://x.com/theroborourke/status/2087893705059356898",
+  "html_bytes": 105924,
+  "raw_path": "raw/items/x-2087893705059356898/thread-raw/x-web-dom-20260904T175307Z.html"
+}

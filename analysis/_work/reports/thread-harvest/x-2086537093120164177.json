@@ -1,0 +1,67 @@
+{
+  "root_id": "2086537093120164177",
+  "reply_count_reported": 24,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2086537093120164177",
+      "author_handle": null,
+      "created_at": "2026-08-09T19:36:23Z",
+      "text": "Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) 🚀\n\nI finally figured out how to steer  Opus 5 into creating precise, high-detail, fully interactive 3D models.\n\nPrompt/method in comments! ⬇️⬇️⬇️\n\nResult: this terrain vehicle that https://t.co/FIqKBvxCeQ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 250,
+        "replies": 24,
+        "reposts": 12,
+        "views": 21146,
+        "quotes": 5
+      },
+      "urls": [
+        "https://t.co/FIqKBvxCeQ"
+      ]
+    },
+    {
+      "id": "2086537094890148241",
+      "author_handle": null,
+      "created_at": "2026-08-09T19:36:24Z",
+      "text": "1) This is a fully generated mesh - no 3D model such as  Tripo or Hunyuan was used. Fully coded by Opus.\n\n2) Set context window to 300k tokens\n\n2) Use Blender python API to send instructions - tell Opus to:\n\n\"Read stride.html (linked file with vehicle specs and what it should do",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 44,
+        "replies": 1,
+        "reposts": 2,
+        "views": 2134,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2086558057589334327",
+      "author_handle": null,
+      "created_at": "2026-08-09T20:59:41Z",
+      "text": "@startracker Opus is the goat in terms of 3d modeling. currently making a fully interactable tank with it lol https://t.co/e52sosOqMo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 13,
+        "replies": 1,
+        "reposts": 2,
+        "views": 961,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/e52sosOqMo"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2086537093120164177",
+    "2086537094890148241",
+    "2086558057589334327"
+  ],
+  "item_id": "x-2086537093120164177",
+  "handle": "startracker",
+  "http_status": 200,
+  "url": "https://x.com/startracker/status/2086537093120164177",
+  "html_bytes": 170266,
+  "raw_path": "raw/items/x-2086537093120164177/thread-raw/x-web-dom-20260904T175302Z.html"
+}

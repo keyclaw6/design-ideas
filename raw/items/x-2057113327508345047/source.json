@@ -1,0 +1,32 @@
+{
+  "id": "x-2057113327508345047",
+  "url": "https://x.com/kokraf3d/status/2057113327508345047",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:07:41Z",
+  "title": "I'm working on a one-click AI-generated texturing feature for 3D models. I render the model from four sides and project ",
+  "authors": [
+    "@kokraf3d"
+  ],
+  "topics": [
+    "three-js",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/sengchor/kokraf"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2057113327508345047",
+    "author_handle": "kokraf3d",
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-skills",
+      "web-oryzo-ai",
+      "x-2086599657925329347"
+    ],
+    "category_note": "Four-view AI texture projection onto Three.js meshes (kokraf). Useful for product/BESS mesh lookdev."
+  }
+}

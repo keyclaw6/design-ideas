@@ -1,0 +1,77 @@
+{
+  "schema_version": "1",
+  "id": "x-2090837707069014224",
+  "tweet_id": "2090837707069014224",
+  "root_author_handle": "_can1357",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 68,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 44,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 67,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2090839581251797044",
+      "author_handle": "unknown",
+      "created_at": "2026-08-21T16:32:56Z",
+      "text": "@_can1357 I'd halfmost have gatekept this but the people need to know",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 98,
+        "replies": 1,
+        "reposts": 0,
+        "views": 28349
+      },
+      "parent_id": "2090837707069014224",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090846367824363850",
+      "author_handle": "_can1357",
+      "created_at": "2026-08-21T16:59:54Z",
+      "text": "* im sure some of the edge gateways are smarter and check TLS fingerprints etc. -&gt; table above doesn't reflect all you can do w/ it as I didn't try that hard\npoint is more so that it seems no one adopted the signed bots thingy CF came up with and you can 100% roleplay as clawd",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 177,
+        "replies": 2,
+        "reposts": 1,
+        "views": 36075
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/_can1357/status/2090837707069014224",
+      "outcome": "ok",
+      "note": "html_bytes=149974 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/_can1357/status/2090837707069014224",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090837707069014224/thread-raw/x-web-dom-20260904T175315Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

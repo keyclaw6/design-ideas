@@ -1,0 +1,67 @@
+{
+  "root_id": "2093421870951387625",
+  "reply_count_reported": 3,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2093421870951387625",
+      "author_handle": null,
+      "created_at": "2026-08-28T19:34:02Z",
+      "text": "BQR is an absolute GAME-CHANGER for hard surface modeling! 🔥Clean quad topology with native modifiers\" after booleans? That's the holy grail of hard surface workflow! No more messy cleanup! ⚡\n\n#Blender #B3D #HardSurface #BlenderAddon #QuadTopology #NonDestructive #3DModeling https://t.co/JwAjkvDody",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 107,
+        "replies": 3,
+        "reposts": 9,
+        "views": 7893,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/JwAjkvDody"
+      ]
+    },
+    {
+      "id": "2093421872763273348",
+      "author_handle": null,
+      "created_at": "2026-08-28T19:34:03Z",
+      "text": "https://t.co/9FOIQmC9DK",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 665,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/9FOIQmC9DK"
+      ]
+    },
+    {
+      "id": "2093643736324431913",
+      "author_handle": null,
+      "created_at": "2026-08-29T10:15:39Z",
+      "text": "@3DxDEV7 Looks to be useful for remesh ripped triangulated models from games",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 119,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093421870951387625",
+    "2093421872763273348",
+    "2093643736324431913"
+  ],
+  "item_id": "x-2093421870951387625",
+  "handle": "3DxDEV7",
+  "http_status": 200,
+  "url": "https://x.com/3DxDEV7/status/2093421870951387625",
+  "html_bytes": 176494,
+  "raw_path": "raw/items/x-2093421870951387625/thread-raw/x-web-dom-20260904T175327Z.html"
+}

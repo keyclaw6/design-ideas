@@ -1,0 +1,57 @@
+{
+  "schema_version": "1",
+  "id": "x-2095368133070700884",
+  "tweet_id": "2095368133070700884",
+  "root_author_handle": "_heyfaisal",
+  "status": "failed",
+  "author_thread_status": "unknown",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 1,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [
+    {
+      "id": "2095368170379116755",
+      "author_handle": "_heyfaisal",
+      "created_at": "2026-09-03T04:27:56Z",
+      "text": "https://t.co/qlVOgcGt83",
+      "text_en": null,
+      "urls": [
+        "https://t.co/qlVOgcGt83"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 385
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/_heyfaisal/status/2095368133070700884",
+      "outcome": "ok",
+      "note": "html_bytes=149013 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/_heyfaisal/status/2095368133070700884",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095368133070700884/thread-raw/x-web-dom-20260904T175338Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

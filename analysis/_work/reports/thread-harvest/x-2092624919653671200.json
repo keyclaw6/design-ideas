@@ -1,0 +1,67 @@
+{
+  "root_id": "2092624919653671200",
+  "reply_count_reported": 5,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2092624919653671200",
+      "author_handle": null,
+      "created_at": "2026-08-26T14:47:14Z",
+      "text": "who made the https://t.co/vhA3Coqe3P website????\n\nidk what an ERP is, but god those illustrations look nice",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 99,
+        "replies": 5,
+        "reposts": 1,
+        "views": 17148,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/vhA3Coqe3P"
+      ]
+    },
+    {
+      "id": "2092678282445455580",
+      "author_handle": null,
+      "created_at": "2026-08-26T18:19:17Z",
+      "text": "@bedesqui ERP is like managing bank accounts and payments or smt",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 396,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092708704756089046",
+      "author_handle": null,
+      "created_at": "2026-08-26T20:20:10Z",
+      "text": "@bedesqui @ZajnoCrew did it\n\nhttps://t.co/qDLkfRNF9d",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 693,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/qDLkfRNF9d"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2092624919653671200",
+    "2092678282445455580",
+    "2092708704756089046"
+  ],
+  "item_id": "x-2092624919653671200",
+  "handle": "bedesqui",
+  "http_status": 200,
+  "url": "https://x.com/bedesqui/status/2092624919653671200",
+  "html_bytes": 197328,
+  "raw_path": "raw/items/x-2092624919653671200/thread-raw/x-web-dom-20260904T175322Z.html"
+}

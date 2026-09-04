@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2092790491741823402",
+  "tweet_id": "2092790491741823402",
+  "root_author_handle": "merge_api",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 94,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 38,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 91,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092819560034636185",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T03:40:40Z",
+      "text": "@merge_api how heavy is the quant? and the pricing is not updated https://t.co/dbC51jktSo",
+      "text_en": null,
+      "urls": [
+        "https://t.co/dbC51jktSo"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 9,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2751
+      },
+      "parent_id": "2092790491741823402",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2092843666213593337",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T05:16:27Z",
+      "text": "@merge_api excuse me can i use a trillion tokens?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1253
+      },
+      "parent_id": "2092790491741823402",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2092862064910074030",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T06:29:34Z",
+      "text": "@merge_api YES glad this is live!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1404
+      },
+      "parent_id": "2092790491741823402",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/merge_api/status/2092790491741823402",
+      "outcome": "ok",
+      "note": "html_bytes=189166 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/merge_api/status/2092790491741823402",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092790491741823402/thread-raw/x-web-dom-20260904T175323Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,50 @@
+{
+  "root_id": "2087329201451855933",
+  "reply_count_reported": 1,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087329201451855933",
+      "author_handle": null,
+      "created_at": "2026-08-12T00:03:56Z",
+      "text": "Pretty-Mermaid Skills renders Mermaid diagrams as beautiful SVGs or ASCII art with zero DOM dependencies.\n\nhttps://t.co/aJKGIRkG25 https://t.co/r9EvWL3ByX",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 289,
+        "replies": 1,
+        "reposts": 42,
+        "views": 13611,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/aJKGIRkG25",
+        "https://t.co/r9EvWL3ByX"
+      ]
+    },
+    {
+      "id": "2087368446514270659",
+      "author_handle": null,
+      "created_at": "2026-08-12T02:39:53Z",
+      "text": "@tom_doerr does it handle complex nested diagrams without getting cramped?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 416,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087329201451855933",
+    "2087368446514270659"
+  ],
+  "item_id": "x-2087329201451855933",
+  "handle": "tom_doerr",
+  "http_status": 200,
+  "url": "https://x.com/tom_doerr/status/2087329201451855933",
+  "html_bytes": 124693,
+  "raw_path": "raw/items/x-2087329201451855933/thread-raw/x-web-dom-20260904T175305Z.html"
+}

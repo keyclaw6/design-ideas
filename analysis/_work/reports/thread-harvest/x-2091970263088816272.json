@@ -1,0 +1,87 @@
+{
+  "root_id": "2091970263088816272",
+  "reply_count_reported": 22,
+  "quote_count_reported": 8,
+  "tweets": [
+    {
+      "id": "2091970263088816272",
+      "author_handle": null,
+      "created_at": "2026-08-24T19:25:52Z",
+      "text": "Introducing 𝙨𝙚𝙨𝙨𝙞𝙤𝙣-𝙢𝙞𝙜𝙧𝙖𝙩𝙚, a tool for migrating coding agent sessions across Claude Code, Codex, Pi, OpenCode, and more.\n\nIf you started in Claude but ran of usage, you can now convert your session to another harness in one command: \nhttps://t.co/4OHb0BZhB5 https://t.co/b8nZ8t9buj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 248,
+        "replies": 22,
+        "reposts": 30,
+        "views": 28682,
+        "quotes": 8
+      },
+      "urls": [
+        "https://t.co/4OHb0BZhB5",
+        "https://t.co/b8nZ8t9buj"
+      ]
+    },
+    {
+      "id": "2091970265194316269",
+      "author_handle": null,
+      "created_at": "2026-08-24T19:25:52Z",
+      "text": "Don't want to use the CLI? \n\nJust ask your agent to do it: \"Follow https://t.co/HZ5FGLp1Dj to migrate this session to {Codex, Pi, etc.}\" https://t.co/ZgCmezN5CX",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 885,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/HZ5FGLp1Dj",
+        "https://t.co/ZgCmezN5CX"
+      ]
+    },
+    {
+      "id": "2091970267778031983",
+      "author_handle": null,
+      "created_at": "2026-08-24T19:25:53Z",
+      "text": "It current supports: @claudeai code, @openai codex, @pidotdev, @opencode, @MistralAI vibe, @antigravity, @GitHubCopilot cli, @cursor_ai agent (partial).\n\nHere's an example of Claude -&gt; Pi. You can use models like @Kimi_Moonshot K3 or @Alibaba_Qwen 3.8 via @huggingface Inference. https://t.co/YF2RoE4wq3",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 593,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/YF2RoE4wq3"
+      ]
+    },
+    {
+      "id": "2092096649073988043",
+      "author_handle": null,
+      "created_at": "2026-08-25T03:48:05Z",
+      "text": "@xhluca Thanks Xing for creating this!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 133,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091970263088816272",
+    "2091970265194316269",
+    "2091970267778031983",
+    "2092096649073988043"
+  ],
+  "item_id": "x-2091970263088816272",
+  "handle": "xhluca",
+  "http_status": 200,
+  "url": "https://x.com/xhluca/status/2091970263088816272",
+  "html_bytes": 189286,
+  "raw_path": "raw/items/x-2091970263088816272/thread-raw/x-web-dom-20260904T175321Z.html"
+}

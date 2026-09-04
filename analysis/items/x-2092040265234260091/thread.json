@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2092040265234260091",
+  "tweet_id": "2092040265234260091",
+  "root_author_handle": "seiiiiiiiiiiru",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 13,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 6,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 12,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092048307925438924",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T00:35:59Z",
+      "text": "@seiiiiiiiiiiru AI動画制作でAfterEffectsとMinimax H3を組み合わせるのは、効率化の面で非常に面白いアプローチですね。特にAEでラフコンテを作ることで、AIに具体的な指示が出せるのが強みです。この流れで、より狙った映像に近づける可能性が高まりますよ🙂",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 866
+      },
+      "parent_id": "2092040265234260091",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2092040284259688478",
+      "author_handle": "seiiiiiiiiiiru",
+      "created_at": "2026-08-25T00:04:06Z",
+      "text": "AfterEffect → Minimax H3\n@Hailuo_AI @MiniMax_AI https://t.co/NNb9WyiXyz",
+      "text_en": null,
+      "urls": [
+        "https://t.co/NNb9WyiXyz"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 24,
+        "replies": 0,
+        "reposts": 4,
+        "views": 2356
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/seiiiiiiiiiiru/status/2092040265234260091",
+      "outcome": "ok",
+      "note": "html_bytes=172885 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/seiiiiiiiiiiru/status/2092040265234260091",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092040265234260091/thread-raw/x-web-dom-20260904T175321Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

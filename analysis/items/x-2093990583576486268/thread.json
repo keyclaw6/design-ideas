@@ -1,0 +1,123 @@
+{
+  "schema_version": "1",
+  "id": "x-2093990583576486268",
+  "tweet_id": "2093990583576486268",
+  "root_author_handle": "jakezward",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 24,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 21,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094016164062212593",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T10:55:33Z",
+      "text": "@jakezward that's great. i ranked for \"link building for local seo\" with in a few seconds of indexing. https://t.co/NODoPwKhsE",
+      "text_en": null,
+      "urls": [
+        "https://t.co/NODoPwKhsE"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 170
+      },
+      "parent_id": "2093990583576486268",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094102737814258096",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T16:39:33Z",
+      "text": "@jakezward Is there a significant difference writing an article as a person vs. a brand on LinkedIn?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 200
+      },
+      "parent_id": "2093990583576486268",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094153105411621260",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T19:59:42Z",
+      "text": "@jakezward Algorithms change. Human nature doesn't. LinkedIn authority is a cheat code if you use it right",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 47
+      },
+      "parent_id": "2093990583576486268",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093320636743512116",
+      "author_handle": "jakezward",
+      "created_at": "2026-08-28T12:51:46Z",
+      "text": "https://t.co/sHIeqAYMPB",
+      "text_en": null,
+      "urls": [
+        "https://t.co/sHIeqAYMPB"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 44595
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/jakezward/status/2093990583576486268",
+      "outcome": "ok",
+      "note": "html_bytes=202703 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/jakezward/status/2093990583576486268",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093990583576486268/thread-raw/x-web-dom-20260904T175330Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

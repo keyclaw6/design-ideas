@@ -1,0 +1,67 @@
+{
+  "root_id": "2092040265234260091",
+  "reply_count_reported": 13,
+  "quote_count_reported": 6,
+  "tweets": [
+    {
+      "id": "2092040265234260091",
+      "author_handle": null,
+      "created_at": "2026-08-25T00:04:02Z",
+      "text": "AfterEffect → Minimax H3\n「AI動画をレンダリングマシンとして使う」\n\n生成するとき…\n・AEでラフな同コンテを作成\n・Chat GPTでマテリアルを作成\n・強化するプロンプトを作成\n・H3でAEラフとマテリアル画像を参照\n\n修正したいとき…\n・AEで文字や動きの修正\n・GPTでマテリアルを再生成 https://t.co/HQLg8l0O0s",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 592,
+        "replies": 13,
+        "reposts": 64,
+        "views": 62588,
+        "quotes": 6
+      },
+      "urls": [
+        "https://t.co/HQLg8l0O0s"
+      ]
+    },
+    {
+      "id": "2092040284259688478",
+      "author_handle": null,
+      "created_at": "2026-08-25T00:04:06Z",
+      "text": "AfterEffect → Minimax H3\n@Hailuo_AI @MiniMax_AI https://t.co/NNb9WyiXyz",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 24,
+        "replies": 0,
+        "reposts": 4,
+        "views": 2356,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/NNb9WyiXyz"
+      ]
+    },
+    {
+      "id": "2092048307925438924",
+      "author_handle": null,
+      "created_at": "2026-08-25T00:35:59Z",
+      "text": "@seiiiiiiiiiiru AI動画制作でAfterEffectsとMinimax H3を組み合わせるのは、効率化の面で非常に面白いアプローチですね。特にAEでラフコンテを作ることで、AIに具体的な指示が出せるのが強みです。この流れで、より狙った映像に近づける可能性が高まりますよ🙂",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 866,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092040265234260091",
+    "2092040284259688478",
+    "2092048307925438924"
+  ],
+  "item_id": "x-2092040265234260091",
+  "handle": "seiiiiiiiiiiru",
+  "http_status": 200,
+  "url": "https://x.com/seiiiiiiiiiiru/status/2092040265234260091",
+  "html_bytes": 172885,
+  "raw_path": "raw/items/x-2092040265234260091/thread-raw/x-web-dom-20260904T175321Z.html"
+}

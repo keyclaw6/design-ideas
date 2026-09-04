@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2093583622691283018",
+  "tweet_id": "2093583622691283018",
+  "root_author_handle": "alextalksai",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 70,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 15,
+  "replies_captured": 2,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 68,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093723106498240764",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T15:31:02Z",
+      "text": "@alextalksai the honest answer is that gpt's capabilities are still ahead of most designers' understanding of what they can do. this guy's tutorial is a good start, but we'll see more breakthroughs when people grasp the medium itself, not just the tool",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 15,
+        "replies": 1,
+        "reposts": 0,
+        "views": 8312
+      },
+      "parent_id": "2093583622691283018",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093724120878141737",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T15:35:04Z",
+      "text": "@alextalksai 21 minutes well spent, love the cinematic finish walkthrough.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2412
+      },
+      "parent_id": "2093583622691283018",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/alextalksai/status/2093583622691283018",
+      "outcome": "ok",
+      "note": "html_bytes=183102 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/alextalksai/status/2093583622691283018",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093583622691283018/thread-raw/x-web-dom-20260904T175328Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

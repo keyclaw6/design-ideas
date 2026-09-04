@@ -1,0 +1,67 @@
+{
+  "root_id": "2094061655990702150",
+  "reply_count_reported": 49,
+  "quote_count_reported": 13,
+  "tweets": [
+    {
+      "id": "2094061655990702150",
+      "author_handle": null,
+      "created_at": "2026-08-30T13:56:19Z",
+      "text": "🚨 ADIÓS A LA EDICIÓN DE VIDEO\n\nAlguien acaba de crear una herramienta de edición de video gratuita para Claude Code... y es una locura.\n\nLiteralmente solo tienes que soltar tu material sin procesar + archivos en una carpeta.\n\nEso es todo.\n\nSe encarga de TODO:\n\n•Corta los clips https://t.co/Ai30Td3W3j",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3948,
+        "replies": 49,
+        "reposts": 496,
+        "views": 470864,
+        "quotes": 13
+      },
+      "urls": [
+        "https://t.co/Ai30Td3W3j"
+      ]
+    },
+    {
+      "id": "2094061769475969408",
+      "author_handle": null,
+      "created_at": "2026-08-30T13:56:46Z",
+      "text": "🔗: https://t.co/IcGOyb4Pm4",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 151,
+        "replies": 1,
+        "reposts": 14,
+        "views": 20359,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/IcGOyb4Pm4"
+      ]
+    },
+    {
+      "id": "2094151642320982361",
+      "author_handle": null,
+      "created_at": "2026-08-30T19:53:53Z",
+      "text": "@lisaknowsai ¿se pueden ver los resultados de esos videos editados?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "views": 3532,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094061655990702150",
+    "2094061769475969408",
+    "2094151642320982361"
+  ],
+  "item_id": "x-2094061655990702150",
+  "handle": "lisaknowsai",
+  "http_status": 200,
+  "url": "https://x.com/lisaknowsai/status/2094061655990702150",
+  "html_bytes": 187178,
+  "raw_path": "raw/items/x-2094061655990702150/thread-raw/x-web-dom-20260904T175330Z.html"
+}

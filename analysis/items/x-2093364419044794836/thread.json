@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2093364419044794836",
+  "tweet_id": "2093364419044794836",
+  "root_author_handle": "ivanboroja",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 45,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 3,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 42,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093372464352919974",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T16:17:43Z",
+      "text": "@ivanboroja looks awesome, especially the 3D stuff  and animations around it",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 596
+      },
+      "parent_id": "2093364419044794836",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2093442136200925518",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T20:54:34Z",
+      "text": "@ivanboroja Looks cool, do you keep the scroll indicator somehow on the mobile?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 423
+      },
+      "parent_id": "2093364419044794836",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2093383383325794358",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T17:01:06Z",
+      "text": "@ivanboroja Nice",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 96
+      },
+      "parent_id": "2093364419044794836",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ivanboroja/status/2093364419044794836",
+      "outcome": "ok",
+      "note": "html_bytes=187763 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ivanboroja/status/2093364419044794836",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093364419044794836/thread-raw/x-web-dom-20260904T175326Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

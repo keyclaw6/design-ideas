@@ -1,0 +1,67 @@
+{
+  "root_id": "2093624705030959554",
+  "reply_count_reported": 9,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2093624705030959554",
+      "author_handle": null,
+      "created_at": "2026-08-29T09:00:02Z",
+      "text": "Here's how I make AI mention my SaaS:\n\n1. Create high-quality content for my money keywords 💰\n2. Build relevant backlinks 🔗\n3. Get mentioned on 3rd party sites 🌐\n4. LinkedIn articles + Reddit posts (both gets indexed)\n5. Create original data/content worth citing 📊\n\nYou need https://t.co/HgtgfwfMGj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 72,
+        "replies": 9,
+        "reposts": 5,
+        "views": 44715,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/HgtgfwfMGj"
+      ]
+    },
+    {
+      "id": "2093624707732082806",
+      "author_handle": null,
+      "created_at": "2026-08-29T09:00:02Z",
+      "text": "i also built an AI agent to handle points 2 and 3 btw\n\nit helps you to build backlinks on autopilot + get mentioned on other websites\n\nyou can check it out here:\nhttps://t.co/9rrD0MSISr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1227,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/9rrD0MSISr"
+      ]
+    },
+    {
+      "id": "2093694170518913101",
+      "author_handle": null,
+      "created_at": "2026-08-29T13:36:03Z",
+      "text": "@HsanC_ so basically just keep doing traditional SEO",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 589,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093624705030959554",
+    "2093624707732082806",
+    "2093694170518913101"
+  ],
+  "item_id": "x-2093624705030959554",
+  "handle": "HsanC_",
+  "http_status": 200,
+  "url": "https://x.com/HsanC_/status/2093624705030959554",
+  "html_bytes": 179467,
+  "raw_path": "raw/items/x-2093624705030959554/thread-raw/x-web-dom-20260904T175328Z.html"
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2092309280175128645",
+  "tweet_id": "2092309280175128645",
+  "root_author_handle": "vikktorrrre",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 143,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 33,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 140,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092339934166450229",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T19:54:48Z",
+      "text": "@vikktorrrre time to move to US now",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 23,
+        "replies": 1,
+        "reposts": 0,
+        "views": 9522
+      },
+      "parent_id": "2092309280175128645",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2092309414334128298",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T17:53:32Z",
+      "text": "@vikktorrrre Heheh \n\n$80 for 4 months 👀\n\nIs that cheap ?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 10192
+      },
+      "parent_id": "2092309280175128645",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2092310591809441885",
+      "author_handle": "unknown",
+      "created_at": "2026-08-25T17:58:12Z",
+      "text": "@vikktorrrre Finally worth in time for my final year",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 13888
+      },
+      "parent_id": "2092309280175128645",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/vikktorrrre/status/2092309280175128645",
+      "outcome": "ok",
+      "note": "html_bytes=201155 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/vikktorrrre/status/2092309280175128645",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092309280175128645/thread-raw/x-web-dom-20260904T175322Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

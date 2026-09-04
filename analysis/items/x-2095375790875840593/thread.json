@@ -1,0 +1,39 @@
+{
+  "schema_version": "1",
+  "id": "x-2095375790875840593",
+  "tweet_id": "2095375790875840593",
+  "root_author_handle": "ArcanaMfg",
+  "status": "empty",
+  "author_thread_status": "none",
+  "reply_count_reported": 0,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ArcanaMfg/status/2095375790875840593",
+      "outcome": "ok",
+      "note": "html_bytes=114243 tweets=1"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ArcanaMfg/status/2095375790875840593",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095375790875840593/thread-raw/x-web-dom-20260904T175338Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

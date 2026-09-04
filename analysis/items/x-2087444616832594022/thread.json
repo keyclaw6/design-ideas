@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2087444616832594022",
+  "tweet_id": "2087444616832594022",
+  "root_author_handle": "TencentHunyuan",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 14,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 7,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 11,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087452441201578149",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T08:13:39Z",
+      "text": "@TencentHunyuan Self-evolution needs a stronger bar than benchmark lift: attributable changes, regression suites, rollback, and evidence that new behavior holds beyond the tasks that triggered the update.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 59
+      },
+      "parent_id": "2087444616832594022",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2087517405702709739",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T12:31:48Z",
+      "text": "@TencentHunyuan the line that stuck with me: no update should control the only evidence used to accept itself.\n\neasy to nod at, hard to run. it means writing the pass/fail rule down before you look at the numbers, and not touching it when the numbers come back disappointing.\n\nthe 549-entry",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 1,
+        "views": 300
+      },
+      "parent_id": "2087444616832594022",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2087454603801731111",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T08:22:15Z",
+      "text": "@TencentHunyuan bravo",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 237
+      },
+      "parent_id": "2087444616832594022",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/TencentHunyuan/status/2087444616832594022",
+      "outcome": "ok",
+      "note": "html_bytes=220541 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/TencentHunyuan/status/2087444616832594022",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087444616832594022/thread-raw/x-web-dom-20260904T175305Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,81 @@
+{
+  "root_id": "2094424821450817563",
+  "reply_count_reported": 16,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094424821450817563",
+      "author_handle": null,
+      "created_at": "2026-08-31T13:59:24Z",
+      "text": "Your founder account will never reach a full buying committee on its own.\n\nDan and I have 81k combined on LinkedIn, but Workflows(.)io has 160k as a team.\n\nThe best teams in GTM understood one thing: \n\nMany personal brands = company brand.\n\nFor context...\n\nA B2B deal in 2026 gets https://t.co/a4uh560gpP",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 36,
+        "replies": 16,
+        "reposts": 2,
+        "views": 1467,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/a4uh560gpP"
+      ]
+    },
+    {
+      "id": "2094424984567373895",
+      "author_handle": null,
+      "created_at": "2026-08-31T14:00:03Z",
+      "text": "@fivosaresti team",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 37,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094425336872337857",
+      "author_handle": null,
+      "created_at": "2026-08-31T14:01:27Z",
+      "text": "@fivosaresti team",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 41,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094424965172941274",
+      "author_handle": null,
+      "created_at": "2026-08-31T13:59:58Z",
+      "text": "@fivosaresti TEAM",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 41,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094424821450817563",
+    "2094424965172941274",
+    "2094424984567373895",
+    "2094425336872337857"
+  ],
+  "item_id": "x-2094424821450817563",
+  "handle": "fivosaresti",
+  "http_status": 200,
+  "url": "https://x.com/fivosaresti/status/2094424821450817563",
+  "html_bytes": 195134,
+  "raw_path": "raw/items/x-2094424821450817563/thread-raw/x-web-dom-20260904T175332Z.html"
+}

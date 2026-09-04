@@ -1,0 +1,32 @@
+{
+  "id": "web-nqz-ai-search-prompt-generator",
+  "url": "https://nqz.ai/ai-search-prompt-generator",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "Free AI Search Prompt Generator \u2014 nqzai",
+  "authors": [
+    "nqzai"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://nqz.ai/",
+    "https://nqz.ai/free-ai-tools",
+    "https://x.com/jakezward/status/2094771557864292784"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "rate_limit": "10 generations/hour per visitor",
+    "fetch": "r.jina.ai",
+    "related_items": [
+      "web-crowdreply",
+      "web-known-agency",
+      "web-seowins-io",
+      "github-iannuttall-seo",
+      "web-brave-submit-url"
+    ],
+    "category_note": "Free GEO prompt generator: 4 topics \u00d7 3 buyer questions, no brand."
+  }
+}

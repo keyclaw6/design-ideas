@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2091157554919280688",
+  "tweet_id": "2091157554919280688",
+  "root_author_handle": "robiartec",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 64,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 12,
+  "replies_captured": 3,
+  "replies_relevant": 3,
+  "replies_dropped_unfetched": 61,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091209630927945759",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T17:03:23Z",
+      "text": "@robiartec El verdadero cuello de botella deja de ser el modelo y pasa a ser la infraestructura de coordinación entre agentes",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1053
+      },
+      "parent_id": "2091157554919280688",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091194713080475828",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T16:04:06Z",
+      "text": "@robiartec Compatibilidad con cualquier agente sugiere que actúa como middleware/proxy sobre las llamadas al modelo, interesante approach arquitectónico",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1114
+      },
+      "parent_id": "2091157554919280688",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091162678576246827",
+      "author_handle": "unknown",
+      "created_at": "2026-08-22T13:56:49Z",
+      "text": "@robiartec La tendencia clara es mover la complejidad del prompt engineering hacia infraestructura (memoria, orquestación, routing)",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 724
+      },
+      "parent_id": "2091157554919280688",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "recipe",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/robiartec/status/2091157554919280688",
+      "outcome": "ok",
+      "note": "html_bytes=215890 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/robiartec/status/2091157554919280688",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091157554919280688/thread-raw/x-web-dom-20260904T175316Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2093663876692754713",
+  "tweet_id": "2093663876692754713",
+  "root_author_handle": "JSFILMZ0412",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 11,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 10,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093702302846923245",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T14:08:22Z",
+      "text": "@JSFILMZ0412 That's inasely mind-boggling",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 167
+      },
+      "parent_id": "2093663876692754713",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093664550256071057",
+      "author_handle": "JSFILMZ0412",
+      "created_at": "2026-08-29T11:38:21Z",
+      "text": "full blender to seedance 2.5 tutorial @higgsfield_ai @Blender https://t.co/5MEtoLf3KC",
+      "text_en": null,
+      "urls": [
+        "https://t.co/5MEtoLf3KC"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1091
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/JSFILMZ0412/status/2093663876692754713",
+      "outcome": "ok",
+      "note": "html_bytes=236307 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/JSFILMZ0412/status/2093663876692754713",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093663876692754713/thread-raw/x-web-dom-20260904T175328Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "1",
+  "id": "x-2093774183356379560",
+  "tweet_id": "2093774183356379560",
+  "root_author_handle": "jonathan_wilke",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 52,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 49,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093778713246855344",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T19:12:00Z",
+      "text": "@jonathan_wilke It looks great, but I think a big part of what makes it work is the choice of images and how well they’re placed throughout the design.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3068
+      },
+      "parent_id": "2093774183356379560",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093780312761217126",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T19:18:21Z",
+      "text": "@jonathan_wilke Yesss 🙌\n\nhttps://t.co/9BmAvGlmcs and https://t.co/I8H058mwSx 🫡🔥",
+      "text_en": null,
+      "urls": [
+        "https://t.co/9BmAvGlmcs",
+        "https://t.co/I8H058mwSx"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 471
+      },
+      "parent_id": "2093774183356379560",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093775165658431687",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T18:57:54Z",
+      "text": "@jonathan_wilke damn, pretty clean work",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1583
+      },
+      "parent_id": "2093774183356379560",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/jonathan_wilke/status/2093774183356379560",
+      "outcome": "ok",
+      "note": "html_bytes=219165 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/jonathan_wilke/status/2093774183356379560",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093774183356379560/thread-raw/x-web-dom-20260904T175329Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

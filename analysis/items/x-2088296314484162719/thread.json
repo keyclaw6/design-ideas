@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2088296314484162719",
+  "tweet_id": "2088296314484162719",
+  "root_author_handle": "irinatoxi",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 18,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 3,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 15,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088336075051675762",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T18:44:54Z",
+      "text": "@irinatoxi @sts_3d Aren't you the \"guy\"",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 577
+      },
+      "parent_id": "2088296314484162719",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2088319604607144126",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T17:39:27Z",
+      "text": "@irinatoxi Everything works in the digital sandbox. I use ai 3D modeling workflows every day to run my custom mold making business. I have also been learning blender for over a year using it every day. I can confidently say that if you can’t use your CAD software manually, then you’re not",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 382
+      },
+      "parent_id": "2088296314484162719",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2088379812809437409",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T21:38:42Z",
+      "text": "@irinatoxi Extra credit for going to McMaster-Carr, downloading off the shelf fasteners and parts, integrating them into the assembly and placing a tentative order subject to your OK.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 330
+      },
+      "parent_id": "2088296314484162719",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087561481478897679",
+      "author_handle": "irinatoxi",
+      "created_at": "2026-08-12T15:26:56Z",
+      "text": "CAD software just became a chat window.\n\nThis guy is redesigning a 400ml cup in Autodesk Fusion by talking to Claude.\n\nHe asks for a tapered body. Claude builds it through MCP. Then he asks for grip rings. Claude adds them. One looks wrong, so he says remove it. Then he changes https://t.co/2yS34TKlMX",
+      "text_en": null,
+      "urls": [
+        "https://t.co/2yS34TKlMX"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/irinatoxi/status/2088296314484162719",
+      "outcome": "ok",
+      "note": "html_bytes=234303 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/irinatoxi/status/2088296314484162719",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2088296314484162719/thread-raw/x-web-dom-20260904T175309Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

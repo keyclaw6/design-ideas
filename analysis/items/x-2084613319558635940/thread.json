@@ -1,0 +1,140 @@
+{
+  "schema_version": "1",
+  "id": "x-2084613319558635940",
+  "tweet_id": "2084613319558635940",
+  "root_author_handle": "cyrilXBT",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 47,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 6,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 44,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086537826863358364",
+      "author_handle": "unknown",
+      "created_at": "2026-08-09T19:39:18Z",
+      "text": "@cyrilXBT I’m the author of all of these videos they sticked together without asking. They like to call me ‘this guy’ ‘ex-Google engineer’. Follow ‘this guy’ and let’s chat. Original post is here: https://t.co/hMy8jAFHxj\n\nIf you want to learn AI Agent Harness System with Loop, Memory and",
+      "text_en": null,
+      "urls": [
+        "https://t.co/hMy8jAFHxj"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 60,
+        "replies": 1,
+        "reposts": 2,
+        "views": 2008
+      },
+      "parent_id": "2084613319558635940",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2084629279761932770",
+      "author_handle": "unknown",
+      "created_at": "2026-08-04T13:15:25Z",
+      "text": "@cyrilXBT the difference between confusion and understanding is usually one good analogy",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3135
+      },
+      "parent_id": "2084613319558635940",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2084852133858328871",
+      "author_handle": "unknown",
+      "created_at": "2026-08-05T04:00:58Z",
+      "text": "@cyrilXBT Why not at least link to his Youtube channel or name who he is then",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 1,
+        "views": 575
+      },
+      "parent_id": "2084613319558635940",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2084505415065198916",
+      "author_handle": "cyrilXBT",
+      "created_at": "2026-08-04T05:03:13Z",
+      "text": "https://t.co/HrYHy9Y4Ju",
+      "text_en": null,
+      "urls": [
+        "https://t.co/HrYHy9Y4Ju"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 742364
+      }
+    },
+    {
+      "id": "2073748899748008405",
+      "author_handle": "cyrilXBT",
+      "created_at": "2026-07-05T12:40:40Z",
+      "text": "Hermes Agent by just crossed 200K GitHub stars in just a few months. I tested every claim in the @NousResearch project: memory, skills, cron, sub agents, all from Hermes Desktop App and WhatsApp.\n\nThe whole system is one loop:\nmessage in → agent run → tools fire → loop ends → https://t.co/MNwJ3FHMKC",
+      "text_en": null,
+      "urls": [
+        "https://t.co/MNwJ3FHMKC"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/cyrilXBT/status/2084613319558635940",
+      "outcome": "ok",
+      "note": "html_bytes=245358 tweets=6"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/cyrilXBT/status/2084613319558635940",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2084613319558635940/thread-raw/x-web-dom-20260904T175301Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

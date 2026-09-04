@@ -1,0 +1,81 @@
+{
+  "root_id": "2087562269807030754",
+  "reply_count_reported": 32,
+  "quote_count_reported": 10,
+  "tweets": [
+    {
+      "id": "2087562269807030754",
+      "author_handle": null,
+      "created_at": "2026-08-12T15:30:04Z",
+      "text": "35B parameters. One iPhone. No cloud.\n\nWe trained Edge8-35B, an ultra-sparse MoE with a jointly trained dynamic expert planner, and built an SSD-streaming inference engine around it.\n\nIn this demo: 44 tok/s, ~1.06 GB peak memory.\n\nA truly usable large-model stack for on-device https://t.co/wYAw2unWhu",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 501,
+        "replies": 32,
+        "reposts": 46,
+        "views": 54397,
+        "quotes": 10
+      },
+      "urls": [
+        "https://t.co/wYAw2unWhu"
+      ]
+    },
+    {
+      "id": "2087616316744294655",
+      "author_handle": null,
+      "created_at": "2026-08-12T19:04:50Z",
+      "text": "@SamuelZengML 44 tok/s for moe on iphone is amazing.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 618,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087592604372480143",
+      "author_handle": null,
+      "created_at": "2026-08-12T17:30:37Z",
+      "text": "@SamuelZengML Looks awesome. Do you want to demo this at the next AiOS meetup in SF in September and tell more about the architecture? Just curious: is it similar to Apple and keeps the same experts active across multiple tokens or branch prediction?\n\nPS: Silicon Valley is obviously a tv show",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 616,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087666600795091189",
+      "author_handle": null,
+      "created_at": "2026-08-12T22:24:39Z",
+      "text": "@SamuelZengML so anymore actual details, evals, etc",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 380,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087562269807030754",
+    "2087592604372480143",
+    "2087616316744294655",
+    "2087666600795091189"
+  ],
+  "item_id": "x-2087562269807030754",
+  "handle": "SamuelZengML",
+  "http_status": 200,
+  "url": "https://x.com/SamuelZengML/status/2087562269807030754",
+  "html_bytes": 192746,
+  "raw_path": "raw/items/x-2087562269807030754/thread-raw/x-web-dom-20260904T175306Z.html"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "x-2089223944700326052",
+  "url": "https://x.com/Heylaosan/status/2089223944700326052",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:30Z",
+  "title": "30｜带物理摆动感的作品集 Carousel 来自@YousufSoomroDev 一个用于作品集展示的 Carousel 组件。切换项目时，卡片不是沿着水平轨道简单滑入，而是带着明显的摆动和惯性从画面外进入，最终回到稳定位置。作者同时将这",
+  "authors": [
+    "张老三laosan (@Heylaosan)"
+  ],
+  "topics": [
+    "ui-motion",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2089223944700326052",
+    "author_handle": "Heylaosan",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Portfolio carousel with inertial swing/rebound instead of linear slide.",
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "github-nexu-io-motion-anything",
+      "web-animos-editor",
+      "x-2089775679600812150"
+    ]
+  }
+}

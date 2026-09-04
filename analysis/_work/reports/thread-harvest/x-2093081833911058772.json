@@ -1,0 +1,67 @@
+{
+  "root_id": "2093081833911058772",
+  "reply_count_reported": 6,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2093081833911058772",
+      "author_handle": null,
+      "created_at": "2026-08-27T21:02:51Z",
+      "text": "Built a @heyglif skill that generates incredible motion graphics videos end to end, in any style, based on your script or idea or prompt\n\nworks in any style - here, an quick explainer on LLMs using the beloved Vox cut out aesthetic\n\nand thanks to H3 Max, it's faaaast! link below https://t.co/vsoimn7IvC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 166,
+        "replies": 6,
+        "reposts": 19,
+        "views": 9443,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/vsoimn7IvC"
+      ]
+    },
+    {
+      "id": "2093081902240383351",
+      "author_handle": null,
+      "created_at": "2026-08-27T21:03:07Z",
+      "text": "@heyglif run it here: https://t.co/GtQzkyq8cD",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1264,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/GtQzkyq8cD"
+      ]
+    },
+    {
+      "id": "2093364603141124400",
+      "author_handle": null,
+      "created_at": "2026-08-28T15:46:28Z",
+      "text": "@fabianstelzer @heyglif this is awesome i wish notebooklm was this good!\n\ntho i imagine this costs quite a bit to make?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 93,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093081833911058772",
+    "2093081902240383351",
+    "2093364603141124400"
+  ],
+  "item_id": "x-2093081833911058772",
+  "handle": "fabianstelzer",
+  "http_status": 200,
+  "url": "https://x.com/fabianstelzer/status/2093081833911058772",
+  "html_bytes": 192184,
+  "raw_path": "raw/items/x-2093081833911058772/thread-raw/x-web-dom-20260904T175325Z.html"
+}

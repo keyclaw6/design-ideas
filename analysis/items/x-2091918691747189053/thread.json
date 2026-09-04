@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2091918691747189053",
+  "tweet_id": "2091918691747189053",
+  "root_author_handle": "marmosetco",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 3,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091921002863444178",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T16:10:07Z",
+      "text": "@marmosetco The one and only software that keep me hook to windows! When linux version?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 49
+      },
+      "parent_id": "2091918691747189053",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091918693307408875",
+      "author_handle": "marmosetco",
+      "created_at": "2026-08-24T16:00:57Z",
+      "text": "Learn more about Toolbag 5.03: https://t.co/doGpt0kg4H",
+      "text_en": null,
+      "urls": [
+        "https://t.co/doGpt0kg4H"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 279
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/marmosetco/status/2091918691747189053",
+      "outcome": "ok",
+      "note": "html_bytes=178913 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/marmosetco/status/2091918691747189053",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091918691747189053/thread-raw/x-web-dom-20260904T175320Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

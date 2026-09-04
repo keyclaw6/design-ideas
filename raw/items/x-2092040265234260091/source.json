@@ -1,0 +1,22 @@
+{
+  "id": "x-2092040265234260091",
+  "url": "https://x.com/seiiiiiiiiiiru/status/2092040265234260091",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:35Z",
+  "title": "AfterEffect → Minimax H3 「AI動画をレンダリングマシンとして使う」 生成するとき… ・AEでラフな同コンテを作成 ・Chat GPTでマテリアルを作成 ・強化するプロンプトを作成 ・H3でAEラフとマテリアル画像を",
+  "authors": [
+    "SEIIIRU😈AIを使う映像クリエイター (@seiiiiiiiiiiru)"
+  ],
+  "topics": [
+    "video-generation",
+    "ui-motion"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2092040265234260091",
+    "author_handle": "seiiiiiiiiiiru",
+    "fetch": "api.fxtwitter.com (retry)"
+  }
+}

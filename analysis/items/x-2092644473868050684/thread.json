@@ -1,0 +1,63 @@
+{
+  "schema_version": "1",
+  "id": "x-2092644473868050684",
+  "tweet_id": "2092644473868050684",
+  "root_author_handle": "80Level",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092650447223836876",
+      "author_handle": "unknown",
+      "created_at": "2026-08-26T16:28:40Z",
+      "text": "@80Level Me when I'm playing in my controller room, slide the chair back a couple of feet then fall down the stairs to my death after breaking my neck: https://t.co/oGrxmG4zZj",
+      "text_en": null,
+      "urls": [
+        "https://t.co/oGrxmG4zZj"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 38
+      },
+      "parent_id": "2092644473868050684",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/80Level/status/2092644473868050684",
+      "outcome": "ok",
+      "note": "html_bytes=136277 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/80Level/status/2092644473868050684",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092644473868050684/thread-raw/x-web-dom-20260904T175322Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "x-2094864872853119216",
+  "url": "https://x.com/XRarchitect/status/2094864872853119216",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:23:28Z",
+  "title": "Atlas + spark.js + three.js scene from one input image",
+  "authors": ["Ian Curtis (@XRarchitect)"],
+  "topics": [
+    "three-js",
+    "gaussian-splatting",
+    "camera-control",
+    "video-generation",
+    "design"
+  ],
+  "related_urls": [
+    "https://www.worldlabs.ai/blog/atlas",
+    "https://sparkjs.dev",
+    "https://www.worldlabs.ai/blog/spark-2.0",
+    "https://xrarchitect.xyz",
+    "https://x.com/XRarchitect/status/2094881923764199717"
+  ],
+  "media": [
+    "media/atlas-spark-three-scene.mp4",
+    "media/atlas-spark-three-scene-thumb.jpg",
+    "media/input-image.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:29:45Z",
+    "unsaved_via": "cursor-ide-browser bookmarks pane JS click",
+    "tweet_id": "2094864872853119216",
+    "author_handle": "XRarchitect",
+    "author_id": "2983379078",
+    "author_role": "Design @theworldlabs",
+    "created_at": "2026-09-01T19:08:01Z",
+    "likes": 244,
+    "replies": 14,
+    "retweets": 17,
+    "bookmarks": 106,
+    "quotes": 4,
+    "views": 19490,
+    "lang": "en",
+    "is_note_tweet": false,
+    "media_id": "2094863889863499776",
+    "video": {
+      "duration_s": 29.723,
+      "width": 1766,
+      "height": 994,
+      "source_url": "https://video.twimg.com/amplify_video/2094863889863499776/vid/avc1/1766x994/E8A7nx0AXTXKuMTZ.mp4"
+    },
+    "thread_input_image": "https://x.com/XRarchitect/status/2094881923764199717",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai; mp4 via video.twimg.com"
+  }
+}

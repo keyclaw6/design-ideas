@@ -1,0 +1,57 @@
+{
+  "id": "x-2094892848042725416",
+  "url": "https://x.com/pierreeliottlal/status/2094892848042725416",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:10:58Z",
+  "title": "Open-sourced outbound team \u2014 GojiberryAI Sales OS for Grok Bot",
+  "authors": [
+    "Pierre-Eliott Lallemant (@pierreeliottlal)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "https://x.com/gojiberryai/status/2095081419202560010",
+    "https://gojiberry.ai/",
+    "https://mcp.gojiberry.ai/mcp",
+    "https://app.gojiberry.ai/registration"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094892848042725416",
+    "author_handle": "pierreeliottlal",
+    "author_id": "1724455011403378688",
+    "author_name": "Pierre-Eliott Lallemant",
+    "created_at": "2026-09-01T20:59:10Z",
+    "likes": 209,
+    "replies": 163,
+    "retweets": 19,
+    "bookmarks": 430,
+    "quotes": 2,
+    "views": 21802,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": true,
+    "video_duration_s": 39.939,
+    "video_id": "2094892774273208321",
+    "video_size": "1080x1080",
+    "video_bytes": 3708380,
+    "source_client": "Twitter Web App",
+    "repo": "romangojiberryAI/gojiberryai-sales-os",
+    "repo_stars": 70,
+    "repo_forks": 20,
+    "existing_item": "github-romangojiberryAI-gojiberryai-sales-os",
+    "brand_x_item": "x-2095081419202560010",
+    "mcp_url": "https://mcp.gojiberry.ai/mcp",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com; r.jina.ai on x.com blocked; fixupx/vxtwitter on this status 403 (body only, no replies); mp4 via video.twimg.com; GitHub API (read-only, did not rewrite github-romangojiberryAI-gojiberryai-sales-os); mcp.gojiberry.ai HEAD 200 application/json",
+    "comments_note": "163 replies (BOT lead-magnet); 0 visible without X login. Repo already captured as github-romangojiberryAI-gojiberryai-sales-os; brand recap x-2095081419202560010 the next morning.",
+    "topics_note": "Outbound GTM agents + hosted MCP; seo-agents is the closest SCHEMA tag for sales/GTM automation (same as the brand post)."
+  }
+}

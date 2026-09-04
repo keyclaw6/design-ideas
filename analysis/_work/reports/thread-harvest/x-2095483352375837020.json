@@ -1,0 +1,67 @@
+{
+  "root_id": "2095483352375837020",
+  "reply_count_reported": 4,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2095483352375837020",
+      "author_handle": null,
+      "created_at": "2026-09-03T12:05:38Z",
+      "text": "MiniMax H3をプロダクトCGのレンダラー的に使うの試してみてる。ローカルで処理できるのはアツいね。\nローカルで方向性が定まってからAPIに投げられるので無駄が少ない。 https://t.co/TTz5vRZU4C",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 517,
+        "replies": 4,
+        "reposts": 40,
+        "views": 44740,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/TTz5vRZU4C"
+      ]
+    },
+    {
+      "id": "2095491416025878995",
+      "author_handle": null,
+      "created_at": "2026-09-03T12:37:40Z",
+      "text": "H3 Regenerate 2Kで高解像度化したら、動きの速い部分で破綻してしまった…うーむ。。 https://t.co/1UacBTuGih",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1386,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/1UacBTuGih"
+      ]
+    },
+    {
+      "id": "2095672908093763756",
+      "author_handle": null,
+      "created_at": "2026-09-04T00:38:51Z",
+      "text": "@mojon1 Como você resolve refração, difração e reflexão?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 302,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095483352375837020",
+    "2095491416025878995",
+    "2095672908093763756"
+  ],
+  "item_id": "x-2095483352375837020",
+  "handle": "mojon1",
+  "http_status": 200,
+  "url": "https://x.com/mojon1/status/2095483352375837020",
+  "html_bytes": 160204,
+  "raw_path": "raw/items/x-2095483352375837020/thread-raw/x-web-dom-20260904T175339Z.html"
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2087962842985058365",
+  "tweet_id": "2087962842985058365",
+  "root_author_handle": "GlennSonna",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 15,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 14,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088004142992433456",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T20:45:55Z",
+      "text": "@GlennSonna @PrismML Dude where were you 6 months ago... could have saved us lots of time 😅\n\nhttps://t.co/fBWHnMyGiz",
+      "text_en": null,
+      "urls": [
+        "https://t.co/fBWHnMyGiz"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 319
+      },
+      "parent_id": "2087962842985058365",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2081081245736284627",
+      "author_handle": "PrismML",
+      "created_at": "2026-07-25T18:16:48Z",
+      "text": "Pushed Bonsai-1.7B from @PrismML further.\n\n32 → 64 tok/s on the same OnePlus 13. 2×.\n\nParallelized attention and hoisted the conversion out of the KV walk.\n\nBit-for-bit identical output.\n\nPure CPU. I’m sure we can go harder. https://t.co/75vgBO86Sr",
+      "text_en": null,
+      "urls": [
+        "https://t.co/75vgBO86Sr"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 33741
+      }
+    },
+    {
+      "id": "2088044555094331519",
+      "author_handle": "GlennSonna",
+      "created_at": "2026-08-13T23:26:30Z",
+      "text": "We will open source the inference engine soon. Meanwhile you can checkout our on-device sdk \n\nhttps://t.co/Y2JhJSqG2z",
+      "text_en": null,
+      "urls": [
+        "https://t.co/Y2JhJSqG2z"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 336
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/GlennSonna/status/2087962842985058365",
+      "outcome": "ok",
+      "note": "html_bytes=237348 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/GlennSonna/status/2087962842985058365",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087962842985058365/thread-raw/x-web-dom-20260904T175308Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

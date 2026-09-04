@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2087555254757757116",
+  "tweet_id": "2087555254757757116",
+  "root_author_handle": "usekernel",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 6,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 5,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087556304445325593",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T15:06:22Z",
+      "text": "@usekernel the dx is just so clean",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 74
+      },
+      "parent_id": "2087555254757757116",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087555255995138096",
+      "author_handle": "usekernel",
+      "created_at": "2026-08-12T15:02:12Z",
+      "text": "bundles are write-only: responses return `has_ca_bundle: true`, never the certificate contents.\n\nlearn more in our docs.\nhttps://t.co/85DUycEUCn",
+      "text_en": null,
+      "urls": [
+        "https://t.co/85DUycEUCn"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 1,
+        "views": 291
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/usekernel/status/2087555254757757116",
+      "outcome": "ok",
+      "note": "html_bytes=184360 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/usekernel/status/2087555254757757116",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087555254757757116/thread-raw/x-web-dom-20260904T175305Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

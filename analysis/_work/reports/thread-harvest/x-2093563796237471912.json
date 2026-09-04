@@ -1,0 +1,84 @@
+{
+  "root_id": "2093563796237471912",
+  "reply_count_reported": 5,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2093563796237471912",
+      "author_handle": null,
+      "created_at": "2026-08-29T04:58:00Z",
+      "text": "GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation\nECCV 2026\nhttps://t.co/zKvr1U9bae\nGaussianGPT generates 3D Gaussian scenes fully autoregressively, token by token using a GPT-style transformer allowing for flexible 3D generation, completion, and outpainting. https://t.co/4in7289djd",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 741,
+        "replies": 5,
+        "reposts": 86,
+        "views": 40374,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/zKvr1U9bae",
+        "https://t.co/4in7289djd"
+      ]
+    },
+    {
+      "id": "2094122348375081106",
+      "author_handle": null,
+      "created_at": "2026-08-30T17:57:29Z",
+      "text": "@rsasaki0109 https://t.co/fq5XIdStfg",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 90,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/fq5XIdStfg"
+      ]
+    },
+    {
+      "id": "2094057437409980907",
+      "author_handle": null,
+      "created_at": "2026-08-30T13:39:33Z",
+      "text": "@rsasaki0109 at one million gaussians, autoregressive decoding becomes the bottleneck before scene quality matters",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 124,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093786103816110326",
+      "author_handle": null,
+      "created_at": "2026-08-29T19:41:22Z",
+      "text": "@rsasaki0109 wow, this is incredible!!!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 520,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093563796237471912",
+    "2093786103816110326",
+    "2094057437409980907",
+    "2094122348375081106"
+  ],
+  "item_id": "x-2093563796237471912",
+  "handle": "rsasaki0109",
+  "http_status": 200,
+  "url": "https://x.com/rsasaki0109/status/2093563796237471912",
+  "html_bytes": 194264,
+  "raw_path": "raw/items/x-2093563796237471912/thread-raw/x-web-dom-20260904T175327Z.html"
+}

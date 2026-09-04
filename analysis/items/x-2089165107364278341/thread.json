@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2089165107364278341",
+  "tweet_id": "2089165107364278341",
+  "root_author_handle": "dani_avila7",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 19,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 6,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 18,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089222697179808155",
+      "author_handle": "unknown",
+      "created_at": "2026-08-17T05:28:01Z",
+      "text": "@dani_avila7 If the aprroaches are actually useful why they are not natively build into the harness? 🤷",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 14,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1389
+      },
+      "parent_id": "2089165107364278341",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "correction",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2089165109323014601",
+      "author_handle": "dani_avila7",
+      "created_at": "2026-08-17T01:39:11Z",
+      "text": "The core tool is the Pareto frontier\n\nPlot every config by cost per task vs pass rate\n\nA config is dominated if another is cheaper and equally accurate, the frontier is what's left, the only rational options\n\nSet your quality bar first, then pick the cheapest frontier point that https://t.co/vn6iOrhswU",
+      "text_en": null,
+      "urls": [
+        "https://t.co/vn6iOrhswU"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 7,
+        "replies": 3,
+        "reposts": 0,
+        "views": 4378
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/dani_avila7/status/2089165107364278341",
+      "outcome": "ok",
+      "note": "html_bytes=204639 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/dani_avila7/status/2089165107364278341",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089165107364278341/thread-raw/x-web-dom-20260904T175311Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

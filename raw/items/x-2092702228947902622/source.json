@@ -1,0 +1,24 @@
+{
+  "id": "x-2092702228947902622",
+  "url": "https://x.com/RenLeanna/status/2092702228947902622",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:07:55Z",
+  "title": "@MiniMaxAgent just shipped H3-based plugins for dynamic images and white-model rendering! Been playing around with them ",
+  "authors": [
+    "@RenLeanna"
+  ],
+  "topics": [
+    "video-generation",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2092702228947902622",
+    "author_handle": "RenLeanna",
+    "category_note": "H3 plugins: dynamic images + clay/white-model refs"
+  }
+}

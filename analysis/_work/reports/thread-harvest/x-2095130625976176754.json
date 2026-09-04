@@ -1,0 +1,65 @@
+{
+  "root_id": "2095130625976176754",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095130625976176754",
+      "author_handle": null,
+      "created_at": "2026-09-02T12:44:01Z",
+      "text": "My co-founder @ConnorShowler introduced me to topical maps a while back, and I can't unsee it now.\n\nHere is the idea in plain words. Most sites chase keywords one at a time. Find a term, write a post, find another term, write another post. Google reads that as a pile of loose",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 9,
+        "replies": 4,
+        "reposts": 1,
+        "views": 686,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095130638206799894",
+      "author_handle": null,
+      "created_at": "2026-09-02T12:44:04Z",
+      "text": "Here it is, no signup needed: https://t.co/nC6kLU497r",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 252,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/nC6kLU497r"
+      ]
+    },
+    {
+      "id": "2095207773084508285",
+      "author_handle": null,
+      "created_at": "2026-09-02T17:50:34Z",
+      "text": "@karakhanyanS @ConnorShowler Topical maps beat random keyword chasing, mate. Structure creates compounding SEO authority.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 7,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095130625976176754",
+    "2095130638206799894",
+    "2095207773084508285"
+  ],
+  "item_id": "x-2095130625976176754",
+  "handle": "karakhanyanS",
+  "http_status": 200,
+  "url": "https://x.com/karakhanyanS/status/2095130625976176754",
+  "html_bytes": 237646,
+  "raw_path": "raw/items/x-2095130625976176754/thread-raw/x-web-dom-20260904T175336Z.html"
+}

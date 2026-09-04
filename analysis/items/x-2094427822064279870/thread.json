@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2094427822064279870",
+  "tweet_id": "2094427822064279870",
+  "root_author_handle": "0xJokker",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 46,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 12,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 45,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094444514928677045",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T15:17:39Z",
+      "text": "@0xJokker La parte realmente interesante no son los 30 MB de RAM.\nEs diseñar un navegador pensando desde el inicio en agentes y automatizacion, en lugar de adaptar un navegador tradicional para que los soporte.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 14,
+        "replies": 3,
+        "reposts": 0,
+        "views": 4957
+      },
+      "parent_id": "2094427822064279870",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2094427823976886345",
+      "author_handle": "0xJokker",
+      "created_at": "2026-08-31T14:11:20Z",
+      "text": "https://t.co/AdJcIuOZ4L",
+      "text_en": null,
+      "urls": [
+        "https://t.co/AdJcIuOZ4L"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 73,
+        "replies": 0,
+        "reposts": 9,
+        "views": 9036
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/0xJokker/status/2094427822064279870",
+      "outcome": "ok",
+      "note": "html_bytes=186015 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/0xJokker/status/2094427822064279870",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094427822064279870/thread-raw/x-web-dom-20260904T175332Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": "1",
+  "id": "x-2087832615797833807",
+  "tweet_id": "2087832615797833807",
+  "root_author_handle": "rammcodes",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088125265268383892",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T04:47:13Z",
+      "text": "@rammcodes https://t.co/SVFuO9T6Qm",
+      "text_en": null,
+      "urls": [
+        "https://t.co/SVFuO9T6Qm"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 248
+      },
+      "parent_id": "2087832615797833807",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/rammcodes/status/2087832615797833807",
+      "outcome": "ok",
+      "note": "html_bytes=140128 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/rammcodes/status/2087832615797833807",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087832615797833807/thread-raw/x-web-dom-20260904T175307Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

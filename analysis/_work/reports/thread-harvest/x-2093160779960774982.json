@@ -1,0 +1,139 @@
+{
+  "root_id": "2093160779960774982",
+  "reply_count_reported": 29,
+  "quote_count_reported": 6,
+  "tweets": [
+    {
+      "id": "2093160779960774982",
+      "author_handle": null,
+      "created_at": "2026-08-28T02:16:33Z",
+      "text": "From the @HamsterResearch lab:\n\nIntroducing Qwen3.8-Flash-Next-REAP-288-MLX-4bit, a 180B-class model running on just 39gb of memory\n\n- MLX-native 4-bit 60% smaller than stock q4\n- Pruned 512→288 experts via REAP\n- 91.5% HumanEval (vs 93.9% stock)\n\n@huggingface links below ↓ https://t.co/B55aHb4P7T",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 576,
+        "replies": 29,
+        "reposts": 43,
+        "views": 45428,
+        "quotes": 6
+      },
+      "urls": [
+        "https://t.co/B55aHb4P7T"
+      ]
+    },
+    {
+      "id": "2093160782733124024",
+      "author_handle": null,
+      "created_at": "2026-08-28T02:16:34Z",
+      "text": "The folks at @Alibaba_Qwen recently released Qwen3.8-Flash-Next, a 180B-class sparse MoE with 48 layers, 512 routed experts each and top-10 routing (for 6B active params).\n\nLike most MoE models there's a distribution for how much work each expert tends to do overall. I charted https://t.co/0ukOvJ4enf",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 25,
+        "replies": 2,
+        "reposts": 2,
+        "views": 3930,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/0ukOvJ4enf"
+      ]
+    },
+    {
+      "id": "2093160785966948458",
+      "author_handle": null,
+      "created_at": "2026-08-28T02:16:35Z",
+      "text": "I measured an eleven-point pruning ladder and 288 is where quality-per-GB peaks among usable builds. \n\nAggregate metrics (KL divergence against the stock model) suggest pruning deeper, but sampled rare-token reliability collapses below 288\n\nAt 256 experts, the model produces an https://t.co/JvYFKa8Wd6",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3244,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/JvYFKa8Wd6"
+      ]
+    },
+    {
+      "id": "2093160787996999774",
+      "author_handle": null,
+      "created_at": "2026-08-28T02:16:35Z",
+      "text": "Huggingface Links\n\nModel\nhttps://t.co/kxeAbtS6Mh\n\nMTP drafter\nhttps://t.co/lKJEKcujWr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 29,
+        "replies": 1,
+        "reposts": 1,
+        "views": 3403,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/kxeAbtS6Mh",
+        "https://t.co/lKJEKcujWr"
+      ]
+    },
+    {
+      "id": "2093160789603385820",
+      "author_handle": null,
+      "created_at": "2026-08-28T02:16:35Z",
+      "text": "+ 2 variants:\n\nQwen3.8-Flash-Next-REAP-288-MLX-8bit\n- 8 bit, 90.9% HumanEval, 70 GB resident\n- q8 27% smaller than the q4 stock model\nhttps://t.co/KzGrK5bhe8 \n\nQwen3.8-Flash-Next-REAP-384-MLX-8bit\n- 4 bit with 384 experts, 92.1% HumanEval, 51 GB resident\nhttps://t.co/1d3vB2m2qo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 12,
+        "replies": 2,
+        "reposts": 0,
+        "views": 3373,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/KzGrK5bhe8",
+        "https://t.co/1d3vB2m2qo"
+      ]
+    },
+    {
+      "id": "2093160791658660082",
+      "author_handle": null,
+      "created_at": "2026-08-28T02:16:36Z",
+      "text": "This model could go fast. REALLY FAST. \n\nMLX inference today (mlx_lm, mlx_vlm and other friends) is constrained by components it depends on. That's why I'm writing a pure MLX inference engine - to get the most out of our machines.\n\nIt opens up techniques and possibilities (i.e.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 28,
+        "replies": 3,
+        "reposts": 0,
+        "views": 2305,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093290575449526712",
+      "author_handle": null,
+      "created_at": "2026-08-28T10:52:19Z",
+      "text": "@EyalToledano @HamsterResearch @huggingface Thanks for the reap_kept_experts.json. Working on adding SSD expert streaming to oMLX and was wanting a useful base for expert pinning, and this is it.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1164,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093160779960774982",
+    "2093160782733124024",
+    "2093160785966948458",
+    "2093160787996999774",
+    "2093160789603385820",
+    "2093160791658660082",
+    "2093290575449526712"
+  ],
+  "item_id": "x-2093160779960774982",
+  "handle": "EyalToledano",
+  "http_status": 200,
+  "url": "https://x.com/EyalToledano/status/2093160779960774982",
+  "html_bytes": 326069,
+  "raw_path": "raw/items/x-2093160779960774982/thread-raw/x-web-dom-20260904T175326Z.html"
+}

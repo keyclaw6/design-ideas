@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2094162743985308047",
+  "tweet_id": "2094162743985308047",
+  "root_author_handle": "itsalexvacca",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 7,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 4,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094338852575957317",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T08:17:48Z",
+      "text": "@itsalexvacca Ça confirme ce que je pense depuis longtemps sur le cold email : la 2e vague marche pas grâce au message, mais parce que le nom devient familier.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 56
+      },
+      "parent_id": "2094162743985308047",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094509703795556428",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T19:36:42Z",
+      "text": "@itsalexvacca you truly love to see it",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 41
+      },
+      "parent_id": "2094162743985308047",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094171771104612407",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T21:13:52Z",
+      "text": "@itsalexvacca You didn't triple cold email. You warmed the list first.\n\nThat's a content funnel, not a cold send.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 14
+      },
+      "parent_id": "2094162743985308047",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093034326883733598",
+      "author_handle": "itsalexvacca",
+      "created_at": "2026-08-27T17:54:04Z",
+      "text": "https://t.co/NYtAxcduLt",
+      "text_en": null,
+      "urls": [
+        "https://t.co/NYtAxcduLt"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 22692
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/itsalexvacca/status/2094162743985308047",
+      "outcome": "ok",
+      "note": "html_bytes=247997 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/itsalexvacca/status/2094162743985308047",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094162743985308047/thread-raw/x-web-dom-20260904T175331Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

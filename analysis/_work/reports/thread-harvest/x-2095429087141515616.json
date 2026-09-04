@@ -1,0 +1,81 @@
+{
+  "root_id": "2095429087141515616",
+  "reply_count_reported": 3,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095429087141515616",
+      "author_handle": null,
+      "created_at": "2026-09-03T08:30:00Z",
+      "text": "Premium design isn’t just about looking good—it’s about making your brand feel valuable before a customer even interacts with it.\n\nDesigned for impact. Built to convert attention into interest. https://t.co/vUb9TmAuDT",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 59,
+        "replies": 3,
+        "reposts": 5,
+        "views": 2006,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/vUb9TmAuDT"
+      ]
+    },
+    {
+      "id": "2095641978520117372",
+      "author_handle": null,
+      "created_at": "2026-09-03T22:35:57Z",
+      "text": "@AltamashAyazz This looks really good, man. Super impressive. Is it also responsive?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 21,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095581730908336224",
+      "author_handle": null,
+      "created_at": "2026-09-03T18:36:33Z",
+      "text": "@AltamashAyazz Great",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 29,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095491276045217916",
+      "author_handle": null,
+      "created_at": "2026-09-03T12:37:07Z",
+      "text": "@AltamashAyazz Great work",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 39,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095429087141515616",
+    "2095491276045217916",
+    "2095581730908336224",
+    "2095641978520117372"
+  ],
+  "item_id": "x-2095429087141515616",
+  "handle": "AltamashAyazz",
+  "http_status": 200,
+  "url": "https://x.com/AltamashAyazz/status/2095429087141515616",
+  "html_bytes": 176760,
+  "raw_path": "raw/items/x-2095429087141515616/thread-raw/x-web-dom-20260904T175338Z.html"
+}

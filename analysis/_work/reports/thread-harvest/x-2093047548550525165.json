@@ -1,0 +1,83 @@
+{
+  "root_id": "2093047548550525165",
+  "reply_count_reported": 315,
+  "quote_count_reported": 143,
+  "tweets": [
+    {
+      "id": "2093047548550525165",
+      "author_handle": null,
+      "created_at": "2026-08-27T18:46:37Z",
+      "text": "We use GLM-5.3-Flash build a dream kitchen. A 3D world built in Blender. This is not a generated video. https://t.co/JILdFOY21l",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6931,
+        "replies": 315,
+        "reposts": 469,
+        "views": 876060,
+        "quotes": 143
+      },
+      "urls": [
+        "https://t.co/JILdFOY21l"
+      ]
+    },
+    {
+      "id": "2093048250643132429",
+      "author_handle": null,
+      "created_at": "2026-08-27T18:49:24Z",
+      "text": "@louszbd This is amazing. You need to release assets and prompt.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 132,
+        "replies": 3,
+        "reposts": 0,
+        "views": 25283,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093113084944724231",
+      "author_handle": null,
+      "created_at": "2026-08-27T23:07:02Z",
+      "text": "@louszbd Here’s as far as I got. https://t.co/OSmgSKRItJ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 55,
+        "replies": 1,
+        "reposts": 1,
+        "views": 3265,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/OSmgSKRItJ"
+      ]
+    },
+    {
+      "id": "2093051204519526405",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:01:08Z",
+      "text": "@louszbd GLM-5.3-Flash is an excellent model. Running it locally on 4 x RTX 6K Pros with great results. Was using GLM-5.2 locally before and I can see the difference.\n\nIt seems faster and smarter. The vision capabilities are also extremely helpful for my workflows.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 41,
+        "replies": 4,
+        "reposts": 0,
+        "views": 8085,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093047548550525165",
+    "2093048250643132429",
+    "2093051204519526405",
+    "2093113084944724231"
+  ],
+  "item_id": "x-2093047548550525165",
+  "handle": "louszbd",
+  "http_status": 200,
+  "url": "https://x.com/louszbd/status/2093047548550525165",
+  "html_bytes": 204423,
+  "raw_path": "raw/items/x-2093047548550525165/thread-raw/x-web-dom-20260904T175325Z.html"
+}

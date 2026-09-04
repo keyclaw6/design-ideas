@@ -1,0 +1,112 @@
+{
+  "schema_version": "1",
+  "id": "x-2091570990048276897",
+  "tweet_id": "2091570990048276897",
+  "root_author_handle": "kickingkeys",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 245,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 326,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 244,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091756330721951762",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T05:15:46Z",
+      "text": "@kickingkeys if you RL on brushes _creation_ too then it'd be pretty crazy! Could ease this by doing it as a separate process instead of e2e. Then you'd be able to hot swap brushes? \n\nThere's also buildStrokeShader",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 71,
+        "replies": 1,
+        "reposts": 0,
+        "views": 12206
+      },
+      "parent_id": "2091570990048276897",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091621857388605653",
+      "author_handle": "kickingkeys",
+      "created_at": "2026-08-23T20:21:25Z",
+      "text": "Write up : https://t.co/GDQOjkt9Gd (not up to date) \n\nSample Code : https://t.co/uvY7oWnVA9 \n\nhttps://t.co/xgS2XqXR6C\n\nhttps://t.co/jGD6OHNdDm",
+      "text_en": null,
+      "urls": [
+        "https://t.co/GDQOjkt9Gd",
+        "https://t.co/uvY7oWnVA9",
+        "https://t.co/xgS2XqXR6C",
+        "https://t.co/jGD6OHNdDm"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 970,
+        "replies": 21,
+        "reposts": 62,
+        "views": 71547
+      }
+    },
+    {
+      "id": "2091656214455201964",
+      "author_handle": "kickingkeys",
+      "created_at": "2026-08-23T22:37:57Z",
+      "text": "Trained on @PrimeIntellect . Rollouts rendered on @modal.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 182,
+        "replies": 0,
+        "reposts": 6,
+        "views": 26622
+      }
+    },
+    {
+      "id": "2091632944406261768",
+      "author_handle": "kickingkeys",
+      "created_at": "2026-08-23T21:05:29Z",
+      "text": "HUGE s/o to @hollowaya_x  who built the training infrastructure and modal setup!!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 94,
+        "replies": 1,
+        "reposts": 2,
+        "views": 25828
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/kickingkeys/status/2091570990048276897",
+      "outcome": "ok",
+      "note": "html_bytes=235617 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/kickingkeys/status/2091570990048276897",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091570990048276897/thread-raw/x-web-dom-20260904T175318Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,100 @@
+{
+  "root_id": "2090098441200517416",
+  "reply_count_reported": 16,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2090098441200517416",
+      "author_handle": null,
+      "created_at": "2026-08-19T15:27:55Z",
+      "text": "MiniMax H3 just went unlimited on Runway.\nGenerate responsibly. Or don't. It's unlimited 😌",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 609,
+        "replies": 16,
+        "reposts": 22,
+        "views": 81224,
+        "quotes": 2
+      },
+      "urls": []
+    },
+    {
+      "id": "2090090516151243063",
+      "author_handle": null,
+      "created_at": "2026-08-19T14:56:25Z",
+      "text": "MiniMax H3 is now unlimited on Runway.\n\nFor a limited time, Max plan users can generate as much as they want with no caps, no counting, just unlimited access to one of the best video models available. Get started now at the link below. https://t.co/5mx6XHOlZj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/5mx6XHOlZj"
+      ]
+    },
+    {
+      "id": "2090146459866083736",
+      "author_handle": null,
+      "created_at": "2026-08-19T18:38:43Z",
+      "text": "@MiniMax_AI Why are you promoting Runwayml \"Unlimited\" scams?\n\n It's for 4 days of \"unlimited\"\nhttps://t.co/dKY8Rb4a4S https://t.co/qRJ6g5yL6N",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 540,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/dKY8Rb4a4S",
+        "https://t.co/qRJ6g5yL6N"
+      ]
+    },
+    {
+      "id": "2090198065932013964",
+      "author_handle": null,
+      "created_at": "2026-08-19T22:03:47Z",
+      "text": "@MiniMax_AI Nope, it's not. It says \"You need to upgrade to generate a video\".\n\nDisappointed",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 274,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090114310135574884",
+      "author_handle": null,
+      "created_at": "2026-08-19T16:30:58Z",
+      "text": "@MiniMax_AI Fool me once….",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 231,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090090516151243063",
+    "2090098441200517416",
+    "2090114310135574884",
+    "2090146459866083736",
+    "2090198065932013964"
+  ],
+  "item_id": "x-2090098441200517416",
+  "handle": "MiniMax_AI",
+  "http_status": 200,
+  "url": "https://x.com/MiniMax_AI/status/2090098441200517416",
+  "html_bytes": 211318,
+  "raw_path": "raw/items/x-2090098441200517416/thread-raw/x-web-dom-20260904T175314Z.html"
+}

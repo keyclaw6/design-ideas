@@ -1,0 +1,40 @@
+{
+  "id": "github-superdesigndev-treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "source_type": "github",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "treg \u2014 OpenRouter for agent tools",
+  "authors": [
+    "superdesigndev"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/pmitu/status/2094740953554932149",
+    "https://treg.to",
+    "https://treg.to/people-search",
+    "https://treg.to/llms.txt",
+    "https://discord.gg/6mQYYfFMAn"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 1020,
+    "license": "Other (AGPL noted on site)",
+    "homepage": "https://treg.to",
+    "language": "Python",
+    "forks": 102,
+    "fetch": "GitHub API + raw README main",
+    "related_items": [
+      "web-treg-people-search",
+      "github-LessieAI-people-search-bench",
+      "github-iannuttall-seo",
+      "github-punkpeye-awesome-mcp-servers",
+      "web-graphed"
+    ],
+    "category_note": "OpenRouter-for-tools: metered SEO/people/ads APIs + BYO keys."
+  }
+}

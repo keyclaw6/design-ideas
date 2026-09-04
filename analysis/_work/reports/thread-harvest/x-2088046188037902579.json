@@ -1,0 +1,83 @@
+{
+  "root_id": "2088046188037902579",
+  "reply_count_reported": 6,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2088046188037902579",
+      "author_handle": null,
+      "created_at": "2026-08-13T23:32:59Z",
+      "text": "genius LLM SEO/GEO hack https://t.co/2dwDI1FuxR",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 607,
+        "replies": 6,
+        "reposts": 19,
+        "views": 74652,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/2dwDI1FuxR"
+      ]
+    },
+    {
+      "id": "2088046354123935763",
+      "author_handle": null,
+      "created_at": "2026-08-13T23:33:39Z",
+      "text": "amazing read and info @BenediktHolm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 3,
+        "reposts": 0,
+        "views": 1829,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088046482440302719",
+      "author_handle": null,
+      "created_at": "2026-08-13T23:34:10Z",
+      "text": "@BenediktHolm may i recommend metadata/thumbnails for your blogs to show pictures, it increases clicks drastically",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1542,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088389477492281535",
+      "author_handle": null,
+      "created_at": "2026-08-14T22:17:06Z",
+      "text": "@KingBootoshi Love it https://t.co/veXnkp2JjU",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 406,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/veXnkp2JjU"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088046188037902579",
+    "2088046354123935763",
+    "2088046482440302719",
+    "2088389477492281535"
+  ],
+  "item_id": "x-2088046188037902579",
+  "handle": "KingBootoshi",
+  "http_status": 200,
+  "url": "https://x.com/KingBootoshi/status/2088046188037902579",
+  "html_bytes": 242052,
+  "raw_path": "raw/items/x-2088046188037902579/thread-raw/x-web-dom-20260904T175307Z.html"
+}

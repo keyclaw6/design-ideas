@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2087714580491370655",
+  "tweet_id": "2087714580491370655",
+  "root_author_handle": "Howaboua",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 10,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 7,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087722943728291960",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T02:08:32Z",
+      "text": "@Howaboua @pidotdev Clawa getting her own GitHub account is kind of elite lol",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 162
+      },
+      "parent_id": "2087714580491370655",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087716063211294860",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T01:41:12Z",
+      "text": "@Howaboua @pidotdev love seeing your updates wagmi 🤗",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 77
+      },
+      "parent_id": "2087714580491370655",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087825021838184768",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T08:54:09Z",
+      "text": "@Howaboua @pidotdev I saw it briefly yesterday in your video, was quite impressed. What do you think if it could work as background/status bar Mac app also? Would be quite convinient.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 95
+      },
+      "parent_id": "2087714580491370655",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Howaboua/status/2087714580491370655",
+      "outcome": "ok",
+      "note": "html_bytes=263895 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Howaboua/status/2087714580491370655",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087714580491370655/thread-raw/x-web-dom-20260904T175306Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

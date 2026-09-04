@@ -1,0 +1,80 @@
+{
+  "schema_version": "1",
+  "id": "x-2091621183422943726",
+  "tweet_id": "2091621183422943726",
+  "root_author_handle": "CadX_Studio",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 3,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091786125140709735",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T07:14:10Z",
+      "text": "@CadX_Studio AI + CAD is a powerful combo.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 48
+      },
+      "parent_id": "2091621183422943726",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091621673246261601",
+      "author_handle": "CadX_Studio",
+      "created_at": "2026-08-23T20:20:42Z",
+      "text": "This isn't a photo of a Stanley cup.\nIt's an AI-generated CAD render - designed in one shot.\nhttps://t.co/uhtHLA2YNY https://t.co/LS3rEXcyI8",
+      "text_en": null,
+      "urls": [
+        "https://t.co/uhtHLA2YNY",
+        "https://t.co/LS3rEXcyI8"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 233
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/CadX_Studio/status/2091621183422943726",
+      "outcome": "ok",
+      "note": "html_bytes=171238 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/CadX_Studio/status/2091621183422943726",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091621183422943726/thread-raw/x-web-dom-20260904T175318Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "x-2093677274641969390",
+  "url": "https://x.com/imryven/status/2093677274641969390",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:49Z",
+  "title": "a researcher told me he abandoned his second brain after four months. \"the more i added, the more i had to manage. it be",
+  "authors": [
+    "Ryven (@imryven)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2093677274641969390",
+    "author_handle": "imryven",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Self-maintaining knowledge compiler (RAW/WIKI/CLAUDE.md + ingest/write/review automations)."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2087280401475600698",
+  "tweet_id": "2087280401475600698",
+  "root_author_handle": "TRYCOSMOS2",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 11,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 8,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088317075727016067",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T17:29:24Z",
+      "text": "@TRYCOSMOS2 Too good to be true. What’s the catch?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 214
+      },
+      "parent_id": "2087280401475600698",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087551981485179269",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T14:49:11Z",
+      "text": "@TRYCOSMOS2 Sounds dope 😎",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 727
+      },
+      "parent_id": "2087280401475600698",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2088019388427374931",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T21:46:30Z",
+      "text": "@TRYCOSMOS2 ⁷",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 255
+      },
+      "parent_id": "2087280401475600698",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/TRYCOSMOS2/status/2087280401475600698",
+      "outcome": "ok",
+      "note": "html_bytes=180216 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/TRYCOSMOS2/status/2087280401475600698",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087280401475600698/thread-raw/x-web-dom-20260904T175305Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

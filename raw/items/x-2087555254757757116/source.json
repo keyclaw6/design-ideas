@@ -1,0 +1,30 @@
+{
+  "id": "x-2087555254757757116",
+  "url": "https://x.com/usekernel/status/2087555254757757116",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:07:43Z",
+  "title": "KERNEL browsers now support custom proxies with CA bundles. pass your CA bundle in when you create the proxy and it will",
+  "authors": [
+    "@usekernel"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087555254757757116",
+    "author_handle": "usekernel",
+    "related_items": [
+      "github-h4ckf0r0day-obscura",
+      "web-cloudflare-kitesurf",
+      "web-obscura-sh",
+      "github-punkpeye-awesome-mcp-servers"
+    ],
+    "category_note": "KERNEL agent browsers: custom proxy + CA bundle"
+  }
+}

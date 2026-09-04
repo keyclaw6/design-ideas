@@ -1,0 +1,33 @@
+{
+  "root_id": "2095136786095951924",
+  "reply_count_reported": 1,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095136786095951924",
+      "author_handle": null,
+      "created_at": "2026-09-02T13:08:30Z",
+      "text": "3DGSは見た目がリアルでも「面」を持たず、Blender編集や3Dプリントにそのまま使いにくい。\n\n- 長野の@ArcanaMfg製作所がSplat2Meshを公開\n- 対応PLYからポリゴンMeshを生成し、OBJ／GLBへ出力\n- Windows 11\n- ローカル処理\n- GPU不要\n\n3DGSを既存の3D制作工程へつなぐ橋になりそう。 https://t.co/g1yWHytvDt",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 38,
+        "replies": 1,
+        "reposts": 3,
+        "views": 3208,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/g1yWHytvDt"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2095136786095951924"
+  ],
+  "item_id": "x-2095136786095951924",
+  "handle": "NarenBao",
+  "http_status": 200,
+  "url": "https://x.com/NarenBao/status/2095136786095951924",
+  "html_bytes": 115969,
+  "raw_path": "raw/items/x-2095136786095951924/thread-raw/x-web-dom-20260904T175336Z.html"
+}

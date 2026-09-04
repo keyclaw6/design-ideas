@@ -1,0 +1,125 @@
+{
+  "schema_version": "1",
+  "id": "x-2094740953554932149",
+  "tweet_id": "2094740953554932149",
+  "root_author_handle": "pmitu",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 35,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 3,
+  "replies_relevant": 3,
+  "replies_dropped_unfetched": 32,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094741771783962742",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T10:58:51Z",
+      "text": "@pmitu @treg_ai I am building a toB product (AI agent that automates AI UGC production and distribution) and this is AWESOME! I have generated 140M view with AI UGC but have zero experience with toB marketing",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "views": 510
+      },
+      "parent_id": "2094740953554932149",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094807278276985330",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T15:19:09Z",
+      "text": "@pmitu @treg_ai https://t.co/CYNCOUhabv\ndid some part of it internally at my org\nwrote about it here:)",
+      "text_en": null,
+      "urls": [
+        "https://t.co/CYNCOUhabv"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 451
+      },
+      "parent_id": "2094740953554932149",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094742427500191781",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T11:01:27Z",
+      "text": "@pmitu @treg_ai curious if this’ll help me find more creators for unfair\n\nI’ll give it a shot https://t.co/wL1NeE75M5",
+      "text_en": null,
+      "urls": [
+        "https://t.co/wL1NeE75M5"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 421
+      },
+      "parent_id": "2094740953554932149",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2094776618015498536",
+      "author_handle": "treg_ai",
+      "created_at": "2026-09-01T13:17:19Z",
+      "text": "How I built KYC Genie — an AI engine that automates the entire account research and GTM pipeline, from raw company name to a sourced, sales-ready dossier. https://t.co/fEE7OibQaa",
+      "text_en": null,
+      "urls": [
+        "https://t.co/fEE7OibQaa"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 5644
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/pmitu/status/2094740953554932149",
+      "outcome": "ok",
+      "note": "html_bytes=251772 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/pmitu/status/2094740953554932149",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094740953554932149/thread-raw/x-web-dom-20260904T175334Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

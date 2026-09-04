@@ -1,0 +1,81 @@
+{
+  "root_id": "2087715372787228734",
+  "reply_count_reported": 9,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087715372787228734",
+      "author_handle": null,
+      "created_at": "2026-08-13T01:38:27Z",
+      "text": "🚨 AND STILL\n\nDeepseek V4 Flash 0731 on @OpenRouter served by @wafer_ai https://t.co/qeYS161a8Y",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 141,
+        "replies": 9,
+        "reposts": 8,
+        "views": 8726,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/qeYS161a8Y"
+      ]
+    },
+    {
+      "id": "2087716011936194605",
+      "author_handle": null,
+      "created_at": "2026-08-13T01:40:59Z",
+      "text": "@wafer_ai @OpenRouter :o",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 222,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087721438300278809",
+      "author_handle": null,
+      "created_at": "2026-08-13T02:02:33Z",
+      "text": "@wafer_ai @OpenRouter nice!  \nwhat fp do you guys server it at?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 270,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087719473264681202",
+      "author_handle": null,
+      "created_at": "2026-08-13T01:54:45Z",
+      "text": "@wafer_ai @OpenRouter 🫶",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 404,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087715372787228734",
+    "2087716011936194605",
+    "2087719473264681202",
+    "2087721438300278809"
+  ],
+  "item_id": "x-2087715372787228734",
+  "handle": "wafer_ai",
+  "http_status": 200,
+  "url": "https://x.com/wafer_ai/status/2087715372787228734",
+  "html_bytes": 182401,
+  "raw_path": "raw/items/x-2087715372787228734/thread-raw/x-web-dom-20260904T175306Z.html"
+}

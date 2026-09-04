@@ -1,0 +1,32 @@
+{
+  "id": "web-open-design-ai",
+  "url": "https://open-design.ai",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:42:00Z",
+  "title": "OpenDesign \u2014 Open Source Vibe Design Workspace",
+  "authors": [
+    "nexu-io"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/tranmautritam/status/2095078647652917329",
+    "https://github.com/nexu-io/open-design"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "github": "nexu-io/open-design",
+    "related_items": [
+      "github-nexu-io-open-design",
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "web-neuform-ai",
+      "github-google-labs-code-design-md"
+    ],
+    "category_note": "Product site for OpenDesign: local vibe workspace, 21+ agents."
+  }
+}

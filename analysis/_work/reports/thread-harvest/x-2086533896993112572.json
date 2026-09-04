@@ -1,0 +1,47 @@
+{
+  "root_id": "2086533896993112572",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2086533896993112572",
+      "author_handle": null,
+      "created_at": "2026-08-09T19:23:41Z",
+      "text": "A 7-step routine costs about €488 for 120 nights.\nThat's €4 a night. Most of it is water.\n\nI'm a chemist. I put every active at full dose in one bottle.\n\n€89. 120 nights. Under €0.75 a night.\nThree pumps before bed. That's the whole routine.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 62,
+        "replies": 4,
+        "reposts": 4,
+        "views": 1002148,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093288484358287704",
+      "author_handle": null,
+      "created_at": "2026-08-28T10:44:00Z",
+      "text": "@SaturateSkin I don't get it. But isn't it normally recommended to apply these ingredients in a particular order? Is it really a good idea to mix them all in one bottle and would they be just as effective?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 154,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086533896993112572",
+    "2093288484358287704"
+  ],
+  "item_id": "x-2086533896993112572",
+  "handle": "SaturateSkin",
+  "http_status": 200,
+  "url": "https://x.com/SaturateSkin/status/2086533896993112572",
+  "html_bytes": 131953,
+  "raw_path": "raw/items/x-2086533896993112572/thread-raw/x-web-dom-20260904T175301Z.html"
+}

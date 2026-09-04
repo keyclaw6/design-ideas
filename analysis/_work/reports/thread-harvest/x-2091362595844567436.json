@@ -1,0 +1,157 @@
+{
+  "root_id": "2091362595844567436",
+  "reply_count_reported": 3,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2091362595844567436",
+      "author_handle": null,
+      "created_at": "2026-08-23T03:11:13Z",
+      "text": "the site is actually up on the wayback machine\n\nhttps://t.co/i81gTmylcS https://t.co/GBfGS10HZM",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 84,
+        "replies": 3,
+        "reposts": 8,
+        "views": 6627,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/i81gTmylcS",
+        "https://t.co/GBfGS10HZM"
+      ]
+    },
+    {
+      "id": "2091293335579222485",
+      "author_handle": null,
+      "created_at": "2026-08-22T22:36:00Z",
+      "text": "fun cad twitter fact: the biggest software dev tool of the decade started as a cad copilot and noped out",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 8465,
+        "quotes": null
+      },
+      "urls": []
+    },
+    {
+      "id": "2091363034648523033",
+      "author_handle": null,
+      "created_at": "2026-08-23T03:12:57Z",
+      "text": "focus on solving bigger problems https://t.co/r0SwKSAdz7",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 231,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/r0SwKSAdz7"
+      ]
+    },
+    {
+      "id": "2091363326014202201",
+      "author_handle": null,
+      "created_at": "2026-08-23T03:14:07Z",
+      "text": "cursor autocompletes your next features based on the assembly you're working in and your company's part library https://t.co/m3iozGbVli",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 160,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/m3iozGbVli"
+      ]
+    },
+    {
+      "id": "2091363449175683475",
+      "author_handle": null,
+      "created_at": "2026-08-23T03:14:36Z",
+      "text": "get instant dfm suggestions from cursor https://t.co/fojLS6tsBS",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 217,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/fojLS6tsBS"
+      ]
+    },
+    {
+      "id": "2091363617291874333",
+      "author_handle": null,
+      "created_at": "2026-08-23T03:15:16Z",
+      "text": "👍increase modeler satisfaction https://t.co/mVU1CPILuD",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 160,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/mVU1CPILuD"
+      ]
+    },
+    {
+      "id": "2091365023943979467",
+      "author_handle": null,
+      "created_at": "2026-08-23T03:20:52Z",
+      "text": "we are building the future of this space over at finite systems\n\nyou can play with this assembly and sign up for early access here https://t.co/4QxCLx0in1 https://t.co/vv3WgJUGXn",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 158,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/4QxCLx0in1",
+        "https://t.co/vv3WgJUGXn"
+      ]
+    },
+    {
+      "id": "2091483823661813849",
+      "author_handle": null,
+      "created_at": "2026-08-23T11:12:56Z",
+      "text": "@jakedahn Wow",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 71,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091293335579222485",
+    "2091362595844567436",
+    "2091363034648523033",
+    "2091363326014202201",
+    "2091363449175683475",
+    "2091363617291874333",
+    "2091365023943979467",
+    "2091483823661813849"
+  ],
+  "item_id": "x-2091362595844567436",
+  "handle": "jakedahn",
+  "http_status": 200,
+  "url": "https://x.com/jakedahn/status/2091362595844567436",
+  "html_bytes": 264407,
+  "raw_path": "raw/items/x-2091362595844567436/thread-raw/x-web-dom-20260904T175316Z.html"
+}

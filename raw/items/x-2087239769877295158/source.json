@@ -1,0 +1,28 @@
+{
+  "id": "x-2087239769877295158",
+  "url": "https://x.com/simplifyinAI/status/2087239769877295158",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:25Z",
+  "title": "you don't need to re-explain your codebase's architecture to your agent every session. most tools stop at telling you wh",
+  "authors": [
+    "Simplifying AI (@simplifyinAI)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087239769877295158",
+    "author_handle": "simplifyinAI",
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2086838432102228008",
+      "x-2091559663833924082",
+      "github-google-labs-code-design-md",
+      "web-davidgasquez-context-engineering"
+    ],
+    "category_note": "Sentrux: Rust binary, plugin languages, live treemap + one quality score for agents."
+  }
+}

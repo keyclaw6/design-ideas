@@ -1,0 +1,81 @@
+{
+  "root_id": "2087955721732460791",
+  "reply_count_reported": 17,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2087955721732460791",
+      "author_handle": null,
+      "created_at": "2026-08-13T17:33:31Z",
+      "text": "Your company brain should learn and improve as your team works.\n\nType builds a separate memory on the individual, team and company level. https://t.co/RSF76uOoG7",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 135,
+        "replies": 17,
+        "reposts": 1,
+        "views": 44249,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/RSF76uOoG7"
+      ]
+    },
+    {
+      "id": "2087965822698369229",
+      "author_handle": null,
+      "created_at": "2026-08-13T18:13:39Z",
+      "text": "@typedotcom Separate memory for people and teams makes a lot of sense.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 636,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088012897410818159",
+      "author_handle": null,
+      "created_at": "2026-08-13T21:20:42Z",
+      "text": "@typedotcom Company memory that actually learns. Love it",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 843,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087966881965805871",
+      "author_handle": null,
+      "created_at": "2026-08-13T18:17:51Z",
+      "text": "@typedotcom This is the kind of memory AI teams actually need.\n\nNot just remembering tasks, but learning how each person, team, and company works over time. Type’s approach makes that feel genuinely useful.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 603,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087955721732460791",
+    "2087965822698369229",
+    "2087966881965805871",
+    "2088012897410818159"
+  ],
+  "item_id": "x-2087955721732460791",
+  "handle": "typedotcom",
+  "http_status": 200,
+  "url": "https://x.com/typedotcom/status/2087955721732460791",
+  "html_bytes": 189741,
+  "raw_path": "raw/items/x-2087955721732460791/thread-raw/x-web-dom-20260904T175307Z.html"
+}

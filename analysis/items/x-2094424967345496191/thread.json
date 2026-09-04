@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2094424967345496191",
+  "tweet_id": "2094424967345496191",
+  "root_author_handle": "DavidOndrej1",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 51,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 17,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 48,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094432989430038575",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T14:31:52Z",
+      "text": "@DavidOndrej1 Thanks for the article, there is an [image here] in the text",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 4082
+      },
+      "parent_id": "2094424967345496191",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094441565628530699",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T15:05:56Z",
+      "text": "@DavidOndrej1 Thanks for sharing your workflow setup.   The only thing I didn't get is \"BB\"",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 2945
+      },
+      "parent_id": "2094424967345496191",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094429002731594142",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T14:16:01Z",
+      "text": "@DavidOndrej1 Why pay for VPS instances and complex orchestration when an old, dusty MacBook running tmux + Tailscale does 100% of this for free? I orchestrate multi-agent sessions directly from my phone while walking the dog, only opening a second laptop for heavy context reviews. True 80/20",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 183
+      },
+      "parent_id": "2094424967345496191",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/DavidOndrej1/status/2094424967345496191",
+      "outcome": "ok",
+      "note": "html_bytes=343018 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/DavidOndrej1/status/2094424967345496191",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094424967345496191/thread-raw/x-web-dom-20260904T175333Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,79 @@
+{
+  "root_id": "2087280401475600698",
+  "reply_count_reported": 11,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087280401475600698",
+      "author_handle": null,
+      "created_at": "2026-08-11T20:50:02Z",
+      "text": "You can now copy 650% ROI Polymarket whales...👇\n\n1. Sign up to cosmos and connect your polymarket account (free)\n\n2. Choose the whales you want to copy.\n\n3. That's it, The smart mirroring system copy the whale trades, in your amounts.\n\nAnd it's 100% free. Join now.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 252,
+        "replies": 11,
+        "reposts": 15,
+        "views": 2895690,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088317075727016067",
+      "author_handle": null,
+      "created_at": "2026-08-14T17:29:24Z",
+      "text": "@TRYCOSMOS2 Too good to be true. What’s the catch?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 214,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087551981485179269",
+      "author_handle": null,
+      "created_at": "2026-08-12T14:49:11Z",
+      "text": "@TRYCOSMOS2 Sounds dope 😎",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 727,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088019388427374931",
+      "author_handle": null,
+      "created_at": "2026-08-13T21:46:30Z",
+      "text": "@TRYCOSMOS2 ⁷",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 255,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087280401475600698",
+    "2087551981485179269",
+    "2088019388427374931",
+    "2088317075727016067"
+  ],
+  "item_id": "x-2087280401475600698",
+  "handle": "TRYCOSMOS2",
+  "http_status": 200,
+  "url": "https://x.com/TRYCOSMOS2/status/2087280401475600698",
+  "html_bytes": 180216,
+  "raw_path": "raw/items/x-2087280401475600698/thread-raw/x-web-dom-20260904T175305Z.html"
+}

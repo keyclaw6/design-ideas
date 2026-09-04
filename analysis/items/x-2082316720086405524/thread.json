@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2082316720086405524",
+  "tweet_id": "2082316720086405524",
+  "root_author_handle": "kunchenguid",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 41,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 12,
+  "replies_captured": 3,
+  "replies_relevant": 3,
+  "replies_dropped_unfetched": 38,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2082396216403403069",
+      "author_handle": "unknown",
+      "created_at": "2026-07-29T09:22:01Z",
+      "text": "@kunchenguid We've built something that gives you the best of both worlds. \n\nWould love to get your feedback! \n\nhttps://t.co/OiQrgdhtYY",
+      "text_en": null,
+      "urls": [
+        "https://t.co/OiQrgdhtYY"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 137
+      },
+      "parent_id": "2082316720086405524",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2082468381673099703",
+      "author_handle": "unknown",
+      "created_at": "2026-07-29T14:08:47Z",
+      "text": "@kunchenguid +1 to all of this! Though I'm probably even more cavalier about secrets and access my agents have through my various logins. Where we are super careful is around \"write\" access to production. Otherwise, the productivity gain from letting agents just do stuff can't be beat.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 303
+      },
+      "parent_id": "2082316720086405524",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2082413443303285195",
+      "author_handle": "unknown",
+      "created_at": "2026-07-29T10:30:28Z",
+      "text": "@kunchenguid Have you tried using a vps instead of your laptop? That is what I have been doing the past few months and it’s made a huge difference. Not only in case something goes wrong but also so my laptop isn’t on 24/7. I am also working a lot more from my phone using termius and herdr.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1042
+      },
+      "parent_id": "2082316720086405524",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "correction",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/kunchenguid/status/2082316720086405524",
+      "outcome": "ok",
+      "note": "html_bytes=279805 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/kunchenguid/status/2082316720086405524",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2082316720086405524/thread-raw/x-web-dom-20260904T175301Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

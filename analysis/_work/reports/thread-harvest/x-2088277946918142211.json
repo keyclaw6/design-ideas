@@ -1,0 +1,65 @@
+{
+  "root_id": "2088277946918142211",
+  "reply_count_reported": 5,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2088277946918142211",
+      "author_handle": null,
+      "created_at": "2026-08-14T14:53:55Z",
+      "text": "More VibeCAD work on the exploded views and simulations. I honestly think this is getting to the place where its very decent and very usable. \n\nPrompt to make this below. https://t.co/icoHF6Rh7o",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 98,
+        "replies": 5,
+        "reposts": 7,
+        "views": 4591,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/icoHF6Rh7o"
+      ]
+    },
+    {
+      "id": "2088278347621040398",
+      "author_handle": null,
+      "created_at": "2026-08-14T14:55:31Z",
+      "text": "I need to make this robot base. The robot base rotates with gears around the bottom and the planetary gear set is incomplete in the picture I have attached - we need to finish it in a sane way that will mechanically work. this is just for a demo, so no questions - just use your",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 2,
+        "reposts": 0,
+        "views": 287,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088295689940042030",
+      "author_handle": null,
+      "created_at": "2026-08-14T16:04:25Z",
+      "text": "@10_X_eng very cool. are you using occt as your geo kernel?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 142,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2088277946918142211",
+    "2088278347621040398",
+    "2088295689940042030"
+  ],
+  "item_id": "x-2088277946918142211",
+  "handle": "10_X_eng",
+  "http_status": 200,
+  "url": "https://x.com/10_X_eng/status/2088277946918142211",
+  "html_bytes": 158829,
+  "raw_path": "raw/items/x-2088277946918142211/thread-raw/x-web-dom-20260904T175309Z.html"
+}

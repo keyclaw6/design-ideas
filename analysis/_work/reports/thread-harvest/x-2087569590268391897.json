@@ -1,0 +1,71 @@
+{
+  "root_id": "2087569590268391897",
+  "reply_count_reported": 55,
+  "quote_count_reported": 72,
+  "tweets": [
+    {
+      "id": "2087633090281632219",
+      "author_handle": null,
+      "created_at": "2026-08-12T20:11:29Z",
+      "text": "@dexhorthy I've recently added some instructions telling the robot to wrap all pseudocode in ```ts fences, just so the output is easier to read, even though it doesn't have to write TypeScript. https://t.co/srF1uzeY2n",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 23,
+        "replies": 1,
+        "reposts": 0,
+        "views": 6676,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/srF1uzeY2n"
+      ]
+    },
+    {
+      "id": "2087647162075054408",
+      "author_handle": null,
+      "created_at": "2026-08-12T21:07:24Z",
+      "text": "@dexhorthy @kunchenguid's lavish does a great job at this as well\nhttps://t.co/E3pEQ9htVx",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 13,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2501,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/E3pEQ9htVx"
+      ]
+    },
+    {
+      "id": "2087658506287485199",
+      "author_handle": null,
+      "created_at": "2026-08-12T21:52:29Z",
+      "text": "@dexhorthy If you take this idea further, you may end up with something like scratchpad:\n\nhtml, markdown, mermaid, latex, call stacks, commenting and more\nhttps://t.co/k853qBgNaP\n\nor https://t.co/jaKLNnZhHv https://t.co/v5EPTzwAar",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1937,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/k853qBgNaP",
+        "https://t.co/jaKLNnZhHv",
+        "https://t.co/v5EPTzwAar"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2087633090281632219",
+    "2087647162075054408",
+    "2087658506287485199"
+  ],
+  "item_id": "x-2087569590268391897",
+  "handle": "dexhorthy",
+  "http_status": 200,
+  "url": "https://x.com/dexhorthy/status/2087569590268391897",
+  "html_bytes": 384657,
+  "raw_path": "raw/items/x-2087569590268391897/thread-raw/x-web-dom-20260904T175306Z.html"
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2089802212000362939",
+  "tweet_id": "2089802212000362939",
+  "root_author_handle": "archedotco",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 6,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 3,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089866774606991545",
+      "author_handle": "unknown",
+      "created_at": "2026-08-19T00:07:21Z",
+      "text": "@archedotco Very impressive! How do you know it's manufacturable?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 411
+      },
+      "parent_id": "2089802212000362939",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2089809075831791681",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T20:18:05Z",
+      "text": "@archedotco Oh wow my tool can copy paste. Phone clippy.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 223
+      },
+      "parent_id": "2089802212000362939",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2089812642852372793",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T20:32:15Z",
+      "text": "@archedotco Interesting but would love to see if it's actually manufacturable as claimed.CAD design is one thing, getting through tolerancing and production is another",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 324
+      },
+      "parent_id": "2089802212000362939",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "correction",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/archedotco/status/2089802212000362939",
+      "outcome": "ok",
+      "note": "html_bytes=197561 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/archedotco/status/2089802212000362939",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089802212000362939/thread-raw/x-web-dom-20260904T175313Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

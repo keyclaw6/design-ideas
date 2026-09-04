@@ -1,0 +1,81 @@
+{
+  "root_id": "2095156045303701766",
+  "reply_count_reported": 17,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2095156045303701766",
+      "author_handle": null,
+      "created_at": "2026-09-02T14:25:01Z",
+      "text": "AI was supposed to replace artists.\n\nSo I hired one to make an AI Gucci ad.\n\nHe drew every shot on paper first.\n\nThen Claude ran the AI part:\n\n&gt; a keyframe per drawing + character sheets\n&gt; Arcads MCP animates, 480p first, keepers at 1080\n&gt; 4K upscale, graded and retimed by hand https://t.co/pEEFOquwMA",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 287,
+        "replies": 17,
+        "reposts": 27,
+        "views": 13239,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/pEEFOquwMA"
+      ]
+    },
+    {
+      "id": "2095156392126505404",
+      "author_handle": null,
+      "created_at": "2026-09-02T14:26:24Z",
+      "text": "@rom1trs Super professional!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 346,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095159422716637650",
+      "author_handle": null,
+      "created_at": "2026-09-02T14:38:27Z",
+      "text": "@rom1trs Dope",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 243,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095341897439224118",
+      "author_handle": null,
+      "created_at": "2026-09-03T02:43:32Z",
+      "text": "@rom1trs Pairing a hand drawn storyboard with AI keeps the craft intact.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 178,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095156045303701766",
+    "2095156392126505404",
+    "2095159422716637650",
+    "2095341897439224118"
+  ],
+  "item_id": "x-2095156045303701766",
+  "handle": "rom1trs",
+  "http_status": 200,
+  "url": "https://x.com/rom1trs/status/2095156045303701766",
+  "html_bytes": 190318,
+  "raw_path": "raw/items/x-2095156045303701766/thread-raw/x-web-dom-20260904T175336Z.html"
+}

@@ -1,0 +1,50 @@
+{
+  "root_id": "2087905319255257296",
+  "reply_count_reported": 2,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087905319255257296",
+      "author_handle": null,
+      "created_at": "2026-08-13T14:13:14Z",
+      "text": "Three new models are live in the Arena:\n⚫ Hitem3D v3.0 (Preview) - Main Arena \n⚫ Meshy 7 - Main Arena \n⚫ Tripo P2.0 - Low Poly Arena\n\nSame prompt pool, same max settings.\n\nBlind battles decide the rest: https://t.co/nJqI1oTFY8\n\n#3DAI #Top3DAI https://t.co/qWZt2a6lhq",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 42,
+        "replies": 2,
+        "reposts": 5,
+        "views": 3841,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/nJqI1oTFY8",
+        "https://t.co/qWZt2a6lhq"
+      ]
+    },
+    {
+      "id": "2088028607545508209",
+      "author_handle": null,
+      "created_at": "2026-08-13T22:23:08Z",
+      "text": "@top3dai Love this blind battles make it fair. Excited to see who wins",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 101,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087905319255257296",
+    "2088028607545508209"
+  ],
+  "item_id": "x-2087905319255257296",
+  "handle": "top3dai",
+  "http_status": 200,
+  "url": "https://x.com/top3dai/status/2087905319255257296",
+  "html_bytes": 138440,
+  "raw_path": "raw/items/x-2087905319255257296/thread-raw/x-web-dom-20260904T175307Z.html"
+}

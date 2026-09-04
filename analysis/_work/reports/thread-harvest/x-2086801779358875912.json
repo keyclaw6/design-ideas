@@ -1,0 +1,84 @@
+{
+  "root_id": "2086801779358875912",
+  "reply_count_reported": 33,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2086801779358875912",
+      "author_handle": null,
+      "created_at": "2026-08-10T13:08:09Z",
+      "text": "Introducing ... 🥁\n\n\"Agentic UI Showcase\"\nhttps://t.co/TcKnzGe4JK\n\nA collection of best product interfaces made with @AgenticUi. https://t.co/19mL2Iq8QY",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 852,
+        "replies": 33,
+        "reposts": 55,
+        "views": 69322,
+        "quotes": 5
+      },
+      "urls": [
+        "https://t.co/TcKnzGe4JK",
+        "https://t.co/19mL2Iq8QY"
+      ]
+    },
+    {
+      "id": "2086802585466401123",
+      "author_handle": null,
+      "created_at": "2026-08-10T13:11:21Z",
+      "text": "@alexgilev Get all these templates and design system 👇\nhttps://t.co/NbjIWaOao0",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1417,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/NbjIWaOao0"
+      ]
+    },
+    {
+      "id": "2086877533039985149",
+      "author_handle": null,
+      "created_at": "2026-08-10T18:09:10Z",
+      "text": "@alexgilev @AgenticUi What a showcase!❤️",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 268,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2086806052603875753",
+      "author_handle": null,
+      "created_at": "2026-08-10T13:25:08Z",
+      "text": "@alexgilev @AgenticUi Phenomenal!!! 🔥Almost like a “fish-eye” effect. I’m exploring a similar view for an upcoming photo gallery.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 185,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086801779358875912",
+    "2086802585466401123",
+    "2086806052603875753",
+    "2086877533039985149"
+  ],
+  "item_id": "x-2086801779358875912",
+  "handle": "alexgilev",
+  "http_status": 200,
+  "url": "https://x.com/alexgilev/status/2086801779358875912",
+  "html_bytes": 216225,
+  "raw_path": "raw/items/x-2086801779358875912/thread-raw/x-web-dom-20260904T175302Z.html"
+}

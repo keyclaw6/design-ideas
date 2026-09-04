@@ -1,0 +1,33 @@
+{
+  "id": "x-2088299905324396589",
+  "url": "https://x.com/Atlas3DAI/status/2088299905324396589",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:07:45Z",
+  "title": "The bike, the ruins, the ramps, the Highlands sky. All of it started as one sentence typed into Atlas. Concept art, 3D a",
+  "authors": [
+    "@Atlas3DAI"
+  ],
+  "topics": [
+    "three-js",
+    "video-generation",
+    "camera-control",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088299905324396589",
+    "author_handle": "Atlas3DAI",
+    "related_items": [
+      "x-2094864872853119216",
+      "x-2087905319255257296",
+      "github-oso95-scroll-world",
+      "note-blender-minimax-h3-video-generation",
+      "github-nv-tlabs-ArtiFixer"
+    ],
+    "category_note": "Atlas: sentence → Blender/Unreal consistent world"
+  }
+}

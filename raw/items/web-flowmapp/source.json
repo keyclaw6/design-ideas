@@ -1,0 +1,31 @@
+{
+  "id": "web-flowmapp",
+  "url": "https://www.flowmapp.com/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "Flowmapp \u2014 Website Planning Tool",
+  "authors": [
+    "Flowmapp"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://app.flowmapp.com/signup",
+    "https://www.flowmapp.com/features/sitemap",
+    "https://www.flowmapp.com/features/estimation-invoice"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "fetch": "r.jina.ai",
+    "related_items": [
+      "web-checklist-design",
+      "github-google-labs-code-design-md",
+      "web-known-agency",
+      "github-nateherkai-scroll-craft",
+      "web-neuform-ai"
+    ],
+    "category_note": "IA/sales tool: brief \u2192 sitemap \u2192 wireframe \u2192 estimate \u2192 invoice."
+  }
+}

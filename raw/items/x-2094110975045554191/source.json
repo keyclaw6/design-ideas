@@ -1,0 +1,24 @@
+{
+  "id": "x-2094110975045554191",
+  "url": "https://x.com/0xfini/status/2094110975045554191",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:50:05Z",
+  "title": "everyone showing off their six agent company is showing off one login. I counted what mine actually did in twenty minute",
+  "authors": [
+    "fini (@0xfini)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094110975045554191",
+    "author_handle": "0xfini",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Multi-agent blast radius: shared logins, spend caps, session expiry, audit."
+  }
+}

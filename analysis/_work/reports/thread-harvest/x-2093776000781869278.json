@@ -1,0 +1,65 @@
+{
+  "root_id": "2093776000781869278",
+  "reply_count_reported": 14,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2093776000781869278",
+      "author_handle": null,
+      "created_at": "2026-08-29T19:01:13Z",
+      "text": "We've helped dozens of YC startups and enterprise B2B companies build their go-to-market motions.\n\nAll of our top performing accounts follow this exact 6-stage modular system:\n\n(bookmark this):\n\n1️⃣ The 6 stages:\n\n→ Traffic Generation\n→ Lead Capture\n→ Lead Nurturing\n→ https://t.co/6cCy3xvbbJ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 93,
+        "replies": 14,
+        "reposts": 10,
+        "views": 5592,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/6cCy3xvbbJ"
+      ]
+    },
+    {
+      "id": "2094068998425972862",
+      "author_handle": null,
+      "created_at": "2026-08-30T14:25:29Z",
+      "text": "@dan__rosenthal cool story bro. where's the LTV/CAC ratio?     \nwhat's the ROAS?     \nhow much burn?     \nthose stages mean nothing without the numbers.     \nmost \"systems\" are just frameworks to sell consulting.     \nshow me the money or gtfo.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 48,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094321253339541605",
+      "author_handle": null,
+      "created_at": "2026-08-31T07:07:52Z",
+      "text": "@dan__rosenthal Stage 6 is where most of these break for us. Across those accounts, what does month-2 logo retention look like for leads from nurture vs demo-booked direct?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 9,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093776000781869278",
+    "2094068998425972862",
+    "2094321253339541605"
+  ],
+  "item_id": "x-2093776000781869278",
+  "handle": "dan__rosenthal",
+  "http_status": 200,
+  "url": "https://x.com/dan__rosenthal/status/2093776000781869278",
+  "html_bytes": 174196,
+  "raw_path": "raw/items/x-2093776000781869278/thread-raw/x-web-dom-20260904T175329Z.html"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "x-2087708050002239702",
+  "url": "https://x.com/orca_build/status/2087708050002239702",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:32:02Z",
+  "title": "Orca has a design mode: draw and annotate right on your site, then send that feedback to any AI agent. Drop the site you",
+  "authors": [
+    "@orca_build"
+  ],
+  "topics": [
+    "design",
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087708050002239702",
+    "author_handle": "orca_build",
+    "related_items": [
+      "web-aidesigner-mcp",
+      "github-pbakaus-impeccable",
+      "web-design-md-hyperbrowser",
+      "github-emilkowalski-skills"
+    ],
+    "category_note": "On-page annotate → any coding agent"
+  }
+}

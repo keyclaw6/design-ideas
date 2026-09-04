@@ -1,0 +1,81 @@
+{
+  "root_id": "2065843739340509693",
+  "reply_count_reported": 119,
+  "quote_count_reported": 20,
+  "tweets": [
+    {
+      "id": "2065843739340509693",
+      "author_handle": null,
+      "created_at": "2026-06-13T17:08:23Z",
+      "text": "codex + blender is insane https://t.co/cTA0cocUsU",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5262,
+        "replies": 119,
+        "reposts": 301,
+        "views": 530612,
+        "quotes": 20
+      },
+      "urls": [
+        "https://t.co/cTA0cocUsU"
+      ]
+    },
+    {
+      "id": "2066161124270330197",
+      "author_handle": null,
+      "created_at": "2026-06-14T14:09:34Z",
+      "text": "@EHuanglu you did it through mcp or programming? I'm not sure but you can make models by wiritng code in blender",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2372,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2065900023317955027",
+      "author_handle": null,
+      "created_at": "2026-06-13T20:52:02Z",
+      "text": "@EHuanglu Do you render the scene in blender then animate it with Seeddream??",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2916,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2065922171059241275",
+      "author_handle": null,
+      "created_at": "2026-06-13T22:20:03Z",
+      "text": "@EHuanglu No way this was done with a LLM 🫪",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 2,
+        "reposts": 0,
+        "views": 4625,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2065843739340509693",
+    "2065900023317955027",
+    "2065922171059241275",
+    "2066161124270330197"
+  ],
+  "item_id": "x-2065843739340509693",
+  "handle": "EHuanglu",
+  "http_status": 200,
+  "url": "https://x.com/EHuanglu/status/2065843739340509693",
+  "html_bytes": 185888,
+  "raw_path": "raw/items/x-2065843739340509693/thread-raw/x-web-dom-20260904T175300Z.html"
+}

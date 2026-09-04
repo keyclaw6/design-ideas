@@ -1,0 +1,27 @@
+{
+  "id": "x-2086838432102228008",
+  "url": "https://x.com/mattpocockuk/status/2086838432102228008",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:07:41Z",
+  "title": "Vibed out an app today and I haven't looked at the internals at all Things are going wrong with it, I'm scared and frust",
+  "authors": [
+    "@mattpocockuk"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2086838432102228008",
+    "author_handle": "mattpocockuk",
+    "related_items": [
+      "x-2087239769877295158",
+      "x-2091559663833924082",
+      "github-google-labs-code-design-md",
+      "web-davidgasquez-context-engineering"
+    ],
+    "category_note": "Matt Pocock: /improve-codebase-architecture after vibe-coding without reading internals."
+  }
+}

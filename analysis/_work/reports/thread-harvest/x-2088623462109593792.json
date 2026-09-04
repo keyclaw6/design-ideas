@@ -1,0 +1,66 @@
+{
+  "root_id": "2088623462109593792",
+  "reply_count_reported": 2,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2088623462109593792",
+      "author_handle": null,
+      "created_at": "2026-08-15T13:46:52Z",
+      "text": "Connects enterprise knowledge across your organization to build AI agents, RAG applications, and search on a single governed context layer.\n\nhttps://t.co/52vTggk0qs https://t.co/DQvtY7oycI",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 194,
+        "replies": 2,
+        "reposts": 27,
+        "views": 13819,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/52vTggk0qs",
+        "https://t.co/DQvtY7oycI"
+      ]
+    },
+    {
+      "id": "2089164335402602929",
+      "author_handle": null,
+      "created_at": "2026-08-17T01:36:07Z",
+      "text": "@tom_doerr Oh nice, and open source",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 47,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088660134235140219",
+      "author_handle": null,
+      "created_at": "2026-08-15T16:12:36Z",
+      "text": "@tom_doerr that's the thing most people miss about ai in enterprise: it's not just building smart models, but also stitching together siloed knowledgebases to make those models work at scale.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 60,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2088623462109593792",
+    "2088660134235140219",
+    "2089164335402602929"
+  ],
+  "item_id": "x-2088623462109593792",
+  "handle": "tom_doerr",
+  "http_status": 200,
+  "url": "https://x.com/tom_doerr/status/2088623462109593792",
+  "html_bytes": 152299,
+  "raw_path": "raw/items/x-2088623462109593792/thread-raw/x-web-dom-20260904T175310Z.html"
+}

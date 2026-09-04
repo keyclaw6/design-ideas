@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2095111032171876470",
+  "tweet_id": "2095111032171876470",
+  "root_author_handle": "rege_dev",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 10,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 7,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095115192703308231",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T11:42:41Z",
+      "text": "@rege_dev Could you please share the template?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 140
+      },
+      "parent_id": "2095111032171876470",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2095111672147128593",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T11:28:42Z",
+      "text": "@rege_dev Absolutely wild 😍",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 178
+      },
+      "parent_id": "2095111032171876470",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2095112545661292725",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T11:32:10Z",
+      "text": "@rege_dev Pretty cool stuff😍",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 154
+      },
+      "parent_id": "2095111032171876470",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/rege_dev/status/2095111032171876470",
+      "outcome": "ok",
+      "note": "html_bytes=193337 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/rege_dev/status/2095111032171876470",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095111032171876470/thread-raw/x-web-dom-20260904T175336Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

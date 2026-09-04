@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2092918452423983363",
+  "tweet_id": "2092918452423983363",
+  "root_author_handle": "femke_plantinga",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 97,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 22,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 94,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092953929432616964",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T12:34:36Z",
+      "text": "@femke_plantinga everyone builds the remembering part, nobody wants to own the forgetting part",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 14,
+        "replies": 3,
+        "reposts": 0,
+        "views": 2756
+      },
+      "parent_id": "2092918452423983363",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2092970396001960139",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T13:40:02Z",
+      "text": "@femke_plantinga I’m building a knowledge graph. Used to have it on neo4j. Now just dynamically building locally on research tasks with levels of expiration",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2087
+      },
+      "parent_id": "2092918452423983363",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093122279874215941",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T23:43:34Z",
+      "text": "@femke_plantinga You haven’t tried the best one yet: https://t.co/9NXgrLFpAH",
+      "text_en": null,
+      "urls": [
+        "https://t.co/9NXgrLFpAH"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 1,
+        "views": 182
+      },
+      "parent_id": "2092918452423983363",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/femke_plantinga/status/2092918452423983363",
+      "outcome": "ok",
+      "note": "html_bytes=234923 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/femke_plantinga/status/2092918452423983363",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092918452423983363/thread-raw/x-web-dom-20260904T175323Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

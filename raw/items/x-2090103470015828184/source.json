@@ -1,0 +1,33 @@
+{
+  "id": "x-2090103470015828184",
+  "url": "https://x.com/UnslothAI/status/2090103470015828184",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:31Z",
+  "title": "We’re releasing new Qwen3.8-27B GGUFs with 10% higher accuracy. Unsloth Dynamic V3 outperforms others by >10% on Div-300",
+  "authors": [
+    "Unsloth AI (@UnslothAI)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+    "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2090103470015828184",
+    "author_handle": "UnslothAI",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Unsloth Dynamic V3 GGUFs for Qwen3.8-27B — local, including 1-bit/8GB.",
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2089165107364278341",
+      "x-2088695568474546387",
+      "web-cerebras-knowledge-base"
+    ]
+  }
+}

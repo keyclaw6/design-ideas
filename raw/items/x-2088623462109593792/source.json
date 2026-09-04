@@ -1,0 +1,30 @@
+{
+  "id": "x-2088623462109593792",
+  "url": "https://x.com/tom_doerr/status/2088623462109593792",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:23Z",
+  "title": "Connects enterprise knowledge across your organization to build AI agents, RAG applications, and search on a single gove",
+  "authors": [
+    "@tom_doerr"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://github.com/pipeshub-ai/pipeshub-ai"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088623462109593792",
+    "author_handle": "tom_doerr",
+    "category_note": "PipesHub — governed enterprise knowledge layer for RAG/agents/search.",
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering",
+      "web-anthropic-claude-self-service-data",
+      "github-punkpeye-awesome-mcp-servers"
+    ]
+  }
+}

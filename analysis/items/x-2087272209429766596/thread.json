@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2087272209429766596",
+  "tweet_id": "2087272209429766596",
+  "root_author_handle": "CadX_Studio",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 32,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 9,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 31,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087295350121873408",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T21:49:26Z",
+      "text": "@CadX_Studio Hi! Can CADx Studio be used to design flat-pack furniture? For example, can I create the assembled model, lay out each panel as a 2D cutting profile, and export the individual parts as DXF files for CNC routing? Or is export currently limited to STEP?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1069
+      },
+      "parent_id": "2087272209429766596",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "recipe",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087273618132844626",
+      "author_handle": "CadX_Studio",
+      "created_at": "2026-08-11T20:23:04Z",
+      "text": "This speaker was designed entirely in CadXStudio using just a text prompt.\n\nNo sketches. No traditional CAD workflow.\nJust Text → CAD.\nThis is what AI-native hardware design looks like.\n\n#ai #cad #texttocad #aicad https://t.co/jN9qqATgJq",
+      "text_en": null,
+      "urls": [
+        "https://t.co/jN9qqATgJq"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 14,
+        "replies": 0,
+        "reposts": 1,
+        "views": 1859
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/CadX_Studio/status/2087272209429766596",
+      "outcome": "ok",
+      "note": "html_bytes=175684 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/CadX_Studio/status/2087272209429766596",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087272209429766596/thread-raw/x-web-dom-20260904T175305Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

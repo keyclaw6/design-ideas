@@ -1,0 +1,67 @@
+{
+  "root_id": "2091891133286605067",
+  "reply_count_reported": 27,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2091891133286605067",
+      "author_handle": null,
+      "created_at": "2026-08-24T14:11:26Z",
+      "text": "My autorouter works! This board completes in around 1 min, and manages to implement the required routing on just 2 layers instead of 4.\nFor comparison: Freerouting was unable to complete the board after 25mins, and I'm tied with DeepPCB on their benchmarks for routing airwires https://t.co/3QPRSt5pdj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 544,
+        "replies": 27,
+        "reposts": 35,
+        "views": 27079,
+        "quotes": 5
+      },
+      "urls": [
+        "https://t.co/3QPRSt5pdj"
+      ]
+    },
+    {
+      "id": "2091891339315089681",
+      "author_handle": null,
+      "created_at": "2026-08-24T14:12:15Z",
+      "text": "Few more things need to be added in, main one is netclasses for different trace widths/clearances but that's pretty trivial",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1486,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091897482191995272",
+      "author_handle": null,
+      "created_at": "2026-08-24T14:36:39Z",
+      "text": "@paulcjh This looks sweet!\n\nI made something along these lines a few weeks ago, as a kicad plugin. I found what was most useful was the ability to specify and place subsystems together in optimal configuration.\n\nMy system let you autoroute a few nets at a time thereafter, but I found that https://t.co/nIk29PGTLk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 17,
+        "replies": 1,
+        "reposts": 0,
+        "views": 522,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/nIk29PGTLk"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2091891133286605067",
+    "2091891339315089681",
+    "2091897482191995272"
+  ],
+  "item_id": "x-2091891133286605067",
+  "handle": "paulcjh",
+  "http_status": 200,
+  "url": "https://x.com/paulcjh/status/2091891133286605067",
+  "html_bytes": 170519,
+  "raw_path": "raw/items/x-2091891133286605067/thread-raw/x-web-dom-20260904T175320Z.html"
+}

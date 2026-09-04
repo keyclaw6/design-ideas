@@ -1,0 +1,31 @@
+{
+  "root_id": "2090589293677023507",
+  "reply_count_reported": 0,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2090589293677023507",
+      "author_handle": null,
+      "created_at": "2026-08-20T23:58:23Z",
+      "text": "The core claim checks out. For years 3D Gaussian Splatting quality was solid, but huge files, missing streaming/LOD, and weak deployment blocked practical use of large scenes.  Advances now deliver LOD systems, progressive streaming, SPZ compression, collision meshes, and true",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 139,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090589293677023507"
+  ],
+  "item_id": "x-2090589293677023507",
+  "handle": "worksalt",
+  "http_status": 200,
+  "url": "https://x.com/worksalt/status/2090589293677023507",
+  "html_bytes": 138139,
+  "raw_path": "raw/items/x-2090589293677023507/thread-raw/x-web-dom-20260904T175315Z.html"
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2091571624390881664",
+  "tweet_id": "2091571624390881664",
+  "root_author_handle": "MengTo",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 51,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 12,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 48,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091574187613643043",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T17:12:00Z",
+      "text": "@MengTo genuinely the best use of opus for frontend i've seen posted, not a demo, an actual growing library",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 512
+      },
+      "parent_id": "2091571624390881664",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091585649480470598",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T17:57:33Z",
+      "text": "@MengTo 160 free components is a lot of surface area to keep consistent. How are you catching regressions when you tweak shared source across the whole set, spot checking scenes manually or do you have some kind of batch render and diff step before you ship a theme change?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 1,
+        "reposts": 0,
+        "views": 716
+      },
+      "parent_id": "2091571624390881664",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "recipe",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091578849486123476",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T17:30:32Z",
+      "text": "@MengTo Meng i can see you're in a flow and feel unstoppable, i want to stress that you're output is so high quality that i hope people can catch up but i want you to know that the work you're doing now will be discussed for a long time after the momentum of these posts.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 427
+      },
+      "parent_id": "2091571624390881664",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2090817187900780961",
+      "author_handle": "MengTo",
+      "created_at": "2026-08-21T15:03:57Z",
+      "text": "I open-sourced ThreeUI, my library of three.js components and landing pages.\n\n160+ are free, and the tool is free too. It includes procedural 3D hero sections, icons, and motion designs. Copy the prompt or source, give it to your agent, then change the theme, lighting, motion or https://t.co/YagCLibnqu",
+      "text_en": null,
+      "urls": [
+        "https://t.co/YagCLibnqu"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/MengTo/status/2091571624390881664",
+      "outcome": "ok",
+      "note": "html_bytes=236977 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/MengTo/status/2091571624390881664",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091571624390881664/thread-raw/x-web-dom-20260904T175318Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

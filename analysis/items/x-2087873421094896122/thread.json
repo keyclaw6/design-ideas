@@ -1,0 +1,125 @@
+{
+  "schema_version": "1",
+  "id": "x-2087873421094896122",
+  "tweet_id": "2087873421094896122",
+  "root_author_handle": "trending_repos",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 15,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 12,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088184018655379584",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T08:40:41Z",
+      "text": "@trending_repos Been using https://t.co/9K9sR0syTp\n\nWill try this",
+      "text_en": null,
+      "urls": [
+        "https://t.co/9K9sR0syTp"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1073
+      },
+      "parent_id": "2087873421094896122",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2088015456389005402",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T21:30:52Z",
+      "text": "@trending_repos hmm… I got an idea! \n\nhttps://t.co/S9WNeNIFmJ",
+      "text_en": null,
+      "urls": [
+        "https://t.co/S9WNeNIFmJ"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2465
+      },
+      "parent_id": "2087873421094896122",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2087931742187606475",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T15:58:13Z",
+      "text": "@trending_repos mermaid slop is real. this is a good direction.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2103
+      },
+      "parent_id": "2087873421094896122",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087569590268391897",
+      "author_handle": "trending_repos",
+      "created_at": "2026-08-12T15:59:10Z",
+      "text": "https://t.co/L0G15QT1Tv",
+      "text_en": null,
+      "urls": [
+        "https://t.co/L0G15QT1Tv"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 798106
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/trending_repos/status/2087873421094896122",
+      "outcome": "ok",
+      "note": "html_bytes=268069 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/trending_repos/status/2087873421094896122",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087873421094896122/thread-raw/x-web-dom-20260904T175307Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

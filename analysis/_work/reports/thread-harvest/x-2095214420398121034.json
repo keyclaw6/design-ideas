@@ -1,0 +1,81 @@
+{
+  "root_id": "2095214420398121034",
+  "reply_count_reported": 9,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2095214420398121034",
+      "author_handle": null,
+      "created_at": "2026-09-02T18:16:59Z",
+      "text": "Introducing MapsData\n\n&gt; $0.33-$0.98 per 1,000 leads\n&gt; up to 100,000 leads per scrape\n&gt; over 4000 queries to scrape\n&gt; live scraping and fresh data\n&gt; only get billed for emails\n\nstart with 500 free leads https://t.co/i9xcyNQLsr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 83,
+        "replies": 9,
+        "reposts": 8,
+        "views": 8640,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/i9xcyNQLsr"
+      ]
+    },
+    {
+      "id": "2095215560686473303",
+      "author_handle": null,
+      "created_at": "2026-09-02T18:21:31Z",
+      "text": "@levikmunneke Scraper king",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 247,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095215997762638202",
+      "author_handle": null,
+      "created_at": "2026-09-02T18:23:15Z",
+      "text": "@levikmunneke Best lead scraper out there",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 327,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095377918843322867",
+      "author_handle": null,
+      "created_at": "2026-09-03T05:06:40Z",
+      "text": "@levikmunneke How is it different from serper scraping maps?  Gonna give it a try later today, looking good",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 202,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095214420398121034",
+    "2095215560686473303",
+    "2095215997762638202",
+    "2095377918843322867"
+  ],
+  "item_id": "x-2095214420398121034",
+  "handle": "levikmunneke",
+  "http_status": 200,
+  "url": "https://x.com/levikmunneke/status/2095214420398121034",
+  "html_bytes": 187923,
+  "raw_path": "raw/items/x-2095214420398121034/thread-raw/x-web-dom-20260904T175337Z.html"
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2093654908322951447",
+  "tweet_id": "2093654908322951447",
+  "root_author_handle": "rubenhassid",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 73,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 11,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 70,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093694990564376815",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T13:39:19Z",
+      "text": "@rubenhassid the irony of an ai-written post telling people to stop writing like ai",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 15,
+        "replies": 0,
+        "reposts": 0,
+        "views": 551
+      },
+      "parent_id": "2093654908322951447",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2093708935291085277",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T14:34:44Z",
+      "text": "@rubenhassid I do not understand the preference for human slop over AI slop. I just want to read interesting well written content. Most human writing is garbage too.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 12,
+        "replies": 1,
+        "reposts": 0,
+        "views": 587
+      },
+      "parent_id": "2093654908322951447",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093897382203175415",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T03:03:33Z",
+      "text": "@rubenhassid This is such a ridiculous list. Anyone who grew up in a commonwealth country uses the red ones at the top (including delve) pretty frequently versus the average American. Now you’re saying the way they normally speak English is AI slop?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 310
+      },
+      "parent_id": "2093654908322951447",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2080171634103840976",
+      "author_handle": "rubenhassid",
+      "created_at": "2026-07-23T06:02:19Z",
+      "text": "https://t.co/XAisibLmEi",
+      "text_en": null,
+      "urls": [
+        "https://t.co/XAisibLmEi"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 1377152
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/rubenhassid/status/2093654908322951447",
+      "outcome": "ok",
+      "note": "html_bytes=227576 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/rubenhassid/status/2093654908322951447",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093654908322951447/thread-raw/x-web-dom-20260904T175328Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

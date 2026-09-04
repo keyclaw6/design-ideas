@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2095437841958314100",
+  "tweet_id": "2095437841958314100",
+  "root_author_handle": "grokkedd",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 8,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 5,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095447297765134477",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T09:42:21Z",
+      "text": "@grokkedd Crazy how does it work",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "views": 249
+      },
+      "parent_id": "2095437841958314100",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2095444168197747015",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T09:29:55Z",
+      "text": "@grokkedd One image becoming a simulation",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 320
+      },
+      "parent_id": "2095437841958314100",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2095438644601352571",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T09:07:58Z",
+      "text": "@grokkedd That’s rly works bro?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 275
+      },
+      "parent_id": "2095437841958314100",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/grokkedd/status/2095437841958314100",
+      "outcome": "ok",
+      "note": "html_bytes=220448 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/grokkedd/status/2095437841958314100",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095437841958314100/thread-raw/x-web-dom-20260904T175338Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

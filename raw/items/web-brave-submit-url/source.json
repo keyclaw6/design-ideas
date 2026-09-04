@@ -1,0 +1,32 @@
+{
+  "id": "web-brave-submit-url",
+  "url": "https://search.brave.com/submit-url",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "Brave Search \u2014 Submit URL",
+  "authors": [
+    "Brave Software"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/hridoyreh/status/2094688982940741816",
+    "https://search.brave.com/settings",
+    "https://search.brave.com/help/usage-metrics"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "fetch": "r.jina.ai; page may require CAPTCHA for interactive submit",
+    "fetch_note": "Static shell captured; form interaction not exercised",
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-tinylaunch-directories",
+      "web-tinyshelf",
+      "web-crowdreply",
+      "web-nqz-ai-search-prompt-generator"
+    ],
+    "category_note": "Brave Search index refresh/submit URL form."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": "1",
+  "id": "x-2093429897188299113",
+  "tweet_id": "2093429897188299113",
+  "root_author_handle": "EyalToledano",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 38,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 8,
+  "replies_captured": 2,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 36,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093987103306641890",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T09:00:04Z",
+      "text": "@HamsterResearch https://t.co/ud5cHirR69",
+      "text_en": null,
+      "urls": [
+        "https://t.co/ud5cHirR69"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1388
+      },
+      "parent_id": "2093429897188299113",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093451189337924073",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T21:30:32Z",
+      "text": "@EyalToledano @HamsterResearch I had exactly this idea earlier today and came up with a prototype - using Hamster's REAP'd expert selection as a pinned source of truth and then letting analytics inform which experts to hold in the cache and which to evict. oMLX fork with this &amp; some optimisations I discovered",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 34,
+        "replies": 3,
+        "reposts": 0,
+        "views": 3827
+      },
+      "parent_id": "2093429897188299113",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093986486089584779",
+      "author_handle": "HamsterResearch",
+      "created_at": "2026-08-30T08:57:37Z",
+      "text": "\"which quant should I download?\" is a question you may never have to answer again\n\nthe team @HamsterResearch has figured out how to kill it with pMLX. download once at full precision (bf16) and the engine re-fits it to your machine on the fly, based on the job you give it\n\ntell https://t.co/nMOmYBKEMx",
+      "text_en": null,
+      "urls": [
+        "https://t.co/nMOmYBKEMx"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/EyalToledano/status/2093429897188299113",
+      "outcome": "ok",
+      "note": "html_bytes=205615 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/EyalToledano/status/2093429897188299113",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093429897188299113/thread-raw/x-web-dom-20260904T175327Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

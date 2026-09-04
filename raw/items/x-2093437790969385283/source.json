@@ -1,0 +1,23 @@
+{
+  "id": "x-2093437790969385283",
+  "url": "https://x.com/gregmushen/status/2093437790969385283",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:36:46Z",
+  "title": "This is how I've been building production agents lately. Hermes - owns judgement, objectives, timing, etc. Skills - proc",
+  "authors": [
+    "@gregmushen"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2093437790969385283",
+    "author_handle": "gregmushen",
+    "category_note": "Production agents: Hermes judgement + slim skills + CLIs + telemetry loop."
+  }
+}

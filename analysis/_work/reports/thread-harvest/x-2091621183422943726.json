@@ -1,0 +1,69 @@
+{
+  "root_id": "2091621183422943726",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2091621183422943726",
+      "author_handle": null,
+      "created_at": "2026-08-23T20:18:45Z",
+      "text": "Everyone's obsessed with Stanley cups.\nWe asked AI to design one - in one shot, zero CAD skills.\nBuilt entirely in https://t.co/uhtHLA2YNY \n\n#AI #CAD #ProductDesign https://t.co/a7kz9B9cUX",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 86,
+        "replies": 4,
+        "reposts": 9,
+        "views": 3275,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/uhtHLA2YNY",
+        "https://t.co/a7kz9B9cUX"
+      ]
+    },
+    {
+      "id": "2091621673246261601",
+      "author_handle": null,
+      "created_at": "2026-08-23T20:20:42Z",
+      "text": "This isn't a photo of a Stanley cup.\nIt's an AI-generated CAD render - designed in one shot.\nhttps://t.co/uhtHLA2YNY https://t.co/LS3rEXcyI8",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 233,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/uhtHLA2YNY",
+        "https://t.co/LS3rEXcyI8"
+      ]
+    },
+    {
+      "id": "2091786125140709735",
+      "author_handle": null,
+      "created_at": "2026-08-24T07:14:10Z",
+      "text": "@CadX_Studio AI + CAD is a powerful combo.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 48,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091621183422943726",
+    "2091621673246261601",
+    "2091786125140709735"
+  ],
+  "item_id": "x-2091621183422943726",
+  "handle": "CadX_Studio",
+  "http_status": 200,
+  "url": "https://x.com/CadX_Studio/status/2091621183422943726",
+  "html_bytes": 171238,
+  "raw_path": "raw/items/x-2091621183422943726/thread-raw/x-web-dom-20260904T175318Z.html"
+}

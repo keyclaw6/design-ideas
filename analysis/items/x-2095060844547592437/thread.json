@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2095060844547592437",
+  "tweet_id": "2095060844547592437",
+  "root_author_handle": "paolo_scales",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 15,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 12,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095079539571368174",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T09:21:01Z",
+      "text": "@paolo_scales I'd add that the contrary takes are working much better lately \npeople loove to argue",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 137
+      },
+      "parent_id": "2095060844547592437",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2095108884604068139",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T11:17:37Z",
+      "text": "@paolo_scales The hook really is everything",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 97
+      },
+      "parent_id": "2095060844547592437",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2095196313692356650",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T17:05:02Z",
+      "text": "@paolo_scales The comment section is the real payoff here. 12k commenters is an intent list, and most people never work it past the auto-DM.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 8
+      },
+      "parent_id": "2095060844547592437",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/paolo_scales/status/2095060844547592437",
+      "outcome": "ok",
+      "note": "html_bytes=201609 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/paolo_scales/status/2095060844547592437",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095060844547592437/thread-raw/x-web-dom-20260904T175336Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

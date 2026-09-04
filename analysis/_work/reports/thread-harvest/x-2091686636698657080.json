@@ -1,0 +1,87 @@
+{
+  "root_id": "2091686636698657080",
+  "reply_count_reported": 16,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2091686636698657080",
+      "author_handle": null,
+      "created_at": "2026-08-24T00:38:50Z",
+      "text": "nick turned our docs in to a book\n\nwe've always put a lot of work in to hand-written docs for humans (plus skills for agents)\n\nbut it's something else to see years of work as 825 pages in book form\n\nfor fun: https://t.co/soPNIKFtly https://t.co/cCmrcyXFwZ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 736,
+        "replies": 16,
+        "reposts": 41,
+        "views": 38683,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/soPNIKFtly",
+        "https://t.co/cCmrcyXFwZ"
+      ]
+    },
+    {
+      "id": "2091688206219747655",
+      "author_handle": null,
+      "created_at": "2026-08-24T00:45:04Z",
+      "text": "@NathanFlurry Can I buy this?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2116,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091700983755833848",
+      "author_handle": null,
+      "created_at": "2026-08-24T01:35:51Z",
+      "text": "@NathanFlurry in similar style, I built an isometric diagram system with standardized json format, and I have it generate diagrams of what it works on as part of Changelog. This way when I come back after a day, I can review the changes in easy chunks. https://t.co/gbm0zf6a97",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 594,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/gbm0zf6a97"
+      ]
+    },
+    {
+      "id": "2091929736276570330",
+      "author_handle": null,
+      "created_at": "2026-08-24T16:44:49Z",
+      "text": "@NathanFlurry Nice! I did something similar for the Swift Language Guide a while ago, and someone actually went to the trouble to print it as a hardback - it looks stunning!\n\nhttps://t.co/PUGTucL8ay https://t.co/Du9uOV5k5G",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 350,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/PUGTucL8ay",
+        "https://t.co/Du9uOV5k5G"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2091686636698657080",
+    "2091688206219747655",
+    "2091700983755833848",
+    "2091929736276570330"
+  ],
+  "item_id": "x-2091686636698657080",
+  "handle": "NathanFlurry",
+  "http_status": 200,
+  "url": "https://x.com/NathanFlurry/status/2091686636698657080",
+  "html_bytes": 195641,
+  "raw_path": "raw/items/x-2091686636698657080/thread-raw/x-web-dom-20260904T175318Z.html"
+}

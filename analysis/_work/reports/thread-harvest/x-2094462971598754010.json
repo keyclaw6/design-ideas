@@ -1,0 +1,81 @@
+{
+  "root_id": "2094462971598754010",
+  "reply_count_reported": 101,
+  "quote_count_reported": 9,
+  "tweets": [
+    {
+      "id": "2094462971598754010",
+      "author_handle": null,
+      "created_at": "2026-08-31T16:31:00Z",
+      "text": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop\n\nAnd I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain\n\nReceipts at https://t.co/D5yLqCfQBk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 603,
+        "replies": 101,
+        "reposts": 50,
+        "views": 54809,
+        "quotes": 9
+      },
+      "urls": [
+        "https://t.co/D5yLqCfQBk"
+      ]
+    },
+    {
+      "id": "2094533694379659412",
+      "author_handle": null,
+      "created_at": "2026-08-31T21:12:01Z",
+      "text": "@garrytan Most people think agent memory = vector search. It isn't. The real challenge is deciding what deserves to survive and retrieving it at exactly the right moment.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 14,
+        "replies": 2,
+        "reposts": 0,
+        "views": 970,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094500422786425104",
+      "author_handle": null,
+      "created_at": "2026-08-31T18:59:49Z",
+      "text": "@garrytan the eval set and the retrieval layer have the same author. what does gbrain score on a memory benchmark somebody else wrote?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "views": 924,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094476312115110338",
+      "author_handle": null,
+      "created_at": "2026-08-31T17:24:00Z",
+      "text": "@garrytan memory evals are the part everyone skips. most agent memory demos measure 'did it store' and never 'did it retrieve the right thing under a paraphrase'. and retrieval without llm-in-loop is the latency win: sub-100ms recall instead of a full model call per lookup",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "views": 52,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094462971598754010",
+    "2094476312115110338",
+    "2094500422786425104",
+    "2094533694379659412"
+  ],
+  "item_id": "x-2094462971598754010",
+  "handle": "garrytan",
+  "http_status": 200,
+  "url": "https://x.com/garrytan/status/2094462971598754010",
+  "html_bytes": 189360,
+  "raw_path": "raw/items/x-2094462971598754010/thread-raw/x-web-dom-20260904T175332Z.html"
+}

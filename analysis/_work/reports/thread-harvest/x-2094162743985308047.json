@@ -1,0 +1,99 @@
+{
+  "root_id": "2094162743985308047",
+  "reply_count_reported": 7,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094162743985308047",
+      "author_handle": null,
+      "created_at": "2026-08-30T20:38:00Z",
+      "text": "We sent the same 1,000 cold emails twice and tripled the deals on the second run. \n\nThe first run followed the classic playbook and produced 20 replies, 5 calls, and 1 deal. \n\nThe second run produced 3 deals, because that batch had already seen our content 3+ times before the https://t.co/Pb3inVL0Kr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 87,
+        "replies": 7,
+        "reposts": 12,
+        "views": 9656,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Pb3inVL0Kr"
+      ]
+    },
+    {
+      "id": "2093034326883733598",
+      "author_handle": null,
+      "created_at": "2026-08-27T17:54:04Z",
+      "text": "https://t.co/NYtAxcduLt",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 22692,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/NYtAxcduLt"
+      ]
+    },
+    {
+      "id": "2094338852575957317",
+      "author_handle": null,
+      "created_at": "2026-08-31T08:17:48Z",
+      "text": "@itsalexvacca Ça confirme ce que je pense depuis longtemps sur le cold email : la 2e vague marche pas grâce au message, mais parce que le nom devient familier.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 56,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094509703795556428",
+      "author_handle": null,
+      "created_at": "2026-08-31T19:36:42Z",
+      "text": "@itsalexvacca you truly love to see it",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 41,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094171771104612407",
+      "author_handle": null,
+      "created_at": "2026-08-30T21:13:52Z",
+      "text": "@itsalexvacca You didn't triple cold email. You warmed the list first.\n\nThat's a content funnel, not a cold send.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 14,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093034326883733598",
+    "2094162743985308047",
+    "2094171771104612407",
+    "2094338852575957317",
+    "2094509703795556428"
+  ],
+  "item_id": "x-2094162743985308047",
+  "handle": "itsalexvacca",
+  "http_status": 200,
+  "url": "https://x.com/itsalexvacca/status/2094162743985308047",
+  "html_bytes": 247997,
+  "raw_path": "raw/items/x-2094162743985308047/thread-raw/x-web-dom-20260904T175331Z.html"
+}

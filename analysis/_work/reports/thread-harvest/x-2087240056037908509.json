@@ -1,0 +1,101 @@
+{
+  "root_id": "2087240056037908509",
+  "reply_count_reported": 35,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2087240056037908509",
+      "author_handle": null,
+      "created_at": "2026-08-11T18:09:43Z",
+      "text": "DEEPSEEK V4 FLASH AND QWEN3.6 ARE FREE ON AMD'S OWN CLOUD AT $10 OF USAGE A DAY\n\n• AMD Token Factory\n&gt; DeepSeek V4 Flash, Qwen3.6 35B, MiniCPM5 and MiniCPM-V46 at zero cost: https://t.co/gMGSQvJTwP\n&gt; $10 every day, not once -- the counter resets daily.\n&gt; Everything outside that https://t.co/5Y4HJOeqTN",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 660,
+        "replies": 35,
+        "reposts": 51,
+        "views": 74235,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/gMGSQvJTwP",
+        "https://t.co/5Y4HJOeqTN"
+      ]
+    },
+    {
+      "id": "2086887574073639257",
+      "author_handle": null,
+      "created_at": "2026-08-10T18:49:04Z",
+      "text": "$1,200 OF CHATGPT PRO IS FREE FOR SIX MONTHS IF YOU MAINTAIN AN OPEN SOURCE PROJECT\n\n• Codex for Open Source\n&gt; Six months of ChatGPT Pro with Codex, no card: https://t.co/I16DsGN5Er\n&gt; API credits from a $1M fund for PR review, release automation and maintainer work.\n&gt; https://t.co/Oq764se170",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/I16DsGN5Er",
+        "https://t.co/Oq764se170"
+      ]
+    },
+    {
+      "id": "2087320194901283246",
+      "author_handle": null,
+      "created_at": "2026-08-11T23:28:09Z",
+      "text": "@slash1sol cmon it's so cheap now even if you use api it's almost for free",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 883,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087242763062358185",
+      "author_handle": null,
+      "created_at": "2026-08-11T18:20:28Z",
+      "text": "@slash1sol 10 bucks a day for those models is insane value",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1796,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087261974027542933",
+      "author_handle": null,
+      "created_at": "2026-08-11T19:36:48Z",
+      "text": "@slash1sol @slash1sol loving this move, makes it easier to experiment without breaking the bank. game changer for devs!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 215,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086887574073639257",
+    "2087240056037908509",
+    "2087242763062358185",
+    "2087261974027542933",
+    "2087320194901283246"
+  ],
+  "item_id": "x-2087240056037908509",
+  "handle": "slash1sol",
+  "http_status": 200,
+  "url": "https://x.com/slash1sol/status/2087240056037908509",
+  "html_bytes": 240715,
+  "raw_path": "raw/items/x-2087240056037908509/thread-raw/x-web-dom-20260904T175304Z.html"
+}

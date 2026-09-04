@@ -1,0 +1,51 @@
+{
+  "root_id": "2088116807869854126",
+  "reply_count_reported": 0,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2088116807869854126",
+      "author_handle": null,
+      "created_at": "2026-08-14T04:13:36Z",
+      "text": "GitHub repo (132,000+ stars), share and star to help me keep shipping:  https://t.co/Sce88yQpi6",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 25,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2197,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Sce88yQpi6"
+      ]
+    },
+    {
+      "id": "2088115654541082886",
+      "author_handle": null,
+      "created_at": "2026-08-14T04:09:02Z",
+      "text": "This is the WAY. \n\nInstall this skill to run your most ambitious agentic workloads with Claude Fable 5, GPT-5.6 and Gemini 3.7 Flash. \n\n100% Opensource agent skill. https://t.co/oxIjQNzxnk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 111,
+        "replies": 20,
+        "reposts": 13,
+        "views": 18623,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/oxIjQNzxnk"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088115654541082886",
+    "2088116807869854126"
+  ],
+  "item_id": "x-2088116807869854126",
+  "handle": "Saboo_Shubham_",
+  "http_status": 200,
+  "url": "https://x.com/Saboo_Shubham_/status/2088116807869854126",
+  "html_bytes": 176234,
+  "raw_path": "raw/items/x-2088116807869854126/thread-raw/x-web-dom-20260904T175308Z.html"
+}

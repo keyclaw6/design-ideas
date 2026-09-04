@@ -1,0 +1,47 @@
+{
+  "id": "x-2094820035344621901",
+  "url": "https://x.com/harris/status/2094820035344621901",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:25:49Z",
+  "title": "Meet investors in waves — venture fundraising FRM",
+  "authors": [
+    "Aaron Harris (@harris)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://frm.theventurecodex.com/",
+    "https://theventurecodex.com/",
+    "https://postround.substack.com/",
+    "https://theventurecodex.com/browse"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:31:57Z",
+    "unsaved_via": "cursor-ide-browser bookmarks pane JS click",
+    "tweet_id": "2094820035344621901",
+    "author_handle": "harris",
+    "author_id": "132518463",
+    "author_name": "Aaron Harris",
+    "created_at": "2026-09-01T16:09:50Z",
+    "likes": 69,
+    "replies": 4,
+    "retweets": 1,
+    "bookmarks": 152,
+    "quotes": 0,
+    "views": 7788,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": true,
+    "video_duration_s": 13.633,
+    "video_id": "2094820012900900870",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + yt-dlp",
+    "topics_note": "FRM itself is fundraising ops; tagged mcp/agent-skills because Harris states every FRM function/datapoint is MCP-accessible."
+  }
+}

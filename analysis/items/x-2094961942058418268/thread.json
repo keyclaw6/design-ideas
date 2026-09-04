@@ -1,0 +1,81 @@
+{
+  "schema_version": "1",
+  "id": "x-2094961942058418268",
+  "tweet_id": "2094961942058418268",
+  "root_author_handle": "tokufxug",
+  "status": "captured_full",
+  "author_thread_status": "captured",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [
+    {
+      "id": "2094962032718270497",
+      "author_handle": "tokufxug",
+      "created_at": "2026-09-02T01:34:05Z",
+      "text": "情報元ページ\nhttps://t.co/nuTE88wjpv",
+      "text_en": null,
+      "urls": [
+        "https://t.co/nuTE88wjpv"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 453
+      }
+    }
+  ],
+  "replies": [
+    {
+      "id": "2094962032718270497",
+      "author_handle": "tokufxug",
+      "created_at": "2026-09-02T01:34:05Z",
+      "text": "情報元ページ\nhttps://t.co/nuTE88wjpv",
+      "text_en": null,
+      "urls": [
+        "https://t.co/nuTE88wjpv"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 453
+      },
+      "parent_id": "2094961942058418268",
+      "depth": 1,
+      "is_author": true,
+      "relevance": "relevant",
+      "relevance_kind": "author-continuation",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/tokufxug/status/2094961942058418268",
+      "outcome": "ok",
+      "note": "html_bytes=155041 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/tokufxug/status/2094961942058418268",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094961942058418268/thread-raw/x-web-dom-20260904T175335Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

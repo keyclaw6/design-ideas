@@ -1,0 +1,94 @@
+{
+  "schema_version": "1",
+  "id": "x-2095502642218664004",
+  "tweet_id": "2095502642218664004",
+  "root_author_handle": "marsoapp",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 2,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 3,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 1,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095587485254598825",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T18:59:25Z",
+      "text": "@marsoapp @m_xrstudio so is it like fancy photogrammetry via a custom model?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 58
+      },
+      "parent_id": "2095502642218664004",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2095502644173259227",
+      "author_handle": "marsoapp",
+      "created_at": "2026-09-03T13:22:17Z",
+      "text": "Reply with a photo of any object you have got to hand and we will run some through and post it back!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 4,
+        "reposts": 0,
+        "views": 191
+      }
+    },
+    {
+      "id": "2095502645783830886",
+      "author_handle": "marsoapp",
+      "created_at": "2026-09-03T13:22:17Z",
+      "text": "Albedo, roughness, metallic and IOR, all sharper than the model they replace.\n\nCheck it out 👉 https://t.co/dPdYG2wjMB",
+      "text_en": null,
+      "urls": [
+        "https://t.co/dPdYG2wjMB"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 135
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/marsoapp/status/2095502642218664004",
+      "outcome": "ok",
+      "note": "html_bytes=188579 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/marsoapp/status/2095502642218664004",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095502642218664004/thread-raw/x-web-dom-20260904T175339Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

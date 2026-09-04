@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "id": "x-2086030681772376399",
+  "tweet_id": "2086030681772376399",
+  "root_author_handle": "chddaniel",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 4,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 2,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086239600583074141",
+      "author_handle": "unknown",
+      "created_at": "2026-08-08T23:54:15Z",
+      "text": "@chddaniel Generation was never the scary part, interpretation is.\n\nI've read Chinese metaphysics charts for over a decade while running engineering as a CTO.\n\nIt doesn't predict what happens, it reflects how someone thinks and decides.\n\nA better model doesn't automate that layer.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 23
+      },
+      "parent_id": "2086030681772376399",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2086106290451784046",
+      "author_handle": "unknown",
+      "created_at": "2026-08-08T15:04:32Z",
+      "text": "@chddaniel 🔥🔥",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 21
+      },
+      "parent_id": "2086030681772376399",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/chddaniel/status/2086030681772376399",
+      "outcome": "ok",
+      "note": "html_bytes=194511 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/chddaniel/status/2086030681772376399",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086030681772376399/thread-raw/x-web-dom-20260904T175301Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,81 @@
+{
+  "root_id": "2077359594666651900",
+  "reply_count_reported": 16,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2077359594666651900",
+      "author_handle": null,
+      "created_at": "2026-07-15T11:48:17Z",
+      "text": "A man spends 50 years teaching at MIT. \n\n He knows his time is running out.  So he records one last lecture — everything he knows, distilled into a single hour.  \n\nHe died 5 months later.  This is that lecture. \n\n The most important hour you'll watch this week. 👇Bookmark it for https://t.co/5q42MbC0Du",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 98,
+        "replies": 16,
+        "reposts": 37,
+        "views": 2909,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/5q42MbC0Du"
+      ]
+    },
+    {
+      "id": "2077419806870131146",
+      "author_handle": null,
+      "created_at": "2026-07-15T15:47:33Z",
+      "text": "@AiandTechHub Awesome post",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 43,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2077420356160405965",
+      "author_handle": null,
+      "created_at": "2026-07-15T15:49:44Z",
+      "text": "@AiandTechHub Great share it is",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 17,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2077365309087097141",
+      "author_handle": null,
+      "created_at": "2026-07-15T12:10:59Z",
+      "text": "@AiandTechHub Nice share",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 49,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2077359594666651900",
+    "2077365309087097141",
+    "2077419806870131146",
+    "2077420356160405965"
+  ],
+  "item_id": "x-2077359594666651900",
+  "handle": "AiandTechHub",
+  "http_status": 200,
+  "url": "https://x.com/AiandTechHub/status/2077359594666651900",
+  "html_bytes": 190137,
+  "raw_path": "raw/items/x-2077359594666651900/thread-raw/x-web-dom-20260904T175300Z.html"
+}

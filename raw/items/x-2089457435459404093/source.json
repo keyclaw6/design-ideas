@@ -1,0 +1,30 @@
+{
+  "id": "x-2089457435459404093",
+  "url": "https://x.com/natebjones/status/2089457435459404093",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:36:43Z",
+  "title": "PSA: If you are tired of Claude-lish or Chat-lish, tell your AI to read the Google Developer Docs Style Guide and build ",
+  "authors": [
+    "@natebjones"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://developers.google.com/style"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2089457435459404093",
+    "author_handle": "natebjones",
+    "category_note": "Build a writing skill from Google Developer Docs Style Guide (beats STE100).",
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "x-2090834948332655011",
+      "github-google-labs-code-design-md",
+      "x-2088742864310481025"
+    ]
+  }
+}

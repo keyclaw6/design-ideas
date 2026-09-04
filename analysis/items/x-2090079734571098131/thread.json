@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2090079734571098131",
+  "tweet_id": "2090079734571098131",
+  "root_author_handle": "DesignByMoein",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 7,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 4,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2090327521828966903",
+      "author_handle": "unknown",
+      "created_at": "2026-08-20T06:38:12Z",
+      "text": "@DesignByMoein awesome ❤️",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 327
+      },
+      "parent_id": "2090079734571098131",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2090327571405898019",
+      "author_handle": "unknown",
+      "created_at": "2026-08-20T06:38:24Z",
+      "text": "@DesignByMoein 可以开源到Github吗？",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 164
+      },
+      "parent_id": "2090079734571098131",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2090096705882771535",
+      "author_handle": "unknown",
+      "created_at": "2026-08-19T15:21:01Z",
+      "text": "@DesignByMoein the inflatable characters are a fun departure",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 206
+      },
+      "parent_id": "2090079734571098131",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2089703590642524221",
+      "author_handle": "DesignByMoein",
+      "created_at": "2026-08-18T13:18:55Z",
+      "text": "Another AI SaaS landing page.\n\nAgain built by Custom Skills + My Video Tool + Claude + Some Creativity https://t.co/aDdpemWAZq",
+      "text_en": null,
+      "urls": [
+        "https://t.co/aDdpemWAZq"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 31749
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/DesignByMoein/status/2090079734571098131",
+      "outcome": "ok",
+      "note": "html_bytes=216682 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/DesignByMoein/status/2090079734571098131",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2090079734571098131/thread-raw/x-web-dom-20260904T175314Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

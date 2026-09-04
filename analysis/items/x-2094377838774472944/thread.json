@@ -1,0 +1,95 @@
+{
+  "schema_version": "1",
+  "id": "x-2094377838774472944",
+  "tweet_id": "2094377838774472944",
+  "root_author_handle": "ShreyashT25",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 2,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 1,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094639175203246356",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T04:11:10Z",
+      "text": "@ShreyashT25 the browser export is wild man. been waiting for a workflow that doesn't kill my gpu to test these camera moves out",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 75
+      },
+      "parent_id": "2094377838774472944",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "recipe",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2094377841173623056",
+      "author_handle": "ShreyashT25",
+      "created_at": "2026-08-31T10:52:43Z",
+      "text": "Made in Spatial Studio: https://t.co/7OebUDN1n4\n\nExplore Landscape Park: https://t.co/Iow579owe9",
+      "text_en": null,
+      "urls": [
+        "https://t.co/7OebUDN1n4",
+        "https://t.co/Iow579owe9"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 5516
+      }
+    },
+    {
+      "id": "2094377843287585159",
+      "author_handle": "ShreyashT25",
+      "created_at": "2026-08-31T10:52:44Z",
+      "text": "Spatial Studio's 3D viewer is built on the amazing #playcanvas engine. Big thanks to the team.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "views": 201
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ShreyashT25/status/2094377838774472944",
+      "outcome": "ok",
+      "note": "html_bytes=199867 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ShreyashT25/status/2094377838774472944",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094377838774472944/thread-raw/x-web-dom-20260904T175331Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

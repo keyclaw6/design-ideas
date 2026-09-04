@@ -1,0 +1,67 @@
+{
+  "root_id": "2092679517588574690",
+  "reply_count_reported": 21,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2092679517588574690",
+      "author_handle": null,
+      "created_at": "2026-08-26T18:24:11Z",
+      "text": "In this setup, a Blender blockout provides the motion and composition while a reference image guides the environment, subject, and textures with MiniMax H3.\n\nWith open weights, you can previs the final look locally for free or run it on Comfy Cloud.\n\nTo try this workflow, link https://t.co/FV5KjJR95E",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 447,
+        "replies": 21,
+        "reposts": 46,
+        "views": 33536,
+        "quotes": 5
+      },
+      "urls": [
+        "https://t.co/FV5KjJR95E"
+      ]
+    },
+    {
+      "id": "2092679529584284139",
+      "author_handle": null,
+      "created_at": "2026-08-26T18:24:14Z",
+      "text": "https://t.co/3FC3kwFwZg",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "reposts": 3,
+        "views": 2592,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/3FC3kwFwZg"
+      ]
+    },
+    {
+      "id": "2092777856237461925",
+      "author_handle": null,
+      "created_at": "2026-08-27T00:54:57Z",
+      "text": "@ComfyUI no and bad workflow 👎",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 192,
+        "replies": 0,
+        "reposts": 1,
+        "views": 1513,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092679517588574690",
+    "2092679529584284139",
+    "2092777856237461925"
+  ],
+  "item_id": "x-2092679517588574690",
+  "handle": "ComfyUI",
+  "http_status": 200,
+  "url": "https://x.com/ComfyUI/status/2092679517588574690",
+  "html_bytes": 187659,
+  "raw_path": "raw/items/x-2092679517588574690/thread-raw/x-web-dom-20260904T175323Z.html"
+}

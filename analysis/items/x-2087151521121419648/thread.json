@@ -1,0 +1,227 @@
+{
+  "schema_version": "1",
+  "id": "x-2087151521121419648",
+  "tweet_id": "2087151521121419648",
+  "root_author_handle": "CopilotKit",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 0,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [
+    {
+      "id": "2087151338136510876",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:11Z",
+      "text": "aimock just crossed 1,000,000 weekly downloads.\n\nMock every API your AI app talks to: 13 providers across 15 API surfaces. MCP, A2A, AG-UI, vector DBs, search, TTS. One port, zero dependencies.\n\nnpm i @copilotkit/aimock\n\nHere's what's inside 🧵 https://t.co/zjyVhhUPGN",
+      "text_en": null,
+      "urls": [
+        "https://t.co/zjyVhhUPGN"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 58,
+        "replies": 3,
+        "reposts": 9,
+        "views": 6033
+      }
+    },
+    {
+      "id": "2087151359439294965",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:16Z",
+      "text": "0/ Trusted and used by top AI Teams:\n\n- @openclaw\n- @mastra\n- @tan_stack\n\nAll use AI mock to streamline testing https://t.co/06ydan3ntm",
+      "text_en": null,
+      "urls": [
+        "https://t.co/06ydan3ntm"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 435
+      }
+    },
+    {
+      "id": "2087151375406989742",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:19Z",
+      "text": "1/ AGUIMock\n\nYour AG-UI frontend (CopilotKit) needs a live agent to test against.\n\nAgent to UI Mock replaces it. Streams text. Tool calls. State updates. https://t.co/BBqTvwOsdm",
+      "text_en": null,
+      "urls": [
+        "https://t.co/BBqTvwOsdm"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 247
+      }
+    },
+    {
+      "id": "2087151394096861210",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:24Z",
+      "text": "2/ LLMock\n\n13 LLM providers. Full streaming. Tool calls. Reasoning models.\n\nOpenAI, Claude, Gemini, Bedrock, Azure, Vertex AI, Ollama, Cohere - one fixture format works across all of them.\n\nPoint your OpenAI client at the mock URL. Same response every time. No API keys. No tokens https://t.co/kGQYOp87ru",
+      "text_en": null,
+      "urls": [
+        "https://t.co/kGQYOp87ru"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 170
+      }
+    },
+    {
+      "id": "2087151410999889965",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:28Z",
+      "text": "3/ MCPMock\n\nYour agent calls MCP tools. Every tool call in your tests hits a live server.\n\nMCPMock gives you a local MCP server - full JSON-RPC, session\nmanagement, tools, resources, prompts.\n\nYour agent connects to it like the real thing. You control every response. https://t.co/w2Zmj1Qrt4",
+      "text_en": null,
+      "urls": [
+        "https://t.co/w2Zmj1Qrt4"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 124
+      }
+    },
+    {
+      "id": "2087151427470942453",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:32Z",
+      "text": "4/ A2AMock\n\nMulti-agent systems are great until you try to test them.\n\nAgent A calls B calls C. One goes down. CI is red.\n\nA2AMock - local A2A server with agent cards, message routing, task management, SSE streaming. Test the whole conversation\nwithout a single agent running. https://t.co/Wfkzd84DXv",
+      "text_en": null,
+      "urls": [
+        "https://t.co/Wfkzd84DXv"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 102
+      }
+    },
+    {
+      "id": "2087151443728076828",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:36Z",
+      "text": "5/ VectorMock\n\n Your RAG tests pass or fail depending on what's in your dev index today. That's not a test.\n\nVectorMock speaks Pinecone, Qdrant, and ChromaDB APIs. Same retrieval results every run. No live database. https://t.co/rrIkpLaSbB",
+      "text_en": null,
+      "urls": [
+        "https://t.co/rrIkpLaSbB"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 93
+      }
+    },
+    {
+      "id": "2087151459330818318",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:39Z",
+      "text": "6/ Record &amp; Replay\n\nStop hand-writing fixtures.\n\nPoint AIMock at your real APIs. It proxies the requests, saves the responses as JSON fixtures, replays them forever.\n\nWorks across OpenAI SSE, Anthropic SSE, Gemini SSE, Cohere SSE, Ollama NDJSON, and Bedrock EventStream. https://t.co/LnP9jGjsZH",
+      "text_en": null,
+      "urls": [
+        "https://t.co/LnP9jGjsZH"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 104
+      }
+    },
+    {
+      "id": "2087151475839717423",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:43Z",
+      "text": "7/ Search, Rerank, Moderation\n\n  The APIs everyone forgets to mock.\n\nTavily search. Cohere reranking. OpenAI moderation. All built in. Register patterns, get deterministic results. No separate servers. https://t.co/3xCfqh5PTl",
+      "text_en": null,
+      "urls": [
+        "https://t.co/3xCfqh5PTl"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 99
+      }
+    },
+    {
+      "id": "2087151493363458483",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:48Z",
+      "text": "8/ Drift Detection\n\nThis one nobody else does.\n\nYour mocks are a snapshot. APIs change. Your mocks still pass. Then prod breaks.\n\nAIMock runs daily CI checks against live endpoints - SDK types vs real API vs mock output. Three-way comparison. You know within 24 hours. https://t.co/n6wQ2bEcyo",
+      "text_en": null,
+      "urls": [
+        "https://t.co/n6wQ2bEcyo"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 73
+      }
+    },
+    {
+      "id": "2087151508861386790",
+      "author_handle": "CopilotKit",
+      "created_at": "2026-08-11T12:17:51Z",
+      "text": "9/ Chaos Testing\n\nLLM APIs fail without warning. Your tests should too.\n\nDrop requests. Return malformed JSON. Kill the TCP connection mid-stream. Set it per server, per fixture, or per request. https://t.co/iVqhgGiMZh",
+      "text_en": null,
+      "urls": [
+        "https://t.co/iVqhgGiMZh"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 1,
+        "views": 252
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/CopilotKit/status/2087151521121419648",
+      "outcome": "ok",
+      "note": "html_bytes=426047 tweets=12"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/CopilotKit/status/2087151521121419648",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087151521121419648/thread-raw/x-web-dom-20260904T175303Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

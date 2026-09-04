@@ -1,0 +1,34 @@
+{
+  "id": "x-2088345102540587356",
+  "url": "https://x.com/caspar_br/status/2088345102540587356",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:30Z",
+  "title": "anatomy of a managed deep agent. https://langch.in/mda",
+  "authors": [
+    "Caspar (@caspar_br)"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://langch.in/mda"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088345102540587356",
+    "author_handle": "caspar_br",
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "github-punkpeye-awesome-mcp-servers",
+      "web-davidgasquez-context-engineering",
+      "x-2087026930323247306",
+      "github-emilkowalski-skills",
+      "web-blume-codes"
+    ],
+    "category_note": "LangChain MDA: agent-as-folder + MCP/skills/evals"
+  }
+}

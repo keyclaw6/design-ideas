@@ -1,0 +1,65 @@
+{
+  "root_id": "2095548418533798086",
+  "reply_count_reported": 19,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2095548418533798086",
+      "author_handle": null,
+      "created_at": "2026-09-03T16:24:11Z",
+      "text": "one of the beautiful things about programmatic CAD and 3D design is more efficient expression:\n\nthe text-to-cad repo has ~10GB of demo models, but the python scripts that generate them are &lt; 3MB.\n\ne.g. this w16 engine model is only 12,000 lines of code: https://t.co/EPPALCTWbr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 697,
+        "replies": 19,
+        "reposts": 51,
+        "views": 27719,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/EPPALCTWbr"
+      ]
+    },
+    {
+      "id": "2095548420618399973",
+      "author_handle": null,
+      "created_at": "2026-09-03T16:24:11Z",
+      "text": "this makes version control with git much easier and faster, since everything is source code that compiles to 3D files\n\n(similar to any repo where you have some distribution artifacts)",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 14,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1418,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095576460191023165",
+      "author_handle": null,
+      "created_at": "2026-09-03T18:15:36Z",
+      "text": "@earthtojake Dude I love text-to-cad, it’s hands down the best way to CAD with agents right now that I’ve found. Great work and keep it up",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 556,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095548418533798086",
+    "2095548420618399973",
+    "2095576460191023165"
+  ],
+  "item_id": "x-2095548418533798086",
+  "handle": "earthtojake",
+  "http_status": 200,
+  "url": "https://x.com/earthtojake/status/2095548418533798086",
+  "html_bytes": 159036,
+  "raw_path": "raw/items/x-2095548418533798086/thread-raw/x-web-dom-20260904T175339Z.html"
+}

@@ -1,0 +1,69 @@
+{
+  "root_id": "2088290952704151671",
+  "reply_count_reported": 85,
+  "quote_count_reported": 23,
+  "tweets": [
+    {
+      "id": "2088290952704151671",
+      "author_handle": null,
+      "created_at": "2026-08-14T15:45:36Z",
+      "text": "Just saw a comment saying that I've never made a proper overview of EVERY skill in my skills repo\n\nI thought \"damn it, he's right\".\n\nSo, here it is. My 25 skills (now @theo-approved), explained in 10 minutes: https://t.co/V4LrLeTduf",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4898,
+        "replies": 85,
+        "reposts": 273,
+        "views": 268446,
+        "quotes": 23
+      },
+      "urls": [
+        "https://t.co/V4LrLeTduf"
+      ]
+    },
+    {
+      "id": "2088290954910347312",
+      "author_handle": null,
+      "created_at": "2026-08-14T15:45:36Z",
+      "text": "Here's the Crash Course! Dropping on Monday:\n\nhttps://t.co/Ws6UxJKV1N",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 75,
+        "replies": 2,
+        "reposts": 1,
+        "views": 20191,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Ws6UxJKV1N"
+      ]
+    },
+    {
+      "id": "2088291022329749726",
+      "author_handle": null,
+      "created_at": "2026-08-14T15:45:52Z",
+      "text": "@mattpocockuk @theo Omg you dropped this while I was reading your docs lol\n\nhttps://t.co/mFEaJFTwHl",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 25,
+        "replies": 3,
+        "reposts": 0,
+        "views": 10147,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/mFEaJFTwHl"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088290952704151671",
+    "2088290954910347312",
+    "2088291022329749726"
+  ],
+  "item_id": "x-2088290952704151671",
+  "handle": "mattpocockuk",
+  "http_status": 200,
+  "url": "https://x.com/mattpocockuk/status/2088290952704151671",
+  "html_bytes": 210226,
+  "raw_path": "raw/items/x-2088290952704151671/thread-raw/x-web-dom-20260904T175309Z.html"
+}

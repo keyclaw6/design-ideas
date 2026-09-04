@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2093024468209733756",
+  "tweet_id": "2093024468209733756",
+  "root_author_handle": "KrisAnfalova",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 14,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 13,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093162059882262871",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T02:21:38Z",
+      "text": "@KrisAnfalova I love it! 👌",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 133
+      },
+      "parent_id": "2093024468209733756",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093028186007241101",
+      "author_handle": "KrisAnfalova",
+      "created_at": "2026-08-27T17:29:40Z",
+      "text": "Your brand could have been here, but you didn't order a design from me 👀🦭😁 https://t.co/fcpwDR65ON",
+      "text_en": null,
+      "urls": [
+        "https://t.co/fcpwDR65ON"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 244
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/KrisAnfalova/status/2093024468209733756",
+      "outcome": "ok",
+      "note": "html_bytes=159270 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/KrisAnfalova/status/2093024468209733756",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093024468209733756/thread-raw/x-web-dom-20260904T175324Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

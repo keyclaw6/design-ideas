@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2086599657925329347",
+  "tweet_id": "2086599657925329347",
+  "root_author_handle": "RoundtableSpace",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 15,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 12,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086633001396424704",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T01:57:29Z",
+      "text": "@RoundtableSpace LEARN TO BUILD $30,000 3D WEBSITES FOR FREE\n1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with  \nCLAUDE AI.\nhttps://t.co/Xox8VfhCVC",
+      "text_en": null,
+      "urls": [
+        "https://t.co/Xox8VfhCVC"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 213
+      },
+      "parent_id": "2086599657925329347",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2086607481178837262",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T00:16:05Z",
+      "text": "@RoundtableSpace Claude can draft 3D site code, but turning it into a performant web experience still needs WebGL/Three.js know‑how and optimization.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 196
+      },
+      "parent_id": "2086599657925329347",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2086600261351407713",
+      "author_handle": "unknown",
+      "created_at": "2026-08-09T23:47:24Z",
+      "text": "@RoundtableSpace There's nothing Claude can't do right now",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 428
+      },
+      "parent_id": "2086599657925329347",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/RoundtableSpace/status/2086599657925329347",
+      "outcome": "ok",
+      "note": "html_bytes=218234 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/RoundtableSpace/status/2086599657925329347",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086599657925329347/thread-raw/x-web-dom-20260904T175302Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

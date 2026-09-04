@@ -1,0 +1,81 @@
+{
+  "root_id": "2094984529853530345",
+  "reply_count_reported": 5,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2094984529853530345",
+      "author_handle": null,
+      "created_at": "2026-09-02T03:03:29Z",
+      "text": "Stop building flat AI websites. 🛑 \n\nHere is how to build a $5,000 scroll-animated interactive website without writing a single line of CSS manually.  \n\nWe chained ChatGPT, Google Gemini, and Claude Code together to engineer the entire 300-frame scroll sequence.  \n\nHere is the https://t.co/q9m0996fab",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 112,
+        "replies": 5,
+        "reposts": 20,
+        "views": 6437,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/q9m0996fab"
+      ]
+    },
+    {
+      "id": "2094984533078876523",
+      "author_handle": null,
+      "created_at": "2026-09-02T03:03:30Z",
+      "text": "The multi-agent pipeline:  \n\n1️⃣ Assets: Pinterest for UI reference + ChatGPT to generate the neural-interface subject.  \n2️⃣ Cinematic Motion: Google Gemini to animate the still portrait into a fluid video.  \n3️⃣ Extraction: Ezgif to slice the video into 300 sequential frames",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 495,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094984535503204553",
+      "author_handle": null,
+      "created_at": "2026-09-02T03:03:30Z",
+      "text": "You don’t have to spend hours fighting with AI to recreate this.  \n\nI packaged the entire architecture—the Framer Motion math, the scroll choreography, and the exact Claude prompts—into a single blueprint.  \n\nCheck Link in Bio ✌️",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 379,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095165152492761514",
+      "author_handle": null,
+      "created_at": "2026-09-02T15:01:13Z",
+      "text": "@himanshubuildss Looks unique!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 141,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094984529853530345",
+    "2094984533078876523",
+    "2094984535503204553",
+    "2095165152492761514"
+  ],
+  "item_id": "x-2094984529853530345",
+  "handle": "himanshubuildss",
+  "http_status": 200,
+  "url": "https://x.com/himanshubuildss/status/2094984529853530345",
+  "html_bytes": 186464,
+  "raw_path": "raw/items/x-2094984529853530345/thread-raw/x-web-dom-20260904T175335Z.html"
+}

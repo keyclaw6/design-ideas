@@ -1,0 +1,81 @@
+{
+  "root_id": "2091927587471712274",
+  "reply_count_reported": 7,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2091927587471712274",
+      "author_handle": null,
+      "created_at": "2026-08-24T16:36:17Z",
+      "text": "3,200,000 → 3,000 triangles,\n3 SECONDS for the full bake.\nIn the browser, with @threejs and @NeedleTools.\n\nSuperb normals+ao quality now too... such a great tool to have! Coming soon! Stay tuned! https://t.co/Zjxur9vkXm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 449,
+        "replies": 7,
+        "reposts": 37,
+        "views": 22073,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Zjxur9vkXm"
+      ]
+    },
+    {
+      "id": "2092047072728121681",
+      "author_handle": null,
+      "created_at": "2026-08-25T00:31:05Z",
+      "text": "@hybridherbst @threejs @NeedleTools Getting that kind of reduction without the lighting turning to mush is the bit that stands out, good stuff",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 269,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092123479709552790",
+      "author_handle": null,
+      "created_at": "2026-08-25T05:34:41Z",
+      "text": "@hybridherbst @threejs @NeedleTools nice! being able to do this in a browser opens a lot of new possibilities",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 180,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091947194169397527",
+      "author_handle": null,
+      "created_at": "2026-08-24T17:54:12Z",
+      "text": "@hybridherbst @threejs @NeedleTools This is great! Will we able to run this locally?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 492,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091927587471712274",
+    "2091947194169397527",
+    "2092047072728121681",
+    "2092123479709552790"
+  ],
+  "item_id": "x-2091927587471712274",
+  "handle": "hybridherbst",
+  "http_status": 200,
+  "url": "https://x.com/hybridherbst/status/2091927587471712274",
+  "html_bytes": 193545,
+  "raw_path": "raw/items/x-2091927587471712274/thread-raw/x-web-dom-20260904T175320Z.html"
+}

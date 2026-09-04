@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2094840529997410525",
+  "tweet_id": "2094840529997410525",
+  "root_author_handle": "Trevs_Dev",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 71,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 34,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 70,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095122871479656455",
+      "author_handle": "unknown",
+      "created_at": "2026-09-02T12:13:12Z",
+      "text": "@Trevs_Dev @arenaphysica Have you any comparison between the generated electromagnetic flow vs a real one? \nInterface is dope btw!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 20,
+        "replies": 1,
+        "reposts": 1,
+        "views": 5096
+      },
+      "parent_id": "2094840529997410525",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2094840586989682797",
+      "author_handle": "Trevs_Dev",
+      "created_at": "2026-09-01T17:31:30Z",
+      "text": "A note from our team: Today, we’re excited to unveil Heaviside-1, @ArenaPhysica’s second generation foundation model for electromagnetism. 5 months since the release of Heaviside-0, Heaviside-1 is a crucial milestone on our quest to build EM superintelligence: a foundation model https://t.co/JMkF6JY8eS",
+      "text_en": null,
+      "urls": [
+        "https://t.co/JMkF6JY8eS"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 131,
+        "replies": 5,
+        "reposts": 10,
+        "views": 11994
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Trevs_Dev/status/2094840529997410525",
+      "outcome": "ok",
+      "note": "html_bytes=165856 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Trevs_Dev/status/2094840529997410525",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094840529997410525/thread-raw/x-web-dom-20260904T175334Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

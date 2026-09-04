@@ -1,0 +1,157 @@
+{
+  "root_id": "2032671842230501729",
+  "reply_count_reported": 158,
+  "quote_count_reported": 72,
+  "tweets": [
+    {
+      "id": "2032671842230501729",
+      "author_handle": null,
+      "created_at": "2026-03-14T04:15:07Z",
+      "text": "Agentic General Intelligence | v3.0.10\n\nWe made the Karpathy autoresearch loop generic. Now anyone can propose an optimization problem in plain English, and the network spins up a distributed swarm to solve it - no code required. It also compounds intelligence across all domains https://t.co/Xx1OibC8zx",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5130,
+        "replies": 158,
+        "reposts": 709,
+        "views": 978657,
+        "quotes": 72
+      },
+      "urls": [
+        "https://t.co/Xx1OibC8zx"
+      ]
+    },
+    {
+      "id": "2032330665081839791",
+      "author_handle": null,
+      "created_at": "2026-03-13T05:39:24Z",
+      "text": "Autoquant: a distributed quant research lab | v2.6.9                                                                                                 \n                                                \nWe pointed @karpathy's autoresearch loop at quantitative finance. 135 autonomous https://t.co/Us3K68iNHr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/Us3K68iNHr"
+      ]
+    },
+    {
+      "id": "2032671844566757847",
+      "author_handle": null,
+      "created_at": "2026-03-14T04:15:07Z",
+      "text": "curl -fsSL https://t.co/EkgEQAh72T | bash      \n\nclawhub install hyperspace      \n\nhttps://t.co/EB6W9A1qUk     \n\nagents commit to: https://t.co/jCaQw495Us",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 236,
+        "replies": 12,
+        "reposts": 27,
+        "views": 23743,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/EkgEQAh72T",
+        "https://t.co/EB6W9A1qUk",
+        "https://t.co/jCaQw495Us"
+      ]
+    },
+    {
+      "id": "2032675076559024257",
+      "author_handle": null,
+      "created_at": "2026-03-14T04:27:58Z",
+      "text": "a better screenshot. oh, and it's pi day. good day to launch agi experiments. cc @pmarca check out this chaotic energy flowing amongst swarm of autonomous agents https://t.co/7wbQoCSwTB",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 79,
+        "replies": 5,
+        "reposts": 6,
+        "views": 16136,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/7wbQoCSwTB"
+      ]
+    },
+    {
+      "id": "2033936975267287269",
+      "author_handle": null,
+      "created_at": "2026-03-17T16:02:18Z",
+      "text": "@pmarca it's only a world model if it is from the south of France, otherwise it is just a sparkling cognitive engine.  \n\na million lines of code, here you go. run on your device, it p2p gossips, and let's keep tweaking and improving this and see where we are 5 years from now.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1122,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2033933344824561928",
+      "author_handle": "pmarca",
+      "created_at": "2026-03-17T15:47:52Z",
+      "text": "https://t.co/GVTnO988or",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 48190,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/GVTnO988or"
+      ]
+    },
+    {
+      "id": "2033937507860070726",
+      "author_handle": null,
+      "created_at": "2026-03-17T16:04:25Z",
+      "text": "https://t.co/bNVEQNIq14",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 1,
+        "views": 1248,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/bNVEQNIq14"
+      ]
+    },
+    {
+      "id": "2032688765320458350",
+      "author_handle": null,
+      "created_at": "2026-03-14T05:22:21Z",
+      "text": "@varun_mathur I'm guessing you used Karpathy's autoresearch to find out: \n\n\"How many VC pitch deck slop terms can I invent in a single tweet?\"",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 42,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1898,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2032330665081839791",
+    "2032671842230501729",
+    "2032671844566757847",
+    "2032675076559024257",
+    "2032688765320458350",
+    "2033933344824561928",
+    "2033936975267287269",
+    "2033937507860070726"
+  ],
+  "item_id": "x-2032671842230501729",
+  "handle": "varun_mathur",
+  "http_status": 200,
+  "url": "https://x.com/varun_mathur/status/2032671842230501729",
+  "html_bytes": 335624,
+  "raw_path": "raw/items/x-2032671842230501729/thread-raw/x-web-dom-20260904T175300Z.html"
+}

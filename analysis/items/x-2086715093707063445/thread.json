@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2086715093707063445",
+  "tweet_id": "2086715093707063445",
+  "root_author_handle": "ricouii",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 3,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086989988391162281",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T01:36:02Z",
+      "text": "@ricouii Saving this list, been meaning to try GSAP skills for a while now.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 331
+      },
+      "parent_id": "2086715093707063445",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ricouii/status/2086715093707063445",
+      "outcome": "ok",
+      "note": "html_bytes=178768 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ricouii/status/2086715093707063445",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086715093707063445/thread-raw/x-web-dom-20260904T175302Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

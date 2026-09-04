@@ -1,0 +1,33 @@
+{
+  "root_id": "2095288402606514424",
+  "reply_count_reported": 0,
+  "quote_count_reported": 7,
+  "tweets": [
+    {
+      "id": "2095288402606514424",
+      "author_handle": null,
+      "created_at": "2026-09-02T23:10:58Z",
+      "text": "AIでBlenderを操作する方法 - CLIとMCPの使い分け｜npaka @npaka123 https://t.co/9319BfXPgm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 896,
+        "replies": 0,
+        "reposts": 93,
+        "views": 83258,
+        "quotes": 7
+      },
+      "urls": [
+        "https://t.co/9319BfXPgm"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2095288402606514424"
+  ],
+  "item_id": "x-2095288402606514424",
+  "handle": "npaka123",
+  "http_status": 200,
+  "url": "https://x.com/npaka123/status/2095288402606514424",
+  "html_bytes": 151973,
+  "raw_path": "raw/items/x-2095288402606514424/thread-raw/x-web-dom-20260904T175337Z.html"
+}

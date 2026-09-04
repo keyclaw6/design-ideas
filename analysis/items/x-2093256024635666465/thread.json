@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2093256024635666465",
+  "tweet_id": "2093256024635666465",
+  "root_author_handle": "AcarcaneCG",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093336843089523159",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T13:56:10Z",
+      "text": "@AcarcaneCG @trungduyng Beautiful! 🥰",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 84
+      },
+      "parent_id": "2093256024635666465",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/AcarcaneCG/status/2093256024635666465",
+      "outcome": "ok",
+      "note": "html_bytes=141060 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/AcarcaneCG/status/2093256024635666465",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093256024635666465/thread-raw/x-web-dom-20260904T175326Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

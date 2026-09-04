@@ -1,0 +1,65 @@
+{
+  "root_id": "2087263510090874911",
+  "reply_count_reported": 20,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2087263510090874911",
+      "author_handle": null,
+      "created_at": "2026-08-11T19:42:54Z",
+      "text": "My workflow now is basically this:\n1. AGENTS.md auto loads up these 4 skills:\nponytail\ngrilling\nwayfinder\nask-matt\n2. I have the agent grill me completely over close to 100s of questions\n3. I have a custom Pi extension called /handoff that when the context window reaches 100k it https://t.co/sICsFS7iok",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 496,
+        "replies": 20,
+        "reposts": 41,
+        "views": 27919,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/sICsFS7iok"
+      ]
+    },
+    {
+      "id": "2087263512737583352",
+      "author_handle": null,
+      "created_at": "2026-08-11T19:42:55Z",
+      "text": "@_can1357 &amp; @mattpocockuk are cooking, hats off!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1920,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087350345173528813",
+      "author_handle": null,
+      "created_at": "2026-08-12T01:27:58Z",
+      "text": "@1kartikkabadi1 that's not how you use an agent, though agents are supposed to free up time for strategic thinking, not replace human judgment with an endless Q&amp;A session",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 407,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087263510090874911",
+    "2087263512737583352",
+    "2087350345173528813"
+  ],
+  "item_id": "x-2087263510090874911",
+  "handle": "1kartikkabadi1",
+  "http_status": 200,
+  "url": "https://x.com/1kartikkabadi1/status/2087263510090874911",
+  "html_bytes": 158531,
+  "raw_path": "raw/items/x-2087263510090874911/thread-raw/x-web-dom-20260904T175304Z.html"
+}

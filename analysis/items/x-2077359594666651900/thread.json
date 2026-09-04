@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2077359594666651900",
+  "tweet_id": "2077359594666651900",
+  "root_author_handle": "AiandTechHub",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 16,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 13,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2077419806870131146",
+      "author_handle": "unknown",
+      "created_at": "2026-07-15T15:47:33Z",
+      "text": "@AiandTechHub Awesome post",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 43
+      },
+      "parent_id": "2077359594666651900",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2077420356160405965",
+      "author_handle": "unknown",
+      "created_at": "2026-07-15T15:49:44Z",
+      "text": "@AiandTechHub Great share it is",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 17
+      },
+      "parent_id": "2077359594666651900",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2077365309087097141",
+      "author_handle": "unknown",
+      "created_at": "2026-07-15T12:10:59Z",
+      "text": "@AiandTechHub Nice share",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 49
+      },
+      "parent_id": "2077359594666651900",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/AiandTechHub/status/2077359594666651900",
+      "outcome": "ok",
+      "note": "html_bytes=190137 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/AiandTechHub/status/2077359594666651900",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2077359594666651900/thread-raw/x-web-dom-20260904T175300Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

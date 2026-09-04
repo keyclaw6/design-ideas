@@ -1,0 +1,67 @@
+{
+  "root_id": "2094892848042725416",
+  "reply_count_reported": 197,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2094892848042725416",
+      "author_handle": null,
+      "created_at": "2026-09-01T20:59:10Z",
+      "text": "We just open-sourced our entire outbound team.\n\nIntroducing the @GojiberryAI Sales OS for Grok Bot.\n\nA full AI sales department.\n\nYou no longer need your first 5 sales hires.\n\n📁 Outbound Team\n┃\n┣ 📁 Head of Sales\n┃ ┣ 📁 Who to target, and why\n┃ ┗ 📁 ICP, markets, https://t.co/BlXeAuPKmz",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 231,
+        "replies": 197,
+        "reposts": 21,
+        "views": 25963,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/BlXeAuPKmz"
+      ]
+    },
+    {
+      "id": "2094928606635954329",
+      "author_handle": null,
+      "created_at": "2026-09-01T23:21:16Z",
+      "text": "Try https://t.co/LFyzhrtrWc for free for 7 days here ⬇️⬇️⬇️",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 636,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/LFyzhrtrWc"
+      ]
+    },
+    {
+      "id": "2094998406141825099",
+      "author_handle": null,
+      "created_at": "2026-09-02T03:58:37Z",
+      "text": "@pierreeliottlal @gojiberryai bot",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 8,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094892848042725416",
+    "2094928606635954329",
+    "2094998406141825099"
+  ],
+  "item_id": "x-2094892848042725416",
+  "handle": "pierreeliottlal",
+  "http_status": 200,
+  "url": "https://x.com/pierreeliottlal/status/2094892848042725416",
+  "html_bytes": 184958,
+  "raw_path": "raw/items/x-2094892848042725416/thread-raw/x-web-dom-20260904T175335Z.html"
+}

@@ -1,0 +1,51 @@
+{
+  "root_id": "2089717063921332378",
+  "reply_count_reported": 0,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2089717063921332378",
+      "author_handle": null,
+      "created_at": "2026-08-18T14:12:27Z",
+      "text": "Straight from the team: From prompt to a fully designed Screwdriver all in  https://t.co/SIS9OYJMw1\n\n#TextToCAD #CAD",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 41,
+        "replies": 0,
+        "reposts": 3,
+        "views": 3597,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/SIS9OYJMw1"
+      ]
+    },
+    {
+      "id": "2089706893635928468",
+      "author_handle": null,
+      "created_at": null,
+      "text": "As someone who spent years on traditional CAD before co-founding @CadX_Studio this hits different.\n2 prompts. A fully parametric flat-head screwdriver. Rendered, browser-native.\nWelcome to the AI age of design.\n\n#CAD #Engineering #AI https://t.co/Srk51mu9R2",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/Srk51mu9R2"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2089706893635928468",
+    "2089717063921332378"
+  ],
+  "item_id": "x-2089717063921332378",
+  "handle": "CadX_Studio",
+  "http_status": 200,
+  "url": "https://x.com/CadX_Studio/status/2089717063921332378",
+  "html_bytes": 175791,
+  "raw_path": "raw/items/x-2089717063921332378/thread-raw/x-web-dom-20260904T175313Z.html"
+}

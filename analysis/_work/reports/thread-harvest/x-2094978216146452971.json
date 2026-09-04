@@ -1,0 +1,85 @@
+{
+  "root_id": "2094978216146452971",
+  "reply_count_reported": 40,
+  "quote_count_reported": 6,
+  "tweets": [
+    {
+      "id": "2094978216146452971",
+      "author_handle": null,
+      "created_at": "2026-09-02T02:38:24Z",
+      "text": "Faable 5.1 has given me the best website outputs compared to any AI model... and for cheaper than Fable 5.\n\nMy /scroll-craft skill is in the replies. https://t.co/HiCSQkWnXP",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 780,
+        "replies": 40,
+        "reposts": 52,
+        "views": 111039,
+        "quotes": 6
+      },
+      "urls": [
+        "https://t.co/HiCSQkWnXP"
+      ]
+    },
+    {
+      "id": "2094977775593525567",
+      "author_handle": null,
+      "created_at": "2026-09-02T02:36:39Z",
+      "text": "https://t.co/YFXM1f0VFY",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 119448,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/YFXM1f0VFY"
+      ]
+    },
+    {
+      "id": "2094978249482698779",
+      "author_handle": null,
+      "created_at": "2026-09-02T02:38:32Z",
+      "text": "https://t.co/X4w6EfXvdo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 40,
+        "replies": 2,
+        "reposts": 4,
+        "views": 3313,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/X4w6EfXvdo"
+      ]
+    },
+    {
+      "id": "2095016732905656586",
+      "author_handle": null,
+      "created_at": "2026-09-02T05:11:27Z",
+      "text": "@nateherk it lool like a layout  debut 2025 free template on @framer ! sorry for your \"hype\" but you sell anything with this kind of website where you don't have any control, convert prospect client and that you can't sell to anybody for this..\n\nanybody sell it to a client in meeting \n\nPlz",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 202,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094977775593525567",
+    "2094978216146452971",
+    "2094978249482698779",
+    "2095016732905656586"
+  ],
+  "item_id": "x-2094978216146452971",
+  "handle": "nateherk",
+  "http_status": 200,
+  "url": "https://x.com/nateherk/status/2094978216146452971",
+  "html_bytes": 212679,
+  "raw_path": "raw/items/x-2094978216146452971/thread-raw/x-web-dom-20260904T175335Z.html"
+}

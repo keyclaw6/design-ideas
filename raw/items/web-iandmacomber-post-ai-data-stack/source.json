@@ -1,0 +1,37 @@
+{
+  "id": "web-iandmacomber-post-ai-data-stack",
+  "url": "https://www.iandmacomber.com/blog/post-ai-data-stack",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "title": "The Shape and Feel of the Post-AI Data Stack",
+  "authors": [
+    "Ian Macomber"
+  ],
+  "topics": [
+    "agent-skills",
+    "infographics"
+  ],
+  "related_urls": [
+    "https://x.com/medriscoll/status/2094558408259272998",
+    "https://x.com/iandmacomber/status/2094161204579098774",
+    "https://www.rilldata.com/",
+    "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+    "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+    "https://davidgasquez.com/context-engineering-is-a-data-problem"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "published": "2026-08-30",
+    "author_affiliation": "Ramp (Head of Data)",
+    "fetch": "r.jina.ai full post",
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering",
+      "web-anthropic-claude-self-service-data",
+      "web-flint-chart",
+      "web-graphed"
+    ],
+    "category_note": "Ramp essay: cheap analysis, expensive consensus; agent harness + semantic layer."
+  }
+}

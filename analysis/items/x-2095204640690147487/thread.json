@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2095204640690147487",
+  "tweet_id": "2095204640690147487",
+  "root_author_handle": "tom_doerr",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095425295922991483",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T08:14:56Z",
+      "text": "@tom_doerr is this another fake out, where they are just trying to sell a subscription service while providing a repo that does nothing",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 201
+      },
+      "parent_id": "2095204640690147487",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/tom_doerr/status/2095204640690147487",
+      "outcome": "ok",
+      "note": "html_bytes=125528 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/tom_doerr/status/2095204640690147487",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095204640690147487/thread-raw/x-web-dom-20260904T175337Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "x-2095192939169234945",
+  "url": "https://x.com/0xfJuan/status/2095192939169234945",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:53Z",
+  "title": "https://x.com/i/article/2095192419562033152",
+  "authors": [
+    "Juan (@0xfJuan)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "tweet_id": "2095192939169234945",
+    "author_handle": "0xfJuan",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "filtered": true,
+    "category_note": "Social launch-distribution article ('everywhere overnight'); GTM, out of taxonomy."
+  }
+}

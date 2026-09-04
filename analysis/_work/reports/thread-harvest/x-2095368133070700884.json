@@ -1,0 +1,51 @@
+{
+  "root_id": "2095368133070700884",
+  "reply_count_reported": 1,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095368133070700884",
+      "author_handle": null,
+      "created_at": "2026-09-03T04:27:47Z",
+      "text": "❤️‍🔥GPT 5.6 Sol \n\nPrompt 👇 https://t.co/7dKA7MQgwD",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 61,
+        "replies": 1,
+        "reposts": 0,
+        "views": 4713,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/7dKA7MQgwD"
+      ]
+    },
+    {
+      "id": "2095368170379116755",
+      "author_handle": null,
+      "created_at": "2026-09-03T04:27:56Z",
+      "text": "https://t.co/qlVOgcGt83",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 385,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/qlVOgcGt83"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2095368133070700884",
+    "2095368170379116755"
+  ],
+  "item_id": "x-2095368133070700884",
+  "handle": "_heyfaisal",
+  "http_status": 200,
+  "url": "https://x.com/_heyfaisal/status/2095368133070700884",
+  "html_bytes": 149013,
+  "raw_path": "raw/items/x-2095368133070700884/thread-raw/x-web-dom-20260904T175338Z.html"
+}

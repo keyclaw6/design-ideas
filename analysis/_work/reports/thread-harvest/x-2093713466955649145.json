@@ -1,0 +1,85 @@
+{
+  "root_id": "2093713466955649145",
+  "reply_count_reported": 10,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2093713466955649145",
+      "author_handle": null,
+      "created_at": "2026-08-29T14:52:44Z",
+      "text": "I started using AI agents to build SEO backlinks recently.\n\nWhat used to take me 2–3 hours a day manually is now mostly automated.\n\nIt's the exact workflow I used to get 71-75-50-57 DR backlinks 🎯\n\nHere's how in 8 mins 👇 https://t.co/LbbvsTUrfX",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 209,
+        "replies": 10,
+        "reposts": 14,
+        "views": 32400,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/LbbvsTUrfX"
+      ]
+    },
+    {
+      "id": "2093624705030959554",
+      "author_handle": null,
+      "created_at": "2026-08-29T09:00:02Z",
+      "text": "Here's how I make AI mention my SaaS:\n\n1. Create high-quality content for my money keywords 💰\n2. Build relevant backlinks 🔗\n3. Get mentioned on 3rd party sites 🌐\n4. LinkedIn articles + Reddit posts (both gets indexed)\n5. Create original data/content worth citing 📊\n\nYou need https://t.co/HgtgfwfMGj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 44715,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/HgtgfwfMGj"
+      ]
+    },
+    {
+      "id": "2093742966984638898",
+      "author_handle": null,
+      "created_at": "2026-08-29T16:49:57Z",
+      "text": "i built https://t.co/9rrD0MSb2T to automate the entire SEO backlink building process btw:",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1154,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/9rrD0MSb2T"
+      ]
+    },
+    {
+      "id": "2093720511909933189",
+      "author_handle": null,
+      "created_at": "2026-08-29T15:20:44Z",
+      "text": "@HsanC_ All to promote a bullshit platform",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 482,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093624705030959554",
+    "2093713466955649145",
+    "2093720511909933189",
+    "2093742966984638898"
+  ],
+  "item_id": "x-2093713466955649145",
+  "handle": "HsanC_",
+  "http_status": 200,
+  "url": "https://x.com/HsanC_/status/2093713466955649145",
+  "html_bytes": 208017,
+  "raw_path": "raw/items/x-2093713466955649145/thread-raw/x-web-dom-20260904T175329Z.html"
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2091767461058105402",
+  "tweet_id": "2091767461058105402",
+  "root_author_handle": "DennisAdriaans",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 5,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091783114498474343",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T07:02:12Z",
+      "text": "@DennisAdriaans yes make that open source! i have a bridge ready to adapt for it to let any agent collaborate on it",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 167
+      },
+      "parent_id": "2091767461058105402",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091814062690803975",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T09:05:11Z",
+      "text": "@DennisAdriaans congrats on the release. let me try asap",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 119
+      },
+      "parent_id": "2091767461058105402",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091787718451761254",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T07:20:30Z",
+      "text": "@DennisAdriaans Oh yeah! Finally something I can make Instagram posts with 😋",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 93
+      },
+      "parent_id": "2091767461058105402",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091175741769531766",
+      "author_handle": "DennisAdriaans",
+      "created_at": "2026-08-22T14:48:43Z",
+      "text": "learned that carousels have great engagement\n\nvibed an Instagram carousel maker\n\nshould I open source it?\n\nlet me know if you need it\n\ncomes with awesome images by @Talhadesignn https://t.co/p4lhTsrfdz",
+      "text_en": null,
+      "urls": [
+        "https://t.co/p4lhTsrfdz"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 24054
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/DennisAdriaans/status/2091767461058105402",
+      "outcome": "ok",
+      "note": "html_bytes=254219 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/DennisAdriaans/status/2091767461058105402",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091767461058105402/thread-raw/x-web-dom-20260904T175319Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

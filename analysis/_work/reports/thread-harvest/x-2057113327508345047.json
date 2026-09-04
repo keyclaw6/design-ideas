@@ -1,0 +1,82 @@
+{
+  "root_id": "2057113327508345047",
+  "reply_count_reported": 9,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2057113327508345047",
+      "author_handle": null,
+      "created_at": "2026-05-20T14:56:51Z",
+      "text": "I'm working on a one-click AI-generated texturing feature for 3D models.\n\nI render the model from four sides and project the generated textures back onto the model.\nProject Source Code: https://t.co/F2F7FRJoIr\n#threejs #kokraf #BuiltInPublic https://t.co/wiqFtuT7Kx",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 402,
+        "replies": 9,
+        "reposts": 26,
+        "views": 32690,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/F2F7FRJoIr",
+        "https://t.co/wiqFtuT7Kx"
+      ]
+    },
+    {
+      "id": "2057201914664636444",
+      "author_handle": null,
+      "created_at": "2026-05-20T20:48:52Z",
+      "text": "@jourverse Wow a projection, we've never seen this before🤣",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 313,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2057144919261692043",
+      "author_handle": null,
+      "created_at": "2026-05-20T17:02:23Z",
+      "text": "@jourverse I am interested, does it work with textures based on image? Or text prompt only?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 456,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2057256461357474154",
+      "author_handle": null,
+      "created_at": "2026-05-21T00:25:37Z",
+      "text": "@jourverse Nice! can it potentially be trained on specific style of textures for consistency?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 201,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2057113327508345047",
+    "2057144919261692043",
+    "2057201914664636444",
+    "2057256461357474154"
+  ],
+  "item_id": "x-2057113327508345047",
+  "handle": "kokraf3d",
+  "http_status": 200,
+  "url": "https://x.com/kokraf3d/status/2057113327508345047",
+  "html_bytes": 188125,
+  "raw_path": "raw/items/x-2057113327508345047/thread-raw/x-web-dom-20260904T175300Z.html"
+}

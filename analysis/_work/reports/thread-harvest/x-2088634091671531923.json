@@ -1,0 +1,101 @@
+{
+  "root_id": "2088634091671531923",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2088634091671531923",
+      "author_handle": null,
+      "created_at": "2026-08-15T14:29:07Z",
+      "text": "@b_nnett Is this one of the tweaks from your codex-plusplus?\n\nWhich one?\n\nhttps://t.co/hkPeUdgMbs",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 225,
+        "replies": 4,
+        "reposts": 10,
+        "views": 69981,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/hkPeUdgMbs"
+      ]
+    },
+    {
+      "id": "2088613078476664839",
+      "author_handle": null,
+      "created_at": "2026-08-15T13:05:37Z",
+      "text": "Codex subscription router changed my life https://t.co/balegokDie",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6923,
+        "replies": 310,
+        "reposts": 176,
+        "views": 1143646,
+        "quotes": 80
+      },
+      "urls": [
+        "https://t.co/balegokDie"
+      ]
+    },
+    {
+      "id": "2088638080404111636",
+      "author_handle": null,
+      "created_at": "2026-08-15T14:44:58Z",
+      "text": "@JeremyNguyenPhD separate. blog post later",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 135,
+        "replies": 12,
+        "reposts": 0,
+        "views": 60400,
+        "quotes": 1
+      },
+      "urls": []
+    },
+    {
+      "id": "2088653204330361082",
+      "author_handle": null,
+      "created_at": "2026-08-15T15:45:03Z",
+      "text": "@JeremyNguyenPhD @b_nnett I just read that whole fucking readme and I still don’t have a clue what tweaks there are",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1649,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088715979131863252",
+      "author_handle": null,
+      "created_at": "2026-08-15T19:54:30Z",
+      "text": "@JeremyNguyenPhD @b_nnett off? https://t.co/ER2xyUC5yJ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 54,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ER2xyUC5yJ"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2088613078476664839",
+    "2088634091671531923",
+    "2088638080404111636",
+    "2088653204330361082",
+    "2088715979131863252"
+  ],
+  "item_id": "x-2088634091671531923",
+  "handle": "JeremyNguyenPhD",
+  "http_status": 200,
+  "url": "https://x.com/JeremyNguyenPhD/status/2088634091671531923",
+  "html_bytes": 255306,
+  "raw_path": "raw/items/x-2088634091671531923/thread-raw/x-web-dom-20260904T175310Z.html"
+}

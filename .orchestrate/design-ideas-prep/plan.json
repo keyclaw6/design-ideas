@@ -1,0 +1,43 @@
+{
+  "goal": "Prepare the design-ideas corpus so another agent can synthesize and judge it: recover X threads/comments, restructure per Fable ANALYSIS_STRUCTURE.md, filter by subject, overlay Graphify. Finish only when a verifier confirms the Fable spec.",
+  "summary": "Analysis-ready idea bank: threads, subjects, cards, Graphify",
+  "rootSlug": "design-ideas-prep",
+  "baseBranch": "main",
+  "tasks": [
+    {
+      "name": "fable-structure",
+      "type": "worker",
+      "scopedGoal": "Write docs/ANALYSIS_STRUCTURE.md — the binding architecture spec.",
+      "acceptance": ["docs/ANALYSIS_STRUCTURE.md exists with schemas, taxonomy, worker split, verifier checklist"]
+    },
+    {
+      "name": "thread-recovery",
+      "type": "subplanner",
+      "dependsOn": ["fable-structure"],
+      "scopedGoal": "Recover author threads + relevant comments for all X items using heavy parallel workers.",
+      "acceptance": ["Every x-* item has a conversation record with status empty|captured|failed and reply_count"]
+    },
+    {
+      "name": "subject-cards",
+      "type": "subplanner",
+      "dependsOn": ["fable-structure"],
+      "scopedGoal": "Classify every item into Fable subjects and write analysis cards.",
+      "acceptance": ["Every item has an analysis card; every subject lane has a brief + item list"]
+    },
+    {
+      "name": "graphify-overlay",
+      "type": "worker",
+      "dependsOn": ["thread-recovery", "subject-cards"],
+      "scopedGoal": "Rebuild Graphify over the analysis layer only.",
+      "acceptance": ["graphify-out rebuilt; hubs are subjects/techniques/tools/claims, not Research headings"]
+    },
+    {
+      "name": "verifier",
+      "type": "verifier",
+      "verifies": "fable-structure",
+      "dependsOn": ["graphify-overlay"],
+      "scopedGoal": "Confirm the tree matches docs/ANALYSIS_STRUCTURE.md acceptance checklist.",
+      "acceptance": ["VERDICT: PASS written to .orchestrate/design-ideas-prep/handoffs/verifier.md"]
+    }
+  ]
+}

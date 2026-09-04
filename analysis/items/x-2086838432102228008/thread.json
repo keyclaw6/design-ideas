@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2086838432102228008",
+  "tweet_id": "2086838432102228008",
+  "root_author_handle": "mattpocockuk",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 78,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 9,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 77,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086846927375626578",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T16:07:33Z",
+      "text": "@mattpocockuk Wait, the seam keyword spam is yours?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 25,
+        "replies": 3,
+        "reposts": 0,
+        "views": 12990
+      },
+      "parent_id": "2086838432102228008",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2086839443084701816",
+      "author_handle": "mattpocockuk",
+      "created_at": "2026-08-10T15:37:49Z",
+      "text": "https://t.co/VAfPmyTLLK",
+      "text_en": null,
+      "urls": [
+        "https://t.co/VAfPmyTLLK"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 140,
+        "replies": 4,
+        "reposts": 1,
+        "views": 24182
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/mattpocockuk/status/2086838432102228008",
+      "outcome": "ok",
+      "note": "html_bytes=175265 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/mattpocockuk/status/2086838432102228008",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086838432102228008/thread-raw/x-web-dom-20260904T175302Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2086801779358875912",
+  "tweet_id": "2086801779358875912",
+  "root_author_handle": "alexgilev",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 33,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 5,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 30,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086802585466401123",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T13:11:21Z",
+      "text": "@alexgilev Get all these templates and design system 👇\nhttps://t.co/NbjIWaOao0",
+      "text_en": null,
+      "urls": [
+        "https://t.co/NbjIWaOao0"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1417
+      },
+      "parent_id": "2086801779358875912",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2086877533039985149",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T18:09:10Z",
+      "text": "@alexgilev @AgenticUi What a showcase!❤️",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 268
+      },
+      "parent_id": "2086801779358875912",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2086806052603875753",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T13:25:08Z",
+      "text": "@alexgilev @AgenticUi Phenomenal!!! 🔥Almost like a “fish-eye” effect. I’m exploring a similar view for an upcoming photo gallery.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 185
+      },
+      "parent_id": "2086801779358875912",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/alexgilev/status/2086801779358875912",
+      "outcome": "ok",
+      "note": "html_bytes=216225 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/alexgilev/status/2086801779358875912",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086801779358875912/thread-raw/x-web-dom-20260904T175302Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

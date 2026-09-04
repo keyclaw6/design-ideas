@@ -1,0 +1,83 @@
+{
+  "root_id": "2095502642218664004",
+  "reply_count_reported": 2,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2095502642218664004",
+      "author_handle": null,
+      "created_at": "2026-09-03T13:22:17Z",
+      "text": "I2M 1.2 is Live! 🎉 \n\n ✅ Improved Metallics\n ✅ Improved Roughness\n ✅ Improved Albedo\n ✅ Improved Index of Refraction\n\nOther generative models have been trained on artist data, which is subjective. \n\nI2M learns from real objects we measured ourselves.\n\nThe new version went https://t.co/hYLQDYmp69",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 17,
+        "replies": 2,
+        "reposts": 5,
+        "views": 4080,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/hYLQDYmp69"
+      ]
+    },
+    {
+      "id": "2095502644173259227",
+      "author_handle": null,
+      "created_at": "2026-09-03T13:22:17Z",
+      "text": "Reply with a photo of any object you have got to hand and we will run some through and post it back!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 4,
+        "reposts": 0,
+        "views": 191,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095502645783830886",
+      "author_handle": null,
+      "created_at": "2026-09-03T13:22:17Z",
+      "text": "Albedo, roughness, metallic and IOR, all sharper than the model they replace.\n\nCheck it out 👉 https://t.co/dPdYG2wjMB",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 135,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/dPdYG2wjMB"
+      ]
+    },
+    {
+      "id": "2095587485254598825",
+      "author_handle": null,
+      "created_at": "2026-09-03T18:59:25Z",
+      "text": "@marsoapp @m_xrstudio so is it like fancy photogrammetry via a custom model?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 58,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095502642218664004",
+    "2095502644173259227",
+    "2095502645783830886",
+    "2095587485254598825"
+  ],
+  "item_id": "x-2095502642218664004",
+  "handle": "marsoapp",
+  "http_status": 200,
+  "url": "https://x.com/marsoapp/status/2095502642218664004",
+  "html_bytes": 188579,
+  "raw_path": "raw/items/x-2095502642218664004/thread-raw/x-web-dom-20260904T175339Z.html"
+}

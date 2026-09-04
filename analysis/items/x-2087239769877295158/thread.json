@@ -1,0 +1,80 @@
+{
+  "schema_version": "1",
+  "id": "x-2087239769877295158",
+  "tweet_id": "2087239769877295158",
+  "root_author_handle": "simplifyinAI",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 5,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 4,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087392608150769668",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T04:15:54Z",
+      "text": "@simplifyinAI Watching the codebase instead of just reporting breakage is the real upgrade.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 435
+      },
+      "parent_id": "2087239769877295158",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087239772821676383",
+      "author_handle": "simplifyinAI",
+      "created_at": "2026-08-11T18:08:35Z",
+      "text": "Link: https://t.co/Hq3NmPAnkv\n\nIf you want more practical AI gems and a list of full free AI resources, go here: https://t.co/SFv0jdOYBK",
+      "text_en": null,
+      "urls": [
+        "https://t.co/Hq3NmPAnkv",
+        "https://t.co/SFv0jdOYBK"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1458
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/simplifyinAI/status/2087239769877295158",
+      "outcome": "ok",
+      "note": "html_bytes=197903 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/simplifyinAI/status/2087239769877295158",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087239769877295158/thread-raw/x-web-dom-20260904T175304Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

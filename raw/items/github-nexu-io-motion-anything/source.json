@@ -1,0 +1,34 @@
+{
+  "id": "github-nexu-io-motion-anything",
+  "url": "https://github.com/nexu-io/motion-anything",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "motion-anything",
+  "authors": [
+    "nexu-io"
+  ],
+  "topics": [
+    "ui-motion",
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/nexu-io/open-design"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "stars": 750,
+    "forks": 88,
+    "license": "Apache-2.0",
+    "language": "JavaScript",
+    "related_items": [
+      "github-nexu-io-open-design",
+      "github-nexu-io-html-video",
+      "github-emilkowalski-skills",
+      "web-lottiefiles",
+      "web-originkit-dev"
+    ],
+    "category_note": "Chat-native motion engine; 403 recipes; Lottie/MP4 export."
+  }
+}

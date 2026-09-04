@@ -1,0 +1,130 @@
+{
+  "schema_version": "1",
+  "id": "x-2089701163117494735",
+  "tweet_id": "2089701163117494735",
+  "root_author_handle": "kairevicius",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 27,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 26,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089782950929813523",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T18:34:16Z",
+      "text": "@kairevicius Yeah, this style is pretty versatile. Nice one!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1998
+      },
+      "parent_id": "2089701163117494735",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2089372767934115883",
+      "author_handle": "kairevicius",
+      "created_at": null,
+      "text": "Currently I’m really into markdown graphs with one vibrant accent color https://t.co/OZkRrENTMb",
+      "text_en": null,
+      "urls": [
+        "https://t.co/OZkRrENTMb"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    },
+    {
+      "id": "2089752429944324333",
+      "author_handle": "kairevicius",
+      "created_at": "2026-08-18T16:32:59Z",
+      "text": "🫠 https://t.co/meFJM3X6IL",
+      "text_en": null,
+      "urls": [
+        "https://t.co/meFJM3X6IL"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 5231
+      }
+    },
+    {
+      "id": "2089787324028555342",
+      "author_handle": "kairevicius",
+      "created_at": "2026-08-18T18:51:39Z",
+      "text": "fixed ✅ https://t.co/GT9s4Yc887",
+      "text_en": null,
+      "urls": [
+        "https://t.co/GT9s4Yc887"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3778
+      }
+    },
+    {
+      "id": "2089799141614309662",
+      "author_handle": "kairevicius",
+      "created_at": "2026-08-18T19:38:36Z",
+      "text": "merged https://t.co/OZxbAsuiQ5",
+      "text_en": null,
+      "urls": [
+        "https://t.co/OZxbAsuiQ5"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2689
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/kairevicius/status/2089701163117494735",
+      "outcome": "ok",
+      "note": "html_bytes=237703 tweets=6"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/kairevicius/status/2089701163117494735",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089701163117494735/thread-raw/x-web-dom-20260904T175314Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

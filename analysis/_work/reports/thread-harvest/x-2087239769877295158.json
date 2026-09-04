@@ -1,0 +1,68 @@
+{
+  "root_id": "2087239769877295158",
+  "reply_count_reported": 5,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087239769877295158",
+      "author_handle": null,
+      "created_at": "2026-08-11T18:08:34Z",
+      "text": "you don't need to re-explain your codebase's architecture to your agent every session.\n\nmost tools stop at telling you what broke.\n\nsentrux is a real-time architectural sensor, it watches your codebase as a live treemap and turns file structure and dependencies into one https://t.co/HdYiE87yUu",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 338,
+        "replies": 5,
+        "reposts": 39,
+        "views": 18693,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/HdYiE87yUu"
+      ]
+    },
+    {
+      "id": "2087239772821676383",
+      "author_handle": null,
+      "created_at": "2026-08-11T18:08:35Z",
+      "text": "Link: https://t.co/Hq3NmPAnkv\n\nIf you want more practical AI gems and a list of full free AI resources, go here: https://t.co/SFv0jdOYBK",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 12,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1458,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/Hq3NmPAnkv",
+        "https://t.co/SFv0jdOYBK"
+      ]
+    },
+    {
+      "id": "2087392608150769668",
+      "author_handle": null,
+      "created_at": "2026-08-12T04:15:54Z",
+      "text": "@simplifyinAI Watching the codebase instead of just reporting breakage is the real upgrade.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 435,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087239769877295158",
+    "2087239772821676383",
+    "2087392608150769668"
+  ],
+  "item_id": "x-2087239769877295158",
+  "handle": "simplifyinAI",
+  "http_status": 200,
+  "url": "https://x.com/simplifyinAI/status/2087239769877295158",
+  "html_bytes": 197903,
+  "raw_path": "raw/items/x-2087239769877295158/thread-raw/x-web-dom-20260904T175304Z.html"
+}

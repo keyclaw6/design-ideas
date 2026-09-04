@@ -1,0 +1,81 @@
+{
+  "root_id": "2092890365930131920",
+  "reply_count_reported": 8,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2092890365930131920",
+      "author_handle": null,
+      "created_at": "2026-08-27T08:22:01Z",
+      "text": "made all of these visuals for a random math brand in a few minutes with AI\n\npretty insane that we live in this era https://t.co/cEsqObenoO",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 71,
+        "replies": 8,
+        "reposts": 0,
+        "views": 21928,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/cEsqObenoO"
+      ]
+    },
+    {
+      "id": "2092890803844546927",
+      "author_handle": null,
+      "created_at": "2026-08-27T08:23:46Z",
+      "text": "@LexnLin Last one is coool",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 831,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092893298377568717",
+      "author_handle": null,
+      "created_at": "2026-08-27T08:33:41Z",
+      "text": "@LexnLin What model if I may ask",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 706,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092897639184654696",
+      "author_handle": null,
+      "created_at": "2026-08-27T08:50:55Z",
+      "text": "@LexnLin can you share  prompt",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 317,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092890365930131920",
+    "2092890803844546927",
+    "2092893298377568717",
+    "2092897639184654696"
+  ],
+  "item_id": "x-2092890365930131920",
+  "handle": "LexnLin",
+  "http_status": 200,
+  "url": "https://x.com/LexnLin/status/2092890365930131920",
+  "html_bytes": 196207,
+  "raw_path": "raw/items/x-2092890365930131920/thread-raw/x-web-dom-20260904T175323Z.html"
+}

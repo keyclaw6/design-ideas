@@ -1,0 +1,99 @@
+{
+  "root_id": "2090079734571098131",
+  "reply_count_reported": 7,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2090079734571098131",
+      "author_handle": null,
+      "created_at": "2026-08-19T14:13:35Z",
+      "text": "Another design direction for this AI SaaS.\n\nbuilt by Custom Skills + My Video Tool + Claude + Some Creativity https://t.co/2w2o3mYt0Z",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 109,
+        "replies": 7,
+        "reposts": 9,
+        "views": 63329,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/2w2o3mYt0Z"
+      ]
+    },
+    {
+      "id": "2089703590642524221",
+      "author_handle": null,
+      "created_at": "2026-08-18T13:18:55Z",
+      "text": "Another AI SaaS landing page.\n\nAgain built by Custom Skills + My Video Tool + Claude + Some Creativity https://t.co/aDdpemWAZq",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 31749,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/aDdpemWAZq"
+      ]
+    },
+    {
+      "id": "2090327521828966903",
+      "author_handle": null,
+      "created_at": "2026-08-20T06:38:12Z",
+      "text": "@DesignByMoein awesome ❤️",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 327,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090327571405898019",
+      "author_handle": null,
+      "created_at": "2026-08-20T06:38:24Z",
+      "text": "@DesignByMoein 可以开源到Github吗？",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 164,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090096705882771535",
+      "author_handle": null,
+      "created_at": "2026-08-19T15:21:01Z",
+      "text": "@DesignByMoein the inflatable characters are a fun departure",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 206,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089703590642524221",
+    "2090079734571098131",
+    "2090096705882771535",
+    "2090327521828966903",
+    "2090327571405898019"
+  ],
+  "item_id": "x-2090079734571098131",
+  "handle": "DesignByMoein",
+  "http_status": 200,
+  "url": "https://x.com/DesignByMoein/status/2090079734571098131",
+  "html_bytes": 216682,
+  "raw_path": "raw/items/x-2090079734571098131/thread-raw/x-web-dom-20260904T175314Z.html"
+}

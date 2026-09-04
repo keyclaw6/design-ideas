@@ -1,0 +1,96 @@
+{
+  "schema_version": "1",
+  "id": "x-2087656088124719304",
+  "tweet_id": "2087656088124719304",
+  "root_author_handle": "alaymanguy",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 38,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 9,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 37,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087689372288401565",
+      "author_handle": "unknown",
+      "created_at": "2026-08-12T23:55:08Z",
+      "text": "@alaymanguy @shadcnlabs @kanewang_ @shadcn Does.@shadcnlabs belong to @shadcn ? Kind of confusing",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 12,
+        "replies": 3,
+        "reposts": 0,
+        "views": 2674
+      },
+      "parent_id": "2087656088124719304",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2087656090754531535",
+      "author_handle": "alaymanguy",
+      "created_at": "2026-08-12T21:42:53Z",
+      "text": "Try it here: https://t.co/5ffZdbLWAu",
+      "text_en": null,
+      "urls": [
+        "https://t.co/5ffZdbLWAu"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 53,
+        "replies": 3,
+        "reposts": 0,
+        "views": 7730
+      }
+    },
+    {
+      "id": "2087656092881060252",
+      "author_handle": "alaymanguy",
+      "created_at": "2026-08-12T21:42:53Z",
+      "text": "Give it a ⭐️ on GitHub: https://t.co/hq5TCrQnsS",
+      "text_en": null,
+      "urls": [
+        "https://t.co/hq5TCrQnsS"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 36,
+        "replies": 0,
+        "reposts": 2,
+        "views": 6240
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/alaymanguy/status/2087656088124719304",
+      "outcome": "ok",
+      "note": "html_bytes=243908 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/alaymanguy/status/2087656088124719304",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087656088124719304/thread-raw/x-web-dom-20260904T175306Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

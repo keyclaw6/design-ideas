@@ -1,0 +1,38 @@
+{
+  "id": "web-cloudflare-kitesurf",
+  "url": "https://blog.cloudflare.com/kitesurf/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "title": "Kitesurf \u2014 agent-first browser on Cloudflare Workers",
+  "authors": [
+    "Cloudflare"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://x.com/0xJokker/status/2094427822064279870",
+    "https://github.com/h4ckf0r0day/obscura",
+    "https://obscura.sh",
+    "https://developers.cloudflare.com/browser-run/",
+    "https://developers.cloudflare.com/browser-run/cdp/",
+    "https://developers.cloudflare.com/dynamic-workers/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "published": "2026-08-06",
+    "availability": "Beta, free in Browser Run",
+    "origin": "Obscura port to Workers as first prototype",
+    "fetch": "r.jina.ai (truncated mid-PageRenderer section)",
+    "related_items": [
+      "github-h4ckf0r0day-obscura",
+      "web-obscura-sh",
+      "github-punkpeye-awesome-mcp-servers",
+      "github-nateherkai-scroll-craft",
+      "web-aidesigner-mcp"
+    ],
+    "category_note": "Cloudflare Workers agent-first browser; Obscura port; Browser Run beta."
+  }
+}

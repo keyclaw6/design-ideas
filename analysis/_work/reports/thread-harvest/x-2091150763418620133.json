@@ -1,0 +1,101 @@
+{
+  "root_id": "2091150763418620133",
+  "reply_count_reported": 72,
+  "quote_count_reported": 54,
+  "tweets": [
+    {
+      "id": "2091150763418620133",
+      "author_handle": null,
+      "created_at": "2026-08-22T13:09:28Z",
+      "text": "UC Berkeley just open-sourced FreeToken.\n\n(2–4x faster local LLM inference than Ollama)\n\nthe results are wild:\n\n- Qwen3.6-35B on an 8GB GPU at 39.3 tokens/s\n- DeepSeek-V4-Flash 284B on a 32GB GPU at 22 tokens/s\n- GLM-5.2 753B on a 96GB GPU at 14.9 tokens/s\n\na 35B model at 16-bit https://t.co/QSdPUYT7fM",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2972,
+        "replies": 72,
+        "reposts": 497,
+        "views": 338626,
+        "quotes": 54
+      },
+      "urls": [
+        "https://t.co/QSdPUYT7fM"
+      ]
+    },
+    {
+      "id": "2087928032904523980",
+      "author_handle": null,
+      "created_at": "2026-08-13T15:43:29Z",
+      "text": "https://t.co/LZBmYCeFnK",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 733805,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/LZBmYCeFnK"
+      ]
+    },
+    {
+      "id": "2091248237675995447",
+      "author_handle": null,
+      "created_at": "2026-08-22T19:36:48Z",
+      "text": "@akshay_pachaar Even ornith-1.0-35b-Q4_K_M + locally compiled llama.cpp can reach easily 45-55 t/s\n\nAgain: RTX-5060 mobile 8G VRAM + 32 GB DDR5 on the host, with a Full Ubuntu desktop running with 2 browsers full of tabs, two instances of vscode woking on 2 separate projects, etc... https://t.co/nWu8USiCaC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 3,
+        "reposts": 2,
+        "views": 2743,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/nWu8USiCaC"
+      ]
+    },
+    {
+      "id": "2091154607195984225",
+      "author_handle": null,
+      "created_at": "2026-08-22T13:24:44Z",
+      "text": "@akshay_pachaar 39 tokens/s on an 8GB card for a 35B model is absurd. If this holds up, Ollama has a real problem.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1383,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091635736512491960",
+      "author_handle": null,
+      "created_at": "2026-08-23T21:16:34Z",
+      "text": "@akshay_pachaar No where did you mention that the testing they completed involved ddr5 9700x and a bm660 with 192gb of ram. \nKind of misleading. \nThe model has to fit inside the ram!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 0,
+        "reposts": 0,
+        "views": 689,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087928032904523980",
+    "2091150763418620133",
+    "2091154607195984225",
+    "2091248237675995447",
+    "2091635736512491960"
+  ],
+  "item_id": "x-2091150763418620133",
+  "handle": "akshay_pachaar",
+  "http_status": 200,
+  "url": "https://x.com/akshay_pachaar/status/2091150763418620133",
+  "html_bytes": 246102,
+  "raw_path": "raw/items/x-2091150763418620133/thread-raw/x-web-dom-20260904T175316Z.html"
+}

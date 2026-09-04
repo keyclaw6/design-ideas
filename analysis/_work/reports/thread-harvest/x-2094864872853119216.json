@@ -1,0 +1,67 @@
+{
+  "root_id": "2094864872853119216",
+  "reply_count_reported": 16,
+  "quote_count_reported": 4,
+  "tweets": [
+    {
+      "id": "2094864872853119216",
+      "author_handle": null,
+      "created_at": "2026-09-01T19:08:01Z",
+      "text": "This scene was generated from one input image. Atlas fills the remaining gaps.\n\n→ atlas (world labs)\n→ spark.js \n→ three.js https://t.co/htTVjg0iP4",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 282,
+        "replies": 16,
+        "reposts": 20,
+        "views": 21379,
+        "quotes": 4
+      },
+      "urls": [
+        "https://t.co/htTVjg0iP4"
+      ]
+    },
+    {
+      "id": "2094881923764199717",
+      "author_handle": null,
+      "created_at": "2026-09-01T20:15:46Z",
+      "text": "Input image for reference https://t.co/5G3fVVBuTq",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 0,
+        "reposts": 1,
+        "views": 1053,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/5G3fVVBuTq"
+      ]
+    },
+    {
+      "id": "2094866520904274236",
+      "author_handle": null,
+      "created_at": "2026-09-01T19:14:33Z",
+      "text": "@XRarchitect sheeesh now in VR",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 455,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094864872853119216",
+    "2094866520904274236",
+    "2094881923764199717"
+  ],
+  "item_id": "x-2094864872853119216",
+  "handle": "XRarchitect",
+  "http_status": 200,
+  "url": "https://x.com/XRarchitect/status/2094864872853119216",
+  "html_bytes": 163023,
+  "raw_path": "raw/items/x-2094864872853119216/thread-raw/x-web-dom-20260904T175334Z.html"
+}

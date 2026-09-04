@@ -1,0 +1,102 @@
+{
+  "root_id": "2091570990048276897",
+  "reply_count_reported": 245,
+  "quote_count_reported": 326,
+  "tweets": [
+    {
+      "id": "2091570990048276897",
+      "author_handle": null,
+      "created_at": "2026-08-23T16:59:18Z",
+      "text": "You can just RL a coding model to paint with javascript btw https://t.co/4x5B81kjUh",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8428,
+        "replies": 245,
+        "reposts": 780,
+        "views": 1657964,
+        "quotes": 326
+      },
+      "urls": [
+        "https://t.co/4x5B81kjUh"
+      ]
+    },
+    {
+      "id": "2091621857388605653",
+      "author_handle": null,
+      "created_at": "2026-08-23T20:21:25Z",
+      "text": "Write up : https://t.co/GDQOjkt9Gd (not up to date) \n\nSample Code : https://t.co/uvY7oWnVA9 \n\nhttps://t.co/xgS2XqXR6C\n\nhttps://t.co/jGD6OHNdDm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 970,
+        "replies": 21,
+        "reposts": 62,
+        "views": 71547,
+        "quotes": 11
+      },
+      "urls": [
+        "https://t.co/GDQOjkt9Gd",
+        "https://t.co/uvY7oWnVA9",
+        "https://t.co/xgS2XqXR6C",
+        "https://t.co/jGD6OHNdDm"
+      ]
+    },
+    {
+      "id": "2091656214455201964",
+      "author_handle": null,
+      "created_at": "2026-08-23T22:37:57Z",
+      "text": "Trained on @PrimeIntellect . Rollouts rendered on @modal.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 182,
+        "replies": 0,
+        "reposts": 6,
+        "views": 26622,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091632944406261768",
+      "author_handle": null,
+      "created_at": "2026-08-23T21:05:29Z",
+      "text": "HUGE s/o to @hollowaya_x  who built the training infrastructure and modal setup!!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 94,
+        "replies": 1,
+        "reposts": 2,
+        "views": 25828,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091756330721951762",
+      "author_handle": null,
+      "created_at": "2026-08-24T05:15:46Z",
+      "text": "@kickingkeys if you RL on brushes _creation_ too then it'd be pretty crazy! Could ease this by doing it as a separate process instead of e2e. Then you'd be able to hot swap brushes? \n\nThere's also buildStrokeShader",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 71,
+        "replies": 1,
+        "reposts": 0,
+        "views": 12206,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091570990048276897",
+    "2091621857388605653",
+    "2091632944406261768",
+    "2091656214455201964",
+    "2091756330721951762"
+  ],
+  "item_id": "x-2091570990048276897",
+  "handle": "kickingkeys",
+  "http_status": 200,
+  "url": "https://x.com/kickingkeys/status/2091570990048276897",
+  "html_bytes": 235617,
+  "raw_path": "raw/items/x-2091570990048276897/thread-raw/x-web-dom-20260904T175318Z.html"
+}

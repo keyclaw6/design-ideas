@@ -1,0 +1,103 @@
+{
+  "root_id": "2087873421094896122",
+  "reply_count_reported": 15,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2087873421094896122",
+      "author_handle": null,
+      "created_at": "2026-08-13T12:06:29Z",
+      "text": "Trending repository of the day 📈\n\ndiagram-design\n\n29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.\n\nLast 24h: 2,855 ⭐\nTotal: 12,709 ⭐️\nhttps://t.co/3bqL2cQa7e",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 591,
+        "replies": 15,
+        "reposts": 48,
+        "views": 86387,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/3bqL2cQa7e"
+      ]
+    },
+    {
+      "id": "2088184018655379584",
+      "author_handle": null,
+      "created_at": "2026-08-14T08:40:41Z",
+      "text": "@trending_repos Been using https://t.co/9K9sR0syTp\n\nWill try this",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1073,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/9K9sR0syTp"
+      ]
+    },
+    {
+      "id": "2088015456389005402",
+      "author_handle": null,
+      "created_at": "2026-08-13T21:30:52Z",
+      "text": "@trending_repos hmm… I got an idea! \n\nhttps://t.co/S9WNeNIFmJ",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2465,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/S9WNeNIFmJ"
+      ]
+    },
+    {
+      "id": "2087569590268391897",
+      "author_handle": "trending_repos",
+      "created_at": "2026-08-12T15:59:10Z",
+      "text": "https://t.co/L0G15QT1Tv",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 798106,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/L0G15QT1Tv"
+      ]
+    },
+    {
+      "id": "2087931742187606475",
+      "author_handle": null,
+      "created_at": "2026-08-13T15:58:13Z",
+      "text": "@trending_repos mermaid slop is real. this is a good direction.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2103,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087569590268391897",
+    "2087873421094896122",
+    "2087931742187606475",
+    "2088015456389005402",
+    "2088184018655379584"
+  ],
+  "item_id": "x-2087873421094896122",
+  "handle": "trending_repos",
+  "http_status": 200,
+  "url": "https://x.com/trending_repos/status/2087873421094896122",
+  "html_bytes": 268069,
+  "raw_path": "raw/items/x-2087873421094896122/thread-raw/x-web-dom-20260904T175307Z.html"
+}

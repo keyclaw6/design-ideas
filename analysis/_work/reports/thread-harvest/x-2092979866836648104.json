@@ -1,0 +1,99 @@
+{
+  "root_id": "2092979866836648104",
+  "reply_count_reported": 9,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2092979866836648104",
+      "author_handle": null,
+      "created_at": "2026-08-27T14:17:40Z",
+      "text": "okay yall asked for the prompt under this\n\nhere's the exact template + a mini tutorial on how to use it for basically any brand: https://t.co/S5VHhDuDus",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 242,
+        "replies": 9,
+        "reposts": 7,
+        "views": 16799,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/S5VHhDuDus"
+      ]
+    },
+    {
+      "id": "2092890365930131920",
+      "author_handle": null,
+      "created_at": "2026-08-27T08:22:01Z",
+      "text": "made all of these visuals for a random math brand in a few minutes with AI\n\npretty insane that we live in this era https://t.co/cEsqObenoO",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 21928,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/cEsqObenoO"
+      ]
+    },
+    {
+      "id": "2092979873476215219",
+      "author_handle": null,
+      "created_at": "2026-08-27T14:17:42Z",
+      "text": "start with this base prompt:\n\nCreate a premium 16:9 brand campaign visual in a clean editorial + glossy 3D design style. Use oversized bold sans-serif typography, minimal copy, strong negative space, refined lighting, subtle reflections, soft shadows, and high-end materials such",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 30,
+        "replies": 2,
+        "reposts": 3,
+        "views": 2183,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092979876718379436",
+      "author_handle": null,
+      "created_at": "2026-08-27T14:17:42Z",
+      "text": "then just add one line describing the actual brand + what you want:\n\n\"the brand is [NAME], a [TYPE OF PRODUCT]. Create [NUMBER] campaign visuals about [CONTENT/THEME]. Use [COLORS] as the main palette.\"\n\nmine was basically something like:\n\n\"the brand is PRYNE, a math learning",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 14,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1693,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093054305859440660",
+      "author_handle": null,
+      "created_at": "2026-08-27T19:13:28Z",
+      "text": "@LexnLin posting the actual template instead of \"dm me\" should be the default and somehow isn't",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 183,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092890365930131920",
+    "2092979866836648104",
+    "2092979873476215219",
+    "2092979876718379436",
+    "2093054305859440660"
+  ],
+  "item_id": "x-2092979866836648104",
+  "handle": "LexnLin",
+  "http_status": 200,
+  "url": "https://x.com/LexnLin/status/2092979866836648104",
+  "html_bytes": 235092,
+  "raw_path": "raw/items/x-2092979866836648104/thread-raw/x-web-dom-20260904T175324Z.html"
+}

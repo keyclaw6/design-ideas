@@ -1,0 +1,82 @@
+{
+  "root_id": "2092656414351118647",
+  "reply_count_reported": 5,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2092656414351118647",
+      "author_handle": null,
+      "created_at": "2026-08-26T16:52:23Z",
+      "text": "avoid-ai-writing audits text for AI writing patterns and rewrites flagged passages in place.\n\nhttps://t.co/9Fbmjp5Xt6 https://t.co/RMFfOP8jsn",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 417,
+        "replies": 5,
+        "reposts": 30,
+        "views": 25684,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/9Fbmjp5Xt6",
+        "https://t.co/RMFfOP8jsn"
+      ]
+    },
+    {
+      "id": "2092703859613307030",
+      "author_handle": null,
+      "created_at": "2026-08-26T20:00:55Z",
+      "text": "@tom_doerr show the matched pattern beside each rewrite. reviewers need to see whether the tool caught a real habit or erased an intentional choice.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 112,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092664312573657098",
+      "author_handle": null,
+      "created_at": "2026-08-26T17:23:46Z",
+      "text": "@tom_doerr so it flags itself and then rewrites its own apology",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 614,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092688335076753653",
+      "author_handle": null,
+      "created_at": "2026-08-26T18:59:14Z",
+      "text": "@tom_doerr this is so clever, i love how it keeps your original voice while just cleaning things up. how does it handle shorter snippets like emails?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 295,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092656414351118647",
+    "2092664312573657098",
+    "2092688335076753653",
+    "2092703859613307030"
+  ],
+  "item_id": "x-2092656414351118647",
+  "handle": "tom_doerr",
+  "http_status": 200,
+  "url": "https://x.com/tom_doerr/status/2092656414351118647",
+  "html_bytes": 179672,
+  "raw_path": "raw/items/x-2092656414351118647/thread-raw/x-web-dom-20260904T175322Z.html"
+}

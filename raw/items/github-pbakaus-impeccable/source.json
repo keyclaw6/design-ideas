@@ -1,0 +1,36 @@
+{
+  "id": "github-pbakaus-impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Impeccable",
+  "authors": [
+    "pbakaus"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://impeccable.style",
+    "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+  ],
+  "media": [
+    "media/favicon.ico"
+  ],
+  "unsaved": false,
+  "extra": {
+    "stars": 64933,
+    "commands": 23,
+    "detector_rules": 61,
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "github-nateherkai-scroll-craft",
+      "web-checklist-design"
+    ],
+    "category_note": "PRODUCT.md + DESIGN.md + 61 detector rules; anti-slop."
+  }
+}

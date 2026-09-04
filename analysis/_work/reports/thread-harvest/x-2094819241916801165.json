@@ -1,0 +1,193 @@
+{
+  "root_id": "2094819241916801165",
+  "reply_count_reported": 57,
+  "quote_count_reported": 8,
+  "tweets": [
+    {
+      "id": "2094819241916801165",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:06:41Z",
+      "text": "everyone is posting these AI character videos and nobody explains how they get this realistic..\n\nso here's my exact process, start to finish 🧵 https://t.co/K1i4fBzi8b",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1248,
+        "replies": 57,
+        "reposts": 101,
+        "views": 126101,
+        "quotes": 8
+      },
+      "urls": [
+        "https://t.co/K1i4fBzi8b"
+      ]
+    },
+    {
+      "id": "2094819261491675607",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:06:46Z",
+      "text": "1️⃣ the male character\n\ndrop this image in GPT Image 2 as image_1, then drop YOUR own face photo as image_2\n\npaste this prompt and it swaps your face into the scene, outfit and lighting untouched:\n\nReplace the character in &lt;&lt;&lt;image_1&gt;&gt;&gt; with the character in @image2. Keep the https://t.co/oPU1vsaPR6",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 46,
+        "replies": 3,
+        "reposts": 3,
+        "views": 8868,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/oPU1vsaPR6"
+      ]
+    },
+    {
+      "id": "2094819279636189541",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:06:50Z",
+      "text": "2️⃣ the female character\n\nsame move. this image as image_1, her face photo as image_2\n\nprompt:\n\nReplace the character in &lt;&lt;&lt;image_1&gt;&gt;&gt; with the character in &lt;&lt;&lt;image_2&gt;&gt;&gt;. Keep the outfit, styling, pose, held props, camera angle, framing, environment, and lighting from https://t.co/I8ZGcVgGvz",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 26,
+        "replies": 1,
+        "reposts": 1,
+        "views": 7494,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/I8ZGcVgGvz"
+      ]
+    },
+    {
+      "id": "2094819340189307133",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:07:05Z",
+      "text": "now the video\n\nattach both stills plus the character sheets to Seedance 2.5 and run this\n\nthis is the entire clip in one prompt, dialogue and whip pan included:\n\nSCENE CONTEXT A single continuous 10-second handheld take on a wide mown grass field at golden hour. A woman reclines https://t.co/THvt69gOBF",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 38,
+        "replies": 2,
+        "reposts": 1,
+        "views": 7183,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/THvt69gOBF"
+      ]
+    },
+    {
+      "id": "2094819352298258516",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:07:08Z",
+      "text": "same two characters, completely different scene\n\nthat is the whole point of locking the identity first\n\nsecond clip 👇",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 1,
+        "reposts": 0,
+        "views": 5469,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094819375555776599",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:07:13Z",
+      "text": "4️⃣ male, scene two\n\nthis image as image_1, your face photo as image_2\n\nthe key line here is relighting. the studio plate lighting gets thrown away completely:\n\nReplace the character in &lt;&lt;&lt;image_1&gt;&gt;&gt; with the character in &lt;&lt;&lt;image_2&gt;&gt;&gt;. Keep the outfit, styling, pose, action, held https://t.co/iPDQMKx2hj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 5248,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/iPDQMKx2hj"
+      ]
+    },
+    {
+      "id": "2094819403351437365",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:07:20Z",
+      "text": "5️⃣ female, scene two\n\nthis image as image_1, her face photo as image_2\n\nprompt:\n\nReplace the character in &lt;&lt;&lt;image_1&gt;&gt;&gt; with the character in &lt;&lt;&lt;image_2&gt;&gt;&gt;. Keep the outfit, styling, pose, held props, camera angle, framing, environment, and lighting from &lt;&lt;&lt;image_1&gt;&gt;&gt; exactly as https://t.co/5WY7QslmFw",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 1,
+        "reposts": 0,
+        "views": 4542,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/5WY7QslmFw"
+      ]
+    },
+    {
+      "id": "2094819470422450205",
+      "author_handle": null,
+      "created_at": "2026-09-01T16:07:36Z",
+      "text": "Seedance 2.5 1080p Prompt:\n\nSCENE CONTEXT\n\nA single tennis rally on an outdoor red clay court under hard midday sun. A woman serves from the baseline on the camera-left half of the court; a man receives on the camera-right half. Four exchanges, then she wins the point.\n\nACTIVE https://t.co/le0Y9cmTA6",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 39,
+        "replies": 1,
+        "reposts": 1,
+        "views": 4357,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/le0Y9cmTA6"
+      ]
+    },
+    {
+      "id": "2095027918565245126",
+      "author_handle": null,
+      "created_at": "2026-09-02T05:55:54Z",
+      "text": "@abxxai I like your work I made this with seedance 2.5 https://t.co/ZK0wj3kCqc",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 778,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ZK0wj3kCqc"
+      ]
+    },
+    {
+      "id": "2095017663605162131",
+      "author_handle": "abxxai",
+      "created_at": "2026-09-02T05:15:09Z",
+      "text": "风格：九十年代手绘日式赛璐璐动画，遵循吉卜力工作室的经典传统——角色以柔和而肯定的墨线勾勒，配双色调的平涂赛璐璐上色，合成于笔触清晰可见、层次丰富的手绘水粉背景之上。色彩略带浑浊的胶片陈旧感与柔和的暖调偏色，不得有数码般的锐利。夜景配色为深靛蓝与暗淡的石板灰，其间点缀着数百盏细小的 https://t.co/zdckuCYggi",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/zdckuCYggi"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2094819241916801165",
+    "2094819261491675607",
+    "2094819279636189541",
+    "2094819340189307133",
+    "2094819352298258516",
+    "2094819375555776599",
+    "2094819403351437365",
+    "2094819470422450205",
+    "2095017663605162131",
+    "2095027918565245126"
+  ],
+  "item_id": "x-2094819241916801165",
+  "handle": "abxxai",
+  "http_status": 200,
+  "url": "https://x.com/abxxai/status/2094819241916801165",
+  "html_bytes": 399624,
+  "raw_path": "raw/items/x-2094819241916801165/thread-raw/x-web-dom-20260904T175334Z.html"
+}

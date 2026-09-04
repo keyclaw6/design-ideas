@@ -1,0 +1,81 @@
+{
+  "root_id": "2095111032171876470",
+  "reply_count_reported": 10,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2095111032171876470",
+      "author_handle": null,
+      "created_at": "2026-09-02T11:26:10Z",
+      "text": "Made this 3D keyboard animation with CoAnimator, Claude Fable 5.1 ⌨️ ✨\n\nBest part ? You can edit and customize the whole thing with your AI Agent. Happy to share the files if anyone wants to use it 👇 https://t.co/ShM63hVUl2",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 56,
+        "replies": 10,
+        "reposts": 11,
+        "views": 3582,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/ShM63hVUl2"
+      ]
+    },
+    {
+      "id": "2095115192703308231",
+      "author_handle": null,
+      "created_at": "2026-09-02T11:42:41Z",
+      "text": "@rege_dev Could you please share the template?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 140,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095111672147128593",
+      "author_handle": null,
+      "created_at": "2026-09-02T11:28:42Z",
+      "text": "@rege_dev Absolutely wild 😍",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 178,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095112545661292725",
+      "author_handle": null,
+      "created_at": "2026-09-02T11:32:10Z",
+      "text": "@rege_dev Pretty cool stuff😍",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 154,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095111032171876470",
+    "2095111672147128593",
+    "2095112545661292725",
+    "2095115192703308231"
+  ],
+  "item_id": "x-2095111032171876470",
+  "handle": "rege_dev",
+  "http_status": 200,
+  "url": "https://x.com/rege_dev/status/2095111032171876470",
+  "html_bytes": 193337,
+  "raw_path": "raw/items/x-2095111032171876470/thread-raw/x-web-dom-20260904T175336Z.html"
+}

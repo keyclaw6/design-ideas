@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2093129469926215800",
+  "tweet_id": "2093129469926215800",
+  "root_author_handle": "JakeFromHeyGen",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 5,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 4,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093146941446373711",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T01:21:34Z",
+      "text": "@JakeFromHeyGen Hyperframes imo is still light years ahead of the others. I use it every day. Great stuff. 🙏",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 320
+      },
+      "parent_id": "2093129469926215800",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093129558883209348",
+      "author_handle": "JakeFromHeyGen",
+      "created_at": "2026-08-28T00:12:29Z",
+      "text": "https://t.co/bUrBBPhqFJ",
+      "text_en": null,
+      "urls": [
+        "https://t.co/bUrBBPhqFJ"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 510
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/JakeFromHeyGen/status/2093129469926215800",
+      "outcome": "ok",
+      "note": "html_bytes=210305 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/JakeFromHeyGen/status/2093129469926215800",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093129469926215800/thread-raw/x-web-dom-20260904T175325Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

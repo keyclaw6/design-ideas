@@ -1,0 +1,184 @@
+{
+  "schema_version": "1",
+  "id": "x-2093012548031254932",
+  "tweet_id": "2093012548031254932",
+  "root_author_handle": "matiNotFound",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 71,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 20,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 70,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093172148978487504",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T03:01:44Z",
+      "text": "@matiNotFound awfully recreated balatro fire with vgpu https://t.co/dzUuNpvU3f",
+      "text_en": null,
+      "urls": [
+        "https://t.co/dzUuNpvU3f"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 21,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1504
+      },
+      "parent_id": "2093012548031254932",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093012551596396694",
+      "author_handle": "matiNotFound",
+      "created_at": "2026-08-27T16:27:33Z",
+      "text": "My first attempt at this library was to design a minimal API that let me ship shaders with a few lines of code.\n\nIt was the \"dream api\" that I always wanted, super minimal, abstracting all the verbosity away, but it came with a cost: It was hard for agents to use\n\nIt had too many https://t.co/vuHKnTtxTg",
+      "text_en": null,
+      "urls": [
+        "https://t.co/vuHKnTtxTg"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 51,
+        "replies": 3,
+        "reposts": 1,
+        "views": 8679
+      }
+    },
+    {
+      "id": "2093012554947670024",
+      "author_handle": "matiNotFound",
+      "created_at": "2026-08-27T16:27:34Z",
+      "text": "I started going back and forth between abstraction levels to find the right utilities. Keeping low-level control while making it easier for agents to understand.\n\nAfter shipping many shaders on https://t.co/bMBjNsc9U2, we found that allowed us to improve on performance a lot https://t.co/Z5CHY6fTHD",
+      "text_en": null,
+      "urls": [
+        "https://t.co/bMBjNsc9U2",
+        "https://t.co/Z5CHY6fTHD"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 33,
+        "replies": 2,
+        "reposts": 1,
+        "views": 6871
+      }
+    },
+    {
+      "id": "2093012558554730838",
+      "author_handle": "matiNotFound",
+      "created_at": "2026-08-27T16:27:34Z",
+      "text": "Agents usually just open a browser to check their work; waiting ~10 seconds to check for a syntax error is too slow.\n\nThis is where the CLI helps:\n- `vpgu docs` and `vgpu examples` to quickly learn\n- `vgpu check` to validate shader code syntax https://t.co/qcNydXfC0f",
+      "text_en": null,
+      "urls": [
+        "https://t.co/qcNydXfC0f"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 29,
+        "replies": 1,
+        "reposts": 0,
+        "views": 6042
+      }
+    },
+    {
+      "id": "2093012561943785844",
+      "author_handle": "matiNotFound",
+      "created_at": "2026-08-27T16:27:35Z",
+      "text": "If your agent is shipping in a cloud sandbox, it probably won't have a GPU.\n\nUsually they go, \"oh I cannot render this\", and give up.\n\nvgpu solves this by shipping a CPU renderer that they can install to test their code.\n\nThis also makes `agent-browser --webgpu` work anywhere https://t.co/vKPMgntdBP",
+      "text_en": null,
+      "urls": [
+        "https://t.co/vKPMgntdBP"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 35,
+        "replies": 1,
+        "reposts": 0,
+        "views": 5685
+      }
+    },
+    {
+      "id": "2093012565005566216",
+      "author_handle": "matiNotFound",
+      "created_at": "2026-08-27T16:27:36Z",
+      "text": "The headless renderer also lets us write tests that run on CI.\n\n...or render our shaders as high-resolution videos locally.\n\nOn Mac, rendering runs natively on Metal, so it's real GPU speed https://t.co/d3qpaqo8U0",
+      "text_en": null,
+      "urls": [
+        "https://t.co/d3qpaqo8U0"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 31,
+        "replies": 1,
+        "reposts": 0,
+        "views": 4872
+      }
+    },
+    {
+      "id": "2093012568696659973",
+      "author_handle": "matiNotFound",
+      "created_at": "2026-08-27T16:27:37Z",
+      "text": "And finally, my favorite feature: WGSL modules.\n\nThis allows us to write shaders in the WebGPU Shader Language\n\nWe can now create shader libraries and registries.\n\nThe WGSL code gets minified and validated at build time. https://t.co/UoQikHJonZ",
+      "text_en": null,
+      "urls": [
+        "https://t.co/UoQikHJonZ"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 58,
+        "replies": 1,
+        "reposts": 1,
+        "views": 5258
+      }
+    },
+    {
+      "id": "2093012571569692962",
+      "author_handle": "matiNotFound",
+      "created_at": "2026-08-27T16:27:38Z",
+      "text": "Docs and examples are available at https://t.co/OGcCMpMLvi\n\nAll feedback is welcome!",
+      "text_en": null,
+      "urls": [
+        "https://t.co/OGcCMpMLvi"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 122,
+        "replies": 3,
+        "reposts": 3,
+        "views": 5249
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/matiNotFound/status/2093012548031254932",
+      "outcome": "ok",
+      "note": "html_bytes=356178 tweets=9"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/matiNotFound/status/2093012548031254932",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093012548031254932/thread-raw/x-web-dom-20260904T175324Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

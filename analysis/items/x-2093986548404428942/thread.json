@@ -1,0 +1,97 @@
+{
+  "schema_version": "1",
+  "id": "x-2093986548404428942",
+  "tweet_id": "2093986548404428942",
+  "root_author_handle": "Ragu_Cinema",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 18,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 5,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 17,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094293502129476080",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T05:17:35Z",
+      "text": "@Ragu_Cinema You're so good with digging out websites for us Ragu 😌🔥",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 97
+      },
+      "parent_id": "2093986548404428942",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093987426108645434",
+      "author_handle": "Ragu_Cinema",
+      "created_at": "2026-08-30T09:01:21Z",
+      "text": "https://t.co/WU3iWPMa0G",
+      "text_en": null,
+      "urls": [
+        "https://t.co/WU3iWPMa0G"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 18,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2846
+      }
+    },
+    {
+      "id": "2074512989122687171",
+      "author_handle": "Ragu_Cinema",
+      "created_at": "2026-07-07T15:16:53Z",
+      "text": "AI Filmmakers,\n\nWe’re building the AI filmmaking library we wish we had when we started.\n\nEvery tool we share is meant to save you hours of searching.\n\nBookmark this now. You probably won’t find it again when you actually need it.\n\nhttps://t.co/jmnlATveUW https://t.co/OLNqCbyCwN",
+      "text_en": null,
+      "urls": [
+        "https://t.co/jmnlATveUW",
+        "https://t.co/OLNqCbyCwN"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 172299
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Ragu_Cinema/status/2093986548404428942",
+      "outcome": "ok",
+      "note": "html_bytes=183960 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Ragu_Cinema/status/2093986548404428942",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093986548404428942/thread-raw/x-web-dom-20260904T175330Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

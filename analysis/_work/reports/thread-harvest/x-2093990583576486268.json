@@ -1,0 +1,101 @@
+{
+  "root_id": "2093990583576486268",
+  "reply_count_reported": 24,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2093990583576486268",
+      "author_handle": null,
+      "created_at": "2026-08-30T09:13:54Z",
+      "text": "Posted this as a LinkedIn article targeting “SEO in 2026” and in 24 hours it's ranking on page one of Google\n\nLinkedIn’s authority is ridiculous https://t.co/9gZIg87p1C",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 114,
+        "replies": 24,
+        "reposts": 9,
+        "views": 21838,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/9gZIg87p1C"
+      ]
+    },
+    {
+      "id": "2093320636743512116",
+      "author_handle": null,
+      "created_at": "2026-08-28T12:51:46Z",
+      "text": "https://t.co/sHIeqAYMPB",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 44595,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/sHIeqAYMPB"
+      ]
+    },
+    {
+      "id": "2094016164062212593",
+      "author_handle": null,
+      "created_at": "2026-08-30T10:55:33Z",
+      "text": "@jakezward that's great. i ranked for \"link building for local seo\" with in a few seconds of indexing. https://t.co/NODoPwKhsE",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 170,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/NODoPwKhsE"
+      ]
+    },
+    {
+      "id": "2094102737814258096",
+      "author_handle": null,
+      "created_at": "2026-08-30T16:39:33Z",
+      "text": "@jakezward Is there a significant difference writing an article as a person vs. a brand on LinkedIn?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 200,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2094153105411621260",
+      "author_handle": null,
+      "created_at": "2026-08-30T19:59:42Z",
+      "text": "@jakezward Algorithms change. Human nature doesn't. LinkedIn authority is a cheat code if you use it right",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 47,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093320636743512116",
+    "2093990583576486268",
+    "2094016164062212593",
+    "2094102737814258096",
+    "2094153105411621260"
+  ],
+  "item_id": "x-2093990583576486268",
+  "handle": "jakezward",
+  "http_status": 200,
+  "url": "https://x.com/jakezward/status/2093990583576486268",
+  "html_bytes": 202703,
+  "raw_path": "raw/items/x-2093990583576486268/thread-raw/x-web-dom-20260904T175330Z.html"
+}

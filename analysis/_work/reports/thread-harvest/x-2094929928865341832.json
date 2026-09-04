@@ -1,0 +1,65 @@
+{
+  "root_id": "2094929928865341832",
+  "reply_count_reported": 2,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2094929928865341832",
+      "author_handle": null,
+      "created_at": "2026-09-01T23:26:31Z",
+      "text": "NVIDIA Open-source a model that rebuilds broken, blurry 3D scans from angles you never captured.\n\nlike the 3D “auto-fixer.” It uses video diffusion to generate the camera angles you never captured, then reconstructs the scene from the generated frames.\n\n - 70x faster, Finishes in https://t.co/8Bv0IRH819",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 306,
+        "replies": 2,
+        "reposts": 43,
+        "views": 13109,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/8Bv0IRH819"
+      ]
+    },
+    {
+      "id": "2095139456244396351",
+      "author_handle": null,
+      "created_at": "2026-09-02T13:19:06Z",
+      "text": "@0x0SojalSec Please intergrate @lichtfeldstudio !",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 291,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095111024093311097",
+      "author_handle": null,
+      "created_at": "2026-09-02T11:26:08Z",
+      "text": "@0x0SojalSec Except sota is now Atlas",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "views": 440,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2094929928865341832",
+    "2095111024093311097",
+    "2095139456244396351"
+  ],
+  "item_id": "x-2094929928865341832",
+  "handle": "0x0SojalSec",
+  "http_status": 200,
+  "url": "https://x.com/0x0SojalSec/status/2094929928865341832",
+  "html_bytes": 167491,
+  "raw_path": "raw/items/x-2094929928865341832/thread-raw/x-web-dom-20260904T175335Z.html"
+}

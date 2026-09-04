@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "x-2091622751756751211",
+  "tweet_id": "2091622751756751211",
+  "root_author_handle": "kickingkeys",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 45,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 7,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 42,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091657271017169248",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T22:42:09Z",
+      "text": "@kickingkeys i'm such a fan of this",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 17,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2270
+      },
+      "parent_id": "2091622751756751211",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091637616307212441",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T21:24:03Z",
+      "text": "@kickingkeys this is one of the cases where I look and have no fucking clue how it was made but huge respect it’s gorg",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 16,
+        "replies": 0,
+        "reposts": 0,
+        "views": 795
+      },
+      "parent_id": "2091622751756751211",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091662861299040343",
+      "author_handle": "unknown",
+      "created_at": "2026-08-23T23:04:22Z",
+      "text": "@kickingkeys @DavidSHolz  @lukalotl @const_ @WarnerTeddy",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 194
+      },
+      "parent_id": "2091622751756751211",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2091570990048276897",
+      "author_handle": "kickingkeys",
+      "created_at": "2026-08-23T16:59:18Z",
+      "text": "You can just RL a coding model to paint with javascript btw https://t.co/4x5B81kjUh",
+      "text_en": null,
+      "urls": [
+        "https://t.co/4x5B81kjUh"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 1657964
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/kickingkeys/status/2091622751756751211",
+      "outcome": "ok",
+      "note": "html_bytes=214438 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/kickingkeys/status/2091622751756751211",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091622751756751211/thread-raw/x-web-dom-20260904T175318Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

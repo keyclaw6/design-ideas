@@ -1,0 +1,31 @@
+{
+  "id": "x-2088231655177924993",
+  "url": "https://x.com/rammcodes/status/2088231655177924993",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:36:42Z",
+  "title": "Bro... imagine giving Claude Code a strong fuckin memory. 🧠 Obsidian Mind is an open-source Obsidian vault that gives AI",
+  "authors": [
+    "@rammcodes"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/breferrari/obsidian-mind"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088231655177924993",
+    "author_handle": "rammcodes",
+    "related_items": [
+      "x-2087955721732460791",
+      "x-2087208634493095978",
+      "x-2087143369181114868",
+      "web-davidgasquez-context-engineering"
+    ],
+    "category_note": "Obsidian vault as persistent agent memory"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "x-2087151807965401320",
+  "url": "https://x.com/HuggingPapers/status/2087151807965401320",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:01:46Z",
+  "title": "Ouroboros: A self-improving coding agent It can evolve its own tools, prompts, and architecture through reviewed commits",
+  "authors": [
+    "@HuggingPapers"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087151807965401320",
+    "author_handle": "HuggingPapers",
+    "related_items": [
+      "x-2032671842230501729",
+      "x-2080856252687745093",
+      "x-2074912810803560497",
+      "x-2087143369181114868"
+    ],
+    "category_note": "Ouroboros: coding agent that evolves tools/prompts/architecture via reviewed commits; SOTA bench claims."
+  }
+}

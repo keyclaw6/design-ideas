@@ -1,0 +1,85 @@
+{
+  "root_id": "2093429897188299113",
+  "reply_count_reported": 38,
+  "quote_count_reported": 8,
+  "tweets": [
+    {
+      "id": "2093429897188299113",
+      "author_handle": null,
+      "created_at": "2026-08-28T20:05:56Z",
+      "text": "Another Qwen3.8-Flash-Next breakthrough\n\nI stored 60% of experts on disk which stream to memory on-demand. Similar technique as n-gram streaming\n\nJust eval'd with FULL experts (no prune) running on just 37gb of memory and decoding at 40 tok/s on my M4 Max\n\nHold on to your socks! https://t.co/fvCZndWkyj",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 697,
+        "replies": 38,
+        "reposts": 41,
+        "views": 73128,
+        "quotes": 8
+      },
+      "urls": [
+        "https://t.co/fvCZndWkyj"
+      ]
+    },
+    {
+      "id": "2093987103306641890",
+      "author_handle": null,
+      "created_at": "2026-08-30T09:00:04Z",
+      "text": "@HamsterResearch https://t.co/ud5cHirR69",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1388,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ud5cHirR69"
+      ]
+    },
+    {
+      "id": "2093986486089584779",
+      "author_handle": "HamsterResearch",
+      "created_at": "2026-08-30T08:57:37Z",
+      "text": "\"which quant should I download?\" is a question you may never have to answer again\n\nthe team @HamsterResearch has figured out how to kill it with pMLX. download once at full precision (bf16) and the engine re-fits it to your machine on the fly, based on the job you give it\n\ntell https://t.co/nMOmYBKEMx",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/nMOmYBKEMx"
+      ]
+    },
+    {
+      "id": "2093451189337924073",
+      "author_handle": null,
+      "created_at": "2026-08-28T21:30:32Z",
+      "text": "@EyalToledano @HamsterResearch I had exactly this idea earlier today and came up with a prototype - using Hamster's REAP'd expert selection as a pinned source of truth and then letting analytics inform which experts to hold in the cache and which to evict. oMLX fork with this &amp; some optimisations I discovered",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 34,
+        "replies": 3,
+        "reposts": 0,
+        "views": 3827,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093429897188299113",
+    "2093451189337924073",
+    "2093986486089584779",
+    "2093987103306641890"
+  ],
+  "item_id": "x-2093429897188299113",
+  "handle": "EyalToledano",
+  "http_status": 200,
+  "url": "https://x.com/EyalToledano/status/2093429897188299113",
+  "html_bytes": 205615,
+  "raw_path": "raw/items/x-2093429897188299113/thread-raw/x-web-dom-20260904T175327Z.html"
+}

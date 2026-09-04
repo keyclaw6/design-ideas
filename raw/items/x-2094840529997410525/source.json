@@ -1,0 +1,56 @@
+{
+  "id": "x-2094840529997410525",
+  "url": "https://x.com/Trevs_Dev/status/2094840529997410525",
+  "source_type": "x",
+  "captured_at": "2026-09-02T17:39:26Z",
+  "title": "Atlas Fields Studios — EM fields around PCB designs, free",
+  "authors": [
+    "Trevor B (Trev The Creator) (@Trevs_Dev)"
+  ],
+  "topics": [
+    "three-js",
+    "design",
+    "keyboard-pcb"
+  ],
+  "related_urls": [
+    "https://fields-studio.arenaphysica.com",
+    "https://www.arenaphysica.com/publications/heaviside-1",
+    "https://www.arenaphysica.com/publications/rf-studio",
+    "https://www.arenaphysica.com/terms-of-service",
+    "https://www.arenaphysica.com/privacy-policy",
+    "https://x.com/Trevs_Dev/status/2094840586989682797",
+    "https://x.com/arenaphysica/status/2095134590327251228",
+    "https://bklyndev.com"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "unsaved_at": "2026-09-02T17:46:00Z",
+    "unsaved_via": "cursor-ide-browser post-detail Bookmark click",
+    "tweet_id": "2094840529997410525",
+    "author_handle": "Trevs_Dev",
+    "author_id": "971750531197743105",
+    "author_name": "Trevor B (Trev The Creator)",
+    "created_at": "2026-09-01T17:31:17Z",
+    "likes": 1059,
+    "replies": 22,
+    "retweets": 100,
+    "bookmarks": 686,
+    "quotes": 8,
+    "views": 40560,
+    "lang": "en",
+    "is_note_tweet": false,
+    "has_video": true,
+    "video_duration_s": 15.8,
+    "video_id": "2094840462133563392",
+    "video_size": "1280x720",
+    "source_client": "Twitter for iPhone",
+    "place": "New York, NY",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai + yt-dlp",
+    "comments_note": "22 replies; author Heaviside-1 self-reply + 1 first-level comment + Arena nested reply captured. Rest login-walled.",
+    "topics_note": "Web 3D EM field viewer for PCB/packaging, not a keyboard product. keyboard-pcb is the SCHEMA PCB slot; three-js is the 3D-web slot (stack not confirmed in source)."
+  }
+}

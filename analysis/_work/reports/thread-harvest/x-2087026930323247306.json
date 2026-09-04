@@ -1,0 +1,81 @@
+{
+  "root_id": "2087026930323247306",
+  "reply_count_reported": 15,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2087026930323247306",
+      "author_handle": null,
+      "created_at": "2026-08-11T04:02:49Z",
+      "text": "Anthropic shared a Dynamic Workflows cookbook worth reviewing\n\nBookmark this one\n\nClaude writes the orchestration script and spawns up to 1,000 subagents per run\n\nhttps://t.co/1xDUs5OMEk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 896,
+        "replies": 15,
+        "reposts": 87,
+        "views": 100113,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/1xDUs5OMEk"
+      ]
+    },
+    {
+      "id": "2087161639405486496",
+      "author_handle": null,
+      "created_at": "2026-08-11T12:58:07Z",
+      "text": "@dani_avila7 Should be called \"How to burn tokens 101\"",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 546,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087141932313063765",
+      "author_handle": null,
+      "created_at": "2026-08-11T11:39:48Z",
+      "text": "@dani_avila7 1000 subagents = rate limit reached within 1000 ms",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 608,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087158390111801485",
+      "author_handle": null,
+      "created_at": "2026-08-11T12:45:12Z",
+      "text": "@dani_avila7 Nonsensical.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 658,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087026930323247306",
+    "2087141932313063765",
+    "2087158390111801485",
+    "2087161639405486496"
+  ],
+  "item_id": "x-2087026930323247306",
+  "handle": "dani_avila7",
+  "http_status": 200,
+  "url": "https://x.com/dani_avila7/status/2087026930323247306",
+  "html_bytes": 225537,
+  "raw_path": "raw/items/x-2087026930323247306/thread-raw/x-web-dom-20260904T175303Z.html"
+}

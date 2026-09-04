@@ -1,0 +1,33 @@
+{
+  "id": "x-2088738850705113398",
+  "url": "https://x.com/scottstts/status/2088738850705113398",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:31Z",
+  "title": "@threejs Awesome Graphics Agent Skills v0.8.0 is out! npx threejs-awesome-graphics-agent-skills@latest install --agent c",
+  "authors": [
+    "@scottstts"
+  ],
+  "topics": [
+    "three-js",
+    "agent-skills",
+    "camera-control"
+  ],
+  "related_urls": [
+    "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088738850705113398",
+    "author_handle": "scottstts",
+    "category_note": "Three.js Awesome Graphics Agent Skills v0.8.0 — new procedural examples.",
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-skills",
+      "x-2089400082550620636",
+      "x-2089602918605619401"
+    ]
+  }
+}

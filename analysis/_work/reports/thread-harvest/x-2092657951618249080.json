@@ -1,0 +1,81 @@
+{
+  "root_id": "2092657951618249080",
+  "reply_count_reported": 5,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2092657951618249080",
+      "author_handle": null,
+      "created_at": "2026-08-26T16:58:30Z",
+      "text": "Consistency across scenes, objects, and characters has never been easier to control.\n\nPlace the cameras, animate, and parent them to moving objects.\n\nNo more prompt and pray to get the various angles you want. https://t.co/93wScDG0vV",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 84,
+        "replies": 5,
+        "reposts": 7,
+        "views": 7602,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/93wScDG0vV"
+      ]
+    },
+    {
+      "id": "2092681190117450157",
+      "author_handle": null,
+      "created_at": "2026-08-26T18:30:50Z",
+      "text": "@intangibleai This is the kind of control AI video workflows have been missing. 🎥🔥\n\nInstead of prompting for every angle and hoping for consistency, you can actually direct the camera, animate movement, and keep everything locked together.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 173,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092661402745843998",
+      "author_handle": null,
+      "created_at": "2026-08-26T17:12:12Z",
+      "text": "@intangibleai if I should lay my hands and use this tech rn 🙂‍↔️\n\ngud tech",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 202,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093126334977605968",
+      "author_handle": null,
+      "created_at": "2026-08-27T23:59:41Z",
+      "text": "@intangibleai 3d storytelling needs references, characters, and assets to stay connected across shots. melius could be a good fit for keeping that whole pipeline in one place",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 14,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2092657951618249080",
+    "2092661402745843998",
+    "2092681190117450157",
+    "2093126334977605968"
+  ],
+  "item_id": "x-2092657951618249080",
+  "handle": "intangibleai",
+  "http_status": 200,
+  "url": "https://x.com/intangibleai/status/2092657951618249080",
+  "html_bytes": 187310,
+  "raw_path": "raw/items/x-2092657951618249080/thread-raw/x-web-dom-20260904T175323Z.html"
+}

@@ -1,0 +1,81 @@
+{
+  "root_id": "2087827123331383751",
+  "reply_count_reported": 18,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2087827123331383751",
+      "author_handle": null,
+      "created_at": "2026-08-13T09:02:30Z",
+      "text": "another day where OSS win\ni stopped paying AHREF plan and switched to https://t.co/1EKEFdaXvW \n\nThe more i paid AHREF the less it worked.\n\nit's be 2 week it stopped to audit my site and say there is no more credits. \n\nScan was never paid before now it cannot even craw it once....",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 109,
+        "replies": 18,
+        "reposts": 8,
+        "views": 9916,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/1EKEFdaXvW"
+      ]
+    },
+    {
+      "id": "2087841352277008734",
+      "author_handle": null,
+      "created_at": "2026-08-13T09:59:03Z",
+      "text": "@martindonadieu thank you for sharing this. i’ve been meaning to get into seo more and found the tools expensive and annoying!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "views": 562,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088165740906176812",
+      "author_handle": null,
+      "created_at": "2026-08-14T07:28:03Z",
+      "text": "@martindonadieu I hate ahrefs and their constant upsell. Is openseo any good?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "views": 173,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087952388053250268",
+      "author_handle": null,
+      "created_at": "2026-08-13T17:20:16Z",
+      "text": "@martindonadieu OpenSEO uses data from DataForSEO. Is it equally good with ahrefs?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 212,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087827123331383751",
+    "2087841352277008734",
+    "2087952388053250268",
+    "2088165740906176812"
+  ],
+  "item_id": "x-2087827123331383751",
+  "handle": "martindonadieu",
+  "http_status": 200,
+  "url": "https://x.com/martindonadieu/status/2087827123331383751",
+  "html_bytes": 236478,
+  "raw_path": "raw/items/x-2087827123331383751/thread-raw/x-web-dom-20260904T175307Z.html"
+}

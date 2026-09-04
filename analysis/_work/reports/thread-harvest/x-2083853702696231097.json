@@ -1,0 +1,99 @@
+{
+  "root_id": "2083853702696231097",
+  "reply_count_reported": 66,
+  "quote_count_reported": 13,
+  "tweets": [
+    {
+      "id": "2083853702696231097",
+      "author_handle": null,
+      "created_at": "2026-08-02T09:53:33Z",
+      "text": "I know I've reposted this before, but it's worth re-emphasizing.\n\nIf you want to get good at using AI, GET GOOD AT THE THING YOU'RE USING IT FOR\n\nThis is a great illustration of why:",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2450,
+        "replies": 66,
+        "reposts": 142,
+        "views": 191510,
+        "quotes": 13
+      },
+      "urls": []
+    },
+    {
+      "id": "2083639815891755059",
+      "author_handle": null,
+      "created_at": "2026-08-01T19:43:38Z",
+      "text": "Find the right terms https://t.co/tIJc97XPW5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/tIJc97XPW5"
+      ]
+    },
+    {
+      "id": "2083865985841307784",
+      "author_handle": null,
+      "created_at": "2026-08-02T10:42:22Z",
+      "text": "@mattpocockuk what if I’m mediocre at 50 different things",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 15,
+        "replies": 2,
+        "reposts": 0,
+        "views": 4154,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2084025282873454890",
+      "author_handle": null,
+      "created_at": "2026-08-02T21:15:21Z",
+      "text": "@mattpocockuk Or you just give it a noob prompt like that, and tell it to teach you the expert terms that would maximize information density -&gt; then you learn from first principles. And then you can create a master prompt that does this + teaches the newbie first principles about the expert https://t.co/qZwXLpEHlh",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 1,
+        "views": 696,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/qZwXLpEHlh"
+      ]
+    },
+    {
+      "id": "2083917511121129895",
+      "author_handle": null,
+      "created_at": "2026-08-02T14:07:06Z",
+      "text": "@mattpocockuk How can we use ai to get good at the thing we are using ai for? \nAs a non dev I already see that I'm developing a smell for good design, mainly because I've seen what failure looks like. \n\nBut i wonder if there could be a more deliberate approach to learning while building.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3170,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2083639815891755059",
+    "2083853702696231097",
+    "2083865985841307784",
+    "2083917511121129895",
+    "2084025282873454890"
+  ],
+  "item_id": "x-2083853702696231097",
+  "handle": "mattpocockuk",
+  "http_status": 200,
+  "url": "https://x.com/mattpocockuk/status/2083853702696231097",
+  "html_bytes": 210315,
+  "raw_path": "raw/items/x-2083853702696231097/thread-raw/x-web-dom-20260904T175301Z.html"
+}

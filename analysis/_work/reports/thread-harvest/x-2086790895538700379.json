@@ -1,0 +1,66 @@
+{
+  "root_id": "2086790895538700379",
+  "reply_count_reported": 8,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2086790895538700379",
+      "author_handle": null,
+      "created_at": "2026-08-10T12:24:54Z",
+      "text": "Introduce loop-library\nPeople talk loops, but most loops sucks\n\nThat's why we built the loop library - loops that ACTUALLY worked &amp; deliver results in real world\n\nWith a prompt you can copy to your agent\n\nOpen-sourced\n\nhttps://t.co/70N06NztMk https://t.co/OcNR1mJSvy",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 403,
+        "replies": 8,
+        "reposts": 37,
+        "views": 30446,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/70N06NztMk",
+        "https://t.co/OcNR1mJSvy"
+      ]
+    },
+    {
+      "id": "2086790897489129484",
+      "author_handle": null,
+      "created_at": "2026-08-10T12:24:55Z",
+      "text": "Most loops listed there are actually what we run in @SuperDesignDev now,\n\nWill keep sharing more learnings if you wanna follow along",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1230,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2086980211304812975",
+      "author_handle": null,
+      "created_at": "2026-08-11T00:57:11Z",
+      "text": "@jasonzhou1993 what a product, thanks",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 114,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086790895538700379",
+    "2086790897489129484",
+    "2086980211304812975"
+  ],
+  "item_id": "x-2086790895538700379",
+  "handle": "jasonzhou1993",
+  "http_status": 200,
+  "url": "https://x.com/jasonzhou1993/status/2086790895538700379",
+  "html_bytes": 161933,
+  "raw_path": "raw/items/x-2086790895538700379/thread-raw/x-web-dom-20260904T175302Z.html"
+}

@@ -1,0 +1,68 @@
+{
+  "root_id": "2089618415493218381",
+  "reply_count_reported": 28,
+  "quote_count_reported": 20,
+  "tweets": [
+    {
+      "id": "2089618415493218381",
+      "author_handle": null,
+      "created_at": "2026-08-18T07:40:28Z",
+      "text": "The craziest font website ever https://t.co/kspwai8Ib2 https://t.co/VI0JSG8jxb",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3335,
+        "replies": 28,
+        "reposts": 200,
+        "views": 560466,
+        "quotes": 20
+      },
+      "urls": [
+        "https://t.co/kspwai8Ib2",
+        "https://t.co/VI0JSG8jxb"
+      ]
+    },
+    {
+      "id": "2089753004693999881",
+      "author_handle": null,
+      "created_at": "2026-08-18T16:35:16Z",
+      "text": "absolutely legendary creators @minor_axis and @friedtm. thank you for this masterpiece.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 19,
+        "replies": 0,
+        "reposts": 1,
+        "views": 21008,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2089727452952064202",
+      "author_handle": null,
+      "created_at": "2026-08-18T14:53:44Z",
+      "text": "@uidotcamera It's a really good font! Fit right in the lil side-project I did some time ago https://t.co/5NtjhXQrdq",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 62,
+        "replies": 4,
+        "reposts": 1,
+        "views": 19081,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/5NtjhXQrdq"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2089618415493218381",
+    "2089727452952064202",
+    "2089753004693999881"
+  ],
+  "item_id": "x-2089618415493218381",
+  "handle": "uidotcamera",
+  "http_status": 200,
+  "url": "https://x.com/uidotcamera/status/2089618415493218381",
+  "html_bytes": 189438,
+  "raw_path": "raw/items/x-2089618415493218381/thread-raw/x-web-dom-20260904T175313Z.html"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "x-2094558408259272998",
+  "url": "https://x.com/medriscoll/status/2094558408259272998",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:33:15Z",
+  "title": "AI-native company #3: centralized intelligence layer",
+  "authors": [
+    "Michael E. Driscoll (@medriscoll)"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp",
+    "infographics"
+  ],
+  "related_urls": [
+    "https://x.com/iandmacomber/status/2094161204579098774",
+    "https://www.iandmacomber.com/blog/post-ai-data-stack",
+    "https://x.com/cerebras/status/2077822555159945507",
+    "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+    "https://x.com/ClaudeDevs/status/2062274312363770064",
+    "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+    "https://x.com/businessbarista/status/2094213970215231831",
+    "https://x.com/davidgasquez/status/2085803390391460099",
+    "https://davidgasquez.com/context-engineering-is-a-data-problem",
+    "https://www.rilldata.com/"
+  ],
+  "media": [
+    "media/photo.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094558408259272998",
+    "author_handle": "medriscoll",
+    "author_id": "18367054",
+    "author_name": "Michael E. Driscoll",
+    "created_at": "2026-08-31T22:50:14Z",
+    "likes": 93,
+    "replies": 6,
+    "retweets": 8,
+    "bookmarks": 216,
+    "quotes": 1,
+    "views": 16411,
+    "lang": "en",
+    "is_note_tweet": true,
+    "source_client": "Twitter Web App",
+    "mentions": [
+      "tryramp",
+      "cerebras",
+      "AnthropicAI",
+      "iandmacomber",
+      "hi_im_isaac_",
+      "learnwdaniel",
+      "gaozenghao",
+      "clementpzy",
+      "businessbarista"
+    ],
+    "quoted_tweet_id": "2094213970215231831",
+    "quoted_author": "businessbarista",
+    "media_id": "2094555478076653569",
+    "media_size": "1536x1024",
+    "media_bytes": 301538,
+    "cerebras_x_article_id": "2077808214062825472",
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com/fxtwitter.com; photo via pbs.twimg.com; related tweets via fxtwitter (no extra x-* folders); blogs via r.jina.ai",
+    "comments_note": "6 replies; 3 first-level via fixupx/fxtwitter. RMB\u2019s 1 nested unlisted. Remaining 3 login-walled. Quoted Lieberman in post.md.",
+    "topics_note": "Collage infographic; diagram lists MCP tools + skills in a data-agent harness. Linked tweets not ingested as folders."
+  }
+}

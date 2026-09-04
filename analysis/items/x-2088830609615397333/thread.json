@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2088830609615397333",
+  "tweet_id": "2088830609615397333",
+  "root_author_handle": "Arpit_2023",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 9,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 6,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088881450758402273",
+      "author_handle": "unknown",
+      "created_at": "2026-08-16T06:52:02Z",
+      "text": "@Arpit_2023 woww he seems to be a cracked dev to make all this open source",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1287
+      },
+      "parent_id": "2088830609615397333",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2088834548616544311",
+      "author_handle": "unknown",
+      "created_at": "2026-08-16T03:45:39Z",
+      "text": "@Arpit_2023 @SubhanHQ Ik this ik this 😁",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 564
+      },
+      "parent_id": "2088830609615397333",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2088894077991583833",
+      "author_handle": "unknown",
+      "created_at": "2026-08-16T07:42:12Z",
+      "text": "@Arpit_2023 @SubhanHQ Thanks Man !",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 400
+      },
+      "parent_id": "2088830609615397333",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Arpit_2023/status/2088830609615397333",
+      "outcome": "ok",
+      "note": "html_bytes=192322 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Arpit_2023/status/2088830609615397333",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2088830609615397333/thread-raw/x-web-dom-20260904T175311Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

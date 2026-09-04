@@ -1,0 +1,81 @@
+{
+  "root_id": "2088240171565412733",
+  "reply_count_reported": 8,
+  "quote_count_reported": 3,
+  "tweets": [
+    {
+      "id": "2088240171565412733",
+      "author_handle": null,
+      "created_at": "2026-08-14T12:23:49Z",
+      "text": "Gemini 3.7 Flash High in Antigravity 🔥🔥\n\nit created this in ~4 mins - pretty fast and perfect\n\n&gt; Bugatti W16 engine with mechanically accurate internals and photorealistic exterior in Three.js https://t.co/rEYQ9u3OkL",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 207,
+        "replies": 8,
+        "reposts": 5,
+        "views": 12771,
+        "quotes": 3
+      },
+      "urls": [
+        "https://t.co/rEYQ9u3OkL"
+      ]
+    },
+    {
+      "id": "2088241476560114105",
+      "author_handle": null,
+      "created_at": "2026-08-14T12:29:00Z",
+      "text": "@HarshithLucky3 waaat this one so cool\n\ni am stealing prompt",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 476,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088246322432237602",
+      "author_handle": null,
+      "created_at": "2026-08-14T12:48:15Z",
+      "text": "@HarshithLucky3 agy ide or cli is there any difference?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 596,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088262354576593195",
+      "author_handle": null,
+      "created_at": "2026-08-14T13:51:58Z",
+      "text": "@HarshithLucky3 That’s seriously impressive.\n\nIf Gemini 3.7 Flash High can generate mechanically accurate 3D work this fast, the gap between idea and execution is shrinking really quickly.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 71,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2088240171565412733",
+    "2088241476560114105",
+    "2088246322432237602",
+    "2088262354576593195"
+  ],
+  "item_id": "x-2088240171565412733",
+  "handle": "HarshithLucky3",
+  "http_status": 200,
+  "url": "https://x.com/HarshithLucky3/status/2088240171565412733",
+  "html_bytes": 189056,
+  "raw_path": "raw/items/x-2088240171565412733/thread-raw/x-web-dom-20260904T175308Z.html"
+}

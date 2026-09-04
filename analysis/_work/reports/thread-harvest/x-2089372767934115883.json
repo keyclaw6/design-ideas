@@ -1,0 +1,67 @@
+{
+  "root_id": "2089372767934115883",
+  "reply_count_reported": 54,
+  "quote_count_reported": 10,
+  "tweets": [
+    {
+      "id": "2089372767934115883",
+      "author_handle": null,
+      "created_at": "2026-08-17T15:24:21Z",
+      "text": "Currently I’m really into markdown graphs with one vibrant accent color https://t.co/OZkRrENTMb",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3175,
+        "replies": 54,
+        "reposts": 69,
+        "views": 367829,
+        "quotes": 10
+      },
+      "urls": [
+        "https://t.co/OZkRrENTMb"
+      ]
+    },
+    {
+      "id": "2089373277781103079",
+      "author_handle": null,
+      "created_at": "2026-08-17T15:26:22Z",
+      "text": "Inspired by @lenjaminbeonard beautiful work on https://t.co/3uzj5lL4Zc",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 123,
+        "replies": 3,
+        "reposts": 0,
+        "views": 23212,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/3uzj5lL4Zc"
+      ]
+    },
+    {
+      "id": "2089555487289401583",
+      "author_handle": null,
+      "created_at": "2026-08-18T03:30:24Z",
+      "text": "@emilkowalski What makes these “markdown”?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 32,
+        "replies": 3,
+        "reposts": 0,
+        "views": 13666,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2089372767934115883",
+    "2089373277781103079",
+    "2089555487289401583"
+  ],
+  "item_id": "x-2089372767934115883",
+  "handle": "emilkowalski",
+  "http_status": 200,
+  "url": "https://x.com/emilkowalski/status/2089372767934115883",
+  "html_bytes": 193411,
+  "raw_path": "raw/items/x-2089372767934115883/thread-raw/x-web-dom-20260904T175312Z.html"
+}

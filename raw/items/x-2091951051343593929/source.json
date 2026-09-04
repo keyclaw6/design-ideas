@@ -1,0 +1,21 @@
+{
+  "id": "x-2091951051343593929",
+  "url": "https://x.com/MaxfusionAI/status/2091951051343593929",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:34Z",
+  "title": "Gemini Flash 3.7 (high) vs. Opus 5 (max) Seems like a truly surprising result... we did not expect this",
+  "authors": [
+    "maxfusion.ai (@MaxfusionAI)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2091951051343593929",
+    "author_handle": "MaxfusionAI",
+    "fetch": "api.fxtwitter.com (retry)",
+    "filtered": true,
+    "category_note": "Model bake-off screenshot; no artifact"
+  }
+}

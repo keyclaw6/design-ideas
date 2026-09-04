@@ -1,0 +1,33 @@
+{
+  "id": "github-sindresorhus-awesome",
+  "url": "https://github.com/sindresorhus/awesome",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "awesome",
+  "authors": [
+    "sindresorhus"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://awesome.re",
+    "https://github.com/sindresorhus/awesome/blob/main/awesome.md"
+  ],
+  "media": [
+    "media/logo.svg"
+  ],
+  "unsaved": false,
+  "extra": {
+    "stars": 502311,
+    "description": "Awesome lists about all kinds of interesting topics",
+    "related_items": [
+      "github-punkpeye-awesome-mcp-servers",
+      "web-recent-design",
+      "web-getdesign-md",
+      "web-cult-ui",
+      "github-emilkowalski-skills"
+    ],
+    "category_note": "Meta awesome-list index; discovery only, not a pipeline."
+  }
+}

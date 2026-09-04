@@ -1,0 +1,32 @@
+{
+  "id": "x-2087208634493095978",
+  "url": "https://x.com/tom_doerr/status/2087208634493095978",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:24Z",
+  "title": "Version controls AI agent memory with snapshots, branches, and merges https://github.com/matrixorigin/Memoria",
+  "authors": [
+    "Tom Dörr (@tom_doerr)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/matrixorigin/Memoria"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087208634493095978",
+    "author_handle": "tom_doerr",
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2087143369181114868",
+      "x-2086920236079681607",
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering"
+    ],
+    "category_note": "Memoria: git-like snapshots/branches/merges for agent memory."
+  }
+}

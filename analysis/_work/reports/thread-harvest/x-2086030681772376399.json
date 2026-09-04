@@ -1,0 +1,65 @@
+{
+  "root_id": "2086030681772376399",
+  "reply_count_reported": 4,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2086030681772376399",
+      "author_handle": null,
+      "created_at": "2026-08-08T10:04:05Z",
+      "text": "this is terrifying.\n\nClaude Opus 5 + Remotion can now generate videos. It can do motion design, demos and animations from a single prompt...\n\nit's so over. https://t.co/4b5kGn2m0M",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 24,
+        "replies": 4,
+        "reposts": 3,
+        "views": 4594,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/4b5kGn2m0M"
+      ]
+    },
+    {
+      "id": "2086239600583074141",
+      "author_handle": null,
+      "created_at": "2026-08-08T23:54:15Z",
+      "text": "@chddaniel Generation was never the scary part, interpretation is.\n\nI've read Chinese metaphysics charts for over a decade while running engineering as a CTO.\n\nIt doesn't predict what happens, it reflects how someone thinks and decides.\n\nA better model doesn't automate that layer.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 23,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2086106290451784046",
+      "author_handle": null,
+      "created_at": "2026-08-08T15:04:32Z",
+      "text": "@chddaniel 🔥🔥",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 21,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086030681772376399",
+    "2086106290451784046",
+    "2086239600583074141"
+  ],
+  "item_id": "x-2086030681772376399",
+  "handle": "chddaniel",
+  "http_status": 200,
+  "url": "https://x.com/chddaniel/status/2086030681772376399",
+  "html_bytes": 194511,
+  "raw_path": "raw/items/x-2086030681772376399/thread-raw/x-web-dom-20260904T175301Z.html"
+}

@@ -1,0 +1,99 @@
+{
+  "root_id": "2087254502210490739",
+  "reply_count_reported": 30,
+  "quote_count_reported": 9,
+  "tweets": [
+    {
+      "id": "2087254502210490739",
+      "author_handle": null,
+      "created_at": "2026-08-11T19:07:07Z",
+      "text": "This paper is f*cking genius\n\nA computer science paper from Stanford AI Systems Lab formalizes why multi-agent pipelines fail and introduces the Control Plane Pattern for autonomous research\n\nThe result: cuts investigation latency from 4 weeks down to 30 minutes while reducing https://t.co/BJP6tU1Apn",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 636,
+        "replies": 30,
+        "reposts": 103,
+        "views": 91605,
+        "quotes": 9
+      },
+      "urls": [
+        "https://t.co/BJP6tU1Apn"
+      ]
+    },
+    {
+      "id": "2087241401649996149",
+      "author_handle": null,
+      "created_at": "2026-08-11T18:15:03Z",
+      "text": "https://t.co/x8OEnyc4H0",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 252625,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/x8OEnyc4H0"
+      ]
+    },
+    {
+      "id": "2087503923791958444",
+      "author_handle": null,
+      "created_at": "2026-08-12T11:38:14Z",
+      "text": "@neviannn @pangram ai?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 1,
+        "reposts": 0,
+        "views": 466,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087256651011113288",
+      "author_handle": null,
+      "created_at": "2026-08-11T19:15:39Z",
+      "text": "@neviannn this is definitely worth reading",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1222,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087452187710648428",
+      "author_handle": null,
+      "created_at": "2026-08-12T08:12:39Z",
+      "text": "@neviannn 把多代理失败放到控制平面来解释，这个切入点确实抓人。延迟、令牌消耗和上下文衰减三个结果放在一起，冲击力很强。",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 662,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087241401649996149",
+    "2087254502210490739",
+    "2087256651011113288",
+    "2087452187710648428",
+    "2087503923791958444"
+  ],
+  "item_id": "x-2087254502210490739",
+  "handle": "neviannn",
+  "http_status": 200,
+  "url": "https://x.com/neviannn/status/2087254502210490739",
+  "html_bytes": 212990,
+  "raw_path": "raw/items/x-2087254502210490739/thread-raw/x-web-dom-20260904T175304Z.html"
+}

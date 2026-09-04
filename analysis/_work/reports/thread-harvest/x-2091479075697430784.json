@@ -1,0 +1,68 @@
+{
+  "root_id": "2091479075697430784",
+  "reply_count_reported": 24,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2091479075697430784",
+      "author_handle": null,
+      "created_at": "2026-08-23T10:54:04Z",
+      "text": "We are working on the new animated gradients collection “Dither Animation”\nIt will be live on https://t.co/BcSjPIahFs this week.\n\nAnd here is the first look. Stay tuned https://t.co/gsdGyWlztk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 679,
+        "replies": 24,
+        "reposts": 32,
+        "views": 27181,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/BcSjPIahFs",
+        "https://t.co/gsdGyWlztk"
+      ]
+    },
+    {
+      "id": "2091479080135012672",
+      "author_handle": null,
+      "created_at": "2026-08-23T10:54:05Z",
+      "text": "https://t.co/rgqZHo7Alv",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1389,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/rgqZHo7Alv"
+      ]
+    },
+    {
+      "id": "2091496736238031281",
+      "author_handle": null,
+      "created_at": "2026-08-23T12:04:14Z",
+      "text": "@basit_designs Pretty awesome design!",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 194,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091479075697430784",
+    "2091479080135012672",
+    "2091496736238031281"
+  ],
+  "item_id": "x-2091479075697430784",
+  "handle": "basit_designs",
+  "http_status": 200,
+  "url": "https://x.com/basit_designs/status/2091479075697430784",
+  "html_bytes": 183767,
+  "raw_path": "raw/items/x-2091479075697430784/thread-raw/x-web-dom-20260904T175317Z.html"
+}

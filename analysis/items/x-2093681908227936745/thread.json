@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "id": "x-2093681908227936745",
+  "tweet_id": "2093681908227936745",
+  "root_author_handle": "fakharkamario",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 18,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 3,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 17,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093757558892978243",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T17:47:56Z",
+      "text": "@fakharkamario Absolutely awesome",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 137
+      },
+      "parent_id": "2093681908227936745",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093682469690089744",
+      "author_handle": "fakharkamario",
+      "created_at": "2026-08-29T12:49:34Z",
+      "text": "What made this work:\n\n➜ It positioned the product as a movement, not just a tool.\nThe opening line, “Builders don’t imagine a business, they build it,” immediately creates a clear identity. You’re either someone who keeps thinking about ideas or someone who actually builds. That",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 8,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1069
+      }
+    },
+    {
+      "id": "2093685197090758766",
+      "author_handle": "fakharkamario",
+      "created_at": "2026-08-29T13:00:24Z",
+      "text": "It's produced by the @Base44 team",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 537
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/fakharkamario/status/2093681908227936745",
+      "outcome": "ok",
+      "note": "html_bytes=184723 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/fakharkamario/status/2093681908227936745",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093681908227936745/thread-raw/x-web-dom-20260904T175328Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "github-leonxlnx-taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "source_type": "github",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Taste Skill",
+  "authors": [
+    "Leonxlnx"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://tasteskill.dev",
+    "https://github.com/vercel-labs/agent-skills"
+  ],
+  "media": [
+    "media/readme-banner.webp"
+  ],
+  "unsaved": false,
+  "extra": {
+    "stars": 83632,
+    "homepage": "https://tasteskill.dev",
+    "related_items": [
+      "github-emilkowalski-skills",
+      "web-opale-ui-taste",
+      "github-pbakaus-impeccable",
+      "github-jakubkrehel-skills",
+      "github-mengto-skills"
+    ],
+    "category_note": "Anti-slop frontend skill pack + reference-board image skills."
+  }
+}

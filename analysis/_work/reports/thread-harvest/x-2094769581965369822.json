@@ -1,0 +1,53 @@
+{
+  "root_id": "2094769581965369822",
+  "reply_count_reported": 1,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2094769581965369822",
+      "author_handle": null,
+      "created_at": "2026-09-01T12:49:21Z",
+      "text": "LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing\n\nContributions:\n1. We present LightFuse, to our knowledge the first framework for relightable multi-scan interactive Gaussian reconstruction with explicit https://t.co/toRGx7LhLo",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 111,
+        "replies": 1,
+        "reposts": 11,
+        "views": 5194,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/toRGx7LhLo"
+      ]
+    },
+    {
+      "id": "2094769584796557752",
+      "author_handle": null,
+      "created_at": "2026-09-01T12:49:22Z",
+      "text": "Paper: https://t.co/fI3zM4YiX8\nProject: https://t.co/JcB1yv5zH7 https://t.co/L4cxA8PiNY",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 636,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/fI3zM4YiX8",
+        "https://t.co/JcB1yv5zH7",
+        "https://t.co/L4cxA8PiNY"
+      ]
+    }
+  ],
+  "unique_ids": [
+    "2094769581965369822",
+    "2094769584796557752"
+  ],
+  "item_id": "x-2094769581965369822",
+  "handle": "janusch_patas",
+  "http_status": 200,
+  "url": "https://x.com/janusch_patas/status/2094769581965369822",
+  "html_bytes": 151326,
+  "raw_path": "raw/items/x-2094769581965369822/thread-raw/x-web-dom-20260904T175333Z.html"
+}

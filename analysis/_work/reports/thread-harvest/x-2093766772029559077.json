@@ -1,0 +1,83 @@
+{
+  "root_id": "2093766772029559077",
+  "reply_count_reported": 28,
+  "quote_count_reported": 10,
+  "tweets": [
+    {
+      "id": "2093766772029559077",
+      "author_handle": null,
+      "created_at": "2026-08-29T18:24:33Z",
+      "text": "Someone turned the design language of 2,000+ of the world’s best products into DESIGN.md files that Codex / Claude Code can read directly.\n\nEach file includes:\n\n→ Colors and tokens\n→ Typefaces, sizes, and weights\n→ Spacing and page layouts\n→ Component styling\n→ Clear rules https://t.co/g9gfCLg4rr",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1591,
+        "replies": 28,
+        "reposts": 164,
+        "views": 669406,
+        "quotes": 10
+      },
+      "urls": [
+        "https://t.co/g9gfCLg4rr"
+      ]
+    },
+    {
+      "id": "2094239852342739136",
+      "author_handle": null,
+      "created_at": "2026-08-31T01:44:24Z",
+      "text": "@Voxyz_ai https://t.co/ZzPphAhS5I\nこれ？",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 46,
+        "replies": 0,
+        "reposts": 2,
+        "views": 10397,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/ZzPphAhS5I"
+      ]
+    },
+    {
+      "id": "2093996801976045724",
+      "author_handle": null,
+      "created_at": "2026-08-30T09:38:36Z",
+      "text": "@Voxyz_ai The problem with this, is that now everyone are seeing the same design.MD files, and giving them to their agents, which again makes everyone create sites that look exactly the same...",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 1,
+        "reposts": 0,
+        "views": 7834,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093767342853349440",
+      "author_handle": null,
+      "created_at": "2026-08-29T18:26:49Z",
+      "text": "@Voxyz_ai this is insanely useful",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 6861,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093766772029559077",
+    "2093767342853349440",
+    "2093996801976045724",
+    "2094239852342739136"
+  ],
+  "item_id": "x-2093766772029559077",
+  "handle": "Voxyz_ai",
+  "http_status": 200,
+  "url": "https://x.com/Voxyz_ai/status/2093766772029559077",
+  "html_bytes": 221106,
+  "raw_path": "raw/items/x-2093766772029559077/thread-raw/x-web-dom-20260904T175329Z.html"
+}

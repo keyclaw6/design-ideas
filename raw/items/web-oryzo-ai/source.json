@@ -1,0 +1,31 @@
+{
+  "id": "web-oryzo-ai",
+  "url": "https://oryzo.ai/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:19Z",
+  "title": "ORYZO AI",
+  "authors": [
+    "Lusion"
+  ],
+  "topics": [
+    "design",
+    "three-js"
+  ],
+  "related_urls": [
+    "https://lusion.co/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "design_studio": "Lusion",
+    "concept": "Parody AI product page for a cork coaster",
+    "related_items": [
+      "web-utsubo",
+      "web-cartier-ballon-bleu",
+      "github-mengto-complete-shelf",
+      "web-opale-ui-taste",
+      "github-nateherkai-scroll-craft"
+    ],
+    "category_note": "Lusion satirical AI-product landing; craft ceiling for 3D web."
+  }
+}

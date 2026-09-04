@@ -1,0 +1,79 @@
+{
+  "root_id": "2090526692427104508",
+  "reply_count_reported": 3,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2090526692427104508",
+      "author_handle": null,
+      "created_at": "2026-08-20T19:49:38Z",
+      "text": "wow spline is so back\n\nif anything disrupts the big 3d softwares, it'll be spline",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 211,
+        "replies": 3,
+        "reposts": 6,
+        "views": 19329,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090695158807527650",
+      "author_handle": null,
+      "created_at": "2026-08-21T06:59:03Z",
+      "text": "@alightinastorm what if actually codex",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 74,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090679541307981947",
+      "author_handle": null,
+      "created_at": "2026-08-21T05:57:00Z",
+      "text": "@alightinastorm The mcp looks crazy",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 80,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090593599713112548",
+      "author_handle": null,
+      "created_at": "2026-08-21T00:15:30Z",
+      "text": "@alightinastorm 👀",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 88,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090526692427104508",
+    "2090593599713112548",
+    "2090679541307981947",
+    "2090695158807527650"
+  ],
+  "item_id": "x-2090526692427104508",
+  "handle": "alightinastorm",
+  "http_status": 200,
+  "url": "https://x.com/alightinastorm/status/2090526692427104508",
+  "html_bytes": 206499,
+  "raw_path": "raw/items/x-2090526692427104508/thread-raw/x-web-dom-20260904T175314Z.html"
+}

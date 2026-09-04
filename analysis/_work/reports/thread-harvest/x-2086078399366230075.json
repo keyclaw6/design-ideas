@@ -1,0 +1,79 @@
+{
+  "root_id": "2086078399366230075",
+  "reply_count_reported": 27,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2086078399366230075",
+      "author_handle": null,
+      "created_at": "2026-08-08T13:13:42Z",
+      "text": "Everyone knows a 7 step guy. \n\nDead vitamin C, retinol listed after the fragrance, doses: trust me bro. \n\nVector ONE is the other guy. \n8 actives at clinical doses, 0.3% retinol, the EU legal max. \n\n3 pumps, asleep by 11.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 577,
+        "replies": 27,
+        "reposts": 29,
+        "views": 3820506,
+        "quotes": 2
+      },
+      "urls": []
+    },
+    {
+      "id": "2090015417867935899",
+      "author_handle": null,
+      "created_at": "2026-08-19T09:58:00Z",
+      "text": "Do you have time for a seven-step routine every night? Of course not. It’s a waste, and those brands know it.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2569,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2090100164438663353",
+      "author_handle": null,
+      "created_at": "2026-08-19T15:34:46Z",
+      "text": "SATURATE assumes you have better things to do.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1712,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2086458568027341096",
+      "author_handle": null,
+      "created_at": "2026-08-09T14:24:21Z",
+      "text": "@SaturateSkin Да как он отражается справа, у него два лица на голове или это аналоговый хоррор?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "views": 2779,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2086078399366230075",
+    "2086458568027341096",
+    "2090015417867935899",
+    "2090100164438663353"
+  ],
+  "item_id": "x-2086078399366230075",
+  "handle": "SaturateSkin",
+  "http_status": 200,
+  "url": "https://x.com/SaturateSkin/status/2086078399366230075",
+  "html_bytes": 176592,
+  "raw_path": "raw/items/x-2086078399366230075/thread-raw/x-web-dom-20260904T175301Z.html"
+}

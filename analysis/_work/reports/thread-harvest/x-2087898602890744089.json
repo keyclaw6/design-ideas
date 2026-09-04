@@ -1,0 +1,81 @@
+{
+  "root_id": "2087898602890744089",
+  "reply_count_reported": 61,
+  "quote_count_reported": 13,
+  "tweets": [
+    {
+      "id": "2087898602890744089",
+      "author_handle": null,
+      "created_at": "2026-08-13T13:46:32Z",
+      "text": "Introducing Rakazo, an open-source Grok Bot alternative!\n\n- Use any LLM (pi harness)\n- Use any sandbox provider. Or Docker\n- Web, desktop (Electron), and mobile (React Native)\n- Open source. Apache 2.0 license\n\nBuilt with Cursor and Grok 4.6. It's a nice model.\n\nRepo. Give it a https://t.co/AcgBdiFidL",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 780,
+        "replies": 61,
+        "reposts": 68,
+        "views": 101022,
+        "quotes": 13
+      },
+      "urls": [
+        "https://t.co/AcgBdiFidL"
+      ]
+    },
+    {
+      "id": "2087906636241551588",
+      "author_handle": null,
+      "created_at": "2026-08-13T14:18:28Z",
+      "text": "@elie2222 open source never dissappoints",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1643,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091791581502190030",
+      "author_handle": null,
+      "created_at": "2026-08-24T07:35:51Z",
+      "text": "@elie2222 Hey Elie, any chance we can speak in DMs?\n\nWe would love to give u a donation for ur creation\n\nit's really simple, many founders did it with no risk",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 454,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2087942100205904261",
+      "author_handle": null,
+      "created_at": "2026-08-13T16:39:23Z",
+      "text": "@elie2222 Seriously, how did you build this so fast while doing other work?! AI is truly wild. 🤯",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1151,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087898602890744089",
+    "2087906636241551588",
+    "2087942100205904261",
+    "2091791581502190030"
+  ],
+  "item_id": "x-2087898602890744089",
+  "handle": "elie2222",
+  "http_status": 200,
+  "url": "https://x.com/elie2222/status/2087898602890744089",
+  "html_bytes": 187399,
+  "raw_path": "raw/items/x-2087898602890744089/thread-raw/x-web-dom-20260904T175307Z.html"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "web-seowins-io",
+  "url": "https://seowins.io/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "title": "SEO Wins \u2014 150+ SEO and AI SEO Strategies",
+  "authors": [
+    "Hridoy Reh"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://www.youtube.com/watch?v=m7K4hKjnEG4",
+    "https://x.com/hridoyreh",
+    "https://app.lemonsqueezy.com/my-orders"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "price_usd": 79,
+    "price_was_usd": 179,
+    "strategies_count": "150+",
+    "vendor": "Lemon Squeezy",
+    "fetch": "r.jina.ai",
+    "related_items": [
+      "web-crowdreply",
+      "web-known-agency",
+      "github-iannuttall-seo",
+      "web-nqz-ai-search-prompt-generator",
+      "web-tinylaunch-directories"
+    ],
+    "category_note": "Paid database of 150+ SEO/AI-SEO tactics; lifetime license."
+  }
+}

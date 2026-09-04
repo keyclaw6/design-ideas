@@ -1,0 +1,108 @@
+{
+  "schema_version": "1",
+  "id": "x-2091686636698657080",
+  "tweet_id": "2091686636698657080",
+  "root_author_handle": "NathanFlurry",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 16,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 13,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2091688206219747655",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T00:45:04Z",
+      "text": "@NathanFlurry Can I buy this?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 1,
+        "reposts": 0,
+        "views": 2116
+      },
+      "parent_id": "2091686636698657080",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2091700983755833848",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T01:35:51Z",
+      "text": "@NathanFlurry in similar style, I built an isometric diagram system with standardized json format, and I have it generate diagrams of what it works on as part of Changelog. This way when I come back after a day, I can review the changes in easy chunks. https://t.co/gbm0zf6a97",
+      "text_en": null,
+      "urls": [
+        "https://t.co/gbm0zf6a97"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 594
+      },
+      "parent_id": "2091686636698657080",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2091929736276570330",
+      "author_handle": "unknown",
+      "created_at": "2026-08-24T16:44:49Z",
+      "text": "@NathanFlurry Nice! I did something similar for the Swift Language Guide a while ago, and someone actually went to the trouble to print it as a hardback - it looks stunning!\n\nhttps://t.co/PUGTucL8ay https://t.co/Du9uOV5k5G",
+      "text_en": null,
+      "urls": [
+        "https://t.co/PUGTucL8ay",
+        "https://t.co/Du9uOV5k5G"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 350
+      },
+      "parent_id": "2091686636698657080",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/NathanFlurry/status/2091686636698657080",
+      "outcome": "ok",
+      "note": "html_bytes=195641 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/NathanFlurry/status/2091686636698657080",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091686636698657080/thread-raw/x-web-dom-20260904T175318Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

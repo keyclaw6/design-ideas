@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2093179838249251011",
+  "tweet_id": "2093179838249251011",
+  "root_author_handle": "ArcanaMfg",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 10,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 3,
+  "replies_captured": 3,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 7,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094823395221250079",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T16:23:12Z",
+      "text": "@ArcanaMfg Dream comes true! \nYou ll get a lot of prayers by this contribution  &lt;3",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 64
+      },
+      "parent_id": "2093179838249251011",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2093273939204018216",
+      "author_handle": "unknown",
+      "created_at": "2026-08-28T09:46:12Z",
+      "text": "@ArcanaMfg 期待",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 598
+      },
+      "parent_id": "2093179838249251011",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2094675383958606285",
+      "author_handle": "unknown",
+      "created_at": "2026-09-01T06:35:03Z",
+      "text": "@ArcanaMfg kiri engine does this too, can you do comparison?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 165
+      },
+      "parent_id": "2093179838249251011",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ArcanaMfg/status/2093179838249251011",
+      "outcome": "ok",
+      "note": "html_bytes=186314 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ArcanaMfg/status/2093179838249251011",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093179838249251011/thread-raw/x-web-dom-20260904T175326Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

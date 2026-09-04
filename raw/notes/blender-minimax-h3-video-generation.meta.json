@@ -1,0 +1,11 @@
+{
+  "id": "note-blender-minimax-h3-video-generation",
+  "title": "LLM + Blender → AI Video: Photoreal BESS Flythrough",
+  "topics": [
+    "bess-3d-flythrough",
+    "video-generation",
+    "camera-control",
+    "mcp",
+    "agent-skills"
+  ]
+}

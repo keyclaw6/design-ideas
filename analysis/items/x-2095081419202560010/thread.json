@@ -1,0 +1,77 @@
+{
+  "schema_version": "1",
+  "id": "x-2095081419202560010",
+  "tweet_id": "2095081419202560010",
+  "root_author_handle": "gojiberryai",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 157,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 4,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 156,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095461138091614431",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T10:37:21Z",
+      "text": "@gojiberryai Bot",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 2
+      },
+      "parent_id": "2095081419202560010",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2095189377978626225",
+      "author_handle": "gojiberryai",
+      "created_at": "2026-09-02T16:37:29Z",
+      "text": "Thank you for this beautiful tool @joshkim",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 951
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/gojiberryai/status/2095081419202560010",
+      "outcome": "ok",
+      "note": "html_bytes=174207 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/gojiberryai/status/2095081419202560010",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095081419202560010/thread-raw/x-web-dom-20260904T175336Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

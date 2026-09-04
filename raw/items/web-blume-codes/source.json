@@ -1,0 +1,35 @@
+{
+  "id": "web-blume-codes",
+  "url": "https://blume.codes",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:56:00Z",
+  "title": "Blume Sidecar \u2014 monitor and improve coding agents",
+  "authors": [
+    "Blume"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://careers.blume.codes/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "supported_harnesses": [
+      "Codex",
+      "Claude Code",
+      "Cursor"
+    ],
+    "fetch": "r.jina.ai landing",
+    "related_items": [
+      "web-chatgpt-training",
+      "github-pbakaus-impeccable",
+      "github-mengto-skills",
+      "web-opale-ui-taste",
+      "web-davidgasquez-context-engineering"
+    ],
+    "category_note": "Desktop sidecar watching Codex/Claude/Cursor rules/skills drift."
+  }
+}

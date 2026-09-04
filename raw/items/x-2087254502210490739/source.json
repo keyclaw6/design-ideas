@@ -1,0 +1,27 @@
+{
+  "id": "x-2087254502210490739",
+  "url": "https://x.com/neviannn/status/2087254502210490739",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:52:18Z",
+  "title": "This paper is f*cking genius A computer science paper from Stanford AI Systems Lab formalizes why multi-agent pipelines ",
+  "authors": [
+    "@neviannn"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087254502210490739",
+    "author_handle": "neviannn",
+    "related_items": [
+      "x-2087026930323247306",
+      "x-2080856252687745093",
+      "x-2032671842230501729",
+      "web-cerebras-knowledge-base"
+    ],
+    "category_note": "Stanford Control Plane Pattern: naive multi-agent handoffs rot; use queues + one reasoner + KG."
+  }
+}

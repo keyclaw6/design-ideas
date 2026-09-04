@@ -1,0 +1,35 @@
+{
+  "id": "web-dicebear",
+  "url": "https://www.dicebear.com",
+  "source_type": "website",
+  "captured_at": "2026-09-02T20:56:00Z",
+  "title": "DiceBear \u2014 open source avatar library & API",
+  "authors": [
+    "DiceBear"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://www.dicebear.com/playground/",
+    "https://www.dicebear.com/start/what-is-dicebear/",
+    "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix",
+    "https://github.com/dicebear/dicebear",
+    "https://editor.dicebear.com/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "style_count": 61,
+    "license": "MIT (core library)",
+    "fetch": "r.jina.ai landing",
+    "related_items": [
+      "web-tinyshots",
+      "github-deedy-qr-data-transfer",
+      "web-checklist-design",
+      "github-wuyoscar-gpt-image2-skill",
+      "web-cult-ui"
+    ],
+    "category_note": "Deterministic open-source avatars; seedable API + Figma styles."
+  }
+}

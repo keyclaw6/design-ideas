@@ -1,0 +1,81 @@
+{
+  "root_id": "2095437841958314100",
+  "reply_count_reported": 8,
+  "quote_count_reported": 0,
+  "tweets": [
+    {
+      "id": "2095437841958314100",
+      "author_handle": null,
+      "created_at": "2026-09-03T09:04:47Z",
+      "text": "This is insane: Hyper3D just dropped WorldGen, an AI that turns ONE photo into a full interactive 3D world \n\nYingmu Technology's new model is built on CAST, the tech that won a Best Paper Award at SIGGRAPH 2025, a prize only Google, Meta, and Hyper3D took home that year.\n\nHere's https://t.co/95abRMQXTe",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 199,
+        "replies": 8,
+        "reposts": 22,
+        "views": 12970,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/95abRMQXTe"
+      ]
+    },
+    {
+      "id": "2095447297765134477",
+      "author_handle": null,
+      "created_at": "2026-09-03T09:42:21Z",
+      "text": "@grokkedd Crazy how does it work",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 2,
+        "reposts": 0,
+        "views": 249,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095444168197747015",
+      "author_handle": null,
+      "created_at": "2026-09-03T09:29:55Z",
+      "text": "@grokkedd One image becoming a simulation",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 320,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2095438644601352571",
+      "author_handle": null,
+      "created_at": "2026-09-03T09:07:58Z",
+      "text": "@grokkedd That’s rly works bro?",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 275,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095437841958314100",
+    "2095438644601352571",
+    "2095444168197747015",
+    "2095447297765134477"
+  ],
+  "item_id": "x-2095437841958314100",
+  "handle": "grokkedd",
+  "http_status": 200,
+  "url": "https://x.com/grokkedd/status/2095437841958314100",
+  "html_bytes": 220448,
+  "raw_path": "raw/items/x-2095437841958314100/thread-raw/x-web-dom-20260904T175338Z.html"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "x-2074912810803560497",
+  "url": "https://x.com/dejavucoder/status/2074912810803560497",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:50:57Z",
+  "title": "my latest blog post \"auto-research with codex: how I achieved a 212x faster kernel over baseline with codex in GPU Mode'",
+  "authors": [
+    "@dejavucoder"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://sankalp.bearblog.dev/autoresearch/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "tweet_id": "2074912810803560497",
+    "author_handle": "dejavucoder",
+    "related_items": [
+      "x-2080856252687745093",
+      "x-2032671842230501729",
+      "x-2087151807965401320",
+      "web-chatgpt-training"
+    ],
+    "category_note": "Codex auto-research loop that 212x’d a QR kernel — concrete eval-harness write-up."
+  }
+}

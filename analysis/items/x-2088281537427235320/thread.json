@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "x-2088281537427235320",
+  "tweet_id": "2088281537427235320",
+  "root_author_handle": "UnslothAI",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 204,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 177,
+  "replies_captured": 2,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 202,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2088324431961821443",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T17:58:38Z",
+      "text": "@Alibaba_Qwen You can now run and train Qwen3.8-27B locally in Unsloth Desktop! 🦥\n\nWe also did a new release with a lot of new releases and performance improvements! https://t.co/aZWYAtakBP",
+      "text_en": null,
+      "urls": [
+        "https://t.co/aZWYAtakBP"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 124,
+        "replies": 5,
+        "reposts": 8,
+        "views": 17803
+      },
+      "parent_id": "2088281537427235320",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2088303748384715229",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T16:36:27Z",
+      "text": "@UnslothAI @Alibaba_Qwen Thanks @Alibaba_Qwen and @UnslothAI \n\nMy config llama.cpp config:\n```\n[qwen38-27b]\nhf = unsloth/Qwen3.8-27B-GGUF:UD-Q4_K_XL\nctx-size = 262144\nnp = 1\nfa = on\nfit = off\ngpu-layers = all\ntemperature = 1.0\ntop-p = 0.95\ntop-k = 20\nmin-p = 0.00\ncache-type-k = q4_0\ncache-type-v = q4_0 https://t.co/waQnu2hJrz",
+      "text_en": null,
+      "urls": [
+        "https://t.co/waQnu2hJrz"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 72,
+        "replies": 2,
+        "reposts": 4,
+        "views": 9168
+      },
+      "parent_id": "2088281537427235320",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2088280182356611304",
+      "author_handle": "UnslothAI",
+      "created_at": "2026-08-14T15:02:48Z",
+      "text": "We promised open weights for Qwen3.8. Now, time to meet them! 🎉\n\n⚡ Qwen3.8-27B:\n- A native multimodal dense model. With just 27B parameters, it outperforms Qwen3.7-Plus overall and shines in real-world coding &amp; office workflows.\n- 262K native context, easily extendable to 1M https://t.co/QuN8oWkG4C",
+      "text_en": null,
+      "urls": [
+        "https://t.co/QuN8oWkG4C"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/UnslothAI/status/2088281537427235320",
+      "outcome": "ok",
+      "note": "html_bytes=215792 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/UnslothAI/status/2088281537427235320",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2088281537427235320/thread-raw/x-web-dom-20260904T175309Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

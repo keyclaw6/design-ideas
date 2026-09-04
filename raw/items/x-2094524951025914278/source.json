@@ -1,0 +1,69 @@
+{
+  "id": "x-2094524951025914278",
+  "url": "https://x.com/olavlj/status/2094524951025914278",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "title": "How we built the blume.codes landing page (X article)",
+  "authors": [
+    "olav (@olavlj)"
+  ],
+  "topics": [
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2094493136743473152",
+    "https://blume.codes",
+    "https://fal.ai",
+    "https://www.dicebear.com"
+  ],
+  "media": [
+    "media/article-cover.jpg",
+    "media/article-hero-still.jpg",
+    "media/article-reference.jpg",
+    "media/article-layers.jpg",
+    "media/article-video-interactive.mp4",
+    "media/article-video-interactive-thumb.jpg",
+    "media/article-video-vine.mp4",
+    "media/article-video-vine-thumb.jpg",
+    "media/article-video-theme.mp4",
+    "media/article-video-theme-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094524951025914278",
+    "author_handle": "olavlj",
+    "author_id": "905776190232940544",
+    "author_name": "olav",
+    "created_at": "2026-08-31T20:37:17Z",
+    "likes": 424,
+    "replies": 13,
+    "retweets": 20,
+    "bookmarks": 1285,
+    "quotes": 6,
+    "views": 46503,
+    "lang": "en",
+    "is_note_tweet": false,
+    "source_client": "Twitter Web App",
+    "article_id": "2094493136743473152",
+    "article_title": "How We Built a Next-Level Landing Page (and how you can too)",
+    "article_blocks": 68,
+    "article_cover_id": "2094516992359235584",
+    "article_cover_size": "1070x428",
+    "article_video_interactive_id": "2094519942020300800",
+    "article_video_interactive_duration_s": 16.402,
+    "article_video_interactive_size": "1420x926",
+    "article_video_interactive_bytes": 2305168,
+    "article_video_vine_id": "2094520618615980032",
+    "article_video_vine_duration_s": 11.787,
+    "article_video_vine_size": "1420x926",
+    "article_video_vine_bytes": 830868,
+    "article_video_theme_id": "2094519770783547392",
+    "article_video_theme_duration_s": 19.278,
+    "article_video_theme_size": "1420x926",
+    "article_video_theme_bytes": 3520022,
+    "fetch": "api.fxtwitter.com (full X article payload) + api.vxtwitter.com + r.jina.ai on fixupx.com (article body, no reply list); article stills via pbs.twimg.com; 1420x926 mp4 via video.twimg.com; blume.codes via r.jina.ai",
+    "comments_note": "13 replies; 0 visible. fixupx rendered the article, not the conversation. x.com jina blocked. 6 quotes unlisted.",
+    "topics_note": "Landing-page parallax / interactive demo / vine / theme switcher; SCHEMA design + ui-motion."
+  }
+}

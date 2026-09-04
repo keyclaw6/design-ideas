@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2077376352630845499",
+  "tweet_id": "2077376352630845499",
+  "root_author_handle": "TechWithLilyAi",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 22,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 7,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 19,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2077419670345568332",
+      "author_handle": "unknown",
+      "created_at": "2026-07-15T15:47:00Z",
+      "text": "@TechWithLilyAi I’d recommend everyone watch free documentary on Alpha Go on YouTube.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1916
+      },
+      "parent_id": "2077376352630845499",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2077573239866269823",
+      "author_handle": "unknown",
+      "created_at": "2026-07-16T01:57:14Z",
+      "text": "@TechWithLilyAi @grok summarize this",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 350
+      },
+      "parent_id": "2077376352630845499",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "fact-check",
+      "downloaded_media": []
+    },
+    {
+      "id": "2077385100304728354",
+      "author_handle": "unknown",
+      "created_at": "2026-07-15T13:29:38Z",
+      "text": "@TechWithLilyAi Insane",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 726
+      },
+      "parent_id": "2077376352630845499",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/TechWithLilyAi/status/2077376352630845499",
+      "outcome": "ok",
+      "note": "html_bytes=185640 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/TechWithLilyAi/status/2077376352630845499",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2077376352630845499/thread-raw/x-web-dom-20260904T175300Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

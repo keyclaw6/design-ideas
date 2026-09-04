@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2092679517588574690",
+  "tweet_id": "2092679517588574690",
+  "root_author_handle": "ComfyUI",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 21,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 5,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 20,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2092777856237461925",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T00:54:57Z",
+      "text": "@ComfyUI no and bad workflow 👎",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 192,
+        "replies": 0,
+        "reposts": 1,
+        "views": 1513
+      },
+      "parent_id": "2092679517588574690",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2092679529584284139",
+      "author_handle": "ComfyUI",
+      "created_at": "2026-08-26T18:24:14Z",
+      "text": "https://t.co/3FC3kwFwZg",
+      "text_en": null,
+      "urls": [
+        "https://t.co/3FC3kwFwZg"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "reposts": 3,
+        "views": 2592
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/ComfyUI/status/2092679517588574690",
+      "outcome": "ok",
+      "note": "html_bytes=187659 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/ComfyUI/status/2092679517588574690",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092679517588574690/thread-raw/x-web-dom-20260904T175323Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

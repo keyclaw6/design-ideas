@@ -1,0 +1,40 @@
+{
+  "id": "web-cult-ui",
+  "url": "https://www.cult-ui.com/",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "Cult UI",
+  "authors": [
+    "nolly-studio"
+  ],
+  "topics": [
+    "design",
+    "ui-motion",
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://github.com/nolly-studio/cult-ui",
+    "https://pro.cult-ui.com/",
+    "https://aisdkagents.com/directory",
+    "https://cult-ui.com/docs"
+  ],
+  "media": [
+    "media/og.png"
+  ],
+  "unsaved": false,
+  "extra": {
+    "retry": "jina",
+    "error": "Vercel Security Checkpoint 429 on r.jina.ai; content from GitHub README via gh",
+    "github": "nolly-studio/cult-ui",
+    "capture_note": "Homepage blocked; README enriched with agent patterns, Pro blocks, templates",
+    "related_items": [
+      "web-vengence-ui",
+      "web-originkit-dev",
+      "github-emilkowalski-skills",
+      "web-graphed",
+      "web-tinylaunch-directories"
+    ],
+    "category_note": "shadcn-style components + AI SDK agent patterns; Cult SEO template."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "root_id": "2087656088124719304",
+  "reply_count_reported": 38,
+  "quote_count_reported": 9,
+  "tweets": [
+    {
+      "id": "2087656088124719304",
+      "author_handle": null,
+      "created_at": "2026-08-12T21:42:52Z",
+      "text": "Introducing pdfcn 📄 by @shadcnlabs\n\n&gt; Built on Takumi by @kanewang_ and Forme\n&gt; Zero config, one command setup.\n&gt; @shadcn /ui compatible (simply copy-paste)\n&gt; 10+ themes, components, blocks\n&gt; Fully customizable\n\n100% free and open-source. https://t.co/egpPgTzmHe",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2026,
+        "replies": 38,
+        "reposts": 117,
+        "views": 117194,
+        "quotes": 9
+      },
+      "urls": [
+        "https://t.co/egpPgTzmHe"
+      ]
+    },
+    {
+      "id": "2087656090754531535",
+      "author_handle": null,
+      "created_at": "2026-08-12T21:42:53Z",
+      "text": "Try it here: https://t.co/5ffZdbLWAu",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 53,
+        "replies": 3,
+        "reposts": 0,
+        "views": 7730,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/5ffZdbLWAu"
+      ]
+    },
+    {
+      "id": "2087656092881060252",
+      "author_handle": null,
+      "created_at": "2026-08-12T21:42:53Z",
+      "text": "Give it a ⭐️ on GitHub: https://t.co/hq5TCrQnsS",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 36,
+        "replies": 0,
+        "reposts": 2,
+        "views": 6240,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/hq5TCrQnsS"
+      ]
+    },
+    {
+      "id": "2087689372288401565",
+      "author_handle": null,
+      "created_at": "2026-08-12T23:55:08Z",
+      "text": "@alaymanguy @shadcnlabs @kanewang_ @shadcn Does.@shadcnlabs belong to @shadcn ? Kind of confusing",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 12,
+        "replies": 3,
+        "reposts": 0,
+        "views": 2674,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2087656088124719304",
+    "2087656090754531535",
+    "2087656092881060252",
+    "2087689372288401565"
+  ],
+  "item_id": "x-2087656088124719304",
+  "handle": "alaymanguy",
+  "http_status": 200,
+  "url": "https://x.com/alaymanguy/status/2087656088124719304",
+  "html_bytes": 243908,
+  "raw_path": "raw/items/x-2087656088124719304/thread-raw/x-web-dom-20260904T175306Z.html"
+}

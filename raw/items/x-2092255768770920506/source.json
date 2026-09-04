@@ -1,0 +1,23 @@
+{
+  "id": "x-2092255768770920506",
+  "url": "https://x.com/higgsfield/status/2092255768770920506",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:36Z",
+  "title": "Introducing Higgsfield in Blender. > Prompt the scene and build the blockout > Describe the camera move and get it anima",
+  "authors": [
+    "Higgsfield AI 🧩 (@higgsfield)"
+  ],
+  "topics": [
+    "camera-control",
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2092255768770920506",
+    "author_handle": "higgsfield",
+    "fetch": "api.fxtwitter.com (retry)"
+  }
+}

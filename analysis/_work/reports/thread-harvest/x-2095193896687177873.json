@@ -1,0 +1,67 @@
+{
+  "root_id": "2095193896687177873",
+  "reply_count_reported": 79,
+  "quote_count_reported": 58,
+  "tweets": [
+    {
+      "id": "2095193896687177873",
+      "author_handle": null,
+      "created_at": "2026-09-02T16:55:26Z",
+      "text": "Claude Fable 5.1 is a beast at agentic CAD!\n\nAt Max effort it's the most capable model we've tested so far.\n\nHere, inside Adam's harness in Fusion, it rebuilt the SO-101 gripper around the stock servo and mounted a real Pi Camera Module 3 from the official STEP. https://t.co/J3Hglv3vd5",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 3230,
+        "replies": 79,
+        "reposts": 223,
+        "views": 517887,
+        "quotes": 58
+      },
+      "urls": [
+        "https://t.co/J3Hglv3vd5"
+      ]
+    },
+    {
+      "id": "2095580190567182845",
+      "author_handle": null,
+      "created_at": "2026-09-03T18:30:26Z",
+      "text": "Try it today at: https://t.co/LJPknqmg72",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1060,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/LJPknqmg72"
+      ]
+    },
+    {
+      "id": "2095198909240848796",
+      "author_handle": null,
+      "created_at": "2026-09-02T17:15:21Z",
+      "text": "@adamdotnew Please, make this into a bench! its time, we want to see how they can build around existing parts (not just making 3d models that don't need to fit into anything).",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 79,
+        "replies": 2,
+        "reposts": 2,
+        "views": 9979,
+        "quotes": 1
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2095193896687177873",
+    "2095198909240848796",
+    "2095580190567182845"
+  ],
+  "item_id": "x-2095193896687177873",
+  "handle": "adamdotnew",
+  "http_status": 200,
+  "url": "https://x.com/adamdotnew/status/2095193896687177873",
+  "html_bytes": 186234,
+  "raw_path": "raw/items/x-2095193896687177873/thread-raw/x-web-dom-20260904T175337Z.html"
+}

@@ -1,0 +1,99 @@
+{
+  "root_id": "2093677274641969390",
+  "reply_count_reported": 17,
+  "quote_count_reported": 1,
+  "tweets": [
+    {
+      "id": "2093677274641969390",
+      "author_handle": null,
+      "created_at": "2026-08-29T12:28:55Z",
+      "text": "a researcher told me he abandoned his second brain after four months.\n\n\"the more i added, the more i had to manage. it became a second job.\"\n\ni asked him what he does now. he showed me this architecture. and the problem made sense immediately.\n\nmost second brains are filing https://t.co/UiTA3IZyIS",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 474,
+        "replies": 17,
+        "reposts": 76,
+        "views": 67515,
+        "quotes": 1
+      },
+      "urls": [
+        "https://t.co/UiTA3IZyIS"
+      ]
+    },
+    {
+      "id": "2090512486738845784",
+      "author_handle": null,
+      "created_at": "2026-08-20T18:53:11Z",
+      "text": "https://t.co/wBLzP25PUm",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 731344,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/wBLzP25PUm"
+      ]
+    },
+    {
+      "id": "2093852386385150234",
+      "author_handle": null,
+      "created_at": "2026-08-30T00:04:45Z",
+      "text": "@imryven That maintenance-cost crossover is exactly where most memory systems die, mine only started working once the model started writing the wiki instead of me.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 437,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093957547606634724",
+      "author_handle": null,
+      "created_at": "2026-08-30T07:02:37Z",
+      "text": "@imryven It eventually fails. I switched to this model ish back in Q1’26.\n\nThe problem is that we are using coding agents that treat those wikis like modular code and not like a whole narrative that contains nuances that can affect historical events. Multi-factorial root causes kills it",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 159,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2093981692797010003",
+      "author_handle": null,
+      "created_at": "2026-08-30T08:38:34Z",
+      "text": "@imryven this is why I tell people to stop running multiple agents\n\nit's unmanageable",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 749,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2090512486738845784",
+    "2093677274641969390",
+    "2093852386385150234",
+    "2093957547606634724",
+    "2093981692797010003"
+  ],
+  "item_id": "x-2093677274641969390",
+  "handle": "imryven",
+  "http_status": 200,
+  "url": "https://x.com/imryven/status/2093677274641969390",
+  "html_bytes": 226463,
+  "raw_path": "raw/items/x-2093677274641969390/thread-raw/x-web-dom-20260904T175328Z.html"
+}

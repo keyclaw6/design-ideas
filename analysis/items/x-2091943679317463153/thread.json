@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2091943679317463153",
+  "tweet_id": "2091943679317463153",
+  "root_author_handle": "SpenserFX",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 0,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 0,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [],
+  "quoted": [
+    {
+      "id": "2091942687704293698",
+      "author_handle": "SpenserFX",
+      "created_at": "1970-01-21T16:33:12Z",
+      "text": "Create splat art from a single image. No splat assets needed. SplatPaint turns images into volumetric splats in seconds, then lets you deform them, stack real-time FX, and copy/paste looks between assets. \n\nFree for 48 hours:\n https://t.co/97HeExXaA9 https://t.co/vxdbJZTiez",
+      "text_en": null,
+      "urls": [
+        "https://t.co/97HeExXaA9",
+        "https://t.co/vxdbJZTiez"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/SpenserFX/status/2091943679317463153",
+      "outcome": "ok",
+      "note": "html_bytes=128802 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/SpenserFX/status/2091943679317463153",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2091943679317463153/thread-raw/x-web-dom-20260904T175320Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

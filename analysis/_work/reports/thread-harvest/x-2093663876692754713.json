@@ -1,0 +1,67 @@
+{
+  "root_id": "2093663876692754713",
+  "reply_count_reported": 11,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2093663876692754713",
+      "author_handle": null,
+      "created_at": "2026-08-29T11:35:41Z",
+      "text": "Stop wasting hundreds of AI credits trying to get precise camera movement in Seedance 2.5 🚫\n\nInstead of relying purely on text prompts, here is the Blender previs workflow:\n\n1️⃣ Connect Claude Desktop to Blender via the Higgsfield MCP bridge\n2️⃣ Let Claude generate your 3D https://t.co/vdwn3K0g9B",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 275,
+        "replies": 11,
+        "reposts": 28,
+        "views": 29657,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/vdwn3K0g9B"
+      ]
+    },
+    {
+      "id": "2093664550256071057",
+      "author_handle": null,
+      "created_at": "2026-08-29T11:38:21Z",
+      "text": "full blender to seedance 2.5 tutorial @higgsfield_ai @Blender https://t.co/5MEtoLf3KC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1091,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/5MEtoLf3KC"
+      ]
+    },
+    {
+      "id": "2093702302846923245",
+      "author_handle": null,
+      "created_at": "2026-08-29T14:08:22Z",
+      "text": "@JSFILMZ0412 That's inasely mind-boggling",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 167,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2093663876692754713",
+    "2093664550256071057",
+    "2093702302846923245"
+  ],
+  "item_id": "x-2093663876692754713",
+  "handle": "JSFILMZ0412",
+  "http_status": 200,
+  "url": "https://x.com/JSFILMZ0412/status/2093663876692754713",
+  "html_bytes": 236307,
+  "raw_path": "raw/items/x-2093663876692754713/thread-raw/x-web-dom-20260904T175328Z.html"
+}

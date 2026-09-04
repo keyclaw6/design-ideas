@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "id": "x-2093421870951387625",
+  "tweet_id": "2093421870951387625",
+  "root_author_handle": "3DxDEV7",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 3,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 2,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093643736324431913",
+      "author_handle": "unknown",
+      "created_at": "2026-08-29T10:15:39Z",
+      "text": "@3DxDEV7 Looks to be useful for remesh ripped triangulated models from games",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 119
+      },
+      "parent_id": "2093421870951387625",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093421872763273348",
+      "author_handle": "3DxDEV7",
+      "created_at": "2026-08-28T19:34:03Z",
+      "text": "https://t.co/9FOIQmC9DK",
+      "text_en": null,
+      "urls": [
+        "https://t.co/9FOIQmC9DK"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 665
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/3DxDEV7/status/2093421870951387625",
+      "outcome": "ok",
+      "note": "html_bytes=176494 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/3DxDEV7/status/2093421870951387625",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093421870951387625/thread-raw/x-web-dom-20260904T175327Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

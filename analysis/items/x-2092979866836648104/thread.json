@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "id": "x-2092979866836648104",
+  "tweet_id": "2092979866836648104",
+  "root_author_handle": "LexnLin",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 9,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 8,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093054305859440660",
+      "author_handle": "unknown",
+      "created_at": "2026-08-27T19:13:28Z",
+      "text": "@LexnLin posting the actual template instead of \"dm me\" should be the default and somehow isn't",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 183
+      },
+      "parent_id": "2092979866836648104",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "alternative-tool",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2092890365930131920",
+      "author_handle": "LexnLin",
+      "created_at": "2026-08-27T08:22:01Z",
+      "text": "made all of these visuals for a random math brand in a few minutes with AI\n\npretty insane that we live in this era https://t.co/cEsqObenoO",
+      "text_en": null,
+      "urls": [
+        "https://t.co/cEsqObenoO"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 21928
+      }
+    },
+    {
+      "id": "2092979873476215219",
+      "author_handle": "LexnLin",
+      "created_at": "2026-08-27T14:17:42Z",
+      "text": "start with this base prompt:\n\nCreate a premium 16:9 brand campaign visual in a clean editorial + glossy 3D design style. Use oversized bold sans-serif typography, minimal copy, strong negative space, refined lighting, subtle reflections, soft shadows, and high-end materials such",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 30,
+        "replies": 2,
+        "reposts": 3,
+        "views": 2183
+      }
+    },
+    {
+      "id": "2092979876718379436",
+      "author_handle": "LexnLin",
+      "created_at": "2026-08-27T14:17:42Z",
+      "text": "then just add one line describing the actual brand + what you want:\n\n\"the brand is [NAME], a [TYPE OF PRODUCT]. Create [NUMBER] campaign visuals about [CONTENT/THEME]. Use [COLORS] as the main palette.\"\n\nmine was basically something like:\n\n\"the brand is PRYNE, a math learning",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 14,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1693
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/LexnLin/status/2092979866836648104",
+      "outcome": "ok",
+      "note": "html_bytes=235092 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/LexnLin/status/2092979866836648104",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2092979866836648104/thread-raw/x-web-dom-20260904T175324Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

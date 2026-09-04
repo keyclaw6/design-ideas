@@ -1,0 +1,31 @@
+{
+  "id": "x-2086537093120164177",
+  "url": "https://x.com/startracker/status/2086537093120164177",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:51:00Z",
+  "title": "Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) 🚀 I finally figured out ho",
+  "authors": [
+    "@startracker"
+  ],
+  "topics": [
+    "three-js",
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2086537093120164177",
+    "author_handle": "startracker",
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-complete-shelf",
+      "x-2086599657925329347",
+      "x-2057113327508345047"
+    ],
+    "category_note": "Opus 5 recursive loop + subagent QC for high-detail interactive 3D vehicle (textureless)."
+  }
+}

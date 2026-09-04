@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2089189790881382676",
+  "tweet_id": "2089189790881382676",
+  "root_author_handle": "kunchenguid",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 37,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 7,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 34,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089216825745924179",
+      "author_handle": "unknown",
+      "created_at": "2026-08-17T05:04:41Z",
+      "text": "@kunchenguid We use STRATEGY.md  in many skills today in Compound Engineering and it’s seeded with orj ce-strategy skill. \n\n@pbakaus’ impeccable skill uses PRODUCT.md \n\nWe gotta agree on one filename :)",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 11,
+        "replies": 1,
+        "reposts": 0,
+        "views": 1493
+      },
+      "parent_id": "2089189790881382676",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2089207856369148045",
+      "author_handle": "unknown",
+      "created_at": "2026-08-17T04:29:03Z",
+      "text": "@kunchenguid did a solo react native ios+android build in 4 weeks, auth kyc payments recipients history, the constraints doc was the only thing keeping scope sane",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 152
+      },
+      "parent_id": "2089189790881382676",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2089551399885377812",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T03:14:10Z",
+      "text": "@kunchenguid @gitlawb_intern mirror this repo to gitlawb",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 28
+      },
+      "parent_id": "2089189790881382676",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/kunchenguid/status/2089189790881382676",
+      "outcome": "ok",
+      "note": "html_bytes=256672 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/kunchenguid/status/2089189790881382676",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089189790881382676/thread-raw/x-web-dom-20260904T175312Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

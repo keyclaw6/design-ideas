@@ -1,0 +1,102 @@
+{
+  "root_id": "2088600811307979218",
+  "reply_count_reported": 25,
+  "quote_count_reported": 2,
+  "tweets": [
+    {
+      "id": "2088600811307979218",
+      "author_handle": null,
+      "created_at": "2026-08-15T12:16:52Z",
+      "text": "oh shit i am number 1 on hackernews atm\n\n(3x hackernews now lfg) https://t.co/MLD0R8x4MC",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1040,
+        "replies": 25,
+        "reposts": 33,
+        "views": 107279,
+        "quotes": 2
+      },
+      "urls": [
+        "https://t.co/MLD0R8x4MC"
+      ]
+    },
+    {
+      "id": "2074912810803560497",
+      "author_handle": null,
+      "created_at": "2026-07-08T17:45:38Z",
+      "text": "my latest blog post \"auto-research with codex: how I achieved a 212x faster kernel over baseline with codex in GPU Mode's qr_v2 problem\" is up now. in this post, i talk about my approach towards auto-kerneling on the QR decomposition problem. \n\nhttps://t.co/tKwV9xMDC8 https://t.co/OUKzqrXjdA",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 223343,
+        "quotes": null
+      },
+      "urls": [
+        "https://t.co/tKwV9xMDC8",
+        "https://t.co/OUKzqrXjdA"
+      ]
+    },
+    {
+      "id": "2088602345127202824",
+      "author_handle": null,
+      "created_at": "2026-08-15T12:22:58Z",
+      "text": "thanks for submitting on your own and letting me know lol @__tosh",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 10,
+        "replies": 1,
+        "reposts": 1,
+        "views": 1456,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2088618409403830459",
+      "author_handle": null,
+      "created_at": "2026-08-15T13:26:48Z",
+      "text": "@__tosh crazy lol https://t.co/wvM5Pu85uG",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1148,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/wvM5Pu85uG"
+      ]
+    },
+    {
+      "id": "2088602246967931367",
+      "author_handle": null,
+      "created_at": "2026-08-15T12:22:34Z",
+      "text": "@dejavucoder dejavucoder labs!\nnext is model drop",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 8,
+        "replies": 1,
+        "reposts": 0,
+        "views": 832,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2074912810803560497",
+    "2088600811307979218",
+    "2088602246967931367",
+    "2088602345127202824",
+    "2088618409403830459"
+  ],
+  "item_id": "x-2088600811307979218",
+  "handle": "dejavucoder",
+  "http_status": 200,
+  "url": "https://x.com/dejavucoder/status/2088600811307979218",
+  "html_bytes": 193260,
+  "raw_path": "raw/items/x-2088600811307979218/thread-raw/x-web-dom-20260904T175310Z.html"
+}

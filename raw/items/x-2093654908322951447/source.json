@@ -1,0 +1,22 @@
+{
+  "id": "x-2093654908322951447",
+  "url": "https://x.com/rubenhassid/status/2093654908322951447",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:48Z",
+  "title": "It's crazy how my entire LinkedIn feed is AI-slop content. No one cares to edit AI-written content. Here are 12 AI tells",
+  "authors": [
+    "Ruben Hassid (@rubenhassid)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2093654908322951447",
+    "author_handle": "rubenhassid",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Claude writing/anti-slop skill pack (writer, editor, ban-AI-words, etc.)."
+  }
+}

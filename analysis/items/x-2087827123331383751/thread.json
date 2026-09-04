@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2087827123331383751",
+  "tweet_id": "2087827123331383751",
+  "root_author_handle": "martindonadieu",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 18,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 0,
+  "replies_captured": 3,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 15,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2087841352277008734",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T09:59:03Z",
+      "text": "@martindonadieu thank you for sharing this. i’ve been meaning to get into seo more and found the tools expensive and annoying!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 3,
+        "reposts": 0,
+        "views": 562
+      },
+      "parent_id": "2087827123331383751",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    },
+    {
+      "id": "2088165740906176812",
+      "author_handle": "unknown",
+      "created_at": "2026-08-14T07:28:03Z",
+      "text": "@martindonadieu I hate ahrefs and their constant upsell. Is openseo any good?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 2,
+        "reposts": 0,
+        "views": 173
+      },
+      "parent_id": "2087827123331383751",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087952388053250268",
+      "author_handle": "unknown",
+      "created_at": "2026-08-13T17:20:16Z",
+      "text": "@martindonadieu OpenSEO uses data from DataForSEO. Is it equally good with ahrefs?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 212
+      },
+      "parent_id": "2087827123331383751",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/martindonadieu/status/2087827123331383751",
+      "outcome": "ok",
+      "note": "html_bytes=236478 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/martindonadieu/status/2087827123331383751",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2087827123331383751/thread-raw/x-web-dom-20260904T175307Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

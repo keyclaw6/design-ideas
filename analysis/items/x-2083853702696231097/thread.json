@@ -1,0 +1,123 @@
+{
+  "schema_version": "1",
+  "id": "x-2083853702696231097",
+  "tweet_id": "2083853702696231097",
+  "root_author_handle": "mattpocockuk",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 66,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 13,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 63,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2083865985841307784",
+      "author_handle": "unknown",
+      "created_at": "2026-08-02T10:42:22Z",
+      "text": "@mattpocockuk what if I’m mediocre at 50 different things",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 15,
+        "replies": 2,
+        "reposts": 0,
+        "views": 4154
+      },
+      "parent_id": "2083853702696231097",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2084025282873454890",
+      "author_handle": "unknown",
+      "created_at": "2026-08-02T21:15:21Z",
+      "text": "@mattpocockuk Or you just give it a noob prompt like that, and tell it to teach you the expert terms that would maximize information density -&gt; then you learn from first principles. And then you can create a master prompt that does this + teaches the newbie first principles about the expert https://t.co/qZwXLpEHlh",
+      "text_en": null,
+      "urls": [
+        "https://t.co/qZwXLpEHlh"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 6,
+        "replies": 0,
+        "reposts": 1,
+        "views": 696
+      },
+      "parent_id": "2083853702696231097",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2083917511121129895",
+      "author_handle": "unknown",
+      "created_at": "2026-08-02T14:07:06Z",
+      "text": "@mattpocockuk How can we use ai to get good at the thing we are using ai for? \nAs a non dev I already see that I'm developing a smell for good design, mainly because I've seen what failure looks like. \n\nBut i wonder if there could be a more deliberate approach to learning while building.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 1,
+        "reposts": 0,
+        "views": 3170
+      },
+      "parent_id": "2083853702696231097",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "counter-claim",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2083639815891755059",
+      "author_handle": "mattpocockuk",
+      "created_at": "2026-08-01T19:43:38Z",
+      "text": "Find the right terms https://t.co/tIJc97XPW5",
+      "text_en": null,
+      "urls": [
+        "https://t.co/tIJc97XPW5"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/mattpocockuk/status/2083853702696231097",
+      "outcome": "ok",
+      "note": "html_bytes=210315 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/mattpocockuk/status/2083853702696231097",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2083853702696231097/thread-raw/x-web-dom-20260904T175301Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

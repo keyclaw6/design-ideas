@@ -1,0 +1,31 @@
+{
+  "id": "x-2089570022490263586",
+  "url": "https://x.com/tom_doerr/status/2089570022490263586",
+  "source_type": "x",
+  "captured_at": "2026-09-04T07:01:47Z",
+  "title": "iCraft Editor designs 3D network architecture diagrams with immersive visual effects. https://github.com/gantFDT/icraft",
+  "authors": [
+    "@tom_doerr"
+  ],
+  "topics": [
+    "three-js",
+    "infographics",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/gantFDT/icraft"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2089570022490263586",
+    "author_handle": "tom_doerr",
+    "category_note": "iCraft Editor — 3D network/architecture diagrams with immersive effects.",
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "github-antvis-infographic",
+      "web-flint-chart",
+      "github-scottstts-threejs-awesome-graphics-agent-skills"
+    ]
+  }
+}

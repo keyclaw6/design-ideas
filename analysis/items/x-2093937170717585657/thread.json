@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "id": "x-2093937170717585657",
+  "tweet_id": "2093937170717585657",
+  "root_author_handle": "Stefan_3D_AI",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 11,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 11,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 8,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2093958879700783223",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T07:07:55Z",
+      "text": "@Stefan_3D_AI Separate meshes per object is the part I'd want most. My Hunyuan3D/TRELLIS runs still land in Blender for ~20 min of vert merging before anything is editable.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 896
+      },
+      "parent_id": "2093937170717585657",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2093985670859780388",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T08:54:22Z",
+      "text": "@Stefan_3D_AI This is the first benchmark of its kind. The paper reports 0.998 nonempty recall for light detection—meaning nearly every scene has at least one light captured—with a median light error of 0.261m.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "views": 607
+      },
+      "parent_id": "2093937170717585657",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "number",
+      "downloaded_media": []
+    },
+    {
+      "id": "2094008706069618742",
+      "author_handle": "unknown",
+      "created_at": "2026-08-30T10:25:54Z",
+      "text": "@Stefan_3D_AI Image straight to an editable scene, that changes things.",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 459
+      },
+      "parent_id": "2093937170717585657",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/Stefan_3D_AI/status/2093937170717585657",
+      "outcome": "ok",
+      "note": "html_bytes=194587 tweets=4"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Stefan_3D_AI/status/2093937170717585657",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2093937170717585657/thread-raw/x-web-dom-20260904T175330Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

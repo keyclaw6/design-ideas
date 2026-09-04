@@ -1,0 +1,33 @@
+{
+  "id": "web-opale-ui-taste",
+  "url": "https://opale-ui.design/blog/taste",
+  "source_type": "website",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "title": "A Developer's Guide to Taste in the Age of AI",
+  "authors": [
+    "Elyes Rayane Melbouci"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "three-js",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://opale-ui.design/"
+  ],
+  "media": [],
+  "unsaved": false,
+  "extra": {
+    "published": "2026-02-01",
+    "author_role": "AI & Machine Learning Engineer, Montreal",
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "github-emilkowalski-skills",
+      "github-pbakaus-impeccable",
+      "web-feralui-dev",
+      "github-scottstts-threejs-awesome-graphics-agent-skills"
+    ],
+    "category_note": "Essay: encode personal taste into skills; anti vibe-coder aesthetic."
+  }
+}

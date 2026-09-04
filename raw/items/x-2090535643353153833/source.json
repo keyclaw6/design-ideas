@@ -1,0 +1,31 @@
+{
+  "id": "x-2090535643353153833",
+  "url": "https://x.com/CadX_Studio/status/2090535643353153833",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:32Z",
+  "title": "Testing if AI can actually design a wheel hub on CadXStudio. Bolt circle. Drive spline. Brake disc mount. From prompt to",
+  "authors": [
+    "CadX Studio (@CadX_Studio)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://cadxstudio.in"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2090535643353153833",
+    "author_handle": "CadX_Studio",
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "CadX Studio: prompt → wheel hub CAD + engineering drawing (bolt circle, spline, brake mount).",
+    "related_items": [
+      "x-2089717063921332378",
+      "x-2087272209429766596",
+      "x-2089802212000362939",
+      "github-oso95-scroll-world"
+    ]
+  }
+}

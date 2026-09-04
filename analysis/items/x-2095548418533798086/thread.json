@@ -1,0 +1,77 @@
+{
+  "schema_version": "1",
+  "id": "x-2095548418533798086",
+  "tweet_id": "2095548418533798086",
+  "root_author_handle": "earthtojake",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 19,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 4,
+  "replies_captured": 1,
+  "replies_relevant": 1,
+  "replies_dropped_unfetched": 18,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2095576460191023165",
+      "author_handle": "unknown",
+      "created_at": "2026-09-03T18:15:36Z",
+      "text": "@earthtojake Dude I love text-to-cad, it’s hands down the best way to CAD with agents right now that I’ve found. Great work and keep it up",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 5,
+        "replies": 0,
+        "reposts": 0,
+        "views": 556
+      },
+      "parent_id": "2095548418533798086",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "answered-question",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2095548420618399973",
+      "author_handle": "earthtojake",
+      "created_at": "2026-09-03T16:24:11Z",
+      "text": "this makes version control with git much easier and faster, since everything is source code that compiles to 3D files\n\n(similar to any repo where you have some distribution artifacts)",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 14,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1418
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/earthtojake/status/2095548418533798086",
+      "outcome": "ok",
+      "note": "html_bytes=159036 tweets=3"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/earthtojake/status/2095548418533798086",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2095548418533798086/thread-raw/x-web-dom-20260904T175339Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

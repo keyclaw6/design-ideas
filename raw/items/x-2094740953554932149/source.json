@@ -1,0 +1,67 @@
+{
+  "id": "x-2094740953554932149",
+  "url": "https://x.com/pmitu/status/2094740953554932149",
+  "source_type": "x",
+  "captured_at": "2026-09-02T18:10:58Z",
+  "title": "treg people-search GTM \u2014 $0.0089/lead, quotes Jason Zhou",
+  "authors": [
+    "Paul Mit (@pmitu)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://x.com/jasonzhou1993/status/2094740336895840605",
+    "https://treg.to/people-search",
+    "https://treg.to",
+    "https://treg.to/llms.txt",
+    "https://github.com/superdesigndev/treg",
+    "https://github.com/LessieAI/people-search-bench",
+    "https://arxiv.org/abs/2603.27476",
+    "https://x.com/treg_ai",
+    "https://www.flowmapp.com/",
+    "https://x.com/i/article/2091990303062593536"
+  ],
+  "media": [
+    "media/photo.jpg",
+    "media/quoted-video.mp4",
+    "media/quoted-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2094740953554932149",
+    "author_handle": "pmitu",
+    "author_id": "19384815",
+    "author_name": "Paul Mit",
+    "created_at": "2026-09-01T10:55:36Z",
+    "likes": 217,
+    "replies": 34,
+    "retweets": 11,
+    "bookmarks": 348,
+    "quotes": 2,
+    "views": 34231,
+    "lang": "en",
+    "is_note_tweet": true,
+    "has_video": false,
+    "media_id": "2094740948135837696",
+    "media_size": "3832x2150",
+    "media_bytes": 330447,
+    "quoted_tweet_id": "2094740336895840605",
+    "quoted_author": "jasonzhou1993",
+    "quoted_video_id": "2094658428409204737",
+    "quoted_video_duration_s": 49.344,
+    "quoted_video_size": "1920x1080",
+    "quoted_video_bytes": 6610975,
+    "source_client": "Typefully",
+    "treg_repo": "superdesigndev/treg",
+    "treg_stars": 1020,
+    "treg_forks": 102,
+    "people_search_bench_repo": "LessieAI/people-search-bench",
+    "people_search_bench_stars": 132,
+    "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com (x.com jina blocked AbuseAlleviation until 18:55Z); photo via pbs.twimg.com; quoted mp4 via video.twimg.com; GitHub API + treg.to/llms.txt + r.jina.ai on treg.to/people-search",
+    "comments_note": "34 replies; 3 first-level + 2 nested (Paul, @treg_ai) captured via fixupx/jina then fxtwitter. Quoted Jason Zhou in post.md. Jason \u201cGit Repo below\u201d self-reply not listed (fixupx 403). Rest login-walled.",
+    "topics_note": "People-search / GTM enrichment catalog for agents; seo-agents is the SCHEMA GTM slot. Plugin + treg mcp install \u2192 agent-skills, mcp."
+  }
+}

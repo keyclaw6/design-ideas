@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2089570022490263586",
+  "tweet_id": "2089570022490263586",
+  "root_author_handle": "tom_doerr",
+  "status": "captured_full",
+  "author_thread_status": "none",
+  "reply_count_reported": 1,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 1,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 0,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2089583895834411157",
+      "author_handle": "unknown",
+      "created_at": "2026-08-18T05:23:18Z",
+      "text": "@tom_doerr does it render live network traffic or just static diagrams?",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "views": 199
+      },
+      "parent_id": "2089570022490263586",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/tom_doerr/status/2089570022490263586",
+      "outcome": "ok",
+      "note": "html_bytes=124653 tweets=2"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/tom_doerr/status/2089570022490263586",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2089570022490263586/thread-raw/x-web-dom-20260904T175312Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

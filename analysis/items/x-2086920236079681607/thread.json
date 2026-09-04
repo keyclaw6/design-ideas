@@ -1,0 +1,123 @@
+{
+  "schema_version": "1",
+  "id": "x-2086920236079681607",
+  "tweet_id": "2086920236079681607",
+  "root_author_handle": "shannholmberg",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 33,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 12,
+  "replies_captured": 3,
+  "replies_relevant": 2,
+  "replies_dropped_unfetched": 30,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2086922305502945444",
+      "author_handle": "unknown",
+      "created_at": "2026-08-10T21:07:05Z",
+      "text": "@shannholmberg goat",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 15,
+        "replies": 0,
+        "reposts": 0,
+        "views": 7855
+      },
+      "parent_id": "2086920236079681607",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    },
+    {
+      "id": "2087140471281795345",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T11:34:00Z",
+      "text": "@shannholmberg Is this using Daniel Meissler’s LifeOS - https://t.co/nW8O3RWeko ? - as he recently updated it to work with Hermes. It’s a fabulous system. I can’t recommend it too highly. @DanielMiessler",
+      "text_en": null,
+      "urls": [
+        "https://t.co/nW8O3RWeko"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 4,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1228
+      },
+      "parent_id": "2086920236079681607",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    },
+    {
+      "id": "2087257086170136720",
+      "author_handle": "unknown",
+      "created_at": "2026-08-11T19:17:23Z",
+      "text": "@shannholmberg https://t.co/7H48QDMSNQ",
+      "text_en": null,
+      "urls": [
+        "https://t.co/7H48QDMSNQ"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 1786
+      },
+      "parent_id": "2086920236079681607",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "relevant",
+      "relevance_kind": "link",
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2086811795084202439",
+      "author_handle": "shannholmberg",
+      "created_at": "2026-08-10T13:47:57Z",
+      "text": "as promised, this prompt will change your life... \n\n(send it to your hermes agent &amp; thank me later)\n\n----------------------------------------------\n\ncreate this system - a generic, durable, private, file-based knowledge base and synchronized life tracker that works across",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": null
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/shannholmberg/status/2086920236079681607",
+      "outcome": "ok",
+      "note": "html_bytes=292581 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/shannholmberg/status/2086920236079681607",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2086920236079681607/thread-raw/x-web-dom-20260904T175303Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

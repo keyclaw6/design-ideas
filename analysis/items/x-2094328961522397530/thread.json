@@ -1,0 +1,111 @@
+{
+  "schema_version": "1",
+  "id": "x-2094328961522397530",
+  "tweet_id": "2094328961522397530",
+  "root_author_handle": "chrissyinspace",
+  "status": "captured_partial",
+  "author_thread_status": "none",
+  "reply_count_reported": 21,
+  "count_unavailable_reason": null,
+  "quote_count_reported": 2,
+  "replies_captured": 1,
+  "replies_relevant": 0,
+  "replies_dropped_unfetched": 20,
+  "truncated": false,
+  "author_thread": [],
+  "replies": [
+    {
+      "id": "2094341199826239927",
+      "author_handle": "unknown",
+      "created_at": "2026-08-31T08:27:07Z",
+      "text": "@chrissyinspace You’re on my site too!",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 178
+      },
+      "parent_id": "2094328961522397530",
+      "depth": 1,
+      "is_author": false,
+      "relevance": "noise",
+      "relevance_kind": null,
+      "downloaded_media": []
+    }
+  ],
+  "quoted": [
+    {
+      "id": "2093895489364316594",
+      "author_handle": "chrissyinspace",
+      "created_at": "2026-08-30T02:56:02Z",
+      "text": "DR 14 ➜ DR 35 in 1.5 days!\n\nHonestly one of the most valuable backlinks around right now, as the domain rating is pretty good and the number of outgoing links is SUPER LOW! Lots of outgoing links dilute link juice.\n\nAnd you can get your dofollow backlink for 🆓 right now at https://t.co/rfJVHyLynT",
+      "text_en": null,
+      "urls": [
+        "https://t.co/rfJVHyLynT"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": null,
+        "replies": null,
+        "reposts": null,
+        "views": 46978
+      }
+    },
+    {
+      "id": "2094330102989643872",
+      "author_handle": "chrissyinspace",
+      "created_at": "2026-08-31T07:43:01Z",
+      "text": "TinyShots DR tracked by TinyLaunch: https://t.co/148euKdARg",
+      "text_en": null,
+      "urls": [
+        "https://t.co/148euKdARg"
+      ],
+      "media_urls": [],
+      "metrics": {
+        "likes": 3,
+        "replies": 0,
+        "reposts": 0,
+        "views": 534
+      }
+    },
+    {
+      "id": "2094328965276279045",
+      "author_handle": "chrissyinspace",
+      "created_at": "2026-08-31T07:38:30Z",
+      "text": "You do need to embed our badge to get the dofollow link 🙏",
+      "text_en": null,
+      "urls": [],
+      "media_urls": [],
+      "metrics": {
+        "likes": 1,
+        "replies": 1,
+        "reposts": 0,
+        "views": 582
+      }
+    }
+  ],
+  "fetch_log": [
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/chrissyinspace/status/2094328961522397530",
+      "outcome": "ok",
+      "note": "html_bytes=208807 tweets=5"
+    },
+    {
+      "at": "2026-09-04T17:54:20Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/chrissyinspace/status/2094328961522397530",
+      "outcome": "ok",
+      "note": "reply count only; never a reply capture"
+    }
+  ],
+  "raw_payloads": [
+    "raw/items/x-2094328961522397530/thread-raw/x-web-dom-20260904T175331Z.html"
+  ],
+  "worker": "threads-script",
+  "written_at": "2026-09-04T17:54:20Z"
+}

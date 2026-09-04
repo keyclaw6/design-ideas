@@ -1,0 +1,82 @@
+{
+  "root_id": "2091934379648110784",
+  "reply_count_reported": 22,
+  "quote_count_reported": 5,
+  "tweets": [
+    {
+      "id": "2091934379648110784",
+      "author_handle": null,
+      "created_at": "2026-08-24T17:03:17Z",
+      "text": "2,000+ DESIGN.md files from real product sites, colors, type, spacing, components, ready to paste into Cursor, Claude Code, v0 or Lovable.\n\ngive your agent real design taste before it builds. \n\n👉 https://t.co/wMLDRncwrM https://t.co/rz4Ge0Tykn",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1165,
+        "replies": 22,
+        "reposts": 118,
+        "views": 95030,
+        "quotes": 5
+      },
+      "urls": [
+        "https://t.co/wMLDRncwrM",
+        "https://t.co/rz4Ge0Tykn"
+      ]
+    },
+    {
+      "id": "2092138486329692494",
+      "author_handle": null,
+      "created_at": "2026-08-25T06:34:19Z",
+      "text": "@ImranUxi 2000+ 设计系统喂给 agent 之前，建议先挑 3-5 个和你产品气质最像的做成 .claude/CLAUDE.md 或 project instructions，而不是一次性全塞。agent 吃设计规范的关键是「少而一致」，多了反而互相打架。",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 7,
+        "replies": 1,
+        "reposts": 0,
+        "views": 731,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2092081354481791230",
+      "author_handle": null,
+      "created_at": "2026-08-25T02:47:18Z",
+      "text": "@ImranUxi Two thousand real design files is a serious head start for agents.",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 2,
+        "reposts": 0,
+        "views": 1895,
+        "quotes": 0
+      },
+      "urls": []
+    },
+    {
+      "id": "2091987778435452956",
+      "author_handle": null,
+      "created_at": "2026-08-24T20:35:28Z",
+      "text": "@ImranUxi We use this everyday at Rantir",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 2,
+        "replies": 1,
+        "reposts": 0,
+        "views": 929,
+        "quotes": 0
+      },
+      "urls": []
+    }
+  ],
+  "unique_ids": [
+    "2091934379648110784",
+    "2091987778435452956",
+    "2092081354481791230",
+    "2092138486329692494"
+  ],
+  "item_id": "x-2091934379648110784",
+  "handle": "ImranUxi",
+  "http_status": 200,
+  "url": "https://x.com/ImranUxi/status/2091934379648110784",
+  "html_bytes": 190218,
+  "raw_path": "raw/items/x-2091934379648110784/thread-raw/x-web-dom-20260904T175320Z.html"
+}
