@@ -84,6 +84,20 @@
       "target": "https://api.fxtwitter.com/dejavucoder/status/2074912810803560497",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-04T23:23:43Z",
+      "method": "other",
+      "target": "https://www.gpumode.com/api/leaderboard/773",
+      "outcome": "ok",
+      "note": "200 50694 B JSON; name=qr B200 ended; 85 ranks; sankalp1999 rank 26 score 3916.103us submission_id 796445"
+    },
+    {
+      "at": "2026-09-04T23:27:02Z",
+      "method": "other",
+      "target": "https://t.co/hBpJvk3YZV",
+      "outcome": "ok",
+      "note": "301 Location=twitter.com/DeepknowledgeU/status/2074924523221119074/photo/1; not submit_logs"
     }
   ],
   "raw_payloads": [

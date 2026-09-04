@@ -18,4 +18,6 @@ Score items that use this method on the owner brief's comparison axes. Do not tr
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
 **2026-09-04 capture — Shimanski one-page URLs from the must-read card.** All five linked hosts returned HTTP 200 this pass. Titles now: `aiedit.com` “Image & Video Creation Platform | 100+ AI Models | 20+ AI Tools” (not a one-job page); `postformatter.com` LinkedIn formatter Chrome extension; `blurr.ing` blur Chrome extension; `unicodegames.com` free browser games; `shimanski.dev` personal site. GSC 1.01M / 16.3K still only the tweet screenshot. Do not treat every URL as still matching “one page, one tool, one job.”
+
+**2026-09-04 capture — TurjoAt t.co resolve.** Reply `2094860892726862263` `t.co/cTa5Jep0AT` **301 → https://aiedit.com/**. Live GET **200 / 193,759 B**; title **AI Edit: Image & Video Creation Platform | 100+ AI Models | 20+ AI Tools**; og:description **15+ AI tools** for video/image (text-to-video, restoration, background removal, virtual try-on, inpainting, upscaling). Confirms the drifted platform URL already on the card — not a one-page one-job tool (`analysis/_work/captures/aiedit-com-2026-09-04.json`).
 <!-- NOTES:END -->

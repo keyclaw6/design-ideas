@@ -1,0 +1,46 @@
+{
+  "fetched": "2026-09-04T23:25:14Z",
+  "arxiv": "https://arxiv.org/pdf/2509.25140",
+  "filename": "2509.25140v2.pdf",
+  "http": 200,
+  "bytes": 5545249,
+  "pages": 13,
+  "openreview": "https://openreview.net/forum?id=jL7fwchScm",
+  "openreview_this_pass": "307 challenge gate",
+  "github": {
+    "full_name": "google-research/reasoning-bank",
+    "license": "Apache-2.0",
+    "stars": 561,
+    "forks": 66,
+    "description": null,
+    "readme_bytes": 5783
+  },
+  "table1_webarena_overall_684": {
+    "flash": {
+      "no_memory": "40.5/9.7",
+      "reasoningbank": "48.8/8.3",
+      "delta_sr": "+8.3"
+    },
+    "pro": {
+      "no_memory": "46.7/8.8",
+      "reasoningbank": "53.9/7.4",
+      "delta_sr": "+7.2"
+    },
+    "claude": {
+      "no_memory": "41.7/8.0",
+      "reasoningbank": "46.3/7.3",
+      "delta_sr": "+4.6"
+    }
+  },
+  "table2_swe_verified": {
+    "flash": {
+      "no_memory": "34.2/30.3",
+      "reasoningbank": "38.8/27.5"
+    },
+    "pro": {
+      "no_memory": "54.0/21.1",
+      "reasoningbank": "57.4/19.8"
+    }
+  },
+  "matts_parallel_shopping": "49.7 (k=1) to 55.1 (k=5)"
+}

@@ -12,6 +12,7 @@
 - `x-2094770895021572502#c1` (result, stated) Almost none of the cited 1.01M impressions traffic goes to blog posts; it goes to free tools. — evidence: "Almost none of this traffic goes to blog posts. It goes to free tools." [post]
 - `x-2094770895021572502#c2` (recipe, stated) Demand research uses Bing Webmaster Tools keyword research for volume and related terms. — evidence: "Bing Webmaster Tools → Keyword Research. Type a term from your niche, see real volume plus related terms." [post]
 - `x-2094770895021572502#c3` (recipe, stated) Each tool is one page, one job, free, no signup, with six weeks of flat metrics before growth. — evidence: "one page, one tool, one job → free, no signup, works instantly" [post]
+- `x-2094770895021572502#c4` (counter-claim, demonstrated) TurjoAt reply t.co/cTa5Jep0AT 301s to https://aiedit.com/. Live title is AI Edit: Image & Video Creation Platform | 100+ AI Models | 20+ AI Tools (og: 15+ AI tools). That host is a multi-model creation platform, not a one-page one-job tool. — evidence: "t.co 301 Location=https://aiedit.com/. GET 200 / 193,759 B. Title and og:description on analysis/_work/captures/aiedit-com-2026-09-04.json." [note]
 **Numbers.** quoted GSC impressions: 1.01 million (post); quoted GSC clicks: 16.3 thousand (post); flat period before growth: 6 weeks (post)
 **Recipe.** —
 **Techniques.** [directory-submission](../../techniques/directory-submission.md), [serp-keyword-research](../../techniques/serp-keyword-research.md)

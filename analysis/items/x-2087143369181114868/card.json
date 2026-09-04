@@ -49,6 +49,26 @@
       "evidence_ref": "analysis/tools/reasoning-bank.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087143369181114868#c3",
+      "text": "arXiv:2509.25140v2 (13 pages) Table 1 WebArena overall (684 tasks): Flash ReasoningBank 48.8 / 8.3 vs No Memory 40.5 / 9.7 (+8.3 SR). Pro 53.9 / 7.4 vs 46.7 / 8.8 (+7.2). Claude-3.7 46.3 / 7.3 vs 41.7 / 8.0 (+4.6). Table 2 SWE-Verified: Flash 38.8 / 27.5 vs 34.2 / 30.3; Pro 57.4 / 19.8 vs 54.0 / 21.1. MaTTS parallel Shopping 49.7 (k=1) → 55.1 (k=5).",
+      "kind": "benchmark",
+      "evidence": "pdfminer extract of 2509.25140v2.pdf (5,545,249 B). Prose: improves overall SR on WebArena by +8.3, +7.2, and +4.6. Table 2 rows match. MaTTS parallel 49.7 to 55.1.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087143369181114868#c4",
+      "text": "Live github.com/google-research/reasoning-bank is Apache-2.0, 561 stars / 66 forks, description null, README 5,783 B. Disclaimer: not an official Google product; demo-only. OpenReview forum jL7fwchScm was challenge-gated (307) this pass.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-04: license Apache-2.0, stargazers_count 561, forks_count 66, description null. OpenReview Location=/challenge.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -63,7 +83,7 @@
   "links": {
     "canonical": "https://github.com/google-research/reasoning-bank",
     "repo": "https://github.com/google-research/reasoning-bank",
-    "paper": null,
+    "paper": "https://arxiv.org/abs/2509.25140",
     "product": null,
     "other": [],
     "related_items": [

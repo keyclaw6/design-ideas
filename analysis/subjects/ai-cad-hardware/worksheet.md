@@ -46,6 +46,6 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 
 ## ai-cad-hardware — next capture work
 
-1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools and `export` formats (`step`, `f3d`, …) are on [autodesk-fusion](../../tools/autodesk-fusion.md). Remaining: a STEP/F3D of the ring assembly (author did not share a file; this host has no Fusion seat).
+1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools and `export` formats (`step`, `f3d`, …) are on [autodesk-fusion](../../tools/autodesk-fusion.md). Quoted X article **2089992746178150400** (title *GPT + Autodesk Fusion MCP…*; 14,743 chars via fxtwitter) documents Codex `127.0.0.1:27182/mcp` and argues MCP is not text-to-3D. Remaining: a STEP/F3D of the ring assembly (article has none; this host has no Fusion seat).
 2. Keep PCB items (autoroute, OpenEMS, Fields Studio) in a separate shortlist from CadX demos.
 3. Do not expand keyboard coverage beyond boards already in the roster.

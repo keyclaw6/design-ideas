@@ -63,7 +63,8 @@
       "text": "@a_shimanski Increíble performance compañero! Es para https://t.co/cTa5Jep0AT? \n\nHe estado trasteando con esto pero el dominio aún es muy nuevo ( poco más de dos semanas) pero ya tengo más de 1k impresiones por día, a ver si Google/Bing le toman cariño 🙏🏼",
       "text_en": null,
       "urls": [
-        "https://t.co/cTa5Jep0AT"
+        "https://t.co/cTa5Jep0AT",
+        "https://aiedit.com/"
       ],
       "media_urls": [],
       "metrics": {
@@ -113,6 +114,20 @@
       "target": "https://api.fxtwitter.com/a_shimanski/status/2094770895021572502",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-04T23:23:44Z",
+      "method": "other",
+      "target": "https://t.co/cTa5Jep0AT",
+      "outcome": "ok",
+      "note": "301 Location=https://aiedit.com/"
+    },
+    {
+      "at": "2026-09-04T23:25:14Z",
+      "method": "other",
+      "target": "https://aiedit.com/",
+      "outcome": "ok",
+      "note": "200 193759 B; title AI Edit Image & Video Creation Platform | 100+ AI Models | 20+ AI Tools; og 15+ AI tools; not one-page one-job"
     }
   ],
   "raw_payloads": [

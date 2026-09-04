@@ -142,12 +142,13 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2032671842230501729#c2` | Research DAG links observations and experiments across ML, search, finance, and skills so AutoThinker proposes cross-… | stated | [Hyperspace v3: generic Karpathy autor…](../../items/x-2032671842230501729/card.md) |
 | `x-2032671842230501729#c3` | Warps are declarative presets (power-mode, privacy-mode, GPU sentinel) stackable to change overnight agent behavior. | stated | [Hyperspace v3: generic Karpathy autor…](../../items/x-2032671842230501729/card.md) |
 | `x-2074912810803560497#c1` | Author claims Codex auto-kerneling on GPU Mode's qr_v2 problem achieved 212× faster kernel performance over baseline. | stated | [Codex auto-research loop: 212× faster…](../../items/x-2074912810803560497/card.md) |
+| `x-2074912810803560497#c2` | Live GPU Mode API ranks sankalp1999 26th at 3916.103 µs (submission_id 796445), not the blog's 12th / 1,805 µs. | demonstrated | [Codex auto-research loop: 212× faster…](../../items/x-2074912810803560497/card.md) |
 | `x-2080856252687745093#c1` | Autoresearch turns manual experimentation into a continuous propose-run-evaluate-learn loop. | stated | [Aman Chadha autoresearch and Meta-Har…](../../items/x-2080856252687745093/card.md) |
 | `x-2080856252687745093#c2` | Meta-Harness extends search to prompts, retrieval, memory, tools, state, parsers, and control flow. | stated | [Aman Chadha autoresearch and Meta-Har…](../../items/x-2080856252687745093/card.md) |
 | `x-2082316720086405524#c1` | Author disables all agent permission checks and skips auto-review, treating the machine as an employee laptop not a p… | stated | [Kun Chen YOLO-agent ops: disposable N…](../../items/x-2082316720086405524/card.md) |
 | `x-2082316720086405524#c2` | Recovery path is nix-darwin plus home-manager dotfiles: wipe, clone, rebuild in minutes. | stated | [Kun Chen YOLO-agent ops: disposable N…](../../items/x-2082316720086405524/card.md) |
 
-Full set: claims.jsonl (65 rows)
+Full set: claims.jsonl (67 rows)
 
 ## agent-harness-loops — comparison axes
 

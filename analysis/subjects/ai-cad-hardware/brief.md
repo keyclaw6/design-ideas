@@ -97,8 +97,9 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2091891133286605067#c2` | Freerouting could not complete the same board after twenty-five minutes of routing. | stated | [Custom PCB autorouter finishes keyboa…](../../items/x-2091891133286605067/card.md) |
 | `x-2092106682302140648#c1` | AI automated schematic design finishes in one hour what takes a skilled engineer half a day. | stated | [SipeedLab claim — AI schematic design…](../../items/x-2092106682302140648/card.md) |
 | `x-2093020107509514674#c1` | A custom KiCad plus OpenEMS harness can check signal integrity of a PCB design before fabrication. | demonstrated | [KiCad + OpenEMS harness flags PCB sig…](../../items/x-2093020107509514674/card.md) |
+| `x-2093305736717545869#c3` | Quoted Fusion X article documents Codex MCP at 127.0.0.1:27182/mcp (14,743-char fxtwitter body). | demonstrated | [Fusion MCP stress-test: weird concent…](../../items/x-2093305736717545869/card.md) |
 
-Full set: claims.jsonl (24 rows)
+Full set: claims.jsonl (27 rows)
 
 ## ai-cad-hardware — comparison axes
 

@@ -39,6 +39,26 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2074912810803560497#c2",
+      "text": "Live GPU Mode API leaderboard/773 (ended) ranks sankalp1999 26th at 3916.103 µs (submission_id 796445, submission_homura.py, 420 LOC, 86 submissions) — not the blog's contest-time 12th / 1,805 µs. #1 nikhilbarhate99 is 704.865 µs (id 795226).",
+      "kind": "counter-claim",
+      "evidence": "GET https://www.gpumode.com/api/leaderboard/773 200 / 50,694 B. B200 rankings[25]: user_name sankalp1999 rank 26 score 0.003916102791313636 submission_id 796445. HTML /leaderboard/773 is a 1.6 KB SPA stub.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/codex.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2074912810803560497#c3",
+      "text": "Official API names the contest qr (Python, B200, deadline 2026-06-30, time_left ended) with 85 ranked users. Author reply t.co/hBpJvk3YZV 301s to a photo, not submit_logs/. Public submit_logs/ is still missing; the Harbor id is 796445 from the JSON API.",
+      "kind": "availability",
+      "evidence": "API data.name=qr, gpu_types=[B200], n_rankings=85. t.co/hBpJvk3YZV Location=.../photo/1. See analysis/_work/captures/gpumode-773-api.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/codex.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": [],
@@ -48,6 +68,24 @@
       "value": "212",
       "unit": "×",
       "source": "post"
+    },
+    {
+      "label": "live board rank (sankalp1999)",
+      "value": "26",
+      "unit": "of 85",
+      "source": "linked-page"
+    },
+    {
+      "label": "live board geomean",
+      "value": "3916.103",
+      "unit": "µs",
+      "source": "linked-page"
+    },
+    {
+      "label": "GPU Mode submission_id",
+      "value": "796445",
+      "unit": null,
+      "source": "linked-page"
     }
   ],
   "techniques": [

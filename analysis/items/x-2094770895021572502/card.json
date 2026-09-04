@@ -59,6 +59,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c4",
+      "text": "TurjoAt reply t.co/cTa5Jep0AT 301s to https://aiedit.com/. Live title is AI Edit: Image & Video Creation Platform | 100+ AI Models | 20+ AI Tools (og: 15+ AI tools). That host is a multi-model creation platform, not a one-page one-job tool.",
+      "kind": "counter-claim",
+      "evidence": "t.co 301 Location=https://aiedit.com/. GET 200 / 193,759 B. Title and og:description on analysis/_work/captures/aiedit-com-2026-09-04.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/serp-keyword-research.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],

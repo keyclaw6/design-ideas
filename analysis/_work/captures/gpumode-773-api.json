@@ -1,0 +1,131 @@
+{
+  "fetched": "2026-09-04T23:23:43Z",
+  "url": "https://www.gpumode.com/api/leaderboard/773",
+  "http": 200,
+  "bytes": 50694,
+  "code": 0,
+  "name": "qr",
+  "lang": "Python",
+  "gpu_types": [
+    "B200"
+  ],
+  "deadline": "2026-06-30T00:00:00+00:00",
+  "time_left": "ended",
+  "n_rankings_B200": 85,
+  "benchmarks": [
+    {
+      "batch": 20,
+      "cond": 1,
+      "n": 32,
+      "seed": 43214
+    },
+    {
+      "batch": 40,
+      "cond": 1,
+      "n": 176,
+      "seed": 423011
+    },
+    {
+      "batch": 40,
+      "cond": 1,
+      "n": 352,
+      "seed": 123456
+    },
+    {
+      "batch": 640,
+      "cond": 2,
+      "n": 512,
+      "seed": 1029
+    },
+    {
+      "batch": 60,
+      "cond": 2,
+      "n": 1024,
+      "seed": 75342
+    },
+    {
+      "batch": 8,
+      "cond": 1,
+      "n": 2048,
+      "seed": 224466
+    },
+    {
+      "batch": 2,
+      "cond": 1,
+      "n": 4096,
+      "seed": 32412
+    }
+  ],
+  "top5": [
+    {
+      "rank": 1,
+      "user_name": "nikhilbarhate99",
+      "score": 0.000704865232005902,
+      "submission_id": 795226,
+      "file_name": "submission_kiki.py",
+      "submission_count": 361,
+      "line_count": 1040,
+      "submission_time": "2026-06-14T19:12:03.505022+00:00"
+    },
+    {
+      "rank": 2,
+      "user_name": "badelsteinlelbach",
+      "score": 0.0012085341811918096,
+      "submission_id": 797383,
+      "file_name": "submission.py",
+      "submission_count": 104,
+      "line_count": 12521,
+      "submission_time": "2026-06-15T03:38:51.865162+00:00"
+    },
+    {
+      "rank": 3,
+      "user_name": "Sinatras",
+      "score": 0.0020018249252674717,
+      "submission_id": 797147,
+      "file_name": "submission.py",
+      "submission_count": 207,
+      "line_count": 1526,
+      "submission_time": "2026-06-15T02:34:57.392976+00:00"
+    },
+    {
+      "rank": 4,
+      "user_name": "Maheshram1",
+      "score": 0.0020665778245513265,
+      "submission_id": 796711,
+      "file_name": "submission_popcorn.py",
+      "submission_count": 299,
+      "line_count": 2007,
+      "submission_time": "2026-06-15T00:50:38.053779+00:00"
+    },
+    {
+      "rank": 5,
+      "user_name": "elianaive",
+      "score": 0.0022212558551597153,
+      "submission_id": 797107,
+      "file_name": "v053.py",
+      "submission_count": 127,
+      "line_count": 1431,
+      "submission_time": "2026-06-15T02:23:09.445446+00:00"
+    }
+  ],
+  "sankalp": [
+    {
+      "file_name": "submission_homura.py",
+      "line_count": 420,
+      "prev_score": 0.0001213858207030705,
+      "rank": 26,
+      "score": 0.003916102791313636,
+      "submission_count": 86,
+      "submission_id": 796445,
+      "submission_time": "2026-06-14T23:59:36.631563+00:00",
+      "user_name": "sankalp1999",
+      "validation_checked_at": null,
+      "validation_contract_version": null,
+      "validation_fully_validated": null,
+      "validation_geomean_speedup": null,
+      "validation_shapes_passed": null,
+      "validation_shapes_total": null,
+      "validation_status": null
+    }
+  ]
+}

@@ -103,10 +103,11 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2086920236079681607#c1` | Layer one is a markdown knowledge base that acts as the source of truth. | stated | [EP Hermes agent prompt for four-layer…](../../items/x-2086920236079681607/card.md) |
 | `x-2086920236079681607#c2` | Layer two is a persistent memory pointer so every future session knows where the vault lives. | stated | [EP Hermes agent prompt for four-layer…](../../items/x-2086920236079681607/card.md) |
 | `x-2087143369181114868#c1` | ReasoningBank stores reasoning process from both successful and failed trajectories, framing experience memory as a t… | stated | [ReasoningBank: Google Research memory…](../../items/x-2087143369181114868/card.md) |
+| `x-2087143369181114868#c3` | arXiv:2509.25140v2 Table 1 WebArena Flash 48.8 vs 40.5; SWE Flash 38.8 vs 34.2; MaTTS Shopping 55.1 at k=5. | demonstrated | [ReasoningBank: Google Research memory…](../../items/x-2087143369181114868/card.md) |
 | `x-2087208634493095978#c1` | Memoria versions AI agent memory with snapshots, branches, and merges. | stated | [Memoria — git-like snapshots and bran…](../../items/x-2087208634493095978/card.md) |
 | `x-2087208634493095978#c2` | README positions Memoria as the first git for AI agent memory with zero-copy branching on MatrixOne. | stated | [Memoria — git-like snapshots and bran…](../../items/x-2087208634493095978/card.md) |
 
-Full set: claims.jsonl (40 rows)
+Full set: claims.jsonl (42 rows)
 
 ## agent-memory-knowledge — comparison axes
 

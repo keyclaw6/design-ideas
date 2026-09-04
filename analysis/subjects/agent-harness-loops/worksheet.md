@@ -52,6 +52,6 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 
 ## agent-harness-loops — next capture work
 
-1. popcorn CLI install/submit and the **live board** (sankalp1999 26th / 3916 µs vs blog 12th / 1805 µs) are on [codex](../../tools/codex.md). Remaining: one Harbor/popcorn submission id from the author’s `submit_logs/`.
-2. Headlong cloc 1.98 (**9,912 code**) vs `wc` 13,947 vs README ~11K, and the reddit-karma prompt location, are on the tool NOTES. Remaining: author’s popcorn `submit_logs/` id (five public sankalp1999 gists are unrelated; GitHub code search 401).
+1. popcorn CLI install/submit and the **live board** (sankalp1999 26th / 3916 µs vs blog 12th / 1805 µs) are on [codex](../../tools/codex.md). GPU Mode `GET /api/leaderboard/773` restores the integers the HTML SPA dropped and names Harbor `submission_id` **796445**. Remaining: the author’s public `submit_logs/` tree (reply `t.co/hBpJvk3YZV` is a photo; five gists unrelated; GitHub code search 401).
+2. Headlong cloc 1.98 (**9,912 code**) vs `wc` 13,947 vs README ~11K, and the reddit-karma prompt location, are on the tool NOTES. Remaining: same missing `submit_logs/` tree (API id 796445 is not a log dump).
 3. Chadha primer is live at `https://aman.ai/primers/ai/autoresearch-and-metaharness/` (**308,037** B, 14 H2 / 143 H3). `autoresearch.aman.ai` still times out; `aman.ai/autoresearch` is still **404**. Five-component working definition + Meta-Harness optimize list on [autoresearch-loop](../../techniques/autoresearch-loop.md). Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.

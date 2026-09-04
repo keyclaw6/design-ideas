@@ -1,7 +1,7 @@
 # Thread — Free one-page tools SEO playbook via Bing keyword research (x-2094770895021572502)
 
 **Status:** captured_partial · **Author thread:** none · **Replies reported:** 26 · **Captured:** 3 · **Relevant:** 2 · **Unfetched:** 23 · **Truncated:** False
-**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z)
+**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z); other→ok (2026-09-04T23:23:44Z); other→ok (2026-09-04T23:25:14Z)
 **Raw payloads:** `raw/items/x-2094770895021572502/thread-raw/x-web-dom-20260904T175334Z.html`
 
 **Author continuation (0 posts).**

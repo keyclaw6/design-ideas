@@ -56,7 +56,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 ## serp-ai-visibility — next capture work
 
 1. CrowdReply `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap, not 4%→40% / 11 weeks ([crowdreply-mcp](../../tools/crowdreply-mcp.md)). Remaining: a keyed session and the X article body.
-2. Shimanski tool URLs from the must-read card are live (200) but several are now platforms/extensions, not one-job pages ([serp-keyword-research](../../techniques/serp-keyword-research.md)). Thread still 26/3.
+2. Shimanski tool URLs from the must-read card are live (200) but several are now platforms/extensions, not one-job pages ([serp-keyword-research](../../techniques/serp-keyword-research.md)). TurjoAt `t.co/cTa5Jep0AT` **301 → aiedit.com** (100+ models / 15+ tools platform). Thread still 26/3.
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
 5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing.
