@@ -39,10 +39,10 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 
 - Grok marketing-bot pack — wrappers, no audit artifact.
 - CrowdReply Grok setup — citation outreach; primary is serp-ai-visibility.
-- Vacca “warm-before-email lift” until the lift number has a property and a date window.
+- Vacca tweet 3× / 1,000 meetings / 5–11% — still tweet-only. Frontal case studies that *are* first-party: Playbook 20 opps / 20 days / 300+ replies; Teikametrics $300K+ / 9 mo; Aircall 3,655 accounts / 6 mo ([clay](../../tools/clay.md)).
 
 ## outbound-gtm-agents — next capture work
 
 1. Run People Search Bench against treg and one BYO-key provider; store the score table.
 2. Gojiberry **13** agent files + MCP tool map are on [gojiberry-mcp](../../tools/gojiberry-mcp.md). 97/1 is still tweet + Slack still ([gojiberryai](../../tools/gojiberryai.md)). Remaining: a filled ICP for that run.
-3. Keep MapsData and Instantly math in a “capacity” note, not in the first agent install.
+3. Vacca linked product pages are fetched ([clay](../../tools/clay.md)). Remaining: a property + date window for the 3× / 1,000-meeting tweet claims. MapsData/Instantly 10k/day stays capacity math.

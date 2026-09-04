@@ -8,4 +8,6 @@
 
 <!-- NOTES:START -->
 
+**2026-09-04 capture — named in Frontal Playbook case study.** Playbook outbound stack is Clay enrichment + Instantly campaigns (`https://frontal.so/case-studies/playbook`). Instantly is the sequencer in that write-up, not the source of the Vacca 97/1 or 1,000-meeting tweet numbers.
+
 <!-- NOTES:END -->
