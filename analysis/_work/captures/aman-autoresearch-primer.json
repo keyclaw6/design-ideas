@@ -1,0 +1,43 @@
+{
+  "fetched_at": "2026-09-04T22:53:16Z",
+  "url": "https://aman.ai/primers/ai/autoresearch-and-metaharness/",
+  "http": 200,
+  "bytes": 308037,
+  "title": "Aman's AI Journal • Primers • Autoresearch and Metaharness",
+  "h1": "Primers • Autoresearch and Metaharness",
+  "h2_count": 14,
+  "h3_count": 143,
+  "neighbor_hosts": {
+    "https://autoresearch.aman.ai/": "connect-timeout (prior + this pass still not used as the live page)",
+    "https://aman.ai/autoresearch": 404,
+    "https://aman.ai/": {"http": 200, "bytes": 64480, "title": "aman.ai • the art of artificial intelligence", "primer_href": "primers/ai/autoresearch-and-metaharness"}
+  },
+  "citation": {
+    "bibtex_id": "Chadha2020DistilledAutoresearchMetaharness",
+    "title": "Autoresearch and Metaharness",
+    "authors": "Chadha, Aman and Jain, Vinija",
+    "journal": "Distilled AI",
+    "year": "2020",
+    "note": "https://aman.ai"
+  },
+  "quotes": {
+    "overview": "Autoresearch is the practice of turning experimental research into an agent-run optimization loop: an AI coding agent proposes a change, edits an executable research artifact, runs a bounded experiment, reads the metric, keeps or reverts the change, and repeats until the search budget is exhausted.",
+    "karpathy": "karpathy/autoresearch gives the agent a compact LLM training setup, lets it edit train.py, runs fixed 5-minute training experiments, evaluates val_bpb",
+    "working_definition": "autoresearch means an autonomous, metric-driven, code-editing research loop with five components: a bounded experimental sandbox, an editable artifact, a proposer agent, an evaluator, and a durable memory of attempts.",
+    "meta_harness_fit": "Meta-Harness is the natural generalization of autoresearch from “optimize a training file” to “optimize the harness around an LLM system.”",
+    "what_gets_optimized": [
+      "Prompt construction",
+      "Retrieval policy",
+      "Memory update",
+      "Tool orchestration",
+      "Output parsing and repair"
+    ],
+    "harness_def": "A harness is the executable environment wrapped around a fixed model. ... The harness is therefore a policy over context and control flow."
+  },
+  "counts_in_html": {
+    "autoresearch": 133,
+    "meta-harness": 45,
+    "karpathy/autoresearch": 7,
+    "val_bpb": 7
+  }
+}
