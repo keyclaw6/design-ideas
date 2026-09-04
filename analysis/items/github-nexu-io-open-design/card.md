@@ -2,7 +2,7 @@
 
 `github-nexu-io-open-design` · github · repo · en · [source](https://github.com/nexu-io/open-design) · [raw](../../../raw/items/github-nexu-io-open-design/)
 **Author:** nexu-io (@nexu-io) · **Published:** — · **Captured:** 2026-09-02T17:15:42Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Also:** [code-motion-graphics](../../subjects/code-motion-graphics/brief.md) · **Roles:** tool, example · **Platforms:** cursor, codex, cli
 
 **Summary.** Open-source desktop app (macOS/Windows) where coding agents drive design: prototypes, dashboards, decks, images, video, and HyperFrames motion graphics with DESIGN.md brand contracts and exports to HTML/PDF/PPTX/MP4.
@@ -11,7 +11,8 @@
 **Claims.**
 - `github-nexu-io-open-design#c1` (capability, stated) Marketed as the open-source Claude Design alternative with a discover-brief-lock-critique-deliver agent loop. — evidence: "The open-source Claude Design alternative." [media]
 - `github-nexu-io-open-design#c2` (capability, stated) Supports Claude Code, Codex, Cursor, DeepSeek Harness, and 26+ CLIs via BYOK with six artifact types and live iframe preview. — evidence: "Supports Claude Code, Codex, Cursor, DeepSeek Harness (dsh), 26+ CLIs via BYOK" [linked-page]
-**Numbers.** GitHub stars: 93582  (note)
+- `github-nexu-io-open-design#c3` (availability, demonstrated) Live GitHub API: Apache-2.0, 94,085 stars / 10,862 forks. README 58,746 B. Comparison table says 277 plugins; 0.8.0 changelog says 261 official plugins. Official dirs: design-systems 143, video-templates 63, image-templates 45, atoms 13, examples 183. Do not collapse 261/277. Product open-design.ai 200 / 339,680 B. — evidence: "api.github.com/repos/nexu-io/open-design stargazers_count 94085. README table + 0.8.0 line. Site GET 200. See analysis/tools/open-design.md." [note]
+**Numbers.** GitHub stars: 94085  (note)
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md), [remotion-code-video](../../techniques/remotion-code-video.md)
 **Tools.** [open-design](../../tools/open-design.md), [hyperframes](../../tools/hyperframes.md)

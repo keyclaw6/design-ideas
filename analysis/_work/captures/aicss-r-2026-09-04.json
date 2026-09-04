@@ -1,0 +1,103 @@
+{
+  "fetched": "2026-09-04T23:35:00Z",
+  "url": "https://www.aicss.dev/r",
+  "http": 200,
+  "bytes": 3042,
+  "name": "AICSS Registry",
+  "description": "Machine-readable index of AICSS components. Fetch /r/{slug} for a single component. Locked components require an API token (Authorization: Bearer <token>) available at /account.",
+  "total": 14,
+  "free": 10,
+  "locked": 4,
+  "slugs": [
+    {
+      "slug": "thinking-state",
+      "name": "Thinking State",
+      "category": "Thinking & Reasoning",
+      "tier": "free"
+    },
+    {
+      "slug": "thinking-reasoning",
+      "name": "Thinking + Reasoning",
+      "category": "Thinking & Reasoning",
+      "tier": "free"
+    },
+    {
+      "slug": "orbs",
+      "name": "Orbs",
+      "category": "Thinking & Reasoning",
+      "tier": "free"
+    },
+    {
+      "slug": "text-response",
+      "name": "Text Response",
+      "category": "Text Outputs",
+      "tier": "free"
+    },
+    {
+      "slug": "streaming-text",
+      "name": "Streaming Text",
+      "category": "Text Outputs",
+      "tier": "free"
+    },
+    {
+      "slug": "code-block",
+      "name": "Code Block",
+      "category": "Text Outputs",
+      "tier": "free"
+    },
+    {
+      "slug": "task-list",
+      "name": "To-do List",
+      "category": "Structured Outputs",
+      "tier": "free"
+    },
+    {
+      "slug": "data-table",
+      "name": "Data Table",
+      "category": "Structured Outputs",
+      "tier": "free"
+    },
+    {
+      "slug": "ai-agent-input",
+      "name": "AI Agent Input",
+      "category": "Rich & Interactive",
+      "tier": "free"
+    },
+    {
+      "slug": "approval-card",
+      "name": "Approval Card",
+      "category": "Rich & Interactive",
+      "tier": "free"
+    },
+    {
+      "slug": "file-diff",
+      "name": "File Diff",
+      "category": "Tool & Action States",
+      "tier": "locked"
+    },
+    {
+      "slug": "image-generation",
+      "name": "Image Generation",
+      "category": "Tool & Action States",
+      "tier": "locked"
+    },
+    {
+      "slug": "inline-citations",
+      "name": "Inline Citations",
+      "category": "Text Outputs",
+      "tier": "locked"
+    },
+    {
+      "slug": "comparison-table",
+      "name": "Comparison Table",
+      "category": "Structured Outputs",
+      "tier": "locked"
+    }
+  ],
+  "home": {
+    "url": "https://www.aicss.dev/",
+    "http": 200,
+    "bytes": 321914,
+    "title": "AICSS \u00b7 UI components for AI agents"
+  }
+}

@@ -53,13 +53,23 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-nexu-io-open-design#c3",
+      "text": "Live GitHub API: Apache-2.0, 94,085 stars / 10,862 forks. README 58,746 B. Comparison table says 277 plugins; 0.8.0 changelog says 261 official plugins. Official dirs: design-systems 143, video-templates 63, image-templates 45, atoms 13, examples 183. Do not collapse 261/277. Product open-design.ai 200 / 339,680 B.",
+      "kind": "availability",
+      "evidence": "api.github.com/repos/nexu-io/open-design stargazers_count 94085. README table + 0.8.0 line. Site GET 200. See analysis/tools/open-design.md.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/open-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
   "numbers": [
     {
       "label": "GitHub stars",
-      "value": "93582",
+      "value": "94085",
       "unit": null,
       "source": "note"
     }
@@ -111,10 +121,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,

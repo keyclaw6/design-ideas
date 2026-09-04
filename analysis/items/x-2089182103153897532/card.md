@@ -2,7 +2,7 @@
 
 `x-2089182103153897532` · x · product · en · [source](https://x.com/scottymatt/status/2089182103153897532) · [raw](../../../raw/items/x-2089182103153897532/)
 **Author:** Scotty Matthewman (@scottymatt) · **Published:** — · **Captured:** 2026-09-04T06:35:40Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [landing-ui-motion](../../subjects/landing-ui-motion/brief.md) · **Also:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Roles:** tool, reference · **Platforms:** react, cursor
 
 **Summary.** Reaction link to aicss.dev: 14 copy-paste UI components for AI agent conversations—thinking states, tool calls, streaming text, approvals—with React/Vue/Svelte snippets and an agent-ingestible /r JSON index.
@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2089182103153897532#c1` (capability, stated) AICSS ships 14 components for AI agent chat UI including thinking states, tool calls, and streaming text. — evidence: "14 components; 10 free, rest behind a one-time license." [reply]
 - `x-2089182103153897532#c2` (recipe, stated) Components expose a programmatic index at /r and /r/{slug} with optional ?format=md for agent ingestion. — evidence: "Programmatic index at `/r` and `/r/{slug}` (JSON) plus `?format=md` for agent-ingestible prompts." [reply]
+- `x-2089182103153897532#c3` (availability, demonstrated) Live GET /r is 200 / 3,042 B: total 14, free 10, locked 4 (file-diff, image-generation, inline-citations, comparison-table). Homepage 200 / 321,914 B titled AICSS · UI components for AI agents. — evidence: "JSON keys total/free/components. Locked require Authorization Bearer from /account. See analysis/_work/captures/aicss-r-2026-09-04.json." [note]
 **Numbers.** component count: 14 components (reply)
 **Recipe.** —
 **Techniques.** —

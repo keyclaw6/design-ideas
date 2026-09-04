@@ -53,3 +53,4 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 2. Transfer sizes + SwiftShader CPU rAF (mean 102.49 ms / ~9.76 fps, n=20) are on [complete-shelf](../../tools/complete-shelf.md). Remaining: headed FPS on a laptop GPU. Fonts blocked the full-page PNG.
 3. `/improve-threejs` SKILL.md is in `aidenybai/react-doctor`. `npx react-doctor@latest` **0.9.13** on loopany-platform: React 19 / tanstack-start / **hasThree false** / score 100 with empty rules under `--no-lint`. The 10-row visual rubric was not run (no R3F surface in that clone). Thread still 55/1.
 4. Keep splat viewers out of this stack; if the page *is* a splat, use the gaussian-splatting worksheet.
+5. utsubo.com live **200 / 72,976 B**; “0% BETTER WITH SPEAKERS ON” is in the HTML ([scroll-driven-3d](../../techniques/scroll-driven-3d.md)). Card is now `ready`.

@@ -1,0 +1,25 @@
+{
+  "fetched": "2026-09-04T23:35:00Z",
+  "github_api": {
+    "full_name": "nexu-io/open-design",
+    "stars": 94085,
+    "forks": 10862,
+    "license": "Apache-2.0"
+  },
+  "readme_bytes": 58746,
+  "site": {
+    "url": "https://open-design.ai/",
+    "http": 200,
+    "bytes": 339680,
+    "title": "OpenDesign \u2014 Best Open Source Claude Design Alternative"
+  },
+  "readme_plugin_table": "277 plugins",
+  "readme_0_8_0": "261 official plugins",
+  "official_dirs": {
+    "design-systems": 143,
+    "video-templates": 63,
+    "image-templates": 45,
+    "atoms": 13,
+    "examples": 183
+  }
+}

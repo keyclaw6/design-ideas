@@ -181,7 +181,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `github-pbakaus-impeccable#c2` | 61 deterministic detector rules flag Inter-everywhere, purple-blue gradients, and card-in-card patterns without calli… | stated | [Impeccable: agent design skill with P…](../../items/github-pbakaus-impeccable/card.md) |
 | `web-aidesigner-mcp#c1` | AIDesigner exposes 21 MCP tools for design generation, refinement, brand kits, and editor sessions. | stated | [AIDesigner remote MCP for in-repo HTM…](../../items/web-aidesigner-mcp/card.md) |
 
-Full set: claims.jsonl (100 rows)
+Full set: claims.jsonl (101 rows)
 
 ## design-agent-skills — comparison axes
 

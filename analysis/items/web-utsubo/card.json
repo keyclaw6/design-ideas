@@ -39,6 +39,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-utsubo#c2",
+      "text": "Live GET https://www.utsubo.com/ is 200 / 72,976 B. Title Utsubo - Embark on New Frontiers of Digital Experiences. Visible copy includes 0% BETTER WITH SPEAKERS ON and technology-first creative studio crafting ambitious digital experiences with no technical limits.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/utsubo-2026-09-04.json. Quote present in the HTML text extract.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/scroll-driven-3d.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": null,
@@ -75,10 +85,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
