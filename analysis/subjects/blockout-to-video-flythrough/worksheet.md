@@ -47,6 +47,6 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 ## blockout-to-video-flythrough — next capture work
 
 1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file).
-2. CozyClay README + MCP tool list are on the tool page. Remaining: one live `frame_shot` / `render_prompt` against a dummy `.cclayproject`.
+2. CozyClay `mcp` verify (25 tools, 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip) is on [cozyclay](../../tools/cozyclay.md). Remaining: headed `capture_frame` / live editor.
 3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
 4. Do not expand this lane with more model-launch tweets.

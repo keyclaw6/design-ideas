@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2094061655990702150#c2",
+      "text": "video-use README (2026-09-04) still describes a local-folder editor: clone/symlink + ffmpeg, drop takes in a directory, write edit/final.mp4. Browser Use Cloud is optional, not required.",
+      "kind": "capability",
+      "evidence": "Drop raw footage in a folder… All outputs live in <videos_dir>/edit/. Cloud link is optional.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/video-use.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,

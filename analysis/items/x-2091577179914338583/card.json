@@ -51,6 +51,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2091577179914338583#c3",
+      "text": "CozyClay mcp verify (v1.7.0, no editor) lists 25 tools, checks 420 frame_shot combinations, and render_prompt (seedance_2 video) carries wide-shot / 24mm / both subjects. README 24-tool count is stale.",
+      "kind": "result",
+      "evidence": "npm run verify exit 0; listTools 25 including load_motion; render_prompt mode=video model=seedance_2; .cclayproject save/open round-trip.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cozyclay.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": null,
