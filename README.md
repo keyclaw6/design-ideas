@@ -6,12 +6,13 @@ This is **not** a product or public service. It is a structured archive of inter
 
 **Agent entry point:** [analysis/README.md](./analysis/README.md) → subject briefs → claims.jsonl → item cards. Legacy harvest tables remain under [catalog/](./catalog/README.md). See [AGENTS.md](./AGENTS.md).
 
-**Bank stats:** 388 analysis units (387 harvest folders + 1 note) · 17 subjects · 345 analyze / 43 shelf · Graphify covers `analysis/**/*.md` only.
+**Bank stats:** 388 analysis units (387 harvest folders + 1 note) · 17 subjects · 345 analyze / 43 shelf · each subject has a `worksheet.md` · Graphify covers `analysis/**/*.md` only.
 
 ## Current focus
 
-- **Now:** SERP / “syrups” (AEO/GEO), “freedom modeling” (image→3D world), Gaussian splatting, BESS blockout→video
-- **Later:** AI CAD / keyboards, local inference
+- **Now:** SERP / “syrups” (AEO/GEO), “freedom modeling” (image→3D world), Gaussian splatting, BESS blockout→video, web 3D scenes, landing motion, design-agent skills
+- **Standard / later:** remaining subjects — worksheets exist; capture gaps still open
+- **Judge path:** `analysis/subjects/<slug>/brief.md` then `worksheet.md` (short stack + axis scores; not a ranking)
 
 ## Layout
 

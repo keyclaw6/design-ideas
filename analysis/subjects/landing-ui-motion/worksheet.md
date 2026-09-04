@@ -1,0 +1,57 @@
+# Judgment worksheet: landing pages & UI motion (landing-ui-motion)
+
+Owner aliases: landing motion, UI kits, scroll. A design agent should copy a *finished grammar or a kit*, not invent slop. Skills that change how the agent designs live in [design-agent-skills](../design-agent-skills/worksheet.md).
+
+## landing-ui-motion — short stack to try
+
+1. **Scroll grammar, not a vibe.** [nateherk/scroll-craft](../../items/github-nateherkai-scroll-craft/card.md) (eight page grammars + refuse-lists). The Fable 5.1 walkthrough is the field note ([x-2094978216146452971](../../items/x-2094978216146452971/card.md)). The skill promo thread is the claim-source ([x-2093900284896657841](../../items/x-2093900284896657841/card.md)).
+2. **Installable kits (shadcn / React).** Cult UI ([web-cult-ui](../../items/web-cult-ui/card.md)), Originkit ([web-originkit-dev](../../items/web-originkit-dev/card.md)), Vengeance UI ([web-vengence-ui](../../items/web-vengence-ui/card.md)), 23rd.dev shader registry ([x-2089740155179643231](../../items/x-2089740155179643231/card.md)). ReactBits Pro is the “restyle 90%” argument ([x-2087812720762425743](../../items/x-2087812720762425743/card.md)), not a captured install.
+3. **Finished-page breakdowns to steal structure from.** Blume.codes four effects ([x-2094524951025914278](../../items/x-2094524951025914278/card.md)), scroll-scrubbed 300-frame Gemini + Framer ([x-2094984529853530345](../../items/x-2094984529853530345/card.md)), Cartier Ballon Bleu PDP ([web-cartier-ballon-bleu](../../items/web-cartier-ballon-bleu/card.md)), unive.ai shoutout ([x-2093774183356379560](../../items/x-2093774183356379560/card.md)).
+4. **Polish around the page.** TinyShots ([web-tinyshots](../../items/web-tinyshots/card.md)), DiceBear avatars ([web-dicebear](../../items/web-dicebear/card.md)). Flowmapp is agency planning, not motion ([web-flowmapp](../../items/web-flowmapp/card.md)).
+
+AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). Keep them if the landing is an agent product; skip them for a marketing hero.
+
+## landing-ui-motion — axis scores
+
+| item | finished-page vs kit | scroll vs hover/micro | copy-paste cost | shadcn/React | mobile covered |
+|---|---|---|---|---|---|
+| scroll-craft | grammar (generates a page) | high scroll-timeline | skill install + QA | high (Claude Code) | unknown (refuse-lists exist; no viewport log) |
+| Cult UI | kit + agent-pattern gallery | hover / app chrome | npm / registry | high | unknown |
+| Originkit | kit (363+ sections) | mixed (text, bg, galleries) | MCP import stated | React / Next | unknown |
+| Vengeance UI | kit (46 marketing parts) | hover + text motion | `npx shadcn add @vengeanceui/…` | high | unknown |
+| 23rd.dev | curated registry | shader / animated bg | shadcn add | React + Svelte | unknown |
+| ReactBits Pro | kit (paid) | marketing motion | restyle primitives | React | unknown |
+| AICSS / beautifului | kit (agent UI) | micro / streaming | copy-paste | React implied | unknown |
+| Blume.codes article | finished-page breakdown | seven-layer parallax + scroll-drawn | recipe, not a package | Next / Turborepo | unknown |
+| 300-frame scroll-scrub | finished technique | high (300 frames bound to scroll) | ChatGPT + Gemini + Ezgif + Claude | Framer Motion | unknown |
+| Cartier PDP | finished reference | luxury product motion | screenshot only | n/a | high (commerce PDP) |
+| recent.design / unive.ai / doss.com | reference feed or one page | varies | look, don’t install | n/a | unknown |
+| TinyShots | polish tool | n/a | macOS + CLI | n/a | n/a (screenshots) |
+| DiceBear | avatar API | n/a | HTTP / SDK | any | n/a |
+| Forja / Hogwarts / Brass Hands teasers | example stills or clips | motion implied | not reusable | unknown | unknown |
+
+## landing-ui-motion — claims that need a receipt
+
+- ReactBits Pro does “about 90%” of marketing motion ([x-2087812720762425743](../../items/x-2087812720762425743/card.md)) — author estimate, two-reply thread.
+- scroll-craft fingerprint gate on six dimensions — skill copy; need a before/after of the same landing failing the gate.
+- Fable 5.1 “matches Fable 5 landing quality at lower cost” — 149s walkthrough; no side-by-side stills in the card.
+- 300-frame Gemini → Framer bind — pipeline named; no public repo of the 300 frames.
+- Originkit “363+” and Cult “92+ AI SDK patterns” — marketing counts; confirm on the live registries.
+- Vengeance install command — stated on the card; not exercised here.
+
+One X primary is `failed` (see brief thread table). Do not read that silence as “no discussion.”
+
+## landing-ui-motion — do not treat as load-bearing
+
+- Pre-launch teasers and “polish beats paid attention” clips — mood, not a kit ([x-2093364419044794836](../../items/x-2093364419044794836/card.md), [x-2093024468209733756](../../items/x-2093024468209733756/card.md), [x-2095429087141515616](../../items/x-2095429087141515616/card.md)).
+- ViscousRealm controller-rooms — 80 Level feature, Blender illustration, not a web kit.
+- Flowmapp — sitemap/estimate SaaS; put it in planning, not motion.
+- Secondary skill packs (Impeccable, Taste, Emil, MengTo) — judge those on the design-agent-skills worksheet.
+- Secondary 3D pages (FeralUI, ORYZO, Utsubo) — web-3d-scenes.
+
+## landing-ui-motion — next capture work
+
+1. Install scroll-craft once and record which of the eight grammars it refuses on a default Claude landing.
+2. Diff Cult vs Originkit vs Vengeance on one hero + one pricing section (same copy) and note mobile breakpoints.
+3. Fetch the Blume.codes X article body if the card is still `linked-page-unfetched`.
+4. Re-fetch the failed landing-ui-motion thread listed in the brief.

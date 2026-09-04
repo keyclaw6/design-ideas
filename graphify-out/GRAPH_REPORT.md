@@ -1,16 +1,16 @@
 # Graph Report - design-ideas  (2026-09-04)
 
 ## Corpus Check
-- 966 files · ~171,501 words
+- 983 files · ~182,468 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 970 nodes · 4344 edges · 21 communities
+- 987 nodes · 4578 edges · 21 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `19bf7865`
+- Built from commit: `6507ab93`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after analysis markdown changes (heuristic rebuild: `python3 scripts/analysis/build_graph.py`).
 
@@ -42,7 +42,7 @@
 2. `Landing pages, UI component libraries, scroll motion, visual reference (landing-ui-motion)` - 206 edges
 3. `Agent harnesses, autoresearch loops, orchestration, agent ops (agent-harness-loops)` - 196 edges
 4. `AI video models, tools, and launch-video craft (ai-video-generation)` - 147 edges
-5. `blockout-then-video-model` - 140 edges
+5. `blockout-then-video-model` - 141 edges
 6. `SERP & AI-answer visibility (SEO / AEO / GEO) (serp-ai-visibility)` - 138 edges
 7. `Three.js / WebGL / WebGPU / Spline scenes on the web (web-3d-scenes)` - 130 edges
 8. `MCP servers, tool routers, agent browsers, computer-use (mcp-and-agent-browsers)` - 125 edges
