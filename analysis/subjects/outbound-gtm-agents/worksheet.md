@@ -45,4 +45,4 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 
 1. Run People Search Bench against treg and one BYO-key provider; store the score table.
 2. Gojiberry **13** agent files + MCP tool map are on [gojiberry-mcp](../../tools/gojiberry-mcp.md). 97/1 is still tweet + Slack still ([gojiberryai](../../tools/gojiberryai.md)). Remaining: a filled ICP for that run.
-3. Vacca linked product pages are fetched ([clay](../../tools/clay.md)). Remaining: a property + date window for the 3× / 1,000-meeting tweet claims. MapsData/Instantly 10k/day stays capacity math.
+3. Vacca `linked-page-unfetched` cleared — frontal.so + three case studies + GTM blog are on [clay](../../tools/clay.md). Thread stays `captured_partial` (7 reported / 3 captured) so readiness stays `ready-with-gaps`. Remaining: a property + date window for the 3× / 1,000-meeting tweet claims. MapsData/Instantly 10k/day stays capacity math.

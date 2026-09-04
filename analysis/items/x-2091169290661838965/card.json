@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2091169290661838965#c2",
+      "text": "OpenViking MCP endpoint exposes 15 named tools on :1933/mcp, including find, search (list|context), read of viking:// URIs, write/edit, and health.",
+      "kind": "capability",
+      "evidence": "docs/en/guides/06-mcp-integration.md: Once connected, OpenViking exposes 15 tools; table lists find, search, read, list, tree, remember, write, edit, add_resource, list_watches, cancel_watch, grep, glob, forget, health.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openviking.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -49,6 +59,12 @@
       "value": "91",
       "unit": "%",
       "source": "reply"
+    },
+    {
+      "label": "documented MCP tools",
+      "value": "15",
+      "unit": "tools",
+      "source": "note"
     }
   ],
   "techniques": [

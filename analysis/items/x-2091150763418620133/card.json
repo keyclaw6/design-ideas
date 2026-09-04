@@ -61,6 +61,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2091150763418620133#c4",
+      "text": "Local FreeToken clone is Apache-2.0 with 499 Python files; README now claims 290B+ on a gaming PC (older NOTES said 284B).",
+      "kind": "capability",
+      "evidence": "Clone FlashML-org/FreeToken: 499 .py files; pyproject.toml license Apache-2.0, torch>=2.11,<2.12; README lead: Run 290B+ frontier MoE models locally on your gaming PC.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/freetoken.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "recipe_steps": [],
@@ -76,6 +86,12 @@
       "value": "44",
       "unit": "seconds",
       "source": "post"
+    },
+    {
+      "label": "FreeToken clone Python files",
+      "value": "499",
+      "unit": "files",
+      "source": "note"
     }
   ],
   "techniques": [

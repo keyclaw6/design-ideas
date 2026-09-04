@@ -63,12 +63,24 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2088254428730085690#c4",
+      "text": "GitHub tag skill-v4.1.0 (2026-08-14) documents native iOS/Android verify, Windows install, live mode on ddev/valet, and full-fidelity comps.",
+      "kind": "capability",
+      "evidence": "https://github.com/pbakaus/impeccable/releases/tag/skill-v4.1.0 body: native verify-and-review pipeline; Windows install; ddev/Valet live mode; full-fidelity comps.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "impeccable"
+  ],
   "links": {
     "canonical": "http://impeccable.style",
     "repo": "https://github.com/pbakaus/impeccable",

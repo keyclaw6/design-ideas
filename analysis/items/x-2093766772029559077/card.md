@@ -12,10 +12,11 @@
 - `x-2093766772029559077#c1` (capability, stated) Library has DESIGN.md files for 2000+ products with colors, type, spacing, and component rules. — evidence: "the design language of 2,000+ of the world's best products into DESIGN.md files" [post]
 - `x-2093766772029559077#c2` (availability, stated) Free library hosted at styles.refero.design for Codex and Claude Code. — evidence: "The library is currently free to use:
 https://styles.refero.design/" [post]
-**Numbers.** —
+- `x-2093766772029559077#c3` (capability, demonstrated) Refero Linear record is a JSON designSystem (16 colors, 12 components, Agent Prompt Guide), not a downloadable DESIGN.md file. — evidence: "GET /api/styles/90ce5883-bb24-4466-93f7-801cd617b0d1 HTTP 200, 81180 bytes; fullResult.designSystem has dos/donts/colors/components/customSections; no .md attachment." [note]
+**Numbers.** Linear designSystem HTTP body: 81180 bytes (note)
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
+**Tools.** [styles-refero-design](../../tools/styles-refero-design.md)
 **Links.** product (https://styles.refero.design/)
 **Related items.** [web-styles-refero-design](../web-styles-refero-design/card.md)
 **Media.**

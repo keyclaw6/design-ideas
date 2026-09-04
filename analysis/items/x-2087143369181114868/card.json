@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087143369181114868#c2",
+      "text": "Author follow-up: do not dump raw failure traces; judge success/fail first, then compress to at most 3 reusable experiences of 1–3 sentences each.",
+      "kind": "recipe",
+      "evidence": "EN gloss of captured author reply (handle yibie): raw trajectory is evidence; the reflected strategy is the retrievable memory.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -74,8 +84,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-partial",
-    "translation-needed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [

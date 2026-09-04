@@ -134,9 +134,7 @@
     "legacy_filtered": true
   },
   "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "x-2095060844547592437",

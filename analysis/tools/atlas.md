@@ -17,7 +17,9 @@ Export is **not** “navigable field only.” Docs distinguish:
 - **Free plan generates worlds but does not export.** Standard: splat + pano + collider. Pro: HQ mesh + commercial rights.
 - Coordinates: OpenCV (+x left, +y down, +z forward); DCC often needs Y/Z scale −1.
 
-No logged-in export was run here. spark.js is the Three.js viewer path, not the mesh path — see [spark-js](spark-js.md).
+**2026-09-04 capture — billing caps + public example files.** `GET https://docs.worldlabs.ai/llms.txt` 200 (7,570 bytes). Markdown export pages (HTML `/export/...` 404s; use `/marble/export/.../*.md`). Account-billing.md names four tiers: Free **up to 4** world gens (text / single image / 360 pano, no export); Standard **up to 12** (multi-image/video/3D, edit, export, community download); Pro **up to 25** (expand, HQ textured mesh, commercial rights); Max **up to 75**. Credits: e.g. single-image gen **1,580** (1,500 world + 80 input); Marble credits ≠ World API credits. Public example CDN `https://wlt-ai-cdn.art/example_exports/…` (no login). Rustic kitchen (`69a9fc22-…`): collider GLB **2,976,256** bytes (glTF magic `glTF`); 500k SPZ **7,582,907** bytes (gzip); pano PNG **3,860,086** bytes, valid PNG. Docs “typical 3–4 MB” collider is in the same band. These are **official example files**, not a logged-in user-world export.
+
+No logged-in *user* export was run here. spark.js is the Three.js viewer path, not the mesh path — see [spark-js](spark-js.md).
 
 Agent skill (docs): `npx skills add worldlabsai/marble-developer-api-skill --skill marble-developer-api` (optional `--global`). Mirror: `worldlabsai/marble-developer-api-skill`. Skill name `marble-developer-api` — world gen, media upload, operation polling, OpenAPI snapshot. Do not paste API keys into prompts.
 <!-- NOTES:END -->

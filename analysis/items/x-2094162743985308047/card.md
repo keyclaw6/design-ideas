@@ -2,7 +2,7 @@
 
 `x-2094162743985308047` · x · thread · en · [source](https://x.com/itsalexvacca/status/2094162743985308047) · [raw](../../../raw/items/x-2094162743985308047/)
 **Author:** Alex Vacca (@itsalexvacca) · **Published:** — · **Captured:** 2026-09-04T07:36:49Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
 **Subject:** [outbound-gtm-agents](../../subjects/outbound-gtm-agents/brief.md) · **Also:** — · **Roles:** technique, claim-source · **Platforms:** —
 
 **Summary.** Frontal founder Alex Vacca argues B2B GTM should sequence channels: exhaust one outbound motion, add founder LinkedIn, wire warm-content viewers into email before a third channel, then monetize delivery assets. Same 1,000-email test tripled deals when prospects had seen content 3+ times.

@@ -52,6 +52,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094864872853119216#c3",
+      "text": "World Labs publishes unauthenticated example exports: rustic-kitchen collider GLB 2,976,256 bytes, 500k SPZ 7,582,907 bytes, and a 3,860,086-byte 360 PNG.",
+      "kind": "result",
+      "evidence": "GET wlt-ai-cdn.art/example_exports/rustic_kitchen_with_natural_light/{collider.glb,500k.spz,pano.png} HTTP 200; glTF magic / gzip / PNG signatures.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/atlas.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": null,
@@ -60,6 +70,18 @@
       "label": "video views at capture",
       "value": "19490",
       "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "rustic-kitchen collider GLB",
+      "value": "2976256",
+      "unit": "bytes",
+      "source": "note"
+    },
+    {
+      "label": "rustic-kitchen 500k SPZ",
+      "value": "7582907",
+      "unit": "bytes",
       "source": "note"
     }
   ],

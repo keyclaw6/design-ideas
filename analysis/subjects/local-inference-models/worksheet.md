@@ -26,7 +26,7 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 
 ## local-inference-models — claims that need a receipt
 
-- FreeToken split and prefill checkpoints — README + paper body ([freetoken](../../tools/freetoken.md)). Apache-2.0. Paper: 39.3 tok/s on 8 GB 4060 / 35B; TTFT <44 s vs baselines >150 s; 5090 77–83 tok/s (35B) and 22–25 tok/s (284B). Still no local `profile` here.
+- FreeToken split and prefill checkpoints — README + paper body ([freetoken](../../tools/freetoken.md)). Apache-2.0. Paper: 39.3 tok/s on 8 GB 4060 / 35B; TTFT <44 s vs baselines >150 s; 5090 77–83 tok/s (35B) and 22–25 tok/s (284B). Local clone: **499** `.py` files; `torch>=2.11,<2.12`; README now **290B+** (older NOTES 284B). Still no local `profile` here.
 - Unsloth “+10% on Div-300 and KLD” — provider blog; save the table.
 - 17GB / 8GB / 37GB / 39GB envelopes — restated; time tokens/s on a named GPU/CPU.
 - Edge8 44 tok/s and Bonsai 90 tok/s — device demos, no traces.
@@ -41,6 +41,6 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 
 ## local-inference-models — next capture work
 
-1. Paper tok/s and TTFT are on the tool NOTES. Remaining: one `profile` on a real GPU (none here).
+1. Paper tok/s/TTFT + clone file count are on the tool NOTES. Remaining: one `profile` on a real GPU (none here).
 2. Unsloth `Qwen3.8-27B-GGUF` is **apache-2.0**; Q4_0 file **16.06 GB**; UD-IQ1_S **6.19 GB**. Filenames + sizes on [unsloth](../../tools/unsloth.md). Remaining: a local load timing those envelopes.
 3. Leave Edge8 / Bonsai as device research until weights are linked.

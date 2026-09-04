@@ -13,7 +13,8 @@
 - `x-2094864872853119216#c2` (recipe, stated) Pipeline names atlas (World Labs), spark.js splat renderer, and three.js as the web stack. — evidence: "→ atlas (world labs)  
 → spark.js  
 → three.js" [post]
-**Numbers.** video views at capture: 19490  (note)
+- `x-2094864872853119216#c3` (result, demonstrated) World Labs publishes unauthenticated example exports: rustic-kitchen collider GLB 2,976,256 bytes, 500k SPZ 7,582,907 bytes, and a 3,860,086-byte 360 PNG. — evidence: "GET wlt-ai-cdn.art/example_exports/rustic_kitchen_with_natural_light/{collider.glb,500k.spz,pano.png} HTTP 200; glTF magic / gzip / PNG signatures." [note]
+**Numbers.** video views at capture: 19490  (note); rustic-kitchen collider GLB: 2976256 bytes (note); rustic-kitchen 500k SPZ: 7582907 bytes (note)
 **Recipe.** —
 **Techniques.** [image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md), [splat-pipeline](../../techniques/splat-pipeline.md)
 **Tools.** [atlas](../../tools/atlas.md), [spark-js](../../tools/spark-js.md), [three-js](../../tools/three-js.md)

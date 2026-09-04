@@ -8,7 +8,7 @@
 <!-- NOTES:START -->
 Fetched 2026-09-04.
 
-- Marketing home https://hyper3d.ai is **Rodin** (image/text → 3D asset), not a WorldGen explainer. `/worldgen` 404s. `/workspace/worldgen` is a logged-in SPA shell (11 KB HTML, no method text, no downloadable scene).
+- Marketing home https://hyper3d.ai is **Rodin** (image/text → 3D asset), not a WorldGen explainer. Re-fetch 2026-09-04: `https://hyper3d.ai/worldgen` still **404**. `https://www.hyper3d.ai/workspace/worldgen` HTTP **200**, **11,026**-byte login SPA. CAST arXiv:2502.12894 still 200. No public export.
 - Press (Yingmu / 影眸, 2026-09-01): one photo → per-object meshes (Rodin) + background as 3DGS; CAST reconstructs pose/scale/contact. CAST paper: Yao et al., arXiv:2502.12894, “CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image” (ShanghaiTech + Deemos). Pipeline in the abstract: open-vocab 2D seg + relative depth → GPT inter-object relations → occlusion-aware ObjectGen (MAE + partial point cloud) → AlignGen similarity transform → physics-aware SDF correction (penetration / float / contact). SIGGRAPH 2025 Best Paper (ACM awards post). Official workflow URL cited by 量子位: https://hyper3d.ai
 - CAST paper tables (quote the paper, not the trailer): open-vocab Table 1 CAST CLIP 85.77 / GPT-4 rank 1.125 / user VQ 88.07% / PP 71.42% vs ACDC and Gen3DSR. 3D-Front Table 2: CD-S 0.052, FS-S 56.18, CD-O 0.057, FS-O 56.50, IoU-B 0.603. AlignGen: 150M params, ~1 s/object at inference; trained ~2 days on 64 A800. Project page for CAST itself 404s from this host; no public engine file on WorldGen.
 - Still no public WorldGen export, EULA, or weights in this bank. Do not schedule production on the trailer.

@@ -12,10 +12,11 @@
 - `x-2088254428730085690#c1` (capability, stated) Critique results print in chat before follow-up questions more reliably. — evidence: "critique results more reliably prints in chat before asking you questions" [post]
 - `x-2088254428730085690#c2` (capability, stated) Live mode now works on ddev, valet, and other non-localhost dev hosts. — evidence: "works on ddev, valet, and other non-localhost dev hosts" [post]
 - `x-2088254428730085690#c3` (recipe, stated) Install or upgrade via npx impeccable install at impeccable.style. — evidence: "npx impeccable install" [post]
+- `x-2088254428730085690#c4` (capability, demonstrated) GitHub tag skill-v4.1.0 (2026-08-14) documents native iOS/Android verify, Windows install, live mode on ddev/valet, and full-fidelity comps. — evidence: "https://github.com/pbakaus/impeccable/releases/tag/skill-v4.1.0 body: native verify-and-review pipeline; Windows install; ddev/Valet live mode; full-fidelity comps." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
+**Tools.** [impeccable](../../tools/impeccable.md)
 **Links.** repo (https://github.com/pbakaus/impeccable), product (http://impeccable.style)
 **Related items.** [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2086715093707063445](../x-2086715093707063445/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)
 **Media.** —

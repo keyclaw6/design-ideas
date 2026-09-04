@@ -13,7 +13,8 @@
 > agents explore their own context with ls/tree/find, not a black-box vector store
 > 3 detail levels from summary to full, loading only what's needed
 > every search is traceable" [post]
-**Numbers.** claimed token reduction: 91 % (reply)
+- `x-2091169290661838965#c2` (capability, demonstrated) OpenViking MCP endpoint exposes 15 named tools on :1933/mcp, including find, search (list|context), read of viking:// URIs, write/edit, and health. — evidence: "docs/en/guides/06-mcp-integration.md: Once connected, OpenViking exposes 15 tools; table lists find, search, read, list, tree, remember, write, edit, add_resource, list_watches, cancel_watch, grep, glob, forget, health." [note]
+**Numbers.** claimed token reduction: 91 % (reply); documented MCP tools: 15 tools (note)
 **Recipe.** —
 **Techniques.** [filesystem-context-memory](../../techniques/filesystem-context-memory.md), [context-etl](../../techniques/context-etl.md)
 **Tools.** [openviking](../../tools/openviking.md)

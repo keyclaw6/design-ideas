@@ -31,7 +31,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 
 ## image-to-3d-world — claims that need a receipt
 
-- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; WorldGen is a logged-in SPA at `/workspace/worldgen` with no public mesh download ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). CAST paper tables now quoted there (CLIP 85.77 / 3D-Front CD-S 0.052). Still no engine file.
+- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; `/worldgen` 404; `/workspace/worldgen` is an **11,026**-byte login SPA with no public mesh download ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). CAST paper tables now quoted there (CLIP 85.77 / 3D-Front CD-S 0.052). Still no engine file.
 - Atlas 3D AI “one sentence → Unreal ride” — 35 replies / 3 captured; the ride may be video, not an `.uproject`.
 - Lumera object-split meshes + HDR lights — project page is a 1 KB JS shell; weights/code still missing.
 - Lucida parse/generate/place + GizmoAct — **project page fetched** (https://lucida-r2s.github.io/): indoor video, scene graph, Seed3D-class assets, tables on R2S / CA-1M / ADT. No weights zip.
@@ -48,6 +48,6 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 ## image-to-3d-world — next capture work
 
 1. Lumera paper is **arXiv:2607.20889** (Lumera-2K: 2,513 UE5 projects). Still no weights/GitHub ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). Remaining: a logged-in WorldGen export (GLB/USD).
-2. World Labs **Marble** docs: splat is highest fidelity; collider GLB on Standard; HQ textured GLB on Pro (~1 h). Agent skill: `npx skills add worldlabsai/marble-developer-api-skill --skill marble-developer-api`. See [atlas](../../tools/atlas.md) / [spark-js](../../tools/spark-js.md). Remaining: a logged-in export of one world.
+2. World Labs **Marble** docs + public example CDN ([atlas](../../tools/atlas.md)): Free **4** gens / no export; Standard **12** + splat/pano/collider; Pro **25** + HQ mesh; Max **75**. Official rustic-kitchen downloads (no login): collider GLB **2,976,256** B, 500k SPZ **7,582,907** B, pano **3,860,086** B. Remaining: a logged-in export of a *user* world.
 3. kokraf README is a VEF modeler, not a four-view bake skill ([kokraf](../../tools/kokraf.md)). Projection path is still tweet/media-only.
 4. All 14 primaries are `ready-with-gaps`. Raising even three world-gen cards to `ready` unblocks a real bake-off.

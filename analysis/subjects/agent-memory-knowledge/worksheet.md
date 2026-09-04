@@ -36,7 +36,7 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 - gbrain “97.6% R@5” tweet vs **gbrain-evals README (2026-09-02, v0.48.2.0)**: official `recall_all@5` **93.19%** reranker off (438/470) / **95.32%** with Voyage rerank-2.5 (448/470). No generative LLM in the retrieval loop; reranker row adds one Voyage call. Different metric than the tweet.
 - Cerebras 15,000+ questions/day — internal metric.
 - OpenViking “Viking protocol” — docs table: L0 256 chars / L1 4000 chars / L2 unlimited; directory sidecars, not per-file ([openviking](../../tools/openviking.md)). FAQ “~100 / ~2000 tokens” is the gloss.
-- ReasoningBank stores failures as well as successes — paper tables now on the tool NOTES (WebArena Flash 48.8 vs 40.5; SWE Flash 38.8 vs 34.2; MaTTS Shopping 55.1 at k=5). **Demo-only, not an official Google product** ([reasoning-bank](../../tools/reasoning-bank.md)).
+- ReasoningBank stores failures as well as successes — paper tables now on the tool NOTES (WebArena Flash 48.8 vs 40.5; SWE Flash 38.8 vs 34.2; MaTTS Shopping 55.1 at k=5). **Demo-only, not an official Google product**. Chinese post EN gloss + author compression rule (≤3 experiences, 1–3 sentences) on [reasoning-bank](../../tools/reasoning-bank.md). `translation-needed` dropped; thread still partial.
 - Slite “nine architectures” / Gorgias 12,000 nodes — **tweet infographic only**. Public ebook page is a gated form; it states 149 teams surveyed, 10+ builders interviewed, four shared technical components, and (on the product blog) **55%** of self-built brains abandoned on upkeep ([filesystem-context-memory](../../techniques/filesystem-context-memory.md)).
 
 ## agent-memory-knowledge — do not treat as load-bearing
@@ -50,4 +50,4 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 1. Gasquez extract/transform/publish is on [context-etl](../../techniques/context-etl.md). Remaining: one example artifact list from a real vault.
 2. gbrain-evals official rows are 93.19% / 95.32% `recall_all@5`, not 97.6%. Keep the tweet as marketing.
 3. Obsidian Mind tree + `/om-*` commands are on [obsidian-mind](../../tools/obsidian-mind.md). It is **not** Ryven’s RAW/WIKI + five automations (those stay tweet-only; `@imryven` has no public GitHub user).
-4. OpenViking studio is still a JS shell; remaining: one `viking://` session log.
+4. OpenViking MCP docs name **15 tools** on `:1933/mcp` (`find`, `search` list|context, `read` `viking://`, write/edit, watches, grep/glob, `health`) — [openviking](../../tools/openviking.md). Studio is still a JS shell; remaining: one live `viking://` session log.

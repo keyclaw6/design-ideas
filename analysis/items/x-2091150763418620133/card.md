@@ -12,7 +12,8 @@
 - `x-2091150763418620133#c1` (benchmark, stated) FreeToken serves Qwen3.6-35B at 39.3 tokens per second on an 8GB GPU by exploiting MoE sparsity. — evidence: "Qwen3.6-35B on an 8GB GPU at 39.3 tokens/s" [post]
 - `x-2091150763418620133#c2` (capability, stated) The engine profiles PCIe and CPU bandwidth once per machine and splits each step's expert misses proportionally between GPU copy and CPU compute. — evidence: "FreeToken measures both bandwidths on your machine and splits each step's misses between the two paths in proportion." [post]
 - `x-2091150763418620133#c3` (benchmark, stated) Agent-oriented checkpoints at framework edit boundaries keep slowest first token under 44 seconds versus 232 for llama.cpp. — evidence: "its slowest first token stays under 44 seconds, while llama.cpp peaks at 232 and KTransformers at 946." [post]
-**Numbers.** Qwen3.6-35B throughput on 8GB GPU: 39.3 tokens/s (post); FreeToken slowest first token: 44 seconds (post)
+- `x-2091150763418620133#c4` (capability, demonstrated) Local FreeToken clone is Apache-2.0 with 499 Python files; README now claims 290B+ on a gaming PC (older NOTES said 284B). — evidence: "Clone FlashML-org/FreeToken: 499 .py files; pyproject.toml license Apache-2.0, torch>=2.11,<2.12; README lead: Run 290B+ frontier MoE models locally on your gaming PC." [note]
+**Numbers.** Qwen3.6-35B throughput on 8GB GPU: 39.3 tokens/s (post); FreeToken slowest first token: 44 seconds (post); FreeToken clone Python files: 499 files (note)
 **Recipe.** —
 **Techniques.** [moe-expert-offload](../../techniques/moe-expert-offload.md), [agent-harness-ops](../../techniques/agent-harness-ops.md)
 **Tools.** [freetoken](../../tools/freetoken.md)
