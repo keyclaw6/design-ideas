@@ -46,6 +46,6 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 
 ## code-motion-graphics — next capture work
 
-1. Render one html-video template locally; attach the MP4 path on the card (needs Playwright Chromium + ffmpeg).
+1. Local html-video smoke rendered `frame-data-chart-nyt` to a 226,463-byte 1920×1080/60 fps libx264 MP4 (4.77 s). Path + ffprobe on [html-video](../../tools/html-video.md). File lives under `/tmp` and was not copied into the bank.
 2. If the HeyGen thread promised source, extract it into `thread-raw/` if it is still missing.
 3. Dump one loopany prompt body; Headlong local `bin/` + `thinkers/` cloc.

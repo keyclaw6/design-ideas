@@ -53,10 +53,33 @@
       "evidence_ref": "raw/items/github-nexu-io-html-video/page.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "github-nexu-io-html-video#c3",
+      "text": "A 2026-09-04 local smoke of frame-data-chart-nyt wrote a 226,463-byte 1920×1080 60 fps libx264 MP4 lasting 4.77 seconds; doctor listed 23 templates.",
+      "kind": "result",
+      "evidence": "smoke.js export: output-2026-09-04_20-40-56.mp4 226463 bytes; ffprobe 4.77s 1920x1080 60fps h264 libx264; doctor templates=23 discovered",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/html-video.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "smoke MP4 bytes",
+      "value": "226463",
+      "unit": "bytes",
+      "source": "note"
+    },
+    {
+      "label": "doctor template count",
+      "value": "23",
+      "unit": null,
+      "source": "note"
+    }
+  ],
   "techniques": [
     "remotion-code-video",
     "remotion-code-video",
