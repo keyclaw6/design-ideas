@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "id": "web-typeui-sh",
+  "source_type": "website",
+  "url": "https://typeui.sh",
+  "title": "typeui.sh DESIGN.md-adjacent domain (capture blocked)",
+  "author": {
+    "name": null,
+    "handle": null,
+    "url": "https://typeui.sh"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "typeui.sh domain listed in tranmautritam's DESIGN.md ecosystem tweet as likely typography/UI tooling for agents; HTTP and jina captures hit Vercel Security Checkpoint 429 with no page body retrieved.",
+  "question_it_answers": "What is typeui.sh in the DESIGN.md agent-design tool cluster?",
+  "claims": [
+    {
+      "id": "web-typeui-sh#c1",
+      "text": "Capture attempts via direct HTTP and r.jina.ai returned Vercel Security Checkpoint HTTP 429 with no page body.",
+      "kind": "availability",
+      "evidence": "Vercel Security Checkpoint (HTTP 429) — no content retrieved via HTTP or jina.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-typeui-sh#c2",
+      "text": "Research notes the domain appears in tranmautritam's DESIGN.md ecosystem tweet as a cluster pointer.",
+      "kind": "opinion",
+      "evidence": "Listed in tranmautritam DESIGN.md ecosystem tweet; domain suggests typography/UI tooling for agents.",
+      "evidence_source": "note",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://typeui.sh",
+    "repo": null,
+    "paper": null,
+    "product": "https://typeui.sh",
+    "other": [
+      "https://x.com/tranmautritam/status/2095078647652917329"
+    ],
+    "related_items": [
+      "web-designmd-me",
+      "github-jakubkrehel-skills",
+      "web-checklist-design"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-typeui-sh",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

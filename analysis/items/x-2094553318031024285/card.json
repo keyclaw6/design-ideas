@@ -1,0 +1,155 @@
+{
+  "schema_version": "1",
+  "id": "x-2094553318031024285",
+  "source_type": "x",
+  "url": "https://x.com/Crowdreply_io/status/2094553318031024285",
+  "title": "CrowdReply Grok Bot setup for AI-answer citation outreach via MCP",
+  "author": {
+    "name": "CrowdReply",
+    "handle": "Crowdreply_io",
+    "url": "https://x.com/Crowdreply_io"
+  },
+  "published_at": "2026-08-31T22:30:00Z",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [
+    "outbound-gtm-agents"
+  ],
+  "roles": [
+    "technique",
+    "tool"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "grok-bot",
+    "mcp"
+  ],
+  "summary": "CrowdReply amplifies Dawood's X article as a three-step Grok Bot workflow: install a Chief of AI Visibility bot, connect CrowdReply MCP, and run six citation-outreach bots that find cited pages and place brand mentions to move ChatGPT/Grok/Perplexity visibility.",
+  "question_it_answers": "How do I wire Grok Bots plus CrowdReply MCP to run citation outreach for AI-answer visibility?",
+  "claims": [
+    {
+      "id": "x-2094553318031024285#c1",
+      "text": "Setup is three steps: install a Grok bot as Chief of AI Visibility, connect CrowdReply MCP, and feed the article prompts.",
+      "kind": "recipe",
+      "evidence": "1. install grok bot and make it your Chief of AI Visibility\n2. connect CrowdReply MCP\n3. feed it the article below with all prompts",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094553318031024285#c2",
+      "text": "Quoted article reports an online design tool moved from 4% to 40% AI visibility in 11 weeks via citation outreach.",
+      "kind": "result",
+      "evidence": "Receipt in the article: an online design tool 4% → 40% visibility in 11 weeks",
+      "evidence_source": "note",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094553318031024285#c3",
+      "text": "CrowdReply MCP docs list 18+ tools with visibility reads and write actions behind two-step confirmation.",
+      "kind": "capability",
+      "evidence": "Docs list 18+ tools (visibility/citations read; create_task etc. writes behind two-step confirm).",
+      "evidence_source": "note",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "visibility lift",
+      "value": "4% to 40%",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "time to first movement",
+      "value": "11",
+      "unit": "weeks",
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "citation-outreach",
+    "grok-bot-aeo-stack"
+  ],
+  "tools": [
+    "crowdreply-mcp"
+  ],
+  "links": {
+    "canonical": "https://x.com/Crowdreply_io/status/2094553318031024285",
+    "repo": null,
+    "paper": null,
+    "product": "https://crowdreply.io",
+    "other": [
+      "https://crowdreply.io/mcp",
+      "https://mcp.crowdreply.io/mcp",
+      "https://crowdreply.io/features/citation-outreach",
+      "https://x.com/i/article/2094451432208711681"
+    ],
+    "related_items": [
+      "web-crowdreply",
+      "x-2094451439573881015"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "Cinematic night-crowd still used as the attached video thumbnail, not a product UI screenshot.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": "11-second amplify video accompanying the Grok Bot plus CrowdReply MCP setup pitch.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/quoted-article-cover.jpg",
+      "type": "image",
+      "description": "Quoted X article cover parodying Michelangelo's Creation of Adam with a Cursor-logo spark between the reaching hands.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094553318031024285",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-crowdreply"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Quoted Dawood article with six bot templates and citation-outreach receipts is summarized only in research.md."
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

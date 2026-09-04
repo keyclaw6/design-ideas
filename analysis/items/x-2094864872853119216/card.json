@@ -1,0 +1,136 @@
+{
+  "schema_version": "1",
+  "id": "x-2094864872853119216",
+  "source_type": "x",
+  "url": "https://x.com/XRarchitect/status/2094864872853119216",
+  "title": "World Labs Atlas plus spark.js Three.js scene from one photo",
+  "author": {
+    "name": "Ian Curtis",
+    "handle": "XRarchitect",
+    "url": "https://x.com/XRarchitect"
+  },
+  "published_at": "2026-09-01T19:08:01Z",
+  "captured_at": "2026-09-02T17:23:28Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-to-3d-world",
+  "secondary_subjects": [
+    "gaussian-splatting"
+  ],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "three-js",
+    "browser"
+  ],
+  "summary": "Ian Curtis (World Labs design) shows a navigable interior scene generated from one input photo using Atlas world model, spark.js Gaussian splat renderer, and three.js, with a follow-up still of the source image.",
+  "question_it_answers": "How does World Labs Atlas with spark.js and three.js build a splat scene from one still?",
+  "claims": [
+    {
+      "id": "x-2094864872853119216#c1",
+      "text": "Scene was generated from one input image with Atlas filling unseen regions, rendered via spark.js and three.js.",
+      "kind": "capability",
+      "evidence": "This scene was generated from one input image. Atlas fills the remaining gaps.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2094864872853119216#c2",
+      "text": "Pipeline names atlas (World Labs), spark.js splat renderer, and three.js as the web stack.",
+      "kind": "recipe",
+      "evidence": "→ atlas (world labs)  \n→ spark.js  \n→ three.js",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "gaussian-splatting"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "video views at capture",
+      "value": "19490",
+      "unit": null,
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "single-image-world-generation",
+    "gaussian-splat-web-viewer"
+  ],
+  "tools": [
+    "atlas",
+    "spark-js",
+    "three-js"
+  ],
+  "links": {
+    "canonical": "https://x.com/XRarchitect/status/2094864872853119216",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.worldlabs.ai/blog/atlas",
+    "other": [
+      "https://sparkjs.dev",
+      "https://www.worldlabs.ai/blog/spark-2.0",
+      "https://xrarchitect.xyz",
+      "https://x.com/XRarchitect/status/2094881923764199717"
+    ],
+    "related_items": [
+      "x-2095437841958314100"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/atlas-spark-three-scene-thumb.jpg",
+      "type": "image",
+      "description": "Wide monitor showing a navigable Rococo ballroom 3D interior with FPS overlay, demo of Atlas spark.js three.js output.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/atlas-spark-three-scene.mp4",
+      "type": "video",
+      "description": "Twenty-nine second camera move through the reconstructed ballroom interior generated from a single source photo.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/input-image.jpg",
+      "type": "image",
+      "description": "Single source photograph of an ornate green and gold drawing room with piano, chandelier, and sunlight through arched windows.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094864872853119216",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js",
+      "gaussian-splatting",
+      "camera-control",
+      "video-generation",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

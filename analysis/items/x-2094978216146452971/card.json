@@ -1,0 +1,160 @@
+{
+  "schema_version": "1",
+  "id": "x-2094978216146452971",
+  "source_type": "x",
+  "url": "https://x.com/nateherk/status/2094978216146452971",
+  "title": "Nate Herk Fable 5.1 landing workflow with scroll-craft skill",
+  "author": {
+    "name": "Nate Herk",
+    "handle": "nateherk",
+    "url": "https://x.com/nateherk"
+  },
+  "published_at": "2026-09-02T02:38:24Z",
+  "captured_at": "2026-09-02T17:39:26Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "technique",
+    "tool"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "cursor",
+    "codex"
+  ],
+  "summary": "149s walkthrough plus X article arguing Fable 5.1 matches Fable 5 landing quality at lower cost when paired with named design references, screenshot verification, and the scroll-craft Claude skill for scroll-as-timeline page grammars.",
+  "question_it_answers": "How does Nate Herk use Fable 5.1 plus scroll-craft to build non-slop animated landing pages cheaper than Fable 5?",
+  "claims": [
+    {
+      "id": "x-2094978216146452971#c1",
+      "text": "Author claims Fable 5.1 produced the best website outputs he has seen and cost less than Fable 5 in his tests.",
+      "kind": "result",
+      "evidence": "Faable 5.1 has given me the best website outputs compared to any AI model... and for cheaper than Fable 5.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094978216146452971#c2",
+      "text": "Article method uses named visual references, interaction naming, and a screenshot loop to verify desktop and mobile builds.",
+      "kind": "recipe",
+      "evidence": "They came from showing it specific design references, naming the interaction I wanted, and making it verify what it built.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094978216146452971#c3",
+      "text": "scroll-craft is a Claude Code plugin enforcing eight mutually exclusive page grammars with a uniqueness gate and fingerprint registry.",
+      "kind": "capability",
+      "evidence": "Skill for scroll-as-timeline sites with a design floor and a uniqueness gate (eight mutually exclusive page grammars; required signature move; fingerprint registry).",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "example build cost Fable 5.1",
+      "value": "11.18",
+      "unit": "USD",
+      "source": "note"
+    },
+    {
+      "label": "same build cost Fable 5",
+      "value": "17.37",
+      "unit": "USD",
+      "source": "note"
+    },
+    {
+      "label": "scroll-craft GitHub stars",
+      "value": "1547",
+      "unit": null,
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "named-design-references",
+    "screenshot-verify-loop",
+    "scroll-as-timeline"
+  ],
+  "tools": [
+    "scroll-craft",
+    "fable-5-1"
+  ],
+  "links": {
+    "canonical": "https://x.com/nateherk/status/2094978216146452971",
+    "repo": "https://github.com/nateherkai/scroll-craft",
+    "paper": null,
+    "product": "https://aiautomationsociety.ai",
+    "other": [
+      "https://x.com/i/article/2094971964163006468",
+      "https://www.nateherk.com"
+    ],
+    "related_items": [
+      "github-nateherkai-scroll-craft"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "Video thumbnail showing the AI Automation Society landing page hero with layered landscape and a speaker inset at a microphone.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": "149-second walkthrough demo of Fable 5.1 animated landing page builds paired with the scroll-craft workflow.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/article-cover.jpg",
+      "type": "image",
+      "description": "X article cover titled Design King showing a crowned Zapier icon bursting through cracked ground with floating SaaS landing page mockups.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094978216146452971",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "ui-motion",
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "github-nateherkai-scroll-craft"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Full Fable 5.1 article body with cost tables and site names is summarized in research.md, not post.md."
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": "1",
+  "id": "github-nexu-io-motion-anything",
+  "source_type": "github",
+  "url": "https://github.com/nexu-io/motion-anything",
+  "title": "motion-anything: chat-native motion engine with 403 recipes and Lottie/MP4 export",
+  "author": {
+    "name": "nexu-io",
+    "handle": "nexu-io",
+    "url": "https://github.com/nexu-io"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "code-motion-graphics",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "cli"
+  ],
+  "summary": "Open-source nexu-io motion-anything repo: describe motion in chat, edit on a live page via eight agent engines, export JSON/CSS/React/Lottie/MP4/GIF, and ship portable skills with 403 curated recipes and zero npm deps.",
+  "question_it_answers": "How does motion-anything generate and export web motion from natural-language prompts?",
+  "claims": [
+    {
+      "id": "github-nexu-io-motion-anything#c1",
+      "text": "The repo ships 403 curated motion recipes spanning kinetic text, GPU shaders, and canvas effects.",
+      "kind": "capability",
+      "evidence": "403 curated motion recipes (kinetic text, GPU shaders, canvas effects)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "github-nexu-io-motion-anything#c2",
+      "text": "Eight coding-agent engines plus BYOK are supported including Claude Code, Codex, Cursor, and Gemini.",
+      "kind": "capability",
+      "evidence": "8 coding-agent engines + BYOK (Claude Code, Codex, Cursor, OpenCode, Grok, Hermes, Gemini, Open Design Cloud)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "github-nexu-io-motion-anything#c3",
+      "text": "Exports include JSON, CSS, React, Lottie, MP4, GIF, and portable skills from the workbench.",
+      "kind": "capability",
+      "evidence": "Export: JSON, CSS, React, Lottie, MP4, GIF, portable skills",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "curated motion recipes",
+      "value": "403",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "GitHub stars at capture",
+      "value": "750",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "chat-native-motion",
+    "lottie-export"
+  ],
+  "tools": [
+    "motion-anything"
+  ],
+  "links": {
+    "canonical": "https://github.com/nexu-io/motion-anything",
+    "repo": "https://github.com/nexu-io/motion-anything",
+    "paper": null,
+    "product": "https://github.com/nexu-io/motion-anything",
+    "other": [
+      "https://github.com/nexu-io/open-design"
+    ],
+    "related_items": [
+      "github-nexu-io-open-design",
+      "github-nexu-io-html-video",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-nexu-io-motion-anything",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "ui-motion",
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-nexu-io-html-video",
+      "github-emilkowalski-skills"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Research frames motion-anything between taste skills and html-video film pipeline."
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": "1",
+  "id": "x-2091927587471712274",
+  "source_type": "x",
+  "url": "https://x.com/hybridherbst/status/2091927587471712274",
+  "title": "Needle browser mesh decimation: 3.2M to 3K triangles in 3 seconds",
+  "author": {
+    "name": "herbst",
+    "handle": "hybridherbst",
+    "url": "https://x.com/hybridherbst"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:34Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-to-3d-world",
+  "secondary_subjects": [
+    "web-3d-scenes"
+  ],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "three-js",
+    "browser"
+  ],
+  "summary": "hybridherbst demos in-browser mesh decimation via Three.js and Needle Tools reducing 3.2 million triangles to 3,000 in three seconds with strong normals and AO, teasing an upcoming public release.",
+  "question_it_answers": "How fast can Needle Tools decimate a high-poly mesh in the browser?",
+  "claims": [
+    {
+      "id": "x-2091927587471712274#c1",
+      "text": "Demo reports reducing 3,200,000 triangles to 3,000 in three seconds in-browser with Three.js and Needle Tools.",
+      "kind": "benchmark",
+      "evidence": "3,200,000 → 3,000 triangles,\n3 SECONDS for the full bake.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2091927587471712274#c2",
+      "text": "Author claims superb normals and ambient-occlusion quality from the bake and says the tool is coming soon.",
+      "kind": "capability",
+      "evidence": "Superb normals+ao quality now too... such a great tool to have! Coming soon!",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "input triangles",
+      "value": "3200000",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "output triangles",
+      "value": "3000",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "bake duration",
+      "value": "3",
+      "unit": "seconds",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "browser-mesh-decimation"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/hybridherbst/status/2091927587471712274",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091927587471712274",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

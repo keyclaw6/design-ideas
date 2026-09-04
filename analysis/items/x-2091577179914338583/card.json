@@ -1,0 +1,102 @@
+{
+  "schema_version": "1",
+  "id": "x-2091577179914338583",
+  "source_type": "x",
+  "url": "https://x.com/Yun_HDY/status/2091577179914338583",
+  "title": "CozyClay open-source previs before pricey AI video generation",
+  "author": {
+    "name": "Yun",
+    "handle": "Yun_HDY",
+    "url": "https://x.com/Yun_HDY"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:33Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [
+    "ai-video-generation"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Yun_HDY describes paying $17 per 30s AI video miss and open-sourcing CozyClay (NomaDamas/CozyClay) to block out scenes before sending them to video models when prompts cannot hold full character heads.",
+  "question_it_answers": "How does CozyClay previs reduce wasted spend on AI video generation?",
+  "claims": [
+    {
+      "id": "x-2091577179914338583#c1",
+      "text": "Author pays about $17 per 30-second AI video generation and must redo on a miss.",
+      "kind": "pricing",
+      "evidence": "ok we are paying $17 for 30s... and then one miss and you pay it again",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2091577179914338583#c2",
+      "text": "CozyClay is an open-source previs tool to build the scene before turning it into video.",
+      "kind": "capability",
+      "evidence": "so i make the scene first then turn it into video\n\ni made a previs tool\ncome look, opensource\nhttps://github.com/NomaDamas/CozyClay",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "AI video generation cost",
+      "value": "17",
+      "unit": "USD per 30s",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "cozyclay"
+  ],
+  "links": {
+    "canonical": "https://x.com/Yun_HDY/status/2091577179914338583",
+    "repo": "https://github.com/NomaDamas/CozyClay",
+    "paper": null,
+    "product": "https://github.com/NomaDamas/CozyClay",
+    "other": [
+      "https://github.com/NomaDamas/CozyClay"
+    ],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091577179914338583",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

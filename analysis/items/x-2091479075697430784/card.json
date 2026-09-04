@@ -1,0 +1,84 @@
+{
+  "schema_version": "1",
+  "id": "x-2091479075697430784",
+  "source_type": "x",
+  "url": "https://x.com/basit_designs/status/2091479075697430784",
+  "title": "Basit Designs Dither Animation gradient collection preview",
+  "author": {
+    "name": "basit_designs",
+    "handle": "basit_designs",
+    "url": "https://x.com/basit_designs"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:40Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "example"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Basit Designs previews an upcoming Dither Animation animated gradients collection launching on grainient.supply, teasing dithered gradient motion assets for landing and UI backgrounds.",
+  "question_it_answers": "What is the upcoming Dither Animation gradient collection on grainient.supply?",
+  "claims": [
+    {
+      "id": "x-2091479075697430784#c1",
+      "text": "Author is preparing a Dither Animation animated gradients collection to launch on grainient.supply within the week.",
+      "kind": "availability",
+      "evidence": "We are working on the new animated gradients collection “Dither Animation”\nIt will be live on http://grainient.supply this week.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/basit_designs/status/2091479075697430784",
+    "repo": null,
+    "paper": null,
+    "product": "http://grainient.supply",
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Preview still of dithered animated gradient bands with grain texture, promoting the upcoming Dither Animation collection.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2091479075697430784",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

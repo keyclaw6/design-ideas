@@ -1,0 +1,63 @@
+{
+  "schema_version": "1",
+  "id": "x-2091560960066793483",
+  "source_type": "x",
+  "url": "https://x.com/michaelmicasso/status/2091560960066793483",
+  "title": "Michael Micasso beige non-vibe-coded website quest tweet",
+  "author": {
+    "name": "Michael Micasso",
+    "handle": "michaelmicasso",
+    "url": "https://x.com/michaelmicasso"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:43Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "The post only states a beige website quest with a handshake emoji and offers no linked site, repo, screenshots, or technique detail beyond aspirational copy in the harvested folder.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Single-line X post announcing a quest to build the most beautiful beige-themed non-vibe-coded website but linking no URL, repo, or demo in the harvested capture.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091560960066793483",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-opale-ui-taste",
+      "github-leonxlnx-taste-skill"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-11",
+  "written_at": "2026-09-04T18:12:00Z"
+}

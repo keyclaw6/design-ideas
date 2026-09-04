@@ -1,0 +1,70 @@
+{
+  "schema_version": "1",
+  "id": "x-2087280401475600698",
+  "source_type": "x",
+  "url": "https://x.com/TRYCOSMOS2/status/2087280401475600698",
+  "title": "COSMOS Polymarket whale copy-trading promo",
+  "author": {
+    "name": "COSMOS",
+    "handle": "TRYCOSMOS2",
+    "url": "https://x.com/TRYCOSMOS2"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:25Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "promo-no-artifact",
+  "shelf_reason": "COSMOS ad promises 650% ROI copying Polymarket whales with a free signup funnel; capture has no agent technique, design artifact, or verifiable trading methodology beyond marketing screenshots.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "TRYCOSMOS2 promo to mirror Polymarket whale trades at claimed 650% ROI via a free COSMOS signup; unrelated crypto copy-trading funnel with no reusable research artifact.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/TRYCOSMOS2/status/2087280401475600698",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2032330665081839791",
+      "x-2094820035344621901",
+      "x-2095214420398121034"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Promo graphic showing @Btr0mt 462% Polymarket ROI stat, purple llama mascot, and a Copy @Btr0mt CTA button.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2087280401475600698",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

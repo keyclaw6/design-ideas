@@ -1,0 +1,115 @@
+{
+  "schema_version": "1",
+  "id": "web-arxiv-2603-27476",
+  "source_type": "website",
+  "url": "https://arxiv.org/abs/2603.27476",
+  "title": "PeopleSearchBench: open benchmark for AI people-search platforms",
+  "author": {
+    "name": "Tianyu Shi et al.",
+    "handle": null,
+    "url": "https://arxiv.org/abs/2603.27476"
+  },
+  "published_at": "2026-08-30",
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "outbound-gtm-agents",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "technique"
+  ],
+  "artifact_type": "paper",
+  "platforms": [
+    "other"
+  ],
+  "summary": "EMNLP 2026 Industry Track paper presenting PeopleSearchBench: 119 multilingual queries across recruiting, B2B sales, expert search, and influencer discovery, with Criteria-Grounded Verification via live web search (kappa 0.84).",
+  "question_it_answers": "How should AI people-search platforms be evaluated beyond subjective LLM-as-judge scoring?",
+  "claims": [
+    {
+      "id": "web-arxiv-2603-27476#c1",
+      "text": "PeopleSearchBench comprises 119 multilingual queries across four people-search scenarios.",
+      "kind": "benchmark",
+      "evidence": "We present PeopleSearchBench, an open-source benchmark comprising 119 multilingual queries across four scenarios: corporate recruiting, B2B sales prospecting, expert search, and influencer discovery.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-arxiv-2603-27476#c2",
+      "text": "Criteria-Grounded Verification uses live web search to verify each returned person, achieving Cohen's kappa 0.84 with human annotators.",
+      "kind": "result",
+      "evidence": "each returned individual is verified via live web search, producing factual relevance judgments rather than subjective LLM-as-judge scores (Cohen's kappa = 0.84 with human annotators).",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "benchmark queries",
+      "value": "119",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "human agreement kappa",
+      "value": "0.84",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "criteria-grounded-verification",
+    "people-search-benchmark"
+  ],
+  "tools": [
+    "people-search-bench"
+  ],
+  "links": {
+    "canonical": "https://arxiv.org/abs/2603.27476",
+    "repo": "https://github.com/LessieAI/people-search-bench",
+    "paper": "https://arxiv.org/pdf/2603.27476",
+    "product": "https://treg.to/people-search",
+    "other": [
+      "https://arxiv.org/html/2603.27476v3"
+    ],
+    "related_items": [
+      "github-LessieAI-people-search-bench",
+      "web-treg-people-search",
+      "github-superdesigndev-treg",
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "github-iannuttall-seo"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-arxiv-2603-27476",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-LessieAI-people-search-bench"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:12:00Z"
+}

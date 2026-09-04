@@ -1,0 +1,60 @@
+{
+  "schema_version": "1",
+  "id": "x-2095192939169234945",
+  "source_type": "x",
+  "url": "https://x.com/0xfJuan/status/2095192939169234945",
+  "title": "Juan X article on social launch distribution",
+  "author": {
+    "name": "Juan",
+    "handle": "0xfJuan",
+    "url": "https://x.com/0xfJuan"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:53Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "Tweet is only a link to a social launch-distribution X article about posting everywhere overnight; topic is outbound GTM distribution, not design, video, agents, or 3D subjects in this taxonomy.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "article",
+  "platforms": [],
+  "summary": "Link-only tweet to an X article on social launch distribution strategy, outside the analysis taxonomy focus areas.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/0xfJuan/status/2095192939169234945",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://x.com/i/article/2095192419562033152"
+    ],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2095192939169234945",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

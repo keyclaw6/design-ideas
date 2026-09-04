@@ -1,0 +1,114 @@
+{
+  "schema_version": "1",
+  "id": "github-mengto-skills",
+  "source_type": "github",
+  "url": "https://github.com/MengTo/Skills",
+  "title": "MengTo Skills: capture-to-prompt agent skills for web design and Three.js",
+  "author": {
+    "name": "MengTo",
+    "handle": "MengTo",
+    "url": "https://github.com/MengTo"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "codex",
+    "three-js"
+  ],
+  "summary": "MIT repo (~5.7k stars) of SKILL.md packs for Codex, Claude, and Cursor: video→HTML super prompts, HTML→interaction prompts, stitched full-page capture, and daily UI inspiration loops for Awwwards-quality sites.",
+  "question_it_answers": "How do I turn a screen recording or live landing page into agent-ready design prompts with Three.js and GSAP skills?",
+  "claims": [
+    {
+      "id": "github-mengto-skills#c1",
+      "text": "Video to Super Prompt turns a screen recording into a detailed HTML recreation prompt.",
+      "kind": "capability",
+      "evidence": "Video to Super Prompt — screen recording → detailed HTML recreation prompt",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-mengto-skills#c2",
+      "text": "Stitched Full Page Capture grabs a whole landing page reference, not just the hero.",
+      "kind": "capability",
+      "evidence": "Stitched Full Page Capture — full landing page reference, not just hero",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "5734",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "video-to-super-prompt",
+    "html-to-interaction-prompts",
+    "full-page-capture"
+  ],
+  "tools": [
+    "mengto-skills"
+  ],
+  "links": {
+    "canonical": "https://github.com/MengTo/Skills",
+    "repo": "https://github.com/MengTo/Skills",
+    "paper": null,
+    "product": "https://ui-skills.com",
+    "other": [
+      "https://aura.build"
+    ],
+    "related_items": [
+      "github-mengto-complete-shelf",
+      "web-aura-build",
+      "github-nateherkai-scroll-craft",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-getlayers-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-mengto-skills",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design",
+      "three-js",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:12:00Z"
+}

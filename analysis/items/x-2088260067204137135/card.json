@@ -1,0 +1,80 @@
+{
+  "schema_version": "1",
+  "id": "x-2088260067204137135",
+  "source_type": "x",
+  "url": "https://x.com/vikvang1/status/2088260067204137135",
+  "title": "Permalink to Matt Pocock grilling SKILL.md for pre-build interrogation",
+  "author": {
+    "name": "vikvang1",
+    "handle": "vikvang1",
+    "url": "https://x.com/vikvang1"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "cursor",
+    "claude-code"
+  ],
+  "summary": "Reply pointing to the canonical Matt Pocock grilling skill file that interrogates constraints and success criteria before an agent builds, updated with more detail in the skills repo overview.",
+  "question_it_answers": "What is the exact repo path to Matt Pocock's grilling skill for agent pre-build interrogation?",
+  "claims": [
+    {
+      "id": "x-2088260067204137135#c1",
+      "text": "Reply links the updated grilling SKILL.md path in mattpocock/skills for anyone installing the pre-build interrogation skill.",
+      "kind": "availability",
+      "evidence": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/vikvang1/status/2088260067204137135",
+    "repo": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2088290952704151671",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088260067204137135",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": "1",
+  "id": "github-google-labs-code-design-md",
+  "source_type": "github",
+  "url": "https://github.com/google-labs-code/design.md",
+  "title": "Google Labs DESIGN.md spec with lint and diff CLI",
+  "author": {
+    "name": "Google Labs Code",
+    "handle": "google-labs-code",
+    "url": "https://github.com/google-labs-code"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cli",
+    "cursor"
+  ],
+  "summary": "Google Labs repo defining DESIGN.md: YAML token front matter plus markdown rationale so coding agents persist a lintable design system, with npx lint for WCAG contrast and diff for CI governance.",
+  "question_it_answers": "What is the canonical DESIGN.md file format and how do you lint or diff design tokens for coding agents?",
+  "claims": [
+    {
+      "id": "github-google-labs-code-design-md#c1",
+      "text": "DESIGN.md combines YAML front matter tokens with markdown prose so agents get exact values and application rationale.",
+      "kind": "capability",
+      "evidence": "Tokens give agents exact values; prose tells them why and how to apply them.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-google-labs-code-design-md#c2",
+      "text": "CLI supports lint for WCAG contrast and token validation plus diff to compare design system versions.",
+      "kind": "capability",
+      "evidence": "CLI: `npx @google/design.md lint DESIGN.md` — WCAG contrast, token validation",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "design-md-contract",
+    "token-lint-ci"
+  ],
+  "tools": [
+    "google-design-md-cli"
+  ],
+  "links": {
+    "canonical": "https://github.com/google-labs-code/design.md",
+    "repo": "https://github.com/google-labs-code/design.md",
+    "paper": null,
+    "product": "https://stitch.withgoogle.com/docs/design-md/specification",
+    "other": [],
+    "related_items": [
+      "web-getdesign-md",
+      "web-sokosumi-design-md",
+      "github-pbakaus-impeccable"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-google-labs-code-design-md",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-getdesign-md",
+      "web-designmd-me"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Research ties DESIGN.md to downstream extractors and BESS marketing use cases."
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

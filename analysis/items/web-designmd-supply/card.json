@@ -1,0 +1,99 @@
+{
+  "schema_version": "1",
+  "id": "web-designmd-supply",
+  "source_type": "website",
+  "url": "https://designmd.supply",
+  "title": "designmd.supply DESIGN.md marketplace (capture blocked)",
+  "author": {
+    "name": "unknown",
+    "handle": "unknown",
+    "url": "https://designmd.supply"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Suspected DESIGN.md supply marketplace at designmd.supply, named alongside other token extractors; HTTP capture blocked by Vercel Security Checkpoint so features remain unverified until re-fetch.",
+  "question_it_answers": "What is designmd.supply and how does it relate to other DESIGN.md catalog tools?",
+  "claims": [
+    {
+      "id": "web-designmd-supply#c1",
+      "text": "Domain is listed in tranmautritam's DESIGN.md tools cluster as a likely marketplace or supply catalog for DESIGN.md files.",
+      "kind": "capability",
+      "evidence": "Named in tranmautritam's DESIGN.md tools list — likely a marketplace or supply catalog for DESIGN.md files.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "unverified",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-designmd-supply#c2",
+      "text": "Direct HTTP and jina capture both returned HTTP 429 Vercel Security Checkpoint with no readable body.",
+      "kind": "availability",
+      "evidence": "Blocked behind Vercel Security Checkpoint (HTTP 429). No readable content via HTTP or jina.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://designmd.supply",
+    "repo": null,
+    "paper": null,
+    "product": "https://designmd.supply",
+    "other": [
+      "https://github.com/google-labs-code/design.md"
+    ],
+    "related_items": [
+      "web-getdesign-md",
+      "web-styles-refero-design",
+      "github-google-labs-code-design-md"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-designmd-supply",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-getdesign-md",
+      "web-styles-refero-design"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Research documents capture failure and working-catalog substitutes."
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

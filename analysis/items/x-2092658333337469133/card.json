@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2092658333337469133",
+  "source_type": "x",
+  "url": "https://x.com/NVIDIAStudio/status/2092658333337469133",
+  "title": "NVIDIA Studio Blender realism showcase promo",
+  "author": {
+    "name": "@NVIDIAStudio",
+    "handle": "NVIDIAStudio",
+    "url": "https://x.com/NVIDIAStudio"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:51Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "NVIDIAStudio reposts a fan Blender render crediting an RTX GPU and asks followers to share with #StudioShare for feature consideration—no technique, pipeline, or downloadable artifact beyond engagement farming.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "NVIDIA Studio promotional tweet showcasing a fan Blender scene and inviting #StudioShare submissions for possible feature—engagement bait without a reusable technique or artifact.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/NVIDIAStudio/status/2092658333337469133",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092658333337469133",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

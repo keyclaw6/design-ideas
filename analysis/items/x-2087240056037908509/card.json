@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "x-2087240056037908509",
+  "source_type": "x",
+  "url": "https://x.com/slash1sol/status/2087240056037908509",
+  "title": "AMD Token Factory daily free inference credits roundup",
+  "author": {
+    "name": "slash1sol",
+    "handle": "slash1sol",
+    "url": "https://x.com/slash1sol"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:46Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "local-inference-models",
+  "secondary_subjects": [],
+  "roles": [
+    "claim-source",
+    "reference"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Promo post listing AMD Token Factory free daily credits for DeepSeek V4 Flash, Qwen3.6 35B, MiniCPM5, and MiniCPM-V46 plus a SuperGrok seven-day trial that requires a card and auto-renews.",
+  "question_it_answers": "Which chip-vendor programs currently offer resetting free daily LLM inference credits?",
+  "claims": [
+    {
+      "id": "x-2087240056037908509#c1",
+      "text": "AMD Token Factory resets about ten dollars of free usage daily for listed models on developer.amd.com.",
+      "kind": "pricing",
+      "evidence": "$10 every day, not once -- the counter resets daily.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2087240056037908509#c2",
+      "text": "DeepSeek V4 Flash, Qwen3.6 35B, MiniCPM5, and MiniCPM-V46 are named as zero-cost models on AMD Token Factory.",
+      "kind": "availability",
+      "evidence": "DeepSeek V4 Flash, Qwen3.6 35B, MiniCPM5 and MiniCPM-V46 at zero cost",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "daily AMD credit reset",
+      "value": "10",
+      "unit": "USD",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://developer.amd.com",
+    "repo": null,
+    "paper": null,
+    "product": "https://developer.amd.com",
+    "other": [
+      "https://grok.com"
+    ],
+    "related_items": [
+      "web-fal-ai",
+      "x-2087562269807030754",
+      "web-chatgpt-training"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087240056037908509",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087562269807030754",
+      "x-2087715372787228734"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Dated free-token pointer for agent eval budgets; re-check AMD pages before relying on it."
+  },
+  "worker": "cards-11",
+  "written_at": "2026-09-04T18:12:00Z"
+}

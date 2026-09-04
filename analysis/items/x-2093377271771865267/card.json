@@ -1,0 +1,106 @@
+{
+  "schema_version": "1",
+  "id": "x-2093377271771865267",
+  "source_type": "x",
+  "url": "https://x.com/abyssallD/status/2093377271771865267",
+  "title": "Blender camera lock plus Seedance 2.5 skin via Higgsfield plugin",
+  "author": {
+    "name": "Abyssal",
+    "handle": "abyssallD",
+    "url": "https://x.com/abyssallD"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:43Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "blender",
+    "higgsfield"
+  ],
+  "summary": "Abyssal workflow builds a low-poly car scene in Blender with Higgsfield plugin, locks the camera path, then Seedance 2.5 skins the previz using location and character photo refs without inventing new shots.",
+  "question_it_answers": "How do you use Blender previz and Seedance 2.5 to lock camera path before video generation?",
+  "claims": [
+    {
+      "id": "x-2093377271771865267#c1",
+      "text": "3D scene and exact camera path are built and locked in Blender before Seedance generation.",
+      "kind": "recipe",
+      "evidence": "The 3D scene was built first.\nThen the camera was locked inside Blender.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093377271771865267#c2",
+      "text": "Seedance follows the Blender camera move with refs for location, characters, and car while prompt forbids new shots or swapped seats.",
+      "kind": "recipe",
+      "evidence": "Seedance follows the Blender move. \nSame angles. Same timing. Same path.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "blender-previz-camera-lock",
+    "seedance-reference-conditioning"
+  ],
+  "tools": [
+    "seedance",
+    "higgsfield",
+    "blender"
+  ],
+  "links": {
+    "canonical": "https://x.com/abyssallD/status/2093377271771865267",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2093374092795846745",
+      "note-blender-minimax-h3-video-generation"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.mp4",
+      "type": "video",
+      "description": "About thirty-second demo of a night driving scene where Blender-locked camera path is skinned by Seedance 2.5 with photo references.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093377271771865267",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

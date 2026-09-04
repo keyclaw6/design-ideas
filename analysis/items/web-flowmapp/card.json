@@ -1,0 +1,95 @@
+{
+  "schema_version": "1",
+  "id": "web-flowmapp",
+  "source_type": "website",
+  "url": "https://www.flowmapp.com/",
+  "title": "Flowmapp — agency sitemap, wireframe, and estimate platform",
+  "author": {
+    "name": "Flowmapp",
+    "handle": "Flowmapp",
+    "url": "https://www.flowmapp.com/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "other"
+  ],
+  "summary": "SaaS website-planning platform for agencies covering briefs, interactive sitemaps, AI-generated wireframes, content, user flows, cost estimates, invoices, and client presentation exports to Figma or PDF.",
+  "question_it_answers": "What tool scopes marketing-site IA and client estimates before visual design or agent codegen?",
+  "claims": [
+    {
+      "id": "web-flowmapp#c1",
+      "text": "Flowmapp combines brief, sitemap, wireframes, content, estimation, and invoice in one client-facing pipeline.",
+      "kind": "capability",
+      "evidence": "brief, sitemap, structure, wireframes, content, estimation, invoice",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-flowmapp#c2",
+      "text": "Projects export to Figma, PDF, PNG, XML, CSV, or an interactive presentation webpage.",
+      "kind": "capability",
+      "evidence": "Export — Figma, PDF, PNG, XML, CSV, webpage",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://www.flowmapp.com/",
+    "repo": null,
+    "paper": null,
+    "product": "https://app.flowmapp.com/signup",
+    "other": [],
+    "related_items": [
+      "web-checklist-design",
+      "github-google-labs-code-design-md",
+      "github-nateherkai-scroll-craft",
+      "web-neuform-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-flowmapp",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-checklist-design",
+      "web-neuform-ai"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Upstream IA and scoped proposals before DESIGN.md or scroll-craft builds."
+  },
+  "worker": "cards-11",
+  "written_at": "2026-09-04T18:12:00Z"
+}

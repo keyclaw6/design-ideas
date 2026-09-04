@@ -1,0 +1,107 @@
+{
+  "schema_version": "1",
+  "id": "x-2082316720086405524",
+  "source_type": "x",
+  "url": "https://x.com/kunchenguid/status/2082316720086405524",
+  "title": "Kun Chen YOLO-agent ops: disposable Nix machine plus gated secrets",
+  "author": {
+    "name": "Kun Chen",
+    "handle": "kunchenguid",
+    "url": "https://x.com/kunchenguid"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:34Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "cursor",
+    "codex",
+    "cli"
+  ],
+  "summary": "Kun Chen explains running coding agents with all permission checks off by treating the laptop as a disposable employee device, rebuilding from nix-darwin dotfiles, and routing secrets through AutomicVault human approval gates.",
+  "question_it_answers": "How can you safely run agents with permission checks disabled on a local machine?",
+  "claims": [
+    {
+      "id": "x-2082316720086405524#c1",
+      "text": "Author disables all agent permission checks and skips auto-review, treating the machine as an employee laptop not a personal device.",
+      "kind": "opinion",
+      "evidence": "i always disable all permission checks for my agents - i don't even do auto review.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2082316720086405524#c2",
+      "text": "Recovery path is nix-darwin plus home-manager dotfiles: wipe, clone, rebuild in minutes.",
+      "kind": "recipe",
+      "evidence": "i use nix-darwin and home-manager to make my entire machine instantly reproducible.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2082316720086405524#c3",
+      "text": "Production secrets stay off disk; AutomicVault gates each secret access while agents run commands freely.",
+      "kind": "recipe",
+      "evidence": "every time my agents need to access a secret, they go through me and i can decide whether i allow it or not",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "disposable-dev-environment",
+    "secrets-gating"
+  ],
+  "tools": [
+    "nix-darwin",
+    "automicvault"
+  ],
+  "links": {
+    "canonical": "https://x.com/kunchenguid/status/2082316720086405524",
+    "repo": "https://github.com/kunchenguid/dotfiles/",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "web-blume-codes",
+      "github-h4ckf0r0day-obscura"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2082316720086405524",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

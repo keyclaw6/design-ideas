@@ -1,0 +1,107 @@
+{
+  "schema_version": "1",
+  "id": "x-2091899114153754949",
+  "source_type": "x",
+  "url": "https://x.com/janusch_patas/status/2091899114153754949",
+  "title": "LichtFeld Studio 5M-Gaussian training benchmark on RTX 4090",
+  "author": {
+    "name": "janusch_patas",
+    "handle": "janusch_patas",
+    "url": "https://x.com/janusch_patas"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:52Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "gaussian-splatting",
+  "secondary_subjects": [],
+  "roles": [
+    "claim-source",
+    "example"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Benchmark post reporting LichtFeld Studio training five million Gaussians with mrnf across thirty thousand steps on an RTX 4090, noting recent speed improvements in the splat trainer.",
+  "question_it_answers": "What LichtFeld Studio training scale and step count was reported on an RTX 4090?",
+  "claims": [
+    {
+      "id": "x-2091899114153754949#c1",
+      "text": "The capture reports five million Gaussians trained with mrnf for thirty thousand steps on an RTX 4090.",
+      "kind": "benchmark",
+      "evidence": "5m Gaussians, mrnf, 30k steps on RTX 4090",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "gaussian-splatting"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "Gaussian count",
+      "value": "5",
+      "unit": "million",
+      "source": "post"
+    },
+    {
+      "label": "training steps",
+      "value": "30000",
+      "unit": "steps",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "lichtfeld-studio"
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2095375790875840593",
+      "web-arcana-splat2mesh"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Screen recording of LichtFeld Studio training progress for a multi-million-Gaussian capture on RTX 4090 hardware.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2091899114153754949",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "gaussian-splatting"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2095375790875840593",
+      "x-2093179838249251011"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Throughput datapoint for LichtFeld training before mesh export or print."
+  },
+  "worker": "cards-11",
+  "written_at": "2026-09-04T18:12:00Z"
+}

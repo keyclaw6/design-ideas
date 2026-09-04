@@ -1,0 +1,95 @@
+{
+  "schema_version": "1",
+  "id": "web-brave-submit-url",
+  "source_type": "website",
+  "url": "https://search.brave.com/submit-url",
+  "title": "Brave Search submit-URL page for manual index refresh",
+  "author": {
+    "name": "Brave Software",
+    "handle": null,
+    "url": "https://search.brave.com"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "Brave Search public submit-url form where operators paste a URL to request re-fetch for index inclusion; capture notes CAPTCHA/client-load limits and pairs with GSC/IndexNow in SEO checklists.",
+  "question_it_answers": "Where do I manually submit or refresh a URL in Brave Search's index?",
+  "claims": [
+    {
+      "id": "web-brave-submit-url#c1",
+      "text": "Brave exposes a public page prompting operators to insert a URL to be re-fetched for indexing.",
+      "kind": "capability",
+      "evidence": "Insert the URL to be re-fetched",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-brave-submit-url#c2",
+      "text": "The jina capture warned the live form may require CAPTCHA or full client load and was not exercised.",
+      "kind": "availability",
+      "evidence": "r.jina.ai returned a warning that the page may require CAPTCHA or full client load",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "index-submission-checklist"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://search.brave.com/submit-url",
+    "repo": null,
+    "paper": null,
+    "product": "https://search.brave.com/submit-url",
+    "other": [
+      "https://search.brave.com/settings",
+      "https://search.brave.com/help/usage-metrics"
+    ],
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-tinylaunch-directories",
+      "web-crowdreply"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-brave-submit-url",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2092137646730727617",
+  "source_type": "x",
+  "url": "https://x.com/Yun_HDY/status/2092137646730727617",
+  "title": "Yun HDY reaction tweet with no artifact",
+  "author": {
+    "name": "Yun_HDY",
+    "handle": "Yun_HDY",
+    "url": "https://x.com/Yun_HDY"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:49Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "empty-capture",
+  "shelf_reason": "Post body is only the phrase this person crazy too with no linked repo, demo, recipe, or quoted parent captured in raw; nothing actionable to analyze.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Single-line reaction tweet with no linked artifact, tool, or technical claim in the captured post body.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/Yun_HDY/status/2092137646730727617",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092137646730727617",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

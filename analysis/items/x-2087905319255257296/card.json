@@ -1,0 +1,95 @@
+{
+  "schema_version": "1",
+  "id": "x-2087905319255257296",
+  "source_type": "x",
+  "url": "https://x.com/top3dai/status/2087905319255257296",
+  "title": "Top3D.ai arena adds Hitem3D v3, Meshy 7, and Tripo P2.0",
+  "author": {
+    "name": "@top3dai",
+    "handle": "top3dai",
+    "url": "https://x.com/top3dai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:41Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-to-3d-world",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "tool"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Top3D.ai announces Hitem3D v3.0 preview and Meshy 7 in the main arena plus Tripo P2.0 in the low-poly arena, using the same prompt pool and max settings ranked by blind battles at top3d.ai/arena.",
+  "question_it_answers": "Which image-to-3D models did Top3D.ai add to its blind comparison arena?",
+  "claims": [
+    {
+      "id": "x-2087905319255257296#c1",
+      "text": "Hitem3D v3.0 preview and Meshy 7 joined the main Top3D.ai arena with matched prompts and settings.",
+      "kind": "availability",
+      "evidence": "Hitem3D v3.0 (Preview) - Main Arena \n⚫ Meshy 7 - Main Arena",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2087905319255257296#c2",
+      "text": "Tripo P2.0 competes in the low-poly arena track under the same prompt pool.",
+      "kind": "availability",
+      "evidence": "Tripo P2.0 - Low Poly Arena",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/top3dai/status/2087905319255257296",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.top3d.ai/arena",
+    "other": [
+      "https://www.top3d.ai/arena"
+    ],
+    "related_items": [
+      "github-nv-tlabs-ArtiFixer",
+      "web-arcana-splat2mesh",
+      "github-scottstts-threejs-awesome-graphics-agent-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087905319255257296",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js",
+      "bess-3d-flythrough"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2088299905324396589"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Research notes low-poly track relevance for marketing-page mesh budgets."
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

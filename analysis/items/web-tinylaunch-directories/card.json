@@ -1,0 +1,117 @@
+{
+  "schema_version": "1",
+  "id": "web-tinylaunch-directories",
+  "source_type": "website",
+  "url": "https://www.tinylaunch.com/directories",
+  "title": "TinyLaunch Directories — paid SaaS directory submission for DR lift",
+  "author": {
+    "name": "Chris",
+    "handle": "chrissyinspace",
+    "url": "https://x.com/chrissyinspace"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:56:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "other"
+  ],
+  "summary": "TinyLaunch sells done-for-you manual submissions to a vetted list of launch directories, promising Domain Rating lifts with tiered guarantees on a 110-directory package and case studies such as Flashcard Buddy 7→30 DR.",
+  "question_it_answers": "What paid service submits a product to curated launch directories to raise Domain Rating?",
+  "claims": [
+    {
+      "id": "web-tinylaunch-directories#c1",
+      "text": "The 110-directory package guarantees minimum DR bands such as 15–20 when starting from DR 0–10.",
+      "kind": "result",
+      "evidence": "0–10 | DR 15–20",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-tinylaunch-directories#c2",
+      "text": "Turnaround is roughly ten days from purchase through submissions and a full report.",
+      "kind": "recipe",
+      "evidence": "Submissions + full report within ~1 week (total ~10 days)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "directory package size",
+      "value": "110",
+      "unit": "directories",
+      "source": "linked-page"
+    },
+    {
+      "label": "Flashcard Buddy DR before",
+      "value": "7",
+      "unit": "DR",
+      "source": "linked-page"
+    },
+    {
+      "label": "Flashcard Buddy DR after",
+      "value": "30",
+      "unit": "DR",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://www.tinylaunch.com/directories",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.tinylaunch.com/directories",
+    "other": [
+      "https://www.tinylaunch.com/tos"
+    ],
+    "related_items": [
+      "web-tinyshelf",
+      "web-tinyshots",
+      "web-brave-submit-url",
+      "github-iannuttall-seo"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-tinylaunch-directories",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-tinyshelf",
+      "github-iannuttall-seo"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Concrete DR/backlink play with guarantees versus DIY directory lists."
+  },
+  "worker": "cards-11",
+  "written_at": "2026-09-04T18:12:00Z"
+}

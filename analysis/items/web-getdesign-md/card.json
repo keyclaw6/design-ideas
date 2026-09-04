@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "id": "web-getdesign-md",
+  "source_type": "website",
+  "url": "https://getdesign.md",
+  "title": "getdesign.md: catalog of 550+ DESIGN.md files for coding agents",
+  "author": {
+    "name": null,
+    "handle": null,
+    "url": "https://getdesign.md"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "cursor",
+    "codex",
+    "mcp"
+  ],
+  "summary": "getdesign.md hosts 550+ DESIGN.md analyses of well-known sites (Apple, Stripe, Linear, etc.) following Google's spec, plus private custom DESIGN.md commissions and a website starter kit that ships with the contract file.",
+  "question_it_answers": "Where can I pick a ready-made DESIGN.md reference to lock a coding agent to a specific brand aesthetic?",
+  "claims": [
+    {
+      "id": "web-getdesign-md#c1",
+      "text": "The site catalogs 550+ DESIGN.md analyses of well-known websites.",
+      "kind": "availability",
+      "evidence": "Website catalog: 550+ site analyses (Apple, Stripe, Linear, Notion, etc.)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-getdesign-md#c2",
+      "text": "Private DESIGN.md offers a custom design system generated for any website URL.",
+      "kind": "capability",
+      "evidence": "Private DESIGN.md: custom design system for any website",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "catalog entries",
+      "value": "550",
+      "unit": "+",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "design-md-contract"
+  ],
+  "tools": [
+    "getdesign-md"
+  ],
+  "links": {
+    "canonical": "https://getdesign.md",
+    "repo": "https://github.com/google-labs-code/design.md",
+    "paper": null,
+    "product": "https://getdesign.md",
+    "other": [],
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "web-styles-refero-design",
+      "web-sokosumi-design-md",
+      "web-neuform-ai",
+      "github-pbakaus-impeccable"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-getdesign-md",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-styles-refero-design",
+      "web-sokosumi-design-md"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:12:00Z"
+}

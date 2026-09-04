@@ -1,0 +1,93 @@
+{
+  "schema_version": "1",
+  "id": "web-recent-design",
+  "source_type": "website",
+  "url": "https://recent.design/",
+  "title": "Recent.design curated UI motion inspiration feed",
+  "author": {
+    "name": "Recent",
+    "handle": "recentdesign",
+    "url": "https://recent.design/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "recent.design is a masonry gallery of UI motion, web, icon, and poster inspiration sourced from X and Instagram, with detail pages crediting creators and video previews hosted on cdn.recent.design.",
+  "question_it_answers": "Where can you browse curated scroll and motion design inspiration with creator credits and video previews?",
+  "claims": [
+    {
+      "id": "web-recent-design#c1",
+      "text": "Site aggregates design inspiration in a masonry feed with items linking to detail pages and original X or Instagram creators.",
+      "kind": "capability",
+      "evidence": "Each item links to a detail page (`/i/<slug>`) and credits the original creator (X or Instagram profile).",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-recent-design#c2",
+      "text": "Feed mixes FUI loaders, glass shaders, onboarding flows, and WebGPU demos as daily taste references rather than a component library.",
+      "kind": "capability",
+      "evidence": "Mix includes FUI loaders, 404 experiments, glass/refraction, 3D cards, onboarding flows, WebGPU libs — useful as daily taste input",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://recent.design/",
+    "repo": null,
+    "paper": null,
+    "product": "https://recent.design/",
+    "other": [
+      "https://cdn.recent.design/"
+    ],
+    "related_items": [
+      "web-sceneai-art",
+      "github-nateherkai-scroll-craft",
+      "web-opale-ui-taste"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-recent-design",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}

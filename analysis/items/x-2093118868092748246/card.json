@@ -1,0 +1,66 @@
+{
+  "schema_version": "1",
+  "id": "x-2093118868092748246",
+  "source_type": "x",
+  "url": "https://x.com/CalliopeLabsyt/status/2093118868092748246",
+  "title": "Calliope YouTube viral faceless-video growth teaser",
+  "author": {
+    "name": "Calliope for YouTube",
+    "handle": "CalliopeLabsyt",
+    "url": "https://x.com/CalliopeLabsyt"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:40Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "promo-no-artifact",
+  "shelf_reason": "CalliopeLabsyt cites a 266K-view Boneink YouTube case study with generic faceless-video tips then asks followers to watch for a recreate—self-promo without a linked playbook, template, or tool artifact in the capture.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "YouTube growth teaser highlighting a 266K-view Boneink faceless explainer and promising a recreate tomorrow; generic viral-video advice with no attached template or tool in capture.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/CalliopeLabsyt/status/2093118868092748246",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Screenshot of Boneink YouTube video 'What Did Ancient Humans Do When It Was Too Hot to Sleep?' showing 266K views and simple 2D caveman animation.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093118868092748246",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

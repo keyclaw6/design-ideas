@@ -1,0 +1,113 @@
+{
+  "schema_version": "1",
+  "id": "web-iandmacomber-post-ai-data-stack",
+  "source_type": "website",
+  "url": "https://www.iandmacomber.com/blog/post-ai-data-stack",
+  "title": "Ian Macomber essay on post-AI data stack and company reality",
+  "author": {
+    "name": "Ian Macomber",
+    "handle": null,
+    "url": "https://www.iandmacomber.com"
+  },
+  "published_at": "2026-08-30T00:00:00Z",
+  "captured_at": "2026-09-02T20:38:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [
+    "infographics-diagrams"
+  ],
+  "roles": [
+    "reference",
+    "technique"
+  ],
+  "artifact_type": "article",
+  "platforms": [],
+  "summary": "Ramp Head of Data essay arguing AI makes analysis cheap but consensus expensive: post-AI teams build a data-agent harness, governed semantic layer, and feedback loop so agents read llms.txt artifacts instead of inventing metrics.",
+  "question_it_answers": "What architecture does Ian Macomber propose for a post-AI company data stack?",
+  "claims": [
+    {
+      "id": "web-iandmacomber-post-ai-data-stack#c1",
+      "text": "Post-AI data teams must enable self-serve AI analysis and champion one singular company reality.",
+      "kind": "opinion",
+      "evidence": "Enable everyone to build with data and AI — accurately, powerfully, independently.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-iandmacomber-post-ai-data-stack#c2",
+      "text": "Agent-readable dashboards should ship per-data-product llms.txt with owners, filters, and provenance instructions.",
+      "kind": "recipe",
+      "evidence": "Per-data-product `llms.txt` in markdown — code, filters, owners, entry points, rendered values.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-iandmacomber-post-ai-data-stack#c3",
+      "text": "Semantic layer plus dbt tests act as the contract layer so agents do not invent metric definitions.",
+      "kind": "recipe",
+      "evidence": "Semantic layer + dbt tests as the contract layer.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "llms-txt-data-products",
+    "semantic-layer-contract"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://www.iandmacomber.com/blog/post-ai-data-stack",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://www.rilldata.com/",
+      "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+      "https://davidgasquez.com/context-engineering-is-a-data-problem"
+    ],
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering",
+      "web-graphed"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-iandmacomber-post-ai-data-stack",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "infographics"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-davidgasquez-context-engineering",
+      "web-cerebras-knowledge-base"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Stack diagrams and Ramp harness details live in the full essay."
+  },
+  "worker": "cards-15",
+  "written_at": "2026-09-04T18:15:00Z"
+}

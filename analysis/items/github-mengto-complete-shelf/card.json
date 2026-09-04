@@ -1,0 +1,102 @@
+{
+  "schema_version": "1",
+  "id": "github-mengto-complete-shelf",
+  "source_type": "github",
+  "url": "https://github.com/MengTo/complete-shelf",
+  "title": "MengTo Complete Shelf — single-file Three.js interactive book demo",
+  "author": {
+    "name": "MengTo",
+    "handle": "MengTo",
+    "url": "https://github.com/MengTo"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "tool"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "three-js"
+  ],
+  "summary": "GitHub repo shipping one index.html Three.js scene: seven clothbound volumes on a shelf with PBR textures, orbit controls, and a shelf-to-open-book state machine; live demo and PROMPT.md recreation brief.",
+  "question_it_answers": "What no-bundler Three.js demo models tactile book-shelf interaction for marketing pages?",
+  "claims": [
+    {
+      "id": "github-mengto-complete-shelf#c1",
+      "text": "The entire bookshelf experience ships as one index.html with no bundler or backend.",
+      "kind": "capability",
+      "evidence": "Entire experience in `index.html` — no bundler, no backend",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "github-mengto-complete-shelf#c2",
+      "text": "Seven themed volumes use a shelf-to-opening-to-inspection state machine with curved page dragging.",
+      "kind": "capability",
+      "evidence": "State machine: shelf → opening → inspection → open book → closing → shelf",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "complete-shelf"
+  ],
+  "links": {
+    "canonical": "https://mengto.github.io/complete-shelf/",
+    "repo": "https://github.com/MengTo/complete-shelf",
+    "paper": null,
+    "product": "https://mengto.github.io/complete-shelf/",
+    "other": [],
+    "related_items": [
+      "github-mengto-skills",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-utsubo",
+      "web-oryzo-ai",
+      "github-oso95-scroll-world"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-mengto-complete-shelf",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js",
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-oso95-scroll-world",
+      "web-utsubo"
+    ],
+    "must_read": [
+      "page.md",
+      "PROMPT.md"
+    ],
+    "why_must_read": "Single-file craft bar for interactive 3D product objects on landing pages."
+  },
+  "worker": "cards-11",
+  "written_at": "2026-09-04T18:12:00Z"
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": "1",
+  "id": "web-tinyshelf",
+  "source_type": "website",
+  "url": "https://tinyshelf.co",
+  "title": "TinyShelf: human-reviewed software directory for launch backlinks",
+  "author": {
+    "name": "TinyShelf",
+    "handle": null,
+    "url": "https://tinyshelf.co"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:56:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "other"
+  ],
+  "summary": "TinyShelf is a curated, human-reviewed software directory with 19 categories and Google OAuth submission. Listings are editorially approved before going live, positioning it as a quality backlink and discovery target rather than a bulk directory farm.",
+  "question_it_answers": "Which curated software directory accepts reviewed product submissions for launch SEO and discovery?",
+  "claims": [
+    {
+      "id": "web-tinyshelf#c1",
+      "text": "Every TinyShelf listing is reviewed before it goes live.",
+      "kind": "capability",
+      "evidence": "Every listing is reviewed before it goes live.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-tinyshelf#c2",
+      "text": "Submit flow at /submit requires Google OAuth sign-in before a listing can be submitted.",
+      "kind": "recipe",
+      "evidence": "/submit redirects to Google sign-in — listings require authenticated submission and editorial review.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "category count",
+      "value": "19",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "Productivity listings",
+      "value": "106",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "directory-submission"
+  ],
+  "tools": [
+    "tinyshelf"
+  ],
+  "links": {
+    "canonical": "https://tinyshelf.co",
+    "repo": null,
+    "paper": null,
+    "product": "https://tinyshelf.co/submit",
+    "other": [
+      "https://tinyshelf.co/tools/tinyshots"
+    ],
+    "related_items": [
+      "web-tinylaunch-directories",
+      "web-tinyshots",
+      "web-brave-submit-url",
+      "web-crowdreply",
+      "github-iannuttall-seo"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-tinyshelf",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-tinylaunch-directories"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:12:00Z"
+}

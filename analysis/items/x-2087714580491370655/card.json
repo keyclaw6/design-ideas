@@ -1,0 +1,106 @@
+{
+  "schema_version": "1",
+  "id": "x-2087714580491370655",
+  "source_type": "x",
+  "url": "https://x.com/Howaboua/status/2087714580491370655",
+  "title": "Howaboua Pi realtime voice changelog and extension announcement API",
+  "author": {
+    "name": "Howaboua",
+    "handle": "Howaboua",
+    "url": "https://x.com/Howaboua"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:32:03Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "pi"
+  ],
+  "summary": "Sixteen-hour voice-driven Pi release adds reportRealtimeVoicePrompt for extensions, togglable spoken acknowledgements and reasoning summaries, guided audio setup, and npm packages pi-codex-conversion or standalone pi-gippity-control.",
+  "question_it_answers": "How do Pi extensions announce events to the realtime voice assistant without canned lines?",
+  "claims": [
+    {
+      "id": "x-2087714580491370655#c1",
+      "text": "Pi extensions can send natural-language instructions to the active realtime voice assistant via reportRealtimeVoicePrompt with stable ids and active flags.",
+      "kind": "capability",
+      "evidence": "Pi extensions can now send prompts to the active realtime voice assistant. These are instructions, not canned lines",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087714580491370655#c2",
+      "text": "Install pi-codex-conversion or standalone pi-gippity-control but not both.",
+      "kind": "recipe",
+      "evidence": "Codex Conversion already contains GipPity. Pick the full Codex package or standalone GipPity. Do not install both.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "realtime-voice-delegation",
+    "extension-voice-announcements"
+  ],
+  "tools": [
+    "pi-codex-conversion",
+    "pi-gippity-control"
+  ],
+  "links": {
+    "canonical": "https://x.com/Howaboua/status/2087714580491370655",
+    "repo": "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-codex-conversion",
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-gippity-control",
+      "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-shepherdr"
+    ],
+    "related_items": [
+      "x-2087232392209531166",
+      "web-blume-codes"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Screenshot of Pi Realtime Voice chat UI showing casual morning greeting exchange between user and voice assistant.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2087714580491370655",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-06",
+  "written_at": "2026-09-04T18:15:17Z"
+}
