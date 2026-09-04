@@ -33,7 +33,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 
 - Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read).
 - MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage.
-- CozyClay $17/30s miss — useful cost signal; confirm the current CozyClay repo still has MCP.
+- CozyClay $17/30s miss — useful cost signal. **MCP confirmed** in the repo: 24 tools, `npx cozyclay mcp`, AGPL-3.0 ([cozyclay](../../tools/cozyclay.md)).
 - Unreal MCP shot — Level Sequence exists in the demo; whether it then hits Seedance/H3 is not in the card.
 - GLM kitchen “not a generated video” — adjacent to freedom-modeling; do not file it as a finished spot.
 
@@ -46,6 +46,6 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 ## blockout-to-video-flythrough — next capture work
 
 1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file).
-2. Fetch CozyClay README + MCP tools.
+2. CozyClay README + MCP tool list are on the tool page. Remaining: one live `frame_shot` / `render_prompt` against a dummy `.cclayproject`.
 3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
 4. Do not expand this lane with more model-launch tweets.

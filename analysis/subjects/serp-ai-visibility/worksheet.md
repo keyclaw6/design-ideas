@@ -26,7 +26,7 @@ Scores are `high` / `mid` / `low` / `unknown` against the brief axes. `unknown` 
 | TinyLaunch directories | mid (~10 days) | high | low | low | low | stated DR-band guarantee |
 | Sami 15 directories | mid (48h claim) | low | low | low | low | stated; full sheet DM-gated |
 | free one-page tools (Bing) | low (weeks of flat metrics) | low | mid (Bing WM) | low | mid (you ship HTML) | stated 1.01M impressions |
-| CrowdReply | unknown | high | low | high | high (MCP) | stated 18+ tools; 4%→40% is a quoted article |
+| CrowdReply | unknown | high | low | high | high (MCP) | **18 named tools** on /mcp (2026-09-04); 4%→40% still a quoted article (403) |
 | nqz.ai prompt generator | n/a (research aid) | low | low | high | low | stated 4×3 prompts, 10/hour |
 | llms.txt nudge | mid (fetch rate, not rank) | low | n/a | high | low | stated 10/10; screenshot only |
 | press-wire unbranded Qs | mid (weeks) | mid (wire fees) | low | high | low | stated 108 citations / +21% |
@@ -39,7 +39,7 @@ These are load-bearing if someone acts on “syrups,” and every one is still `
 
 - TinyShots DR 11→46 from TinyShelf alone ([x-2094328961522397530#c1](../../items/x-2094328961522397530/card.md)). Need an Ahrefs/Moz export, not a tweet.
 - 108 repeating AI citations and +21% on unbranded prompts ([x-2094148909253943322](../../items/x-2094148909253943322/card.md)). Need the prompt set and the tracker.
-- CrowdReply 4%→40% in 11 weeks ([x-2094553318031024285#c2](../../items/x-2094553318031024285/card.md)). Lives in a quoted article, not a first-party capture.
+- CrowdReply 4%→40% in 11 weeks ([x-2094553318031024285#c2](../../items/x-2094553318031024285/card.md)). Lives in a quoted X article (`2094451432208711681`); jina and direct fetch both 403. Do not treat the tweet’s paraphrase as a receipt.
 - $100k traffic and $25k revenue AEO stories ([x-2093729321131368744](../../items/x-2093729321131368744/card.md), [x-2094450512938856802](../../items/x-2094450512938856802/card.md)). Treat as marketing until a property + date range shows up.
 - llms.txt 10/10 fetch ([x-2088046188037902579](../../items/x-2088046188037902579/card.md)). Re-run the ten models; the screenshot is the only evidence.
 - Brave 1,190 sessions / 1.34% ([x-2094688982940741816#c2](../../items/x-2094688982940741816/card.md)). Screenshot exists; property is unnamed.
@@ -55,7 +55,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 
 ## serp-ai-visibility — next capture work
 
-1. Fetch CrowdReply MCP tool list and the 4%→40% article into `raw/` (cards currently `linked-page-unfetched` / note-only).
+1. CrowdReply MCP catalogue is now named on [crowdreply-mcp](../../tools/crowdreply-mcp.md). Still need a keyed session (endpoint 401) and the 4%→40% article body (403).
 2. Re-open [x-2094770895021572502](../../items/x-2094770895021572502/thread.md) (must-read, 26 replies / 3 captured) for the tool URLs.
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
-4. Exercise Brave submit-url in a headed browser; the jina capture never submitted.
+4. Exercise Brave submit-url in a headed browser; the form exists, this pass did not submit.

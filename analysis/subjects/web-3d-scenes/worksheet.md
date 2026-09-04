@@ -34,7 +34,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 
 - Sylva 130k instanced blades under 1 MB — need the live page’s transfer size, not the tweet.
 - scroll-world “no cuts, scrubbed to scroll” — skill README; need one generated site under a 3 MB JS budget (open question on the brief).
-- Graphics skills produce valid R3F vs screenshot-alike HTML — nothing in this bank runs the skill and diffs the scene graph.
+- Graphics skills produce valid R3F vs screenshot-alike HTML — README (2026-09-04) is **vanilla Three + TSL/WebGPU examples**, no R3F. Still need to open one example and diff the scene graph. See [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md).
 - Gemini Antigravity Bugatti in ~4 minutes — demo clock, no repo.
 - GetLayers MCP “assembles a whole site” — marketing; no recorded assembly log.
 - vgpu “built for coding agents” — announcement thread, 71 replies / 1 captured.
@@ -48,7 +48,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 
 ## web-3d-scenes — next capture work
 
-1. Clone or vendor the must-read graphics-skills repo and note whether examples are R3F, vanilla Three, or HTML snapshots.
+1. README says vanilla Three + example library (not R3F). Remaining: open one gallery example and record whether it is a runnable scene or a still.
 2. Measure Complete Shelf and Sylva transfer size + FPS on a laptop GPU.
 3. Re-open [x-2089400082550620636](../../items/x-2089400082550620636/thread.md) (55 replies / 1 captured) for /improve-threejs install path.
 4. Keep splat viewers out of this stack; if the page *is* a splat, use the gaussian-splatting worksheet.

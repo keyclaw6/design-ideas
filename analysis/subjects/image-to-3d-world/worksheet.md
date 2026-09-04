@@ -31,9 +31,10 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 
 ## image-to-3d-world — claims that need a receipt
 
-- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Need a downloadable scene or engine file, not a trailer.
+- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; WorldGen is a logged-in SPA at `/workspace/worldgen` with no public mesh download ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). Press: Rodin meshes + 3DGS background + CAST (SIGGRAPH 2025 Best Paper). Still no engine file.
 - Atlas 3D AI “one sentence → Unreal ride” — 35 replies / 3 captured; the ride may be video, not an `.uproject`.
-- Lumera object-split meshes + HDR lights — project page says weights coming; do not schedule production on it.
+- Lumera object-split meshes + HDR lights — project page is a 1 KB JS shell; weights/code still missing.
+- Lucida parse/generate/place + GizmoAct — **project page fetched** (https://lucida-r2s.github.io/): indoor video, scene graph, Seed3D-class assets, tables on R2S / CA-1M / ADT. No weights zip.
 - Needle 3.2M→3k in 3s with “superb normals” — demo numbers, tool not shipping in this capture.
 - Bee topology with “no prompt, no retries” — tool unnamed; cannot reproduce.
 - kokraf four-view projection is the only `demonstrated` claim (media + repo). Use it as the texture-path reference.
@@ -46,7 +47,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 
 ## image-to-3d-world — next capture work
 
-1. Fetch Hyper3D / Lumera / Lucida project pages into `raw/` (`linked-page-unfetched` still on at least one card).
+1. Hyper3D / Lucida pages are summarized on the WorldGen tool NOTES. Remaining: a logged-in WorldGen export (GLB/USD) and Lumera code when it appears.
 2. Confirm whether Atlas (World Labs) exports a mesh or only a navigable radiance/world field.
 3. Open kokraf repo and record whether the four-view bake is still the published path.
 4. All 14 primaries are `ready-with-gaps`. Raising even three world-gen cards to `ready` unblocks a real bake-off.

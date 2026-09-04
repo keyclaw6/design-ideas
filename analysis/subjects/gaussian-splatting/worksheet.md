@@ -29,13 +29,15 @@ LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-20905892936770235
 
 ## gaussian-splatting — claims that need a receipt
 
-- Splat2Mesh “free personal / non-commercial” and “no GPU” — repeated across EN + JP posts. Need the installer EULA and a timed conversion on a known PLY.
+- Splat2Mesh “free personal / non-commercial” — **EULA v1.0 (2026-08-21) now fetched**; company R&D/prototyping/print-for-pay is commercial even with no revenue. See [splat2mesh](../../tools/splat2mesh.md).
+- Splat2Mesh “no GPU” — **not on the English product page**. It appears in the JP launch `og:description` (`x-2095136786095951924`). Same og text says the mesh is **not** automatically watertight for print.
+- Timed conversion of the public `sample.ply` (1.5 MB, HTTP 200) — not run (Windows installer; this host is Linux).
 - LichtFeld 5M / 30k / 4090 — one benchmark tweet; no wall-clock, no VRAM, no quality still.
 - Aholo “billion splats in the browser” — secondary citation in a roundup, not a first-party capture.
 - ArtiFixer checkpoint sizes (~16.9B / ~1.68B) — from the card’s HF note; confirm filenames before planning VRAM.
 - Print path LichtFeld → Splat2Mesh → Mimaki 3DUJ-2207 — empty thread, demo only. Need whether the mesh is watertight.
 
-Two threads in this subject are `failed` ([x-2094769581965369822](../../items/x-2094769581965369822/thread.md), [x-2095136786095951924](../../items/x-2095136786095951924/thread.md)). Do not read silence as “no discussion.”
+Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-2094769581965369822](../../items/x-2094769581965369822/thread.md)) and Splat2Mesh JP ([x-2095136786095951924](../../items/x-2095136786095951924/thread.md)). A 2026-09-04 retry got `og:description` only. LightFuse og title: *Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing*. Do not read silence as “no discussion.”
 
 ## gaussian-splatting — do not treat as load-bearing
 
@@ -45,7 +47,7 @@ Two threads in this subject are `failed` ([x-2094769581965369822](../../items/x-
 
 ## gaussian-splatting — next capture work
 
-1. Download or screenshot the Splat2Mesh EULA and a conversion of a public PLY (e.g. a PlayCanvas sample).
-2. Re-fetch the two `failed` threads (LightFuse, one Splat2Mesh JP post).
+1. EULA + sample.ply URL are on the tool page. Remaining: run the Windows app on `sample.ply` and record wall-clock + whether the OBJ is watertight.
+2. Re-fetch LightFuse / Splat2Mesh JP replies (retry HTML still has 0 tweet nodes).
 3. Record whether IZUTSUYA STL is manifold enough for print vs Arcana OBJ/GLB.
 4. Decide ArtiFixer: phone capture vs research scan. Nothing in this bank tests a handheld video.

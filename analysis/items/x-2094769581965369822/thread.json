@@ -49,11 +49,19 @@
       "target": "https://api.fxtwitter.com/janusch_patas/status/2094769581965369822",
       "outcome": "error",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-04T19:17:00Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/i/status/2094769581965369822",
+      "outcome": "error",
+      "note": "retry html_bytes=151329 tweet_nodes=0; og:description has LightFuse paper title"
     }
   ],
   "raw_payloads": [
-    "raw/items/x-2094769581965369822/thread-raw/x-web-dom-20260904T175333Z.html"
+    "raw/items/x-2094769581965369822/thread-raw/x-web-dom-20260904T175333Z.html",
+    "raw/items/x-2094769581965369822/thread-raw/x-web-dom-20260904T192048Z.html"
   ],
   "worker": "threads-script",
-  "written_at": "2026-09-04T17:54:20Z"
+  "written_at": "2026-09-04T19:17:00Z"
 }
