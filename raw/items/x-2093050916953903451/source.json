@@ -7,13 +7,17 @@
   "authors": [
     "Shengkun Ye (@shengkunye)"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "seo-agents"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093050916953903451",
     "author_handle": "shengkunye",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Free agent web search/fetch vs Exa/Tavily"
   }
 }

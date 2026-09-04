@@ -3,16 +3,21 @@
   "url": "https://x.com/robiartec/status/2091157554919280688",
   "source_type": "x",
   "captured_at": "2026-09-04T07:07:51Z",
-  "title": "6 repos de AI Agents que estan explotando en github 1. Graft \u2014 https://github.com/NanoNets/Graft Hace que claude code se",
+  "title": "6 repos de AI Agents que estan explotando en github 1. Graft — https://github.com/NanoNets/Graft Hace que claude code se",
   "authors": [
     "@robiartec"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "mcp",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2091157554919280688",
-    "author_handle": "robiartec"
+    "author_handle": "robiartec",
+    "category_note": "Mixed agent-repo roundup (memory MCP, OpenMontage, Reach)"
   }
 }

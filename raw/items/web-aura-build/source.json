@@ -18,6 +18,14 @@
   "unsaved": false,
   "extra": {
     "retry": "jina",
-    "capture_note": "SPA shell; meta description from direct HTML"
+    "capture_note": "SPA shell; meta description from direct HTML",
+    "related_items": [
+      "github-mengto-skills",
+      "web-neuform-ai",
+      "web-open-design-ai",
+      "github-nexu-io-open-design",
+      "web-aidesigner-mcp"
+    ],
+    "category_note": "SPA AI landing builder; capture is meta-only."
   }
 }

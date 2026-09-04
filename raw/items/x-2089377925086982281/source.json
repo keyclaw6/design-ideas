@@ -13,6 +13,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2089377925086982281",
-    "author_handle": "tjrfinn"
+    "author_handle": "tjrfinn",
+    "category_note": "Filtered: cold-calling SaaS (Luo), outside library lanes.",
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "web-graphed",
+      "web-treg-people-search"
+    ],
+    "filtered": true
   }
 }

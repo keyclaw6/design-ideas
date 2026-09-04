@@ -20,6 +20,14 @@
   "unsaved": false,
   "extra": {
     "stars": 502311,
-    "description": "Awesome lists about all kinds of interesting topics"
+    "description": "Awesome lists about all kinds of interesting topics",
+    "related_items": [
+      "github-punkpeye-awesome-mcp-servers",
+      "web-recent-design",
+      "web-getdesign-md",
+      "web-cult-ui",
+      "github-emilkowalski-skills"
+    ],
+    "category_note": "Meta awesome-list index; discovery only, not a pipeline."
   }
 }

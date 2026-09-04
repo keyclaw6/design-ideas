@@ -21,6 +21,14 @@
   "extra": {
     "usage_claim": "15000+ internal questions/day; launched ~3 months before post",
     "stack": "Postgres embeddings table + hybrid retrieval",
-    "fetch": "r.jina.ai (origin 500 warning; body captured)"
+    "fetch": "r.jina.ai (origin 500 warning; body captured)",
+    "related_items": [
+      "web-davidgasquez-context-engineering",
+      "web-anthropic-claude-self-service-data",
+      "web-iandmacomber-post-ai-data-stack",
+      "web-chatgpt-training",
+      "web-blume-codes"
+    ],
+    "category_note": "Enterprise KB: Slack distillation, hybrid retrieval, CocoIndex code."
   }
 }

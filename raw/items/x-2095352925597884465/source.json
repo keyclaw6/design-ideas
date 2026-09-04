@@ -7,7 +7,9 @@
   "authors": [
     "@earthtojake"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +17,10 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2095352925597884465",
-    "author_handle": "earthtojake"
+    "author_handle": "earthtojake",
+    "category_note": "Fable 5.1 one-shot programmatic CAD: W16 engine model + animation.",
+    "related_items": [
+      "x-2095548418533798086"
+    ]
   }
 }

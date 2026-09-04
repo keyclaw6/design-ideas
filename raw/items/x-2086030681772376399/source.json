@@ -7,7 +7,11 @@
   "authors": [
     "@chddaniel"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "ui-motion",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +19,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2086030681772376399",
-    "author_handle": "chddaniel"
+    "author_handle": "chddaniel",
+    "related_items": [
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "x-2095204640690147487",
+      "x-2094164487381414344"
+    ],
+    "category_note": "Opus + Remotion: prompt → code-driven motion/demos. Code-video lane vs diffusion video."
   }
 }

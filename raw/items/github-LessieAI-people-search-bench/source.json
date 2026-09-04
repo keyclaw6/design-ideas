@@ -24,6 +24,14 @@
     "license": "MIT",
     "language": "Python",
     "forks": 33,
-    "fetch": "GitHub API + raw README main"
+    "fetch": "GitHub API + raw README main",
+    "related_items": [
+      "web-arxiv-2603-27476",
+      "web-treg-people-search",
+      "github-superdesigndev-treg",
+      "github-iannuttall-seo",
+      "github-romangojiberryAI-gojiberryai-sales-os"
+    ],
+    "category_note": "Open people-search eval; pairs with treg catalog and arXiv paper."
   }
 }

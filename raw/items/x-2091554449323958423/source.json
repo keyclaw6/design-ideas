@@ -13,6 +13,8 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2091554449323958423",
-    "author_handle": "TheZachMueller"
+    "author_handle": "TheZachMueller",
+    "filtered": true,
+    "category_note": "Local GPU VRAM nerd thread"
   }
 }

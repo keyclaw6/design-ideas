@@ -13,6 +13,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2088600811307979218",
-    "author_handle": "dejavucoder"
+    "author_handle": "dejavucoder",
+    "category_note": "Filtered: HN rank flex with no linked artifact.",
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2088623462109593792",
+      "x-2088695568474546387"
+    ],
+    "filtered": true
   }
 }

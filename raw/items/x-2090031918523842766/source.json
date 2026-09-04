@@ -7,14 +7,27 @@
   "authors": [
     "Emil Kowalski (@emilkowalski)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "ui-motion",
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/emilkowalski/skills"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2090031918523842766",
     "author_handle": "emilkowalski",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:38:20Z"
+    "unsaved_at": "2026-09-04T06:38:20Z",
+    "category_note": "Emil /animate-expo — React Native + Expo motion skill (gestures, sheets, haptics).",
+    "related_items": [
+      "github-emilkowalski-skills",
+      "github-nexu-io-motion-anything",
+      "web-lottiefiles",
+      "github-nateherkai-scroll-craft"
+    ]
   }
 }

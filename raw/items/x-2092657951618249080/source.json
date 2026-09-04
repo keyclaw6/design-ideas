@@ -7,7 +7,10 @@
   "authors": [
     "@intangibleai"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

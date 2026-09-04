@@ -7,7 +7,9 @@
   "authors": [
     "Jake Moran (@JakeFromHeyGen)"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +18,7 @@
   "extra": {
     "tweet_id": "2093129469926215800",
     "author_handle": "JakeFromHeyGen",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "HeyGen launch-video / hyperframes; code claimed in thread (not captured)."
   }
 }

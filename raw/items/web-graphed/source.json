@@ -3,7 +3,7 @@
   "url": "https://www.graphed.com/",
   "source_type": "website",
   "captured_at": "2026-09-02T20:15:00Z",
-  "title": "Graphed — Deploy AI Agents for Marketing",
+  "title": "Graphed \u2014 Deploy AI Agents for Marketing",
   "authors": [
     "Graphed"
   ],
@@ -23,6 +23,14 @@
   "extra": {
     "mcp_url": "https://mcp.graphed.com/mcp",
     "sources_count": "750+",
-    "fetch": "r.jina.ai homepage + /mcp"
+    "fetch": "r.jina.ai homepage + /mcp",
+    "related_items": [
+      "github-superdesigndev-treg",
+      "github-iannuttall-seo",
+      "web-crowdreply",
+      "web-anthropic-claude-self-service-data",
+      "github-romangojiberryAI-gojiberryai-sales-os"
+    ],
+    "category_note": "FDE-deployed marketing agents on warehouse + Graphed MCP."
   }
 }

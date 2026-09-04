@@ -15,6 +15,8 @@
     "tweet_id": "2091564966797029541",
     "author_handle": "FreeCADNews",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:38:55Z"
+    "unsaved_at": "2026-09-04T06:38:55Z",
+    "filtered": true,
+    "category_note": "FreeCAD toponaming PR; not 3D marketing"
   }
 }

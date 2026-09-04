@@ -7,13 +7,17 @@
   "authors": [
     "Yun (@Yun_HDY)"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "camera-control"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2091722166685610284",
     "author_handle": "Yun_HDY",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "CozyClay timeline slow-mo; same repo as x-2091577179914338583"
   }
 }

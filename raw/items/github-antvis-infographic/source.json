@@ -23,6 +23,14 @@
   "unsaved": false,
   "extra": {
     "stars": 6531,
-    "npm": "@antv/infographic"
+    "npm": "@antv/infographic",
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "web-flint-chart",
+      "github-youmind-openlab-nano-banana-pro-prompts",
+      "web-iandmacomber-post-ai-data-stack",
+      "github-wuyoscar-gpt-image2-skill"
+    ],
+    "category_note": "AntV SVG infographic framework + agent skills."
   }
 }

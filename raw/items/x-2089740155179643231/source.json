@@ -7,12 +7,26 @@
   "authors": [
     "@radiumcoders"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "three-js"
+  ],
+  "related_urls": [
+    "https://23rd.dev",
+    "https://github.com/radiumcoders/23rd.dev"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089740155179643231",
-    "author_handle": "radiumcoders"
+    "author_handle": "radiumcoders",
+    "category_note": "23rd.dev — opinionated shadcn registry (shaders, backgrounds, motion).",
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "x-2089263766428950683",
+      "github-nexu-io-open-design"
+    ]
   }
 }

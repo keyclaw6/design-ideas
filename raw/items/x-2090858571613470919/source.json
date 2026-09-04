@@ -3,16 +3,19 @@
   "url": "https://x.com/rauchg/status/2090858571613470919",
   "source_type": "x",
   "captured_at": "2026-09-04T07:52:36Z",
-  "title": "This was wild to watch unfold. We ran \ud835\ude92\ud835\ude9c-\ud835\ude8a\ud835\ude90\ud835\ude8e\ud835\ude97\ud835\ude9d\ud835\ude92\ud835\ude8c in a loop against http://is-agentic.com until it got to 100/100. It mad",
+  "title": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against http://is-agentic.com until it got to 100/100. It mad",
   "authors": [
     "@rauchg"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2090858571613470919",
-    "author_handle": "rauchg"
+    "author_handle": "rauchg",
+    "category_note": "is-agentic.com scoring loop, not a skill pack"
   }
 }

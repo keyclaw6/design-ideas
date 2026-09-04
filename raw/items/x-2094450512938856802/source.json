@@ -7,13 +7,19 @@
   "authors": [
     "Alex Groberman (@alexgroberman)"
   ],
-  "topics": [],
+  "topics": [
+    "seo-agents"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2094450512938856802",
     "author_handle": "alexgroberman",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Second AEO traffic case ($25k ChatGPT/Google/Perplexity); related dashboard capture.",
+    "related_items": [
+      "x-2093729321131368744"
+    ]
   }
 }

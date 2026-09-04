@@ -1,7 +1,54 @@
-# Agent Skills
+# Agent skills
 
-Curated slice — topic `agent-skills`.
+Topic slug: `agent-skills`. Adjacent: [design](design.md), [ui-motion](ui-motion.md), [mcp](mcp.md), [seo-agents](seo-agents.md).
 
+This lane is how coding agents *behave*: installable Cursor/Codex/Claude `SKILL.md` packs, DESIGN.md contracts, prompt galleries, and context-engineering writeups. MCP servers those skills call live on [mcp](mcp.md); this file is the skill/harness layer.
+
+Items cluster three ways. Taste and motion packs (Emil, Taste Skill, Impeccable, interfaces.dev, MengTo) encode anti-slop rules — easing, type, refuse lists — that default models miss. DESIGN.md is the durable visual contract: Google Labs spec, extractors, getdesign.md collections. A smaller ops cluster treats context as data (ETL/KB essays, Blume sidecar, ChatGPT Work/Codex labs). Scroll, 3D, and SEO skills are tagged here *and* on their domain topics.
+
+Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Start with curated Tools, then `related_items` in `source.json`. Presence is not a ranking. For “attach this MCP,” open [mcp](mcp.md); for the landing those skills should ship, open [design](design.md) / [ui-motion](ui-motion.md).
+
+## Pipelines
+
+- Taste pack → `PRODUCT.md` / `DESIGN.md` → critique/polish commands (Impeccable + Emil / Taste Skill)
+- Extract DESIGN.md from a live URL → lint/diff in CI (Hyperbrowser + Google Labs spec)
+- Scroll grammar + signature move + Playwright verify (scroll-craft)
+- Knowledge as ETL: extract → org-specific transform → publish files (Gasquez / Cerebras)
+- Prompt-gallery skill → image/video → HTML landing (GPT Image 2, Nano Banana, MengTo)
+
+## Tools
+
+- [Skills For Designers and Engineers](../../raw/items/github-emilkowalski-skills/) — Vercel/Linear motion + UI craft skills; common agent easing/border mistakes.
+- [Taste Skill](../../raw/items/github-leonxlnx-taste-skill/) — portable anti-slop frontend pack plus reference-board image skills.
+- [Impeccable](../../raw/items/github-pbakaus-impeccable/) — `PRODUCT.md` + `DESIGN.md` + 61 detector rules; live browser iteration.
+- [Agent Skills (MengTo)](../../raw/items/github-mengto-skills/) — UI / Three.js / GSAP pack; video→prompt workflows.
+- [interfaces.dev Skills](../../raw/items/github-jakubkrehel-skills/) — better-* UI, type, and a11y skill pack.
+- [DESIGN.md](../../raw/items/github-google-labs-code-design-md/) — format spec for visual identity; lint/diff CLI.
+- [scroll-craft](../../raw/items/github-nateherkai-scroll-craft/) — scroll-as-timeline plugin; fingerprint gate + Playwright walk.
+- [Obscura](../../raw/items/github-h4ckf0r0day-obscura/) — Rust headless browser for agent sessions (CDP, no Chromium required).
+- [Blume Sidecar](../../raw/items/web-blume-codes/) — watches rules/skills/hooks across Codex, Claude Code, Cursor.
+
+## Techniques
+
+- [Context Engineering Is a Data Problem](../../raw/items/web-davidgasquez-context-engineering/) — treat org context as ETL, not prompt stuffing.
+- [How Cerebras Built Its Enterprise Knowledge Base](../../raw/items/web-cerebras-knowledge-base/) — Slack distillation → curated files agents can read.
+- [How Anthropic enables self-service data analytics with Claude](../../raw/items/web-anthropic-claude-self-service-data/) — semantic layer; ~95% of analytics queries automated.
+- [A Developer's Guide to Taste in the Age of AI](../../raw/items/web-opale-ui-taste/) — encode personal taste into skills instead of vibe defaults.
+- [Checklist Design](../../raw/items/web-checklist-design/) — ship-gate checklists agents can run before polish.
+- [ChatGPT Training — Work, Codex, walkthroughs](../../raw/items/web-chatgpt-training/) — official plugins-vs-skills labs and `llms.txt`.
+
+## Examples
+
+- [OpenDesign](../../raw/items/github-nexu-io-open-design/) — local-first vibe-design workspace; DESIGN.md in, HTML/motion out.
+- [scroll-world](../../raw/items/github-oso95-scroll-world/) — agent skill path for 3D scroll-hero landings.
+- [Aura — AI Website Builder](../../raw/items/web-aura-build/) — builder paired with MengTo skill pack.
+- [Three.js Awesome Graphics Agent Skills](../../raw/items/github-scottstts-threejs-awesome-graphics-agent-skills/) — camera rigs, PBR, TSL/WebGPU skills.
+- [GPT Image 2 Prompt Gallery + Agentic Skill + CLI](../../raw/items/github-wuyoscar-gpt-image2-skill/) — prompt gallery as an installable skill.
+- [Scroll-animated $5k site without writing CSS](../../raw/items/x-2094984529853530345/) — ChatGPT + Gemini + Claude Code stack, no hand CSS.
+
+## All items
+
+<!-- AUTO:ITEMS -->
 - [People Search Bench](../../raw/items/github-LessieAI-people-search-bench/) — `github-LessieAI-people-search-bench`
 - [AntV Infographic](../../raw/items/github-antvis-infographic/) — `github-antvis-infographic`
 - [Diagram Design](../../raw/items/github-cathrynlavery-diagram-design/) — `github-cathrynlavery-diagram-design`
@@ -39,6 +86,7 @@ Curated slice — topic `agent-skills`.
 - [DESIGNMD — Hyperbrowser DESIGN.md Extractor](../../raw/items/web-design-md-hyperbrowser/) — `web-design-md-hyperbrowser`
 - [designmd.me](../../raw/items/web-designmd-me/) — `web-designmd-me`
 - [designmd.supply](../../raw/items/web-designmd-supply/) — `web-designmd-supply`
+- [fal — generative media platform for developers](../../raw/items/web-fal-ai/) — `web-fal-ai`
 - [Flint: A Visualization Language for the AI Era](../../raw/items/web-flint-chart/) — `web-flint-chart`
 - [getdesign.md — DESIGN.md Collection for AI Coding Agents](../../raw/items/web-getdesign-md/) — `web-getdesign-md`
 - [GetLayers AI](../../raw/items/web-getlayers-ai/) — `web-getlayers-ai`
@@ -52,9 +100,143 @@ Curated slice — topic `agent-skills`.
 - [SceneAI — UI Prompt Library](../../raw/items/web-sceneai-art/) — `web-sceneai-art`
 - [Sokosumi — Free DESIGN.md Generator](../../raw/items/web-sokosumi-design-md/) — `web-sokosumi-design-md`
 - [Refero Styles — DESIGN.md Examples for AI Agents](../../raw/items/web-styles-refero-design/) — `web-styles-refero-design`
+- [TinyShots — macOS screenshot polish app](../../raw/items/web-tinyshots/) — `web-tinyshots`
 - [treg — Claude for People Search](../../raw/items/web-treg-people-search/) — `web-treg-people-search`
 - [typeui.sh](../../raw/items/web-typeui-sh/) — `web-typeui-sh`
+- [Autoquant: a distributed quant research lab | v2.6.9 We pointed @karpathy's autoresearch loop at quantitative finance. 1](../../raw/items/x-2032330665081839791/) — `x-2032330665081839791`
+- [Agentic General Intelligence | v3.0.10 We made the Karpathy autoresearch loop generic. Now anyone can propose an optimiz](../../raw/items/x-2032671842230501729/) — `x-2032671842230501729`
+- [codex + blender is insane](../../raw/items/x-2065843739340509693/) — `x-2065843739340509693`
+- [my latest blog post "auto-research with codex: how I achieved a 212x faster kernel over baseline with codex in GPU Mode'](../../raw/items/x-2074912810803560497/) — `x-2074912810803560497`
+- [🧪 [𝐏𝐫𝐢𝐦𝐞𝐫] 𝐀𝐮𝐭𝐨𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐇𝐚𝐫𝐧𝐞𝐬𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 • http://autoresearch.aman.ai - I believe autoresearch matters because i](../../raw/items/x-2080856252687745093/) — `x-2080856252687745093`
+- [i always disable all permission checks for my agents - i don't even do auto review. many people saw that in my videos an](../../raw/items/x-2082316720086405524/) — `x-2082316720086405524`
+- [My last open-source skill, /no-ai-slop, clearly hit a nerve with 4K GitHub stars. Today, I’m introducing /human-review, ](../../raw/items/x-2085006701984698712/) — `x-2085006701984698712`
+- [this is terrifying. Claude Opus 5 + Remotion can now generate videos. It can do motion design, demos and animations from](../../raw/items/x-2086030681772376399/) — `x-2086030681772376399`
+- [Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) 🚀 I finally figured out ho](../../raw/items/x-2086537093120164177/) — `x-2086537093120164177`
+- [Claude can now build 3D websites and most people still don't know how. This free 1-hour course covers interactive 3D exp](../../raw/items/x-2086599657925329347/) — `x-2086599657925329347`
+- [在试用了大部分热门的设计 SKILL 之后，最终我只留下这 4 个： 1. Impeccable http://impeccable.style 2. Skills for Design Engineers http://github.co](../../raw/items/x-2086715093707063445/) — `x-2086715093707063445`
+- [Introduce loop-library People talk loops, but most loops sucks That's why we built the loop library - loops that ACTUALL](../../raw/items/x-2086790895538700379/) — `x-2086790895538700379`
+- [Introducing ... 🥁 "Agentic UI Showcase" https://agenticui.net/showcase A collection of best product interfaces made with](../../raw/items/x-2086801779358875912/) — `x-2086801779358875912`
+- [Vibed out an app today and I haven't looked at the internals at all Things are going wrong with it, I'm scared and frust](../../raw/items/x-2086838432102228008/) — `x-2086838432102228008`
+- [/bro is my new favorite skill. before | after https://github.com/luchasarie/bro-skill](../../raw/items/x-2086845465140842638/) — `x-2086845465140842638`
+- [one of the best write-ups I have seen on getting hermes agent to build your life OS and second brain EP released a singl](../../raw/items/x-2086920236079681607/) — `x-2086920236079681607`
+- [Anthropic shared a Dynamic Workflows cookbook worth reviewing Bookmark this one Claude writes the orchestration script a](../../raw/items/x-2087026930323247306/) — `x-2087026930323247306`
+- [Agent 记忆不该只记成功的——失败的轨迹同样有价值，推理过程本身就是最好的记忆内容。 Google Research 开源 ReasoningBank：经验驱动的记忆被当作继参数规模、测试时计算之后的第三个扩展维度。 Reasoning](../../raw/items/x-2087143369181114868/) — `x-2087143369181114868`
+- [That's the full stack. One package. One port. `npm i @copilotkit/aimock` Docs: http://aimock.copilotkit.dev GitHub: http](../../raw/items/x-2087151521121419648/) — `x-2087151521121419648`
+- [Ouroboros: A self-improving coding agent It can evolve its own tools, prompts, and architecture through reviewed commits](../../raw/items/x-2087151807965401320/) — `x-2087151807965401320`
+- [Github Repo: https://github.com/cloudflare/cloudflare-os](../../raw/items/x-2087178722420171020/) — `x-2087178722420171020`
+- [Version controls AI agent memory with snapshots, branches, and merges https://github.com/matrixorigin/Memoria](../../raw/items/x-2087208634493095978/) — `x-2087208634493095978`
+- [People of @pidotdev! I just clanked up pi-shepherdr (KEKW): talk to one Pi, let it run the others. One master Pi gets a ](../../raw/items/x-2087232392209531166/) — `x-2087232392209531166`
+- [you don't need to re-explain your codebase's architecture to your agent every session. most tools stop at telling you wh](../../raw/items/x-2087239769877295158/) — `x-2087239769877295158`
+- [DEEPSEEK V4 FLASH AND QWEN3.6 ARE FREE ON AMD'S OWN CLOUD AT $10 OF USAGE A DAY • AMD Token Factory > DeepSeek V4 Flash,](../../raw/items/x-2087240056037908509/) — `x-2087240056037908509`
+- [This paper is f*cking genius A computer science paper from Stanford AI Systems Lab formalizes why multi-agent pipelines ](../../raw/items/x-2087254502210490739/) — `x-2087254502210490739`
+- [My workflow now is basically this: 1. AGENTS.md auto loads up these 4 skills: ponytail grilling wayfinder ask-matt 2. I ](../../raw/items/x-2087263510090874911/) — `x-2087263510090874911`
+- [Hardware design is having its Chat GPT moment. Typed one prompt. CadXStudio generated this full parametric bookshelf spe](../../raw/items/x-2087272209429766596/) — `x-2087272209429766596`
+- [stop sending bad prompts to your Pi coding agent. you liked pi-clarify, so i published it on npm too: pi install npm:pi-](../../raw/items/x-2087304957011911157/) — `x-2087304957011911157`
+- [Pretty-Mermaid Skills renders Mermaid diagrams as beautiful SVGs or ASCII art with zero DOM dependencies. https://github](../../raw/items/x-2087329201451855933/) — `x-2087329201451855933`
+- [Slop writing is mostly solved "Can you make it like google dev docs style. More dead prose. No aphorisms, no flourishes.](../../raw/items/x-2087346803268260043/) — `x-2087346803268260043`
+- [📄New Research on Self-Evolving Agents: When AI agents modify themselves, how do we know they actually got better? We pre](../../raw/items/x-2087444616832594022/) — `x-2087444616832594022`
+- [KERNEL browsers now support custom proxies with CA bundles. pass your CA bundle in when you create the proxy and it will](../../raw/items/x-2087555254757757116/) — `x-2087555254757757116`
+- [35B parameters. One iPhone. No cloud. We trained Edge8-35B, an ultra-sparse MoE with a jointly trained dynamic expert pl](../../raw/items/x-2087562269807030754/) — `x-2087562269807030754`
+- [Introducing pdfcn 📄 by @shadcnlabs > Built on Takumi by @kanewang_ and Forme > Zero config, one command setup. > @shadcn](../../raw/items/x-2087656088124719304/) — `x-2087656088124719304`
+- [Orca has a design mode: draw and annotate right on your site, then send that feedback to any AI agent. Drop the site you](../../raw/items/x-2087708050002239702/) — `x-2087708050002239702`
+- [People of @pidotdev! I have just spent roughly 16 hours using realtime voice to build, review and debug the biggest real](../../raw/items/x-2087714580491370655/) — `x-2087714580491370655`
+- [One component, 10 examples. https://pro.reactbits.dev components do 90% of the work: motion, structure, customization. T](../../raw/items/x-2087812720762425743/) — `x-2087812720762425743`
+- [Homieeee... This feels like finding a shovel during a gold rush. 🌋 A stunning collection of UI components built specific](../../raw/items/x-2087832615797833807/) — `x-2087832615797833807`
+- [Introducing Rakazo, an open-source Grok Bot alternative! - Use any LLM (pi harness) - Use any sandbox provider. Or Docke](../../raw/items/x-2087898602890744089/) — `x-2087898602890744089`
+- [Your company brain should learn and improve as your team works. Type builds a separate memory on the individual, team an](../../raw/items/x-2087955721732460791/) — `x-2087955721732460791`
+- [Pushed Bonsai-1.7B from @PrismML further again. 64 → 90 tok/s decode on the same Android Device. CPU only, no NPU, no GP](../../raw/items/x-2087962842985058365/) — `x-2087962842985058365`
+- [i've started having claude turn my codebases into visual diagrams so i can discuss the codebases with claude more easily](../../raw/items/x-2088016749849682120/) — `x-2088016749849682120`
+- [genius LLM SEO/GEO hack](../../raw/items/x-2088046188037902579/) — `x-2088046188037902579`
+- [GitHub repo (132,000+ stars), share and star to help me keep shipping: https://github.com/Shubhamsaboo/awesome-llm-apps](../../raw/items/x-2088116807869854126/) — `x-2088116807869854126`
+- [claude dropped Motion Prompt, and the crazy part is this entire animation was made with code, not AI-generated images or](../../raw/items/x-2088155107544191339/) — `x-2088155107544191339`
+- [Bro... imagine giving Claude Code a strong fuckin memory. 🧠 Obsidian Mind is an open-source Obsidian vault that gives AI](../../raw/items/x-2088231655177924993/) — `x-2088231655177924993`
+- [Gemini 3.7 Flash High in Antigravity 🔥🔥 it created this in ~4 mins - pretty fast and perfect > Bugatti W16 engine with m](../../raw/items/x-2088240171565412733/) — `x-2088240171565412733`
+- [OpenSCAD + Cursor + grill-me is incredible! I just made a custom homelab server device rack 1. Create an empty folder wi](../../raw/items/x-2088252062454751483/) — `x-2088252062454751483`
+- [Impeccable 4.1 is here: core: -critique results more reliably prints in chat before asking you questions - the design ho](../../raw/items/x-2088254428730085690/) — `x-2088254428730085690`
+- [@mattpocockuk Ah, I just looked at the new one! I see it has a bit more detail now. Linking your repo here for anyone in](../../raw/items/x-2088260067204137135/) — `x-2088260067204137135`
+- [This is a really useful tutorial if you want to learn how to build more advanced Three.js landing pages with Claude Code](../../raw/items/x-2088265078919282836/) — `x-2088265078919282836`
+- [More VibeCAD work on the exploded views and simulations. I honestly think this is getting to the place where its very de](../../raw/items/x-2088277946918142211/) — `x-2088277946918142211`
+- [Qwen3.8-27B can now be run locally! ✨ Run on 17GB RAM via Unsloth Dynamic GGUFs. Qwen3.8-27B is by far the strongest mod](../../raw/items/x-2088281537427235320/) — `x-2088281537427235320`
+- [Just saw a comment saying that I've never made a proper overview of EVERY skill in my skills repo I thought "damn it, he](../../raw/items/x-2088290952704151671/) — `x-2088290952704151671`
+- [The scary part about AI in CAD is not that it can draw a part. It is that it can now understand a messy engineering proj](../../raw/items/x-2088296314484162719/) — `x-2088296314484162719`
+- [If you've ever had a hardware idea and just... didn't build it because CAD felt like a wall - this hexacopter is what ha](../../raw/items/x-2088308976278790258/) — `x-2088308976278790258`
+- [anatomy of a managed deep agent. https://langch.in/mda](../../raw/items/x-2088345102540587356/) — `x-2088345102540587356`
+- [I heavily use diagraming tools for architecting which means a lot of screenshotting and pasting. To make things simpler,](../../raw/items/x-2088590355440476343/) — `x-2088590355440476343`
+- [278.3 tok/s. $0.13/1M input. $0.27/1M output. full BF16 DeepSeek V4 Flash is now live on RunInfra -- the fastest full-pr](../../raw/items/x-2088594942482374759/) — `x-2088594942482374759`
+- [Connects enterprise knowledge across your organization to build AI agents, RAG applications, and search on a single gove](../../raw/items/x-2088623462109593792/) — `x-2088623462109593792`
+- [@b_nnett Is this one of the tweaks from your codex-plusplus? Which one? https://github.com/b-nnett/codex-plusplus](../../raw/items/x-2088634091671531923/) — `x-2088634091671531923`
+- [🚨 BREAKING: DeepSeek-V4-Flash-0731-Fast⚡️ is live on @vercel AI Gateway! pick @wafer_ai as your provider (ss taken 8.15.](../../raw/items/x-2088695568474546387/) — `x-2088695568474546387`
+- [@threejs Awesome Graphics Agent Skills v0.8.0 is out! npx threejs-awesome-graphics-agent-skills@latest install --agent c](../../raw/items/x-2088738850705113398/) — `x-2088738850705113398`
+- [okay I tested /unlazy more with Opus 5 and I'm ngl it's really good Sol, Fable and I cooked lol try it here! https://git](../../raw/items/x-2088742864310481025/) — `x-2088742864310481025`
+- [Anthropic shared a Cost Optimization cookbook worth reviewing (Bookmark this one) A real agent goes from $0.29/task down](../../raw/items/x-2089165107364278341/) — `x-2089165107364278341`
+- [wtf this is sick https://www.aicss.dev/](../../raw/items/x-2089182103153897532/) — `x-2089182103153897532`
+- [i didn't tell anyone about this repo but it kept getting stars 😂 so i guess it's time to share it introducing /vision. i](../../raw/items/x-2089189790881382676/) — `x-2089189790881382676`
+- [The best UI components ready to use, save this 👇 - http://originkit.dev free animated component library - http://orbs.ja](../../raw/items/x-2089263766428950683/) — `x-2089263766428950683`
+- [Introducing /improve-threejs Turn vibe-slop Three.js prototypes into stunning apps It makes slow, visually buggy games r](../../raw/items/x-2089400082550620636/) — `x-2089400082550620636`
+- [PSA: If you are tired of Claude-lish or Chat-lish, tell your AI to read the Google Developer Docs Style Guide and build ](../../raw/items/x-2089457435459404093/) — `x-2089457435459404093`
+- [I open-sourced the Sylva three.js site and the skills behind it. I started with one reference and asked Opus 5 to recrea](../../raw/items/x-2089602918605619401/) — `x-2089602918605619401`
+- [Straight from the team: From prompt to a fully designed Screwdriver all in https://cadxstudio.in #TextToCAD #CAD](../../raw/items/x-2089717063921332378/) — `x-2089717063921332378`
+- [Animated in Higgsfield Seedance 2.5 + Cursor Composer 2.5 AI Skill: https://github.com/elayadesign/ai-design-skills](../../raw/items/x-2089770081459056765/) — `x-2089770081459056765`
+- [A manufacturable mini jet engine, designed with Opus in Smith. This result would have been pretty unthinkable a few mont](../../raw/items/x-2089802212000362939/) — `x-2089802212000362939`
+- [New skill: /animate-expo All the animation knowledge, but for your native apps. React Native and Expo: gestures, sheets,](../../raw/items/x-2090031918523842766/) — `x-2090031918523842766`
+- [Another design direction for this AI SaaS. built by Custom Skills + My Video Tool + Claude + Some Creativity](../../raw/items/x-2090079734571098131/) — `x-2090079734571098131`
+- [We’re releasing new Qwen3.8-27B GGUFs with 10% higher accuracy. Unsloth Dynamic V3 outperforms others by >10% on Div-300](../../raw/items/x-2090103470015828184/) — `x-2090103470015828184`
+- [Testing if AI can actually design a wheel hub on CadXStudio. Bolt circle. Drive spline. Brake disc mount. From prompt to](../../raw/items/x-2090535643353153833/) — `x-2090535643353153833`
+- [Post got a lot of traction, so I made a rank with the anti-slop skills people need to install. 1. stop-slop - @hvpandya ](../../raw/items/x-2090834948332655011/) — `x-2090834948332655011`
+- [UA spoofing is back on baby, for only $0.00 you too can be OpenAI File Downloader, XaiImageApiFetch/1.0 Some sites like ](../../raw/items/x-2090837707069014224/) — `x-2090837707069014224`
+- [This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against http://is-agentic.com until it got to 100/100. It mad](../../raw/items/x-2090858571613470919/) — `x-2090858571613470919`
+- [Adding four words to a prompt took a model's accuracy on math questions from 17% to 78%. That's not made up, it's a real](../../raw/items/x-2091118605392019658/) — `x-2091118605392019658`
+- [You don't know how good this skill is until you try it https://github.com/Leonxlnx/unlazy](../../raw/items/x-2091125349308399923/) — `x-2091125349308399923`
+- [6 repos de AI Agents que estan explotando en github 1. Graft — https://github.com/NanoNets/Graft Hace que claude code se](../../raw/items/x-2091157554919280688/) — `x-2091157554919280688`
+- [This is f*cking insane The craziest self evolving internal memory stack I've ever found Matter of fact, it just hit 31,9](../../raw/items/x-2091169290661838965/) — `x-2091169290661838965`
+- [HIGGSFIELD BUILDS A FULL LOW-POLY WORLD INSIDE BLENDER One prompt. Claude Opus 5 takes control through the Higgsfield pl](../../raw/items/x-2091497597743612379/) — `x-2091497597743612379`
+- [system-atlas: a skill that builds an explorable isometric map of your codebase / agent / pipeline from one data file arr](../../raw/items/x-2091559663833924082/) — `x-2091559663833924082`
+- [You can just RL a coding model to paint with javascript btw](../../raw/items/x-2091570990048276897/) — `x-2091570990048276897`
+- [This blew up, so I added 60 more three.js components from experiments I made over the last two weeks. I'm still amazed b](../../raw/items/x-2091571624390881664/) — `x-2091571624390881664`
+- [Weekend project: setting up @bentlegen's http://sideshow.sh to visually understand & interact with my agents' work. This](../../raw/items/x-2091622497393225801/) — `x-2091622497393225801`
+- [You can also make beautifully imperfect videos with AI coding models](../../raw/items/x-2091622751756751211/) — `x-2091622751756751211`
+- [nick turned our docs in to a book we've always put a lot of work in to hand-written docs for humans (plus skills for age](../../raw/items/x-2091686636698657080/) — `x-2091686636698657080`
+- [can you believe that every pixel here is fully editable? this was created with the Motion harness](../../raw/items/x-2091688420695564296/) — `x-2091688420695564296`
+- [This site is perfect for Vibecoding It gives you the names of all the common UI + their prompts so you can tell AI to bu](../../raw/items/x-2091689598883934666/) — `x-2091689598883934666`
+- [3d model within a website is just so crazy with Claude. I built this template where one 3D scene drives the whole page. ](../../raw/items/x-2091748299975880994/) — `x-2091748299975880994`
+- [/have-some-range](../../raw/items/x-2091865940581638285/) — `x-2091865940581638285`
+- [2,000+ DESIGN.md files from real product sites, colors, type, spacing, components, ready to paste into Cursor, Claude Co](../../raw/items/x-2091934379648110784/) — `x-2091934379648110784`
+- [Introducing 𝙨𝙚𝙨𝙨𝙞𝙤𝙣-𝙢𝙞𝙜𝙧𝙖𝙩𝙚, a tool for migrating coding agent sessions across Claude Code, Codex, Pi, OpenCode, and mor](../../raw/items/x-2091970263088816272/) — `x-2091970263088816272`
+- [Introducing Headlong, an open source microharness for persistent agents: self-guided agents that think continuously. Mos](../../raw/items/x-2091990178638496195/) — `x-2091990178638496195`
+- [CLAUDE DIRECTS A FULL CINEMATIC SHOT IN UNREAL One prompt. Claude takes control through Unreal MCP > Spawns CineCamera >](../../raw/items/x-2092008677834387672/) — `x-2092008677834387672`
+- [Trending repository of the day 📈 awesome-gpt-image-2 Prompt as Code | Industrial-grade prompt engine and template librar](../../raw/items/x-2092222199620833420/) — `x-2092222199620833420`
+- [Introducing Higgsfield in Blender. > Prompt the scene and build the blockout > Describe the camera move and get it anima](../../raw/items/x-2092255768770920506/) — `x-2092255768770920506`
+- [avoid-ai-writing audits text for AI writing patterns and rewrites flagged passages in place. https://github.com/conorbro](../../raw/items/x-2092656414351118647/) — `x-2092656414351118647`
+- [Everyone's suddenly building company brains. Nobody agrees on what's inside one. 😵‍💫 So we opened up 9+ company brains t](../../raw/items/x-2092918452423983363/) — `x-2092918452423983363`
+- [okay yall asked for the prompt under this here's the exact template + a mini tutorial on how to use it for basically any](../../raw/items/x-2092979866836648104/) — `x-2092979866836648104`
+- [video-use + codex for video editing is mindblowingly good one of the best AI tools I've ever used https://github.com/bro](../../raw/items/x-2092980272819999227/) — `x-2092980272819999227`
+- [About 7 months ago, I started designing a WebGPU library to ship performant shaders at Vercel. Today, we are announcing ](../../raw/items/x-2093012548031254932/) — `x-2093012548031254932`
+- [After paying for years for SEMrush, I finally canceled it and moved to open source. DataforSEO API + OpenSEO is a powerf](../../raw/items/x-2093013941412852083/) — `x-2093013941412852083`
+- [We use GLM-5.3-Flash build a dream kitchen. A 3D world built in Blender. This is not a generated video.](../../raw/items/x-2093047548550525165/) — `x-2093047548550525165`
+- [We just killed Exa, Tavily, SerpAPI, and Brave. Your agent can now search & fetch any webpage for 100% FREE. Them: $7 pe](../../raw/items/x-2093050916953903451/) — `x-2093050916953903451`
+- [CLAUDE BUILDS AN ALCHEMIST SHOP ACROSS TWO MCP SERVERS This is not one tool doing everything. Claude Code runs the whole](../../raw/items/x-2093064017468145963/) — `x-2093064017468145963`
+- [Built a @heyglif skill that generates incredible motion graphics videos end to end, in any style, based on your script o](../../raw/items/x-2093081833911058772/) — `x-2093081833911058772`
+- [OmniParser gives any LLM the ability to see and click a screen, not just models built specifically for computer use. It ](../../raw/items/x-2093153416214114558/) — `x-2093153416214114558`
+- [My workflow has completely changed. • Ideate with ChatGPT • Build with Fable 5 • Animate with Higgsfield • Keep iteratin](../../raw/items/x-2093236801079279978/) — `x-2093236801079279978`
+- [This is what happens when you stop testing AI CAD on sensible objects. Built inside Autodesk Fusion through MCP, the ass](../../raw/items/x-2093305736717545869/) — `x-2093305736717545869`
+- [Trending repository of the day 📈 archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-fl](../../raw/items/x-2093309791120543846/) — `x-2093309791120543846`
+- [This is how I've been building production agents lately. Hermes - owns judgement, objectives, timing, etc. Skills - proc](../../raw/items/x-2093437790969385283/) — `x-2093437790969385283`
+- [Este tipo explica cómo crear páginas web profesionales con GPT-5.6 Sol. Un tutorial de 21 minutos donde explica paso a p](../../raw/items/x-2093583622691283018/) — `x-2093583622691283018`
+- [It's crazy how my entire LinkedIn feed is AI-slop content. No one cares to edit AI-written content. Here are 12 AI tells](../../raw/items/x-2093654908322951447/) — `x-2093654908322951447`
+- [Design Engineers, this one's for you. A curated collection of the best tools and resources for designing, prototyping, a](../../raw/items/x-2093669411685110141/) — `x-2093669411685110141`
+- [a researcher told me he abandoned his second brain after four months. "the more i added, the more i had to manage. it be](../../raw/items/x-2093677274641969390/) — `x-2093677274641969390`
+- [I started using AI agents to build SEO backlinks recently. What used to take me 2–3 hours a day manually is now mostly a](../../raw/items/x-2093713466955649145/) — `x-2093713466955649145`
+- [Someone turned the design language of 2,000+ of the world’s best products into DESIGN.md files that Codex / Claude Code ](../../raw/items/x-2093766772029559077/) — `x-2093766772029559077`
+- [Walk into Hogwarts... Built this landing for an AI-based Harry Potter Experience event. Built by Custom Skills + My Vide](../../raw/items/x-2093767075131220005/) — `x-2093767075131220005`
+- [🚨 THIS IS INSANE A Claude Code skill just started REFUSING to build websites that look like everyone else’s. Sameness is](../../raw/items/x-2093900284896657841/) — `x-2093900284896657841`
+- [You don't need a massive agency budget to build an ultra-premium, interactive finance website. Watch how to build this p](../../raw/items/x-2093915384944414827/) — `x-2093915384944414827`
+- [I created the world's best library of AI prompts for websites that don’t look like AI slop. 👇 • 590+ Al Animation Websit](../../raw/items/x-2094009989220430084/) — `x-2094009989220430084`
+- [🚨 ADIÓS A LA EDICIÓN DE VIDEO Alguien acaba de crear una herramienta de edición de video gratuita para Claude Code... y ](../../raw/items/x-2094061655990702150/) — `x-2094061655990702150`
+- [🔴 Los DISEÑOS web que genera tu agente APESTAN Espaciado raro Tipografia generica Gradientes de siempre Ese look de IA q](../../raw/items/x-2094069236524061059/) — `x-2094069236524061059`
+- [everyone showing off their six agent company is showing off one login. I counted what mine actually did in twenty minute](../../raw/items/x-2094110975045554191/) — `x-2094110975045554191`
+- [Today we're launching Claude for motion graphics 2.0. It does the sound now. One person is now a whole production team: ](../../raw/items/x-2094164487381414344/) — `x-2094164487381414344`
 - [GrokBot booked a demo via GojiberryAI MCP (97 prospects / 24h)](../../raw/items/x-2094326291906310180/) — `x-2094326291906310180`
+- [https://x.com/i/article/2094424686499160065](../../raw/items/x-2094424967345496191/) — `x-2094424967345496191`
 - [Obscura — Rust headless browser for agents (claims ~22k★)](../../raw/items/x-2094427822064279870/) — `x-2094427822064279870`
 - [GBrain evals — retrieval without LLM-in-loop + memory-save](../../raw/items/x-2094462971598754010/) — `x-2094462971598754010`
 - [Grok Bot as Chief of AI Visibility + CrowdReply MCP](../../raw/items/x-2094553318031024285/) — `x-2094553318031024285`
@@ -67,4 +249,22 @@ Curated slice — topic `agent-skills`.
 - [Ian Nuttall asking if anyone uses his SEO skill/CLI for real work](../../raw/items/x-2095055297949610427/) — `x-2095055297949610427`
 - [Best websites to get DESIGN.md](../../raw/items/x-2095078647652917329/) — `x-2095078647652917329`
 - [Open-sourced outbound team — 13 AI sales agents in Grok Bot + GojiberryAI MCP](../../raw/items/x-2095081419202560010/) — `x-2095081419202560010`
+- [Made with @ChatGPT check out https://Imageory.in for prompts](../../raw/items/x-2095085408208196006/) — `x-2095085408208196006`
+- [Made this 3D keyboard animation with CoAnimator, Claude Fable 5.1 ⌨️ ✨ Best part ? You can edit and customize the whole ](../../raw/items/x-2095111032171876470/) — `x-2095111032171876470`
 - [ChatGPT Work / Codex training page (learn.chatgpt.com)](../../raw/items/x-2095133695480873023/) — `x-2095133695480873023`
+- [AI was supposed to replace artists. So I hired one to make an AI Gucci ad. He drew every shot on paper first. Then Claud](../../raw/items/x-2095156045303701766/) — `x-2095156045303701766`
+- [Blender MCPでFable 5.1を使い、右のエクイレクタングラー方式の都市パノラマ画像をリソースとして都市を構築させたところ、一発でこの情報量のモデルが完成。 これを手作業で作れと言われたら、3人日はかかるかな……。 テストでこの](../../raw/items/x-2095159781883597031/) — `x-2095159781883597031`
+- [Claude Fable 5.1 is a beast at agentic CAD! At Max effort it's the most capable model we've tested so far. Here, inside ](../../raw/items/x-2095193896687177873/) — `x-2095193896687177873`
+- [BREAKING: An unsupervised AI is doing 160,000 views a day on TikTok We connected 6 models to @lightreelai and Doublespee](../../raw/items/x-2095202138854977756/) — `x-2095202138854977756`
+- [Generates cinematic product videos with Claude Code and Remotion using 152 shot recipe cards and motion styles. https://](../../raw/items/x-2095204640690147487/) — `x-2095204640690147487`
+- [Hero section design. built by Custom Skills + My Video Tool + Cursor + Client design md file and Some Creativity](../../raw/items/x-2095207624396652956/) — `x-2095207624396652956`
+- [Hey Grok, make $1M, make no mistakes 9 Grok bots to run your marketing 👇 1/ Ads Grok -> Connect Google and Meta in 1 cli](../../raw/items/x-2095231184531828762/) — `x-2095231184531828762`
+- [AIでBlenderを操作する方法 - CLIとMCPの使い分け｜npaka @npaka123 https://note.com/npaka/n/n7f7531e7b9ed?sub_rt=share_sb](../../raw/items/x-2095288402606514424/) — `x-2095288402606514424`
+- [fable 5.1 one shotting a quad-turbo W16 engine (this is a full CAD model + animation)](../../raw/items/x-2095352925597884465/) — `x-2095352925597884465`
+- [❤️‍🔥GPT 5.6 Sol Prompt 👇](../../raw/items/x-2095368133070700884/) — `x-2095368133070700884`
+- [❤️‍🔥 GPT 5.6 Sol Prompt 👇](../../raw/items/x-2095451624139567162/) — `x-2095451624139567162`
+- [Fabel 5.1 cooked it. Try the prompt yourself👇](../../raw/items/x-2095482056180638142/) — `x-2095482056180638142`
+- [Take a photo of the real world Paste it into Blender 3D](../../raw/items/x-2095512142766342624/) — `x-2095512142766342624`
+- [one of the beautiful things about programmatic CAD and 3D design is more efficient expression: the text-to-cad repo has ](../../raw/items/x-2095548418533798086/) — `x-2095548418533798086`
+- [Claude Fable 5.1 has given me the best website outputs compared to any AI model One-shots - don't need to spend a lot.](../../raw/items/x-2095549461737111905/) — `x-2095549461737111905`
+<!-- /AUTO:ITEMS -->

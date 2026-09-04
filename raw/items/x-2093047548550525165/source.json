@@ -7,13 +7,17 @@
   "authors": [
     "Lou (@louszbd)"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093047548550525165",
     "author_handle": "louszbd",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Agent-built Blender interior; not a BESS site"
   }
 }

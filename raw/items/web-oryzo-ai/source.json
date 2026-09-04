@@ -18,6 +18,14 @@
   "unsaved": false,
   "extra": {
     "design_studio": "Lusion",
-    "concept": "Parody AI product page for a cork coaster"
+    "concept": "Parody AI product page for a cork coaster",
+    "related_items": [
+      "web-utsubo",
+      "web-cartier-ballon-bleu",
+      "github-mengto-complete-shelf",
+      "web-opale-ui-taste",
+      "github-nateherkai-scroll-craft"
+    ],
+    "category_note": "Lusion satirical AI-product landing; craft ceiling for 3D web."
   }
 }

@@ -7,13 +7,17 @@
   "authors": [
     "Surya (@kickingkeys)"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2091570990048276897",
     "author_handle": "kickingkeys",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "RL-a-coder-to-paint; media/demo thin"
   }
 }

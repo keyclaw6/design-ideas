@@ -22,6 +22,14 @@
   "unsaved": false,
   "extra": {
     "stars": 83632,
-    "homepage": "https://tasteskill.dev"
+    "homepage": "https://tasteskill.dev",
+    "related_items": [
+      "github-emilkowalski-skills",
+      "web-opale-ui-taste",
+      "github-pbakaus-impeccable",
+      "github-jakubkrehel-skills",
+      "github-mengto-skills"
+    ],
+    "category_note": "Anti-slop frontend skill pack + reference-board image skills."
   }
 }

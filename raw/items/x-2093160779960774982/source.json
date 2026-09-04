@@ -15,6 +15,8 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093160779960774982",
-    "author_handle": "EyalToledano"
+    "author_handle": "EyalToledano",
+    "filtered": true,
+    "category_note": "Local Qwen MoE quant/prune; model-infra, not a taxonomy lane."
   }
 }

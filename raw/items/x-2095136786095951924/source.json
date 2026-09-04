@@ -7,7 +7,9 @@
   "authors": [
     "Naren Bao \u5305\u5a1c\u4ec1 | Physical AI Agents (@NarenBao)"
   ],
-  "topics": [],
+  "topics": [
+    "gaussian-splatting"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +18,11 @@
   "extra": {
     "tweet_id": "2095136786095951924",
     "author_handle": "NarenBao",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Splat2Mesh coverage: PLY\u2192OBJ/GLB, local, no GPU; watertight not guaranteed.",
+    "related_items": [
+      "web-arcana-splat2mesh",
+      "x-2093179838249251011"
+    ]
   }
 }

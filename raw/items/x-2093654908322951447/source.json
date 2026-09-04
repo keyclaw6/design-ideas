@@ -7,13 +7,16 @@
   "authors": [
     "Ruben Hassid (@rubenhassid)"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093654908322951447",
     "author_handle": "rubenhassid",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Claude writing/anti-slop skill pack (writer, editor, ban-AI-words, etc.)."
   }
 }

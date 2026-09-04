@@ -7,14 +7,27 @@
   "authors": [
     "robot 2.0 (@alightinastorm)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "three-js",
+    "bess-3d-flythrough",
+    "design"
+  ],
+  "related_urls": [
+    "https://spline.design/"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2090526692427104508",
     "author_handle": "alightinastorm",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:38:35Z"
+    "unsaved_at": "2026-09-04T06:38:35Z",
+    "category_note": "Spline called out as the web-3D disruptor vs DCC tools.",
+    "related_items": [
+      "github-oso95-scroll-world",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-feralui-dev",
+      "github-mengto-complete-shelf"
+    ]
   }
 }

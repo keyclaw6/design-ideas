@@ -7,12 +7,21 @@
   "authors": [
     "@JSFILMZ0412"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "camera-control",
+    "mcp"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093663876692754713",
-    "author_handle": "JSFILMZ0412"
+    "author_handle": "JSFILMZ0412",
+    "category_note": "Claude Desktop \u2192 Blender via Higgsfield MCP \u2192 playblast \u2192 Seedance 2.5 motion ref.",
+    "related_items": [
+      "x-2093377271771865267",
+      "x-2093374092795846745"
+    ]
   }
 }

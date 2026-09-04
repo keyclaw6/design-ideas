@@ -7,13 +7,25 @@
   "authors": [
     "CadX Studio (@CadX_Studio)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://cadxstudio.in"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2090535643353153833",
     "author_handle": "CadX_Studio",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "CadX Studio: prompt → wheel hub CAD + engineering drawing (bolt circle, spline, brake mount).",
+    "related_items": [
+      "x-2089717063921332378",
+      "x-2087272209429766596",
+      "x-2089802212000362939",
+      "github-oso95-scroll-world"
+    ]
   }
 }

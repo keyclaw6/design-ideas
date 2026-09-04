@@ -7,7 +7,9 @@
   "authors": [
     "Donovan Hutchence (@slimbuck7)"
   ],
-  "topics": [],
+  "topics": [
+    "gaussian-splatting"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +18,7 @@
   "extra": {
     "tweet_id": "2093397098544648516",
     "author_handle": "slimbuck7",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "SuperSplat editor brush-selection mode (PlayCanvas/Snap)."
   }
 }

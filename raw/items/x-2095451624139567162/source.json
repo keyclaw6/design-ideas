@@ -7,12 +7,19 @@
   "authors": [
     "@ranakabiria"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2095451624139567162",
-    "author_handle": "ranakabiria"
+    "author_handle": "ranakabiria",
+    "category_note": "GPT-5.6 Sol website prompt (second author example).",
+    "related_items": [
+      "x-2095368133070700884"
+    ]
   }
 }

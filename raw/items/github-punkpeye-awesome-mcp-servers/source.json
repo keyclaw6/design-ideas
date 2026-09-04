@@ -21,6 +21,14 @@
   "unsaved": false,
   "extra": {
     "stars": 93831,
-    "license": "MIT"
+    "license": "MIT",
+    "related_items": [
+      "github-superdesigndev-treg",
+      "web-aidesigner-mcp",
+      "web-graphed",
+      "web-crowdreply",
+      "github-h4ckf0r0day-obscura"
+    ],
+    "category_note": "Canonical MCP server awesome list (~94k\u2605) + Glama directory."
   }
 }

@@ -7,12 +7,24 @@
   "authors": [
     "@natebjones"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://developers.google.com/style"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089457435459404093",
-    "author_handle": "natebjones"
+    "author_handle": "natebjones",
+    "category_note": "Build a writing skill from Google Developer Docs Style Guide (beats STE100).",
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "x-2090834948332655011",
+      "github-google-labs-code-design-md",
+      "x-2088742864310481025"
+    ]
   }
 }

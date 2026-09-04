@@ -7,14 +7,25 @@
   "authors": [
     "Daniel San (@dani_avila7)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/anthropics/claude-cookbooks/blob/main/cost_optimization/cost_optimization.ipynb"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089165107364278341",
     "author_handle": "dani_avila7",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:38:00Z"
+    "unsaved_at": "2026-09-04T06:38:00Z",
+    "category_note": "Anthropic cost-optimization cookbook: 90% cheaper agent without accuracy drop.",
+    "related_items": [
+      "web-anthropic-claude-self-service-data",
+      "x-2088594942482374759",
+      "web-cerebras-knowledge-base",
+      "x-2090103470015828184"
+    ]
   }
 }

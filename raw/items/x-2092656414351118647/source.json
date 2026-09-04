@@ -7,12 +7,16 @@
   "authors": [
     "@tom_doerr"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "seo-agents"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2092656414351118647",
-    "author_handle": "tom_doerr"
+    "author_handle": "tom_doerr",
+    "category_note": "Anti-AI-writing rewriter; content/SEO adjacent"
   }
 }

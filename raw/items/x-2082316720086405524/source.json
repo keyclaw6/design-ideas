@@ -7,14 +7,25 @@
   "authors": [
     "Kun Chen (@kunchenguid)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/kunchenguid/dotfiles/"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2082316720086405524",
     "author_handle": "kunchenguid",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:36:19Z"
+    "unsaved_at": "2026-09-04T06:36:19Z",
+    "related_items": [
+      "web-blume-codes",
+      "github-h4ckf0r0day-obscura",
+      "web-obscura-sh",
+      "x-2087263510090874911"
+    ],
+    "category_note": "Yolo-mode agents via wipeable Nix machine + gated secrets (AutomicVault). Ops pattern for unattended agents."
   }
 }

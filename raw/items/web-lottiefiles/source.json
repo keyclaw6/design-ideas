@@ -17,6 +17,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "tagline": "Great designs come alive with motion"
+    "tagline": "Great designs come alive with motion",
+    "related_items": [
+      "github-nexu-io-motion-anything",
+      "web-animos-editor",
+      "web-originkit-dev",
+      "github-emilkowalski-skills",
+      "web-tinyshots"
+    ],
+    "category_note": "Lottie/dotLottie platform: library, Creator, DAM, AI copilots."
   }
 }

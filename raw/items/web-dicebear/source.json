@@ -3,7 +3,7 @@
   "url": "https://www.dicebear.com",
   "source_type": "website",
   "captured_at": "2026-09-02T20:56:00Z",
-  "title": "DiceBear — open source avatar library & API",
+  "title": "DiceBear \u2014 open source avatar library & API",
   "authors": [
     "DiceBear"
   ],
@@ -22,6 +22,14 @@
   "extra": {
     "style_count": 61,
     "license": "MIT (core library)",
-    "fetch": "r.jina.ai landing"
+    "fetch": "r.jina.ai landing",
+    "related_items": [
+      "web-tinyshots",
+      "github-deedy-qr-data-transfer",
+      "web-checklist-design",
+      "github-wuyoscar-gpt-image2-skill",
+      "web-cult-ui"
+    ],
+    "category_note": "Deterministic open-source avatars; seedable API + Figma styles."
   }
 }

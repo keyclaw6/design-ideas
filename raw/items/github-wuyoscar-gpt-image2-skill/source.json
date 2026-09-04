@@ -18,6 +18,14 @@
     "stars": 5056,
     "forks": 437,
     "license": "MIT",
-    "language": "Python"
+    "language": "Python",
+    "related_items": [
+      "github-youmind-openlab-nano-banana-pro-prompts",
+      "web-meigen-ai",
+      "web-fal-ai",
+      "github-oso95-scroll-world",
+      "web-sceneai-art"
+    ],
+    "category_note": "GPT Image 2 gallery + CLI skill for OpenAI image gen/edit."
   }
 }

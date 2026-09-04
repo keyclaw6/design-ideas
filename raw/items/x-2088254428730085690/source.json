@@ -7,14 +7,28 @@
   "authors": [
     "Paul Bakaus (@pbakaus)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "http://impeccable.style"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088254428730085690",
     "author_handle": "pbakaus",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:37:33Z"
+    "unsaved_at": "2026-09-04T06:37:33Z",
+    "related_items": [
+      "github-pbakaus-impeccable",
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "x-2086715093707063445",
+      "github-google-labs-code-design-md"
+    ],
+    "category_note": "Impeccable 4.1 changelog (install + native + live mode)"
   }
 }

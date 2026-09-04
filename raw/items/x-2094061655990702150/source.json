@@ -7,7 +7,10 @@
   "authors": [
     "@lisaknowsai"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +18,10 @@
   "unsaved": false,
   "extra": {
     "tweet_id": "2094061655990702150",
-    "author_handle": "lisaknowsai"
+    "author_handle": "lisaknowsai",
+    "category_note": "browser-use/video-use: Claude Code auto-edit (cut, captions, grade, render).",
+    "related_items": [
+      "x-2092980272819999227"
+    ]
   }
 }

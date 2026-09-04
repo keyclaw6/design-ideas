@@ -7,12 +7,24 @@
   "authors": [
     "@uidotcamera"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://departuremono.com"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089618415493218381",
-    "author_handle": "uidotcamera"
+    "author_handle": "uidotcamera",
+    "category_note": "Departure Mono type specimen site as a motion/typography reference.",
+    "related_items": [
+      "web-feralui-dev",
+      "web-recent-design",
+      "web-cartier-ballon-bleu",
+      "github-nateherkai-scroll-craft"
+    ]
   }
 }

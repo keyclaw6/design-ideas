@@ -16,6 +16,11 @@
   "extra": {
     "tweet_id": "2095214420398121034",
     "author_handle": "levikmunneke",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "filtered": true,
+    "category_note": "MapsData Maps-lead scraping for outbound; out of taxonomy.",
+    "related_items": [
+      "x-2094927852399624557"
+    ]
   }
 }

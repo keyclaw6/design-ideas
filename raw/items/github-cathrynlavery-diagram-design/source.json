@@ -22,6 +22,14 @@
     "stars": 29422,
     "forks": 1872,
     "license": "MIT",
-    "language": "HTML"
+    "language": "HTML",
+    "related_items": [
+      "github-antvis-infographic",
+      "web-flint-chart",
+      "github-emilkowalski-skills",
+      "github-google-labs-code-design-md",
+      "web-checklist-design"
+    ],
+    "category_note": "29k\u2605 editorial diagram skill; HTML+SVG, not Mermaid."
   }
 }

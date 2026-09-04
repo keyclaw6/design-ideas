@@ -18,6 +18,14 @@
   "unsaved": false,
   "extra": {
     "product_ref": "CRWSBB0049",
-    "price_region": "en-dk"
+    "price_region": "en-dk",
+    "related_items": [
+      "web-utsubo",
+      "web-oryzo-ai",
+      "github-nateherkai-scroll-craft",
+      "web-checklist-design",
+      "web-recent-design"
+    ],
+    "category_note": "Luxury PDP reference: motion guide, engraving, bracelet fit."
   }
 }

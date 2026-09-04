@@ -22,6 +22,14 @@
   ],
   "unsaved": false,
   "extra": {
-    "version_note": "Flint 0.5.1 \u2014 visual themes for Plotly, Vega-Lite Calendar Heatmap"
+    "version_note": "Flint 0.5.1 \u2014 visual themes for Plotly, Vega-Lite Calendar Heatmap",
+    "related_items": [
+      "github-antvis-infographic",
+      "github-cathrynlavery-diagram-design",
+      "web-iandmacomber-post-ai-data-stack",
+      "github-punkpeye-awesome-mcp-servers",
+      "web-aidesigner-mcp"
+    ],
+    "category_note": "Microsoft chart IL; compiles to Vega/ECharts/Plotly; MCP."
   }
 }

@@ -7,7 +7,11 @@
   "authors": [
     "Abyssal (@abyssallD)"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "mcp",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

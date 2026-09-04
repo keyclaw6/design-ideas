@@ -17,6 +17,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "description": "Format specification for visual identity for coding agents"
+    "description": "Format specification for visual identity for coding agents",
+    "related_items": [
+      "web-getdesign-md",
+      "web-sokosumi-design-md",
+      "web-styles-refero-design",
+      "web-design-md-hyperbrowser",
+      "github-pbakaus-impeccable"
+    ],
+    "category_note": "Google Labs DESIGN.md spec + lint/diff CLI."
   }
 }

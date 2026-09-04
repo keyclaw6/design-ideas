@@ -7,7 +7,10 @@
   "authors": [
     "Jacob Posel (@jacob_posel)"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

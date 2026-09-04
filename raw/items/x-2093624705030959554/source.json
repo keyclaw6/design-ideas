@@ -7,7 +7,9 @@
   "authors": [
     "Hasan Cagli (@HsanC_)"
   ],
-  "topics": [],
+  "topics": [
+    "seo-agents"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -16,6 +18,7 @@
   "extra": {
     "tweet_id": "2093624705030959554",
     "author_handle": "HsanC_",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "AEO playbook: content, backlinks, 3rd-party mentions, LinkedIn/Reddit, citable data."
   }
 }

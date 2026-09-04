@@ -27,6 +27,14 @@
     "retry": "jina",
     "error": "Vercel Security Checkpoint 429 on r.jina.ai; content from GitHub README via gh",
     "github": "nolly-studio/cult-ui",
-    "capture_note": "Homepage blocked; README enriched with agent patterns, Pro blocks, templates"
+    "capture_note": "Homepage blocked; README enriched with agent patterns, Pro blocks, templates",
+    "related_items": [
+      "web-vengence-ui",
+      "web-originkit-dev",
+      "github-emilkowalski-skills",
+      "web-graphed",
+      "web-tinylaunch-directories"
+    ],
+    "category_note": "shadcn-style components + AI SDK agent patterns; Cult SEO template."
   }
 }

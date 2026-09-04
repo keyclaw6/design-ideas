@@ -7,13 +7,22 @@
   "authors": [
     "Varun (@varun_mathur)"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2032671842230501729",
     "author_handle": "varun_mathur",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2032330665081839791",
+      "x-2080856252687745093",
+      "x-2086790895538700379",
+      "x-2087151807965401320"
+    ],
+    "category_note": "Hyperspace: NL → sandboxed evolutionary swarm + Research DAG + Warps. Core autoresearch pattern."
   }
 }

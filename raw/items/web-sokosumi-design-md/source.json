@@ -18,6 +18,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "retry": "jina"
+    "retry": "jina",
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "web-design-md-hyperbrowser",
+      "web-getdesign-md",
+      "web-styles-refero-design",
+      "web-neuform-ai"
+    ],
+    "category_note": "Free URL \u2192 DESIGN.md via remote browser; Sokosumi coworkers parent."
   }
 }

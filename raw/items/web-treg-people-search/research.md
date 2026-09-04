@@ -1,15 +1,28 @@
-## Capture notes
+# Research
 
-- Product landing from capture-7 pmitu/Jason Zhou thread; ties to repo + People Search Bench.
-- llms.txt fetched via curl (full agent onboarding spec); excerpt in page.md.
-- Homepage and /people-search both captured via r.jina.ai.
+## What it is
 
-## Why it matters here
+treg.to/people-search: product slice of treg — one skill/token for 1B+ contacts across Apollo, Hunter, Tomba, PDL, etc. Finds people, companies, verified work emails. Pay per answer, no seat subscription. Claims Claude Code + treg ~78.2% vs ~43% alone on Lessie B2B tasks.
 
-Metered people-data layer for agents doing BESS prospecting — alternative to holding Apollo/Hunter seats; pairs with bench for evaluating stack quality.
+## How it works
 
-## Open questions
+- Task table: verified email from ~$0.0089, mobile, person/company enrich, lookalikes, email verify, people-at-company, buying signals; routed endpoints pick BYO key then cheapest catalog.
+- Prepaid, 0% markup on catalog rates; $1 free; BYO keys unmetered.
+- Setup: dashboard, `treg login`, `treg mcp install`. Protocol in llms.txt: `GET https://treg.to/call/{endpoint-id}` + `X-Treg-Token`.
+- Indexes: /use-cases, /workflows. Full catalog/tool-proxy story lives on the GitHub item.
 
-- Actual cost curve for 100-lead enrich runs vs Clay/Apollo subscriptions?
-- LinkedIn-dependent endpoints reliability without partner API?
-- MCP v2 Claude connector write-call boundaries for outreach automation?
+## Why saved
+
+Human-facing people-search pitch + bench claim. Use with Lessie bench when evaluating outbound agents.
+
+## Topics
+
+`mcp`, `agent-skills`, `seo-agents`
+
+## Related
+
+`github-superdesigndev-treg`, `github-LessieAI-people-search-bench`, `web-arxiv-2603-27476`, `github-romangojiberryAI-gojiberryai-sales-os`, `github-iannuttall-seo`
+
+## Use when
+
+Agents need emails/enrichment; citing the 78% vs 43% bench; onboarding via llms.txt rather than the full catalog README.

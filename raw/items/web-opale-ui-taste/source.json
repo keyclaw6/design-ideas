@@ -20,6 +20,14 @@
   "unsaved": false,
   "extra": {
     "published": "2026-02-01",
-    "author_role": "AI & Machine Learning Engineer, Montreal"
+    "author_role": "AI & Machine Learning Engineer, Montreal",
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "github-emilkowalski-skills",
+      "github-pbakaus-impeccable",
+      "web-feralui-dev",
+      "github-scottstts-threejs-awesome-graphics-agent-skills"
+    ],
+    "category_note": "Essay: encode personal taste into skills; anti vibe-coder aesthetic."
   }
 }

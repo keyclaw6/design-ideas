@@ -21,6 +21,14 @@
     "stars": 1843,
     "forks": 198,
     "license": "MIT",
-    "language": "TypeScript"
+    "language": "TypeScript",
+    "related_items": [
+      "github-wuyoscar-gpt-image2-skill",
+      "web-meigen-ai",
+      "github-antvis-infographic",
+      "web-sceneai-art",
+      "github-oso95-scroll-world"
+    ],
+    "category_note": "10k+ Nano Banana Pro prompts; grep-style agent search."
   }
 }

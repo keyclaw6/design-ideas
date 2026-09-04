@@ -1,11 +1,28 @@
-## What it actually does
+# Research
 
-Template marketplace + prompt-to-HTML with explicit DESIGN.md output — bridges visual generation and agent-readable design systems.
+## What it is
 
-## Design / BESS marketing site
+Neuform.ai: turns prompts into AI HTML landing pages, remixable community templates, and reusable DESIGN.md files for agent-ready systems. Appears in the same X ecosystem thread as OpenDesign/Sokosumi.
 
-Remix a template, export DESIGN.md alongside HTML for BESS agent workflows.
+## How it works
 
-## 3D / agents / SEO
+- Prompt or remix a template (Verdant, Echo Lab, Aether, Nexus, Systema Core, …) into HTML.
+- Emits DESIGN.md so later agent edits stay on-brand — closer to Google spec workflow than Aura’s opaque builder.
+- SPA capture thin (meta + gallery); full marketing copy may be hidden.
+- Positioned between Aura (fast hosted builder) and OpenDesign (local multi-artifact studio).
 
-**design**, **agent-skills**: DESIGN.md export is differentiator vs pure builders.
+## Why saved
+
+HTML + DESIGN.md together is the desired output for this bank’s design lane. Good candidate for BESS landing experiments that must remain agent-editable.
+
+## Topics
+
+`design`, `agent-skills`
+
+## Related
+
+`web-open-design-ai`, `github-google-labs-code-design-md`, `web-getdesign-md`, `web-aura-build`, `web-sokosumi-design-md`
+
+## Use when
+
+Generating a remixable HTML landing that ships with DESIGN.md; comparing hosted vibe-builders; feeding Neuform output into Cursor.

@@ -1,11 +1,29 @@
-## What it actually does
+# Research
 
-Dual product: shadcn-style UI components + AI agent pattern marketplace (92+ patterns, 4 full-stack templates, Cult Pro premium blocks). Agents cover SEO/competitive research, a11y audits, brand token extraction, and chart generation — all Firecrawl + AI SDK based.
+## What it is
 
-## Design / BESS marketing site
+Cult UI (nolly-studio/cult-ui): MIT Tailwind/shadcn-compatible component library plus a directory of 92+ AI SDK agent patterns (aisdkagents.com) and Cult Pro blocks. Direct site 429 at capture; content from GitHub README.
 
-Use components for marketing UI; Branding Agent pattern to extract competitor design systems; A11y audit agent for WCAG on BESS sites. Cult SEO template and Directory template relevant for launch SEO.
+## How it works
 
-## 3D / agents / SEO
+- Copy-paste React components for building your own library.
+- Agent pattern examples: competitor research (Firecrawl map+scrape), data analysis, WCAG audit, branding token extract, chart artifacts.
+- Full-stack templates: ecommerce multi-agent, RAG+pgvector platform, sub-agent starter, multi-tenant auth chat.
+- Cult Pro includes Logo GPT, Directory (SEO listings), landing, Cult SEO, Manifest RAG — seo-agents tag from the directory/SEO template lane.
+- Live previews for agent patterns; Pro is paid blocks.
 
-**seo-agents**, **agent-skills**, **design**, **ui-motion**: competitor research and a11y agents directly relevant. Components are 2D React/Tailwind/Framer Motion, not Three.js. Site homepage still gated — GitHub mirror is authoritative for now.
+## Why saved
+
+Dual use: motion-capable marketing components and ready agent architectures (including a directory/SEO starter). Bridges UI kit and MCP/agent productization.
+
+## Topics
+
+`design`, `ui-motion`, `agent-skills`, `seo-agents`
+
+## Related
+
+`web-vengence-ui`, `web-originkit-dev`, `github-emilkowalski-skills`, `web-graphed`, `web-tinylaunch-directories`
+
+## Use when
+
+Need shadcn-compatible marketing blocks plus agent templates; cloning a directory/SEO listing pattern; Firecrawl-based research agents.

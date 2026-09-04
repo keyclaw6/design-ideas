@@ -1,11 +1,29 @@
-## What it actually does
+# Research
 
-Prompt marketplace + generation front-end for multi-model AI art. Pairs with the open-source **MeiGen AI Design MCP** (`jau123/MeiGen-AI-Design-MCP`, ~1.7k stars): 9 MCP tools, 1,446 curated templates, parallel batch generation, and backends for MeiGen cloud, OpenAI-compatible APIs, or local ComfyUI. Models span GPT Image 2, Nanobanana 2, Seedance 2.0, Midjourney V8.1, Flux, Grok, Veo 3.1, etc.
+## What it is
 
-## Design / BESS marketing site
+MeiGen (meigen.ai): free community prompt gallery across GPT Image 2, Seedance, Nano Banana (Gemini), Midjourney — browse/publish, image-to-prompt, character reuse, in-app generation with quality tiers. MCP repo jau123/MeiGen-AI-Design-MCP.
 
-Use as prompt reference library for BESS marketing visuals (posters, product shots, 3D illustration category). MCP integration lets agent workflows pull proven prompts instead of inventing from scratch — complements captured GitHub skills (GPT-Image2-Skill, nano-banana libraries).
+## How it works
 
-## 3D / agents / SEO
+- Categories: ads, brand/logo, videos, illustration/3D, posters, portraits, storyboard, wallpaper.
+- Publish & earn credits when featured; mobile app; generation UI Standard/Medium/High, Auto 2K.
+- MCP: 1,446+ prompts, 9 tools, ComfyUI or OpenAI-compatible backends.
+- Cloudflare blocked raw curl; capture via r.jina.ai.
+- Broader than GPT-Image2-skill (OpenAI-only) or Nano Banana skill (Gemini-only).
 
-**design**, **agent-skills**, **video-generation**: Illustration & 3D + Videos categories relevant. MCP server is directly usable in Cursor/Codex for agent-driven asset generation. No SEO tooling.
+## Why saved
+
+Cross-model prompt memory for ads/posters/keyframes used in landings and Seedance clips. MCP is the agent-facing door.
+
+## Topics
+
+`design`, `agent-skills`, `video-generation`
+
+## Related
+
+`github-wuyoscar-gpt-image2-skill`, `github-youmind-openlab-nano-banana-pro-prompts`, `web-fal-ai`, `web-sceneai-art`, `github-oso95-scroll-world`
+
+## Use when
+
+Searching prompts across image *and* video models; wiring MeiGen MCP; sourcing campaign/poster styles before fal/Seedance.

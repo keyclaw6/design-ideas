@@ -3,7 +3,7 @@
   "url": "https://blume.codes",
   "source_type": "website",
   "captured_at": "2026-09-02T20:56:00Z",
-  "title": "Blume Sidecar — monitor and improve coding agents",
+  "title": "Blume Sidecar \u2014 monitor and improve coding agents",
   "authors": [
     "Blume"
   ],
@@ -22,6 +22,14 @@
       "Claude Code",
       "Cursor"
     ],
-    "fetch": "r.jina.ai landing"
+    "fetch": "r.jina.ai landing",
+    "related_items": [
+      "web-chatgpt-training",
+      "github-pbakaus-impeccable",
+      "github-mengto-skills",
+      "web-opale-ui-taste",
+      "web-davidgasquez-context-engineering"
+    ],
+    "category_note": "Desktop sidecar watching Codex/Claude/Cursor rules/skills drift."
   }
 }

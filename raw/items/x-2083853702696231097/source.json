@@ -15,6 +15,13 @@
     "tweet_id": "2083853702696231097",
     "author_handle": "mattpocockuk",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:36:23Z"
+    "unsaved_at": "2026-09-04T06:36:23Z",
+    "related_items": [
+      "x-2086838432102228008",
+      "web-opale-ui-taste",
+      "github-leonxlnx-taste-skill"
+    ],
+    "category_note": "Empty quote-tweet: ‘get good at the thing’; no illustration or artifact captured.",
+    "filtered": true
   }
 }

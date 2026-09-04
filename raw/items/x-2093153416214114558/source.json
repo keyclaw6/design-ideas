@@ -7,7 +7,9 @@
   "authors": [
     "@simplifyinAI"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +17,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093153416214114558",
-    "author_handle": "simplifyinAI"
+    "author_handle": "simplifyinAI",
+    "category_note": "OmniParser: screenshot UI parse so any LLM can click; OmniTool Windows VM."
   }
 }

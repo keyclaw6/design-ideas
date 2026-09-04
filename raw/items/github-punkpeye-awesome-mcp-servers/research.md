@@ -1,11 +1,29 @@
-## What it actually does
+# Research
 
-Catalog of MCP servers agents can connect to for tools (browser, filesystem, APIs, design, SEO crawlers, etc.).
+## What it is
 
-## Design / BESS marketing site
+punkpeye/awesome-mcp-servers: the large curated list of Model Context Protocol servers (~94k stars), companion to Glama’s web directory. Multi-language README variants.
 
-Find MCP servers for web scraping, SEO analysis, browser control, Figma/design APIs, and site auditing. Useful when wiring Cursor/Claude agents to marketing workflows.
+## How it works
 
-## 3D / agents / SEO
+- README is a categorized index: aggregators, art, browser automation, cloud, databases, design, etc.
+- Legend marks language (Python/TS/Go/Rust), scope (local vs cloud), and OS.
+- Glama.ai/mcp/servers is the synced browsable directory.
+- Contributing.md defines quality bar; list mixes production and experimental servers.
+- Discovery layer only — it does not run tools; treg/Graphed/CrowdReply are the job-specific stacks.
 
-Direct fit for **mcp** and **seo-agents**: search for servers tagged browser automation, search/SEO, analytics. Design-category entries may include UI generation or asset pipelines.
+## Why saved
+
+Index for MCP hunting when a workflow needs browser, design, SEO, or warehouse tools. seo-agents topic because many listed servers are SERP/crawl/GSC class.
+
+## Topics
+
+`mcp`, `agent-skills`, `seo-agents`
+
+## Related
+
+`github-superdesigndev-treg`, `web-aidesigner-mcp`, `web-graphed`, `web-crowdreply`, `github-h4ckf0r0day-obscura`
+
+## Use when
+
+Finding an MCP server by category before adopting treg/Graphed; checking whether a local vs cloud browser MCP exists; onboarding an agent stack.

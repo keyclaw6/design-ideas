@@ -7,12 +7,16 @@
   "authors": [
     "@alextalksai"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093583622691283018",
-    "author_handle": "alextalksai"
+    "author_handle": "alextalksai",
+    "category_note": "21-min tutorial: cinematic web pages with GPT-5.6 Sol."
   }
 }

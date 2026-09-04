@@ -22,6 +22,14 @@
     "stars": 659,
     "forks": 127,
     "language": "HTML",
-    "homepage": "https://mengto.github.io/complete-shelf/"
+    "homepage": "https://mengto.github.io/complete-shelf/",
+    "related_items": [
+      "github-mengto-skills",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-utsubo",
+      "web-oryzo-ai",
+      "github-oso95-scroll-world"
+    ],
+    "category_note": "Single-file Three.js interactive book shelf demo + PROMPT.md."
   }
 }

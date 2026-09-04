@@ -21,6 +21,14 @@
     "stars": 750,
     "forks": 88,
     "license": "Apache-2.0",
-    "language": "JavaScript"
+    "language": "JavaScript",
+    "related_items": [
+      "github-nexu-io-open-design",
+      "github-nexu-io-html-video",
+      "github-emilkowalski-skills",
+      "web-lottiefiles",
+      "web-originkit-dev"
+    ],
+    "category_note": "Chat-native motion engine; 403 recipes; Lottie/MP4 export."
   }
 }

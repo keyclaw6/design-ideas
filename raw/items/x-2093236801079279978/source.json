@@ -7,7 +7,10 @@
   "authors": [
     "@elayadesigns"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +18,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093236801079279978",
-    "author_handle": "elayadesigns"
+    "author_handle": "elayadesigns",
+    "category_note": "Workflow: ChatGPT ideate \u2192 Fable 5 build \u2192 Higgsfield animate."
   }
 }

@@ -22,6 +22,14 @@
   ],
   "unsaved": false,
   "extra": {
-    "stars": 34819
+    "stars": 34819,
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "github-pbakaus-impeccable",
+      "github-jakubkrehel-skills",
+      "web-opale-ui-taste",
+      "github-nexu-io-motion-anything"
+    ],
+    "category_note": "Emil Kowalski motion/UI taste skills (Vercel/Linear)."
   }
 }

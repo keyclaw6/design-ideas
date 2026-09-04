@@ -7,12 +7,15 @@
   "authors": [
     "@mojon1"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2095483352375837020",
-    "author_handle": "mojon1"
+    "author_handle": "mojon1",
+    "category_note": "MiniMax H3 as local product-CG renderer before API spend."
   }
 }

@@ -23,6 +23,14 @@
     "stars": 5734,
     "forks": 689,
     "license": "MIT",
-    "language": "HTML"
+    "language": "HTML",
+    "related_items": [
+      "github-mengto-complete-shelf",
+      "web-aura-build",
+      "github-nateherkai-scroll-craft",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-getlayers-ai"
+    ],
+    "category_note": "MengTo UI/Three.js/GSAP skill pack; video\u2192prompt workflows."
   }
 }

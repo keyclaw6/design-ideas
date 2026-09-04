@@ -7,13 +7,18 @@
   "authors": [
     "\u5e03\u7559\u5ddd\u82f1\u4e00 / Hidekazu Furukawa (@npaka123)"
   ],
-  "topics": [],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "camera-control"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": false,
   "extra": {
     "tweet_id": "2095288402606514424",
     "author_handle": "npaka123",
-    "fetch": "api.fxtwitter.com (harvest-clear loop)"
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "category_note": "Note: AI driving Blender \u2014 CLI vs MCP split."
   }
 }

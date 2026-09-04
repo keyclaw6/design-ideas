@@ -7,12 +7,24 @@
   "authors": [
     "@tom_doerr"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://github.com/pipeshub-ai/pipeshub-ai"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088623462109593792",
-    "author_handle": "tom_doerr"
+    "author_handle": "tom_doerr",
+    "category_note": "PipesHub — governed enterprise knowledge layer for RAG/agents/search.",
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering",
+      "web-anthropic-claude-self-service-data",
+      "github-punkpeye-awesome-mcp-servers"
+    ]
   }
 }

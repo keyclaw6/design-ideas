@@ -9,7 +9,8 @@
   ],
   "topics": [
     "ui-motion",
-    "design"
+    "design",
+    "video-generation"
   ],
   "related_urls": [
     "https://animos.app/"
@@ -17,6 +18,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "og_image": "https://animos.app/og-image.png"
+    "og_image": "https://animos.app/og-image.png",
+    "related_items": [
+      "web-lottiefiles",
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "web-tinyshots",
+      "web-fal-ai"
+    ],
+    "category_note": "Browser motion templates \u2192 MP4/WebM; no After Effects."
   }
 }

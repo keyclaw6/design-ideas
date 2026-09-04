@@ -7,12 +7,17 @@
   "authors": [
     "@ShreyashT25"
   ],
-  "topics": [],
+  "topics": [
+    "gaussian-splatting",
+    "camera-control",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2094377838774472944",
-    "author_handle": "ShreyashT25"
+    "author_handle": "ShreyashT25",
+    "category_note": "Spatial Studio: splat capture then in-browser camera animation + 4K export."
   }
 }

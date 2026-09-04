@@ -22,6 +22,14 @@
   "unsaved": false,
   "extra": {
     "component_count": 363,
-    "description": "Free animated component library"
+    "description": "Free animated component library",
+    "related_items": [
+      "web-vengence-ui",
+      "web-cult-ui",
+      "web-feralui-dev",
+      "github-nexu-io-motion-anything",
+      "web-lottiefiles"
+    ],
+    "category_note": "363+ free animated components; MCP import plugin."
   }
 }

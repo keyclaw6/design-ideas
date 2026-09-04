@@ -4,7 +4,9 @@
   "source_type": "x",
   "captured_at": "2026-09-02T17:23:28Z",
   "title": "10,000 emails/day via Instantly sequencer + MapsData leads",
-  "authors": ["Levi Munneke (@levikmunneke)"],
+  "authors": [
+    "Levi Munneke (@levikmunneke)"
+  ],
   "topics": [],
   "related_urls": [
     "https://instantly.ai",
@@ -30,6 +32,8 @@
     "lang": "en",
     "is_note_tweet": false,
     "fetch": "api.fxtwitter.com + r.jina.ai",
-    "topics_note": "No SCHEMA topic maps to cold-email / outbound infra; left empty rather than force-fit."
+    "topics_note": "No SCHEMA topic maps to cold-email / outbound infra; left empty rather than force-fit.",
+    "filtered": true,
+    "category_note": "Instantly + MapsData cold-outbound infra; out of taxonomy."
   }
 }

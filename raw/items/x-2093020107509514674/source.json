@@ -7,7 +7,9 @@
   "authors": [
     "@jumarmacato"
   ],
-  "topics": [],
+  "topics": [
+    "keyboard-pcb"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

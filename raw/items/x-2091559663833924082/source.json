@@ -7,13 +7,18 @@
   "authors": [
     "harsh (@GarshytHoel)"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "infographics",
+    "design"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2091559663833924082",
     "author_handle": "GarshytHoel",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Isometric system-atlas skill, not AntV charts"
   }
 }

@@ -7,12 +7,17 @@
   "authors": [
     "@rom1trs"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "mcp",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2095156045303701766",
-    "author_handle": "rom1trs"
+    "author_handle": "rom1trs",
+    "category_note": "Paper storyboard \u2192 Claude keyframes \u2192 Arcads MCP animate \u2192 4K grade."
   }
 }

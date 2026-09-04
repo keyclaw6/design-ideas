@@ -8,13 +8,22 @@
     "@Arpit_2023"
   ],
   "topics": [],
-  "related_urls": [],
+  "related_urls": [
+    "https://amicro.vercel.app"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088830609615397333",
-    "author_handle": "Arpit_2023"
+    "author_handle": "Arpit_2023",
+    "category_note": "Filtered: duplicate Amicro promo of Mono Charts.",
+    "related_items": [
+      "x-2088599468698751328",
+      "github-antvis-infographic",
+      "web-originkit-dev"
+    ],
+    "filtered": true
   }
 }

@@ -1,11 +1,28 @@
-## What it actually does
+# Research
 
-Structured UX/UI QA checklists organized by surface (mobile, web app, website, design system, flows). Each checklist covers completeness details for a specific UI pattern (e.g. pricing page, onboarding, 404). Now ships as agent skill and Figma skill in addition to plugin.
+## What it is
 
-## Design / BESS marketing site
+checklist.design (George Hatzis, Mobbin-sponsored): searchable design checklists for websites, web apps, mobile, design-system components, and user flows — web app, Figma plugin, Figma skill, and agent skill.
 
-QA reference when reviewing BESS marketing pages: run Website → Pricing, Features, Contact Us, FAQ checklists; Web app → Onboarding, Settings; Flows → form submission. Agent skill could automate checklist review in design workflows.
+## How it works
 
-## 3D / agents / SEO
+- Categories: mobile (paywall, onboarding, cart…), web app (billing, empty state…), website (pricing, 404, FAQ…), design system (tokens, button, modal…), flows (add to cart, reset password…).
+- Agent skill at checklist.design/skill so coding agents can run the same lists as designers in Figma.
+- Complements Impeccable detectors (slop tells) with page-type completeness (did the pricing page include comparison, FAQ, CTA).
+- Not a visual language — pair with DESIGN.md for tokens.
 
-**design**, **agent-skills**: human designer tool with new agent-skill distribution. Not 3D or SEO automation — useful for manual or agent-assisted review gates before ship.
+## Why saved
+
+QA layer for generated marketing pages. BESS/product sites should pass website + flow checklists after scroll-craft, not only look expensive.
+
+## Topics
+
+`design`, `agent-skills`
+
+## Related
+
+`github-jakubkrehel-skills`, `github-pbakaus-impeccable`, `github-google-labs-code-design-md`, `web-flowmapp`, `github-nateherkai-scroll-craft`
+
+## Use when
+
+Shipping a pricing/onboarding/404 page; giving an agent a completeness rubric; pairing IA (Flowmapp) with UI QA.

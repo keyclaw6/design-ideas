@@ -14,6 +14,13 @@
   "extra": {
     "tweet_id": "2077376352630845499",
     "author_handle": "TechWithLilyAi",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2077359594666651900",
+      "x-2080856252687745093",
+      "web-chatgpt-training"
+    ],
+    "category_note": "Hassabis Cambridge lecture engagement bait; no URL captured.",
+    "filtered": true
   }
 }

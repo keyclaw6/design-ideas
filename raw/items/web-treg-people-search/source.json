@@ -3,7 +3,7 @@
   "url": "https://treg.to/people-search",
   "source_type": "website",
   "captured_at": "2026-09-02T20:15:00Z",
-  "title": "treg — Claude for People Search",
+  "title": "treg \u2014 Claude for People Search",
   "authors": [
     "superdesigndev"
   ],
@@ -28,6 +28,14 @@
     "catalog_endpoints": 2896,
     "providers": 60,
     "free_credit_usd": 1.0,
-    "fetch": "r.jina.ai treg.to + people-search; curl llms.txt"
+    "fetch": "r.jina.ai treg.to + people-search; curl llms.txt",
+    "related_items": [
+      "github-superdesigndev-treg",
+      "github-LessieAI-people-search-bench",
+      "web-arxiv-2603-27476",
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "github-iannuttall-seo"
+    ],
+    "category_note": "treg people-search product page: 1B+ contacts, per-answer pricing."
   }
 }

@@ -7,7 +7,10 @@
   "authors": [
     "@Voxyz_ai"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +18,10 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093766772029559077",
-    "author_handle": "Voxyz_ai"
+    "author_handle": "Voxyz_ai",
+    "category_note": "Refero DESIGN.md library (2000+ product design languages for agents).",
+    "related_items": [
+      "web-styles-refero-design"
+    ]
   }
 }

@@ -13,6 +13,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2092790491741823402",
-    "author_handle": "merge_api"
+    "author_handle": "merge_api",
+    "filtered": true
   }
 }

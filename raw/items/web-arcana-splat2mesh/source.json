@@ -22,7 +22,20 @@
     "installer_size": "110 MB",
     "platform": "Windows 11",
     "license": "Free for personal & non-commercial use",
-    "formats_in": ["PLY"],
-    "formats_out": ["OBJ", "GLB"]
+    "formats_in": [
+      "PLY"
+    ],
+    "formats_out": [
+      "OBJ",
+      "GLB"
+    ],
+    "related_items": [
+      "github-nv-tlabs-ArtiFixer",
+      "github-oso95-scroll-world",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-utsubo",
+      "web-fal-ai"
+    ],
+    "category_note": "Desktop 3DGS PLY \u2192 OBJ/GLB mesh (print/DCC)."
   }
 }

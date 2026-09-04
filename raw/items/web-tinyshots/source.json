@@ -3,13 +3,14 @@
   "url": "https://tinyshots.app",
   "source_type": "website",
   "captured_at": "2026-09-02T20:56:00Z",
-  "title": "TinyShots — macOS screenshot polish app",
+  "title": "TinyShots \u2014 macOS screenshot polish app",
   "authors": [
     "TinyShots"
   ],
   "topics": [
     "design",
-    "ui-motion"
+    "ui-motion",
+    "agent-skills"
   ],
   "related_urls": [
     "https://x.com/olavlj/status/2094524951025914278",
@@ -21,6 +22,14 @@
   "extra": {
     "platform": "macOS Sonoma 14+",
     "pricing": "Early bird $39 (97 spots left before $49); lifetime updates for early buyers",
-    "fetch": "r.jina.ai landing"
+    "fetch": "r.jina.ai landing",
+    "related_items": [
+      "web-tinyshelf",
+      "web-animos-editor",
+      "web-lottiefiles",
+      "github-nateherkai-scroll-craft",
+      "web-dicebear"
+    ],
+    "category_note": "macOS screenshot polish app + CLI for agents."
   }
 }

@@ -7,12 +7,26 @@
   "authors": [
     "@tom_doerr"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "infographics",
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/imxv/Pretty-mermaid-skills"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087329201451855933",
-    "author_handle": "tom_doerr"
+    "author_handle": "tom_doerr",
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "github-antvis-infographic",
+      "web-flint-chart",
+      "x-2088016749849682120",
+      "x-2088590355440476343"
+    ],
+    "category_note": "Mermaid→SVG/ASCII agent skill, no DOM"
   }
 }

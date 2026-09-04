@@ -7,7 +7,10 @@
   "authors": [
     "Spenser Dickerson (@SpenserFX)"
   ],
-  "topics": [],
+  "topics": [
+    "gaussian-splatting",
+    "three-js"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

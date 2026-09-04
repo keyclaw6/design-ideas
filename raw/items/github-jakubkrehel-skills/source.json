@@ -21,6 +21,14 @@
     "stars": 4759,
     "forks": 163,
     "license": "MIT",
-    "language": "Markdown"
+    "language": "Markdown",
+    "related_items": [
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "github-pbakaus-impeccable",
+      "web-checklist-design",
+      "web-opale-ui-taste"
+    ],
+    "category_note": "interfaces.dev better-* UI/type/a11y skill pack."
   }
 }

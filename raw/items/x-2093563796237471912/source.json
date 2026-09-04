@@ -7,7 +7,9 @@
   "authors": [
     "Ryohei Sasaki@engineer (@rsasaki0109)"
   ],
-  "topics": [],
+  "topics": [
+    "gaussian-splatting"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +18,7 @@
   "extra": {
     "tweet_id": "2093563796237471912",
     "author_handle": "rsasaki0109",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "GaussianGPT: autoregressive 3DGS scene generation (ECCV 2026)."
   }
 }

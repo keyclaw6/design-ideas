@@ -7,7 +7,10 @@
   "authors": [
     "Ira Bodnar (@irabukht)"
   ],
-  "topics": [],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +19,7 @@
   "extra": {
     "tweet_id": "2095231184531828762",
     "author_handle": "irabukht",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Grok marketing-bot pitch including SEO audit-and-fix and GEO/ChatGPT ranking."
   }
 }

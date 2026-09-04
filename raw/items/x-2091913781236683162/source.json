@@ -7,7 +7,10 @@
   "authors": [
     "@jerrod_lew"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

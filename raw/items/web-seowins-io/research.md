@@ -1,15 +1,29 @@
-## Capture notes
+# Research
 
-- Product site from same author ecosystem as capture-7 hridoyreh Brave SEO thread.
-- Paid Notion/database-style playbook; not open source.
-- Demo video on YouTube (link recorded, not ingested).
+## What it is
 
-## Why it matters here
+SEO Wins (seowins.io): paid database of 150+ SEO and AI-SEO strategies for rankings, traffic, brand mentions, and citations across Google, Bing, ChatGPT, AI Mode, Gemini, Copilot, Claude, Perplexity. Lifetime ~$79 at capture (was $179), Lemon Squeezy, no refunds.
 
-Curated AI SEO tactic library — compare to agent-native tooling (`github-iannuttall-seo`, nqz.ai) for operational vs playbook workflows.
+## How it works
 
-## Open questions
+- Categories: SEO, AI SEO, traffic, content, revenue, effort/time filters.
+- Author claims methods are client-tested; Brian Dean endorsement on site.
+- Access link rotates every 7–30 days via My Orders — operational hassle.
+- YouTube demo linked. Positioning: tested tactics vs untested Twitter threads.
+- Not a crawler/MCP; a playbook library next to iannuttall/seo (execution) and CrowdReply (measurement).
 
-- Overlap/redundancy with free SEO agent skills?
-- Which AI citation tactics are reproducible with local agents?
-- Database access model for team sharing?
+## Why saved
+
+Tactics inventory for GEO/SEO experiments. Use to pick plays, then implement with CLI/directories/citation tools.
+
+## Topics
+
+`seo-agents`
+
+## Related
+
+`web-crowdreply`, `web-known-agency`, `github-iannuttall-seo`, `web-nqz-ai-search-prompt-generator`, `web-tinylaunch-directories`
+
+## Use when
+
+Choosing an SEO/AEO tactic to try; filling gaps beyond technical audits; comparing playbooks vs agency retainers.

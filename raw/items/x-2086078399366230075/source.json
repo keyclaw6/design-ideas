@@ -13,6 +13,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2086078399366230075",
-    "author_handle": "SaturateSkin"
+    "author_handle": "SaturateSkin",
+    "related_items": [
+      "x-2086533896993112572",
+      "web-tinyshots",
+      "web-cult-ui"
+    ],
+    "category_note": "Skincare product ad (Vector ONE). Unrelated to the idea bank.",
+    "filtered": true
   }
 }

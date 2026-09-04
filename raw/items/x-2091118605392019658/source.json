@@ -7,7 +7,9 @@
   "authors": [
     "@simplifyinAI"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

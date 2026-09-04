@@ -7,12 +7,16 @@
   "authors": [
     "@AcarcaneCG"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093256024635666465",
-    "author_handle": "AcarcaneCG"
+    "author_handle": "AcarcaneCG",
+    "category_note": "Blender fan-film timelapse (Ponyo) as camera/layout process reference."
   }
 }

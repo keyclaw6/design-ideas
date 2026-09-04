@@ -3,18 +3,27 @@
   "url": "https://x.com/zcode_ai/status/2090787985721856437",
   "source_type": "x",
   "captured_at": "2026-09-04T07:52:36Z",
-  "title": "GLM-5.3 \u00d7 ZCode Weekend Build, Round 2 \ud83d\ude80 New users: log in to ZCode for the first time from Aug 22, 00:00 to Aug 24, 09:",
+  "title": "GLM-5.3 × ZCode Weekend Build, Round 2 🚀 New users: log in to ZCode for the first time from Aug 22, 00:00 to Aug 24, 09:",
   "authors": [
     "@zcode_ai"
   ],
   "topics": [],
-  "related_urls": [],
+  "related_urls": [
+    "http://zcode.z.ai"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2090787985721856437",
-    "author_handle": "zcode_ai"
+    "author_handle": "zcode_ai",
+    "category_note": "Filtered: ZCode/GLM token giveaway.",
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2088695568474546387",
+      "x-2090103470015828184"
+    ],
+    "filtered": true
   }
 }

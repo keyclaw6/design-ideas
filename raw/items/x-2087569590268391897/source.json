@@ -13,6 +13,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2087569590268391897",
-    "author_handle": "dexhorthy"
+    "author_handle": "dexhorthy",
+    "related_items": [
+      "x-2087224641849045110",
+      "x-2087733334617063503",
+      "x-2087715372787228734"
+    ],
+    "filtered": true,
+    "category_note": "Empty capture; no artifact"
   }
 }

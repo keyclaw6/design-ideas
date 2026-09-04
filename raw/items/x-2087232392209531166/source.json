@@ -7,13 +7,24 @@
   "authors": [
     "Howaboua (@Howaboua)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-shepherdr"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087232392209531166",
     "author_handle": "Howaboua",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2087304957011911157",
+      "x-2087026930323247306",
+      "x-2087263510090874911",
+      "web-blume-codes"
+    ],
+    "category_note": "pi-shepherdr: 271-token master Pi orchestrates other Pi agents via Herdr panes."
   }
 }

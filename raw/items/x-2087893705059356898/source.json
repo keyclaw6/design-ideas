@@ -16,6 +16,13 @@
   "extra": {
     "tweet_id": "2087893705059356898",
     "author_handle": "theroborourke",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "web-graphed",
+      "x-2087827123331383751"
+    ],
+    "filtered": true,
+    "category_note": "Agency sales PDF; out of taxonomy"
   }
 }

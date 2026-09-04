@@ -7,7 +7,10 @@
   "authors": [
     "@intangibleai"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +18,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093380307735232543",
-    "author_handle": "intangibleai"
+    "author_handle": "intangibleai",
+    "category_note": "intangible.ai: browser 3D camera control \u2192 AI-rendered video, no Blender."
   }
 }

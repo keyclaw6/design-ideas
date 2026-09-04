@@ -7,13 +7,25 @@
   "authors": [
     "CadX Studio (@CadX_Studio)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "keyboard-pcb"
+  ],
+  "related_urls": [
+    "https://cadxstudio.in"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088308976278790258",
     "author_handle": "CadX_Studio",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2087272209429766596",
+      "x-2089717063921332378",
+      "x-2088296314484162719",
+      "x-2088277946918142211"
+    ],
+    "category_note": "CadX text-to-CAD hexacopter demo"
   }
 }

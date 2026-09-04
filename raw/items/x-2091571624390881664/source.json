@@ -7,7 +7,11 @@
   "authors": [
     "@MengTo"
   ],
-  "topics": [],
+  "topics": [
+    "three-js",
+    "ui-motion",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"

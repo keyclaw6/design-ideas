@@ -7,12 +7,17 @@
   "authors": [
     "@cy_burns"
   ],
-  "topics": [],
+  "topics": [
+    "ui-motion",
+    "video-generation",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2094164487381414344",
-    "author_handle": "cy_burns"
+    "author_handle": "cy_burns",
+    "category_note": "Claude for motion graphics 2.0: script \u2192 launch video + VO/SFX (credit bait secondary)."
   }
 }

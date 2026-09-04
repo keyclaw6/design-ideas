@@ -3,12 +3,13 @@
   "url": "https://fal.ai",
   "source_type": "website",
   "captured_at": "2026-09-02T20:56:00Z",
-  "title": "fal — generative media platform for developers",
+  "title": "fal \u2014 generative media platform for developers",
   "authors": [
     "fal"
   ],
   "topics": [
-    "video-generation"
+    "video-generation",
+    "agent-skills"
   ],
   "related_urls": [
     "https://fal.ai/docs/documentation",
@@ -23,6 +24,14 @@
   "extra": {
     "developer_count": "1,500,000+",
     "model_count": "1,000+",
-    "fetch": "r.jina.ai/https landing + /docs/documentation (overview only); first http:// attempt 429"
+    "fetch": "r.jina.ai/https landing + /docs/documentation (overview only); first http:// attempt 429",
+    "related_items": [
+      "github-oso95-scroll-world",
+      "github-nexu-io-html-video",
+      "github-wuyoscar-gpt-image2-skill",
+      "web-meigen-ai",
+      "github-nv-tlabs-ArtiFixer"
+    ],
+    "category_note": "Unified genmedia APIs: Seedance/MiniMax/FLUX + GPUs."
   }
 }

@@ -32,10 +32,31 @@ Cross-cutting techniques and recurring pipelines discovered during harvest.
 
 ## 3D / video / BESS flythrough
 
-- **Blender blockout → video model** — camera path in Blender via MCP, reference frames to Seedance/Veo/Kling/MiniMax H3 (`note-blender-minimax-h3`).
-- **Gaussian splat repair & extension** — diffusion post-process on sparse reconstructions (`github-nv-tlabs-ArtiFixer`, `web-arcana-splat2mesh`).
-- **PLY → mesh export** — desktop tools for 3DGS cleanup before web/Three.js (`x-2094826117056414132`).
-- **Depth-conditioned interior flythrough** — Blender Z-pass depth video as motion reference (Wan VACE / LTX 3DREAL) when tight interior geometry matters (`note-blender-minimax-h3`).
+- **Blender blockout → video model** — camera path in Blender via MCP, reference frames to Seedance/Veo/Kling/MiniMax H3 (`note-blender-minimax-h3-video-generation`, `web-fal-ai`, `web-meigen-ai`).
+- **Gaussian splat repair & extension** — diffusion post-process on sparse reconstructions (`github-nv-tlabs-ArtiFixer`, `x-2094929928865341832`, `web-arcana-splat2mesh`).
+- **PLY → mesh export** — desktop tools for 3DGS cleanup before web/Three.js (`web-arcana-splat2mesh`, `x-2094826117056414132`, `x-2094648474377839018`).
+- **Depth-conditioned interior flythrough** — Blender Z-pass depth video as motion reference (Wan VACE / LTX 3DREAL) when tight interior geometry matters (`note-blender-minimax-h3-video-generation`).
+- **Scroll-scrubbed industrial hero** — isometric diorama tied to page scroll (`github-oso95-scroll-world`, `web-utsubo`).
+- **Indoor video → editable 3D** — real-to-sim assets from indoor footage (`x-2094961942058418268`).
+
+## HTML-as-video / prompt-to-clip
+
+- **HTML/CSS → MP4** — author the shot as a page, render via HyperFrames (`github-nexu-io-html-video`, `github-nexu-io-open-design`).
+- **Prompt gallery → hosted model** — Seedance / GPT Image / Nano Banana prompts on fal or MeiGen MCP (`web-meigen-ai`, `web-fal-ai`, `github-wuyoscar-gpt-image2-skill`).
+- **Chat-native motion then export** — motion-anything recipes to Lottie/MP4 when the job is a loop, not a 3D path (`github-nexu-io-motion-anything`; see also ui-motion).
+
+## Capture-to-world (photo/video → 3D)
+
+- **One still → Atlas world → three.js** — World Labs Atlas fills gaps; spark.js presents an orbitable scene (`x-2094864872853119216`).
+- **Repair then fly** — ArtiFixer on broken/blurry 3DGS, then a camera path or mesh export (`github-nv-tlabs-ArtiFixer`, `web-arcana-splat2mesh`).
+- **Indoor capture → posed assets** — Lucida-style video to individual 3D objects (`x-2094961942058418268`).
+
+## Infographics & diagram-as-content
+
+- **Editorial diagram skill** — HTML+SVG types, not Mermaid (`github-cathrynlavery-diagram-design`).
+- **Infographic framework** — AntV SVG scenes + agent skills (`github-antvis-infographic`).
+- **Chart IL via MCP** — Flint spec compiles to Vega/ECharts/Plotly (`web-flint-chart`).
+- **Layer diagram as the argument** — one picture carries SEO or data-stack structure (`x-2094771557864292784`, `web-iandmacomber-post-ai-data-stack`, `x-2094558408259272998`).
 
 ## Data & context for agents
 

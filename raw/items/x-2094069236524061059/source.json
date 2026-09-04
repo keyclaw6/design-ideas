@@ -7,12 +7,20 @@
   "authors": [
     "@0xJokker"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills",
+    "ui-motion"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2094069236524061059",
-    "author_handle": "0xJokker"
+    "author_handle": "0xJokker",
+    "category_note": "taste-skill: layout/type/motion taste before the agent writes UI.",
+    "related_items": [
+      "github-leonxlnx-taste-skill"
+    ]
   }
 }

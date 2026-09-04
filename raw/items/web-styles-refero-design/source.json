@@ -19,6 +19,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "retry": "jina"
+    "retry": "jina",
+    "related_items": [
+      "web-getdesign-md",
+      "github-google-labs-code-design-md",
+      "web-sokosumi-design-md",
+      "web-aidesigner-mcp",
+      "github-pbakaus-impeccable"
+    ],
+    "category_note": "2,000+ downloadable DESIGN.md styles; Refero MCP."
   }
 }

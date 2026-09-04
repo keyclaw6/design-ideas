@@ -7,12 +7,23 @@
   "authors": [
     "@runinfrai"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://runinfra.ai/inference-api/qwen3-8-2-4t-a95b"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088594942482374759",
-    "author_handle": "runinfrai"
+    "author_handle": "runinfrai",
+    "category_note": "Cheap full-precision DeepSeek V4 Flash inference via RunInfra.",
+    "related_items": [
+      "x-2088695568474546387",
+      "x-2090103470015828184",
+      "x-2089165107364278341",
+      "github-superdesigndev-treg"
+    ]
   }
 }

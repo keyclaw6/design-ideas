@@ -13,6 +13,8 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2091621183422943726",
-    "author_handle": "CadX_Studio"
+    "author_handle": "CadX_Studio",
+    "filtered": true,
+    "category_note": "Consumer product CAD demo; not keyboard-pcb"
   }
 }

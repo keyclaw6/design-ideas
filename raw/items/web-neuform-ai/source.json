@@ -17,6 +17,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "retry": "jina"
+    "retry": "jina",
+    "related_items": [
+      "web-open-design-ai",
+      "github-google-labs-code-design-md",
+      "web-getdesign-md",
+      "web-aura-build",
+      "web-sokosumi-design-md"
+    ],
+    "category_note": "Prompt \u2192 HTML landing + remix templates + DESIGN.md export."
   }
 }

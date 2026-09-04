@@ -1,13 +1,29 @@
-## Capture notes
+# Research
 
-- Follow-on from X capture-9 (`x-2094328961522397530`, TinyShelf DR case study by same operator ecosystem).
-- Service page only; pricing tiers not fully enumerated on `/directories` landing (conditions + guarantees captured).
+## What it is
 
-## Why it matters here
+TinyLaunch directories (tinylaunch.com/directories): paid service that submits a SaaS/product to curated launch directories to lift Domain Rating, avoiding DIY form fatigue and dead lists. Founder Chris cross-promotes TinyShelf.
 
-Concrete DR-backlink playbook referenced in capture-9 SEO thread — pairs with TinyShelf as curated listing destination and CrowdReply for AI citation visibility (different mechanism: DR vs LLM citations).
+## How it works
 
-## Open questions
+- Purchase → outreach within 24h → directory selection ~2 days → submissions + report ~1 week (~10 days total). DR typically 2–4 weeks; indexing ~2 months.
+- 110-directory package DR guarantees (e.g. start 0–10 → min 15–20) or keep working / refund. Mix dofollow/nofollow.
+- Case studies: Flashcard Buddy 7→30, SprayShift 1→31 DR.
+- Constraints: not blogs/news/physical stores; Google-auth directories via TinyLaunch accounts; acceptance and live links not always guaranteed.
+- Contact chris@tinylaunch.com / X.
 
-- Current package pricing and directory count tiers?
-- Overlap between TinyShelf editorial listings and TinyLaunch paid submission list?
+## Why saved
+
+Concrete DR/backlink play in the SEO patterns doc. Complements TinyShelf (be listed) and technical SEO (iannuttall).
+
+## Topics
+
+`seo-agents`
+
+## Related
+
+`web-tinyshelf`, `web-tinyshots`, `web-brave-submit-url`, `github-iannuttall-seo`, `web-cult-ui`
+
+## Use when
+
+Planning directory launches for DR; comparing DIY lists vs paid submission; pairing with TinyShelf editorial listing.

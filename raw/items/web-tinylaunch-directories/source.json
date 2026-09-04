@@ -3,7 +3,7 @@
   "url": "https://www.tinylaunch.com/directories",
   "source_type": "website",
   "captured_at": "2026-09-02T20:56:00Z",
-  "title": "TinyLaunch — product directory submission service",
+  "title": "TinyLaunch \u2014 product directory submission service",
   "authors": [
     "Chris",
     "TinyLaunch"
@@ -21,6 +21,14 @@
   "extra": {
     "community_size": "30,000+ makers",
     "package_directories": 110,
-    "fetch": "r.jina.ai /directories"
+    "fetch": "r.jina.ai /directories",
+    "related_items": [
+      "web-tinyshelf",
+      "web-tinyshots",
+      "web-brave-submit-url",
+      "github-iannuttall-seo",
+      "web-cult-ui"
+    ],
+    "category_note": "Paid directory-submission service with DR guarantees."
   }
 }

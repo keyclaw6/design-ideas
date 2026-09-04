@@ -7,7 +7,10 @@
   "authors": [
     "@RadianceFields"
   ],
-  "topics": [],
+  "topics": [
+    "gaussian-splatting",
+    "three-js"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"

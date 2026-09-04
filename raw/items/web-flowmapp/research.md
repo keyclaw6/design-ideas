@@ -1,14 +1,29 @@
-## Capture notes
+# Research
 
-- Agency-focused UX planning SaaS; AI sitemap/wireframe generator highlighted.
-- Included in capture-7 follow-on URL batch (no direct X tweet citation in manifest).
+## What it is
 
-## Why it matters here
+Flowmapp: visual website-planning platform for agencies — brief, sitemap, structure, wireframes, content, estimation, invoice, client presentation. AI sitemap/wireframe generator.
 
-Design/delivery tooling for web projects — adjacent to design-system and landing-page items in this library.
+## How it works
 
-## Open questions
+- Nine-step sales narrative: portfolio → presentation → brief → sitemap → wireframes → content → user flows → estimation → invoice.
+- Interactive sitemap with page editor, sticky notes, collaboration; export Figma/PDF/PNG/XML/CSV/webpage.
+- Estimation: rates, hours, per-page breakdown, downloadable invoice.
+- Claims conversion lifts on site (+15/+35/+50% at stages) — marketing, not measured here.
+- Signup at app.flowmapp.com/signup.
 
-- AI generator quality vs manual sitemap for complex BESS marketing sites?
-- Figma export fidelity and dev handoff?
-- Pricing tiers for small teams?
+## Why saved
+
+Upstream of DESIGN.md and scroll-craft: information architecture and scoped proposals before agents generate HTML. Useful for BESS marketing site planning with clients.
+
+## Topics
+
+`design`
+
+## Related
+
+`web-checklist-design`, `github-google-labs-code-design-md`, `web-known-agency`, `github-nateherkai-scroll-craft`, `web-neuform-ai`
+
+## Use when
+
+Scoping a marketing site with sitemap + estimate; generating IA before visual skills; agency-style client presentation of structure.

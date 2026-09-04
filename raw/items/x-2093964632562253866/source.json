@@ -7,13 +7,19 @@
   "authors": [
     "Hridoy Reh (@hridoyreh)"
   ],
-  "topics": [],
+  "topics": [
+    "seo-agents"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093964632562253866",
     "author_handle": "hridoyreh",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Brave Search submit-url steps.",
+    "related_items": [
+      "web-brave-submit-url"
+    ]
   }
 }

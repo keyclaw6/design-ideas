@@ -36,6 +36,14 @@
     "description": "Enhancing and extending 3D reconstruction with auto-regressive diffusion models (SIGGRAPH 2026)",
     "stargazer_count": 635,
     "primary_language": "Python",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "related_items": [
+      "web-arcana-splat2mesh",
+      "github-oso95-scroll-world",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-fal-ai",
+      "web-utsubo"
+    ],
+    "category_note": "NVIDIA diffusion enhancer/extender for 3DGS reconstructions."
   }
 }

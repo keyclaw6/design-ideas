@@ -7,8 +7,13 @@
   "authors": [
     "Elie Steinbock (@elie2222)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://github.com/elie222/rakazo"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
@@ -16,6 +21,13 @@
   "extra": {
     "tweet_id": "2087898602890744089",
     "author_handle": "elie2222",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2087714580491370655",
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "web-blume-codes",
+      "github-punkpeye-awesome-mcp-servers"
+    ],
+    "category_note": "OSS Grok Bot alternative on pi harness"
   }
 }

@@ -1,14 +1,28 @@
-## Capture notes
+# Research
 
-- Follow-on from X capture-8 Obscura thread; marketing site paired with GitHub repo capture.
-- Docs intro captured via r.jina.ai; homepage is concise value-prop only (no deep technical docs on root domain).
-- Stealth/anti-detect configuration guides exist on docs site but intentionally not summarized here per ingest brief.
+## What it is
 
-## Why it matters here
+obscura.sh: marketing site for the Rust headless browser aimed at AI agents. Frames Chrome as a human browser that is expensive, slow, and stateful at agent scale.
 
-Agent-scale browser positioning (isolation, sub-50ms boot, CDP compatibility) — useful context for evaluating headless stacks vs full Chromium in agent harnesses.
+## How it works
 
-## Open questions
+- Claims: sessions boot <50 ms, fresh sandbox every time, fraction of Chrome memory, Playwright+CDP compatible.
+- Docs (docs.obscura.sh): quickstart, Puppeteer/Playwright connect, MCP server guide, markdown extraction, production scale, Rust library; llms.txt at docs root.
+- Pairs 1:1 with github-h4ckf0r0day-obscura (engine) and Cloudflare Kitesurf (Workers port story).
+- Cloud waitlist on GitHub README; site sells the isolation thesis.
 
-- Obscura Cloud waitlist vs self-hosted ops for design-ideas harvest browser tasks?
-- How Kitesurf on Workers compares feature-wise after Cloudflare's rewrite?
+## Why saved
+
+Human-readable problem framing and docs map for the engine item. Use this for positioning; use the repo for install/CDP.
+
+## Topics
+
+`agent-skills`, `mcp`
+
+## Related
+
+`github-h4ckf0r0day-obscura`, `web-cloudflare-kitesurf`, `github-punkpeye-awesome-mcp-servers`, `web-design-md-hyperbrowser`, `github-nateherkai-scroll-craft`
+
+## Use when
+
+Explaining why not Chromium-per-agent; finding Obscura MCP/docs; comparing marketing claims to Kitesurf/Browser Run.

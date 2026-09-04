@@ -7,7 +7,10 @@
   "authors": [
     "@ivanboroja"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "ui-motion"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +18,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093364419044794836",
-    "author_handle": "ivanboroja"
+    "author_handle": "ivanboroja",
+    "category_note": "Site-launch teaser; keep as landing-motion reference (video attached)."
   }
 }

@@ -7,12 +7,18 @@
   "authors": [
     "@trending_repos"
   ],
-  "topics": [],
+  "topics": [
+    "infographics",
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093309791120543846",
-    "author_handle": "trending_repos"
+    "author_handle": "trending_repos",
+    "category_note": "archify: agent skill for architecture/flow diagrams with motion + HTML export."
   }
 }

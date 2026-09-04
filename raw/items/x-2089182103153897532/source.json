@@ -7,14 +7,27 @@
   "authors": [
     "Scotty Matthewman (@scottymatt)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.aicss.dev/"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089182103153897532",
     "author_handle": "scottymatt",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:38:04Z"
+    "unsaved_at": "2026-09-04T06:38:04Z",
+    "category_note": "AICSS — copy-paste agent-chat UI (thinking, tools, streaming) for React/Vue/Svelte.",
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "x-2089263766428950683",
+      "github-emilkowalski-skills"
+    ]
   }
 }

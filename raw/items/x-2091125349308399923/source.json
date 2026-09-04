@@ -7,12 +7,16 @@
   "authors": [
     "@0x3b33"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2091125349308399923",
-    "author_handle": "0x3b33"
+    "author_handle": "0x3b33",
+    "category_note": "unlazy skill; same repo as x-2088742864310481025"
   }
 }

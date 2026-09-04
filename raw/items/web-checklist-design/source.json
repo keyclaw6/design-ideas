@@ -3,7 +3,7 @@
   "url": "https://www.checklist.design/",
   "source_type": "website",
   "captured_at": "2026-09-02T17:15:42Z",
-  "title": "Checklist Design — Check every detail, ship better work",
+  "title": "Checklist Design \u2014 Check every detail, ship better work",
   "authors": [
     "George Hatzis"
   ],
@@ -22,6 +22,14 @@
   "extra": {
     "retry": "jina",
     "og_description": "Design checklists for websites, web apps, mobile, components, and flows.",
-    "capture_note": "Full homepage category index via r.jina.ai; 35KB markdown"
+    "capture_note": "Full homepage category index via r.jina.ai; 35KB markdown",
+    "related_items": [
+      "github-jakubkrehel-skills",
+      "github-pbakaus-impeccable",
+      "github-google-labs-code-design-md",
+      "web-flowmapp",
+      "github-nateherkai-scroll-craft"
+    ],
+    "category_note": "Page-type design checklists; Figma plugin + agent skill."
   }
 }

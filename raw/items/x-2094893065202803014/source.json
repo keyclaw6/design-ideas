@@ -34,6 +34,8 @@
     "source_client": "Ordinal - Social Media",
     "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com (x.com jina blocked; DOM on X truncated). No native media. Graphed via r.jina.ai.",
     "comments_note": "29 replies; 3 author self-replies (Graphed + YT) + 1 first-level captured. Rest login-walled.",
-    "topics_note": "Cold-email IQ meme; no SCHEMA slug fits the parent text (same empty-topics treatment as Instantly sequencer). Graphed self-replies are marketing-agent ads, not tagged on the parent."
+    "topics_note": "Cold-email IQ meme; no SCHEMA slug fits the parent text (same empty-topics treatment as Instantly sequencer). Graphed self-replies are marketing-agent ads, not tagged on the parent.",
+    "filtered": true,
+    "category_note": "Cold-email Low/Mid/High IQ meme; no SCHEMA lane (outbound, not SEO/AEO)."
   }
 }

@@ -7,12 +7,21 @@
   "authors": [
     "@shannholmberg"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2086920236079681607",
-    "author_handle": "shannholmberg"
+    "author_handle": "shannholmberg",
+    "related_items": [
+      "x-2087143369181114868",
+      "x-2087208634493095978",
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering"
+    ],
+    "category_note": "Hermes ‘life OS’ prompt: markdown KB + memory pointer + capture skills + life tracker."
   }
 }

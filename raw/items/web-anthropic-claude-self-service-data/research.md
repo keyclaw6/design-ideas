@@ -1,15 +1,29 @@
-## Capture notes
+# Research
 
-- Linked from X capture-8 medriscoll infographic (`x-2094558408259272998`) and ClaudeDevs tweet reference.
-- June 2026 publish date; claims are Anthropic-internal benchmarks.
-- Appendix (skill templates) not fully captured — main stack layers summarized.
+## What it is
 
-## Why it matters here
+Anthropic engineering post (June 2026): how they automated ~95% of business analytics queries with Claude at ~95% aggregate accuracy by treating analytics as entity mapping, not SQL generation.
 
-Vendor reference architecture for analytics agents: canonical models + semantic layer + skills routing + evals. Directly informs how to structure MCP/data-agent harness docs in this library.
+## How it works
 
-## Open questions
+- Insight: coding agents have tests; analytics has one correct source. Map question → current entities, then SQL is easy.
+- Failure modes: concept↔entity ambiguity, staleness, retrieval miss.
+- Stack: canonical datasets + CI; semantic layer/lineage/query corpus; skills that route to governed answers; freshness/provenance checks; evals.
+- Colocate modeling, semantic layer, docs, dashboard defs in one repo so CI catches cross-layer breaks.
+- Metadata treated as product (grain, lineage, owners). Frees DS for causal/forecasting work.
 
-- Skill template appendix — worth separate fetch?
-- Claude Tag Slack deployment vs Codex/CLI analytics patterns?
-- Comparable accuracy on external warehouses without Anthropic's colocated repo discipline?
+## Why saved
+
+Playbook for agent-readable company context — same problem as Cerebras KB and Gasquez “context is ETL.” Relevant if marketing agents query warehouse (Graphed) without inventing metric definitions.
+
+## Topics
+
+`agent-skills`, `mcp`
+
+## Related
+
+`web-cerebras-knowledge-base`, `web-davidgasquez-context-engineering`, `web-iandmacomber-post-ai-data-stack`, `web-chatgpt-training`, `web-graphed`
+
+## Use when
+
+Designing a semantic layer or analytics skills; diagnosing why an agent invents metrics; connecting warehouse MCP to governed entities.

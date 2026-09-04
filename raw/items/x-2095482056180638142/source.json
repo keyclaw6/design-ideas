@@ -7,12 +7,16 @@
   "authors": [
     "@iamtanzil_"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2095482056180638142",
-    "author_handle": "iamtanzil_"
+    "author_handle": "iamtanzil_",
+    "category_note": "Fable 5.1 website prompt drop."
   }
 }

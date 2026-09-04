@@ -11,7 +11,8 @@
     "bess-3d-flythrough",
     "camera-control",
     "video-generation",
-    "agent-skills"
+    "agent-skills",
+    "ui-motion"
   ],
   "related_urls": [
     "https://monid.ai",
@@ -23,6 +24,14 @@
     "stars": 8906,
     "forks": 1010,
     "license": "MIT",
-    "language": "JavaScript"
+    "language": "JavaScript",
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "web-fal-ai",
+      "github-nv-tlabs-ArtiFixer",
+      "web-utsubo",
+      "web-getlayers-ai"
+    ],
+    "category_note": "Scroll-scrubbed isometric diorama flythrough skill (Seedance/Monid)."
   }
 }

@@ -16,6 +16,14 @@
   "extra": {
     "stars": 460,
     "forks": 87,
-    "language": "TypeScript"
+    "language": "TypeScript",
+    "related_items": [
+      "web-dicebear",
+      "web-tinyshots",
+      "web-checklist-design",
+      "github-nateherkai-scroll-craft",
+      "web-animos-editor"
+    ],
+    "category_note": "Browser-only QR fountain-code file transfer (QRFerry)."
   }
 }

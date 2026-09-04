@@ -1,15 +1,29 @@
-## Capture notes
+# Research
 
-- Follow-on from X capture-8 (`x-2094467179320119498`, robinstetic demo of MCP cloning site design into Claude Code).
-- Single folder covers landing, `/docs/mcp`, and `/website-cloner` per brief.
-- npm `@aidesigner/agent-skills` 0.1.4 — multi-host MCP bootstrap and local helper CLI.
+## What it is
 
-## Why it matters here
+AIDesigner’s remote MCP (api.aidesigner.ai) for Claude Code, Codex, Cursor, Copilot, Windsurf: generate, refine, and adopt production-ready HTML/Tailwind UI inside an existing repo, with URL clone/enhance/inspire modes.
 
-Remote design MCP with URL clone/enhance/inspire modes — compare to local design-md skills (`github-google-labs-code-design-md`, `web-getdesign-md`) and browser-first cloners. Pairs editor canvas streaming with repo-aware codegen.
+## How it works
 
-## Open questions
+- Bootstrap: `npx -y @aidesigner/agent-skills init <host>` writes MCP config; OAuth once per host.
+- 21 tools: `generate_design` / `refine_design`, image tools, brand kits, editor sessions (6-char pairing codes), canvases, credits/`whoami`.
+- Repo-aware: detects framework, component library, CSS tokens, routes so output is not a generic template.
+- URL modes: clone (near 1:1), enhance (modernize, keep content), inspire (visual language only).
+- Design treated as a compilation target — layout/styling/preview happen in MCP; the agent iterates visually.
 
-- Credit pricing vs self-hosted design skills for iterative BESS/marketing UI work?
-- How `repo_context` auto-generation compares to manually maintained design tokens?
-- Pro-only tools (background removal, vectorize) — adoption friction for free-tier evals?
+## Why saved
+
+In-editor design MCP complementary to OpenDesign (local desktop) and DESIGN.md extractors (tokens only). Useful when the marketing site already lives in git.
+
+## Topics
+
+`mcp`, `design`, `agent-skills`
+
+## Related
+
+`github-google-labs-code-design-md`, `web-getlayers-ai`, `github-nexu-io-open-design`, `web-design-md-hyperbrowser`, `github-punkpeye-awesome-mcp-servers`
+
+## Use when
+
+Generating or cloning a landing inside Cursor via MCP; pairing a visual editor session to a repo; extracting a competitor’s visual language without copying copy.

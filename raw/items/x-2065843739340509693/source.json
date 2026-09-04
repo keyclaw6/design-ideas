@@ -7,7 +7,11 @@
   "authors": [
     "@EHuanglu"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "bess-3d-flythrough",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +19,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2065843739340509693",
-    "author_handle": "EHuanglu"
+    "author_handle": "EHuanglu",
+    "related_items": [
+      "note-blender-minimax-h3-video-generation",
+      "x-2087565352372723955",
+      "github-oso95-scroll-world",
+      "x-2092255768770920506"
+    ],
+    "category_note": "Thin caption; keep because attached demo is Codex driving Blender — same lane as the MiniMax H3 flythrough note."
   }
 }

@@ -7,12 +7,24 @@
   "authors": [
     "@CadX_Studio"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://cadxstudio.in"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089717063921332378",
-    "author_handle": "CadX_Studio"
+    "author_handle": "CadX_Studio",
+    "category_note": "CadX Studio text-to-CAD: prompt to a designed screwdriver.",
+    "related_items": [
+      "x-2090535643353153833",
+      "x-2087272209429766596",
+      "x-2089802212000362939",
+      "github-oso95-scroll-world"
+    ]
   }
 }

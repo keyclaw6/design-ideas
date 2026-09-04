@@ -7,7 +7,12 @@
   "authors": [
     "@DesignByMoein"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "agent-skills",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +20,11 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093767075131220005",
-    "author_handle": "DesignByMoein"
+    "author_handle": "DesignByMoein",
+    "category_note": "Hogwarts-event landing via custom skills + video tool + Cursor.",
+    "related_items": [
+      "x-2095207624396652956",
+      "x-2090079734571098131"
+    ]
   }
 }

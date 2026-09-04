@@ -3,7 +3,7 @@
   "url": "https://tinyshelf.co",
   "source_type": "website",
   "captured_at": "2026-09-02T20:56:00Z",
-  "title": "TinyShelf — curated software directory",
+  "title": "TinyShelf \u2014 curated software directory",
   "authors": [
     "TinyShelf"
   ],
@@ -22,6 +22,14 @@
   "extra": {
     "submit_flow": "Google OAuth sign-in",
     "category_count": 19,
-    "fetch": "r.jina.ai landing + /submit + /tools/tinyshots"
+    "fetch": "r.jina.ai landing + /submit + /tools/tinyshots",
+    "related_items": [
+      "web-tinylaunch-directories",
+      "web-tinyshots",
+      "web-brave-submit-url",
+      "web-crowdreply",
+      "github-iannuttall-seo"
+    ],
+    "category_note": "Human-reviewed software directory; TinyShots listed here."
   }
 }

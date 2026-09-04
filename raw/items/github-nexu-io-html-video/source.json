@@ -21,6 +21,14 @@
     "stars": 4505,
     "forks": 562,
     "license": "Apache-2.0",
-    "language": "HTML"
+    "language": "HTML",
+    "related_items": [
+      "github-nexu-io-open-design",
+      "github-nexu-io-motion-anything",
+      "web-open-design-ai",
+      "web-fal-ai",
+      "web-animos-editor"
+    ],
+    "category_note": "HTML/CSS \u2192 MP4 via Hyperframes; OpenDesign video path."
   }
 }

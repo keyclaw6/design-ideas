@@ -7,7 +7,9 @@
   "authors": [
     "@SamuelZengML"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +17,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2087562269807030754",
-    "author_handle": "SamuelZengML"
+    "author_handle": "SamuelZengML",
+    "related_items": [
+      "x-2087962842985058365",
+      "x-2088281537427235320",
+      "x-2087240056037908509",
+      "web-blume-codes"
+    ],
+    "category_note": "On-device 35B sparse MoE (iPhone demo, OSS soon)"
   }
 }

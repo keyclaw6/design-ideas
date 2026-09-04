@@ -17,6 +17,14 @@
   "unsaved": false,
   "extra": {
     "retry": "jina",
-    "error": "HTTP 429 Vercel Security Checkpoint on direct curl and r.jina.ai"
+    "error": "HTTP 429 Vercel Security Checkpoint on direct curl and r.jina.ai",
+    "related_items": [
+      "web-designmd-supply",
+      "web-typeui-sh",
+      "github-google-labs-code-design-md",
+      "web-sokosumi-design-md",
+      "web-getdesign-md"
+    ],
+    "category_note": "DESIGN.md ecosystem URL; Vercel 429, no body captured."
   }
 }

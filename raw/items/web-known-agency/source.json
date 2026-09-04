@@ -3,7 +3,7 @@
   "url": "https://known.agency/",
   "source_type": "website",
   "captured_at": "2026-09-02T20:15:00Z",
-  "title": "known.agency — AI Search Optimization Agency",
+  "title": "known.agency \u2014 AI Search Optimization Agency",
   "authors": [
     "Known"
   ],
@@ -17,6 +17,14 @@
   "unsaved": false,
   "extra": {
     "positioning": "AI Search Engine Optimisation Agency",
-    "fetch": "r.jina.ai"
+    "fetch": "r.jina.ai",
+    "related_items": [
+      "web-crowdreply",
+      "web-seowins-io",
+      "github-iannuttall-seo",
+      "web-nqz-ai-search-prompt-generator",
+      "web-tinylaunch-directories"
+    ],
+    "category_note": "AEO/SEO agency; Search Everywhere across Google + assistants."
   }
 }

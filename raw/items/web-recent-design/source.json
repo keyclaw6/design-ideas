@@ -3,7 +3,7 @@
   "url": "https://recent.design/",
   "source_type": "website",
   "captured_at": "2026-09-02T17:15:42Z",
-  "title": "Recent — Design Inspiration",
+  "title": "Recent \u2014 Design Inspiration",
   "authors": [],
   "topics": [
     "design",
@@ -17,6 +17,14 @@
   "extra": {
     "retry": "jina",
     "error": "www.recent.design DNS unresolved; apex recent.design works",
-    "capture_note": "Full feed via r.jina.ai on apex domain; prior www URL was wrong"
+    "capture_note": "Full feed via r.jina.ai on apex domain; prior www URL was wrong",
+    "related_items": [
+      "web-sceneai-art",
+      "github-nateherkai-scroll-craft",
+      "github-mengto-skills",
+      "web-utsubo",
+      "web-opale-ui-taste"
+    ],
+    "category_note": "Curated motion/UI inspiration feed from X/IG; apex recent.design."
   }
 }

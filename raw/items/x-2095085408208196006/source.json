@@ -7,7 +7,10 @@
   "authors": [
     "@Palakonweb"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg",
@@ -18,6 +21,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2095085408208196006",
-    "author_handle": "Palakonweb"
+    "author_handle": "Palakonweb",
+    "category_note": "Imageory.in image-prompt gallery; ChatGPT stills as style refs."
   }
 }

@@ -1,11 +1,28 @@
-## What it actually does
+# Research
 
-Component marketplace with live previews (Neon Border, Satin Flow, Grainy Carousel, etc.). Pro and free tiers. MCP lets agents search and pull component source.
+## What it is
 
-## Design / BESS marketing site
+Originkit: free animated component library (363+; MCP lists 250+) for modern sites — copy code, Framer, or MCP plugin (vellum-ai/originkit). Categories: interactive, galleries, text effects, backgrounds, buttons. Stacks: React/Next/Vite/Framer; CSS/Tailwind/CSS Modules.
 
-Drop animated heroes, carousels, and background effects into BESS marketing sites without building motion from scratch.
+## How it works
 
-## 3D / agents / SEO
+- Browse/copy components; free API key to fetch.
+- MCP plugin: agents browse/import components without scraping the marketing site.
+- Larger “free animated kit” than Vengeance’s 46 marketing components; less experimental than FeralUI.
+- Intended for production marketing pages, not Three.js scenes.
 
-**ui-motion**, **mcp**: strong motion/interaction library. Some 3D-ish effects (Matrix Junction) but primarily 2D CSS/canvas animation. Agent MCP integration for rapid assembly.
+## Why saved
+
+MCP-addressable motion components — agents can pull a gallery/text-effect instead of inventing GSAP. Good middle of Cult/Vengeance/Feral spectrum.
+
+## Topics
+
+`design`, `ui-motion`, `mcp`
+
+## Related
+
+`web-vengence-ui`, `web-cult-ui`, `web-feralui-dev`, `github-nexu-io-motion-anything`, `web-lottiefiles`
+
+## Use when
+
+An agent should import an animated section via MCP; filling a landing with text effects/backgrounds; comparing free kits.

@@ -7,14 +7,36 @@
   "authors": [
     "@juampitech"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://skills.sh/hardikpandya/stop-slop",
+    "https://skills.sh/petergyang/no-ai-slop/no-ai-slop",
+    "https://skills.sh/blader/humanizer",
+    "https://skills.sh/cursor/plugins/unslop",
+    "https://skills.sh/ehmo/slopkit/slopbeth",
+    "https://skills.sh/Aboudjem/humanizer-skill/humanizer",
+    "https://skills.sh/stephenturner/skills/deslop",
+    "https://skills.sh/elithrar/dotfiles/anti-slop",
+    "https://skills.sh/aashaexo/soundshuman/humanize",
+    "https://skills.sh/jalaalrd/anti-ai-slop-writing/anti-ai-slop-writing"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2090834948332655011",
-    "author_handle": "juampitech"
+    "author_handle": "juampitech",
+    "category_note": "Ranked list of anti-slop writing/code skills (stop-slop, unslop, humanizer, …).",
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "x-2088742864310481025",
+      "x-2089457435459404093",
+      "github-emilkowalski-skills",
+      "github-pbakaus-impeccable"
+    ]
   }
 }

@@ -1,11 +1,28 @@
-## What it actually does
+# Research
 
-Browser-based DESIGN.md extraction as lead-gen for Sokosumi AI coworker platform. Same problem space as Hyperbrowser DESIGNMD and getdesign.md catalog.
+## What it is
 
-## Design / BESS marketing site
+Sokosumi free DESIGN.md generator (sokosumi.com/tools/design-md): paste a URL, get colors/type/spacing/components in Google DESIGN.md format for Claude Code/Cursor/Codex/Copilot. Parent: Sokosumi AI-coworker marketplace (Serviceplan-backed).
 
-One-click DESIGN.md from any reference site for BESS agent sessions.
+## How it works
 
-## 3D / agents / SEO
+- Remote browser opens the page, reads computed styles, writes structured DESIGN.md.
+- Edit, copy, or download; drop in repo. Shortcuts: Stripe, Linear, Vercel, Notion.
+- Same job as Hyperbrowser extractor; marketed as free vs key-gated Hyperbrowser.
+- Capture via r.jina.ai. Quality of token extraction unverified here — always lint with `@google/design.md`.
 
-**design**, **agent-skills**: free tier tool; also offers SEO.md generator sibling.
+## Why saved
+
+Fastest free URL→DESIGN.md path in the cluster. Good first step before Impeccable polish or OpenDesign.
+
+## Topics
+
+`design`, `agent-skills`
+
+## Related
+
+`github-google-labs-code-design-md`, `web-design-md-hyperbrowser`, `web-getdesign-md`, `web-styles-refero-design`, `web-neuform-ai`
+
+## Use when
+
+Extracting a competitor/reference DESIGN.md at zero cost; comparing free vs Hyperbrowser extract; seeding a repo contract file.

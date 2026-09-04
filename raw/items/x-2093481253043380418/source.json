@@ -7,7 +7,9 @@
   "authors": [
     "Calliope for YouTube (@CalliopeLabsyt)"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +18,7 @@
   "extra": {
     "tweet_id": "2093481253043380418",
     "author_handle": "CalliopeLabsyt",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Calliope: idea \u2192 script/characters/2D animation/VO faceless video."
   }
 }

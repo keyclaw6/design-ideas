@@ -7,7 +7,11 @@
   "authors": [
     "Viktor Oddy (@viktoroddy)"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills",
+    "ui-motion"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +20,7 @@
   "extra": {
     "tweet_id": "2095549461737111905",
     "author_handle": "viktoroddy",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Claude Fable 5.1 one-shot website outputs (video)."
   }
 }

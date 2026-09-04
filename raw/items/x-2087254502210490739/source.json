@@ -7,12 +7,21 @@
   "authors": [
     "@neviannn"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087254502210490739",
-    "author_handle": "neviannn"
+    "author_handle": "neviannn",
+    "related_items": [
+      "x-2087026930323247306",
+      "x-2080856252687745093",
+      "x-2032671842230501729",
+      "web-cerebras-knowledge-base"
+    ],
+    "category_note": "Stanford Control Plane Pattern: naive multi-agent handoffs rot; use queues + one reasoner + KG."
   }
 }

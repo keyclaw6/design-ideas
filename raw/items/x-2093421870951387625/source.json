@@ -7,12 +7,15 @@
   "authors": [
     "@3DxDEV7"
   ],
-  "topics": [],
+  "topics": [
+    "design"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093421870951387625",
-    "author_handle": "3DxDEV7"
+    "author_handle": "3DxDEV7",
+    "category_note": "Blender BQR addon: clean quads after booleans for hard-surface assets."
   }
 }

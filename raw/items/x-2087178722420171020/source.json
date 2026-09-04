@@ -7,12 +7,23 @@
   "authors": [
     "@Sumanth_077"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/cloudflare/cloudflare-os"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087178722420171020",
-    "author_handle": "Sumanth_077"
+    "author_handle": "Sumanth_077",
+    "related_items": [
+      "web-cloudflare-kitesurf",
+      "github-h4ckf0r0day-obscura",
+      "web-obscura-sh",
+      "github-punkpeye-awesome-mcp-servers"
+    ],
+    "category_note": "cloudflare/cloudflare-os: Workers-based agent workspace for docs, apps, and company-context agents."
   }
 }

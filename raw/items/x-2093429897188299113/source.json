@@ -16,6 +16,11 @@
   "extra": {
     "tweet_id": "2093429897188299113",
     "author_handle": "EyalToledano",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "filtered": true,
+    "category_note": "Follow-up Qwen expert-on-disk streaming; same unrelated ML-infra lane as x-2093160779960774982.",
+    "related_items": [
+      "x-2093160779960774982"
+    ]
   }
 }

@@ -3,18 +3,31 @@
   "url": "https://x.com/kunchenguid/status/2089189790881382676",
   "source_type": "x",
   "captured_at": "2026-09-04T06:35:41Z",
-  "title": "i didn't tell anyone about this repo but it kept getting stars \ud83d\ude02 so i guess it's time to share it introducing /vision. i",
+  "title": "i didn't tell anyone about this repo but it kept getting stars 😂 so i guess it's time to share it introducing /vision. i",
   "authors": [
     "Kun Chen (@kunchenguid)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/kunchenguid/vision",
+    "https://github.com/kunchenguid/firstmate/blob/main/VISION.md"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089189790881382676",
     "author_handle": "kunchenguid",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:38:08Z"
+    "unsaved_at": "2026-09-04T06:38:08Z",
+    "category_note": "VISION.md skill — product vision as the layer above plans and code review.",
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "web-getdesign-md",
+      "web-davidgasquez-context-engineering",
+      "x-2088634091671531923"
+    ]
   }
 }

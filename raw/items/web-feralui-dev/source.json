@@ -18,6 +18,14 @@
   ],
   "unsaved": false,
   "extra": {
-    "version": "v0.1.1"
+    "version": "v0.1.1",
+    "related_items": [
+      "web-originkit-dev",
+      "web-vengence-ui",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-opale-ui-taste",
+      "github-emilkowalski-skills"
+    ],
+    "category_note": "Experimental physically-inspired UI components (v0.1.1)."
   }
 }

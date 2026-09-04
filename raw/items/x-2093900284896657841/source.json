@@ -7,12 +7,20 @@
   "authors": [
     "@vicky_grok"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093900284896657841",
-    "author_handle": "vicky_grok"
+    "author_handle": "vicky_grok",
+    "category_note": "scroll-craft skill: anti-sameness scroll-driven sites.",
+    "related_items": [
+      "github-nateherkai-scroll-craft"
+    ]
   }
 }

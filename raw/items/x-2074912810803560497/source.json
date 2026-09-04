@@ -7,12 +7,23 @@
   "authors": [
     "@dejavucoder"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://sankalp.bearblog.dev/autoresearch/"
+  ],
   "media": [],
   "unsaved": false,
   "extra": {
     "tweet_id": "2074912810803560497",
-    "author_handle": "dejavucoder"
+    "author_handle": "dejavucoder",
+    "related_items": [
+      "x-2080856252687745093",
+      "x-2032671842230501729",
+      "x-2087151807965401320",
+      "web-chatgpt-training"
+    ],
+    "category_note": "Codex auto-research loop that 212x’d a QR kernel — concrete eval-harness write-up."
   }
 }

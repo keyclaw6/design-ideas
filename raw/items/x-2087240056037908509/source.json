@@ -3,16 +3,28 @@
   "url": "https://x.com/slash1sol/status/2087240056037908509",
   "source_type": "x",
   "captured_at": "2026-09-04T07:01:46Z",
-  "title": "DEEPSEEK V4 FLASH AND QWEN3.6 ARE FREE ON AMD'S OWN CLOUD AT $10 OF USAGE A DAY \u2022 AMD Token Factory > DeepSeek V4 Flash,",
+  "title": "DEEPSEEK V4 FLASH AND QWEN3.6 ARE FREE ON AMD'S OWN CLOUD AT $10 OF USAGE A DAY • AMD Token Factory > DeepSeek V4 Flash,",
   "authors": [
     "@slash1sol"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://developer.amd.com",
+    "https://grok.com"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087240056037908509",
-    "author_handle": "slash1sol"
+    "author_handle": "slash1sol",
+    "related_items": [
+      "web-fal-ai",
+      "x-2087715372787228734",
+      "x-2092790491741823402",
+      "web-chatgpt-training"
+    ],
+    "category_note": "Actionable free inference: AMD Token Factory daily $10 + SuperGrok trial caveats."
   }
 }

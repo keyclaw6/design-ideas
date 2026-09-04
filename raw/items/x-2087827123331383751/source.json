@@ -7,12 +7,24 @@
   "authors": [
     "@martindonadieu"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "seo-agents",
+    "mcp"
+  ],
+  "related_urls": [
+    "http://openseo.so"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087827123331383751",
-    "author_handle": "martindonadieu"
+    "author_handle": "martindonadieu",
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-crowdreply",
+      "web-seowins-io",
+      "web-tinylaunch-directories"
+    ],
+    "category_note": "Ahrefs MCP credit wall → OpenSEO.so"
   }
 }

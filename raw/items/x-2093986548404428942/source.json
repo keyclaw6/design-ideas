@@ -7,7 +7,10 @@
   "authors": [
     "@Ragu_Cinema"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +18,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093986548404428942",
-    "author_handle": "Ragu_Cinema"
+    "author_handle": "Ragu_Cinema",
+    "category_note": "Filmmaker refs: eyecannndy camera techniques, moodboards, free upscaler."
   }
 }

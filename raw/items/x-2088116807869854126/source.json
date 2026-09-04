@@ -7,12 +7,23 @@
   "authors": [
     "@Saboo_Shubham_"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/Shubhamsaboo/awesome-llm-apps"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088116807869854126",
-    "author_handle": "Saboo_Shubham_"
+    "author_handle": "Saboo_Shubham_",
+    "related_items": [
+      "github-sindresorhus-awesome",
+      "github-punkpeye-awesome-mcp-servers",
+      "github-superdesigndev-treg",
+      "github-LessieAI-people-search-bench"
+    ],
+    "category_note": "Huge awesome-list of LLM apps (star-ask tweet)"
   }
 }

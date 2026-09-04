@@ -7,13 +7,25 @@
   "authors": [
     "Rina (@irinatoxi)"
   ],
-  "topics": [],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "keyboard-pcb"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088296314484162719",
     "author_handle": "irinatoxi",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2088277946918142211",
+      "x-2088308976278790258",
+      "x-2087272209429766596",
+      "github-punkpeye-awesome-mcp-servers",
+      "x-2088252062454751483"
+    ],
+    "category_note": "Fusion assembly as MCP-queryable database"
   }
 }

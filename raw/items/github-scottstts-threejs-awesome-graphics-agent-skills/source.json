@@ -21,6 +21,14 @@
     "stars": 778,
     "forks": 87,
     "license": "MIT",
-    "language": "JavaScript"
+    "language": "JavaScript",
+    "related_items": [
+      "github-mengto-complete-shelf",
+      "github-mengto-skills",
+      "github-oso95-scroll-world",
+      "web-feralui-dev",
+      "web-utsubo"
+    ],
+    "category_note": "Three.js graphics skills: camera rigs, PBR, TSL/WebGPU, validation."
   }
 }

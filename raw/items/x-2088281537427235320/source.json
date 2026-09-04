@@ -3,12 +3,17 @@
   "url": "https://x.com/UnslothAI/status/2088281537427235320",
   "source_type": "x",
   "captured_at": "2026-09-04T06:49:29Z",
-  "title": "Qwen3.8-27B can now be run locally! \u2728 Run on 17GB RAM via Unsloth Dynamic GGUFs. Qwen3.8-27B is by far the strongest mod",
+  "title": "Qwen3.8-27B can now be run locally! ✨ Run on 17GB RAM via Unsloth Dynamic GGUFs. Qwen3.8-27B is by far the strongest mod",
   "authors": [
     "Unsloth AI (@UnslothAI)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+    "https://unsloth.ai/docs/models/qwen3.8"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
@@ -16,6 +21,12 @@
   "extra": {
     "tweet_id": "2088281537427235320",
     "author_handle": "UnslothAI",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2087562269807030754",
+      "x-2087962842985058365",
+      "x-2087240056037908509"
+    ],
+    "category_note": "Qwen3.8-27B Unsloth GGUF (~17GB RAM)"
   }
 }

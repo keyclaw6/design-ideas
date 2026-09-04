@@ -7,13 +7,17 @@
   "authors": [
     "Jibran (@Jibran_05)"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2095202138854977756",
     "author_handle": "Jibran_05",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Unsupervised TikTok via 6 models + lightreelai/Doublespeed; claimed OSS."
   }
 }

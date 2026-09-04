@@ -21,6 +21,13 @@
   "extra": {
     "tweet_id": "2090165248196252003",
     "author_handle": "GeminiApp",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Filtered: Gemini back-to-school student promo.",
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2089165107364278341",
+      "x-2090103470015828184"
+    ],
+    "filtered": true
   }
 }

@@ -7,7 +7,11 @@
   "authors": [
     "@rege_dev"
   ],
-  "topics": [],
+  "topics": [
+    "keyboard-pcb",
+    "ui-motion",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +19,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2095111032171876470",
-    "author_handle": "rege_dev"
+    "author_handle": "rege_dev",
+    "category_note": "3D keyboard animation via CoAnimator + Claude Fable 5.1; agent-editable."
   }
 }

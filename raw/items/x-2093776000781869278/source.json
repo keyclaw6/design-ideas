@@ -15,6 +15,8 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2093776000781869278",
-    "author_handle": "dan__rosenthal"
+    "author_handle": "dan__rosenthal",
+    "filtered": true,
+    "category_note": "Generic B2B GTM flywheel; out of taxonomy."
   }
 }

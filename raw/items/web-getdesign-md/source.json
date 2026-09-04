@@ -16,6 +16,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "retry": "jina"
+    "retry": "jina",
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "web-styles-refero-design",
+      "web-sokosumi-design-md",
+      "web-neuform-ai",
+      "github-pbakaus-impeccable"
+    ],
+    "category_note": "550+ site DESIGN.md catalog + private/custom kits."
   }
 }

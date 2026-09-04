@@ -20,6 +20,14 @@
   ],
   "unsaved": false,
   "extra": {
-    "tagline": "AI-native library of templates"
+    "tagline": "AI-native library of templates",
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "github-oso95-scroll-world",
+      "web-aidesigner-mcp",
+      "github-mengto-skills",
+      "web-sceneai-art"
+    ],
+    "category_note": "Cinematic HTML layer prompts + MCP site assembly."
   }
 }

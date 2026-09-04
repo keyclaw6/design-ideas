@@ -7,13 +7,17 @@
   "authors": [
     "@adilinthewild"
   ],
-  "topics": [],
+  "topics": [
+    "video-generation",
+    "camera-control"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093374092795846745",
     "author_handle": "adilinthewild",
-    "media_omitted": "exceeds GitHub 100MB limit; kept locally only"
+    "media_omitted": "exceeds GitHub 100MB limit; kept locally only",
+    "category_note": "Block the scene in Blender before spending AI-video credits; 19-min tutorial."
   }
 }

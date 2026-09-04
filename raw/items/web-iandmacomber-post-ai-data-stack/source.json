@@ -24,6 +24,14 @@
   "extra": {
     "published": "2026-08-30",
     "author_affiliation": "Ramp (Head of Data)",
-    "fetch": "r.jina.ai full post"
+    "fetch": "r.jina.ai full post",
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-davidgasquez-context-engineering",
+      "web-anthropic-claude-self-service-data",
+      "web-flint-chart",
+      "web-graphed"
+    ],
+    "category_note": "Ramp essay: cheap analysis, expensive consensus; agent harness + semantic layer."
   }
 }

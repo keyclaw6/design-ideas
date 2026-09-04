@@ -7,7 +7,10 @@
   "authors": [
     "@80Level"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "camera-control"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,

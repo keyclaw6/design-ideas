@@ -21,6 +21,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "fetch": "r.jina.ai full post"
+    "fetch": "r.jina.ai full post",
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-iandmacomber-post-ai-data-stack",
+      "web-anthropic-claude-self-service-data",
+      "web-chatgpt-training",
+      "web-blume-codes"
+    ],
+    "category_note": "Essay: context engineering is ETL for agent knowledge."
   }
 }

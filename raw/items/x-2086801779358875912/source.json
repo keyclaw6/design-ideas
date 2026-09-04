@@ -3,18 +3,30 @@
   "url": "https://x.com/alexgilev/status/2086801779358875912",
   "source_type": "x",
   "captured_at": "2026-09-04T06:52:17Z",
-  "title": "Introducing ... \ud83e\udd41 \"Agentic UI Showcase\" https://agenticui.net/showcase A collection of best product interfaces made with",
+  "title": "Introducing ... 🥁 \"Agentic UI Showcase\" https://agenticui.net/showcase A collection of best product interfaces made with",
   "authors": [
     "@alexgilev"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://agenticui.net/showcase"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2086801779358875912",
-    "author_handle": "alexgilev"
+    "author_handle": "alexgilev",
+    "related_items": [
+      "web-cult-ui",
+      "web-open-design-ai",
+      "github-nexu-io-open-design",
+      "web-recent-design"
+    ],
+    "category_note": "Gallery of product UIs built with Agentic UI — reference board for vibe-design."
   }
 }

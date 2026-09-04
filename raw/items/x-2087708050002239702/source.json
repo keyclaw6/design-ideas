@@ -7,12 +7,23 @@
   "authors": [
     "@orca_build"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "agent-skills",
+    "mcp"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087708050002239702",
-    "author_handle": "orca_build"
+    "author_handle": "orca_build",
+    "related_items": [
+      "web-aidesigner-mcp",
+      "github-pbakaus-impeccable",
+      "web-design-md-hyperbrowser",
+      "github-emilkowalski-skills"
+    ],
+    "category_note": "On-page annotate → any coding agent"
   }
 }

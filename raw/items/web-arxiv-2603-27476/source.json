@@ -34,10 +34,21 @@
   "unsaved": false,
   "extra": {
     "arxiv_id": "2603.27476",
-    "subjects": ["cs.AI", "cs.LG"],
+    "subjects": [
+      "cs.AI",
+      "cs.LG"
+    ],
     "pages": 25,
     "doi": "10.48550/arXiv.2603.27476",
     "venue": "EMNLP 2026 Industry Track",
-    "fetch": "r.jina.ai arxiv abs"
+    "fetch": "r.jina.ai arxiv abs",
+    "related_items": [
+      "github-LessieAI-people-search-bench",
+      "web-treg-people-search",
+      "github-superdesigndev-treg",
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "github-iannuttall-seo"
+    ],
+    "category_note": "PeopleSearchBench paper (EMNLP 2026 Industry); same bench as Lessie repo."
   }
 }

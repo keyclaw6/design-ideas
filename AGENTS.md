@@ -4,18 +4,17 @@ How to search this library when answering questions or continuing research.
 
 ## Query order
 
-1. **Start at `catalog/index.md`** — scan the id/title/topics table for relevant entries.
-2. **Check `catalog/topics/`** — topic files group items by theme (e.g. `bess-3d-flythrough.md`). Non-exclusive: one item may appear in several topics.
-3. **Read `catalog/patterns.md`** — cross-cutting techniques discovered during harvest (stub until wave 1 completes).
-4. **Open the path** listed in the index:
-   - `raw/items/<id>/` — normalized captures (see SCHEMA.md)
-   - `raw/notes/<name>.md` — long-form research not yet split into items
-5. **Inside an item folder**, read in this order:
+1. **Start at `catalog/README.md`** — taxonomy map, topic lanes, and how to navigate.
+2. **Scan `catalog/index.md`** — id/title/topics/filtered table for every entry.
+3. **Open `catalog/topics/<slug>.md`** — lane brief + curated picks + full item list.
+4. **Read `catalog/patterns.md`** — cross-cutting pipelines with item ids.
+5. **Inside an item folder** (`raw/items/<id>/`), read in this order:
    - `source.json` — metadata, URL, topics
    - `page.md` or `post.md` — primary content (`post.md` for `x` and `reddit`)
    - `comments.md` — optional thread/replies
-   - `research.md` — agent synthesis or follow-ups
+   - `research.md` — optional agent notes (only when post alone is insufficient)
    - `media/` — screenshots, attachments
+6. **Long-form notes:** `raw/notes/<name>.md` — research not yet split into items
 
 ## Graphify
 

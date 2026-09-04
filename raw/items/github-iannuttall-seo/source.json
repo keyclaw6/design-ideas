@@ -24,6 +24,14 @@
     "homepage": "https://seoskill.dev",
     "npm": "seo@0.2.40",
     "node": "22+",
-    "language": "TypeScript"
+    "language": "TypeScript",
+    "related_items": [
+      "web-crowdreply",
+      "github-LessieAI-people-search-bench",
+      "github-superdesigndev-treg",
+      "web-brave-submit-url",
+      "web-seowins-io"
+    ],
+    "category_note": "Local SEO CLI + MCP using your crawl/GSC/GA4."
   }
 }

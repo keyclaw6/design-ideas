@@ -23,6 +23,14 @@
     "description": "GojiberryAI Sales OS: a full AI outbound team for Grok Bot, powered by the GojiberryAI MCP.",
     "stargazer_count": 69,
     "primary_language": null,
-    "license": "MIT"
+    "license": "MIT",
+    "related_items": [
+      "github-superdesigndev-treg",
+      "web-treg-people-search",
+      "github-LessieAI-people-search-bench",
+      "web-graphed",
+      "web-crowdreply"
+    ],
+    "category_note": "13-agent outbound sales OS on hosted Gojiberry MCP."
   }
 }

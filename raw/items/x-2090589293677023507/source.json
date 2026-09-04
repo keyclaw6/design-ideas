@@ -5,9 +5,13 @@
   "captured_at": "2026-09-04T06:35:43Z",
   "title": "The core claim checks out. For years 3D Gaussian Splatting quality was solid, but huge files, missing streaming/LOD, and",
   "authors": [
-    "AI : Self Aware Networks \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf9\ud83c\uddfc \ud83c\uddfa\ud83c\udde6 (@worksalt)"
+    "AI : Self Aware Networks 🇺🇸 🇹🇼 🇺🇦 (@worksalt)"
   ],
-  "topics": [],
+  "topics": [
+    "gaussian-splatting",
+    "bess-3d-flythrough",
+    "three-js"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
@@ -15,6 +19,13 @@
     "tweet_id": "2090589293677023507",
     "author_handle": "worksalt",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:38:43Z"
+    "unsaved_at": "2026-09-04T06:38:43Z",
+    "category_note": "3DGS goes practical: LOD, streaming, SPZ, collision, city-scale browser (Aholo).",
+    "related_items": [
+      "web-arcana-splat2mesh",
+      "github-nv-tlabs-ArtiFixer",
+      "x-2094826117056414132",
+      "x-2090839282831270173"
+    ]
   }
 }

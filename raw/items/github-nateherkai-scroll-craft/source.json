@@ -23,6 +23,14 @@
     "github": "nateherkai/scroll-craft",
     "description": "Claude Code skill for premium scroll-driven websites with screenshot verification",
     "stargazer_count": 1549,
-    "primary_language": "JavaScript"
+    "primary_language": "JavaScript",
+    "related_items": [
+      "github-oso95-scroll-world",
+      "github-emilkowalski-skills",
+      "github-pbakaus-impeccable",
+      "web-getlayers-ai",
+      "web-recent-design"
+    ],
+    "category_note": "Scroll-as-timeline landing skill with Playwright self-verify."
   }
 }

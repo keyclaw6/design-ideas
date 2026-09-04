@@ -7,12 +7,21 @@
   "authors": [
     "@hamiltonulmer"
   ],
-  "topics": [],
+  "topics": [
+    "infographics"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087205167662088363",
-    "author_handle": "hamiltonulmer"
+    "author_handle": "hamiltonulmer",
+    "related_items": [
+      "web-flint-chart",
+      "github-antvis-infographic",
+      "github-cathrynlavery-diagram-design",
+      "web-iandmacomber-post-ai-data-stack"
+    ],
+    "category_note": "Hamilton Ulmer: DuckDB-speed dataviz, nearly free, no JS — keep as SQL-native charting pointer."
   }
 }

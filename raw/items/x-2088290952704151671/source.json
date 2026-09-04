@@ -7,13 +7,25 @@
   "authors": [
     "Matt Pocock (@mattpocockuk)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/mattpocock/skills"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088290952704151671",
     "author_handle": "mattpocockuk",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "x-2088260067204137135",
+      "x-2087263510090874911",
+      "github-emilkowalski-skills",
+      "github-jakubkrehel-skills",
+      "github-mengto-skills"
+    ],
+    "category_note": "Video tour of mattpocock/skills (25 skills)"
   }
 }

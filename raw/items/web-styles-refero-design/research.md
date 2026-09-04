@@ -1,11 +1,28 @@
-## What it actually does
+# Research
 
-Curated DESIGN.md library derived from real product UIs — evidence-based design context for agents, not generic palettes. Cross-sells Refero MCP so agents can search styles and flows programmatically.
+## What it is
 
-## Design / BESS marketing site
+styles.refero.design: gallery of 2,000+ AI-readable design systems from product sites. Each style exposes colors, type, spacing, components, and a downloadable DESIGN.md for Cursor/Claude/Codex/v0/Lovable. Beta from Refero; MCP at refero.design/mcp.
 
-Pick a reference style (e.g. Linear, Stripe) as a BESS landing-page brief; drop the DESIGN.md into repo context for consistent agent builds.
+## How it works
 
-## 3D / agents / SEO
+- Featured: Apple, Linear, Notion, Duolingo, ElevenLabs, Mercury, Authkit, Harness.io with mood imagery + DESIGN.md.
+- Extra hubs: design-md examples, design resources, design prompts.
+- MCP lets agents pull styles without browsing the gallery.
+- Overlaps getdesign.md catalog; Refero emphasizes volume + MCP, getdesign.md emphasizes analyses + starter kits.
 
-**design**, **agent-skills**: directly on-theme for agent-readable design systems. No Three.js; pairs with Google DESIGN.md spec and MCP tooling.
+## Why saved
+
+Largest DESIGN.md example set with an MCP door. Primary “steal Linear’s tokens legally as a file” library.
+
+## Topics
+
+`design`, `agent-skills`
+
+## Related
+
+`web-getdesign-md`, `github-google-labs-code-design-md`, `web-sokosumi-design-md`, `web-aidesigner-mcp`, `github-pbakaus-impeccable`
+
+## Use when
+
+Downloading a named-brand DESIGN.md; using Refero MCP in Cursor; mood-boarding before generating UI.

@@ -7,14 +7,29 @@
   "authors": [
     "@kaddisdeployed"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "ui-motion",
+    "video-generation",
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://docs.google.com/document/d/13HUxIbnPr_gBO6rKI0Cbx2Zbka6-JP2B7etBri8ELdg"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088155107544191339",
-    "author_handle": "kaddisdeployed"
+    "author_handle": "kaddisdeployed",
+    "related_items": [
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "x-2086030681772376399",
+      "github-emilkowalski-skills",
+      "web-lottiefiles"
+    ],
+    "category_note": "Claude skill: code-native promo films (mp4+HTML)"
   }
 }

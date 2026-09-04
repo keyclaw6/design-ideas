@@ -7,14 +7,27 @@
   "authors": [
     "@SubhanHQ"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "infographics",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://amicro.vercel.app"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2088599468698751328",
-    "author_handle": "SubhanHQ"
+    "author_handle": "SubhanHQ",
+    "category_note": "Amicro Mono Charts — CLI-installable animated React chart components.",
+    "related_items": [
+      "github-antvis-infographic",
+      "web-flint-chart",
+      "x-2089372767934115883",
+      "x-2088830609615397333"
+    ]
   }
 }

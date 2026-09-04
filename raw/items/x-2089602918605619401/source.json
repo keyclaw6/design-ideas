@@ -7,14 +7,29 @@
   "authors": [
     "@MengTo"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "three-js",
+    "agent-skills",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://mengto.github.io/sylva/",
+    "https://github.com/MengTo/sylva",
+    "https://github.com/MengTo/Skills"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089602918605619401",
-    "author_handle": "MengTo"
+    "author_handle": "MengTo",
+    "category_note": "MengTo open-sourced Sylva (procedural moss Three.js site) plus three reusable skills.",
+    "related_items": [
+      "github-mengto-skills",
+      "github-mengto-complete-shelf",
+      "x-2088738850705113398",
+      "github-oso95-scroll-world"
+    ]
   }
 }

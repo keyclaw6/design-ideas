@@ -7,7 +7,11 @@
   "authors": [
     "FleetingBits (@fleetingbits)"
   ],
-  "topics": [],
+  "topics": [
+    "infographics",
+    "agent-skills",
+    "design"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -16,6 +20,14 @@
   "extra": {
     "tweet_id": "2088016749849682120",
     "author_handle": "fleetingbits",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "x-2087329201451855933",
+      "x-2088590355440476343",
+      "github-antvis-infographic",
+      "web-flint-chart"
+    ],
+    "category_note": "Agent-generated explorable codebase diagrams"
   }
 }

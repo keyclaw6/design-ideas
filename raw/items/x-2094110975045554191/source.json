@@ -7,7 +7,9 @@
   "authors": [
     "fini (@0xfini)"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +18,7 @@
   "extra": {
     "tweet_id": "2094110975045554191",
     "author_handle": "0xfini",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Multi-agent blast radius: shared logins, spend caps, session expiry, audit."
   }
 }

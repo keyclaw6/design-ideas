@@ -7,7 +7,10 @@
   "authors": [
     "Aaron Villalpando (@aaronvi)"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -16,6 +19,13 @@
   "extra": {
     "tweet_id": "2087346803268260043",
     "author_handle": "aaronvi",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "github-pbakaus-impeccable",
+      "github-leonxlnx-taste-skill",
+      "x-2085006701984698712"
+    ],
+    "category_note": "Google-dev-docs voice as anti-slop prompt"
   }
 }

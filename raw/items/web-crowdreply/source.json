@@ -3,7 +3,7 @@
   "url": "https://crowdreply.io",
   "source_type": "website",
   "captured_at": "2026-09-02T20:56:00Z",
-  "title": "CrowdReply — AI search visibility platform",
+  "title": "CrowdReply \u2014 AI search visibility platform",
   "authors": [
     "CrowdReply"
   ],
@@ -28,6 +28,14 @@
     "mcp_tool_count": "18+",
     "g2_rating": 4.9,
     "customer_count": "5,000+ brands",
-    "fetch": "r.jina.ai landing + /mcp + /features/citation-outreach; curl MCP endpoint"
+    "fetch": "r.jina.ai landing + /mcp + /features/citation-outreach; curl MCP endpoint",
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-known-agency",
+      "web-nqz-ai-search-prompt-generator",
+      "web-seowins-io",
+      "github-superdesigndev-treg"
+    ],
+    "category_note": "AEO/citation visibility platform + MCP (18+ tools). Landing HTML not on disk."
   }
 }

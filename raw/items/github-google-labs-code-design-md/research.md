@@ -1,11 +1,29 @@
-## What it actually does
+# Research
 
-Standardizes how brand/design systems are encoded for AI agents. Lint and diff tooling for CI-style design governance.
+## What it is
 
-## Design / BESS marketing site
+Google Labs’ DESIGN.md format: YAML front matter (machine-readable tokens) plus markdown prose (rationale) so coding agents persistently share a design system. Spec also used by Stitch.
 
-Create a BESS-branded DESIGN.md with energy-sector palette, typography, and component rules. Agents (Cursor, Stitch) read it for consistent marketing site builds.
+## How it works
 
-## 3D / agents / SEO
+- Tokens encode exact colors, type scales, radii, spacing; prose explains when to apply them.
+- CLI: `npx @google/design.md lint DESIGN.md` (WCAG contrast, token validation) and `npx @google/design.md diff` for version compare — CI-style design governance.
+- Spec published at stitch.withgoogle.com/docs/design-md/specification.
+- Agents reading the file are expected to match palette and fonts rather than inventing Inter + purple.
+- Ecosystem of extractors (Hyperbrowser, Sokosumi, Refero, getdesign.md) all target this file shape.
 
-**design**, **agent-skills**: foundational spec, not visual effects. Complements OpenDesign/Impeccable PRODUCT.md+DESIGN.md workflow. No SEO or 3D scope.
+## Why saved
+
+This is the contract format for vibe-design and BESS marketing sites: one file agents and humans can lint. Every DESIGN.md generator in the bank is downstream of this spec.
+
+## Topics
+
+`design`, `agent-skills`
+
+## Related
+
+`web-getdesign-md`, `web-sokosumi-design-md`, `web-styles-refero-design`, `web-design-md-hyperbrowser`, `github-pbakaus-impeccable`
+
+## Use when
+
+Standing up a brand DESIGN.md; wiring lint/diff in CI; comparing extractors; locking Cursor/Stitch/OpenDesign to energy-sector or product tokens.

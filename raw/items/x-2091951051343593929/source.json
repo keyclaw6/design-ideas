@@ -14,6 +14,8 @@
   "extra": {
     "tweet_id": "2091951051343593929",
     "author_handle": "MaxfusionAI",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "filtered": true,
+    "category_note": "Model bake-off screenshot; no artifact"
   }
 }

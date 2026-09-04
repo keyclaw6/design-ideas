@@ -7,13 +7,27 @@
   "authors": [
     "David Haz (@davidhdev)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://pro.reactbits.dev"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087812720762425743",
     "author_handle": "davidhdev",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "related_items": [
+      "web-cult-ui",
+      "github-nateherkai-scroll-craft",
+      "github-emilkowalski-skills",
+      "web-vengence-ui",
+      "github-jakubkrehel-skills"
+    ],
+    "category_note": "ReactBits Pro: restyle primitives, don't invent motion"
   }
 }

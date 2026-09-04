@@ -3,7 +3,7 @@
   "url": "https://www.aidesigner.ai/ai-ui-design-mcp",
   "source_type": "website",
   "captured_at": "2026-09-02T20:38:00Z",
-  "title": "AIDesigner MCP — AI UI design in the editor",
+  "title": "AIDesigner MCP \u2014 AI UI design in the editor",
   "authors": [
     "AIDesigner"
   ],
@@ -29,6 +29,14 @@
     "npm_package": "@aidesigner/agent-skills",
     "npm_version": "0.1.4",
     "tool_count": 21,
-    "fetch": "r.jina.ai landing + /docs/mcp + /website-cloner; npm registry"
+    "fetch": "r.jina.ai landing + /docs/mcp + /website-cloner; npm registry",
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "web-getlayers-ai",
+      "github-nexu-io-open-design",
+      "web-design-md-hyperbrowser",
+      "github-punkpeye-awesome-mcp-servers"
+    ],
+    "category_note": "Remote MCP: generate/refine/clone UI inside the repo."
   }
 }

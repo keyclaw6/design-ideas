@@ -7,7 +7,11 @@
   "authors": [
     "@DesignByMoein"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"
@@ -15,6 +19,10 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2095207624396652956",
-    "author_handle": "DesignByMoein"
+    "author_handle": "DesignByMoein",
+    "category_note": "Hero-section build: custom skills + video tool + Cursor + client DESIGN.md.",
+    "related_items": [
+      "x-2093767075131220005"
+    ]
   }
 }

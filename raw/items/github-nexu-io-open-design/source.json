@@ -24,6 +24,14 @@
   "unsaved": false,
   "extra": {
     "stars": 93582,
-    "homepage": "https://open-design.ai"
+    "homepage": "https://open-design.ai",
+    "related_items": [
+      "web-open-design-ai",
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "github-google-labs-code-design-md",
+      "github-pbakaus-impeccable"
+    ],
+    "category_note": "Local-first vibe-design desktop app; Claude Design alternative."
   }
 }

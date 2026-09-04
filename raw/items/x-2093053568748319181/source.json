@@ -7,7 +7,10 @@
   "authors": [
     "@Stefan_3D_AI"
   ],
-  "topics": [],
+  "topics": [
+    "camera-control",
+    "video-generation"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.jpg"

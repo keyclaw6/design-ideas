@@ -3,7 +3,7 @@
   "url": "https://learn.chatgpt.com/training",
   "source_type": "website",
   "captured_at": "2026-09-02T20:38:00Z",
-  "title": "ChatGPT Training — Work, Codex, walkthroughs",
+  "title": "ChatGPT Training \u2014 Work, Codex, walkthroughs",
   "authors": [
     "OpenAI"
   ],
@@ -30,6 +30,14 @@
   "extra": {
     "walkthrough_count": 6,
     "hands_on_count": 2,
-    "fetch": "r.jina.ai /training + curl llms.txt"
+    "fetch": "r.jina.ai /training + curl llms.txt",
+    "related_items": [
+      "web-blume-codes",
+      "github-pbakaus-impeccable",
+      "web-anthropic-claude-self-service-data",
+      "github-emilkowalski-skills",
+      "web-opale-ui-taste"
+    ],
+    "category_note": "Official ChatGPT Work/Codex labs; plugins vs skills; llms.txt."
   }
 }

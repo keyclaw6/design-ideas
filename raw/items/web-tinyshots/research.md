@@ -1,14 +1,29 @@
-## Capture notes
+# Research
 
-- Follow-on from X capture-9 (`x-2094524951025914278`, olavlj landing-page article thread).
-- Also listed on TinyShelf under Photo, Video & Audio.
-- Product site only; no app binary captured.
+## What it is
 
-## Why it matters here
+TinyShots (tinyshots.app): macOS Sonoma+ menu-bar app to capture and polish screenshots — backgrounds, annotations, compositions. One-time purchase, offline, 30-day refund. Site: “ScreenStudio for screenshots.” Listed on TinyShelf.
 
-Offline screenshot polish + CLI bridges design/marketing asset work and agent automation — compare to TinyShots mention in olavlj article workflow and ScreenStudio-class video tools.
+## How it works
 
-## Open questions
+- Global shortcuts; multi-image canvas with fan layout and snap guides.
+- 180+ wallpapers, gradients, blur/grain; arrows/shapes/text/emoji; Vision-framework background removal on-device.
+- Privacy: blur/pixelate, crop, flip, non-destructive.
+- Full CLI for batch presets — explicitly for agents (Claude Code generating polished visuals).
+- Early-bird lifetime pricing ladder at capture ($39 then $49).
 
-- CLI preset format and headless export flags?
-- Overlap with TinyShelf/TinyLaunch operator (Chris)?
+## Why saved
+
+Marketing-asset pipeline: landings and docs need polished shots. Agent CLI is the hook for this bank’s automation lane (pairs with olavlj landing-page thread).
+
+## Topics
+
+`design`, `ui-motion`, `agent-skills`
+
+## Related
+
+`web-tinyshelf`, `web-animos-editor`, `web-lottiefiles`, `github-nateherkai-scroll-craft`, `web-dicebear`
+
+## Use when
+
+Polishing product screenshots for a landing; batch agent-generated visuals; comparing to After Effects/animos for stills vs motion.

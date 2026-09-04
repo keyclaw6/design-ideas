@@ -7,13 +7,16 @@
   "authors": [
     "Ryven (@imryven)"
   ],
-  "topics": [],
+  "topics": [
+    "agent-skills"
+  ],
   "related_urls": [],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2093677274641969390",
     "author_handle": "imryven",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Self-maintaining knowledge compiler (RAW/WIKI/CLAUDE.md + ingest/write/review automations)."
   }
 }

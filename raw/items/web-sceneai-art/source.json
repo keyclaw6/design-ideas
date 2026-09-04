@@ -15,6 +15,14 @@
   "media": [],
   "unsaved": false,
   "extra": {
-    "tagline": "Beautiful AI Prompt Library, Made for Creators"
+    "tagline": "Beautiful AI Prompt Library, Made for Creators",
+    "related_items": [
+      "web-getlayers-ai",
+      "web-recent-design",
+      "github-nateherkai-scroll-craft",
+      "web-meigen-ai",
+      "github-wuyoscar-gpt-image2-skill"
+    ],
+    "category_note": "Copy-paste UI/landing section prompts with save counts."
   }
 }

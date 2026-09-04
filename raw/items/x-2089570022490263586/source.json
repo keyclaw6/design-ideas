@@ -7,12 +7,25 @@
   "authors": [
     "@tom_doerr"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "three-js",
+    "infographics",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/gantFDT/icraft"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089570022490263586",
-    "author_handle": "tom_doerr"
+    "author_handle": "tom_doerr",
+    "category_note": "iCraft Editor — 3D network/architecture diagrams with immersive effects.",
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "github-antvis-infographic",
+      "web-flint-chart",
+      "github-scottstts-threejs-awesome-graphics-agent-skills"
+    ]
   }
 }

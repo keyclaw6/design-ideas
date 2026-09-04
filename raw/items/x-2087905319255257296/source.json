@@ -3,16 +3,28 @@
   "url": "https://x.com/top3dai/status/2087905319255257296",
   "source_type": "x",
   "captured_at": "2026-09-04T07:36:41Z",
-  "title": "Three new models are live in the Arena: \u26ab Hitem3D v3.0 (Preview) - Main Arena \u26ab Meshy 7 - Main Arena \u26ab Tripo P2.0 - Low ",
+  "title": "Three new models are live in the Arena: ⚫ Hitem3D v3.0 (Preview) - Main Arena ⚫ Meshy 7 - Main Arena ⚫ Tripo P2.0 - Low ",
   "authors": [
     "@top3dai"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "three-js",
+    "bess-3d-flythrough"
+  ],
+  "related_urls": [
+    "https://www.top3d.ai/arena"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087905319255257296",
-    "author_handle": "top3dai"
+    "author_handle": "top3dai",
+    "related_items": [
+      "github-nv-tlabs-ArtiFixer",
+      "web-arcana-splat2mesh",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "x-2088299905324396589"
+    ],
+    "category_note": "Blind image-to-3D arena (Hitem/Meshy/Tripo)"
   }
 }

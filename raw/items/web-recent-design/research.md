@@ -1,11 +1,29 @@
-## What it actually does
+# Research
 
-Design inspiration aggregator — scrapes/curates standout UI, motion, and visual design posts from social (mainly X, some Instagram). Video-first cards with poster thumbnails; detail pages per item. Referenced by open-claude-design workflows as a reference-design site alongside Awwwards and Dribbble.
+## What it is
 
-## Design / BESS marketing site
+recent.design: masonry feed of design inspiration (UI motion, web, icons, posters, interactive demos) sourced mainly from X and Instagram, with video previews on cdn.recent.design. Tagline: “The best design inspiration on the Internet.” www.recent.design has no DNS — use apex.
 
-Mood board and motion reference for BESS marketing UI. Useful for benchmarking hero animations, onboarding flows, glass/refraction effects, and portfolio-style layouts before building.
+## How it works
 
-## 3D / agents / SEO
+- Each card links `/i/<slug>` and credits the creator’s X/IG.
+- Mix includes FUI loaders, 404 experiments, glass/refraction, 3D cards, onboarding flows, WebGPU libs — useful as daily taste input for MengTo’s capture loop.
+- Sponsored `/go/` placements in header and feed.
+- Recapture via r.jina.ai after earlier www failure (~16 KB).
+- Not a component library — a mood board with outbound links.
 
-**design**, **ui-motion**: heavy on motion/UI craft (WebGPU, shader footers, 3D cards). Not an agent or SEO tool. `www` subdomain broken — use apex URL only.
+## Why saved
+
+Living reference feed for scroll/motion craft. Pair with SceneAI (copyable prompts) when a feed item should become an implementation brief.
+
+## Topics
+
+`design`, `ui-motion`
+
+## Related
+
+`web-sceneai-art`, `github-nateherkai-scroll-craft`, `github-mengto-skills`, `web-utsubo`, `web-opale-ui-taste`
+
+## Use when
+
+Collecting motion references; daily inspiration before prompting; finding creators to credit or recreate via skills.

@@ -7,14 +7,26 @@
   "authors": [
     "@Howaboua"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-codex-conversion",
+    "https://github.com/IgorWarzocha/howaboua-pi-stuff/tree/main/packages/pi-gippity-control"
+  ],
   "media": [
     "media/media_0.jpg"
   ],
   "unsaved": true,
   "extra": {
     "tweet_id": "2087714580491370655",
-    "author_handle": "Howaboua"
+    "author_handle": "Howaboua",
+    "related_items": [
+      "x-2087232392209531166",
+      "x-2087898602890744089",
+      "web-blume-codes",
+      "x-2087304957011911157"
+    ],
+    "category_note": "Pi realtime voice + extension announcement API"
   }
 }

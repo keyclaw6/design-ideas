@@ -7,7 +7,10 @@
   "authors": [
     "Altamash (@AltamashAyazz)"
   ],
-  "topics": [],
+  "topics": [
+    "design",
+    "ui-motion"
+  ],
   "related_urls": [],
   "media": [
     "media/media_0.mp4"
@@ -16,6 +19,7 @@
   "extra": {
     "tweet_id": "2095429087141515616",
     "author_handle": "AltamashAyazz",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Premium motion-landing clip; thin copy, keep for visual reference."
   }
 }

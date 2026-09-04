@@ -1,14 +1,28 @@
-## Capture notes
+# Research
 
-- Follow-on from X capture-8 (`x-2095133695480873023`, Derrick Choi / Codex APAC Lead).
-- Training hub is the canonical entry for six numbered walkthroughs plus two hands-on labs (Work vs Codex).
-- `llms.txt` at site root is a compact doc map; training walkthrough URLs are linked from the hub page rather than enumerated inside `llms.txt` at capture time.
+## What it is
 
-## Why it matters here
+learn.chatgpt.com/training: official hands-on labs and walkthroughs for ChatGPT Work and Codex, with a machine-readable docs map (`llms.txt`, `.md` twins, combined `llms-full.txt`).
 
-Official onboarding path for ChatGPT Work, plugins/skills, scheduled tasks, and Codex — complements agent-skills items in the library (mengto, jakubkrehel, treg, etc.) with vendor-authored curriculum.
+## How it works
 
-## Open questions
+- Labs: plan something end-to-end (Work, 20–25 min); first code change (Codex, 15–25 min).
+- Walkthroughs: getting started, plugins vs skills (plugins = capabilities, skills = how you want them done), scheduled tasks, slides/docs, computer+browser use, shareable site from a prompt (including phone).
+- Agent-oriented docs: Codex manual markdown, build-skills.md, use-case index, videos.md.
+- Useful as the vendor’s own mental model of skills vs plugins — compare to Cursor skills and Blume’s harness graph.
 
-- Do walkthrough `.md` twins exist at `/training/walkthroughs/*.md` (hub says `.md` append pattern for docs pages)?
-- Overlap between this hub and `learn.chatgpt.com/docs/build-skills.md` for skill authoring vs consumption?
+## Why saved
+
+Canonical OpenAI onboarding for Work/Codex skill architecture. Reference when installing third-party skills (Emil, Impeccable) into Codex vs ChatGPT Work.
+
+## Topics
+
+`agent-skills`
+
+## Related
+
+`web-blume-codes`, `github-pbakaus-impeccable`, `web-anthropic-claude-self-service-data`, `github-emilkowalski-skills`, `web-opale-ui-taste`
+
+## Use when
+
+Onboarding Codex/Work; explaining plugins vs skills; fetching official llms.txt before writing custom skills.

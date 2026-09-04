@@ -3,17 +3,36 @@
   "url": "https://x.com/neropursue/status/2089263766428950683",
   "source_type": "x",
   "captured_at": "2026-09-04T06:49:30Z",
-  "title": "The best UI components ready to use, save this \ud83d\udc47 - http://originkit.dev free animated component library - http://orbs.ja",
+  "title": "The best UI components ready to use, save this 👇 - http://originkit.dev free animated component library - http://orbs.ja",
   "authors": [
     "Nero (@neropursue)"
   ],
-  "topics": [],
-  "related_urls": [],
+  "topics": [
+    "design",
+    "ui-motion",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.originkit.dev/",
+    "https://orbs.jakubantalik.com/",
+    "https://transitions.dev/",
+    "https://21st.dev/",
+    "https://ui.aceternity.com/",
+    "https://component.gallery/",
+    "https://agentation.com/"
+  ],
   "media": [],
   "unsaved": true,
   "extra": {
     "tweet_id": "2089263766428950683",
     "author_handle": "neropursue",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "category_note": "Curated list of animated UI kits plus agentation (annotate UI for coding agents).",
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "x-2089182103153897532",
+      "x-2089740155179643231"
+    ]
   }
 }

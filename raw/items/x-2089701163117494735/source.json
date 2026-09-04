@@ -13,6 +13,13 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2089701163117494735",
-    "author_handle": "kairevicius"
+    "author_handle": "kairevicius",
+    "category_note": "Filtered: empty one-liner, no artifact or media.",
+    "related_items": [
+      "x-2089457435459404093",
+      "x-2089372767934115883",
+      "x-2089618415493218381"
+    ],
+    "filtered": true
   }
 }

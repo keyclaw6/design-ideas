@@ -3,7 +3,7 @@
   "url": "https://www.meigen.ai/",
   "source_type": "website",
   "captured_at": "2026-09-02T17:15:19Z",
-  "title": "MeiGen — Free GPT Image 2, Nano Banana & Seedance Prompts",
+  "title": "MeiGen \u2014 Free GPT Image 2, Nano Banana & Seedance Prompts",
   "authors": [],
   "topics": [
     "design",
@@ -20,6 +20,14 @@
     "retry": "jina",
     "github": "jau123/MeiGen-AI-Design-MCP",
     "github_stars": 1737,
-    "capture_note": "Full homepage via r.jina.ai; prior Cloudflare block on direct fetch resolved"
+    "capture_note": "Full homepage via r.jina.ai; prior Cloudflare block on direct fetch resolved",
+    "related_items": [
+      "github-wuyoscar-gpt-image2-skill",
+      "github-youmind-openlab-nano-banana-pro-prompts",
+      "web-fal-ai",
+      "web-sceneai-art",
+      "github-oso95-scroll-world"
+    ],
+    "category_note": "Multi-model prompt gallery + MeiGen MCP (Comfy/OpenAI-compat)."
   }
 }
