@@ -51,6 +51,6 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 
 ## agent-harness-loops — next capture work
 
-1. 232× / qr_v2 / 12th-of-183 is on the Codex tool NOTES. Remaining: the popcorn CLI + one submission id from the lineage chart.
+1. popcorn CLI install/submit and the **live board** (sankalp1999 26th / 3916 µs vs blog 12th / 1805 µs) are on [codex](../../tools/codex.md). Remaining: one Harbor/popcorn submission id from the author’s `submit_logs/`.
 2. Headlong tool list + loopany **23 template names** are on the tool NOTES. Remaining: dump one loop prompt body; confirm Headlong `bin/`+`thinkers/` cloc locally.
 3. Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.

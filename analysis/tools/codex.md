@@ -12,6 +12,10 @@
 
 212× tweet vs blog (fetched 2026-09-04 https://sankalp.bearblog.dev/autoresearch/):
 
-The **blog title and body say 232×**, not 212×. GPU Mode × Core Automation contest: batched compact-Householder QR (`qr_v2`). Author placed **12th of 183**. Baseline `torch.geqrf` ~419,000 µs; final tracked **1,805 µs** → 232×. Lineage chart starts later (108,803 → 1,805 µs). Agent-friendly popcorn CLI; unlimited spaced submissions; Modal/nsys/NCU profiling. First serious auto-research attempt. Treat the card’s “212×” as a stale tweet number.
+The **blog title and body say 232×**, not 212×. GPU Mode × Core Automation contest: batched compact-Householder QR (`qr_v2`). Blog (contest write-up): placed **12th of 183**; baseline `torch.geqrf` ~419,000 µs; author’s tracked **1,805 µs** → 232×; lineage 108,803 → 1,805 µs; **>1500 submissions / 14 days**. Treat the card’s “212×” as a stale tweet number.
+
+**popcorn CLI** (first-party, `gpu-mode/popcorn-cli`): `curl -fsSL https://raw.githubusercontent.com/gpu-mode/popcorn-cli/main/install.sh | bash` then `popcorn register discord`. Starter `https://raw.githubusercontent.com/gpu-mode/reference-kernels/main/problems/linalg/qr_v2/submission.py`. Test: `popcorn submit --leaderboard qr_v2 --gpu B200 --mode test submission.py`. Leaderboard: `popcorn submit --leaderboard qr_v2 --gpu B200 --mode leaderboard submission.py`. NCU via `--profile-brev`.
+
+**Live board 2026-09-04** https://www.gpumode.com/leaderboard/773 (ended 2026-06-29): geomean µs, B200. #1 nikhilbarhate99 **704.865 µs**. **sankalp1999 is 26th at 3916.103 µs** (`submission_homura.py`, 420 LOC) — not 12th / 1805 µs. Quote the blog as a contest-time snapshot; quote the board for the public ranking. Seven shapes include batched 512² (640 batch) through 4096².
 
 <!-- NOTES:END -->

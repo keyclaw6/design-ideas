@@ -48,6 +48,6 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 ## image-to-3d-world — next capture work
 
 1. Hyper3D / Lucida pages are summarized on the WorldGen tool NOTES. Remaining: a logged-in WorldGen export (GLB/USD) and Lumera code when it appears.
-2. World Labs **Marble** docs: splat is highest fidelity; collider GLB on Standard; HQ textured GLB on Pro (~1 h). See [atlas](../../tools/atlas.md) / [spark-js](../../tools/spark-js.md). Remaining: a logged-in export of one world.
+2. World Labs **Marble** docs: splat is highest fidelity; collider GLB on Standard; HQ textured GLB on Pro (~1 h). Agent skill: `npx skills add worldlabsai/marble-developer-api-skill --skill marble-developer-api`. See [atlas](../../tools/atlas.md) / [spark-js](../../tools/spark-js.md). Remaining: a logged-in export of one world.
 3. kokraf README is a VEF modeler, not a four-view bake skill ([kokraf](../../tools/kokraf.md)). Projection path is still tweet/media-only.
 4. All 14 primaries are `ready-with-gaps`. Raising even three world-gen cards to `ready` unblocks a real bake-off.

@@ -18,4 +18,6 @@ Export is **not** “navigable field only.” Docs distinguish:
 - Coordinates: OpenCV (+x left, +y down, +z forward); DCC often needs Y/Z scale −1.
 
 No logged-in export was run here. spark.js is the Three.js viewer path, not the mesh path — see [spark-js](spark-js.md).
+
+Agent skill (docs): `npx skills add worldlabsai/marble-developer-api-skill --skill marble-developer-api` (optional `--global`). Mirror: `worldlabsai/marble-developer-api-skill`. Skill name `marble-developer-api` — world gen, media upload, operation polling, OpenAPI snapshot. Do not paste API keys into prompts.
 <!-- NOTES:END -->
