@@ -12,6 +12,7 @@
 - `web-flint-chart#c1` (capability, stated) Flint derives scales, axes, and spacing from a semantic spec plus data and optional theme. — evidence: "Flint derives scales, axes, spacing from semantic spec + data + optional theme." [linked-page]
 - `web-flint-chart#c2` (availability, stated) A hosted MCP server at flint.data-formulator.ai/mcp exposes Flint to agent clients. — evidence: "Hosted MCP: `https://flint.data-formulator.ai/mcp`" [linked-page]
 - `web-flint-chart#c3` (capability, demonstrated) flint-chart 0.5.1 assembleVegaLite and assembleECharts both accept the getting-started Line Chart spec; hosted flint-chart-mcp v0.5.1 lists six tools and render_chart backends are vegalite, echarts, and chartjs only. — evidence: "assembleVegaLite mark=line, 5 values; assembleECharts series type=line; tools/list: render_chart compile_chart validate_chart list_chart_types list_themes create_chart_view" [note]
+- `web-flint-chart#c4` (result, demonstrated) assemblePlotly on the getting-started Line Chart returns one scatter trace. Hosted render_chart vegalite emitted a 17,393-byte SVG (428x416) and a 23,944-byte PNG. render_chart still has no Plotly backend. — evidence: "flint-chart@0.5.1 assemblePlotly {data:[{type:scatter}], layout.title}. MCP render_chart format=svg/png; PNG magic 89 50 4E 47. First call without data+chart_spec was -32602." [note]
 **Numbers.** hosted MCP tools: 6  (note)
 **Recipe.** —
 **Techniques.** [chart-theme-presets](../../techniques/chart-theme-presets.md), [chart-theme-presets](../../techniques/chart-theme-presets.md)

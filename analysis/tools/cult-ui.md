@@ -12,4 +12,20 @@ Clone `https://github.com/nolly-studio/cult-ui.git` (6106 stars, MIT). **77** `c
 **Vengeance** (no tool file — park here as neighbor): live `https://www.vengeanceui.com/` (not vengence-ui.com) **46 components / 9 families**; `npx shadcn@latest add @vengeanceui/[component]`. Registry `https://www.vengeanceui.com/r/registry.json` is a **132-item** list (includes accordion etc. — may be more than marketing 46). Repo `Ashutoshx7/VengeanceUI`.
 
 **Originkit** (no tool file): homepage RSC dump **468 unique** `originkit.dev/components/<slug>-gallery` slugs. Card “363+” is marketing; 363 in the dump was a font hash, not a count. MCP `https://mcp.originkit.dev` JSON hello. Public `/registry.json` 404. Beta quota on integrations page: components 10/day 25/week, sections 5/day 10/week, templates 3/day 7/week.
+
+**2026-09-04 capture — pricing pages (Cult Pro / Originkit / Vengeance).**
+
+Cult Pro `https://pro.cult-ui.com/pricing` HTTP 200, 328,495 B, title `cult ui/pro`. Visible offer: **one-time payment, lifetime access, $129** (struck **$179**), badge **Summer Sale — Save $50**. FAQ from the RSC payload (not the collapsed accordion DOM): Pro is Templates + Full Stack Patterns + Blocks (TypeScript / Next.js). **Annual** = updates for **1 year**; **Lifetime** = updates for the lifetime of the product; license activates on the purchase email; login `pro.cult-ui.com`. **aisdkagents.com is a completely separate product** — Cult Pro is SaaS blocks/templates/animated marketing; AI SDK Agents is Vercel AI SDK Full Stack Patterns only. OSS homepage `cult-ui.com` still Vercel **429**.
+
+Originkit `https://www.originkit.dev/pricing` HTTP 200, title `Pricing · Originkit`. Plan objects in the RSC dump (version 2):
+
+| slug | yearly (compare-at) | monthly | daily copies C/S/T | weekly C/S/T | notes |
+|---|---|---|---|---|---|
+| Free | **$0/year** | — | **3 / 2 / 1** | **5 / 5 / 2** | Limited; `purchasable: false` |
+| Pro | **$79/year** (`compareAtUsd` **108**, label Founding offer) | **$8** | **10 / 5 / 3** | **25 / 20 / 6** | email.updates + filters.recommended |
+| Studio | **$179/year** (`compareAtUsd` **228**, Founding offer) | **$19** | **25 / 10 / 5** | **60 / 30 / 10** | same features as Pro |
+
+Visible page prints `$0/year` / `$79/year` / `$179/year` with sr-only “was, now”. `offerEndsAt` on the monthly rows is `2026-09-01T23:59:59+00:00`; the 2026-09-04 fetch still showed the founding yearly prices. Do not collapse these daily caps with the integrations-page beta quota (10/5/3 daily, 25/10/7 weekly). Fetched HTML has no CSS `@media` (client-rendered).
+
+Vengeance: `https://vengeanceui.com/pricing` and `/pro` **404**. `/about`, `/templates`, `/docs` 200. GitHub README is **MIT**, Vercel OSS program; no paid-plan dollar on the README. Homepage `$` tokens are demo numerals, not a price table. Same-copy hero/pricing bake-off still missing a Vengeance paid column — treat Vengeance as MIT registry, Cult as paid Pro + 429 OSS home, Originkit as metered yearly copies.
 <!-- NOTES:END -->

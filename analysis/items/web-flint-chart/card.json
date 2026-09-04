@@ -60,6 +60,16 @@
       "evidence_ref": "analysis/tools/flint-chart-mcp.md",
       "confidence": "demonstrated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "web-flint-chart#c4",
+      "text": "assemblePlotly on the getting-started Line Chart returns one scatter trace. Hosted render_chart vegalite emitted a 17,393-byte SVG (428x416) and a 23,944-byte PNG. render_chart still has no Plotly backend.",
+      "kind": "result",
+      "evidence": "flint-chart@0.5.1 assemblePlotly {data:[{type:scatter}], layout.title}. MCP render_chart format=svg/png; PNG magic 89 50 4E 47. First call without data+chart_spec was -32602.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/flint-chart-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,

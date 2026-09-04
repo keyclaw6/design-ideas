@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091990178638496195#c1` (capability, stated) Headlong agents never sleep; they keep self-guided thought streams between external messages. — evidence: "A Headlong agent is never asleep. It keeps generating thoughts about whatever it decides is interesting, in a self-guided loop inspired by human inner monologue." [post]
 - `x-2091990178638496195#c2` (pricing, stated) Background thinking reportedly costs about one to two dollars per hour in the authors' internal deployment. — evidence: "Background thinking costs us $1 to $2 an hour" [post]
+- `x-2091990178638496195#c3` (benchmark, demonstrated) cloc 1.98 on Headlong bin/ + thinkers/ reports 9,912 code / 2,600 comment / 1,351 blank (22 files). Do not collapse with README ~11K (capped 11.5K) or wc -l 13,947. — evidence: "cloc 1.98: Bourne Again 9468 + Bourne 376 + MD 65 + JSON 3 = 9912 code. wc -l on the same dirs was 13,947." [note]
 **Numbers.** background thinking cost: 1-2 USD/hour (post)
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md)

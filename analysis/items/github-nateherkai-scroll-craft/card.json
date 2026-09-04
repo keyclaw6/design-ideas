@@ -51,6 +51,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "github-nateherkai-scroll-craft#c3",
+      "text": "A default-Claude slop fixture fires the taste.md refuse list (3-col cards, gradient text, invented stats, AI-purple, em dash, scroll cue, 01/06, dual CTAs) and matches none of the eight uniqueness.md grammars. Checklist on a fixture, not a headed skill run.",
+      "kind": "recipe",
+      "evidence": "analysis/_work/captures/default-claude-landing.html scored against plugins/.../taste.md refuse list and uniqueness.md §2.1–2.8 forbids. See scroll-craft NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-craft.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],

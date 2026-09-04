@@ -62,6 +62,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-vengence-ui#c3",
+      "text": "Vengeance has no public pricing page (vengeanceui.com/pricing and /pro are 404). GitHub README is MIT; homepage dollar tokens are demo numerals, not a plan table.",
+      "kind": "pricing",
+      "evidence": "GET /pricing 404; /pro 404; /about /templates /docs 200. README License MIT. Parked on cult-ui NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "links": {

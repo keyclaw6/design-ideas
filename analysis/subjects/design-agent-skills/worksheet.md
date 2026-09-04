@@ -38,7 +38,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — claims that need a receipt
 
-- Impeccable 61 detectors and 23 slash commands — **README lead confirms the counts**. `crates/live/assets/antipatterns.json` is **exactly 61 ids** (listed on [impeccable](../../tools/impeccable.md)). A local slop HTML run fired `gradient-text`, `low-contrast`, `dark-glow`, `bounce-easing`, `ai-color-palette`, `marketing-buzzword` (9 findings, exit 0 — advisory/fail split means detect is not “exit 2”). Live URL: example.com (3 findings); **blume.codes** (`nested-cards`, `content-hidden-at-rest` 72% / 2512 of 3476 chars); **frontal.so** (`undersized-ui-text` 8.5px). GitHub `skill-v4.1.0` (2026-08-14) matches the 4.1 tweet; latest skill on 2026-09-04 is **4.2.0** (do not collapse).
+- Impeccable 61 detectors and 23 slash commands — **README lead confirms the counts**. `crates/live/assets/antipatterns.json` is **exactly 61 ids** (listed on [impeccable](../../tools/impeccable.md)). A local slop HTML run fired `gradient-text`, `low-contrast`, `dark-glow`, `bounce-easing`, `ai-color-palette`, `marketing-buzzword` (9 findings, exit 0 — advisory/fail split means detect is not “exit 2”). Live URL: example.com (3 findings); **blume.codes** (`nested-cards`, `content-hidden-at-rest` 72% / 2512 of 3476 chars); **frontal.so** (`undersized-ui-text` 8.5px). **Mobile `--viewport 390x844`** on fixture + blume + frontal: **20 / 85 / 138** findings, exit 2. Blume hidden-text on mobile is **70%** (2095/2989). GitHub `skill-v4.1.0` (2026-08-14) matches the 4.1 tweet; latest skill on 2026-09-04 is **4.2.0** (do not collapse).
 - Chinese “keep four after trials” — practitioner shortlist, 3 replies / 1 captured; transitions.dev is not a primary here.
 - /unlazy “works well with Opus 5 + ponytail” — one user ([x-2088742864310481025](../../items/x-2088742864310481025/card.md)).
 - AIDesigner “21 MCP tools” and live-site clone — marketing page lists **22** snake_case titles under a “Twenty-one tools” heading; unauthed MCP `initialize` is 401. Names on [aidesigner-mcp](../../tools/aidesigner-mcp.md).
@@ -59,7 +59,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — next capture work
 
-1. 61-id list + live detects (example.com, blume.codes, frontal.so) and `skill-v4.1.0` notes are on [impeccable](../../tools/impeccable.md). Remaining: a headed detect at a mobile viewport, and do not treat 4.2.0 as the 4.1 card.
-2. Refero Linear / Notion / Stripe records are JSON `designSystem` blobs (81,180 / 68,148 / 70,976 B), not DESIGN.md files ([styles-refero-design](../../tools/styles-refero-design.md)). Remaining: extract DESIGN.md from two known sites via Sokosumi *and* Hyperbrowser; diff the YAML tokens.
+1. 61-id list + desktop URL detects + **mobile 390x844** (fixture 20 / blume 85 / frontal 138) are on [impeccable](../../tools/impeccable.md). Remaining: do not treat 4.2.0 as the 4.1 card.
+2. Refero Linear / Notion / Stripe records are JSON `designSystem` blobs (81,180 / 68,148 / 70,976 B), not DESIGN.md files ([styles-refero-design](../../tools/styles-refero-design.md)). Sokosumi homepage is now AI-coworkers marketing; `/tools/design-md` is still the extractor ([sokosumi-design-md](../../tools/sokosumi-design-md.md)). Remaining: an unauthed extract of two known sites via Sokosumi *and* Hyperbrowser; diff the YAML tokens.
 3. AIDesigner names are on the marketing page; remaining: an authed `tools/list`.
 4. Re-fetch `x-2093669411685110141` and the blocked designmd.* domains.

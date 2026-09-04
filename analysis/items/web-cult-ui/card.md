@@ -10,6 +10,7 @@
 
 **Claims.**
 - `web-cult-ui#c1` (capability, stated) Cult UI bundles copy-paste React components with agent pattern examples such as competitor research via Firecrawl map+scrape and a Cult SEO directory template. — evidence: "Competitor Research Agent — Firecrawl Map + Parallel Scrape; Starter templates: Logo GPT, Directory (SEO listings), Cult SEO" [linked-page]
+- `web-cult-ui#c2` (pricing, demonstrated) Cult Pro pricing page (2026-09-04) shows one-time lifetime access at $129 (was $179, Summer Sale $50). FAQ: Annual updates last 1 year; Lifetime updates last the product lifetime. aisdkagents.com is a separate product, not included with Cult Pro. — evidence: "pro.cult-ui.com/pricing: $129 vs struck $179; RSC FAQ states aisdkagents.com is completely separate; Annual = 1 year of updates, Lifetime = lifetime of the product." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [taste-skill-encoding](../../techniques/taste-skill-encoding.md), [shadcn-component-kit](../../techniques/shadcn-component-kit.md)

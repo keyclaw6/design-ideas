@@ -33,6 +33,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-originkit-dev#c2",
+      "text": "Originkit /pricing RSC (2026-09-04) lists Free $0/year (3/2/1 daily C/S/T copies), Pro $79/year (compare-at $108, $8/mo, 10/5/3 daily), Studio $179/year (compare-at $228, $19/mo, 25/10/5 daily).",
+      "kind": "pricing",
+      "evidence": "Plan JSON version 2: free/pro/studio limits + prices[].year priceUsd 79/179 with compareAtUsd 108/228 Founding offer. Visible page prints $0/year $79/year $179/year.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],

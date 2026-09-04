@@ -10,6 +10,7 @@
 
 **Claims.**
 - `web-originkit-dev#c1` (capability, stated) Originkit offers 363+ free animated components copyable or fetchable with a free API key. — evidence: "The largest free animated component library for building modern websites." [linked-page]
+- `web-originkit-dev#c2` (pricing, demonstrated) Originkit /pricing RSC (2026-09-04) lists Free $0/year (3/2/1 daily C/S/T copies), Pro $79/year (compare-at $108, $8/mo, 10/5/3 daily), Studio $179/year (compare-at $228, $19/mo, 25/10/5 daily). — evidence: "Plan JSON version 2: free/pro/studio limits + prices[].year priceUsd 79/179 with compareAtUsd 108/228 Founding offer. Visible page prints $0/year $79/year $179/year." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

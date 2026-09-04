@@ -22,4 +22,14 @@ Clone `pbakaus/impeccable`. `crates/live/assets/antipatterns.json` has **exactly
 **2026-09-04 capture — GitHub releases.** `GET https://api.github.com/repos/pbakaus/impeccable/releases`. Tag **`skill-v4.1.0`** published 2026-08-14 matches the tweet: native iOS/Android verify/review; Windows install; live mode on ddev/valet; full-fidelity comps; direction “the roll argues with itself.” Later patches: 4.1.1 / 4.1.2 / 4.1.3. Latest this fetch: **`skill-v4.2.0`** + **`cli-v4.0.0`** + **`ext-v1.4.0`** dated 2026-09-04 (static binary, no Node for the hook; 10.6 ms vs 46.9 ms). Do not treat 4.2 as the 4.1 card’s claim.
 
 **2026-09-04 capture — live detect on real landings** (exit 0 both). `npx impeccable detect https://blume.codes --json`: `nested-cards` (×2+), **`content-hidden-at-rest` error** — 72% of page text (2512/3476 chars) stays opacity 0 after reveal (e.g. “Download”). `npx impeccable detect https://frontal.so --json`: `undersized-ui-text` (8.5px “Score”, “Personalize”, etc.).
+
+**2026-09-04 capture — mobile viewport `--viewport 390x844`.** One command, three targets, exit **2**. Do not collapse with the desktop URL pass above.
+
+| target | findings | notes |
+|---|---|---|
+| fixture `analysis/_work/captures/default-claude-landing.html` | **20** (18 warning / 2 advisory) | `side-tab` ×3; `low-contrast` ×5 (2.8–4.2:1); `gradient-text` ×2; `dark-glow` ×3; `oversized-h1` 83px / 42 chars; `overused-font` Inter; `numbered-section-labels` ×2 **advisory**; `ai-color-palette`; `radial-halo`; `marketing-buzzword` (10× / Supercharge) |
+| https://blume.codes | **85** (80 warning / 4 advisory / 1 error) | `undersized-ui-text` ×37 (9–10px); `bounce-easing` ×19; `nested-cards` ×8; `content-hidden-at-rest` **error** now **70%** (2095/2989 chars) vs desktop 72% (2512/3476) |
+| https://frontal.so | **138** (135 warning / 3 advisory) | `undersized-ui-text` ×72 (9–10.53px); `nested-cards` ×19; `dark-glow` ×11; `radial-spotlight-glow` ×8; `all-caps-body` ×9 |
+
+CLI help confirms `--viewport WxH` (default 1280x800) and that advisories never change the exit code. Exit 2 = primary findings on at least one target.
 <!-- NOTES:END -->

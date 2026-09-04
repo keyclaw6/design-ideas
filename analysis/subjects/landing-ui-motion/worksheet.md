@@ -17,8 +17,8 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 |---|---|---|---|---|---|
 | scroll-craft | grammar (generates a page) | high scroll-timeline | skill install + QA | high (Claude Code) | unknown (refuse-lists exist; no viewport log) |
 | Cult UI | kit + agent-pattern gallery | hover / app chrome | npm / registry | high | unknown |
-| Originkit | kit (homepage RSC **468** unique gallery slugs; marketing said 363+) | mixed (text, bg, galleries) | MCP hello at mcp.originkit.dev; no public registry.json | React / Next | unknown |
-| Vengeance UI | kit (live **46 / 9 families**; registry.json **132** items) | hover + text motion | `npx shadcn@latest add @vengeanceui/[component]` exercised on copy only | high | unknown |
+| Originkit | kit (homepage RSC **468** unique gallery slugs; marketing said 363+) | mixed (text, bg, galleries) | MCP hello; `/pricing` Free $0 / Pro $79/yr / Studio $179/yr (metered copies) | React / Next | unknown (no @media in fetched HTML) |
+| Vengeance UI | kit (live **46 / 9 families**; registry.json **132** items) | hover + text motion | MIT registry; `/pricing` and `/pro` 404 | high | unknown |
 | 23rd.dev | curated registry | shader / animated bg | shadcn add | React + Svelte | unknown |
 | ReactBits Pro | kit (paid) | marketing motion | restyle primitives | React | unknown |
 | AICSS / beautifului | kit (agent UI) | micro / streaming | copy-paste | React implied | unknown |
@@ -33,12 +33,12 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 ## landing-ui-motion — claims that need a receipt
 
 - ReactBits Pro does “about 90%” of marketing motion ([x-2087812720762425743](../../items/x-2087812720762425743/card.md)) — author estimate, two-reply thread.
-- scroll-craft fingerprint gate — README names the eight grammars and the ≥4-of-6 rule ([scroll-craft](../../tools/scroll-craft.md)). Still need a before/after of one landing failing the gate.
+- scroll-craft fingerprint gate — README names the eight grammars and the ≥4-of-6 rule ([scroll-craft](../../tools/scroll-craft.md)). A default-Claude slop fixture (`analysis/_work/captures/default-claude-landing.html`) fires the taste.md refuse list (3-col cards, gradient text, invented stats, AI-purple, em dash, scroll cue, 01/06, dual CTAs) and matches **none** of the eight grammars. Checklist on a fixture, not a headed skill/Playwright run.
 - Fable 5.1 “matches Fable 5 landing quality at lower cost” — 149s walkthrough; no side-by-side stills in the card.
 - 300-frame Gemini → Framer bind — pipeline named; no public repo of the 300 frames.
-- Cult OSS docs: **77** `content/docs/components/*.mdx` including `ai-instructions.mdx`. “92+ AI SDK patterns” still looks Cult Pro, not the OSS count ([cult-ui](../../tools/cult-ui.md)). Homepage fetch 429.
-- Originkit homepage RSC **468 unique** `…/components/<slug>-gallery` slugs. Card “363+” is marketing; 363 in the dump was a font hash. MCP `https://mcp.originkit.dev` JSON hello. Public `/registry.json` 404. Beta quota: components 10/day 25/week, sections 5/day 10/week, templates 3/day 7/week.
-- Vengeance live site `vengeanceui.com` (not vengence-ui.com): **46 / 9 families**. Registry JSON **132** items — may be more than marketing 46. Install command confirmed on the page.
+- Cult OSS docs: **77** `content/docs/components/*.mdx` including `ai-instructions.mdx`. “92+ AI SDK patterns” still looks Cult Pro, not the OSS count ([cult-ui](../../tools/cult-ui.md)). Homepage fetch 429. Cult Pro `/pricing`: **$129** one-time lifetime (was $179, Summer Sale $50). FAQ: Annual updates = 1 year; Lifetime updates = product lifetime. **aisdkagents.com is a separate product**.
+- Originkit homepage RSC **468 unique** `…/components/<slug>-gallery` slugs. Card “363+” is marketing; 363 in the dump was a font hash. MCP `https://mcp.originkit.dev` JSON hello. Public `/registry.json` 404. `/pricing` plan JSON: Free $0/year 3/2/1 daily C/S/T; Pro $79/year (compare-at $108) 10/5/3; Studio $179/year (compare-at $228) 25/10/5. Do not collapse with the integrations-page beta quota.
+- Vengeance live site `vengeanceui.com` (not vengence-ui.com): **46 / 9 families**. Registry JSON **132** items — may be more than marketing 46. Install command confirmed on the page. `/pricing` and `/pro` **404**; README MIT. No paid column for a same-copy bake-off.
 
 One X primary is `failed` (see brief thread table). Do not read that silence as “no discussion.”
 
@@ -52,7 +52,7 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 
 ## landing-ui-motion — next capture work
 
-1. `EXAMPLES.md` has all eight grammars; uniqueness.md filmic forbids and a local `doctor.mjs` preflight (ffmpeg 564 filters, Chrome present, playwright-core missing) are on [scroll-craft](../../tools/scroll-craft.md). Remaining: install once and record which forbids fire on a default Claude landing.
-2. Diff Cult vs Originkit vs Vengeance on one hero + one pricing section (same copy) and note mobile breakpoints. Counts are parked on [cult-ui](../../tools/cult-ui.md); same-copy render still missing.
+1. Default-Claude fixture scored against taste.md + all eight uniqueness.md grammars — [scroll-craft](../../tools/scroll-craft.md). Impeccable `--viewport 390x844` on the same fixture: **20** findings (Inter, gradient-text, side-tab, 01/06 advisory) — [impeccable](../../tools/impeccable.md). Remaining: a headed scroll-craft skill/Playwright run on that fixture (`workspace.mjs` + playwright-core).
+2. Pricing receipts are on [cult-ui](../../tools/cult-ui.md) (Cult Pro $129 lifetime; Originkit Free/Pro/Studio yearly; Vengeance no `/pricing`). Remaining: same-copy hero + pricing HTML from all three and a mobile breakpoint log. Vengeance has no paid pricing column.
 3. Blume homepage first-party copy is on [blume-sidecar](../../tools/blume-sidecar.md). X article `2094493136743473152` still unfetched (jina 403). Card `x-2094524951025914278` gap is `thread-partial`, not `linked-page-unfetched`.
 4. Re-fetch the failed landing-ui-motion thread listed in the brief.

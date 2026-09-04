@@ -63,6 +63,16 @@
       "evidence_ref": "analysis/tools/impeccable.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c4",
+      "text": "npx impeccable detect --viewport 390x844 on a default-Claude fixture + blume.codes + frontal.so exited 2 with 20 / 85 / 138 findings. Do not collapse with the earlier desktop URL pass.",
+      "kind": "result",
+      "evidence": "390x844: fixture 20 (18 warning / 2 advisory numbered-section-labels); blume 85 including content-hidden-at-rest error 70% 2095/2989; frontal 138 with undersized-ui-text x72.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

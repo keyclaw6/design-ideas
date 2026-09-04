@@ -11,6 +11,7 @@
 **Claims.**
 - `web-vengence-ui#c1` (capability, stated) Vengeance UI ships 46 animated React components installable through the shadcn registry CLI. — evidence: "46 components in 9 families. shadcn registry CLI install." [linked-page]
 - `web-vengence-ui#c2` (recipe, stated) Install command is npx shadcn@latest add @vengeanceui/[component]. — evidence: "Install via `npx shadcn@latest add @vengeanceui/[component]`." [linked-page]
+- `web-vengence-ui#c3` (pricing, demonstrated) Vengeance has no public pricing page (vengeanceui.com/pricing and /pro are 404). GitHub README is MIT; homepage dollar tokens are demo numerals, not a plan table. — evidence: "GET /pricing 404; /pro 404; /about /templates /docs 200. README License MIT. Parked on cult-ui NOTES." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
