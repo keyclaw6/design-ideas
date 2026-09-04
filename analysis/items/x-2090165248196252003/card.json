@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "x-2090165248196252003",
+  "source_type": "x",
+  "url": "https://x.com/GeminiApp/status/2090165248196252003",
+  "title": "Gemini student free-year promo for AI Pro and AI Plus",
+  "author": {
+    "name": "Google Gemini",
+    "handle": "GeminiApp",
+    "url": "https://x.com/GeminiApp"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:31Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "availability-announcement",
+  "shelf_reason": "Official @GeminiApp back-to-school giveaway offering one free year of Google AI Pro or Plus to eligible students; campaign creatives only, no reusable workflow or API detail.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Google Gemini marketing thread announcing free one-year AI Pro (US) or AI Plus (140+ countries) for eligible college students through 12/31, with promotional graphics only.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2089165107364278341"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Black promo card: Google Gemini logo and STUDENT PLAN FOR 1 YEAR AT NO COST with eligibility disclaimer.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_1.jpg",
+      "type": "image",
+      "description": "Black graphic highlighting STORE MORE WITH 5 TB and a focused PDF syllabus pill icon.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_2.jpg",
+      "type": "image",
+      "description": "Study UI mockup with STUDY WITH NOTEBOOKS header and sidebar listing Library and Astrophysics notebook.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_3.jpg",
+      "type": "image",
+      "description": "Call-to-action card CLAIM YOUR STUDENT PLAN FOR 1 YEAR AT NO COST with goo.gle/student URL.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_4.jpg",
+      "type": "image",
+      "description": "VISUALIZE IDEAS header above a colorful 3D DNA helix model on dark background.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/media_5.jpg",
+      "type": "image",
+      "description": "UPLOAD UNLIMITED FILES headline surrounded by floating biology study assets and PDF tiles.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2090165248196252003",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

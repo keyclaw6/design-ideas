@@ -1,0 +1,69 @@
+{
+  "schema_version": "1",
+  "id": "x-2093776000781869278",
+  "source_type": "x",
+  "url": "https://x.com/dan__rosenthal/status/2093776000781869278",
+  "title": "2026 B2B GTM flywheel infographic outside analysis taxonomy",
+  "author": {
+    "name": "Dan Rosenthal",
+    "handle": "dan__rosenthal",
+    "url": "https://x.com/dan__rosenthal"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:47Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "The attached 2026 GTM Flywheel Playbook maps generic B2B traffic, nurture, and sales stages with HubSpot and Instantly logos; no subject in this taxonomy covers full-stack GTM consulting.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "demo-image",
+  "platforms": [],
+  "summary": "@dan__rosenthal shares a six-stage B2B go-to-market flywheel infographic spanning content, ads, outbound, partnerships, nurture, and retention tooling—real artifact but outside scoped subjects.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2094893065202803014",
+      "web-graphed"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "2026 GTM Flywheel Playbook infographic with six stages from traffic generation through retention, listing tools like HubSpot, Instantly, and Salesforce.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093776000781869278",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

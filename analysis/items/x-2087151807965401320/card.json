@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:46Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "claim-source",
+    "reference"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "HuggingPapers announces Ouroboros, a self-improving coding agent that evolves its own tools, prompts, and architecture through reviewed commits, citing SOTA terminal and OS benchmarks.",
+  "question_it_answers": "What benchmark numbers does the Ouroboros self-improving coding agent claim?",
+  "claims": [
+    {
+      "id": "x-2087151807965401320#c1",
+      "text": "Ouroboros evolves tools, prompts, and architecture through reviewed commits rather than silent self-rewrite.",
+      "kind": "capability",
+      "evidence": "It can evolve its own tools, prompts, and architecture through reviewed commits.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087151807965401320#c2",
+      "text": "Ouroboros reports 86.74% on Terminal-Bench 2.1 and 90.69% on OSWorld-Verified.",
+      "kind": "benchmark",
+      "evidence": "Achieves SOTA on Terminal-Bench 2.1 (86.74%), OSWorld-Verified (90.69%), and CL-Bench (0.2301).",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "Terminal-Bench 2.1",
+      "value": "86.74",
+      "unit": "%",
+      "source": "post"
+    },
+    {
+      "label": "OSWorld-Verified",
+      "value": "90.69",
+      "unit": "%",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2032671842230501729",
+      "x-2080856252687745093",
+      "x-2074912810803560497"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087151807965401320",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-failed"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "x-2087151807965401320",
+  "source_type": "x",
+  "url": "https://x.com/HuggingPapers/status/2087151807965401320",
+  "title": "Ouroboros agent evolves tools and prompts via reviewed commits",
+  "author": {
+    "name": "HuggingPapers",
+    "handle": "HuggingPapers",
+    "url": "https://x.com/HuggingPapers"
+  }
+}

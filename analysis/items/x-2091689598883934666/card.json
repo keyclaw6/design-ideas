@@ -1,0 +1,93 @@
+{
+  "schema_version": "1",
+  "id": "x-2091689598883934666",
+  "source_type": "x",
+  "url": "https://x.com/toolfolio/status/2091689598883934666",
+  "title": "Name That UI: visual dictionary of component names and prompts",
+  "author": {
+    "name": "toolfolio",
+    "handle": "toolfolio",
+    "url": "https://x.com/toolfolio"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T08:15:24Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "other"
+  ],
+  "summary": "Toolfolio promotes Name That UI, a visual dictionary that names common UI patterns with example prompts so builders can ask for segmented controls and similar components by correct terminology during vibe-coding.",
+  "question_it_answers": "Where can I look up the correct name and prompt for a UI component before asking an agent to build it?",
+  "claims": [
+    {
+      "id": "x-2091689598883934666#c1",
+      "text": "Naming UI components precisely—e.g., asking for a segmented control instead of buttons—yields the correct pattern on the first try.",
+      "kind": "recipe",
+      "evidence": "Nombrar bien el componente cambia el resultado: pedir un segmented control en vez de botones te da el patrón correcto a la primera.",
+      "evidence_source": "reply",
+      "evidence_ref": "comments.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "ui-component-naming",
+    "prompt-by-pattern-name"
+  ],
+  "tools": [
+    "name-that-ui"
+  ],
+  "links": {
+    "canonical": "https://toolfolio.com/tools/name-that-ui",
+    "repo": null,
+    "paper": null,
+    "product": "https://toolfolio.link/namet45",
+    "other": [
+      "https://t.co/KYuOOs0GhP"
+    ],
+    "related_items": [
+      "web-typeui-sh",
+      "web-sceneai-art"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091689598883934666",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-typeui-sh",
+      "web-sceneai-art"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

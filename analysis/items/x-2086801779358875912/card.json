@@ -1,0 +1,92 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2086801779358875912",
+  "source_type": "x",
+  "url": "https://x.com/alexgilev/status/2086801779358875912",
+  "title": "Agentic UI Showcase gallery of agent-built product interfaces",
+  "author": {
+    "name": "alexgilev",
+    "handle": "alexgilev",
+    "url": "https://x.com/alexgilev"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:17Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "design-agent-skills",
+  "roles": [
+    "reference",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Launch post for Agentic UI Showcase at agenticui.net/showcase: a curated gallery of product interfaces built with Agentic UI. Intended as a visual reference board when briefing agents on non-generic app chrome and layout taste.",
+  "question_it_answers": "Where can I find curated examples of product UIs built by agents for design briefs?",
+  "claims": [
+    {
+      "id": "x-2086801779358875912#c1",
+      "text": "Agentic UI Showcase is a collection of product interfaces made with Agentic UI.",
+      "kind": "capability",
+      "evidence": "A collection of best product interfaces made with @AgenticUi.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "links": {
+    "canonical": "https://agenticui.net/showcase",
+    "repo": null,
+    "paper": null,
+    "product": "https://agenticui.net/showcase",
+    "other": [],
+    "related_items": [
+      "web-cult-ui",
+      "web-open-design-ai",
+      "github-nexu-io-open-design",
+      "web-recent-design"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Screen recording scrolling the Agentic UI Showcase gallery of agent-built product interfaces.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2086801779358875912",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

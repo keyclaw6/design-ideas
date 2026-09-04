@@ -1,0 +1,64 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "QRFerry is a real TypeScript repo for client-side QR fountain-code file transfer, but it is an air-gapped utility outside the taxonomy's SEO, agent, 3D, and video subjects.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "repo",
+  "platforms": [],
+  "summary": "QRFerry streams files laptop-to-phone as animated QR codes using RaptorQ fountain codes, Brotli compression, and WASM render/scan — fully client-side with no server upload.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://github.com/deedy/qr-data-transfer",
+    "repo": "https://github.com/deedy/qr-data-transfer",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "web-dicebear",
+      "web-tinyshots",
+      "web-checklist-design"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-deedy-qr-data-transfer",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "github-deedy-qr-data-transfer",
+  "source_type": "github",
+  "url": "https://github.com/deedy/qr-data-transfer",
+  "title": "QRFerry: browser-only animated-QR file transfer via RaptorQ",
+  "author": {
+    "name": "deedy",
+    "handle": "deedy",
+    "url": "https://github.com/deedy"
+  }
+}

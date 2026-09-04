@@ -1,0 +1,114 @@
+{
+  "schema_version": "1",
+  "id": "web-getlayers-ai",
+  "source_type": "website",
+  "url": "https://www.getlayers.ai/",
+  "title": "GetLayers AI prompt library for cinematic WebGL heroes and MCP assembly",
+  "author": {
+    "name": "GetLayers AI",
+    "handle": null,
+    "url": "https://www.getlayers.ai/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp",
+    "three-js"
+  ],
+  "summary": "Commercial library of copy-paste prompts that recreate self-contained HTML layers—sections, GLSL gradients, and 3D scenes—with in-browser tuning plus an MCP to assemble whole sites from the catalog.",
+  "question_it_answers": "Where do I get stack-agnostic cinematic 3D hero prompts and MCP-driven site assembly?",
+  "claims": [
+    {
+      "id": "web-getlayers-ai#c1",
+      "text": "Each layer ships as a prompt that recreates a self-contained HTML page across sections, gradients, and 3D scenes.",
+      "kind": "capability",
+      "evidence": "Each layer ships as a prompt that recreates a self-contained HTML page.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-getlayers-ai#c2",
+      "text": "GetLayers MCP assembles a whole site from library layers.",
+      "kind": "capability",
+      "evidence": "GetLayers MCP for whole-site assembly from library",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "getlayers"
+  ],
+  "links": {
+    "canonical": "https://www.getlayers.ai/",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.getlayers.ai/",
+    "other": [],
+    "related_items": [
+      "github-nateherkai-scroll-craft",
+      "github-oso95-scroll-world",
+      "web-aidesigner-mcp",
+      "github-mengto-skills",
+      "web-sceneai-art"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/favicon.ico",
+      "type": "image",
+      "description": null,
+      "skip_reason": "Site favicon only; no visual technique signal.",
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/web-getlayers-ai",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "three-js",
+      "ui-motion",
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-sceneai-art",
+      "github-nateherkai-scroll-craft"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Prompt-level 3D heroes plus MCP assembly are the productized version of MengTo-style capture workflows."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

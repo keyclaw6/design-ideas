@@ -1,0 +1,87 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "blockout-to-video-flythrough"
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2092702228947902622",
+  "source_type": "x",
+  "url": "https://x.com/RenLeanna/status/2092702228947902622",
+  "title": "MiniMax Agent H3 plugins for dynamic images and white-model rendering",
+  "author": {
+    "name": "RenLeanna",
+    "handle": "RenLeanna",
+    "url": "https://x.com/RenLeanna"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:55Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "ai-video-generation",
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "MiniMax Agent shipped H3-based plugins for dynamic images and white-model (clay) rendering. Author notes white-model quality is still being tuned but usable for experimenting with reference-driven video generation workflows.",
+  "question_it_answers": "What MiniMax H3 plugins ship for dynamic images and white-model video references?",
+  "claims": [
+    {
+      "id": "x-2092702228947902622#c1",
+      "text": "MiniMax Agent released H3-based plugins for dynamic images and white-model rendering.",
+      "kind": "availability",
+      "evidence": "@MiniMaxAgent just shipped H3-based plugins for dynamic images and white-model rendering!",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Demo clip of MiniMax H3 white-model and dynamic-image plugin outputs shown in the launch post.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2092702228947902622",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

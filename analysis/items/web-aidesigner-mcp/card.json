@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "web-aidesigner-mcp",
+  "source_type": "website",
+  "url": "https://www.aidesigner.ai/ai-ui-design-mcp",
+  "title": "AIDesigner remote MCP for in-repo HTML/Tailwind UI design",
+  "author": {
+    "name": "AIDesigner",
+    "handle": "aidesigner",
+    "url": "https://www.aidesigner.ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:38:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp",
+    "cursor",
+    "claude-code"
+  ],
+  "summary": "Remote MCP server with 21 tools that generates, refines, and clones production HTML/Tailwind UI inside Cursor, Claude Code, Codex, and Windsurf, including URL clone/enhance/inspire modes and editor-session pairing via OAuth.",
+  "question_it_answers": "How do I wire an MCP server to generate and refine landing UI inside my repo?",
+  "claims": [
+    {
+      "id": "web-aidesigner-mcp#c1",
+      "text": "AIDesigner exposes 21 MCP tools for design generation, refinement, brand kits, and editor sessions.",
+      "kind": "capability",
+      "evidence": "21 MCP tools — design generation, live canvas streaming, brand kits, image tools, editor session pairing, credits.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-aidesigner-mcp#c2",
+      "text": "URL modes include clone, enhance, and inspire for competitor references.",
+      "kind": "recipe",
+      "evidence": "Pass a reference URL with `mode`: clone (near 1:1), enhance (modernize), inspire (visual language only).",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "url-clone-ui",
+    "design-as-compilation-target"
+  ],
+  "tools": [
+    "aidesigner-mcp",
+    "aidesigner-agent-skills"
+  ],
+  "links": {
+    "canonical": "https://www.aidesigner.ai/ai-ui-design-mcp",
+    "repo": null,
+    "paper": null,
+    "product": "https://api.aidesigner.ai/api/v1/mcp",
+    "other": [
+      "https://www.aidesigner.ai/docs/mcp",
+      "https://www.aidesigner.ai/website-cloner"
+    ],
+    "related_items": [
+      "github-nexu-io-open-design",
+      "web-getlayers-ai",
+      "github-google-labs-code-design-md"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-aidesigner-mcp",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

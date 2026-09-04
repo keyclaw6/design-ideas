@@ -1,0 +1,132 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": [
+    "Paste the base premium 16:9 editorial+glossy-3D campaign prompt.",
+    "Add one line: brand name, product type, number of visuals, theme, and color palette.",
+    "Generate and iterate on campaign stills (examples: PRYNE math, ARCO coffee)."
+  ],
+  "numbers": [],
+  "techniques": [
+    "brand-campaign-prompt"
+  ],
+  "tools": [
+    "gpt-image"
+  ],
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2095368133070700884"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "x-2092979866836648104",
+  "source_type": "x",
+  "url": "https://x.com/LexnLin/status/2092979866836648104",
+  "title": "GPT brand-campaign prompt template with PRYNE examples",
+  "author": {
+    "name": "LexnLin",
+    "handle": "LexnLin",
+    "url": "https://x.com/LexnLin"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T08:04:13Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "image-prompt-galleries",
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Thread sharing a reusable 16:9 editorial+glossy-3D campaign prompt plus a one-line brand fill-in pattern, demonstrated on PRYNE math visuals and an ARCO coffee variant set.",
+  "question_it_answers": "What prompt template generates premium 16:9 brand campaign stills for arbitrary products?",
+  "claims": [
+    {
+      "id": "x-2092979866836648104#c1",
+      "text": "Base prompt specifies premium 16:9 editorial+glossy 3D style with bold typography and high-end materials.",
+      "kind": "recipe",
+      "evidence": "Create a premium 16:9 brand campaign visual in a clean editorial + glossy 3D design style.",
+      "evidence_source": "author-thread",
+      "evidence_ref": null,
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "x-2092979866836648104#c2",
+      "text": "Authors add one line naming brand, product type, count, theme, and palette to specialize the template.",
+      "kind": "recipe",
+      "evidence": "then just add one line describing the actual brand + what you want:",
+      "evidence_source": "author-thread",
+      "evidence_ref": null,
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2092222199620833420",
+      "web-meigen-ai"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "ARCO roasters coffee campaign still: amber espresso cup, tamper, bean, slogan pause precisely on stone surface.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/media_1.jpg",
+      "type": "image",
+      "description": "ARCO variant with floating cup, bean, and tamper over sage circle; headline morning shifted.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/media_2.jpg",
+      "type": "image",
+      "description": "PRYNE math brand visual: glossy 3D operators and Multiply your edge headline on white.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "media/media_3.jpg",
+      "type": "image",
+      "description": "PRYNE dark hero with pearlescent 3D math symbols and tagline Numbers Logic Motion.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2092979866836648104",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills",
+      "infographics"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

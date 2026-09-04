@@ -1,0 +1,79 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2095375790875840593",
+  "source_type": "x",
+  "url": "https://x.com/ArcanaMfg/status/2095375790875840593",
+  "title": "LichtFeldStudio splat to Splat2Mesh to Mimaki 3DUJ-2207 print pipeline",
+  "author": {
+    "name": "ArcanaMfg",
+    "handle": "ArcanaMfg",
+    "url": "https://x.com/ArcanaMfg"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:54:40Z",
+  "lang": "ja",
+  "disposition": "analyze",
+  "primary_subject": "gaussian-splatting",
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Arcana Manufacturing demo: exported LichtFeldStudio Gaussian splat data, converted with Splat2Mesh, and 3D-printed on a Mimaki 3DUJ-2207 full-color printer. Links arcana-mfg.com Splat2Mesh pages in Japanese and English.",
+  "question_it_answers": "Can a LichtFeldStudio splat capture be meshed with Splat2Mesh and full-color 3D printed?",
+  "claims": [
+    {
+      "id": "x-2095375790875840593#c1",
+      "text": "LichtFeldStudio output was converted with Splat2Mesh and printed on a Mimaki 3DUJ-2207.",
+      "kind": "result",
+      "evidence": "LichtFeldStudioで出力したデータをSplat2Meshで変換し、そのままMimakiの3DUJ-2207で出力しました。",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
+    }
+  ],
+  "links": {
+    "canonical": "https://arcana-mfg.com/splat2mesh/",
+    "repo": null,
+    "paper": null,
+    "product": "https://arcana-mfg.com/en/splat2mesh/",
+    "other": [],
+    "related_items": [
+      "web-arcana-splat2mesh",
+      "x-2093179838249251011"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2095375790875840593",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "gaussian-splatting"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready"
+}

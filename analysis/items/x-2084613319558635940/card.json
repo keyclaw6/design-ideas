@@ -1,0 +1,62 @@
+{
+  "schema_version": "1",
+  "id": "x-2084613319558635940",
+  "source_type": "x",
+  "url": "https://x.com/cyrilXBT/status/2084613319558635940",
+  "title": "Unnamed AI-agent explainer praise with no linked artifact",
+  "author": {
+    "name": "cyrilXBT",
+    "handle": "cyrilXBT",
+    "url": "https://x.com/cyrilXBT"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:45Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "The post praises an unnamed teacher for simplifying agent concepts but names no creator, course, repo, or URL, so nothing actionable can be retrieved from the capture.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "Engagement post from @cyrilXBT hyping an unnamed explainer of AI agents without linking any course, thread, or repo; useful only as noise to skip.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2080856252687745093",
+      "web-chatgpt-training",
+      "x-2086790895538700379"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2084613319558635940",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

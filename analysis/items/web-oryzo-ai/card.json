@@ -1,0 +1,101 @@
+{
+  "schema_version": "1",
+  "id": "web-oryzo-ai",
+  "source_type": "website",
+  "url": "https://oryzo.ai/",
+  "title": "ORYZO AI — Lusion satirical AI-product landing for a cork coaster",
+  "author": {
+    "name": "Lusion",
+    "handle": null,
+    "url": "https://lusion.co/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "example",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "three-js",
+    "browser"
+  ],
+  "summary": "High-production satirical marketing site by Lusion presenting a cork coaster as an over-engineered AI product. Parodies model cards, fake arXiv citations, and encryption gags with real interactive 3D hover demos.",
+  "question_it_answers": "What does award-studio WebGL craft look like when satirizing AI-product landing tropes?",
+  "claims": [
+    {
+      "id": "web-oryzo-ai#c1",
+      "text": "Site sells fake ORYZO SKUs with stack-height tiers and smart-flip encryption gags.",
+      "kind": "capability",
+      "evidence": "Fake model cards: ORYZO / ORYZO Pro / ORYZO Pro Max (stack height tiers)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-oryzo-ai#c2",
+      "text": "Interactive 3D and hover demos accompany the parody AI landing sections.",
+      "kind": "capability",
+      "evidence": "Interactive 3D/hover demos, bikini prompt gag, ISSUE NO. mock magazine",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://oryzo.ai/",
+    "repo": null,
+    "paper": null,
+    "product": "https://oryzo.ai/",
+    "other": [
+      "https://lusion.co/"
+    ],
+    "related_items": [
+      "web-utsubo",
+      "web-cartier-ballon-bleu",
+      "github-mengto-complete-shelf",
+      "web-opale-ui-taste",
+      "github-nateherkai-scroll-craft"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-oryzo-ai",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "three-js"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-utsubo",
+      "web-opale-ui-taste"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

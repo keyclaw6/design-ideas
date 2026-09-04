@@ -1,0 +1,62 @@
+{
+  "schema_version": "1",
+  "id": "x-2087224641849045110",
+  "source_type": "x",
+  "url": "https://x.com/Stagehanddev/status/2087224641849045110",
+  "title": "Empty @Stagehanddev post with no body or media",
+  "author": {
+    "name": "Stagehanddev",
+    "handle": "Stagehanddev",
+    "url": "https://x.com/Stagehanddev"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:18Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "empty-capture",
+  "shelf_reason": "Harvest returned a blank @Stagehanddev tweet: no post text, no media files, and no comments, so the capture cannot document any browser-automation artifact.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "Failed capture of a @Stagehanddev tweet containing no visible text, links, or media; Stagehand product docs must be fetched separately if needed.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-h4ckf0r0day-obscura",
+      "web-obscura-sh",
+      "web-cloudflare-kitesurf"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087224641849045110",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

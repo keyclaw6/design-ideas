@@ -1,0 +1,91 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:53Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-video-generation",
+  "secondary_subjects": [
+    "blockout-to-video-flythrough"
+  ],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "mcp",
+    "claude-code"
+  ],
+  "summary": "rom1trs describes hiring an artist for a Gucci-style AI ad: paper storyboards, Claude-generated keyframes and character sheets, Arcads MCP animation at 480p/1080p, then manual 4K grade and retime.",
+  "question_it_answers": "What is a paper-storyboard to Claude-keyframe to Arcads MCP video ad pipeline?",
+  "claims": [
+    {
+      "id": "x-2095156045303701766#c1",
+      "text": "Pipeline pairs hand-drawn storyboards with Claude keyframes and Arcads MCP animation before manual 4K finishing.",
+      "kind": "recipe",
+      "evidence": "a keyframe per drawing + character sheets",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": [
+    "Artist draws every shot on paper first.",
+    "Claude generates a keyframe per drawing plus character sheets.",
+    "Arcads MCP animates at 480p first; keepers rendered at 1080p.",
+    "Upscale to 4K and grade/retime by hand."
+  ],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2092040265234260091",
+      "web-fal-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2095156045303701766",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-failed"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "x-2095156045303701766",
+  "source_type": "x",
+  "url": "https://x.com/rom1trs/status/2095156045303701766",
+  "title": "Paper storyboards to Claude keyframes and Arcads MCP for AI Gucci ad",
+  "author": {
+    "name": "rom1trs",
+    "handle": "rom1trs",
+    "url": "https://x.com/rom1trs"
+  }
+}

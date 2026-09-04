@@ -1,0 +1,130 @@
+{
+  "schema_version": "1",
+  "id": "x-2094326291906310180",
+  "source_type": "x",
+  "url": "https://x.com/pierreeliottlal/status/2094326291906310180",
+  "title": "GojiberryAI MCP plus GrokBot: 97 prospects and 1 demo in 24h",
+  "author": {
+    "name": "Pierre-Eliott Lallemant",
+    "handle": "pierreeliottlal",
+    "url": "https://x.com/pierreeliottlal"
+  },
+  "published_at": "2026-08-31T07:27:53Z",
+  "captured_at": "2026-09-02T18:49:18Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "outbound-gtm-agents",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "example",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "grok-bot",
+    "mcp"
+  ],
+  "summary": "GojiberryAI CEO case study wiring GrokBot to the Gojiberry MCP and LinkedIn to define ICP, enrich 97 prospects, personalize outreach, and book one demo within 24 hours, with a Calendly Slack screenshot as evidence.",
+  "question_it_answers": "What outbound funnel numbers does a GrokBot plus Gojiberry MCP LinkedIn stack claim in a real CEO case study?",
+  "claims": [
+    {
+      "id": "x-2094326291906310180#c1",
+      "text": "Within 24 hours the GrokBot plus Gojiberry MCP stack contacted 97 prospects, saw 33 acceptances, 15+ replies, and booked one demo with a ~50-person company.",
+      "kind": "result",
+      "evidence": "Less than 24 hours later:\n\n97 prospects contacted  \n33 accepted  \n15+ replied  \n1 demo booked",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "prospects contacted",
+      "value": "97",
+      "unit": "prospects",
+      "source": "post"
+    },
+    {
+      "label": "connection acceptances",
+      "value": "33",
+      "unit": "accepts",
+      "source": "post"
+    },
+    {
+      "label": "replies",
+      "value": "15+",
+      "unit": "replies",
+      "source": "post"
+    },
+    {
+      "label": "demos booked",
+      "value": "1",
+      "unit": "demo",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "icp-definition-agent",
+    "linkedin-outreach-automation"
+  ],
+  "tools": [
+    "gojiberryai",
+    "grok-bot"
+  ],
+  "links": {
+    "canonical": "https://x.com/pierreeliottlal/status/2094326291906310180",
+    "repo": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "paper": null,
+    "product": "https://gojiberry.ai/",
+    "other": [
+      "https://mcp.gojiberry.ai/mcp"
+    ],
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "x-2094892848042725416"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/photo.jpg",
+      "type": "image",
+      "description": "Slack Calendly-via-Zapier notification showing a new demo booked on 2026-08-31 at 18:00 UTC with America/Chicago timezone and a CIO role answer field partially visible.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094326291906310180",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "x-2094892848042725416"
+    ],
+    "must_read": true,
+    "why_must_read": "Early GrokBot-driven outbound case study with funnel numbers."
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

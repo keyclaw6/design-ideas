@@ -1,0 +1,64 @@
+{
+  "schema_version": "1",
+  "id": "x-2088706415586377792",
+  "source_type": "x",
+  "url": "https://x.com/wafer_ai/status/2088706415586377792",
+  "title": "Duplicate Wafer post: DeepSeek V4 Flash on Vercel AI Gateway",
+  "author": {
+    "name": "Wafer",
+    "handle": "wafer_ai",
+    "url": "https://x.com/wafer_ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:24Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "duplicate",
+  "shelf_reason_code": "same-artifact-no-new-angle",
+  "shelf_reason": "Posted immediately after x-2088695568474546387 by the same @wafer_ai account with only a one-line DeepSeek V4 Flash on Vercel AI Gateway restatement and no screenshot, link, or pricing detail.",
+  "duplicate_of": "x-2088695568474546387",
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "One-line restatement that DeepSeek V4 Flash 0731 Fast is on Vercel AI Gateway with no new SKU, pricing, or setup detail beyond the primary Wafer announcement.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/wafer_ai/status/2088706415586377792",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2088695568474546387",
+      "x-2088594942482374759",
+      "x-2090103470015828184"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088706415586377792",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

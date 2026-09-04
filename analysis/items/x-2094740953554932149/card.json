@@ -1,0 +1,134 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "people-search price",
+      "value": "0.0089",
+      "unit": "USD/lead",
+      "source": "post"
+    },
+    {
+      "label": "treg GitHub stars",
+      "value": "1020",
+      "unit": "stars",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2094740953554932149",
+  "source_type": "x",
+  "url": "https://x.com/pmitu/status/2094740953554932149",
+  "title": "treg people-search: metered GTM enrichment at $0.0089 per lead",
+  "author": {
+    "name": "Paul Mit",
+    "handle": "pmitu",
+    "url": "https://x.com/pmitu"
+  },
+  "published_at": "2026-09-01T10:55:36Z",
+  "captured_at": "2026-09-02T18:10:58Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "outbound-gtm-agents",
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp",
+    "claude-code"
+  ],
+  "summary": "Paul Mit amplifies Jason Zhou's treg people-search launch: an agent-facing catalog routing people enrichment across 60+ providers behind one token, billed per successful find at $0.0089/lead with no subscription. Open-source treg repo plus Claude plugin and MCP install.",
+  "question_it_answers": "What per-lead pricing and architecture does treg people-search advertise for agent GTM?",
+  "claims": [
+    {
+      "id": "x-2094740953554932149#c1",
+      "text": "treg people-search charges $0.0089 per lead with no subscriptions.",
+      "kind": "pricing",
+      "evidence": "Pricing model is quite competitive: no subscriptions, $0.0089 per lead",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094740953554932149#c2",
+      "text": "Quoted launch claims #1 on People Search Bench and fully open source with 0% markup.",
+      "kind": "benchmark",
+      "evidence": "#1 on People Search Bench\nFully open source, 0% markup",
+      "evidence_source": "quoted-post",
+      "evidence_ref": "post.md",
+      "confidence": "contested",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "links": {
+    "canonical": "https://treg.to/people-search",
+    "repo": "https://github.com/superdesigndev/treg",
+    "paper": null,
+    "product": "https://treg.to/people-search",
+    "other": [
+      "https://github.com/LessieAI/people-search-bench",
+      "https://arxiv.org/abs/2603.27476"
+    ],
+    "related_items": [
+      "web-treg-people-search",
+      "github-LessieAI-people-search-bench"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/photo.jpg",
+      "type": "image",
+      "description": "Screenshot of treg.to/people-search landing: terminal GTM demo with 1B+ contacts and per-provider billing overlay.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/quoted-thumb.jpg",
+      "type": "image",
+      "description": "Thumbnail still from Jason Zhou's quoted launch video for treg people-search.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/quoted-video.mp4",
+      "type": "video",
+      "description": "Jason Zhou demo video introducing Claude for people-search at $0.0089 per lead.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094740953554932149",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

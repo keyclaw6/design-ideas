@@ -1,0 +1,120 @@
+{
+  "schema_version": "1",
+  "id": "x-2095202138854977756",
+  "source_type": "x",
+  "url": "https://x.com/Jibran_05/status/2095202138854977756",
+  "title": "Six-model stack claims 160k daily TikTok views via LightReel",
+  "author": {
+    "name": "Jibran",
+    "handle": "Jibran_05",
+    "url": "https://x.com/Jibran_05"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:50:08Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-video-generation",
+  "secondary_subjects": [
+    "agent-harness-loops"
+  ],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Poster claims connecting six models through @lightreelai and Doublespeed runs unsupervised TikTok accounts hitting about 160k views per day and millions total, with an open-source link promised.",
+  "question_it_answers": "What view volume is claimed from a multi-model autonomous TikTok video pipeline?",
+  "claims": [
+    {
+      "id": "x-2095202138854977756#c1",
+      "text": "An unsupervised AI stack reportedly drives about 160,000 TikTok views per day.",
+      "kind": "result",
+      "evidence": "An unsupervised AI is doing 160,000 views a day on TikTok",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2095202138854977756#c2",
+      "text": "Six models were connected via lightreelai and Doublespeed to run accounts autonomously.",
+      "kind": "recipe",
+      "evidence": "We connected 6 models to @lightreelai and Doublespeed to autonomously run TikTok accounts.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "Daily TikTok views",
+      "value": "160000",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "Models connected",
+      "value": "6",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "autonomous-tiktok-pipeline"
+  ],
+  "tools": [
+    "lightreelai",
+    "doublespeed"
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2091519705911795761",
+      "web-fal-ai"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Analytics dashboard titled Opus 5.0 showing 158.8k views/day, 6M total views, and top TikTok grid posts on food triggers.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095202138854977756",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1",
+  "id": "x-2093690856637182435",
+  "source_type": "x",
+  "url": "https://x.com/wizofecom/status/2093690856637182435",
+  "title": "Engagement bait: '$1M content system' with no playbook attached",
+  "author": {
+    "name": "wizofecom",
+    "handle": "wizofecom",
+    "url": "https://x.com/wizofecom"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:54:33Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "The post only says 'How to install a $1,000,000 content system into your personal brand on X + LinkedIn (bookmark this)' with no linked playbook, numbered steps, or artifact in post.md or captured replies.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "thread",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Single-line hook promising a million-dollar content system for X and LinkedIn personal brands with a bookmark CTA but no steps, links, templates, or thread content in the capture.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/wizofecom/status/2093690856637182435",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093690856637182435",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

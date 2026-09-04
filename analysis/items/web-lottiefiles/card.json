@@ -1,0 +1,97 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "web-lottiefiles",
+  "source_type": "website",
+  "url": "https://lottiefiles.com/",
+  "title": "LottieFiles: dotLottie animation platform, library, and AI creator tools",
+  "author": {
+    "name": "LottieFiles",
+    "handle": null,
+    "url": "https://lottiefiles.com"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "code-motion-graphics",
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "other"
+  ],
+  "summary": "LottieFiles hosts 800k+ lightweight Lottie/dotLottie animations with CDN runtimes, Figma/AE integrations, a DAM, and AI Motion Copilot in Lottie Creator. dotLottie files are marketed as ~90% smaller than GIF for web and app micro-motion.",
+  "question_it_answers": "Where can I source lightweight animated assets for marketing sites without custom CSS keyframes?",
+  "claims": [
+    {
+      "id": "web-lottiefiles#c1",
+      "text": "dotLottie format is marketed as about 90% smaller than GIF for the same motion.",
+      "kind": "capability",
+      "evidence": "dotLottie 90% smaller than GIF",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "web-lottiefiles#c2",
+      "text": "The public library lists 800,000+ free and premium ready-to-use animations.",
+      "kind": "availability",
+      "evidence": "800,000+ free & premium ready-to-use animations searchable by category",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    }
+  ],
+  "links": {
+    "canonical": "https://lottiefiles.com/",
+    "repo": null,
+    "paper": null,
+    "product": "https://lottiefiles.com/",
+    "other": [
+      "https://lottiefiles.com/features"
+    ],
+    "related_items": [
+      "github-nexu-io-motion-anything",
+      "web-animos-editor",
+      "web-originkit-dev",
+      "github-emilkowalski-skills",
+      "web-tinyshots"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-lottiefiles",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "ui-motion",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready"
+}

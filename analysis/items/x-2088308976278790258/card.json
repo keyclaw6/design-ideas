@@ -1,0 +1,89 @@
+{
+  "schema_version": "1",
+  "id": "x-2088308976278790258",
+  "source_type": "x",
+  "url": "https://x.com/CadX_Studio/status/2088308976278790258",
+  "title": "CadX Studio text-to-CAD hexacopter demo",
+  "author": {
+    "name": "CadX Studio",
+    "handle": "CadX_Studio",
+    "url": "https://x.com/CadX_Studio"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:29Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "tool"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "other"
+  ],
+  "summary": "CadX Studio tweet demoing a prompt-generated hexacopter to show text-to-CAD removing the CAD skills wall for hardware ideas; links cadxstudio.in (tweet URL typo cadxstduio.in).",
+  "question_it_answers": "What does CadX text-to-CAD look like on a drone-class hardware sketch?",
+  "claims": [
+    {
+      "id": "x-2088308976278790258#c1",
+      "text": "CadX generated a hexacopter from a text prompt as a greenfield hardware sketch.",
+      "kind": "result",
+      "evidence": "this hexacopter is what happens when that wall isn't there anymore. Built in https://cadxstduio.in .",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "cadx-studio"
+  ],
+  "links": {
+    "canonical": "https://cadxstudio.in",
+    "repo": null,
+    "paper": null,
+    "product": "https://cadxstudio.in",
+    "other": [],
+    "related_items": [
+      "x-2087272209429766596",
+      "x-2089717063921332378",
+      "x-2088296314484162719",
+      "x-2088277946918142211"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088308976278790258",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "keyboard-pcb"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087272209429766596",
+      "x-2089717063921332378"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Third CadX object class showing general text-to-CAD beyond furniture demos."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

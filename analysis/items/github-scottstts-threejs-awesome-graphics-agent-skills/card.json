@@ -1,0 +1,93 @@
+{
+  "schema_version": "1",
+  "id": "github-scottstts-threejs-awesome-graphics-agent-skills",
+  "source_type": "github",
+  "url": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+  "title": "Three.js graphics agent skills: camera rigs, PBR, WebGPU validation",
+  "author": {
+    "name": "scottstts",
+    "handle": null,
+    "url": "https://github.com/scottstts"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "blockout-to-video-flythrough"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "three-js",
+    "cursor",
+    "codex"
+  ],
+  "summary": "MIT npm skill pack for Three.js that teaches agents camera direction, PBR materials, shaders, TSL/WebGPU effects, and visual validation via fixed-view captures—not an API cheat sheet but implementation vocabulary with examples.",
+  "question_it_answers": "Which agent skills help author Three.js cameras, PBR scenes, and diagnostic still captures?",
+  "claims": [
+    {
+      "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c1",
+      "text": "threejs-camera-direction covers authored lenses, chase/orbit rigs, and handoffs for flythrough-style camera language in WebGL scenes.",
+      "kind": "capability",
+      "evidence": "threejs-camera-direction — Authored lenses, chase/orbit rigs, handoffs",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "threejs-camera-direction",
+    "threejs-visual-validation"
+  ],
+  "tools": [
+    "threejs-awesome-graphics-agent-skills"
+  ],
+  "links": {
+    "canonical": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+    "repo": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+    "paper": null,
+    "product": "https://www.npmjs.com/package/threejs-awesome-graphics-agent-skills",
+    "other": [],
+    "related_items": [
+      "github-mengto-skills",
+      "github-oso95-scroll-world"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-scottstts-threejs-awesome-graphics-agent-skills",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js",
+      "agent-skills",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-mengto-skills",
+      "web-utsubo"
+    ],
+    "must_read": true,
+    "why_must_read": "Lower-level Three.js camera and validation skills beyond landing-page kits."
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

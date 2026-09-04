@@ -1,0 +1,93 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2094069236524061059",
+  "source_type": "x",
+  "url": "https://x.com/0xJokker/status/2094069236524061059",
+  "title": "Taste Skill: open-source design-taste pack for coding agents (Spanish promo)",
+  "author": {
+    "name": "0xJokker",
+    "handle": "0xJokker",
+    "url": "https://x.com/0xJokker"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:53Z",
+  "lang": "es",
+  "disposition": "analyze",
+  "primary_subject": "design-agent-skills",
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "codex",
+    "claude-code",
+    "gemini"
+  ],
+  "summary": "Spanish-language promo for Leonxlnx/taste-skill: an open-source agent skill that forces layout, hierarchy, spacing, typography, and motion decisions before code generation to reduce visual slop. Installs with npx skills add Leonxlnx/taste-skill for Claude, Cursor, Codex, Gemini CLI, and Lovable.",
+  "question_it_answers": "How do I install a design-taste skill so my agent stops producing generic AI-looking UIs?",
+  "claims": [
+    {
+      "id": "x-2094069236524061059#c1",
+      "text": "Taste Skill obliges the agent to decide layout, hierarchy, spacing, typography, and motion before writing code.",
+      "kind": "recipe",
+      "evidence": "Antes de escribir codigo, le obliga a decidir:\nLayout\nJerarquia\nEspaciado\nTipografia\nMotion",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2094069236524061059#c2",
+      "text": "Install command is npx skills add Leonxlnx/taste-skill.",
+      "kind": "recipe",
+      "evidence": "npx skills add Leonxlnx/taste-skill",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "links": {
+    "canonical": "https://github.com/Leonxlnx/taste-skill",
+    "repo": "https://github.com/Leonxlnx/taste-skill",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-leonxlnx-taste-skill"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2094069236524061059",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

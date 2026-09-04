@@ -1,0 +1,113 @@
+{
+  "schema_version": "1",
+  "id": "x-2094558408259272998",
+  "source_type": "x",
+  "url": "https://x.com/medriscoll/status/2094558408259272998",
+  "title": "Driscoll essay on AI-native company intelligence layer with Ramp/Cerebras refs",
+  "author": {
+    "name": "Michael E. Driscoll",
+    "handle": "medriscoll",
+    "url": "https://x.com/medriscoll"
+  },
+  "published_at": "2026-08-31T22:50:14Z",
+  "captured_at": "2026-09-02T18:33:15Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [
+    "infographics-diagrams"
+  ],
+  "roles": [
+    "claim-source",
+    "reference"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "mcp"
+  ],
+  "summary": "Michael Driscoll amplifies Lieberman's AI-native company feature #3—a centralized queryable intelligence layer—with a Da Vinci collage diagram and links to Ramp, Cerebras, and Anthropic data-agent write-ups.",
+  "question_it_answers": "How are Ramp, Cerebras, and Anthropic framing the centralized agent intelligence layer?",
+  "claims": [
+    {
+      "id": "x-2094558408259272998#c1",
+      "text": "Defines feature #3 as a centralized intelligence layer aggregating structured and unstructured data for agentic work.",
+      "kind": "opinion",
+      "evidence": "Centralized intelligence layer that aggregates structured and unstructured data, documents, and business logic into a single source of truth",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2094558408259272998#c2",
+      "text": "Collage diagram shows a data agent harness with tools including MCPs atop Snowflake and Turbopuffer stores.",
+      "kind": "capability",
+      "evidence": "DATA AGENT HARNESS: A central hub containing \"Tools (bash, MCPs)\", \"Models (e.g. 5.6 Sol)\", and \"Skills\".",
+      "evidence_source": "media",
+      "evidence_ref": "media/photo.jpg",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://www.iandmacomber.com/blog/post-ai-data-stack",
+      "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+      "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude"
+    ],
+    "related_items": [
+      "web-iandmacomber-post-ai-data-stack",
+      "web-cerebras-knowledge-base"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/photo.jpg",
+      "type": "image",
+      "description": "Da Vinci-styled collage with Cerebras RAG funnel, Ramp post-AI data stack with MCP data-agent harness, and star-schema active-user sketch.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094558408259272998",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "mcp",
+      "infographics"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-davidgasquez-context-engineering",
+      "x-2094462971598754010"
+    ],
+    "must_read": [
+      "post.md",
+      "research.md"
+    ],
+    "why_must_read": "Maps enterprise intelligence-layer pattern to public Ramp/Cerebras/Anthropic references."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

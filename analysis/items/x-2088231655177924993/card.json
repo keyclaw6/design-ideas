@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2088231655177924993",
+  "source_type": "x",
+  "url": "https://x.com/rammcodes/status/2088231655177924993",
+  "title": "Obsidian Mind vault gives Claude Code and Codex persistent project memory",
+  "author": {
+    "name": "rammcodes",
+    "handle": "rammcodes",
+    "url": "https://x.com/rammcodes"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "claude-code",
+    "codex"
+  ],
+  "summary": "Promotion of Obsidian Mind, an open-source Obsidian vault template that gives Claude Code, Codex CLI, and Gemini CLI persistent markdown memory for projects, decisions, tasks, and notes across sessions.",
+  "question_it_answers": "How can coding agents keep durable project memory in an Obsidian vault instead of restarting cold?",
+  "claims": [
+    {
+      "id": "x-2088231655177924993#c1",
+      "text": "Obsidian Mind is an open-source Obsidian vault that stores projects, decisions, tasks, and notes so coding agents retain context across sessions.",
+      "kind": "capability",
+      "evidence": "Obsidian Mind is an open-source Obsidian vault that gives AI coding agents persistent memory across sessions.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "obsidian-vault-memory",
+    "markdown-agent-context"
+  ],
+  "tools": [
+    "obsidian-mind"
+  ],
+  "links": {
+    "canonical": "https://github.com/breferrari/obsidian-mind",
+    "repo": "https://github.com/breferrari/obsidian-mind",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087955721732460791",
+      "x-2087143369181114868"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Obsidian Mind README screenshot showing crystal logo, MIT license badge, and text describing an Obsidian vault for persistent agent memory with Claude Code, Codex CLI, and Gemini CLI hooks.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088231655177924993",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087208634493095978",
+      "web-davidgasquez-context-engineering"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

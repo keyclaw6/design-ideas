@@ -1,0 +1,97 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "web-cerebras-knowledge-base",
+  "source_type": "website",
+  "url": "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+  "title": "Cerebras enterprise knowledge base: Slack distillation and hybrid retrieval",
+  "author": {
+    "name": "Cerebras",
+    "handle": null,
+    "url": "https://www.cerebras.ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:38:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "agent-memory-knowledge",
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "article",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Cerebras engineering post on Cerebras Knowledge: an internal KB serving 15,000+ questions/day by extracting Slack, docs, GitHub, and Jira in place. Core design is one Postgres embeddings table, LLM thread distillation, hybrid retrieval, and CocoIndex incremental code embeddings.",
+  "question_it_answers": "How did Cerebras build a company knowledge base that agents and humans query at scale?",
+  "claims": [
+    {
+      "id": "web-cerebras-knowledge-base#c1",
+      "text": "Cerebras Knowledge handled 15,000+ internal questions per day within about three months of launch.",
+      "kind": "benchmark",
+      "evidence": "Claim at publish: **15,000+ questions/day**, widely adopted within ~3 months of launch.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-cerebras-knowledge-base#c2",
+      "text": "Slack ingestion re-fetches the entire thread on any new message and distills structured fields before embedding.",
+      "kind": "recipe",
+      "evidence": "re-fetch **entire thread** on any new message (parent + all replies as one row)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "links": {
+    "canonical": "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://x.com/medriscoll/status/2094558408259272998",
+      "https://x.com/cerebras/status/2077822555159945507",
+      "https://davidgasquez.com/context-engineering-is-a-data-problem",
+      "https://www.iandmacomber.com/blog/post-ai-data-stack"
+    ],
+    "related_items": [
+      "web-davidgasquez-context-engineering",
+      "web-anthropic-claude-self-service-data",
+      "web-iandmacomber-post-ai-data-stack",
+      "web-chatgpt-training",
+      "web-blume-codes"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-cerebras-knowledge-base",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready"
+}

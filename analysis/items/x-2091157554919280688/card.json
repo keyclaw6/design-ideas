@@ -1,0 +1,108 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "multi-agent-catalog"
+  ],
+  "tools": [
+    "graft",
+    "agency-agents",
+    "codebase-memory-mcp",
+    "openmontage",
+    "agent-reach",
+    "orca"
+  ],
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "x-2091157554919280688",
+  "source_type": "x",
+  "url": "https://x.com/robiartec/status/2091157554919280688",
+  "title": "Spanish roundup of six trending GitHub AI agent repos",
+  "author": {
+    "name": "robiartec",
+    "handle": "robiartec",
+    "url": "https://x.com/robiartec"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:51Z",
+  "lang": "es",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "agent-harness-loops",
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "claude-code",
+    "mcp"
+  ],
+  "summary": "Spanish-language list post highlighting six GitHub agent projects — Graft cost savings, Agency Agents subagent roster, codebase-memory MCP, OpenMontage video studio, Agent-Reach web browsing, and Orca parallel coding agents.",
+  "question_it_answers": "Which open agent harness and tooling repos were being shared together in late 2026?",
+  "claims": [
+    {
+      "id": "x-2091157554919280688#c1",
+      "text": "Graft claims 4x cheaper and 3x faster Claude Code sessions with 60% less time per session.",
+      "kind": "benchmark",
+      "evidence": "Hace que claude code sea 4 veces mas barato y 3 veces mas rapido, es compatible con cualquier agente 60% menos tiempo por sesión",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2091157554919280688#c2",
+      "text": "Codebase-memory MCP advertises 99%+ token reduction by graphing the codebase across 158 languages.",
+      "kind": "capability",
+      "evidence": "reduce tokens mas del 99% y responde en milisegundos",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://github.com/NanoNets/Graft",
+      "https://github.com/msitarzewski/agency-agents",
+      "https://github.com/DeusData/codebase-memory-mcp",
+      "https://github.com/calesthio/OpenMontage",
+      "https://github.com/Panniantong/Agent-Reach",
+      "https://github.com/stablyai/orca"
+    ],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091157554919280688",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "mcp",
+      "video-generation"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

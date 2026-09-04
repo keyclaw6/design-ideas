@@ -1,0 +1,127 @@
+{
+  "schema_version": "1",
+  "id": "x-2094840529997410525",
+  "source_type": "x",
+  "url": "https://x.com/Trevs_Dev/status/2094840529997410525",
+  "title": "Atlas Fields Studio — free 3D EM field viewer for PCB designs",
+  "author": {
+    "name": "Trevor B",
+    "handle": "@Trevs_Dev",
+    "url": "https://x.com/Trevs_Dev"
+  },
+  "published_at": "2026-09-01T17:31:17Z",
+  "captured_at": "2026-09-02T17:39:26Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [
+    "web-3d-scenes"
+  ],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "three-js"
+  ],
+  "summary": "Arena Physica releases Atlas Fields Studio at fields-studio.arenaphysica.com, a free web app to explore electromagnetic fields around PCB designs powered by the Heaviside-1 foundation model. Shows millisecond E/H field predictions with hairpin filter templates.",
+  "question_it_answers": "What free web tool visualizes electromagnetic fields around PCB designs using Heaviside-1?",
+  "claims": [
+    {
+      "id": "x-2094840529997410525#c1",
+      "text": "Atlas Fields Studio lets you explore electromagnetic behavior around PCB designs for free.",
+      "kind": "capability",
+      "evidence": "The Fields Studio App lets you explore electromagnetic behavior around PCB designs",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2094840529997410525#c2",
+      "text": "Guest mode predicts 10,000 field vectors in about 45 ms at 10 GHz on a hairpin filter template.",
+      "kind": "result",
+      "evidence": "10,000 field vectors predicted in 45 ms | f = 10.000 GHz",
+      "evidence_source": "media",
+      "evidence_ref": "media/thumb.jpg",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "Field vectors predicted",
+      "value": "10000",
+      "unit": "vectors",
+      "source": "media"
+    },
+    {
+      "label": "Prediction time",
+      "value": "45",
+      "unit": "ms",
+      "source": "media"
+    },
+    {
+      "label": "Frequency",
+      "value": "10",
+      "unit": "GHz",
+      "source": "media"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://fields-studio.arenaphysica.com",
+    "repo": null,
+    "paper": "https://www.arenaphysica.com/publications/heaviside-1",
+    "product": "https://fields-studio.arenaphysica.com",
+    "other": [
+      "https://www.arenaphysica.com/publications/rf-studio"
+    ],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "raw/items/x-2094840529997410525/media/thumb.jpg",
+      "type": "image",
+      "description": "Laptop screenshot of Atlas Fields Studio showing a 3D hairpin filter with colored E-field vectors, S-parameter plot, and 45 ms prediction overlay.",
+      "skip_reason": null,
+      "carries_technique": true
+    },
+    {
+      "path": "raw/items/x-2094840529997410525/media/video.mp4",
+      "type": "video",
+      "description": "15-second demo video of navigating the Atlas Fields Studio EM field viewer for PCB templates.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094840529997410525",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "three-js",
+      "design",
+      "keyboard-pcb"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

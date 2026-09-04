@@ -1,0 +1,90 @@
+{
+  "schema_version": "1",
+  "id": "web-aura-build",
+  "source_type": "website",
+  "url": "https://aura.build",
+  "title": "Aura.build hosted AI landing builder with HTML/Figma export",
+  "author": {
+    "name": "Aura",
+    "handle": "aura",
+    "url": "https://aura.build"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Commercial SPA AI website builder that generates landing pages from prompts and exports to HTML and Figma; capture is meta-only because the client shell blocked full page fetch.",
+  "question_it_answers": "What is Aura.build as a competitor to local vibe-design and DESIGN.md-governed builders?",
+  "claims": [
+    {
+      "id": "web-aura-build#c1",
+      "text": "Aura positions as an AI landing builder with HTML and Figma export and no design skills required.",
+      "kind": "capability",
+      "evidence": "Export to HTML and Figma.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://aura.build",
+    "repo": null,
+    "paper": null,
+    "product": "https://aura.build",
+    "other": [],
+    "related_items": [
+      "github-mengto-skills",
+      "web-neuform-ai",
+      "web-open-design-ai",
+      "github-nexu-io-open-design",
+      "web-aidesigner-mcp"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-aura-build",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-neuform-ai",
+      "web-open-design-ai"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Thin SPA capture—treat marketing claims as unverified benchmarks against craft-first builders."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

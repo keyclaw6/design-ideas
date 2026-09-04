@@ -1,0 +1,100 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-04T08:05:20Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "claim-source",
+    "example"
+  ],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "alexgroberman claims a business added over $100,000 in ChatGPT, Google, and broader AI-search traffic after following article recommendations, with a dashboard screenshot of AI response growth.",
+  "question_it_answers": "What AI-search citation growth did one business report after following AEO recommendations?",
+  "claims": [
+    {
+      "id": "x-2093729321131368744#c1",
+      "text": "A business reportedly gained over $100,000 in AI-search-driven traffic after implementing article recommendations.",
+      "kind": "result",
+      "evidence": "added over $100,000 in ChatGPT, Google and broader AI search-driven traffic.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "AI Overviews responses",
+      "value": "9.7K",
+      "unit": null,
+      "source": "media"
+    },
+    {
+      "label": "ChatGPT responses",
+      "value": "1.9K",
+      "unit": null,
+      "source": "media"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2094450512938856802",
+      "web-seowins-io"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Dashboard titled AI responses showing AI Overviews at 9.7K responses and ChatGPT at 1.9K, with breakdown rows for AI Mode, Gemini, Perplexity, Copilot, and Grok.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093729321131368744",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-failed"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "x-2093729321131368744",
+  "source_type": "x",
+  "url": "https://x.com/alexgroberman/status/2093729321131368744",
+  "title": "AEO case study: $100k+ traffic lift from AI search citations",
+  "author": {
+    "name": "alexgroberman",
+    "handle": "alexgroberman",
+    "url": "https://x.com/alexgroberman"
+  }
+}

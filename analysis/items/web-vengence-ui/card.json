@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "web-vengence-ui",
+  "source_type": "website",
+  "url": "https://www.vengenceui.com/",
+  "title": "Vengeance UI: shadcn-registry animated React marketing components",
+  "author": {
+    "name": "Ashutoshx7",
+    "handle": "Ashutoshx7",
+    "url": "https://github.com/Ashutoshx7/VengeanceUI"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "landing-ui-motion",
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "react",
+    "other"
+  ],
+  "summary": "Open-source animated React component library for marketing landings: 46 shadcn-registry components across button hovers, text motion, bento layouts, displacement effects, and scroll-driven cards. Installed via npx shadcn add @vengeanceui/[component].",
+  "question_it_answers": "Which shadcn-installable library ships scroll and hover motion for marketing landings?",
+  "claims": [
+    {
+      "id": "web-vengence-ui#c1",
+      "text": "Vengeance UI ships 46 animated React components installable through the shadcn registry CLI.",
+      "kind": "capability",
+      "evidence": "46 components in 9 families. shadcn registry CLI install.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-vengence-ui#c2",
+      "text": "Install command is npx shadcn@latest add @vengeanceui/[component].",
+      "kind": "recipe",
+      "evidence": "Install via `npx shadcn@latest add @vengeanceui/[component]`.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "links": {
+    "canonical": "https://www.vengeanceui.com/",
+    "repo": "https://github.com/Ashutoshx7/VengeanceUI",
+    "paper": null,
+    "product": "https://www.vengeanceui.com/",
+    "other": [],
+    "related_items": [
+      "web-originkit-dev",
+      "web-cult-ui",
+      "github-emilkowalski-skills",
+      "github-nateherkai-scroll-craft",
+      "web-feralui-dev"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/favicon.ico",
+      "type": "other",
+      "description": null,
+      "skip_reason": "Binary favicon; no visual technique signal.",
+      "carries_technique": false
+    },
+    {
+      "path": "media/logo.png",
+      "type": "image",
+      "description": "Captured logo asset is a 404 placeholder text file, not a rendered site logo.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/web-vengence-ui",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready"
+}

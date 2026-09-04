@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "github-wuyoscar-gpt-image2-skill",
+  "source_type": "github",
+  "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+  "title": "GPT Image 2 prompt gallery, agent skill, and CLI",
+  "author": {
+    "name": "wuyoscar",
+    "handle": "@wuyoscar",
+    "url": "https://github.com/wuyoscar"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-prompt-galleries",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "codex",
+    "cli",
+    "mcp"
+  ],
+  "summary": "MIT repo bundling a curated GPT Image 2 prompt gallery with an agent skill and Python CLI. Wraps OpenAI image generation and multi-reference edits at 1k/2k/4k sizes with mask inpaint support.",
+  "question_it_answers": "How can an agent call GPT Image 2 with proven prompts via a skill or CLI?",
+  "claims": [
+    {
+      "id": "github-wuyoscar-gpt-image2-skill#c1",
+      "text": "CLI gpt-image -p runs text-to-image and multi-reference edits via OpenAI image endpoints.",
+      "kind": "capability",
+      "evidence": "CLI: `gpt-image -p \"prompt\"` with text-to-image and multi-reference edits",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "github-wuyoscar-gpt-image2-skill#c2",
+      "text": "Gallery covers research figures, posters, UI mockups, anime, typography, maps, and tattoos.",
+      "kind": "capability",
+      "evidence": "Curated prompt gallery (research figures, posters, UI mockups, anime, typography, maps, tattoos)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "image-prompt-galleries"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "5056",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://github.com/wuyoscar/GPT-Image2-Skill",
+    "repo": "https://github.com/wuyoscar/GPT-Image2-Skill",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-youmind-openlab-nano-banana-pro-prompts",
+      "web-meigen-ai",
+      "web-fal-ai",
+      "github-oso95-scroll-world",
+      "web-sceneai-art"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-wuyoscar-gpt-image2-skill",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

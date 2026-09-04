@@ -1,0 +1,90 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "ai-video-generation"
+  ],
+  "recipe_steps": [
+    "Connect Claude Desktop to Blender via the Higgsfield MCP bridge",
+    "Let Claude generate your 3D gray-box blockout scene in minutes",
+    "Tweak your camera path & render a 1080p playblast",
+    "Feed the blockout into Seedance 2.5 as a motion reference"
+  ],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2093663876692754713",
+  "source_type": "x",
+  "url": "https://x.com/JSFILMZ0412/status/2093663876692754713",
+  "title": "Blender blockout via Higgsfield MCP as Seedance 2.5 camera motion reference",
+  "author": {
+    "name": "JSFILMZ",
+    "handle": "JSFILMZ0412",
+    "url": "https://x.com/JSFILMZ0412"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:46Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "blockout-to-video-flythrough",
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "blender",
+    "higgsfield",
+    "cursor"
+  ],
+  "summary": "Four-step BESS-style workflow: connect Claude Desktop to Blender through Higgsfield MCP, generate a gray-box blockout, tweak camera path and render a 1080p playblast, then feed the blockout into Seedance 2.5 as a motion reference for precise camera control.",
+  "question_it_answers": "How do I get precise Seedance 2.5 camera moves using a Blender previs blockout?",
+  "claims": [
+    {
+      "id": "x-2093663876692754713#c1",
+      "text": "Author claims one-shot Seedance results with full camera and framing control using a Blender playblast reference.",
+      "kind": "result",
+      "evidence": "One-shot results with 100% camera & framing control.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2093377271771865267",
+      "x-2093374092795846745"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093663876692754713",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "camera-control",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

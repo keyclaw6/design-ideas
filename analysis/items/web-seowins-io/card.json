@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "web-seowins-io",
+  "source_type": "website",
+  "url": "https://seowins.io/",
+  "title": "SEO Wins paid database of 150+ SEO and AI-SEO tactics",
+  "author": {
+    "name": "Hridoy Reh",
+    "handle": "hridoyreh",
+    "url": "https://x.com/hridoyreh"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Lifetime-access playbook library listing 150+ tested SEO and AI-SEO strategies for rankings, traffic, and LLM citations across Google, Bing, ChatGPT, Perplexity, and other answer engines, sold as a one-time Lemon Squeezy purchase.",
+  "question_it_answers": "Where can I browse a catalog of proven SEO and AI-citation tactics to implement next?",
+  "claims": [
+    {
+      "id": "web-seowins-io#c1",
+      "text": "The product bundles 150+ step-by-step SEO and AI SEO strategies.",
+      "kind": "capability",
+      "evidence": "Database of **150+ battle-tested SEO and AI SEO strategies** for growing rankings, traffic, brand mentions, and AI citations",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-seowins-io#c2",
+      "text": "Lifetime license was $79 at capture (down from $179).",
+      "kind": "pricing",
+      "evidence": "SEO Wins lifetime | ~~$179~~ **$79** one-time",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "Lifetime price",
+      "value": "79",
+      "unit": "USD",
+      "source": "linked-page"
+    },
+    {
+      "label": "Strategy count",
+      "value": "150+",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://seowins.io/",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://www.youtube.com/watch?v=m7K4hKjnEG4"
+    ],
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-crowdreply",
+      "web-nqz-ai-search-prompt-generator"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-seowins-io",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

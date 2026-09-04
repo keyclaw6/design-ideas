@@ -1,0 +1,66 @@
+{
+  "schema_version": "1",
+  "id": "x-2088830609615397333",
+  "source_type": "x",
+  "url": "https://x.com/Arpit_2023/status/2088830609615397333",
+  "title": "Duplicate Amicro/Mono Charts promo by third-party account",
+  "author": {
+    "name": "@Arpit_2023",
+    "handle": "@Arpit_2023",
+    "url": null
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:32Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "duplicate",
+  "shelf_reason_code": "same-artifact-no-new-angle",
+  "shelf_reason": "Third-party @Arpit_2023 reposts the same amicro.vercel.app Mono Charts URL and bullet list already captured in x-2088599468698751328 from @SubhanHQ with no new install path or API detail.",
+  "duplicate_of": "x-2088599468698751328",
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "article",
+  "platforms": [],
+  "summary": "Third-party X promo of the Amicro/Mono Charts React chart library at amicro.vercel.app. Repeats the graphs-loaders-components pitch credited to @SubhanHQ without adding install steps or APIs beyond the primary launch post.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "raw/items/x-2088830609615397333/media/media_0.jpg",
+      "type": "image",
+      "description": "Attached video demo of Amicro/Mono Charts UI components (file stored as media_0.jpg but is MP4).",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088830609615397333",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "image-to-3d-world"
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "github-nv-tlabs-ArtiFixer",
+  "source_type": "github",
+  "url": "https://github.com/nv-tlabs/ArtiFixer",
+  "title": "NVIDIA ArtiFixer: diffusion repair for sparse 3D Gaussian reconstructions",
+  "author": {
+    "name": "NVIDIA SIL",
+    "handle": "nv-tlabs",
+    "url": "https://github.com/nv-tlabs"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:45:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "gaussian-splatting",
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Official NVIDIA SIL repo for ArtiFixer (SIGGRAPH 2026): auto-regressive diffusion models that enhance and extend 3DGRUT-based reconstructions. Ships training, eval, and data-processing code plus Hugging Face checkpoints for repairing holes in splat captures.",
+  "question_it_answers": "How do I repair sparse or incomplete 3D Gaussian splat reconstructions after capture?",
+  "claims": [
+    {
+      "id": "github-nv-tlabs-ArtiFixer#c1",
+      "text": "ArtiFixer uses auto-regressive diffusion to enhance and extend 3D reconstructions built on 3DGRUT.",
+      "kind": "capability",
+      "evidence": "Enhancing and extending 3D reconstruction with auto-regressive diffusion models (SIGGRAPH 2026)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "github-nv-tlabs-ArtiFixer#c2",
+      "text": "Hugging Face hosts artifixer-14b.pt (~16.9B) and artifixer-1.3b.pt (~1.68B) checkpoints.",
+      "kind": "availability",
+      "evidence": "Hugging Face checkpoints — `artifixer-14b.pt` (16.9B) and `artifixer-1.3b.pt` (1.68B)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "gaussian-splatting"
+    }
+  ],
+  "links": {
+    "canonical": "https://github.com/nv-tlabs/ArtiFixer",
+    "repo": "https://github.com/nv-tlabs/ArtiFixer",
+    "paper": "https://arxiv.org/abs/2603.00492",
+    "product": "https://research.nvidia.com/labs/sil/projects/artifixer/",
+    "other": [
+      "https://huggingface.co/nvidia/ArtiFixer"
+    ],
+    "related_items": [
+      "web-arcana-splat2mesh",
+      "github-oso95-scroll-world",
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "web-fal-ai",
+      "web-utsubo"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-nv-tlabs-ArtiFixer",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "camera-control",
+      "gaussian-splatting",
+      "bess-3d-flythrough"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready"
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "decode throughput",
+      "value": "90",
+      "unit": "tok/s",
+      "source": "post"
+    },
+    {
+      "label": "prior decode throughput",
+      "value": "64",
+      "unit": "tok/s",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2087962842985058365",
+  "source_type": "x",
+  "url": "https://x.com/GlennSonna/status/2087962842985058365",
+  "title": "Bonsai-1.7B hits 90 tok/s CPU decode on Android without NPU or GPU",
+  "author": {
+    "name": "Glenn Sonna",
+    "handle": "GlennSonna",
+    "url": "https://x.com/GlennSonna"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:27Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "local-inference-models",
+  "roles": [
+    "claim-source",
+    "technique"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Glenn Sonna reports PrismML Bonsai-1.7B decode rising from 64 to 90 tokens per second on the same Android device using CPU only—no NPU or GPU—and about 3× faster than the llama.cpp reference on that hardware.",
+  "question_it_answers": "What on-device decode speed was reported for Bonsai-1.7B on CPU-only Android?",
+  "claims": [
+    {
+      "id": "x-2087962842985058365#c1",
+      "text": "Bonsai-1.7B reached 90 tok/s decode on the same Android device, up from 64 tok/s, CPU only.",
+      "kind": "benchmark",
+      "evidence": "64 → 90 tok/s decode on the same Android Device.\nCPU only, no NPU, no GPU.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2087962842985058365#c2",
+      "text": "The reported speed is almost 3× faster than the llama.cpp reference on that setup.",
+      "kind": "benchmark",
+      "evidence": "Almost 3x faster than the llama.cpp reference.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "local-inference-models"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087562269807030754",
+      "x-2088281537427235320",
+      "x-2087240056037908509"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087962842985058365",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

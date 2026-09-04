@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2091835143522840732",
+  "source_type": "x",
+  "url": "https://x.com/basit_designs/status/2091835143522840732",
+  "title": "Design aesthetics compliment with no shown design or link",
+  "author": {
+    "name": "Basit A. Khan",
+    "handle": "basit_designs",
+    "url": "https://x.com/basit_designs"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:34Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "Two-sentence post ('I am falling in love with this design aesthetics. So you're?') contains no screenshot, URL, or named product in the capture, so no design reference is recoverable.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "@basit_designs asks followers if they also love unnamed design aesthetics without attaching media or linking a site, making the post engagement bait only.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091835143522840732",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1",
+  "id": "x-2091918691747189053",
+  "source_type": "x",
+  "url": "https://x.com/marmosetco/status/2091918691747189053",
+  "title": "Marmoset Toolbag 5.03 adds SpaceMouse viewport navigation",
+  "author": {
+    "name": "marmosetco",
+    "handle": "marmosetco",
+    "url": "https://x.com/marmosetco"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:53Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "Product update announcing SpaceMouse support in Marmoset Toolbag 5 viewport navigation—a DCC viewer feature outside blockout-to-video, web-3D, and landing-motion subjects in this taxonomy.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Marmoset (@marmosetco) release note for Toolbag 5.03 SpaceMouse viewport navigation for inspecting 3D scenes; standard DCC input support without a BESS or agent pipeline angle.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Promotional graphic for Marmoset Toolbag 5.03 highlighting SpaceMouse 3D mouse support for viewport camera control.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2091918691747189053",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

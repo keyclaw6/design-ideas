@@ -1,0 +1,60 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:39Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "empty-capture",
+  "shelf_reason": "The post only links a 2022 cursor.so Wayback Machine snapshot with no design breakdown, technique, or agent workflow—historical nostalgia without analyzable craft content.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Single-line X post pointing to a November 2022 Wayback archive of cursor.so with no accompanying analysis, screenshots, or reusable technique.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://web.archive.org/web/20221112173629/https://cursor.so/"
+    ],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091362595844567436",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "x-2091362595844567436",
+  "source_type": "x",
+  "url": "https://x.com/jakedahn/status/2091362595844567436",
+  "title": "Wayback snapshot of 2022 cursor.so landing page",
+  "author": {
+    "name": "jakedahn",
+    "handle": "jakedahn",
+    "url": "https://x.com/jakedahn"
+  }
+}

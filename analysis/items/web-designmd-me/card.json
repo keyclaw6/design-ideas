@@ -1,0 +1,86 @@
+{
+  "schema_version": "1",
+  "id": "web-designmd-me",
+  "source_type": "website",
+  "url": "https://designmd.me",
+  "title": "designmd.me — blocked DESIGN.md ecosystem URL stub",
+  "author": {
+    "name": null,
+    "handle": null,
+    "url": null
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "designmd.me is listed in the DESIGN.md tools thread but capture failed behind a Vercel Security Checkpoint HTTP 429. No page body was retrieved; kept as a re-harvest pointer in the DESIGN.md cluster.",
+  "question_it_answers": "Which DESIGN.md ecosystem URL failed capture and needs a browser re-harvest?",
+  "claims": [
+    {
+      "id": "web-designmd-me#c1",
+      "text": "Direct fetch and r.jina.ai both returned HTTP 429 Vercel Security Checkpoint with no readable body.",
+      "kind": "availability",
+      "evidence": "Site blocked behind Vercel Security Checkpoint (HTTP 429) on both direct fetch and r.jina.ai.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://designmd.me",
+    "repo": null,
+    "paper": null,
+    "product": "https://designmd.me",
+    "other": [
+      "https://github.com/google-labs-code/design.md"
+    ],
+    "related_items": [
+      "web-designmd-supply",
+      "web-typeui-sh",
+      "github-google-labs-code-design-md",
+      "web-sokosumi-design-md",
+      "web-getdesign-md"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-designmd-me",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

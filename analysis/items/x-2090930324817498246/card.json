@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "DeepSeek-V4-Flash throughput",
+      "value": "25",
+      "unit": "tok/s",
+      "source": "post"
+    },
+    {
+      "label": "speedup vs llama.cpp",
+      "value": "1.46",
+      "unit": "x",
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [],
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2090930324817498246",
+  "source_type": "x",
+  "url": "https://x.com/Hesamation/status/2090930324817498246",
+  "title": "Unnamed Berkeley/MIT inference engine benchmarks vs llama.cpp and Ollama",
+  "author": {
+    "name": "Hesamation",
+    "handle": "Hesamation",
+    "url": "https://x.com/Hesamation"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:51Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "local-inference-models",
+  "roles": [
+    "claim-source"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Promotional thread claiming UC Berkeley and MIT researchers open-sourced a new inference engine running DeepSeek-V4-Flash 284B at 25 tok/s on an RTX 5090, 1.46× faster than llama.cpp, and up to 3× faster than Ollama on Qwen3.6-35B. No repo URL in the captured post.",
+  "question_it_answers": "What throughput claims were made for the unnamed Berkeley/MIT inference engine?",
+  "claims": [
+    {
+      "id": "x-2090930324817498246#c1",
+      "text": "The engine runs DeepSeek-V4-Flash 284B at 25 tok/s on an RTX 5090 system.",
+      "kind": "benchmark",
+      "evidence": "> runs DeepSeek-V4-Flash 284B at 25 tok/s with a RTX 5090 system",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "unverified",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2090930324817498246#c2",
+      "text": "Reported 1.46× faster than llama.cpp on the same test; Ollama cannot serve that model.",
+      "kind": "benchmark",
+      "evidence": "> 1.46x faster than llama.cpp on the same test. Ollama can’t even serve it",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "unverified",
+      "subject": "local-inference-models"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2090930324817498246",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "ready-with-gaps"
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2088277946918142211",
+  "source_type": "x",
+  "url": "https://x.com/10_X_eng/status/2088277946918142211",
+  "title": "VibeCAD exploded-view and simulation progress demo",
+  "author": {
+    "name": "RobitOverload",
+    "handle": "10_X_eng",
+    "url": "https://x.com/10_X_eng"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:28Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "other"
+  ],
+  "summary": "@10_X_eng shows VibeCAD progress on exploded mechanical views and motion simulations, arguing the workflow is becoming usable for verifying assemblies before fabrication.",
+  "question_it_answers": "Can prompt-to-CAD tools produce exploded views and simulations as an acceptance test?",
+  "claims": [
+    {
+      "id": "x-2088277946918142211#c1",
+      "text": "VibeCAD now supports exploded views and simulations of mechanical assemblies.",
+      "kind": "capability",
+      "evidence": "More VibeCAD work on the exploded views and simulations.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2088277946918142211#c2",
+      "text": "The author says the workflow is becoming decent and very usable.",
+      "kind": "opinion",
+      "evidence": "I honestly think this is getting to the place where its very decent and very usable.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "exploded-view-cad",
+    "cad-motion-simulation"
+  ],
+  "tools": [
+    "vibecad"
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2088252062454751483",
+      "x-2088296314484162719",
+      "x-2087272209429766596"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088277946918142211",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "keyboard-pcb"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "media-undescribed"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2089618415493218381",
+  "source_type": "x",
+  "url": "https://x.com/uidotcamera/status/2089618415493218381",
+  "title": "Departure Mono type specimen site as typography-led landing reference",
+  "author": {
+    "name": "uidotcamera",
+    "handle": "uidotcamera",
+    "url": "https://x.com/uidotcamera"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:48Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "landing-ui-motion",
+  "roles": [
+    "reference",
+    "example"
+  ],
+  "artifact_type": "demo-image",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Short pointer to departuremono.com, highlighted as an unusually crafted font marketing site. The live specimen page is the artifact: scroll-driven typography, grid, and motion useful as a DESIGN.md moodboard for non-agent-default landings.",
+  "question_it_answers": "Which type specimen site was cited as a typography-led landing motion reference?",
+  "claims": [
+    {
+      "id": "x-2089618415493218381#c1",
+      "text": "departuremono.com is presented as an exceptionally crafted font marketing website.",
+      "kind": "opinion",
+      "evidence": "The craziest font website ever https://departuremono.com",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "links": {
+    "canonical": "https://departuremono.com",
+    "repo": null,
+    "paper": null,
+    "product": "https://departuremono.com",
+    "other": [],
+    "related_items": [
+      "web-feralui-dev",
+      "web-recent-design",
+      "web-cartier-ballon-bleu",
+      "github-nateherkai-scroll-craft"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2089618415493218381",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

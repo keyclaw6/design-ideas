@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2094424821450817563",
+  "source_type": "x",
+  "url": "https://x.com/fivosaresti/status/2094424821450817563",
+  "title": "Employee-led LinkedIn GTM playbook — comment TEAM engagement bait",
+  "author": {
+    "name": "@fivosaresti",
+    "handle": "@fivosaresti",
+    "url": null
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:54:39Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "Founder GTM thread sells an Employee-Led Content Playbook gated behind Comment TEAM and a follow requirement. Lists meeting-booking stats and tool stack but provides no downloadable artifact in the captured post.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "article",
+  "platforms": [],
+  "summary": "X thread arguing B2B deals need many stakeholder touchpoints via employee personal brands on LinkedIn. Promotes a free playbook only via Comment TEAM DM gate with no attached link or file in the capture.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2094424821450817563",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:24Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "The post urges bookmarking a 60-minute Demis Hassabis Cambridge lecture but includes no video URL, slides, or takeaways—only FOMO framing with zero linked artifact.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "X post telling readers to skip Netflix for a Hassabis Cambridge AI lecture, with no captured link or content beyond a generic bookmark call-to-action.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2077359594666651900",
+      "web-chatgpt-training"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2077376352630845499",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "x-2077376352630845499",
+  "source_type": "x",
+  "url": "https://x.com/TechWithLilyAi/status/2077376352630845499",
+  "title": "Demis Hassabis Cambridge lecture bookmark bait without a link",
+  "author": {
+    "name": "Lily",
+    "handle": "TechWithLilyAi",
+    "url": "https://x.com/TechWithLilyAi"
+  }
+}

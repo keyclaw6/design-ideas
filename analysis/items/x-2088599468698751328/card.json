@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2088599468698751328",
+  "source_type": "x",
+  "url": "https://x.com/SubhanHQ/status/2088599468698751328",
+  "title": "Mono Charts: CLI-installable animated React chart components (Amicro)",
+  "author": {
+    "name": "SubhanHQ",
+    "handle": "SubhanHQ",
+    "url": "https://x.com/SubhanHQ"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:50Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "infographics-diagrams",
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "react"
+  ],
+  "summary": "Announcement of Mono Charts under the Amicro open-source UI collection: minimal animated React chart components installable with a single CLI command. Demo at amicro.vercel.app for marketing dashboards that need motion without a heavy viz stack.",
+  "question_it_answers": "Where can I get animated, CLI-installable React chart primitives for landing stats?",
+  "claims": [
+    {
+      "id": "x-2088599468698751328#c1",
+      "text": "Mono Charts is a collection of minimal, animated chart components for React, open source under Amicro.",
+      "kind": "capability",
+      "evidence": "A collection of minimal, animated chart components for React.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2088599468698751328#c2",
+      "text": "Charts install with a single CLI command.",
+      "kind": "recipe",
+      "evidence": "Now you can add beautiful, interactive charts to your app with a single CLI command.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    }
+  ],
+  "links": {
+    "canonical": "https://amicro.vercel.app",
+    "repo": null,
+    "paper": null,
+    "product": "https://amicro.vercel.app",
+    "other": [],
+    "related_items": [
+      "github-antvis-infographic",
+      "web-flint-chart",
+      "x-2089372767934115883",
+      "x-2088830609615397333"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Demo video showing animated Mono Charts React components with minimal styling on a dark UI.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088599468698751328",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "infographics",
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

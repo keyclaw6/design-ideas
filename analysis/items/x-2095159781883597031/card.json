@@ -1,0 +1,83 @@
+{
+  "schema_version": "1",
+  "id": "x-2095159781883597031",
+  "source_type": "x",
+  "url": "https://x.com/hayashimon1/status/2095159781883597031",
+  "title": "Blender MCP plus Fable 5.1 builds city mesh from equirectangular panorama",
+  "author": {
+    "name": null,
+    "handle": "@hayashimon1",
+    "url": "https://x.com/hayashimon1"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:54:40Z",
+  "lang": "ja",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "image-to-3d-world",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "blender",
+    "mcp"
+  ],
+  "summary": "Japanese X post showing Blender MCP with Fable 5.1 building a dense city model from an equirectangular panorama in one shot. Author estimates manual equivalent at three person-days of work.",
+  "question_it_answers": "Can Blender MCP plus Fable 5.1 reconstruct a detailed city mesh from a panorama image in one pass?",
+  "claims": [
+    {
+      "id": "x-2095159781883597031#c1",
+      "text": "Blender MCP with Fable 5.1 built a high-detail city model from an equirectangular panorama in one attempt.",
+      "kind": "result",
+      "evidence": "右のエクイレクタングラー方式の都市パノラマ画像をリソースとして都市を構築させたところ、一発でこの情報量のモデルが完成。",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "image-to-3d-world"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2095159781883597031",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "translation-needed"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

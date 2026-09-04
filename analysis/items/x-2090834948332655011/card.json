@@ -1,0 +1,107 @@
+{
+  "schema_version": "1",
+  "id": "x-2090834948332655011",
+  "source_type": "x",
+  "url": "https://x.com/juampitech/status/2090834948332655011",
+  "title": "Community ranked top 10 anti-slop writing skills on skills.sh",
+  "author": {
+    "name": "juampitech",
+    "handle": "juampitech",
+    "url": "https://x.com/juampitech"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:52:36Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "cursor",
+    "claude-code"
+  ],
+  "summary": "Curated X thread ranking ten installable anti-slop skills—stop-slop, no-ai-slop, humanizer variants, unslop, deslop, and anti-ai-slop-writing—with direct skills.sh links as a shopping list for prose humanizers.",
+  "question_it_answers": "Which community anti-slop writing skills should I install from skills.sh?",
+  "claims": [
+    {
+      "id": "x-2090834948332655011#c1",
+      "text": "Thread lists ten ranked anti-slop skills with skills.sh install URLs.",
+      "kind": "recipe",
+      "evidence": "Post got a lot of traction, so I made a rank with the anti-slop skills people need to install.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://skills.sh/hardikpandya/stop-slop",
+      "https://skills.sh/petergyang/no-ai-slop/no-ai-slop",
+      "https://skills.sh/blader/humanizer",
+      "https://skills.sh/cursor/plugins/unslop",
+      "https://skills.sh/ehmo/slopkit/slopbeth",
+      "https://skills.sh/Aboudjem/humanizer-skill/humanizer",
+      "https://skills.sh/stephenturner/skills/deslop",
+      "https://skills.sh/elithrar/dotfiles/anti-slop",
+      "https://skills.sh/aashaexo/soundshuman/humanize",
+      "https://skills.sh/jalaalrd/anti-ai-slop-writing/anti-ai-slop-writing"
+    ],
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "x-2088742864310481025",
+      "x-2089457435459404093",
+      "github-emilkowalski-skills",
+      "github-pbakaus-impeccable"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Black card graphic reading Top 10 anti-slop skills writing rank with GitHub Skills header and @juampitech handle.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2090834948332655011",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-leonxlnx-taste-skill",
+      "github-pbakaus-impeccable"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Index of community humanizer packs; pick one writing skill plus one visual anti-slop pack."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

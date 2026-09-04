@@ -1,0 +1,110 @@
+{
+  "schema_version": "1",
+  "id": "x-2088254428730085690",
+  "source_type": "x",
+  "url": "https://x.com/pbakaus/status/2088254428730085690",
+  "title": "Impeccable 4.1 release — critique, native review, live mode fixes",
+  "author": {
+    "name": "Paul Bakaus",
+    "handle": "@pbakaus",
+    "url": "https://x.com/pbakaus"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:39Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "cursor",
+    "codex",
+    "cli"
+  ],
+  "summary": "Paul Bakaus announces Impeccable 4.1 with 43 PRs: chat critique reliability, calmer design hooks, native iOS/Android reviews, Windows install fixes, and live mode on ddev/valet hosts.",
+  "question_it_answers": "What changed in Impeccable 4.1 for critique, native apps, and live-mode dev hosts?",
+  "claims": [
+    {
+      "id": "x-2088254428730085690#c1",
+      "text": "Critique results print in chat before follow-up questions more reliably.",
+      "kind": "capability",
+      "evidence": "critique results more reliably prints in chat before asking you questions",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2088254428730085690#c2",
+      "text": "Live mode now works on ddev, valet, and other non-localhost dev hosts.",
+      "kind": "capability",
+      "evidence": "works on ddev, valet, and other non-localhost dev hosts",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2088254428730085690#c3",
+      "text": "Install or upgrade via npx impeccable install at impeccable.style.",
+      "kind": "recipe",
+      "evidence": "npx impeccable install",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "http://impeccable.style",
+    "repo": "https://github.com/pbakaus/impeccable",
+    "paper": null,
+    "product": "http://impeccable.style",
+    "other": [],
+    "related_items": [
+      "github-pbakaus-impeccable",
+      "github-emilkowalski-skills",
+      "github-leonxlnx-taste-skill",
+      "x-2086715093707063445",
+      "github-google-labs-code-design-md"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088254428730085690",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-pbakaus-impeccable"
+    ],
+    "must_read": true,
+    "why_must_read": "Latest Impeccable changelog before install or upgrade."
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

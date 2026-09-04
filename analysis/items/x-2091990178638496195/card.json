@@ -1,0 +1,102 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "background thinking cost",
+      "value": "1-2",
+      "unit": "USD/hour",
+      "source": "post"
+    }
+  ],
+  "techniques": [
+    "persistent-agent-loop"
+  ],
+  "tools": [
+    "headlong"
+  ],
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "x-2091990178638496195",
+  "source_type": "x",
+  "url": "https://x.com/andykonwinski/status/2091990178638496195",
+  "title": "Headlong — open microharness for always-on persistent agents",
+  "author": {
+    "name": "Andy Konwinski",
+    "handle": "andykonwinski",
+    "url": "https://x.com/andykonwinski"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:50Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "agent-harness-loops",
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cli"
+  ],
+  "summary": "Headlong is an open-source Bash microharness (<10K LOC) where agents generate continuous inner thoughts, accept Slack/Telegram messages as observations, and self-direct fixes — installable via curl from headlong.ai.",
+  "question_it_answers": "How does a persistent agent harness differ from reactive task-completion loops?",
+  "claims": [
+    {
+      "id": "x-2091990178638496195#c1",
+      "text": "Headlong agents never sleep; they keep self-guided thought streams between external messages.",
+      "kind": "capability",
+      "evidence": "A Headlong agent is never asleep. It keeps generating thoughts about whatever it decides is interesting, in a self-guided loop inspired by human inner monologue.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2091990178638496195#c2",
+      "text": "Background thinking reportedly costs about one to two dollars per hour in the authors' internal deployment.",
+      "kind": "pricing",
+      "evidence": "Background thinking costs us $1 to $2 an hour",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": "https://github.com/laude-institute/headlong",
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "https://headlong.ai/install.sh"
+    ],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091990178638496195",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

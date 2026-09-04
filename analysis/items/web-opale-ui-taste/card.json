@@ -1,0 +1,99 @@
+{
+  "schema_version": "1",
+  "id": "web-opale-ui-taste",
+  "source_type": "website",
+  "url": "https://opale-ui.design/blog/taste",
+  "title": "Opale UI essay: encoding personal design taste into agent skills",
+  "author": {
+    "name": "Elyes Rayane Melbouci",
+    "handle": null,
+    "url": "https://opale-ui.design/"
+  },
+  "published_at": "2026-02-01",
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "technique",
+    "reference"
+  ],
+  "artifact_type": "article",
+  "platforms": [
+    "cursor",
+    "other"
+  ],
+  "summary": "Opale UI blog essay arguing developers should encode their own likes and dislikes into SKILL.md files and persona prompts instead of downloading generic packs, with examples spanning scroll 3D, WebGL liquid, and anti-slop rationale.",
+  "question_it_answers": "How do you make a design/taste skill file reflect your personal aesthetic instead of generic AI slop?",
+  "claims": [
+    {
+      "id": "web-opale-ui-taste#c1",
+      "text": "The essay recommends writing why you hate or love specific UI patterns into skills so taste becomes scalable through iterative refinement, not one-shot downloads.",
+      "kind": "recipe",
+      "evidence": "when you hate something, write why in skills; when you love something, capture the reasoning",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "taste-skill-encoding",
+    "anti-slop-design-rationale"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://opale-ui.design/blog/taste",
+    "repo": null,
+    "paper": null,
+    "product": "https://opale-ui.design/",
+    "other": [],
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/og-image.png",
+      "type": "image",
+      "description": "Saved og-image file is an HTML 404 page from opale-ui.design, not a rendered social preview image.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/web-opale-ui-taste",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design",
+      "three-js",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-leonxlnx-taste-skill",
+      "github-pbakaus-impeccable"
+    ],
+    "must_read": true,
+    "why_must_read": "Personalization method for taste skills beyond shared packs."
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

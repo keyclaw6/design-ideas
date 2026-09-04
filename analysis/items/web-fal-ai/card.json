@@ -1,0 +1,115 @@
+{
+  "schema_version": "1",
+  "id": "web-fal-ai",
+  "source_type": "website",
+  "url": "https://fal.ai",
+  "title": "fal.ai unified generative media API and GPU platform",
+  "author": {
+    "name": "fal",
+    "handle": "fal",
+    "url": "https://fal.ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:56:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-video-generation",
+  "secondary_subjects": [
+    "image-prompt-galleries"
+  ],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "fal",
+    "cli"
+  ],
+  "summary": "Developer platform offering 1,000+ image, video, audio, and 3D model APIs plus serverless and dedicated GPU compute, with homepage samples including MiniMax H3 Max, FLUX 3, and Seedance 2.5.",
+  "question_it_answers": "Which hosted API should I use to call Seedance, MiniMax, or FLUX video models from agents?",
+  "claims": [
+    {
+      "id": "web-fal-ai#c1",
+      "text": "fal hosts 1,000+ production-ready generative media models behind one API.",
+      "kind": "capability",
+      "evidence": "1,000+ production-ready image/video/audio/3D models via unified API",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    },
+    {
+      "id": "web-fal-ai#c2",
+      "text": "Homepage highlights MiniMax H3 Max and Seedance 2.5 image-to-video endpoints.",
+      "kind": "availability",
+      "evidence": "MiniMax H3 Max Text-to-Video / Image-to-Video; FLUX 3 Image-to-Video; Seedance 2.5 Image-to-Video",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [
+    {
+      "label": "Developers",
+      "value": "1.5M+",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "Model count",
+      "value": "1000+",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "genmedia-api-routing"
+  ],
+  "tools": [
+    "fal-api"
+  ],
+  "links": {
+    "canonical": "https://fal.ai",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://fal.ai/docs/documentation",
+      "https://fal.ai/docs/llms.txt",
+      "https://fal.ai/explore"
+    ],
+    "related_items": [
+      "github-nexu-io-html-video",
+      "web-meigen-ai",
+      "github-oso95-scroll-world"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-fal-ai",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

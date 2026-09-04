@@ -1,0 +1,63 @@
+{
+  "schema_version": "1",
+  "id": "x-2087873421094896122",
+  "source_type": "x",
+  "url": "https://x.com/trending_repos/status/2087873421094896122",
+  "title": "Trending-repos star spike for cathrynlavery/diagram-design repo",
+  "author": {
+    "name": "Trending GitHub Repositories",
+    "handle": "trending_repos",
+    "url": "https://x.com/trending_repos"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:37Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "duplicate",
+  "shelf_reason_code": "same-artifact-no-new-angle",
+  "shelf_reason": "@trending_repos reposts cathrynlavery/diagram-design star counts (+2,855 in 24h) without examples, forks, or technique detail already captured in github-cathrynlavery-diagram-design.",
+  "duplicate_of": "github-cathrynlavery-diagram-design",
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Aggregator tweet noting diagram-design gained 2,855 stars in 24 hours (12,709 total) and linking the GitHub repo; no new angle beyond the primary library item.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/trending_repos/status/2087873421094896122",
+    "repo": "https://github.com/cathrynlavery/diagram-design",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-cathrynlavery-diagram-design",
+      "github-antvis-infographic",
+      "x-2087329201451855933",
+      "x-2088016749849682120"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087873421094896122",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

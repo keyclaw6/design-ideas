@@ -1,0 +1,111 @@
+{
+  "schema_version": "1",
+  "id": "github-emilkowalski-skills",
+  "source_type": "github",
+  "url": "https://github.com/emilkowalski/skills",
+  "title": "Emil Kowalski agent skills pack for animation and UI craft",
+  "author": {
+    "name": "Emil Kowalski",
+    "handle": "@emilkowalski",
+    "url": "https://github.com/emilkowalski"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cursor",
+    "codex",
+    "cli"
+  ],
+  "summary": "GitHub skill pack from Emil Kowalski encoding animation and UI craft for coding agents. Install via npx skills; includes emil-design-eng, animate, and review-animations skills that correct common agent UI mistakes.",
+  "question_it_answers": "Which installable skill pack teaches agents motion taste and UI craft from Vercel/Linear practice?",
+  "claims": [
+    {
+      "id": "github-emilkowalski-skills#c1",
+      "text": "Skills list typical agent mistakes like wrong easing and solid borders instead of shadows.",
+      "kind": "capability",
+      "evidence": "Agents don't have great taste.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-emilkowalski-skills#c2",
+      "text": "Install via npx skills@latest add emilkowalski/skills.",
+      "kind": "recipe",
+      "evidence": "Install: `npx skills@latest add emilkowalski/skills`.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://github.com/emilkowalski/skills",
+    "repo": "https://github.com/emilkowalski/skills",
+    "paper": null,
+    "product": "https://skills.sh/emilkowalski/skills",
+    "other": [
+      "https://animations.dev/skills"
+    ],
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "github-pbakaus-impeccable",
+      "github-jakubkrehel-skills",
+      "web-opale-ui-taste",
+      "github-nexu-io-motion-anything"
+    ]
+  },
+  "media": [
+    {
+      "path": "raw/items/github-emilkowalski-skills/media/og-image.png",
+      "type": "image",
+      "description": "GitHub repo social preview card showing a butter emoji centered on a black background.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/github-emilkowalski-skills",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-pbakaus-impeccable",
+      "github-leonxlnx-taste-skill"
+    ],
+    "must_read": true,
+    "why_must_read": "Canonical motion-taste skill pack referenced across design-agent items."
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

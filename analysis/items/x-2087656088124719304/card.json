@@ -1,0 +1,84 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-04T07:32:02Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "landing-ui-motion"
+  ],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "react"
+  ],
+  "summary": "pdfcn from @shadcnlabs is an OSS, shadcn/ui-compatible PDF document kit with 10+ themes and copy-paste blocks for invoices and reports, built on Takumi and Forme with one-command setup.",
+  "question_it_answers": "How do I generate branded PDFs that match an existing shadcn/ui design system?",
+  "claims": [
+    {
+      "id": "x-2087656088124719304#c1",
+      "text": "pdfcn offers shadcn/ui-compatible PDF components with 10+ themes and zero-config setup.",
+      "kind": "capability",
+      "evidence": "@shadcn /ui compatible (simply copy-paste)",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "web-cult-ui",
+      "github-google-labs-code-design-md",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087656088124719304",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-failed"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "x-2087656088124719304",
+  "source_type": "x",
+  "url": "https://x.com/alaymanguy/status/2087656088124719304",
+  "title": "pdfcn: shadcn-compatible open-source PDF component kit",
+  "author": {
+    "name": "alaymanguy",
+    "handle": "alaymanguy",
+    "url": "https://x.com/alaymanguy"
+  }
+}

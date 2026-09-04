@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2087263510090874911",
+  "source_type": "x",
+  "url": "https://x.com/1kartikkabadi1/status/2087263510090874911",
+  "title": "Pi AGENTS.md grill workflow with four taste skills and /handoff at 100k",
+  "author": {
+    "name": "1kartikkabadi1",
+    "handle": "1kartikkabadi1",
+    "url": "https://x.com/1kartikkabadi1"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:18Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "technique"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "pi"
+  ],
+  "summary": "Personal Pi workflow loads ponytail, grilling, wayfinder, and ask-matt via AGENTS.md, forces a long interrogation pass, then uses a custom /handoff extension at 100k tokens to continue across sessions.",
+  "question_it_answers": "How do you preserve human taste decisions across long Pi coding sessions?",
+  "claims": [
+    {
+      "id": "x-2087263510090874911#c1",
+      "text": "AGENTS.md auto-loads four skills and the agent grills the human across roughly a hundred questions before building.",
+      "kind": "recipe",
+      "evidence": "AGENTS.md auto loads up these 4 skills:\nponytail\ngrilling\nwayfinder\nask-matt",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087263510090874911#c2",
+      "text": "A custom /handoff Pi extension writes a continuation document when context reaches 100k tokens.",
+      "kind": "capability",
+      "evidence": "I have a custom Pi extension called /handoff that when the context window reaches 100k it asks the model to produce a handoff document",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2086715093707063445",
+      "github-leonxlnx-taste-skill",
+      "x-2087304957011911157",
+      "x-2082316720086405524"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087263510090874911",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-leonxlnx-taste-skill",
+      "x-2087304957011911157"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Documents grill-then-handoff harness for design-quality repos on Pi."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

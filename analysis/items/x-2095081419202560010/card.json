@@ -1,0 +1,112 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2095081419202560010",
+  "source_type": "x",
+  "url": "https://x.com/gojiberryai/status/2095081419202560010",
+  "title": "GojiberryAI open-sources 13-agent outbound sales OS for Grok Bot + MCP",
+  "author": {
+    "name": "Gojiberry AI",
+    "handle": "gojiberryai",
+    "url": "https://x.com/gojiberryai"
+  },
+  "published_at": "2026-09-02T09:28:29Z",
+  "captured_at": "2026-09-02T17:38:09Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "outbound-gtm-agents",
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "grok-bot",
+    "mcp"
+  ],
+  "summary": "GojiberryAI published gojiberryai-sales-os: 13 markdown-defined sales agents (strategy, prospecting, intelligence, outreach) running in Grok Bot via hosted MCP at mcp.gojiberry.ai. Live pipeline requires a Gojiberry account; repo is propose-don't-send by default.",
+  "question_it_answers": "How does the open-source Gojiberry sales OS wire 13 agents into Grok Bot via MCP?",
+  "claims": [
+    {
+      "id": "x-2095081419202560010#c1",
+      "text": "The repo defines 13 AI sales agents running inside Grok Bot powered by GojiberryAI MCP.",
+      "kind": "capability",
+      "evidence": "13 AI sales agents.\nRunning inside Grok Bot.\nPowered by the GojiberryAI MCP.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2095081419202560010#c2",
+      "text": "README states live prospecting requires MCP auth: No MCP, no live pipeline.",
+      "kind": "capability",
+      "evidence": "No MCP, no live pipeline.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "research.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "links": {
+    "canonical": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "repo": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "paper": null,
+    "product": "https://gojiberry.ai/",
+    "other": [
+      "https://mcp.gojiberry.ai/mcp"
+    ],
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "Video thumbnail showing the Gojiberry Sales OS agent roster diagram with role icons.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": "Screen recording walkthrough of the 13-agent Gojiberry outbound sales OS structure.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095081419202560010",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

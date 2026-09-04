@@ -1,0 +1,74 @@
+{
+  "schema_version": "1",
+  "id": "x-2087893705059356898",
+  "source_type": "x",
+  "url": "https://x.com/theroborourke/status/2087893705059356898",
+  "title": "Rob O'Rourke free agency sales framework PDF lead magnet",
+  "author": {
+    "name": "Rob O'Rourke",
+    "handle": "theroborourke",
+    "url": "https://x.com/theroborourke"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:27Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "Promotes a 44-page freelancer/agency sales-call PDF for $20k–$100k deals; the harvested folder has no PDF and the artifact is outbound sales methodology outside the design/3D/agent-stack taxonomy.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "X post funnels to Rob O'Rourke's free 44-page agency sales framework PDF; cover screenshot only, no download in capture, and content is services sales not a design or agent artifact.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "web-graphed",
+      "x-2087827123331383751"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "3D book mockup titled The Sales Conversation with orange Pac-Man graphic eating dollar signs and profitableskills.com footer.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2087893705059356898",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-romangojiberryAI-gojiberryai-sales-os"
+    ],
+    "must_read": [
+      "research.md"
+    ],
+    "why_must_read": "Outbound sales playbook; use gojiberry if KB needs GTM machinery."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

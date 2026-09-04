@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "id": "web-cult-ui",
+  "source_type": "website",
+  "url": "https://www.cult-ui.com/",
+  "title": "Cult UI: shadcn components plus 92+ AI SDK agent patterns",
+  "author": {
+    "name": "nolly-studio",
+    "handle": null,
+    "url": "https://github.com/nolly-studio"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "react",
+    "mcp"
+  ],
+  "summary": "Cult UI is an MIT Tailwind/shadcn-compatible component library paired with 92+ live-preview AI SDK agent patterns and Cult Pro templates, including directory/SEO starters and Firecrawl-based research agents.",
+  "question_it_answers": "Where can I copy marketing UI blocks and ready-made AI SDK agent architectures in one place?",
+  "claims": [
+    {
+      "id": "web-cult-ui#c1",
+      "text": "Cult UI bundles copy-paste React components with agent pattern examples such as competitor research via Firecrawl map+scrape and a Cult SEO directory template.",
+      "kind": "capability",
+      "evidence": "Competitor Research Agent — Firecrawl Map + Parallel Scrape; Starter templates: Logo GPT, Directory (SEO listings), Cult SEO",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "ai-sdk-agent-patterns",
+    "shadcn-component-copy"
+  ],
+  "tools": [
+    "cult-ui"
+  ],
+  "links": {
+    "canonical": "https://www.cult-ui.com/",
+    "repo": "https://github.com/nolly-studio/cult-ui",
+    "paper": null,
+    "product": "https://pro.cult-ui.com/",
+    "other": [
+      "https://aisdkagents.com/directory",
+      "https://cult-ui.com/docs"
+    ],
+    "related_items": [
+      "web-originkit-dev",
+      "web-vengence-ui"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/og.png",
+      "type": "image",
+      "description": "Cult UI OG image with cosmic-gradient headline 'Copy & Paste. The Full Stack.' above logos for Stripe, Framer, OpenAI, Next.js, Supabase, and similar stack icons.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/web-cult-ui",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-originkit-dev",
+      "web-vengence-ui"
+    ],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

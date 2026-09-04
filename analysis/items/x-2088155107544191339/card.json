@@ -1,0 +1,109 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "motion-prompt-code-film"
+  ],
+  "tools": [
+    "claude-motion-prompt"
+  ],
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "x-2088155107544191339",
+  "source_type": "x",
+  "url": "https://x.com/kaddisdeployed/status/2088155107544191339",
+  "title": "Claude Motion Prompt skill — code-built promo films with HTML player",
+  "author": {
+    "name": "kaddisdeployed",
+    "handle": "kaddisdeployed",
+    "url": "https://x.com/kaddisdeployed"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:23Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "code-motion-graphics",
+  "roles": [
+    "technique",
+    "tool"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "claude-code"
+  ],
+  "summary": "Claude Motion Prompt skill turns a plain-English script into a code-rendered promo: beat sheet, coded frames, finished MP4, and scrubbable HTML player — no After Effects or generative video model.",
+  "question_it_answers": "How do you ship a short promo film from one Claude prompt without a video model?",
+  "claims": [
+    {
+      "id": "x-2088155107544191339#c1",
+      "text": "One prompt yields both a finished MP4 and an interactive HTML player you can scrub frame by frame.",
+      "kind": "capability",
+      "evidence": "→ gives you a finished .mp4 + interactive .html player",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2088155107544191339#c2",
+      "text": "The workflow builds frames with code rather than AI-generated images or video.",
+      "kind": "capability",
+      "evidence": "this entire animation was made with code, not AI-generated images or video.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://docs.google.com/document/d/13HUxIbnPr_gBO6rKI0Cbx2Zbka6-JP2B7etBri8ELdg"
+    ],
+    "related_items": [
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "x-2086030681772376399"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Vertical demo reel: neon glass synthwave product motion graphics and a picture-in-picture host reacting to the coded animation output.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088155107544191339",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "ui-motion",
+      "video-generation",
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

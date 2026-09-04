@@ -1,0 +1,88 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "mcp"
+  ],
+  "summary": "design-md.hyperbrowser.ai is a web extractor that reads a live site via Hyperbrowser and emits a Google-format DESIGN.md; the API key is stored locally in the browser only.",
+  "question_it_answers": "How do I generate a DESIGN.md from a live URL using Hyperbrowser?",
+  "claims": [
+    {
+      "id": "web-design-md-hyperbrowser#c1",
+      "text": "The tool follows Google's open DESIGN.md specification for token and prose output.",
+      "kind": "capability",
+      "evidence": "Follows Google's open DESIGN.md standard.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://design-md.hyperbrowser.ai/",
+    "repo": null,
+    "paper": null,
+    "product": "https://design-md.hyperbrowser.ai/",
+    "other": [
+      "https://github.com/google-labs-code/design.md"
+    ],
+    "related_items": [
+      "github-google-labs-code-design-md",
+      "web-sokosumi-design-md",
+      "web-getdesign-md"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-design-md-hyperbrowser",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "web-design-md-hyperbrowser",
+  "source_type": "website",
+  "url": "https://design-md.hyperbrowser.ai",
+  "title": "DESIGNMD: Hyperbrowser-powered DESIGN.md extractor for any URL",
+  "author": {
+    "name": "Hyperbrowser",
+    "handle": "hyperbrowser",
+    "url": "https://hyperbrowser.ai/"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "web-tinyshots",
+  "source_type": "website",
+  "url": "https://tinyshots.app",
+  "title": "TinyShots macOS screenshot polish app with agent-facing CLI",
+  "author": {
+    "name": "TinyShots",
+    "handle": "TinyShots",
+    "url": "https://tinyshots.app"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:56:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "cli",
+    "other"
+  ],
+  "summary": "macOS menu-bar app for polished marketing screenshots—backgrounds, annotations, Vision background removal, and compositions—with a full CLI for batch presets aimed at Claude Code and other agents.",
+  "question_it_answers": "What offline tool polishes product screenshots and exposes a CLI for agent pipelines?",
+  "claims": [
+    {
+      "id": "web-tinyshots#c1",
+      "text": "TinyShots provides on-device Vision background removal and a CLI for batch agent workflows.",
+      "kind": "capability",
+      "evidence": "Full command-line interface for batch processing and agent workflows",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "early bird price",
+      "value": "39",
+      "unit": "USD",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "tinyshots"
+  ],
+  "links": {
+    "canonical": "https://tinyshots.app",
+    "repo": null,
+    "paper": null,
+    "product": "https://tinyshots.app",
+    "other": [],
+    "related_items": [
+      "web-tinyshelf",
+      "web-animos-editor",
+      "web-lottiefiles",
+      "github-nateherkai-scroll-craft",
+      "web-dicebear"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-tinyshots",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "ui-motion",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-tinyshelf",
+      "web-animos-editor"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Marketing-asset pipeline hook for landing polish without After Effects."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

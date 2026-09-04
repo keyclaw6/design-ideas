@@ -1,0 +1,123 @@
+{
+  "schema_version": "1",
+  "id": "x-2094984529853530345",
+  "source_type": "x",
+  "url": "https://x.com/himanshubuildss/status/2094984529853530345",
+  "title": "Scroll-scrubbed 300-frame landing via Gemini video and Framer Motion",
+  "author": {
+    "name": "Himanshu Hingorani",
+    "handle": "himanshubuildss",
+    "url": "https://x.com/himanshubuildss"
+  },
+  "published_at": "2026-09-02T03:03:29Z",
+  "captured_at": "2026-09-02T17:31:40Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "ai-video-generation"
+  ],
+  "roles": [
+    "technique",
+    "example"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "claude-code",
+    "react"
+  ],
+  "summary": "Scrolltide founder thread chains ChatGPT assets, Gemini portrait animation, Ezgif frame extraction, and Claude Code to bind 300 frames to scroll with React, Vite, Tailwind, and Framer Motion—funneling to Scrolltide templates/ebook.",
+  "question_it_answers": "How do you build a scroll-scrubbed image-sequence hero without hand-writing CSS?",
+  "claims": [
+    {
+      "id": "x-2094984529853530345#c1",
+      "text": "Pipeline slices a Gemini-animated video into 300 frames mapped to scroll via Framer Motion.",
+      "kind": "recipe",
+      "evidence": "Ezgif to slice the video into 300 sequential frames (30fps).",
+      "evidence_source": "author-thread",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094984529853530345#c2",
+      "text": "Stack uses React, Vite, Tailwind CSS, and Framer Motion with Claude Code orchestrating the frontend.",
+      "kind": "recipe",
+      "evidence": "React, Vite, Tailwind CSS, and Framer Motion to tie the 300 frames to the user's scroll position.",
+      "evidence_source": "author-thread",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [
+    "Generate UI reference and neural-interface subject with ChatGPT",
+    "Animate still portrait to video with Google Gemini",
+    "Slice video to 300 frames at 30fps with Ezgif",
+    "Have Claude Code write React/Vite frontend binding scroll to frame index"
+  ],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://www.scrolltide.co/",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.scrolltide.co/",
+    "other": [
+      "https://www.scrolltide.co/ebook"
+    ],
+    "related_items": [
+      "x-2094978216146452971"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "Braix hero screenshot with red/orange futuristic portrait, glassmorphism brain widgets, and scroll-to-explore indicator.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": null,
+      "skip_reason": "12-minute demo video not transcribed; workflow captured in author thread.",
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094984529853530345",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "ui-motion",
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "github-nateherkai-scroll-craft",
+      "web-getlayers-ai"
+    ],
+    "must_read": [
+      "comments.md",
+      "research.md"
+    ],
+    "why_must_read": "Scroll-scrub video-frame recipe plus Scrolltide product funnel."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1",
+  "id": "x-2093305736717545869",
+  "source_type": "x",
+  "url": "https://x.com/irinatoxi/status/2093305736717545869",
+  "title": "Fusion MCP stress-test: weird concentric-ring CAD assembly stays aligned",
+  "author": {
+    "name": "irinatoxi",
+    "handle": "irinatoxi",
+    "url": "https://x.com/irinatoxi"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:53:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "fusion",
+    "mcp"
+  ],
+  "summary": "Demo of an AI-built Autodesk Fusion assembly via MCP stacking concentric rings, shafts, and dense central mechanisms; author argues weird multi-part geometry is a better CAD agent benchmark than another gear because alignment holds under rotation.",
+  "question_it_answers": "How do you stress-test an AI CAD agent on weird assemblies instead of simple brackets?",
+  "claims": [
+    {
+      "id": "x-2093305736717545869#c1",
+      "text": "A Fusion MCP-built assembly with concentric rings and intersecting shafts remains aligned and inspectable under rotation, making complex geometry a better agent benchmark than simple parts.",
+      "kind": "result",
+      "evidence": "The harder test is how weird the assembly can get before the agent loses the plot.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "fusion-mcp-assembly",
+    "cad-agent-benchmark"
+  ],
+  "tools": [
+    "autodesk-fusion"
+  ],
+  "links": {
+    "canonical": "https://x.com/irinatoxi/status/2093305736717545869",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2095193896687177873",
+      "x-2095352925597884465"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Screen recording of a complex Fusion 360 assembly with concentric rings and radial spokes being rotated and inspected in the viewport.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093305736717545869",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2095193896687177873"
+    ],
+    "must_read": true,
+    "why_must_read": "CAD agent eval using intentionally weird assemblies."
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:50Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "claim-source",
+    "tool"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "cursor"
+  ],
+  "summary": "LexnLin reports the Leonxlnx/unlazy Cursor skill works well with Opus 5, especially paired with the ponytail write-less-code skill to stop stubbed implementations.",
+  "question_it_answers": "Does the /unlazy anti-stub skill work well with Opus 5 in Cursor?",
+  "claims": [
+    {
+      "id": "x-2088742864310481025#c1",
+      "text": "Author found /unlazy effective with Opus 5 and recommends stacking it with ponytail for cleaner, complete code.",
+      "kind": "opinion",
+      "evidence": "okay I tested /unlazy more with Opus 5 and I'm ngl it's really good",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": "https://github.com/Leonxlnx/unlazy",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "x-2091125349308399923",
+      "x-2090834948332655011"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088742864310481025",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-failed"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "x-2088742864310481025",
+  "source_type": "x",
+  "url": "https://x.com/LexnLin/status/2088742864310481025",
+  "title": "Field test: /unlazy skill with Opus 5 plus ponytail combo",
+  "author": {
+    "name": "LexnLin",
+    "handle": "LexnLin",
+    "url": "https://x.com/LexnLin"
+  }
+}

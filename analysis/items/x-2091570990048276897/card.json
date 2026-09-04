@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2091570990048276897",
+  "source_type": "x",
+  "url": "https://x.com/kickingkeys/status/2091570990048276897",
+  "title": "One-line claim about RL-trained JS painting model",
+  "author": {
+    "name": "Surya",
+    "handle": "kickingkeys",
+    "url": "https://x.com/kickingkeys"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:32Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "Single-sentence X post claims you can RL a coding model to paint with JavaScript but includes no repo, demo, media, or method—too thin to support analysis beyond the unsubstantiated hook.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "opinion",
+  "platforms": [],
+  "summary": "Surya (@kickingkeys) one-liner that reinforcement learning can teach a coding model to paint in JavaScript; no linked artifact, screenshot, or thread detail in the capture.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091570990048276897",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

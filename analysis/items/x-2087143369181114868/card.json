@@ -1,0 +1,90 @@
+{
+  "schema_version": "1",
+  "id": "x-2087143369181114868",
+  "source_type": "x",
+  "url": "https://x.com/yibie/status/2087143369181114868",
+  "title": "ReasoningBank: Google Research memory from success and failure traces",
+  "author": {
+    "name": "yibie",
+    "handle": "yibie",
+    "url": "https://x.com/yibie"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:35Z",
+  "lang": "zh",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Chinese explainer thread for Google Research ReasoningBank: an open agent memory that stores reasoning trajectories from both successes and failures and pairs with memory-aware test-time scaling on SWE-Bench and WebArena.",
+  "question_it_answers": "How does ReasoningBank treat failed trajectories as memory and scale test-time search?",
+  "claims": [
+    {
+      "id": "x-2087143369181114868#c1",
+      "text": "ReasoningBank stores reasoning process from both successful and failed trajectories, framing experience memory as a third scaling axis beside parameters and test-time compute.",
+      "kind": "capability",
+      "evidence": "失败的轨迹同样进记忆——推理过程（怎么走到那一步的）才是记忆的载体，而不只是结果",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "reasoning-trace-memory",
+    "memory-aware-test-time-scaling"
+  ],
+  "tools": [
+    "reasoning-bank"
+  ],
+  "links": {
+    "canonical": "https://github.com/google-research/reasoning-bank",
+    "repo": "https://github.com/google-research/reasoning-bank",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087208634493095978",
+      "x-2086920236079681607"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087143369181114868",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial",
+    "translation-needed"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2087208634493095978",
+      "web-cerebras-knowledge-base"
+    ],
+    "must_read": true,
+    "why_must_read": "Open implementation for trajectory memory including failures."
+  },
+  "worker": "cards-02",
+  "written_at": "2026-09-04T18:06:13Z"
+}

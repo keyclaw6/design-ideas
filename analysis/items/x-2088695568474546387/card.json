@@ -1,0 +1,63 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "x-2088695568474546387",
+  "source_type": "x",
+  "url": "https://x.com/wafer_ai/status/2088695568474546387",
+  "title": "Wafer AI gateway post for DeepSeek-V4-Flash on Vercel",
+  "author": {
+    "name": "wafer_ai",
+    "handle": "wafer_ai",
+    "url": "https://x.com/wafer_ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:24Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "availability-announcement",
+  "shelf_reason": "Tweet only announces picking wafer_ai on Vercel AI Gateway for DeepSeek-V4-Flash-Fast with a dated screenshot; capture has no weights, install steps, pricing, or benchmark numbers to run locally.",
+  "primary_subject": null,
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Wafer AI promo that DeepSeek-V4-Flash-0731-Fast is live on Vercel AI Gateway when you select wafer_ai as provider; screenshot dated 2026-08-15 with no runnable model artifact in the capture.",
+  "question_it_answers": null,
+  "claims": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2088706415586377792"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088695568474546387",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "shelved"
+}

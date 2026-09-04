@@ -1,0 +1,104 @@
+{
+  "schema_version": "1",
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "mcp-and-agent-browsers",
+  "secondary_subjects": [
+    "serp-ai-visibility",
+    "outbound-gtm-agents"
+  ],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "mcp",
+    "cli"
+  ],
+  "summary": "treg is a Python tools registry and proxy: one token routes agents to thousands of catalogued SEO, people-search, ads, and scraping APIs billed per call, while team-owned keys and skills stay server-side and unmetered.",
+  "question_it_answers": "How can agents call SEO and enrichment APIs without buying Semrush-scale subscriptions?",
+  "claims": [
+    {
+      "id": "github-superdesigndev-treg#c1",
+      "text": "treg catalogs 2,896 endpoints across 60 providers, priced per call from about one cent.",
+      "kind": "capability",
+      "evidence": "2,896 catalogued endpoints across 60 providers — SEO and backlinks, social and trends, people and company enrichment, ads, scraping — priced per call, from a cent",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-superdesigndev-treg#c2",
+      "text": "Team-registered API keys always override treg's catalog keys and are never metered.",
+      "kind": "recipe",
+      "evidence": "Your own key always wins over treg's, and those calls are never metered.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "treg"
+  ],
+  "links": {
+    "canonical": "https://treg.to",
+    "repo": "https://github.com/superdesigndev/treg",
+    "paper": null,
+    "product": "https://treg.to",
+    "other": [
+      "https://treg.to/mcp/v2/",
+      "https://treg.to/people-search"
+    ],
+    "related_items": [
+      "web-treg-people-search",
+      "github-LessieAI-people-search-bench",
+      "github-iannuttall-seo"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-superdesigndev-treg",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-punkpeye-awesome-mcp-servers",
+      "web-treg-people-search"
+    ],
+    "must_read": true,
+    "why_must_read": "Core MCP tool-router for SEO and people-search agent stacks."
+  },
+  "worker": "cards-04",
+  "written_at": "2026-09-04T18:05:00Z",
+  "id": "github-superdesigndev-treg",
+  "source_type": "github",
+  "url": "https://github.com/superdesigndev/treg",
+  "title": "treg: OpenRouter-style proxy for 2,896 metered agent tool endpoints",
+  "author": {
+    "name": "superdesigndev",
+    "handle": "superdesigndev",
+    "url": "https://github.com/superdesigndev"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": "1",
+  "id": "x-2093766772029559077",
+  "source_type": "x",
+  "url": "https://x.com/Voxyz_ai/status/2093766772029559077",
+  "title": "Refero DESIGN.md library — 2000+ product design languages for agents",
+  "author": {
+    "name": null,
+    "handle": "@Voxyz_ai",
+    "url": "https://x.com/Voxyz_ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:52:38Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "codex",
+    "cursor",
+    "cli"
+  ],
+  "summary": "X post promoting styles.refero.design: over 2000 DESIGN.md files encoding colors, typography, spacing, and component rules from products like Linear and Notion. Agents read a file to align or rebuild UI to a chosen design language.",
+  "question_it_answers": "Where can agents get ready-made DESIGN.md files for well-known product design languages?",
+  "claims": [
+    {
+      "id": "x-2093766772029559077#c1",
+      "text": "Library has DESIGN.md files for 2000+ products with colors, type, spacing, and component rules.",
+      "kind": "capability",
+      "evidence": "the design language of 2,000+ of the world's best products into DESIGN.md files",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093766772029559077#c2",
+      "text": "Free library hosted at styles.refero.design for Codex and Claude Code.",
+      "kind": "availability",
+      "evidence": "The library is currently free to use:\nhttps://styles.refero.design/",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://styles.refero.design/",
+    "repo": null,
+    "paper": null,
+    "product": "https://styles.refero.design/",
+    "other": [],
+    "related_items": [
+      "web-styles-refero-design"
+    ]
+  },
+  "media": [
+    {
+      "path": "raw/items/x-2093766772029559077/media/media_0.jpg",
+      "type": "image",
+      "description": "Screen recording demo of browsing Refero DESIGN.md files and applying design tokens (file stored as media_0.jpg but is MP4).",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093766772029559077",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-styles-refero-design",
+      "github-google-labs-code-design-md"
+    ],
+    "must_read": true,
+    "why_must_read": "Primary promo for the Refero DESIGN.md token library."
+  },
+  "worker": "cards-05",
+  "written_at": "2026-09-04T18:05:59Z"
+}

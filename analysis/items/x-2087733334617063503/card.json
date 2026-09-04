@@ -1,0 +1,61 @@
+{
+  "schema_version": "1",
+  "id": "x-2087733334617063503",
+  "source_type": "x",
+  "url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
+  "title": "Google Cloud Agent Plugins slogan without docs link",
+  "author": {
+    "name": "Google Cloud Tech",
+    "handle": "GoogleCloudTech",
+    "url": "https://x.com/GoogleCloudTech"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:37Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "promo-no-artifact",
+  "shelf_reason": "The tweet is a one-line marketing slogan ('Agent Plugins: Build it once, use it everywhere') with no SDK URL, plugin format, or deployment targets in the capture.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Google Cloud Tech promo tweet repeating an Agent Plugins tagline without linking documentation, SDK, or examples of where plugins run.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-emilkowalski-skills",
+      "github-punkpeye-awesome-mcp-servers"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087733334617063503",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-08",
+  "written_at": "2026-09-04T18:05:00Z"
+}

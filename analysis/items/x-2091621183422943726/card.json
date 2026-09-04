@@ -1,0 +1,74 @@
+{
+  "schema_version": "1",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-17",
+  "written_at": "2026-09-04T18:04:14Z",
+  "id": "x-2091621183422943726",
+  "source_type": "x",
+  "url": "https://x.com/CadX_Studio/status/2091621183422943726",
+  "title": "CadX Studio one-shot AI Stanley cup product design demo",
+  "author": {
+    "name": "CadX Studio",
+    "handle": "CadX_Studio",
+    "url": "https://x.com/CadX_Studio"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:43Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "primary_subject": "ai-cad-hardware",
+  "roles": [
+    "example",
+    "claim-source"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "CadX Studio demo tweet: AI designed a Stanley-style cup in one shot with zero CAD skills, built entirely in cadxstudio.in. Illustrates text-to-CAD consumer product workflow rather than keyboard/PCB hardware.",
+  "question_it_answers": "What does a one-shot AI consumer-product CAD demo look like in CadX Studio?",
+  "claims": [
+    {
+      "id": "x-2091621183422943726#c1",
+      "text": "CadX Studio generated a Stanley cup design in one shot without CAD skills.",
+      "kind": "capability",
+      "evidence": "We asked AI to design one - in one shot, zero CAD skills.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "links": {
+    "canonical": "http://cadxstudio.in",
+    "repo": null,
+    "paper": null,
+    "product": "http://cadxstudio.in",
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091621183422943726",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "ready-with-gaps"
+}

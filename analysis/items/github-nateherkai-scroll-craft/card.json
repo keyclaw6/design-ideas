@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "github-nateherkai-scroll-craft",
+  "source_type": "github",
+  "url": "https://github.com/nateherkai/scroll-craft",
+  "title": "scroll-craft: Claude Code skill for scroll-driven landing QA",
+  "author": {
+    "name": "Nate Herk",
+    "handle": "nateherkai",
+    "url": "https://github.com/nateherkai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "claude-code"
+  ],
+  "summary": "MIT Claude Code plugin that builds premium scroll-timeline marketing pages with eight page grammars, craft refuse-lists, and a Playwright screenshot walk that checks dead scroll, contrast, and stuck video legs.",
+  "question_it_answers": "How do I ship a scroll-driven landing with agent-enforced design floors and automated QA?",
+  "claims": [
+    {
+      "id": "github-nateherkai-scroll-craft#c1",
+      "text": "The skill enforces eight mutually exclusive page grammars plus a required signature move with a fingerprint gate.",
+      "kind": "capability",
+      "evidence": "Eight mutually exclusive page grammars (filmic one-shot, chaptered editorial, live surface, etc.)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "github-nateherkai-scroll-craft#c2",
+      "text": "Verification uses a Playwright scroll walk for dead scroll, per-line contrast, and stuck video legs.",
+      "kind": "recipe",
+      "evidence": "Verification: Playwright scroll walk — dead scroll, contrast per line, stuck video legs",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "playwright-scroll-verify"
+  ],
+  "tools": [
+    "scroll-craft"
+  ],
+  "links": {
+    "canonical": "https://github.com/nateherkai/scroll-craft",
+    "repo": "https://github.com/nateherkai/scroll-craft",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-oso95-scroll-world",
+      "github-emilkowalski-skills",
+      "github-pbakaus-impeccable",
+      "web-getlayers-ai",
+      "web-recent-design"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-nateherkai-scroll-craft",
+    "post": null,
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-oso95-scroll-world",
+      "web-getlayers-ai"
+    ],
+    "must_read": [
+      "page.md"
+    ],
+    "why_must_read": "Defines refuse-list craft rules and the Playwright verification loop for scroll landings."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

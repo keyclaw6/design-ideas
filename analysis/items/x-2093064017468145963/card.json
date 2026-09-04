@@ -1,0 +1,102 @@
+{
+  "schema_version": "1",
+  "id": "x-2093064017468145963",
+  "source_type": "x",
+  "url": "https://x.com/abyssallD/status/2093064017468145963",
+  "title": "Claude Code alchemist shop pipeline across Blender MCP and 3D AI Studio",
+  "author": {
+    "name": "Abyssal",
+    "handle": "abyssallD",
+    "url": "https://x.com/abyssallD"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:37Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [
+    "image-to-3d-world"
+  ],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "blender",
+    "mcp",
+    "claude-code"
+  ],
+  "summary": "Thread describing a multi-MCP Claude Code pipeline: 3D AI Studio concept image, Blender MCP room build, reuse of 56 on-disk props plus Prism-generated alchemy assets, then export to Unity—not modeling every prop from scratch.",
+  "question_it_answers": "How do you chain Blender MCP with generative 3D tools for a furnished interior scene?",
+  "claims": [
+    {
+      "id": "x-2093064017468145963#c1",
+      "text": "Pipeline splits work across 3D AI Studio concept art and Blender MCP room geometry before prop placement.",
+      "kind": "recipe",
+      "evidence": "First, 3D AI Studio makes the concept image.\n\nThen Blender MCP builds the room:",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093064017468145963#c2",
+      "text": "Claude directed reuse of 56 existing props plus new alchemy assets rather than modeling every bottle from scratch.",
+      "kind": "capability",
+      "evidence": "The point is not that Claude modeled every bottle from scratch.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": [
+    "Generate concept image in 3D AI Studio",
+    "Build room shell in Blender MCP (walls, beams, windows, lighting)",
+    "Place reused library props and new Prism-generated alchemy assets",
+    "Export finished interior to Unity"
+  ],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093064017468145963",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "note-blender-minimax-h3-video-generation",
+      "x-2093986548404428942"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Exemplar MCP-orchestrated Blender interior with library reuse."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

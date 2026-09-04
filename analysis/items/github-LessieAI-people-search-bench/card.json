@@ -1,0 +1,99 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "people-search-eval"
+  ],
+  "tools": [
+    "lessie",
+    "exa",
+    "juicebox-peoplegpt"
+  ],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "github-LessieAI-people-search-bench",
+  "source_type": "github",
+  "url": "https://github.com/LessieAI/people-search-bench",
+  "title": "People Search Bench — open eval for AI people-search agents",
+  "author": {
+    "name": "LessieAI",
+    "handle": null,
+    "url": "https://github.com/LessieAI"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "outbound-gtm-agents",
+  "roles": [
+    "reference",
+    "tool"
+  ],
+  "artifact_type": "dataset",
+  "platforms": [
+    "cli"
+  ],
+  "summary": "MIT Python benchmark with 119 multilingual people-search queries scored on live web evidence (not LLM-as-judge). Reports relevance, coverage, and utility for Lessie, Exa, Claude Code, and Juicebox.",
+  "question_it_answers": "How do you evaluate AI people-search agents with reproducible, web-verified scoring?",
+  "claims": [
+    {
+      "id": "github-LessieAI-people-search-bench#c1",
+      "text": "Lessie leads the published overall score at 65.2 versus Exa 55.0 and Claude Code 46.0.",
+      "kind": "benchmark",
+      "evidence": "| Lessie | 70.2 | 69.1 | 56.4 | 65.2 |",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "github-LessieAI-people-search-bench#c2",
+      "text": "Scoring uses Tavily web search verification with Cohen's kappa 0.84 against human annotators.",
+      "kind": "capability",
+      "evidence": "Verification uses live web search (Tavily API), not LLM-as-judge. Cohen's kappa = 0.84 with human annotators (per arXiv abstract).",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "links": {
+    "canonical": "https://github.com/LessieAI/people-search-bench",
+    "repo": null,
+    "paper": "https://arxiv.org/abs/2603.27476",
+    "product": "https://lessie.ai",
+    "other": [
+      "https://treg.to/people-search"
+    ],
+    "related_items": [
+      "web-arxiv-2603-27476",
+      "web-treg-people-search",
+      "github-superdesigndev-treg"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-LessieAI-people-search-bench",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready"
+}

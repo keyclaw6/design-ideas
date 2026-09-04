@@ -1,0 +1,100 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "outbound-agent-pipeline"
+  ],
+  "tools": [
+    "gojiberry-mcp"
+  ],
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "github-romangojiberryAI-gojiberryai-sales-os",
+  "source_type": "github",
+  "url": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+  "title": "GojiberryAI Sales OS — 13-agent outbound stack on hosted MCP",
+  "author": {
+    "name": "romangojiberryAI",
+    "handle": "romangojiberryAI",
+    "url": "https://github.com/romangojiberryAI"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:45:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "outbound-gtm-agents",
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "grok-bot",
+    "mcp",
+    "cursor"
+  ],
+  "summary": "Open-source MIT sales department for Grok Bot and Claude Code: thirteen role agents from signal hunting through meeting qualification, coordinated via hosted GojiberryAI MCP endpoints and installable skills.",
+  "question_it_answers": "What does a multi-agent outbound sales OS look like on a hosted MCP bus?",
+  "claims": [
+    {
+      "id": "github-romangojiberryAI-gojiberryai-sales-os#c1",
+      "text": "The repo ships thirteen specialized outbound agents orchestrated through the GojiberryAI MCP.",
+      "kind": "capability",
+      "evidence": "Thirteen specialized agents — signal hunting, ICP filtering, account research, enrichment, copywriting, LinkedIn outreach, reply handling, meeting qualification — coordinated via the hosted **GojiberryAI MCP**.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "github-romangojiberryAI-gojiberryai-sales-os#c2",
+      "text": "Cursor users can copy skills and point MCP at https://mcp.gojiberry.ai/mcp.",
+      "kind": "recipe",
+      "evidence": "Manual / Cursor: copy `skills/sales-os/` into agent skills; point MCP at `https://mcp.gojiberry.ai/mcp`.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "links": {
+    "canonical": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+    "repo": null,
+    "paper": null,
+    "product": "https://mcp.gojiberry.ai/mcp",
+    "other": [],
+    "related_items": [
+      "github-superdesigndev-treg",
+      "web-treg-people-search",
+      "github-LessieAI-people-search-bench"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-romangojiberryAI-gojiberryai-sales-os",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready"
+}

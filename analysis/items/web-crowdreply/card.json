@@ -1,0 +1,103 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "citation-outreach"
+  ],
+  "tools": [
+    "crowdreply-mcp"
+  ],
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "web-crowdreply",
+  "source_type": "website",
+  "url": "https://crowdreply.io",
+  "title": "CrowdReply — AI search visibility and citation-outreach platform",
+  "author": {
+    "name": "CrowdReply",
+    "handle": null,
+    "url": "https://crowdreply.io"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:56:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "serp-ai-visibility",
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp"
+  ],
+  "summary": "SaaS for tracking and improving brand citations in assistant answers (ChatGPT, Grok, Perplexity), with citation-outreach workflows and a remote MCP exposing 18+ tools at mcp.crowdreply.io.",
+  "question_it_answers": "Which AEO platform pairs citation outreach with an agent-callable MCP?",
+  "claims": [
+    {
+      "id": "web-crowdreply#c1",
+      "text": "CrowdReply exposes a remote MCP with 18+ tools for agent workflows.",
+      "kind": "capability",
+      "evidence": "Advertised tool count at ingest: 18+",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-crowdreply#c2",
+      "text": "Unauthenticated MCP probe to the endpoint returns HTTP 401 without an API key.",
+      "kind": "availability",
+      "evidence": "Probe without key: HTTP 401",
+      "evidence_source": "linked-page",
+      "evidence_ref": "page.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "links": {
+    "canonical": "https://crowdreply.io",
+    "repo": null,
+    "paper": null,
+    "product": "https://crowdreply.io/mcp",
+    "other": [
+      "https://crowdreply.io/features/citation-outreach",
+      "https://mcp.crowdreply.io/mcp"
+    ],
+    "related_items": [
+      "github-iannuttall-seo",
+      "web-known-agency",
+      "web-nqz-ai-search-prompt-generator"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-crowdreply",
+    "post": "page.md",
+    "comments": null,
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}

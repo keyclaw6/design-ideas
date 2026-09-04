@@ -1,0 +1,84 @@
+{
+  "schema_version": "1",
+  "id": "x-2092656414351118647",
+  "source_type": "x",
+  "url": "https://x.com/tom_doerr/status/2092656414351118647",
+  "title": "avoid-ai-writing CLI audits and rewrites AI prose patterns",
+  "author": {
+    "name": "tom_doerr",
+    "handle": "tom_doerr",
+    "url": "https://x.com/tom_doerr"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:51Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [
+    "serp-ai-visibility"
+  ],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "cli"
+  ],
+  "summary": "GitHub tool avoid-ai-writing scans text for AI writing patterns and rewrites flagged passages in place—positioned as an anti-slop prose fixer adjacent to SEO content workflows.",
+  "question_it_answers": "What tool flags AI writing tics and rewrites them in place?",
+  "claims": [
+    {
+      "id": "x-2092656414351118647#c1",
+      "text": "avoid-ai-writing audits text for AI writing patterns and rewrites flagged passages in place.",
+      "kind": "capability",
+      "evidence": "avoid-ai-writing audits text for AI writing patterns and rewrites flagged passages in place.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "avoid-ai-writing"
+  ],
+  "links": {
+    "canonical": null,
+    "repo": "https://github.com/conorbronsdon/avoid-ai-writing",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092656414351118647",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-leonxlnx-taste-skill"
+    ],
+    "must_read": [
+      "post.md"
+    ],
+    "why_must_read": "Automated anti-slop rewriter for marketing copy pipelines."
+  },
+  "worker": "cards-13",
+  "written_at": "2026-09-04T18:08:25Z"
+}

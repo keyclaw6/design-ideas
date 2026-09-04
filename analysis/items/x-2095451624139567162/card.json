@@ -1,0 +1,89 @@
+{
+  "schema_version": "1",
+  "duplicate_of": null,
+  "secondary_subjects": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "sol-website-prompt"
+  ],
+  "tools": [
+    "gpt-5-6-sol"
+  ],
+  "gaps": [
+    "thread-partial",
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "x-2095368133070700884"
+    ],
+    "must_read": [
+      "x-2095368133070700884"
+    ],
+    "why_must_read": "Sibling post may include the full Sol website prompt template."
+  },
+  "worker": "cards-01",
+  "written_at": "2026-09-04T18:10:00Z",
+  "id": "x-2095451624139567162",
+  "source_type": "x",
+  "url": "https://x.com/ranakabiria/status/2095451624139567162",
+  "title": "GPT 5.6 Sol website prompt teaser (marketplace link)",
+  "author": {
+    "name": "ranakabiria",
+    "handle": "ranakabiria",
+    "url": "https://x.com/ranakabiria"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:54Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "primary_subject": "image-prompt-galleries",
+  "roles": [
+    "example"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Teaser post for a GPT 5.6 Sol website-generation prompt; quoted tweet links to a one-click marketplace for unlimited site prompts but the prompt body is not in the captured thread.",
+  "question_it_answers": "Where does this author publish GPT 5.6 Sol website prompts?",
+  "claims": [
+    {
+      "id": "x-2095451624139567162#c1",
+      "text": "Quoted follow-up advertises unlimited prompts for AI websites via an external marketplace link.",
+      "kind": "availability",
+      "evidence": "Access this prompt as well as UNLIMITED prompts for stunning AI websites in one click:",
+      "evidence_source": "quoted-post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "image-prompt-galleries"
+    }
+  ],
+  "links": {
+    "canonical": null,
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2095368133070700884"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2095451624139567162",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps"
+}
