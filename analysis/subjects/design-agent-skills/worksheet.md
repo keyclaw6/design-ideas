@@ -38,11 +38,11 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — claims that need a receipt
 
-- Impeccable 61 detectors and 23 slash commands — **README lead confirms the counts**. A local slop HTML run fired `gradient-text`, `low-contrast`, `dark-glow`, `bounce-easing`, `ai-color-palette`, `marketing-buzzword` (9 findings, exit 0 — advisory/fail split means detect is not “exit 2”). See [impeccable](../../tools/impeccable.md). Still need a live URL + full id list.
+- Impeccable 61 detectors and 23 slash commands — **README lead confirms the counts**. `crates/live/assets/antipatterns.json` is **exactly 61 ids** (listed on [impeccable](../../tools/impeccable.md)). A local slop HTML run fired `gradient-text`, `low-contrast`, `dark-glow`, `bounce-easing`, `ai-color-palette`, `marketing-buzzword` (9 findings, exit 0 — advisory/fail split means detect is not “exit 2”). Still need a live URL pass.
 - Chinese “keep four after trials” — practitioner shortlist, 3 replies / 1 captured; transitions.dev is not a primary here.
 - /unlazy “works well with Opus 5 + ponytail” — one user ([x-2088742864310481025](../../items/x-2088742864310481025/card.md)).
-- AIDesigner “21 MCP tools” and live-site clone — marketing + Spanish demo; no tool-list dump in this bank.
-- Refero / getdesign.md “550+” / “2000+” DESIGN.md files — directory counts; spot-check that files match the Google spec, not a restyled about-page.
+- AIDesigner “21 MCP tools” and live-site clone — marketing page lists **22** snake_case titles under a “Twenty-one tools” heading; unauthed MCP `initialize` is 401. Names on [aidesigner-mcp](../../tools/aidesigner-mcp.md).
+- Refero / getdesign.md “550+” / “2000+” — getdesign sitemap union **627** brand slugs (homepage shows 76; `awesome-design-md` tree 147 folders). Refero public API **1,289** style ids / **1,241** siteNames, not 2,000. See [getdesign-md](../../tools/getdesign-md.md) and [styles-refero-design](../../tools/styles-refero-design.md). Not a Google-spec file diff.
 - Fable 5.1 “best one-shot website” ([x-2095549461737111905](../../items/x-2095549461737111905/card.md)) — ranking language in the source; do not echo it as a finding.
 - designmd.me / designmd.supply / typeui.sh — capture blocked (Vercel 429). Treat as missing, not as products.
 
@@ -59,7 +59,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 
 ## design-agent-skills — next capture work
 
-1. Local detector run is on the tool NOTES (6 rule ids). Remaining: a live URL pass and the full 61-id list.
+1. 61-id list is on [impeccable](../../tools/impeccable.md). Remaining: `npx impeccable detect` against a live URL (Puppeteer).
 2. Extract DESIGN.md from two known sites via Sokosumi *and* Hyperbrowser; diff the YAML tokens.
-3. Dump AIDesigner MCP tool names (the CrowdReply-style gap: “21 tools” with no list).
+3. AIDesigner names are on the marketing page; remaining: an authed `tools/list`.
 4. Re-fetch `x-2093669411685110141` and the blocked designmd.* domains.

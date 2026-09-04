@@ -42,5 +42,5 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 ## local-inference-models — next capture work
 
 1. Paper tok/s and TTFT are on the tool NOTES. Remaining: one `profile` on a real GPU (none here).
-2. Confirm Unsloth GGUF filenames and licenses on Hugging Face.
+2. Unsloth `Qwen3.8-27B-GGUF` is **apache-2.0**; Q4_0 file **16.06 GB**; UD-IQ1_S **6.19 GB**. Filenames + sizes on [unsloth](../../tools/unsloth.md). Remaining: a local load timing those envelopes.
 3. Leave Edge8 / Bonsai as device research until weights are linked.

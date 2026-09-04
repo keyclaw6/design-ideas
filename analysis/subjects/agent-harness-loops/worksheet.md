@@ -18,7 +18,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 | item | runnable loop vs essay | permission / blast-radius | eval / OOS check | session persist / migrate | multi-agent vs single |
 |---|---|---|---|---|---|
 | loop-library | high (23 named prompts on loopany.ai) | local agent; server does not run LLM | “shipped” still marketing | cadence per loop | varies |
-| Headlong | high (Bash ~11K LOC, Apache-2.0) | Slack/Telegram in; Docker default | none in card | designed always-on | one mind, many people |
+| Headlong | high (README cloc ~11K / cap 11.5K; local `wc` **13,947** in `bin/`+`thinkers/`) | Slack/Telegram in; Docker default | none in card | designed always-on | one mind, many people |
 | session-migrate | n/a (converter) | n/a | n/a | high (this *is* migrate) | n/a |
 | Chadha primer | essay + site | n/a | primer on evals | n/a | research swarm |
 | Codex 212× QR | example write-up | unknown | GPU Mode task | unknown | search loop |
@@ -39,7 +39,8 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 - Autoquant 135 agents / four-layer pipeline — architecture claim.
 - fini 23,999 actions in 20 minutes — warning anecdote; useful as a blast-radius story, not a benchmark.
 - Anthropic cost $0.29 → 90% less — cookbook; re-run the notebook.
-- Headlong “<10K LOC” — **README now says ~11K** (cloc, capped 11.5K). Blog 9.9K / tweet <10K are stale. Persistent-agency + $1–2/hr idle cost are first-party ([headlong](../../tools/headlong.md)).
+- Headlong “<10K LOC” — **README now says ~11K** (cloc, capped 11.5K). Local clone `wc -l` is **12,133 + 1,814 = 13,947**. Blog 9.9K / tweet <10K are stale. Persistent-agency + $1–2/hr idle cost are first-party ([headlong](../../tools/headlong.md)).
+- loopany reddit-karma paste prompt lives in `meta.json` `description`; author story −4→92 comment karma / 7 days is first-party, not a bake-off ([loop-library](../../tools/loop-library.md)).
 - Ouroboros tweet numbers match the paper (arXiv:2608.08311, https://ouroboros-agent.ai/): Terminal-Bench 2.1 Opus 5 **86.97% raw / 86.74% audited** (386/445 after one shortcut zeroed); OSWorld-Verified **90.69%** (327.39/361, non-Google-Drive); CL-Bench **0.2301** (five-rollout). Hope: 161 days to 2026-08-06, $110.6K spend, 79.7B tokens, seven surfaces. MIT (`razzant/ouroboros`). Paper uses ranking language; quote the integers only. Do not confuse with `q00/ouroboros` (spec-first workflow engine).
 
 ## agent-harness-loops — do not treat as load-bearing
@@ -52,5 +53,5 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 ## agent-harness-loops — next capture work
 
 1. popcorn CLI install/submit and the **live board** (sankalp1999 26th / 3916 µs vs blog 12th / 1805 µs) are on [codex](../../tools/codex.md). Remaining: one Harbor/popcorn submission id from the author’s `submit_logs/`.
-2. Headlong tool list + loopany **23 template names** are on the tool NOTES. Remaining: dump one loop prompt body; confirm Headlong `bin/`+`thinkers/` cloc locally.
+2. Headlong `wc` vs README cloc, and the reddit-karma prompt location, are on the tool NOTES. Remaining: run cloc itself (not `wc`) if a later pass needs the capped 11.5K reproduced.
 3. Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.
