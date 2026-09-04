@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2091564966797029541",
+  "source_type": "x",
+  "url": "https://x.com/FreeCADNews/status/2091564966797029541",
+  "title": "FreeCAD toponaming fix PR announcement without usable technique",
+  "author": {
+    "name": "FreeCAD (CAD+CAM+CAE)",
+    "handle": "FreeCADNews",
+    "url": "https://x.com/FreeCADNews"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:44Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "FreeCADNews links a WIP GitHub PR addressing internal toponaming issues; it is upstream CAD infrastructure news, not a text-to-CAD workflow or marketing-relevant technique in the library.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "FreeCAD project tweet pointing to PR #31040 as a work-in-progress upgrade addressing the long-standing toponaming issue inside the FreeCAD codebase.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/FreeCADNews/status/2091564966797029541",
+    "repo": "https://github.com/FreeCAD/FreeCAD/pull/31040",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091564966797029541",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

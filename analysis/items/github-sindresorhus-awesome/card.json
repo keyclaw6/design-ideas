@@ -1,0 +1,100 @@
+{
+  "schema_version": "1",
+  "id": "github-sindresorhus-awesome",
+  "source_type": "github",
+  "url": "https://github.com/sindresorhus/awesome",
+  "title": "Sindresorhus awesome: canonical meta-index of curated GitHub lists",
+  "author": {
+    "name": "Sindresorhus",
+    "handle": "sindresorhus",
+    "url": "https://github.com/sindresorhus"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [],
+  "summary": "The canonical awesome-list meta-index maintained by Sindresorhus, linking hundreds of topic-specific curated GitHub resource lists. It defines community list-quality standards in awesome.md but does not implement any pipeline—only discovery across languages, front-end, tools, and CS topics.",
+  "question_it_answers": "Where is the canonical index to find curated awesome GitHub lists when hunting a new domain?",
+  "claims": [
+    {
+      "id": "github-sindresorhus-awesome#c1",
+      "text": "The README indexes hundreds of specialized awesome lists across platforms, languages, and tool categories.",
+      "kind": "capability",
+      "evidence": "Awesome lists about all kinds of interesting topics.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "github-sindresorhus-awesome#c2",
+      "text": "awesome.md defines what qualifies as an awesome curated list.",
+      "kind": "capability",
+      "evidence": "`awesome.md` — definition of what makes a list \"awesome\"",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://github.com/sindresorhus/awesome",
+    "repo": "https://github.com/sindresorhus/awesome",
+    "paper": null,
+    "product": "https://awesome.re",
+    "other": [
+      "https://awesome.re",
+      "https://github.com/sindresorhus/awesome/blob/main/awesome.md"
+    ],
+    "related_items": [
+      "github-punkpeye-awesome-mcp-servers",
+      "web-recent-design",
+      "web-getdesign-md",
+      "web-cult-ui",
+      "github-emilkowalski-skills"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/logo.svg",
+      "type": "other",
+      "description": "Red awesome-list logo SVG used as the repository branding mark.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/github-sindresorhus-awesome",
+    "post": false,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

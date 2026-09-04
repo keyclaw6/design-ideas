@@ -1,0 +1,94 @@
+{
+  "schema_version": "1",
+  "id": "x-2093964632562253866",
+  "source_type": "x",
+  "url": "https://x.com/hridoyreh/status/2093964632562253866",
+  "title": "Three-step Brave Search URL submission for site indexing",
+  "author": {
+    "name": "Hridoy Reh",
+    "handle": "hridoyreh",
+    "url": "https://x.com/hridoyreh"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:50:03Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "recipe",
+    "reference"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "browser"
+  ],
+  "summary": "Short X thread listing three steps to submit a website URL to Brave Search via search.brave.com/submit-url so the site can appear in Brave results.",
+  "question_it_answers": "How do I submit my website URL to Brave Search for indexing?",
+  "claims": [
+    {
+      "id": "x-2093964632562253866#c1",
+      "text": "Brave Search indexing starts at search.brave.com/submit-url where you enter a URL and press Submit.",
+      "kind": "recipe",
+      "evidence": "1. Go to search∙brave∙com/submit-url.\n2. Enter your website URL now.\n3. Press the Submit button.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "brave-url-submission"
+  ],
+  "tools": [
+    "brave-submit-url"
+  ],
+  "links": {
+    "canonical": "https://x.com/hridoyreh/status/2093964632562253866",
+    "repo": null,
+    "paper": null,
+    "product": "https://search.brave.com/submit-url",
+    "other": [],
+    "related_items": [
+      "web-brave-submit-url"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Screenshot of Brave's minimal submit-url page with a URL input field labeled Insert the URL to be re-fetched and a gray Submit button.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093964632562253866",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-brave-submit-url"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

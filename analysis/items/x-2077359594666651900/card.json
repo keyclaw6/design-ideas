@@ -1,0 +1,62 @@
+{
+  "schema_version": "1",
+  "id": "x-2077359594666651900",
+  "source_type": "x",
+  "url": "https://x.com/AiandTechHub/status/2077359594666651900",
+  "title": "Engagement-bait MIT last-lecture post with no linked video",
+  "author": {
+    "name": "Raja Chichulkar",
+    "handle": "AiandTechHub",
+    "url": "https://x.com/AiandTechHub"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:23Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "engagement-bait",
+  "shelf_reason": "The post narrates a sentimental MIT professor last-lecture story and urges bookmarking but includes no lecture URL, name, or reproducible artifact—only engagement hooks.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "X post from @AiandTechHub teasing a dying MIT professor's final lecture with bookmark bait. The capture contains no link to any video, course, or named speaker—only a narrative hook without an inspectable artifact or technique.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/AiandTechHub/status/2077359594666651900",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2077376352630845499",
+      "x-2080856252687745093",
+      "web-chatgpt-training"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2077359594666651900",
+    "post": true,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

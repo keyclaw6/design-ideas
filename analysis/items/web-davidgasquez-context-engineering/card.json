@@ -1,0 +1,113 @@
+{
+  "schema_version": "1",
+  "id": "web-davidgasquez-context-engineering",
+  "source_type": "website",
+  "url": "https://davidgasquez.com/context-engineering-is-a-data-problem",
+  "title": "Context Engineering Is a Data Problem — David Gasquez essay",
+  "author": {
+    "name": "David Gasquez",
+    "handle": "davidgasquez",
+    "url": "https://davidgasquez.com"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:38:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-memory-knowledge",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "claim-source"
+  ],
+  "artifact_type": "article",
+  "platforms": [],
+  "summary": "Essay arguing organizational context should be built like a data warehouse: extract raw sources, transform into org-specific models, and publish curated text artifacts for agents. Treats knowledge bases as compilers and curated files as materialized views optimized for LLM consumption.",
+  "question_it_answers": "Why should agent context be modeled like a data warehouse instead of stuffing every raw source into prompts?",
+  "claims": [
+    {
+      "id": "web-davidgasquez-context-engineering#c1",
+      "text": "Context engineering is extract-filter-curate-model-publish work, analogous to analytics ETL.",
+      "kind": "opinion",
+      "evidence": "Context engineering is that same work: extracting, filtering, curating, modeling, and publishing artifacts to help the organization make better decisions.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-davidgasquez-context-engineering#c2",
+      "text": "A knowledge base should compile raw sources into LLM-optimized representations via extract, transform, publish stages.",
+      "kind": "recipe",
+      "evidence": "Knowledge base as **compiler for agents** — raw sources → LLM-optimized representations.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-davidgasquez-context-engineering#c3",
+      "text": "Teams need per-area marts rather than one universal company context package.",
+      "kind": "capability",
+      "evidence": "Build **marts** per area/team — no universal \"company context\" package",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "context-etl",
+    "materialized-views-for-llms"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://davidgasquez.com/context-engineering-is-a-data-problem",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://x.com/medriscoll/status/2094558408259272998",
+      "https://x.com/davidgasquez/status/2085803390391460099",
+      "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+      "https://www.iandmacomber.com/blog/post-ai-data-stack",
+      "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "https://www.context.ai/blog/a-filesystem-for-context"
+    ],
+    "related_items": [
+      "web-cerebras-knowledge-base",
+      "web-iandmacomber-post-ai-data-stack",
+      "web-anthropic-claude-self-service-data",
+      "web-chatgpt-training",
+      "web-blume-codes"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-davidgasquez-context-engineering",
+    "post": false,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "web-cerebras-knowledge-base",
+      "web-iandmacomber-post-ai-data-stack"
+    ],
+    "must_read": true,
+    "why_must_read": "Conceptual backbone for the agent-memory-knowledge cluster."
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

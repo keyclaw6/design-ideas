@@ -1,0 +1,84 @@
+{
+  "schema_version": "1",
+  "id": "x-2092644473868050684",
+  "source_type": "x",
+  "url": "https://x.com/80Level/status/2092644473868050684",
+  "title": "80 Level feature: ViscousRealm gaming rooms inside controller shells",
+  "author": {
+    "name": null,
+    "handle": "80Level",
+    "url": "https://x.com/80Level"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:50Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "reference"
+  ],
+  "artifact_type": "article",
+  "platforms": [
+    "blender",
+    "other"
+  ],
+  "summary": "80 Level shares ViscousRealm Blender animations imagining tiny gaming rooms hidden inside different game controllers, linked to a full article with multiple animation variants as visual craft reference.",
+  "question_it_answers": "What is a strong scroll-motion or micro-world visual reference for playful product storytelling?",
+  "claims": [
+    {
+      "id": "x-2092644473868050684#c1",
+      "text": "ViscousRealm designed entire gaming spaces hidden inside different controller shells as Blender animations.",
+      "kind": "capability",
+      "evidence": "ViscousRealm imagined tiny gaming rooms inside different controllers.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "micro-world-product-storytelling"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://80.lv/articles/blender-artist-designs-entire-gaming-spaces-hidden-inside-controllers",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://x.com/80Level/status/2092644473868050684"
+    ],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092644473868050684",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "design",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

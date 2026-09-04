@@ -1,0 +1,113 @@
+{
+  "schema_version": "1",
+  "id": "web-open-design-ai",
+  "source_type": "website",
+  "url": "https://open-design.ai",
+  "title": "OpenDesign product site — local vibe-design workspace for 21+ agents",
+  "author": {
+    "name": "nexu-io",
+    "handle": "nexu-io",
+    "url": "https://github.com/nexu-io"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:42:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "codex",
+    "cursor",
+    "claude-code"
+  ],
+  "summary": "Marketing site for OpenDesign, an Apache-2.0 local-first vibe design workspace that routes 21+ coding agents through composable skills and portable DESIGN.md files. Contrasts with hosted Claude Design by keeping prototypes, landings, slides, and brand artifacts as repo files with BYOK.",
+  "question_it_answers": "What is OpenDesign and how does its local file-based vibe design workspace differ from hosted Claude Design?",
+  "claims": [
+    {
+      "id": "web-open-design-ai#c1",
+      "text": "OpenDesign supports 21+ coding agents for prototypes, landing pages, slides, dashboards, and brand systems.",
+      "kind": "capability",
+      "evidence": "turns 21+ coding agents into a design engine for prototypes, landing pages, slides, dashboards, HTML video, and brand systems",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-open-design-ai#c2",
+      "text": "Artifacts stay as portable DESIGN.md files in your repo instead of a hosted locked model.",
+      "kind": "capability",
+      "evidence": "Where Claude Design is closed/hosted/model-locked, OpenDesign runs locally; artifacts land as files in your repo.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "supported agents",
+      "value": "21+",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "design systems",
+      "value": "152",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "open-design"
+  ],
+  "links": {
+    "canonical": "https://open-design.ai",
+    "repo": "https://github.com/nexu-io/open-design",
+    "paper": null,
+    "product": "https://open-design.ai",
+    "other": [
+      "https://x.com/tranmautritam/status/2095078647652917329",
+      "https://github.com/nexu-io/open-design"
+    ],
+    "related_items": [
+      "github-nexu-io-open-design",
+      "github-nexu-io-html-video",
+      "github-nexu-io-motion-anything",
+      "web-neuform-ai",
+      "github-google-labs-code-design-md"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-open-design-ai",
+    "post": false,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

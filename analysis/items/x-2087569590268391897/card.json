@@ -1,0 +1,62 @@
+{
+  "schema_version": "1",
+  "id": "x-2087569590268391897",
+  "source_type": "x",
+  "url": "https://x.com/dexhorthy/status/2087569590268391897",
+  "title": "Empty @dexhorthy X capture with no post body",
+  "author": {
+    "name": null,
+    "handle": "dexhorthy",
+    "url": "https://x.com/dexhorthy"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:45Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "empty-capture",
+  "shelf_reason": "The saved X post folder contains only a handle line in post.md with no tweet text, media, or linked artifact—nothing to classify or analyze.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "Bookmarked X item for @dexhorthy where the captured post.md is effectively empty aside from the author handle. No tweet body, URLs, or media were retrieved, so there is no claim or artifact to map to any subject.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/dexhorthy/status/2087569590268391897",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087224641849045110",
+      "x-2087733334617063503",
+      "x-2087715372787228734"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087569590268391897",
+    "post": true,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

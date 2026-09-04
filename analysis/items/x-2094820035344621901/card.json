@@ -1,0 +1,81 @@
+{
+  "schema_version": "1",
+  "id": "x-2094820035344621901",
+  "source_type": "x",
+  "url": "https://x.com/harris/status/2094820035344621901",
+  "title": "Aaron Harris venture fundraising FRM wave-scheduling product",
+  "author": {
+    "name": "Aaron Harris",
+    "handle": "harris",
+    "url": "https://x.com/harris"
+  },
+  "published_at": "2026-09-01T16:09:50Z",
+  "captured_at": "2026-09-02T17:25:49Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "The Venture Codex FRM is a venture fundraising CRM with wave scheduling and optional MCP access—fundraising operations are outside this corpus's SEO, 3D, design-skill, and agent-harness subjects.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "Aaron Harris promotes meeting investors in 1–2 week waves and links the Venture Codex fundraising FRM beta. Includes a product demo video of fund pipeline tracking, but the artifact is venture capital operations rather than any covered analysis subject.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/harris/status/2094820035344621901",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://frm.theventurecodex.com/",
+      "https://theventurecodex.com/",
+      "https://postround.substack.com/",
+      "https://theventurecodex.com/browse"
+    ],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/thumb.jpg",
+      "type": "image",
+      "description": "FRM Funds dashboard screenshot listing 160 tracked funds for ElevenLabs with match scores, locations, and pipeline columns.",
+      "skip_reason": null,
+      "carries_technique": false
+    },
+    {
+      "path": "media/video.mp4",
+      "type": "video",
+      "description": "13.6-second product walkthrough of the Venture Codex FRM fund-tracking interface at 1366x720.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2094820035344621901",
+    "post": true,
+    "comments": true,
+    "research": true,
+    "legacy_topics": [
+      "mcp",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

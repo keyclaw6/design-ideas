@@ -1,0 +1,118 @@
+{
+  "schema_version": "1",
+  "id": "github-cathrynlavery-diagram-design",
+  "source_type": "github",
+  "url": "https://github.com/cathrynlavery/diagram-design/tree/main",
+  "title": "Diagram Design: 39 editorial HTML+SVG diagram types for agents",
+  "author": {
+    "name": "Cathryn Lavery",
+    "handle": "cathrynlavery",
+    "url": "https://github.com/cathrynlavery"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "infographics-diagrams",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "claude-code",
+    "codex",
+    "pi"
+  ],
+  "summary": "GitHub skill pack shipping 39 editorial diagram types as self-contained HTML and SVG for Claude Code, Codex, Factory Droid, and Pi. Installs via plugin marketplace, matches brand tokens from a target site, and redraws draw.io or Mermaid sources without default Mermaid styling.",
+  "question_it_answers": "How do I generate publication-grade architecture and strategy diagrams that match a brand instead of generic Mermaid output?",
+  "claims": [
+    {
+      "id": "github-cathrynlavery-diagram-design#c1",
+      "text": "The repo defines 39 diagram types including architecture, sequence, Sankey, Wardley, and user-journey layouts.",
+      "kind": "capability",
+      "evidence": "39 editorial diagram types for Claude Code, Codex, Factory Droid, and Pi.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "github-cathrynlavery-diagram-design#c2",
+      "text": "Diagrams ship as self-contained HTML and SVG with minimal light, dark, and editorial variants.",
+      "kind": "capability",
+      "evidence": "Self-contained HTML + SVG. No shadows, no Mermaid slop.",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "github-cathrynlavery-diagram-design#c3",
+      "text": "Install uses the diagram-design plugin marketplace commands.",
+      "kind": "recipe",
+      "evidence": "/plugin marketplace add cathrynlavery/diagram-design",
+      "evidence_source": "linked-page",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "brand-matched-diagrams",
+    "mermaid-redraw"
+  ],
+  "tools": [
+    "diagram-design"
+  ],
+  "links": {
+    "canonical": "https://github.com/cathrynlavery/diagram-design/tree/main",
+    "repo": "https://github.com/cathrynlavery/diagram-design",
+    "paper": null,
+    "product": "https://cathrynlavery.github.io/diagram-design/",
+    "other": [
+      "https://cathrynlavery.github.io/diagram-design/",
+      "https://littlemight.com"
+    ],
+    "related_items": [
+      "github-antvis-infographic",
+      "web-flint-chart",
+      "github-emilkowalski-skills",
+      "github-google-labs-code-design-md",
+      "web-checklist-design"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-cathrynlavery-diagram-design",
+    "post": false,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "infographics",
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-antvis-infographic"
+    ],
+    "must_read": true,
+    "why_must_read": "Highest-star editorial diagram skill; primary alternative to Mermaid for architecture pages."
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

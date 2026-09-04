@@ -1,0 +1,97 @@
+{
+  "schema_version": "1",
+  "id": "x-2087151521121419648",
+  "source_type": "x",
+  "url": "https://x.com/CopilotKit/status/2087151521121419648",
+  "title": "CopilotKit aimock — single-port mock stack for LLM, MCP, and search",
+  "author": {
+    "name": "CopilotKit",
+    "handle": "CopilotKit",
+    "url": "https://x.com/CopilotKit"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:35:35Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "mcp-and-agent-browsers",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "mcp",
+    "cli"
+  ],
+  "summary": "Launch post for @copilotkit/aimock, an open-source npm package that mocks LLM APIs, MCP, A2A, AG-UI, vector databases, and search on one local port with zero dependencies. Targets deterministic agent and MCP client development without live API keys.",
+  "question_it_answers": "How can I mock an entire agent app's external stack locally on one port for development and tests?",
+  "claims": [
+    {
+      "id": "x-2087151521121419648#c1",
+      "text": "aimock exposes the full agent stack on one package and one port.",
+      "kind": "capability",
+      "evidence": "That's the full stack. One package. One port.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2087151521121419648#c2",
+      "text": "Install is a single npm package command.",
+      "kind": "recipe",
+      "evidence": "`npm i @copilotkit/aimock`",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "copilotkit-aimock"
+  ],
+  "links": {
+    "canonical": "https://x.com/CopilotKit/status/2087151521121419648",
+    "repo": "https://github.com/CopilotKit/aimock",
+    "paper": null,
+    "product": "https://aimock.copilotkit.dev",
+    "other": [
+      "https://aimock.copilotkit.dev",
+      "https://github.com/CopilotKit/aimock"
+    ],
+    "related_items": [
+      "github-superdesigndev-treg",
+      "web-aidesigner-mcp",
+      "github-punkpeye-awesome-mcp-servers",
+      "web-blume-codes"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2087151521121419648",
+    "post": true,
+    "comments": true,
+    "research": true,
+    "legacy_topics": [
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

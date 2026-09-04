@@ -1,0 +1,70 @@
+{
+  "schema_version": "1",
+  "id": "x-2090787985721856437",
+  "source_type": "x",
+  "url": "https://x.com/zcode_ai/status/2090787985721856437",
+  "title": "ZCode GLM-5.3 weekend token giveaway for new sign-ups",
+  "author": {
+    "name": null,
+    "handle": "zcode_ai",
+    "url": "https://x.com/zcode_ai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:52:36Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "availability-announcement",
+  "shelf_reason": "Time-boxed ZCode promo offering 100M GLM-5.3 tokens to 50,000 new users during Aug 22–24 2026 UTC+8; expired giveaway with no durable technique once the event ends.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "ZCode weekend event post promising 100 million free GLM-5.3 tokens to first-time sign-ins during a short August 2026 window, with unused tokens expiring when the event ends.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/zcode_ai/status/2090787985721856437",
+    "repo": null,
+    "paper": null,
+    "product": "http://zcode.z.ai",
+    "other": [],
+    "related_items": [
+      "x-2088594942482374759",
+      "x-2088695568474546387",
+      "x-2090103470015828184"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Dark promotional poster for ZCode Weekend Build II offering 100M free GLM-5.3 tokens to new users between Aug 22 and Aug 24 2026 UTC+8 with glowing blue eggs in a tray.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2090787985721856437",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

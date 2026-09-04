@@ -1,0 +1,62 @@
+{
+  "schema_version": "1",
+  "id": "x-2089377925086982281",
+  "source_type": "x",
+  "url": "https://x.com/tjrfinn/status/2089377925086982281",
+  "title": "Luo cold-calling tool promo without linked product artifact",
+  "author": {
+    "name": null,
+    "handle": "tjrfinn",
+    "url": "https://x.com/tjrfinn"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:47Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "out-of-scope",
+  "shelf_reason_code": "real-artifact-no-subject",
+  "shelf_reason": "Founder pitch for a self-built cold-calling tool named Luo with no URL, repo, or demo in the capture; outbound voice sales outside the library's documented MCP sales stacks.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "announcement",
+  "platforms": [],
+  "summary": "Startup founder says they built a cold-calling tool called Luo for themselves and are sharing it, but the post includes no link or artifact to evaluate.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/tjrfinn/status/2089377925086982281",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "web-graphed",
+      "web-treg-people-search"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2089377925086982281",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

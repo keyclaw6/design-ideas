@@ -1,0 +1,100 @@
+{
+  "schema_version": "1",
+  "id": "x-2093481253043380418",
+  "source_type": "x",
+  "url": "https://x.com/CalliopeLabsyt/status/2093481253043380418",
+  "title": "Calliope: idea-to-finished 2D faceless YouTube video pipeline",
+  "author": {
+    "name": "Calliope for YouTube",
+    "handle": "CalliopeLabsyt",
+    "url": "https://x.com/CalliopeLabsyt"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:47Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-video-generation",
+  "secondary_subjects": [],
+  "roles": [
+    "product",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Calliope product demo claiming one idea flows through script, characters, 2D animation, and voiceover into a finished faceless YouTube video without animation experience.",
+  "question_it_answers": "Which tool turns a single idea into a complete faceless 2D YouTube video with script, characters, animation, and voiceover?",
+  "claims": [
+    {
+      "id": "x-2093481253043380418#c1",
+      "text": "Calliope turns one idea into a complete 2D video through script, characters, animation, and voiceover.",
+      "kind": "capability",
+      "evidence": "One idea → script → characters → 2D animation → voiceover → finished video.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2093481253043380418#c2",
+      "text": "Calliope requires no animation experience—users only supply the idea.",
+      "kind": "capability",
+      "evidence": "No animation experience required.\n\nJust bring the idea.",
+      "evidence_source": "post",
+      "evidence_ref": "post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": null,
+  "numbers": [],
+  "techniques": [
+    "faceless-youtube-pipeline"
+  ],
+  "tools": [
+    "calliope"
+  ],
+  "links": {
+    "canonical": "https://x.com/CalliopeLabsyt/status/2093481253043380418",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/media_0.mp4",
+      "type": "video",
+      "description": "Product demo clip showing Calliope generating a finished 2D animated faceless video from a single idea through script, characters, animation, and voiceover.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2093481253043380418",
+    "post": "post.md",
+    "comments": "comments.md",
+    "research": "research.md",
+    "legacy_topics": [
+      "video-generation"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-12",
+  "written_at": "2026-09-04T18:10:00Z"
+}

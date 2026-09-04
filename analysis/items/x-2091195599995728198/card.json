@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "id": "x-2091195599995728198",
+  "source_type": "x",
+  "url": "https://x.com/TechEmails/status/2091195599995728198",
+  "title": "TechEmails Steve Jobs Google-hire email from March 2006",
+  "author": {
+    "name": "TechEmails",
+    "handle": "TechEmails",
+    "url": "https://x.com/TechEmails"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:49Z",
+  "lang": "en",
+  "disposition": "shelf",
+  "shelf": "noise",
+  "shelf_reason_code": "unrelated-personal",
+  "shelf_reason": "TechEmails reposts a 2006 Steve Jobs email about a potential Google hire—historical corporate gossip with no agent, design, SEO, or 3D artifact relevant to this corpus.",
+  "duplicate_of": null,
+  "primary_subject": null,
+  "secondary_subjects": [],
+  "roles": [],
+  "artifact_type": "thread",
+  "platforms": [],
+  "summary": "X teaser from @TechEmails for a March 28, 2006 Steve Jobs email concerning a Google hiring decision. The capture has no tooling, workflow, or technical artifact tied to any analysis subject in this bank.",
+  "question_it_answers": null,
+  "claims": [],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/TechEmails/status/2091195599995728198",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091195599995728198",
+    "post": true,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [],
+    "legacy_filtered": true
+  },
+  "readiness": "shelved",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": "1",
+  "id": "x-2088240171565412733",
+  "source_type": "x",
+  "url": "https://x.com/HarshithLucky3/status/2088240171565412733",
+  "title": "Gemini Antigravity builds photoreal Bugatti W16 Three.js scene in four minutes",
+  "author": {
+    "name": null,
+    "handle": "HarshithLucky3",
+    "url": "https://x.com/HarshithLucky3"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:47Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "image-to-3d-world"
+  ],
+  "roles": [
+    "example",
+    "technique"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "gemini",
+    "three-js"
+  ],
+  "summary": "Demo post showing Gemini 3.7 Flash High inside Google Antigravity generating a Bugatti W16 engine in Three.js in about four minutes, with mechanically accurate internals and a photoreal exterior. Serves as a capability benchmark for agent-built mechanical 3D heroes.",
+  "question_it_answers": "Can a fast Gemini agent in Antigravity produce inspectable mechanical Three.js equipment scenes for marketing?",
+  "claims": [
+    {
+      "id": "x-2088240171565412733#c1",
+      "text": "Gemini 3.7 Flash High in Antigravity produced the scene in roughly four minutes.",
+      "kind": "result",
+      "evidence": "it created this in ~4 mins - pretty fast and perfect",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2088240171565412733#c2",
+      "text": "Output is a Bugatti W16 with mechanically accurate internals and photoreal exterior in Three.js.",
+      "kind": "capability",
+      "evidence": "Bugatti W16 engine with mechanically accurate internals and photorealistic exterior in Three.js",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "agent-threejs-mechanical-modeling"
+  ],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/HarshithLucky3/status/2088240171565412733",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-skills",
+      "github-mengto-complete-shelf",
+      "x-2088265078919282836",
+      "web-feralui-dev"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2088240171565412733",
+    "post": true,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "three-js",
+      "agent-skills",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

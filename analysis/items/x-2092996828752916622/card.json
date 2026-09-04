@@ -1,0 +1,75 @@
+{
+  "schema_version": "1",
+  "id": "x-2092996828752916622",
+  "source_type": "x",
+  "url": "https://x.com/DopeOblivion/status/2092996828752916622",
+  "title": "Forja landing template for AI agencies and automation studios",
+  "author": {
+    "name": "Miguel Queirós",
+    "handle": "DopeOblivion",
+    "url": "https://x.com/DopeOblivion"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:36Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "landing-ui-motion",
+  "secondary_subjects": [],
+  "roles": [
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [],
+  "summary": "Release announcement for the Forja website template aimed at AI agencies, agent studios, and automation companies. The post points to a full site demo in replies rather than embedding technical build details in the tweet itself.",
+  "question_it_answers": "Where can I find a landing-page template tailored to AI agency and automation studio positioning?",
+  "claims": [
+    {
+      "id": "x-2092996828752916622#c1",
+      "text": "Forja is a template for AI agencies, agent studios, and automation companies.",
+      "kind": "capability",
+      "evidence": "Template for AI agencies, agent studios, and automation companies",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "landing-ui-motion"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/DopeOblivion/status/2092996828752916622",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092996828752916622",
+    "post": true,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "linked-page-unfetched"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

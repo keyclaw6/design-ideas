@@ -1,0 +1,101 @@
+{
+  "schema_version": "1",
+  "id": "x-2093309791120543846",
+  "source_type": "x",
+  "url": "https://x.com/trending_repos/status/2093309791120543846",
+  "title": "archify trending repo — agent skill for animated architecture diagrams",
+  "author": {
+    "name": null,
+    "handle": "trending_repos",
+    "url": "https://x.com/trending_repos"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T08:04:14Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "infographics-diagrams",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "repo",
+  "platforms": [],
+  "summary": "Trending-repo highlight for archify, an agent skill that renders verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams as self-contained HTML with motion and crisp export. Reported 4,561 stars in 24h and 25,424 total at capture.",
+  "question_it_answers": "What is archify and how does its agent skill differ for animated architecture diagrams?",
+  "claims": [
+    {
+      "id": "x-2093309791120543846#c1",
+      "text": "archify generates self-contained HTML diagrams with motion and export for architecture and workflow types.",
+      "kind": "capability",
+      "evidence": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2093309791120543846#c2",
+      "text": "The repo gained 4,561 stars in 24 hours per the trending post.",
+      "kind": "benchmark",
+      "evidence": "Last 24h: 4,561 ⭐",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "infographics-diagrams"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "stars last 24h",
+      "value": "4561",
+      "unit": null,
+      "source": "post"
+    },
+    {
+      "label": "total stars",
+      "value": "25424",
+      "unit": null,
+      "source": "post"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "archify"
+  ],
+  "links": {
+    "canonical": "https://x.com/trending_repos/status/2093309791120543846",
+    "repo": "https://github.com/tt-a1i/archify",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2093309791120543846",
+    "post": true,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "infographics",
+      "agent-skills",
+      "design",
+      "ui-motion"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}

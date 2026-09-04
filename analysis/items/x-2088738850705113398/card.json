@@ -1,0 +1,105 @@
+{
+  "schema_version": "1",
+  "id": "x-2088738850705113398",
+  "source_type": "x",
+  "url": "https://x.com/scottstts/status/2088738850705113398",
+  "title": "Three.js Awesome Graphics Agent Skills v0.8.0 release with new examples",
+  "author": {
+    "name": null,
+    "handle": "scottstts",
+    "url": "https://x.com/scottstts"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:31Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "codex",
+    "three-js"
+  ],
+  "summary": "Release announcement for Three.js Awesome Graphics Agent Skills v0.8.0 with a Codex installer and three new gallery examples: procedural Optimus humanoid, physics diffraction-grating shader, and procedural flower field. Extends the graphics skill pack for agent-built WebGL scenes.",
+  "question_it_answers": "What is new in Three.js Awesome Graphics Agent Skills v0.8.0 and how do I install it for Codex?",
+  "claims": [
+    {
+      "id": "x-2088738850705113398#c1",
+      "text": "Version 0.8.0 adds procedural Optimus, diffraction-grating shader, and flower-field examples.",
+      "kind": "capability",
+      "evidence": "Added 3 more examples:\n\n- procedural Optimus humanoid\n- physics-based diffraction grating shader\n- procedural flower field (@JungleSilicon)",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2088738850705113398#c2",
+      "text": "Codex install uses npx threejs-awesome-graphics-agent-skills@latest.",
+      "kind": "recipe",
+      "evidence": "npx threejs-awesome-graphics-agent-skills@latest install --agent codex",
+      "evidence_source": "post",
+      "evidence_ref": null,
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "threejs-awesome-graphics-agent-skills"
+  ],
+  "links": {
+    "canonical": "https://x.com/scottstts/status/2088738850705113398",
+    "repo": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills"
+    ],
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-skills",
+      "x-2089400082550620636",
+      "x-2089602918605619401"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "55-second screen recording demoing v0.8 gallery scenes including procedural humanoid, diffraction shader, and flower field at 3442x2160.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2088738850705113398",
+    "post": true,
+    "comments": false,
+    "research": true,
+    "legacy_topics": [
+      "three-js",
+      "agent-skills",
+      "camera-control"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": false,
+    "why_must_read": null
+  },
+  "worker": "cards-03",
+  "written_at": "2026-09-04T18:06:28Z"
+}
