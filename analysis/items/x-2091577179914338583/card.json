@@ -71,6 +71,16 @@
       "evidence_ref": "analysis/tools/cozyclay.md",
       "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2091577179914338583#c5",
+      "text": "CozyClay verify:capture succeeded after SwiftShader Chrome flags and a 30s live-hub timeout: 640×360 PNG, 230,400 non-black pixels, five framed views on-camera, cube occluder 0 then 7168 visible pixels. Banked artifact is 93,730 bytes.",
+      "kind": "result",
+      "evidence": "exit 0 twice; happy byteSize 116977 then 117016; artifact-640x360.png 93730 B 640x360 RGBA. Stock 5s timeout had failed. See cozyclay NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cozyclay.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": null,

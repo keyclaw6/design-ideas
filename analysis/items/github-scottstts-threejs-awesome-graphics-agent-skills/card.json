@@ -53,6 +53,16 @@
       "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
       "confidence": "demonstrated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c3",
+      "text": "The same official capture script with --debug no-flare wrote an 848,177-byte 1440×900 PNG of filmic-lens-flare. GPU frame time still unmeasured.",
+      "kind": "result",
+      "evidence": "threejs-procedural-vfx-filmic-lens-flare-no-flare.png 848177 bytes; manifest-no-flare.json debugMode no-flare; runtimeErrors [].",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],

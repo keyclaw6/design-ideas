@@ -1,0 +1,53 @@
+{
+  "suite": "npm run verify:capture",
+  "patches_in_clone": {
+    "qa-chrome.mjs": [
+      "--use-gl=angle",
+      "--use-angle=swiftshader",
+      "--ignore-gpu-blocklist",
+      "--enable-webgl",
+      "--disable-gpu-sandbox"
+    ],
+    "live-hub.mjs": "DEFAULT_COMMAND_TIMEOUT_MS 5000 -> 30000"
+  },
+  "chrome": "/usr/bin/google-chrome",
+  "runs": [
+    {
+      "happy": {
+        "width": 640,
+        "height": 360,
+        "byteSize": 116977,
+        "nonBlackPixels": 230400,
+        "stateHash": "03dfceeb29aaafacf56333492561d646fe7b94bf966d1b58bafa49eca2d26829"
+      },
+      "artifact_byteSize": 93730
+    },
+    {
+      "happy": {
+        "width": 640,
+        "height": 360,
+        "byteSize": 117016,
+        "nonBlackPixels": 230400,
+        "stateHash": "3a5f9242705f9762df7acdfacd203c06ca80420ea65c5ae92d1bbe614a00e2b4"
+      },
+      "artifact_byteSize": 93730,
+      "banked": "artifact-640x360.png"
+    }
+  ],
+  "framed_second_run": {
+    "front": { "visiblePixelCount": 6144, "behindCameraPlane": false },
+    "front three-quarter": { "visiblePixelCount": 7168, "behindCameraPlane": false },
+    "profile": { "visiblePixelCount": 6144, "behindCameraPlane": false },
+    "rear three-quarter": { "visiblePixelCount": 7168, "behindCameraPlane": false },
+    "back": { "visiblePixelCount": 7168, "behindCameraPlane": false }
+  },
+  "occlusion_second_run": {
+    "objectId": "cube",
+    "occluded_visiblePixelCount": 0,
+    "clear_visiblePixelCount": 7168
+  },
+  "rejected": ["blackFrame", "noCamera", "oversize"],
+  "exit": 0,
+  "note": "Stock 5s live-hub timeout timed out earlier on this host. Do not collapse the two happy byteSize values.",
+  "captured_at": "2026-09-04T22:27:00Z"
+}

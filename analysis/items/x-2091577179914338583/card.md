@@ -17,6 +17,7 @@ come look, opensource
 https://github.com/NomaDamas/CozyClay" [post]
 - `x-2091577179914338583#c3` (result, demonstrated) CozyClay mcp verify (v1.7.0, no editor) lists 25 tools, checks 420 frame_shot combinations, and render_prompt (seedance_2 video) carries wide-shot / 24mm / both subjects. README 24-tool count is stale. — evidence: "npm run verify exit 0; listTools 25 including load_motion; render_prompt mode=video model=seedance_2; .cclayproject save/open round-trip." [note]
 - `x-2091577179914338583#c4` (result, demonstrated) CozyClay npm run verify:capture on this host reached a live editor then timed out on capture_frame (isError: Live editor timed out running capture_frame). No 640x360 PNG receipt. — evidence: "verify-live-capture.mjs + google-chrome headless=new; assertion actual true / expected undefined. See cozyclay NOTES." [note]
+- `x-2091577179914338583#c5` (result, demonstrated) CozyClay verify:capture succeeded after SwiftShader Chrome flags and a 30s live-hub timeout: 640×360 PNG, 230,400 non-black pixels, five framed views on-camera, cube occluder 0 then 7168 visible pixels. Banked artifact is 93,730 bytes. — evidence: "exit 0 twice; happy byteSize 116977 then 117016; artifact-640x360.png 93730 B 640x360 RGBA. Stock 5s timeout had failed. See cozyclay NOTES." [note]
 **Numbers.** AI video generation cost: 17 USD per 30s (post)
 **Recipe.** —
 **Techniques.** —

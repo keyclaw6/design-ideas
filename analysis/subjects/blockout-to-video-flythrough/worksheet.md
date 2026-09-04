@@ -47,6 +47,6 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 ## blockout-to-video-flythrough — next capture work
 
 1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file).
-2. CozyClay `mcp` verify (25 tools, 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip) is on [cozyclay](../../tools/cozyclay.md). `npm run verify:capture` reached a live editor then **timed out** on `capture_frame` (no 640×360 PNG). Remaining: a successful live-editor capture (likely needs GPU/SwiftShader).
+2. CozyClay `mcp` verify (25 tools, 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip) is on [cozyclay](../../tools/cozyclay.md). Stock `verify:capture` timed out at 5 s. With SwiftShader flags + 30 s timeout it passed: **640×360** PNG, **230,400** non-black pixels, five on-camera views, cube occluder 0→7168. Banked `analysis/_work/captures/cozyclay-capture/artifact-640x360.png` (**93,730** B). Remaining: a GPU (non-SwiftShader) capture, and the same-blockout Seedance vs 3D Director pass.
 3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
 4. Do not expand this lane with more model-launch tweets.
