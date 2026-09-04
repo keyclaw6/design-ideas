@@ -93,10 +93,18 @@
       "target": "https://api.fxtwitter.com/olavlj/status/2094524951025914278",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-04T23:29:40Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/olavlj/status/2094524951025914278",
+      "outcome": "ok",
+      "note": "article 2094493136743473152 title How We Built a Next-Level Landing Page; 68 blocks / 8070 body chars"
     }
   ],
   "raw_payloads": [
-    "raw/items/x-2094524951025914278/thread-raw/x-web-dom-20260904T175333Z.html"
+    "raw/items/x-2094524951025914278/thread-raw/x-web-dom-20260904T175333Z.html",
+    "raw/items/x-2094524951025914278/thread-raw/fxtwitter-article-2094493136743473152-20260904T233000Z.json"
   ],
   "worker": "threads-script",
   "written_at": "2026-09-04T17:54:20Z"

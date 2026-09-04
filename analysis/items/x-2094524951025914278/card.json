@@ -63,6 +63,26 @@
       "evidence_ref": "research.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094524951025914278#c4",
+      "text": "fxtwitter article 2094493136743473152 is 68 blocks / 8,070 chars titled How We Built a Next-Level Landing Page. It names four elements: parallax hero, interactive product screenshots, journey vine, flower theme picker. Minimum 3 parallax layers; they used 7. Codex is preferred because it can code and generate images (Claude Code + fal.ai is the alternative).",
+      "kind": "recipe",
+      "evidence": "See you can spot the four elements… You should have a minimum of 3 layers… we ended up with 7 layers. Why Codex? Because Codex can both code and generate images.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blume.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094524951025914278#c5",
+      "text": "Article: landing page and Electron app share a Turborepo UI package (mock-data embed). Codex ran a week-long /goal refactor to get there. Six flower themes; Dicebear crowns seeded by the current date; theme also settable from settings inside the app demo. Body does not say nearer layers move faster.",
+      "kind": "capability",
+      "evidence": "We have a Turborepo setup… Codex ran a week-long /goal task… One recurring theme in Blume is our 6 flowers… crowns are seeded using the current date.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blume.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
@@ -78,6 +98,12 @@
       "value": "46503",
       "unit": "views",
       "source": "post"
+    },
+    {
+      "label": "flower themes",
+      "value": "6",
+      "unit": "themes",
+      "source": "linked-page"
     }
   ],
   "techniques": [

@@ -1,8 +1,8 @@
 # Thread — Blume.codes landing page build breakdown (X article) (x-2094524951025914278)
 
 **Status:** captured_partial · **Author thread:** none · **Replies reported:** 13 · **Captured:** 3 · **Relevant:** 3 · **Unfetched:** 10 · **Truncated:** False
-**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z)
-**Raw payloads:** `raw/items/x-2094524951025914278/thread-raw/x-web-dom-20260904T175333Z.html`
+**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T23:29:40Z)
+**Raw payloads:** `raw/items/x-2094524951025914278/thread-raw/x-web-dom-20260904T175333Z.html`, `raw/items/x-2094524951025914278/thread-raw/fxtwitter-article-2094493136743473152-20260904T233000Z.json`
 
 **Author continuation (0 posts).**
 **Quoted.**
