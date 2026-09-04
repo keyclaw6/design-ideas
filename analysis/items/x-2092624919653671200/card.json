@@ -23,7 +23,7 @@
     "reference",
     "example"
   ],
-  "artifact_type": "reference",
+  "artifact_type": "opinion",
   "platforms": [],
   "summary": "Short X appreciation post pointing at doss.com as an illustration-heavy ERP marketing landing; the author praises the visuals while admitting unfamiliarity with ERP products.",
   "question_it_answers": "Which ERP marketing site is cited as an illustration-heavy landing reference?",

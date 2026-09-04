@@ -20,8 +20,8 @@
   "primary_subject": "image-to-3d-world",
   "secondary_subjects": [],
   "roles": [
-    "paper",
-    "claim-source"
+    "claim-source",
+    "reference"
   ],
   "artifact_type": "paper",
   "platforms": [
