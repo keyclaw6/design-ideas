@@ -7,4 +7,8 @@
 
 <!-- NOTES:START -->
 
+Fetched 2026-09-04 https://getdesign.md
+
+Homepage still advertises **550+** DESIGN.md analyses and “Follows Google’s official DESIGN.md spec.” Catalog is request/gated (sign-in, Catalog Pass). Did not download a file to diff against the Google Labs YAML+markdown spec.
+
 <!-- NOTES:END -->

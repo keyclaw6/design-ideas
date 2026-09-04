@@ -30,7 +30,7 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 
 - treg 2,896 endpoints — must-read; README restates the integer ([treg](../../tools/treg.md)). Public repo has no catalog dump; still need `treg catalog` output.
 - Obscura ~24k stars, sub-50ms boot, 30MB RAM, 85ms loads — marketing + viral restatement; time a session locally.
-- Kitesurf “ported from Obscura” — Cloudflare blog; note what the Workers beta cannot do (downloads, extensions).
+- Kitesurf “ported from Obscura” — blog + Browser Run limits fetched ([kitesurf](../../tools/kitesurf.md)). Cannot yet: video, WebGL, bot-challenge TLS, long authenticated sessions. Free plan: 10 min/day, 3 concurrent, 60s idle.
 - Free search “$0 vs $7/1k” — name the API or drop the claim.
 - OmniParser accuracy on GPT-4o / DeepSeek / Qwen — paper numbers, not in this capture.
 

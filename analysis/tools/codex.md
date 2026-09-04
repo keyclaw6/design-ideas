@@ -10,4 +10,8 @@
 
 <!-- NOTES:START -->
 
+212× tweet vs blog (fetched 2026-09-04 https://sankalp.bearblog.dev/autoresearch/):
+
+The **blog title and body say 232×**, not 212×. GPU Mode × Core Automation contest: batched compact-Householder QR (`qr_v2`). Author placed **12th of 183**. Baseline `torch.geqrf` ~419,000 µs; final tracked **1,805 µs** → 232×. Lineage chart starts later (108,803 → 1,805 µs). Agent-friendly popcorn CLI; unlimited spaced submissions; Modal/nsys/NCU profiling. First serious auto-research attempt. Treat the card’s “212×” as a stale tweet number.
+
 <!-- NOTES:END -->

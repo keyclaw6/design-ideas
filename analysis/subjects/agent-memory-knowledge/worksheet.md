@@ -33,10 +33,10 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 
 ## agent-memory-knowledge — claims that need a receipt
 
-- gbrain 97.6% R@5 on LongMemEval without an LLM in retrieval — need the eval harness, not the tweet.
+- gbrain “97.6% R@5” tweet vs **gbrain-evals README (2026-09-02, v0.48.2.0)**: official `recall_all@5` **93.19%** reranker off (438/470) / **95.32%** with Voyage rerank-2.5 (448/470). No generative LLM in the retrieval loop; reranker row adds one Voyage call. Different metric than the tweet.
 - Cerebras 15,000+ questions/day — internal metric.
-- OpenViking “Viking protocol” + three-level search — hype post; read the repo tree.
-- ReasoningBank stores failures as well as successes — explainer thread; confirm against the paper.
+- OpenViking “Viking protocol” — README fetched: `viking://` + L0/L1/L2, AGPLv3 ([openviking](../../tools/openviking.md)).
+- ReasoningBank stores failures as well as successes — README + ICLR 2026 paper; **demo-only, not an official Google product** ([reasoning-bank](../../tools/reasoning-bank.md)).
 - Slite “nine architectures” — ebook; extract the comparison table into claims.
 
 ## agent-memory-knowledge — do not treat as load-bearing
@@ -47,6 +47,6 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 
 ## agent-memory-knowledge — next capture work
 
-1. Pull the Gasquez essay’s ETL steps into technique NOTES on `context-etl`.
-2. Save gbrain-evals numbers from the repo/README.
+1. Gasquez extract/transform/publish is on [context-etl](../../techniques/context-etl.md). Remaining: one example artifact list from a real vault.
+2. gbrain-evals official rows are 93.19% / 95.32% `recall_all@5`, not 97.6%. Keep the tweet as marketing.
 3. Diff Ryven’s five automations against Obsidian Mind’s template files.

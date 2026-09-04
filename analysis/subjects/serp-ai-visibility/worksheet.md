@@ -19,7 +19,7 @@ Scores are `high` / `mid` / `low` / `unknown` against the brief axes. `unknown` 
 
 | item | time-to-first-index-or-citation | paid API/SaaS | first-party GSC/crawl | AEO/GEO not only SERP | agent-callable | evidence |
 |---|---|---|---|---|---|---|
-| github-iannuttall-seo | mid (audit, not citation) | low (local; Google APIs) | high | low | high (CLI/MCP) | stated (repo README) |
+| github-iannuttall-seo | mid (audit, not citation) | low (local; Google APIs) | high | low | high (CLI/MCP) | README fetched: `seo` + `seo mcp install` ([seo-skill-cli](../../tools/seo-skill-cli.md)) |
 | OpenSEO + DataforSEO | mid | mid (API usage) | mid | low | mid (Workers + API) | stated |
 | Brave submit-url | mid (index request only) | low | low | mid (Brave answers) | low (form; CAPTCHA) | stated; form not exercised |
 | TinyShelf | high if badge accepted | low (free + badge) | low | low | low | directory live: 19 cats / ~657 listings (2026-09-04); DR 11→46 still tweet-only |

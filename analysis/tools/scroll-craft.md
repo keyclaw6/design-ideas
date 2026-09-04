@@ -9,4 +9,8 @@
 
 <!-- NOTES:START -->
 
+Fetched 2026-09-04 README https://github.com/nateherkai/scroll-craft
+
+MIT Claude Code plugin. Install: `/plugin marketplace add nateherkai/scroll-craft` then `/plugin install nateherk-design`; invoke `/nateherk-design:scroll-craft`. **Eight mutually exclusive page grammars** named: filmic one-shot, chaptered editorial, live surface, continuous world, typographic poster, gallery, split stage, rhythmic cutlist. Fingerprint gate: differ on ≥4 of 6 dimensions (grammar, nav, hero, act shape, close, signature move). Headless QA: dead scroll, faded cues, composited contrast, stuck posters + contact sheet. Refuse-list includes feature-card grids, `01/06` counters, gradient text, invented stats, AI-purple. Three public example sites on the README (aiautomationsociety.ai, nateherk.com, PERKFORM). Not exercised in this pass.
+
 <!-- NOTES:END -->

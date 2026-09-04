@@ -7,4 +7,8 @@
 
 <!-- NOTES:START -->
 
+Fetched 2026-09-04 README https://github.com/nexu-io/html-video
+
+**Apache-2.0**. Default engine **Hyperframes**: headless Chromium records HTML/CSS/GSAP, ffmpeg libx264 → local MP4. README lists a long agent set (Open Design, Claude Code, Cursor, Codex, Gemini, Grok, …) — “14 agents” is the card count; README is a longer name list. **21 templates** with `template.html-video.yaml` manifests; gallery shows 6 + “15 more.” Remotion / Motion Canvas / Manim adapters are **roadmap, not built**. No local MP4 was rendered in this pass (needs Playwright Chromium + ffmpeg).
+
 <!-- NOTES:END -->

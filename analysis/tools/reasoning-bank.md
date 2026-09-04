@@ -7,4 +7,8 @@
 
 <!-- NOTES:START -->
 
+Fetched 2026-09-04 README https://github.com/google-research/reasoning-bank
+
+Memory from **success and failure** trajectories; “memory-aware test-time scaling.” Runnable code for **WebArena** (browsergym + docker) and **SWE-Bench** (mini-swe-agent). Paper: Ouyang et al., ICLR 2026, https://openreview.net/forum?id=jL7fwchScm. Disclaimer: **not an official Google product**, demo-only, not for production. Failures-as-memory is in the README, not just the tweet.
+
 <!-- NOTES:END -->

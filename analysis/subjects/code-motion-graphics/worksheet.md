@@ -30,8 +30,8 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 
 ## code-motion-graphics — claims that need a receipt
 
-- html-video default path Hyperframes + ffmpeg — `demonstrated` on the card; still confirm one local MP4 from this repo checkout.
-- 14 agents / 21 templates / 403 recipes / 152 shot cards — README counts; grep the repos.
+- html-video default path Hyperframes + ffmpeg — README confirms Chromium + libx264; Remotion adapter **not built** ([html-video](../../tools/html-video.md)). Still no local MP4 from this host.
+- 21 templates confirmed on html-video README. 14-agent count is a card summary of a longer name list. 403 / 152 still need repo greps.
 - LottieFiles “~90% smaller than GIF” and “800k+” — marketing.
 - HeyGen HyperFrames “code is in the thread” — confirm the code actually landed in `thread.md`.
 - MiniMax M3 logo-to-brand-film — claim-source, no recipe.

@@ -30,7 +30,7 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 ## outbound-gtm-agents — claims that need a receipt
 
 - 97 prospects → 1 demo in 24h — must-read; need the ICP definition and whether the demo was booked or held.
-- treg $0.0089 per lead and “1B+ contacts” — launch math; run one query through People Search Bench.
+- treg $0.0089 per lead and “1B+ contacts” — launch math. People Search Bench leaderboard (README): Lessie 65.2 / Exa 55.0 / Claude Code 46.0 / Juicebox 45.8 — **treg is not on the table** ([people-search-bench](../../tools/people-search-bench.md)).
 - 10k emails/day via 500 inboxes / 167 domains — capacity formula, not a delivered log.
 - MapsData ~$0.33–$0.98 per 1k leads — promo pricing.
 - Nine Grok bots as a “full marketing stack” — same thin bundle already flagged on the SERP worksheet.

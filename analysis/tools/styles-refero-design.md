@@ -7,4 +7,8 @@
 
 <!-- NOTES:START -->
 
+Fetched 2026-09-04 https://styles.refero.design/
+
+Beta gallery copy: **“Browse 2,000+ AI-readable design systems.”** Refero MCP advertised for agent search. Visible tiles include Caldera, ORYZO, Apple, Stripe, Linear, Notion, etc. Count not independently enumerated (no public file list). MCP not connected in this pass.
+
 <!-- NOTES:END -->

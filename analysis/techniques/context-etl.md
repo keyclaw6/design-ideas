@@ -14,4 +14,10 @@ Treat context as an ETL job: canonical datasets, llms.txt products, company-brai
 Owner subject: `agent-memory-knowledge`. Referenced by 5 item(s): web-anthropic-claude-self-service-data, web-davidgasquez-context-engineering, web-iandmacomber-post-ai-data-stack, x-2091169290661838965, x-2092918452423983363.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+Gasquez essay fetched 2026-09-04 (https://davidgasquez.com/context-engineering-is-a-data-problem, 2026-08-02):
+1. **Extract** raw sources into a filesystem/DB, keep original shape (Slack JSON, Slides PDF).
+2. **Transform** into org-specific artifacts (summarize, extract, clean) — no universal “correct” company knowledge.
+3. **Publish** curated text files; embeddings only index those files (useful, expensive, disposable, optional).
+A company brain is built/tested/released like a data product, not prompted by dumping every raw source into the agent. Direct raw access can beat a stale KB; the durable layer is the encoded definition of “truth” (like a dbt model for a key action).
 <!-- NOTES:END -->

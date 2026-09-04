@@ -35,7 +35,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 
 ## agent-harness-loops — claims that need a receipt
 
-- Codex 212× QR kernel — must-read; need the blog numbers and the GPU Mode problem id, not the tweet.
+- Codex “212×” QR kernel — **blog says 232×** (419,000 µs → 1,805 µs), 12th of 183, GPU Mode `qr_v2` compact-Householder QR ([codex](../../tools/codex.md)). Tweet number is stale.
 - Autoquant 135 agents / four-layer pipeline — architecture claim.
 - fini 23,999 actions in 20 minutes — warning anecdote; useful as a blast-radius story, not a benchmark.
 - Anthropic cost $0.29 → 90% less — cookbook; re-run the notebook.
@@ -50,6 +50,6 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 
 ## agent-harness-loops — next capture work
 
-1. Fetch the Codex 212× blog into the item (or a linked-page note) so the speedup is quoted from the write-up.
+1. 232× / qr_v2 / 12th-of-183 is on the Codex tool NOTES. Remaining: the popcorn CLI + one submission id from the lineage chart.
 2. Clone Headlong and loop-library; list the actual template names.
 3. Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.

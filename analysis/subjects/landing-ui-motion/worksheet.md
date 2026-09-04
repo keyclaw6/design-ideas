@@ -33,7 +33,7 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 ## landing-ui-motion — claims that need a receipt
 
 - ReactBits Pro does “about 90%” of marketing motion ([x-2087812720762425743](../../items/x-2087812720762425743/card.md)) — author estimate, two-reply thread.
-- scroll-craft fingerprint gate on six dimensions — skill copy; need a before/after of the same landing failing the gate.
+- scroll-craft fingerprint gate — README names the eight grammars and the ≥4-of-6 rule ([scroll-craft](../../tools/scroll-craft.md)). Still need a before/after of one landing failing the gate.
 - Fable 5.1 “matches Fable 5 landing quality at lower cost” — 149s walkthrough; no side-by-side stills in the card.
 - 300-frame Gemini → Framer bind — pipeline named; no public repo of the 300 frames.
 - Originkit “363+” and Cult “92+ AI SDK patterns” — marketing counts; confirm on the live registries.
