@@ -1,0 +1,77 @@
+{
+  "schema_version": "1",
+  "id": "x-2092657951618249080",
+  "source_type": "x",
+  "url": "https://x.com/intangibleai/status/2092657951618249080",
+  "title": "Intangible AI camera parenting for multi-angle scene consistency",
+  "author": {
+    "name": "intangibleai",
+    "handle": "@intangibleai",
+    "url": "https://x.com/intangibleai"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:01:51Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "blockout-to-video-flythrough",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "tool"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "other"
+  ],
+  "summary": "Intangible AI claims easier consistency across scenes by placing cameras, animating them, and parenting to moving objects instead of prompt-and-pray for alternate angles.",
+  "question_it_answers": "How do you control multi-angle shots by parenting cameras to objects in 3D?",
+  "claims": [
+    {
+      "id": "x-2092657951618249080#c1",
+      "text": "Product lets users place cameras, animate, and parent them to moving objects for angles.",
+      "kind": "capability",
+      "evidence": "Place the cameras, animate, and parent them to moving objects.",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2092657951618249080/post.md",
+      "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/intangibleai/status/2092657951618249080",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2092657951618249080",
+    "post": "raw/items/x-2092657951618249080/post.md",
+    "comments": "raw/items/x-2092657951618249080/comments.md",
+    "research": "raw/items/x-2092657951618249080/research.md",
+    "legacy_topics": [
+      "camera-control",
+      "video-generation"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

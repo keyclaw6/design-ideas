@@ -1,0 +1,93 @@
+{
+  "schema_version": "1",
+  "id": "x-2087272209429766596",
+  "source_type": "x",
+  "url": "https://x.com/CadX_Studio/status/2087272209429766596",
+  "title": "CadXStudio one-prompt parametric bookshelf speaker enclosure",
+  "author": {
+    "name": "CadX_Studio",
+    "handle": "@CadX_Studio",
+    "url": "https://x.com/CadX_Studio"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:07:42Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-cad-hardware",
+  "secondary_subjects": [],
+  "roles": [
+    "example",
+    "tool"
+  ],
+  "artifact_type": "demo-video",
+  "platforms": [
+    "browser",
+    "other"
+  ],
+  "summary": "CadX Studio demo tweet shows a parametric bookshelf speaker enclosure with walnut legs and perforated steel grille generated from one text prompt at cadxstudio.in, claimed manufacturing-ready without traditional CAD software.",
+  "question_it_answers": "Can browser text-to-CAD produce a manufacturing-ready speaker enclosure from one prompt?",
+  "claims": [
+    {
+      "id": "x-2087272209429766596#c1",
+      "text": "Single prompt produced a parametric bookshelf speaker enclosure claimed manufacturing-ready.",
+      "kind": "result",
+      "evidence": "CadXStudio generated this  full parametric bookshelf speaker enclosure, walnut legs, perforated steel grille, manufacturing-ready.",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2087272209429766596/post.md",
+      "confidence": "stated",
+      "subject": "ai-cad-hardware"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "cadxstudio"
+  ],
+  "links": {
+    "canonical": "https://x.com/CadX_Studio/status/2087272209429766596",
+    "repo": null,
+    "paper": null,
+    "product": "https://cadxstudio.in",
+    "other": [],
+    "related_items": [
+      "x-2095193896687177873",
+      "x-2090535643353153833",
+      "x-2088252062454751483",
+      "x-2095548418533798086"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "video",
+      "description": "Screen recording of the generated walnut-legged bookshelf speaker with perforated grille rotating in CadX Studio.",
+      "skip_reason": null,
+      "carries_technique": true
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2087272209429766596",
+    "post": "raw/items/x-2087272209429766596/post.md",
+    "comments": "raw/items/x-2087272209429766596/comments.md",
+    "research": "raw/items/x-2087272209429766596/research.md",
+    "legacy_topics": [
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

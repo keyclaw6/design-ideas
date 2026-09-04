@@ -1,0 +1,94 @@
+{
+  "schema_version": "1",
+  "id": "x-2095336950890983773",
+  "source_type": "x",
+  "url": "https://x.com/ymt3d/status/2095336950890983773",
+  "title": "Browser beta: IZUTSUYA 3DGS Mesh Converter PLY to GLB/STL/OBJ",
+  "author": {
+    "name": "3D人-3dnchu- CG情報ブログ (@ymt3d)",
+    "handle": "@ymt3d",
+    "url": "https://x.com/ymt3d"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:50:10Z",
+  "lang": "ja",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "gaussian-splatting",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "browser",
+    "other"
+  ],
+  "summary": "3dnchu shares IZUTSUYA's browser-only 3DGS Mesh Converter beta at 4dgs.jp, converting PLY splats to GLB, STL, or OBJ without install or GPU, with a free tier. Distinct from Arcana Splat2Mesh desktop tool.",
+  "question_it_answers": "Is there a browser-only 3DGS PLY to mesh converter with a free plan?",
+  "claims": [
+    {
+      "id": "x-2095336950890983773#c1",
+      "text": "Web beta converts 3DGS PLY to GLB/STL/OBJ entirely in the browser with a free tier.",
+      "kind": "availability",
+      "evidence": "GLB・STL・OBJへ変換可能なWebサービスがβ公開！",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2095336950890983773/post.md",
+      "confidence": "stated",
+      "subject": "gaussian-splatting"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/ymt3d/status/2095336950890983773",
+    "repo": null,
+    "paper": null,
+    "product": "https://4dgs.jp/ja/3dgs-mesh-converter",
+    "other": [
+      "https://3dnchu.com/archives/3dgs-mesh-converter/"
+    ],
+    "related_items": [
+      "web-arcana-splat2mesh"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "4dgs.jp landing for 3DGS Mesh Converter beta showing PLY input to GLB/STL/OBJ output with no-install workflow.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095336950890983773",
+    "post": "raw/items/x-2095336950890983773/post.md",
+    "comments": "raw/items/x-2095336950890983773/comments.md",
+    "research": "raw/items/x-2095336950890983773/research.md",
+    "legacy_topics": [
+      "gaussian-splatting"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "translation-needed"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "web-arcana-splat2mesh",
+      "x-2094648474377839018"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

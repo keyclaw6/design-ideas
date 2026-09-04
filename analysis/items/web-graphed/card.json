@@ -1,0 +1,112 @@
+{
+  "schema_version": "1",
+  "id": "web-graphed",
+  "source_type": "website",
+  "url": "https://www.graphed.com/",
+  "title": "Graphed FDE marketing agents on warehouse plus MCP access",
+  "author": {
+    "name": "Graphed",
+    "handle": null,
+    "url": "https://www.graphed.com/"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "outbound-gtm-agents",
+  "secondary_subjects": [
+    "serp-ai-visibility"
+  ],
+  "roles": [
+    "tool",
+    "example"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp",
+    "cursor",
+    "other"
+  ],
+  "summary": "Graphed embeds forward-deployed engineers to build marketing agents on a managed pipeline into Postgres, with agents for ads, SEO, cold email, and more. Graphed MCP exposes read-only warehouse SQL and dashboards to Cursor or Claude Code.",
+  "question_it_answers": "How do marketing agents run on a managed warehouse with MCP query access?",
+  "claims": [
+    {
+      "id": "web-graphed#c1",
+      "text": "Platform connects 750+ marketing data sources into a modeled warehouse.",
+      "kind": "capability",
+      "evidence": "Connect channels — Meta, Google, Shopify, GA4, HubSpot, **750+ sources** → warehouse",
+      "evidence_source": "linked-page",
+      "evidence_ref": "raw/items/web-graphed/page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-graphed#c2",
+      "text": "Graphed MCP supports schema exploration and read-only ClickHouse SQL.",
+      "kind": "capability",
+      "evidence": "**Capabilities:** explore schema, run read-only ClickHouse SQL, publish live data endpoints, build embedded dashboards.",
+      "evidence_source": "linked-page",
+      "evidence_ref": "raw/items/web-graphed/page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "connected sources",
+      "value": "750+",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "graphed-mcp",
+    "dataforseo"
+  ],
+  "links": {
+    "canonical": "https://www.graphed.com/",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.graphed.com/",
+    "other": [
+      "https://www.graphed.com/mcp",
+      "https://mcp.graphed.com/mcp",
+      "https://www.graphed.com/register?returnTo=%2Fbook-demo"
+    ],
+    "related_items": [
+      "github-superdesigndev-treg",
+      "github-iannuttall-seo",
+      "web-crowdreply",
+      "web-anthropic-claude-self-service-data",
+      "github-romangojiberryAI-gojiberryai-sales-os"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-graphed",
+    "post": "raw/items/web-graphed/page.md",
+    "comments": null,
+    "research": "raw/items/web-graphed/research.md",
+    "legacy_topics": [
+      "mcp",
+      "seo-agents",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

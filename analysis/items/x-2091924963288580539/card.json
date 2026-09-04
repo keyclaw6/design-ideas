@@ -1,0 +1,81 @@
+{
+  "schema_version": "1",
+  "id": "x-2091924963288580539",
+  "source_type": "x",
+  "url": "https://x.com/i/status/2091924963288580539",
+  "title": "MiniMax H3 Max video model on Magnific tuned by fal",
+  "author": {
+    "name": "magnific",
+    "handle": "@magnific",
+    "url": "https://x.com/magnific"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T08:18:06Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "ai-video-generation",
+  "secondary_subjects": [],
+  "roles": [
+    "reference",
+    "claim-source"
+  ],
+  "artifact_type": "announcement",
+  "platforms": [
+    "fal",
+    "higgsfield",
+    "other"
+  ],
+  "summary": "Magnific announces H3 Max, a post-trained MiniMax H3 variant tuned by fal for stronger prompt adherence and visual quality, now available in Magnific's AI video generator at 480p.",
+  "question_it_answers": "What is MiniMax H3 Max and where can you run it?",
+  "claims": [
+    {
+      "id": "x-2091924963288580539#c1",
+      "text": "H3 Max is a fal-tuned MiniMax H3 post-train focused on prompt adherence and visual quality.",
+      "kind": "capability",
+      "evidence": "Tuned for stronger prompt adherence and elevated visual quality by @fal",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2091924963288580539/post.md",
+      "confidence": "stated",
+      "subject": "ai-video-generation"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "minimax-h3-max",
+    "magnific"
+  ],
+  "links": {
+    "canonical": "https://x.com/i/status/2091924963288580539",
+    "repo": null,
+    "paper": null,
+    "product": "https://www.magnific.com/app/ai-video-generator?modelId=minimax-video-3_0-max&resolution=480p",
+    "other": [],
+    "related_items": []
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2091924963288580539",
+    "post": "raw/items/x-2091924963288580539/post.md",
+    "comments": "raw/items/x-2091924963288580539/comments.md",
+    "research": "raw/items/x-2091924963288580539/research.md",
+    "legacy_topics": [
+      "video-generation"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

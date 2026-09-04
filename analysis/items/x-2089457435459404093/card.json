@@ -1,0 +1,90 @@
+{
+  "schema_version": "1",
+  "id": "x-2089457435459404093",
+  "source_type": "x",
+  "url": "https://x.com/natebjones/status/2089457435459404093",
+  "title": "Google Developer Docs style guide as agent writing skill",
+  "author": {
+    "name": "natebjones",
+    "handle": "@natebjones",
+    "url": "https://x.com/natebjones"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T07:36:43Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "design-agent-skills",
+  "secondary_subjects": [],
+  "roles": [
+    "technique",
+    "reference"
+  ],
+  "artifact_type": "opinion",
+  "platforms": [
+    "claude-code",
+    "codex",
+    "other"
+  ],
+  "summary": "Nate Jones recommends wrapping Google's Developer Docs Style Guide as an agent skill to replace Claude-lish prose, claiming it beats an ASD-STE100 simplified-English skill for readable technical writing.",
+  "question_it_answers": "What public style guide should agents follow to avoid LLM-ese in docs and copy?",
+  "claims": [
+    {
+      "id": "x-2089457435459404093#c1",
+      "text": "Author claims Google Developer Docs Style Guide skill beats ASD-STE100 for clarity.",
+      "kind": "opinion",
+      "evidence": "I've tried both and this is much better than the ASD-STE100 Simplified Technical English skill",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2089457435459404093/post.md",
+      "confidence": "stated",
+      "subject": "design-agent-skills"
+    }
+  ],
+  "recipe_steps": [
+    "Point the agent at https://developers.google.com/style",
+    "Extract voice, heading, and list rules into a skill markdown file",
+    "Apply the skill on READMEs, docs, and marketing copy outputs"
+  ],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/natebjones/status/2089457435459404093",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [
+      "https://developers.google.com/style"
+    ],
+    "related_items": [
+      "github-leonxlnx-taste-skill",
+      "x-2090834948332655011",
+      "github-google-labs-code-design-md",
+      "x-2088742864310481025"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2089457435459404093",
+    "post": "raw/items/x-2089457435459404093/post.md",
+    "comments": "raw/items/x-2089457435459404093/comments.md",
+    "research": "raw/items/x-2089457435459404093/research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "design"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

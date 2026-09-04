@@ -1,0 +1,90 @@
+{
+  "schema_version": "1",
+  "id": "x-2086599657925329347",
+  "source_type": "x",
+  "url": "https://x.com/RoundtableSpace/status/2086599657925329347",
+  "title": "RoundtableSpace free 1-hour Claude interactive 3D web course",
+  "author": {
+    "name": "RoundtableSpace",
+    "handle": "@RoundtableSpace",
+    "url": "https://x.com/RoundtableSpace"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:52:13Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "web-3d-scenes",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "reference"
+  ],
+  "artifact_type": "course",
+  "platforms": [
+    "claude-code",
+    "three-js"
+  ],
+  "summary": "RoundtableSpace promotes a free one-hour course on using Claude to build interactive 3D websites and games from scratch, covering a full AI-assisted design workflow. Capture is promotional with course video omitted from git due to size.",
+  "question_it_answers": "Where is a free course on Claude building interactive 3D websites and games?",
+  "claims": [
+    {
+      "id": "x-2086599657925329347#c1",
+      "text": "Course covers interactive 3D experiences, games from scratch, and AI design workflow.",
+      "kind": "capability",
+      "evidence": "This free 1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with AI.",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2086599657925329347/post.md",
+      "confidence": "stated",
+      "subject": "web-3d-scenes"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/RoundtableSpace/status/2086599657925329347",
+    "repo": null,
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-skills",
+      "x-2088265078919282836",
+      "web-oryzo-ai"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/x-2086599657925329347",
+    "post": "raw/items/x-2086599657925329347/post.md",
+    "comments": "raw/items/x-2086599657925329347/comments.md",
+    "research": "raw/items/x-2086599657925329347/research.md",
+    "legacy_topics": [
+      "three-js",
+      "design",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "media-undescribed"
+  ],
+  "judge_hints": {
+    "compare_with": [
+      "github-scottstts-threejs-awesome-graphics-agent-skills",
+      "github-mengto-skills"
+    ],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

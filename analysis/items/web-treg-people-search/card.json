@@ -1,0 +1,121 @@
+{
+  "schema_version": "1",
+  "id": "web-treg-people-search",
+  "source_type": "website",
+  "url": "https://treg.to/people-search",
+  "title": "treg people-search: one-token B2B enrichment across 60 providers",
+  "author": {
+    "name": "superdesigndev",
+    "handle": null,
+    "url": "https://github.com/superdesigndev/treg"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:15:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "outbound-gtm-agents",
+  "secondary_subjects": [
+    "mcp-and-agent-browsers"
+  ],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "mcp",
+    "cli"
+  ],
+  "summary": "treg people-search exposes 1B+ contacts via routed endpoints across 60 data providers with prepaid per-answer pricing and optional BYO keys. Page cites a LessieAI bench where Claude Code plus treg scores ~78.2% vs ~43% alone on B2B prospecting tasks.",
+  "question_it_answers": "How do agents find verified work emails and enrichment via one treg token?",
+  "claims": [
+    {
+      "id": "web-treg-people-search#c1",
+      "text": "Verified work email lookups start around $0.0089 per hit on catalog rates.",
+      "kind": "pricing",
+      "evidence": "Example: $0.0089 per verified email (Tomba catalog rate at capture)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "raw/items/web-treg-people-search/page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-treg-people-search#c2",
+      "text": "LessieAI bench cited: Claude Code + treg ~78.2% vs Claude alone ~43%.",
+      "kind": "benchmark",
+      "evidence": "Claude Code alone ~43% vs Claude Code + treg ~78.2% on B2B prospecting (% tasks answered correctly)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "raw/items/web-treg-people-search/page.md",
+      "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "catalog endpoints",
+      "value": "2896",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "providers",
+      "value": "60",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "free credit",
+      "value": "1.00",
+      "unit": "USD",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "treg",
+    "apollo-io"
+  ],
+  "links": {
+    "canonical": "https://treg.to/people-search",
+    "repo": "https://github.com/superdesigndev/treg",
+    "paper": null,
+    "product": "https://treg.to/people-search",
+    "other": [
+      "https://treg.to/llms.txt",
+      "https://github.com/LessieAI/people-search-bench"
+    ],
+    "related_items": [
+      "github-superdesigndev-treg",
+      "github-LessieAI-people-search-bench",
+      "web-arxiv-2603-27476",
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "github-iannuttall-seo"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-treg-people-search",
+    "post": "raw/items/web-treg-people-search/page.md",
+    "comments": null,
+    "research": "raw/items/web-treg-people-search/research.md",
+    "legacy_topics": [
+      "mcp",
+      "agent-skills",
+      "seo-agents"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

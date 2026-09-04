@@ -1,0 +1,112 @@
+{
+  "schema_version": "1",
+  "id": "github-nexu-io-html-video",
+  "source_type": "github",
+  "url": "https://github.com/nexu-io/html-video",
+  "title": "nexu-io/html-video: agent-driven HTML/CSS to local MP4",
+  "author": {
+    "name": "nexu-io",
+    "handle": null,
+    "url": "https://github.com/nexu-io"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T17:15:19Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "code-motion-graphics",
+  "secondary_subjects": [
+    "design-agent-skills"
+  ],
+  "roles": [
+    "tool",
+    "technique"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "claude-code",
+    "cursor",
+    "remotion"
+  ],
+  "summary": "Apache-2.0 monorepo that turns prompts, links, or repos into MP4 videos by generating per-frame HTML and rendering locally via Hyperframes (headless Chromium + ffmpeg). Ships a studio CLI, 21 templates, and optional MiniMax soundtrack; no per-render cloud fee.",
+  "question_it_answers": "How can coding agents render HTML/CSS storyboards into MP4 on a laptop without a video model?",
+  "claims": [
+    {
+      "id": "github-nexu-io-html-video#c1",
+      "text": "Default render path is Hyperframes headless Chromium plus ffmpeg to MP4.",
+      "kind": "capability",
+      "evidence": "default engine is Hyperframes (headless Chromium + ffmpeg)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "raw/items/github-nexu-io-html-video/page.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "github-nexu-io-html-video#c2",
+      "text": "Repo documents 14 supported coding agents and 21 motion templates.",
+      "kind": "capability",
+      "evidence": "**14 coding agents** supported (Open Design, Claude Code, Cursor, Codex, etc.)\n- **21 templates** (data viz, kinetic type, cinematic frames)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "raw/items/github-nexu-io-html-video/page.md",
+      "confidence": "stated",
+      "subject": "code-motion-graphics"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [
+    "html-to-mp4",
+    "content-graph-storyboard",
+    "hyperframes-render"
+  ],
+  "tools": [
+    "html-video",
+    "hyperframes",
+    "ffmpeg"
+  ],
+  "links": {
+    "canonical": "https://github.com/nexu-io/html-video",
+    "repo": "https://github.com/nexu-io/html-video",
+    "paper": null,
+    "product": "https://open-design.ai/html-video",
+    "other": [
+      "https://github.com/nexu-io/open-design"
+    ],
+    "related_items": [
+      "github-nexu-io-open-design",
+      "github-nexu-io-motion-anything",
+      "web-open-design-ai",
+      "web-fal-ai",
+      "web-animos-editor"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/github-nexu-io-html-video",
+    "post": "raw/items/github-nexu-io-html-video/page.md",
+    "comments": null,
+    "research": "raw/items/github-nexu-io-html-video/research.md",
+    "legacy_topics": [
+      "video-generation",
+      "agent-skills"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [
+      "github-nexu-io-motion-anything",
+      "web-fal-ai"
+    ],
+    "must_read": [
+      "raw/items/github-nexu-io-html-video/page.md"
+    ],
+    "why_must_read": "README summarizes pipeline, agent support, and local studio port."
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

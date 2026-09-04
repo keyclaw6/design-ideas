@@ -1,0 +1,88 @@
+{
+  "schema_version": "1",
+  "id": "web-blume-codes",
+  "source_type": "website",
+  "url": "https://blume.codes",
+  "title": "Blume Sidecar desktop monitor for coding-agent config drift",
+  "author": {
+    "name": "Blume",
+    "handle": null,
+    "url": "https://blume.codes"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-02T20:56:00Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "agent-harness-loops",
+  "secondary_subjects": [],
+  "roles": [
+    "tool"
+  ],
+  "artifact_type": "product",
+  "platforms": [
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "summary": "Blume Sidecar is a local desktop app that watches Codex, Claude Code, and Cursor, tracking rules, skills, hooks, and hidden config files. It surfaces agent status, usage limits, and planned auto-fixes when harness setup drifts from project intent.",
+  "question_it_answers": "How do you detect when rules and skills drift across multiple coding-agent harnesses?",
+  "claims": [
+    {
+      "id": "web-blume-codes#c1",
+      "text": "Sidecar monitors Codex, Claude Code, and Cursor hidden rules/skills/hooks locally.",
+      "kind": "capability",
+      "evidence": "Desktop sidecar that watches multiple agent harnesses (Codex, Claude Code, Cursor), tracks hidden config files (rules, skills, hooks)",
+      "evidence_source": "linked-page",
+      "evidence_ref": "raw/items/web-blume-codes/page.md",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [
+    "blume-sidecar"
+  ],
+  "links": {
+    "canonical": "https://blume.codes",
+    "repo": null,
+    "paper": null,
+    "product": "https://blume.codes",
+    "other": [
+      "https://careers.blume.codes/"
+    ],
+    "related_items": [
+      "web-chatgpt-training",
+      "github-pbakaus-impeccable",
+      "github-mengto-skills",
+      "web-opale-ui-taste",
+      "web-davidgasquez-context-engineering"
+    ]
+  },
+  "media": [],
+  "raw": {
+    "folder": "raw/items/web-blume-codes",
+    "post": "raw/items/web-blume-codes/page.md",
+    "comments": null,
+    "research": "raw/items/web-blume-codes/research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "1",
+  "id": "x-2087898602890744089",
+  "source_type": "x",
+  "url": "https://x.com/elie2222/status/2087898602890744089",
+  "title": "Rakazo: Apache-2.0 open-source Grok Bot on pi harness",
+  "author": {
+    "name": "Elie Steinbock (@elie2222)",
+    "handle": "@elie2222",
+    "url": "https://x.com/elie2222"
+  },
+  "published_at": null,
+  "captured_at": "2026-09-04T06:49:27Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "mcp-and-agent-browsers",
+  "secondary_subjects": [
+    "agent-harness-loops"
+  ],
+  "roles": [
+    "tool",
+    "reference"
+  ],
+  "artifact_type": "repo",
+  "platforms": [
+    "pi",
+    "cursor",
+    "grok-bot",
+    "mcp"
+  ],
+  "summary": "Elie Steinbock announces Rakazo, an Apache-2.0 Grok Bot alternative using the pi harness with swappable LLMs and sandboxes (including Docker). Ships web, Electron desktop, and React Native clients; built with Cursor and Grok 4.6.",
+  "question_it_answers": "How do you self-host a Grok-style bot with swappable models and sandboxes?",
+  "claims": [
+    {
+      "id": "x-2087898602890744089#c1",
+      "text": "Rakazo supports any LLM via pi harness and any sandbox provider or Docker.",
+      "kind": "capability",
+      "evidence": "- Use any LLM (pi harness)\n- Use any sandbox provider. Or Docker",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2087898602890744089/post.md",
+      "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [],
+  "techniques": [],
+  "tools": [],
+  "links": {
+    "canonical": "https://x.com/elie2222/status/2087898602890744089",
+    "repo": "https://github.com/elie222/rakazo",
+    "paper": null,
+    "product": null,
+    "other": [],
+    "related_items": [
+      "x-2087714580491370655",
+      "github-romangojiberryAI-gojiberryai-sales-os",
+      "web-blume-codes",
+      "github-punkpeye-awesome-mcp-servers"
+    ]
+  },
+  "media": [
+    {
+      "path": "media/media_0.jpg",
+      "type": "image",
+      "description": "Rakazo landing page mockup showing bot directory, inbox-manager chat, and Gmail routine controls.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2087898602890744089",
+    "post": "raw/items/x-2087898602890744089/post.md",
+    "comments": "raw/items/x-2087898602890744089/comments.md",
+    "research": "raw/items/x-2087898602890744089/research.md",
+    "legacy_topics": [
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}

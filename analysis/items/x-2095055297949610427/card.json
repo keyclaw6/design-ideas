@@ -1,0 +1,120 @@
+{
+  "schema_version": "1",
+  "id": "x-2095055297949610427",
+  "source_type": "x",
+  "url": "https://x.com/iannuttall/status/2095055297949610427",
+  "title": "Ian Nuttall asks if his SEO CLI/skill is useful in production",
+  "author": {
+    "name": "Ian Nuttall",
+    "handle": "@iannuttall",
+    "url": "https://x.com/iannuttall"
+  },
+  "published_at": "2026-09-02T07:44:41Z",
+  "captured_at": "2026-09-02T17:53:08Z",
+  "lang": "en",
+  "disposition": "analyze",
+  "shelf": null,
+  "shelf_reason_code": null,
+  "shelf_reason": null,
+  "duplicate_of": null,
+  "primary_subject": "serp-ai-visibility",
+  "secondary_subjects": [],
+  "roles": [
+    "tool",
+    "claim-source"
+  ],
+  "artifact_type": "thread",
+  "platforms": [
+    "mcp",
+    "cli"
+  ],
+  "summary": "Ian Nuttall solicits feedback on his Apache-2.0 seo CLI and MCP server (70+ audit tools, local crawl plus GSC/GA4) linked from seoskill.dev, questioning whether the monolithic skill should simplify toward single-purpose tools.",
+  "question_it_answers": "Is Ian Nuttall's SEO CLI/MCP skill useful for real audits or too broad?",
+  "claims": [
+    {
+      "id": "x-2095055297949610427#c1",
+      "text": "Repo markets 70+ SEO audit tools via local CLI and MCP using your own crawl and GSC data.",
+      "kind": "capability",
+      "evidence": "The only SEO skill your agent needs. 70+ SEO audit tools through a local CLI and MCP server, using your own crawl, Search Console, and GA4 data.",
+      "evidence_source": "media",
+      "evidence_ref": "raw/items/x-2095055297949610427/media/github-card.jpg",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2095055297949610427#c2",
+      "text": "Author is leaning toward simpler single-purpose tools instead of one big SEO skill.",
+      "kind": "opinion",
+      "evidence": "I still use it a lot but am leaning to simple single-purpose tools for most of my work now.",
+      "evidence_source": "post",
+      "evidence_ref": "raw/items/x-2095055297949610427/post.md",
+      "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    }
+  ],
+  "recipe_steps": [],
+  "numbers": [
+    {
+      "label": "repo stars",
+      "value": "378",
+      "unit": null,
+      "source": "linked-page"
+    },
+    {
+      "label": "npm version",
+      "value": "0.2.40",
+      "unit": null,
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [],
+  "tools": [
+    "seo-cli",
+    "seoskill-dev"
+  ],
+  "links": {
+    "canonical": "https://x.com/iannuttall/status/2095055297949610427",
+    "repo": "https://github.com/iannuttall/seo",
+    "paper": null,
+    "product": "https://seoskill.dev",
+    "other": [
+      "https://www.npmjs.com/package/seo",
+      "https://seoskill.dev/.well-known/agent-skills/index.json",
+      "https://keep.md",
+      "https://ian.is"
+    ],
+    "related_items": []
+  },
+  "media": [
+    {
+      "path": "media/github-card.jpg",
+      "type": "image",
+      "description": "GitHub social card for iannuttall/seo describing 70+ SEO audit tools via local CLI and MCP.",
+      "skip_reason": null,
+      "carries_technique": false
+    }
+  ],
+  "raw": {
+    "folder": "raw/items/x-2095055297949610427",
+    "post": "raw/items/x-2095055297949610427/post.md",
+    "comments": "raw/items/x-2095055297949610427/comments.md",
+    "research": "raw/items/x-2095055297949610427/research.md",
+    "legacy_topics": [
+      "seo-agents",
+      "agent-skills",
+      "mcp"
+    ],
+    "legacy_filtered": false
+  },
+  "readiness": "ready-with-gaps",
+  "gaps": [
+    "thread-partial"
+  ],
+  "judge_hints": {
+    "compare_with": [],
+    "must_read": [],
+    "why_must_read": null
+  },
+  "worker": "cards-14",
+  "written_at": "2026-09-04T18:06:32Z"
+}
