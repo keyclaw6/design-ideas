@@ -47,7 +47,7 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 
 ## agent-memory-knowledge — next capture work
 
-1. Gasquez extract/transform/publish is on [context-etl](../../techniques/context-etl.md). Remaining: one example artifact list from a real vault.
+1. Gasquez extract/transform/publish plus the public `davidgasquez/handbook` vault (**159** topic `.md` files, including Context Engineering.md) are on [context-etl](../../techniques/context-etl.md). Remaining: a company-prod extract (Slack/CRM), not just the personal handbook.
 2. gbrain-evals official rows are 93.19% / 95.32% `recall_all@5`, not 97.6%. Keep the tweet as marketing.
 3. Obsidian Mind tree + `/om-*` commands are on [obsidian-mind](../../tools/obsidian-mind.md). It is **not** Ryven’s RAW/WIKI + five automations (those stay tweet-only; `@imryven` has no public GitHub user).
 4. OpenViking MCP docs name **15 tools** on `:1933/mcp` (`find`, `search` list|context, `read` `viking://`, write/edit, watches, grep/glob, `health`) — [openviking](../../tools/openviking.md). Studio is still a JS shell; remaining: one live `viking://` session log.

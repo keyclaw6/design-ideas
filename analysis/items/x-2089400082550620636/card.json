@@ -40,6 +40,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2089400082550620636#c2",
+      "text": "improve-threejs lives at aidenybai/react-doctor skills/improve-threejs/SKILL.md. Scan is npx react-doctor@latest --verbose; severity follows useFrame/RAF; visual rubric has 10 rows that need a screenshot or an inferred-from-source label.",
+      "kind": "recipe",
+      "evidence": "SKILL.md 9128 B; skill dir is only that file. Parked on threejs-awesome-graphics-agent-skills NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
@@ -50,7 +60,7 @@
   ],
   "links": {
     "canonical": null,
-    "repo": null,
+    "repo": "https://github.com/aidenybai/react-doctor",
     "paper": null,
     "product": null,
     "other": [],

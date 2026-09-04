@@ -57,6 +57,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-davidgasquez-context-engineering#c4",
+      "text": "Gasquez’s public handbook vault (davidgasquez/handbook) is 159 topic .md files in a flat wiki-link tree, including Context Engineering.md and Company Knowledge Management.md. It is a personal published vault, not a company Slack extract.",
+      "kind": "capability",
+      "evidence": "Git trees/main: 164 blobs / 159 md. Context Engineering.md 5989 B restates extract/transform/publish and no single company brain.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/context-etl.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],

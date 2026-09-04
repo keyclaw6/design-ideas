@@ -20,4 +20,6 @@ Gasquez essay fetched 2026-09-04 (https://davidgasquez.com/context-engineering-i
 2. **Transform** into org-specific artifacts (summarize, extract, clean) — no universal “correct” company knowledge.
 3. **Publish** curated text files; embeddings only index those files (useful, expensive, disposable, optional).
 A company brain is built/tested/released like a data product, not prompted by dumping every raw source into the agent. Direct raw access can beat a stale KB; the durable layer is the encoded definition of “truth” (like a dbt model for a key action).
+
+**2026-09-04 capture — Gasquez public vault (`davidgasquez/handbook`).** Git trees/main recursive: **166** entries, **164** blobs, not truncated. **159** `.md` topic notes (plus LICENSE, 2 yml workflows, 1 png). Flat wiki-link handbook (“Personal bits of living knowledge”), not a Slack/CRM extract. Named artifacts include `Context Engineering.md` (5,989 B) and `Company Knowledge Management.md` (6,826 B). Context Engineering.md restates the essay: own a model-agnostic layer; collapse competing definitions; co-locate context artifacts with source systems in the same PR; there is no single company brain. This is a personal published vault, not a company-prod extract.
 <!-- NOTES:END -->
