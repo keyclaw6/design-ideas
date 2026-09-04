@@ -73,6 +73,16 @@
       "evidence_ref": "analysis/tools/impeccable.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c5",
+      "text": "npx impeccable detect on nateherk.com and mengto.github.io/complete-shelf hit a 30s Puppeteer navigation timeout, returned [], and exited 0. Not a findings receipt for those pages.",
+      "kind": "result",
+      "evidence": "Error: Navigation timeout of 30000 ms exceeded; JSON []. See impeccable NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

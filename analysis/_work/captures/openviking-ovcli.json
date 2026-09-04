@@ -1,0 +1,28 @@
+{
+  "ovcli_conf": {
+    "url": "http://127.0.0.1:1933",
+    "timeout": 30.0
+  },
+  "health": {
+    "status": "Connected (Healthy)",
+    "version": "0.4.17.1",
+    "auth": "Dev"
+  },
+  "status": {
+    "embedding": "bge-small-zh-v1.5-f16",
+    "vikingdb": "1 collection, 17 vectors",
+    "filesystem": "3 mounts, 52.8K ops",
+    "queue": "0 pending, 0 running, 0 errors",
+    "vlm": "unknown"
+  },
+  "ls_viking": [
+    "viking://resources",
+    "viking://user"
+  ],
+  "tree_resources": {
+    "hello.md": "32 B"
+  },
+  "read": "# hello\\nOpenViking local probe.\\n",
+  "abstract": "Directory overview is not ready",
+  "note": "ov CLI via ~/.openviking/ovcli.conf + OPENVIKING_CLI_CONFIG_FILE=/tmp/ovcli.conf against already-running 0.4.17.1 server"
+}

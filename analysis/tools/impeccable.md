@@ -32,4 +32,6 @@ Clone `pbakaus/impeccable`. `crates/live/assets/antipatterns.json` has **exactly
 | https://frontal.so | **138** (135 warning / 3 advisory) | `undersized-ui-text` ×72 (9–10.53px); `nested-cards` ×19; `dark-glow` ×11; `radial-spotlight-glow` ×8; `all-caps-body` ×9 |
 
 CLI help confirms `--viewport WxH` (default 1280x800) and that advisories never change the exit code. Exit 2 = primary findings on at least one target.
+
+**2026-09-04 capture — live detect timeouts.** `npx impeccable detect https://www.nateherk.com/ --json` and `https://mengto.github.io/complete-shelf/ --json` both printed `Error: Navigation timeout of 30000 ms exceeded` then `[]`. Exit **0**. No findings file. These two URLs are not a third landing receipt; they only show the 30 s Puppeteer budget can miss a long first paint (scroll-craft / Three CDN).
 <!-- NOTES:END -->

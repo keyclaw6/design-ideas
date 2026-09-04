@@ -1,0 +1,44 @@
+{
+  "name": "originkit-mcp",
+  "version": "1.0.0",
+  "description": "Originkit MCP server \u2014 stack-aware delivery of Framer-safe components.",
+  "endpoint": "/mcp",
+  "partnerEndpoints": [
+    {
+      "slug": "vellumai",
+      "name": "Vellum AI",
+      "path": "/vellumai"
+    }
+  ],
+  "tools": [
+    "list_components",
+    "get_component",
+    "search",
+    "fetch"
+  ],
+  "components": 461,
+  "authRequired": true,
+  "restApi": {
+    "registry": "https://mcp.originkit.dev/v1/registry",
+    "component": "https://mcp.originkit.dev/v1/components/:slug"
+  },
+  "customConnector": {
+    "url": "https://mcp.originkit.dev/mcp",
+    "protectedResourceMetadata": "https://mcp.originkit.dev/.well-known/oauth-protected-resource",
+    "authorizationServerMetadata": "https://mcp.originkit.dev/.well-known/oauth-authorization-server"
+  },
+  "connect": {
+    "claudeCode": "claude mcp add originkit <this-server>/mcp --transport http --header \"Authorization: Bearer <your-key>\" --scope user",
+    "codex": "export ORIGINKIT_API_KEY=<your-key> && codex mcp add originkit --url <this-server>/mcp --bearer-token-env-var ORIGINKIT_API_KEY",
+    "cursor": {
+      "mcpServers": {
+        "originkit": {
+          "url": "<this-server>/mcp",
+          "headers": {
+            "Authorization": "Bearer <your-key>"
+          }
+        }
+      }
+    }
+  }
+}

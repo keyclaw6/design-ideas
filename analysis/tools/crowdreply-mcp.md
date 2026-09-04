@@ -19,7 +19,7 @@ Named tools on the public catalogue, grouped as on the page:
 
 Also named in marketing copy on the same page, not in the catalogue table: `compare_competitors`, `analyze_prompt_gaps`, `find_citation_sources`.
 
-Count: 18 write/read names in the table + 3 extra marketing names. Endpoint `https://mcp.crowdreply.io/mcp` still 401 without a key. The 4%→40% / 11-week article (`https://x.com/i/article/2094451432208711681`) returned 403 on jina and direct fetch.
+Count: 18 write/read names in the table + 3 extra marketing names. Endpoint `https://mcp.crowdreply.io/mcp` still 401 without a key (evening re-fetch: HTTP **401**, **24** B `{"error":"Unauthorized"}`). The 4%→40% / 11-week article (`https://x.com/i/article/2094451432208711681`) returned 403 on jina and **404** on later direct fetch.
 
 Citation-outreach marketing page (https://crowdreply.io/features/citation-outreach, 2026-09-04): “You only pay when the mention goes live.” Claimed ops stats: 240+ brands, 1,860+ offsite mentions, 22,400+ cited pages contacted, unpublished charge $0. G2 4.9 / 5,000+ brands repeated. **4%→40% / 11 weeks is not on this page.** `/case-studies` 404’d.
 <!-- NOTES:END -->

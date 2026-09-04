@@ -53,6 +53,16 @@
       "evidence_ref": "analysis/tools/cult-ui.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-originkit-dev#c4",
+      "text": "Unauthed Originkit MCP hello lists four tools and components:461. GET /v1/registry returns count 461 unique names. That is not the homepage RSC 468 gallery-slug count.",
+      "kind": "result",
+      "evidence": "mcp.originkit.dev 1095 B tools list_components/get_component/search/fetch; registry 176179 B count 461. See cult-ui NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],

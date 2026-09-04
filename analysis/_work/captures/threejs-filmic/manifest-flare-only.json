@@ -50,8 +50,8 @@
     ],
     "sourceTrace": [],
     "warnings": [],
-    "debugMode": "plate",
-    "filename": "threejs-procedural-vfx-filmic-lens-flare-plate.png",
+    "debugMode": "flare-only",
+    "filename": "threejs-procedural-vfx-filmic-lens-flare-flare-only.png",
     "runtimeErrors": []
   }
 ]

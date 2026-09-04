@@ -49,7 +49,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 
 ## web-3d-scenes — next capture work
 
-1. Gallery is **40 runnable `scene.js` files**. Official `capture-examples.mjs` now has a still of `filmic-lens-flare` (647,301 B PNG, `runtimeErrors: []`) — [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md). Protocol still requires CPU **and** GPU frame time (never infer GPU from CPU). Remaining: GPU timer + the other debug modes.
+1. Gallery is **40 runnable `scene.js` files**. Official `capture-examples.mjs` now has all four `filmic-lens-flare` debug stills (final 647,301 / no-flare 848,177 / plate 482,580 / flare-only 373,499 B; `runtimeErrors: []`) — [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md). Protocol still requires CPU **and** GPU frame time (never infer GPU from CPU). Remaining: a GPU timer.
 2. Transfer sizes + SwiftShader CPU rAF (mean 102.49 ms / ~9.76 fps, n=20) are on [complete-shelf](../../tools/complete-shelf.md). Remaining: headed FPS on a laptop GPU. Fonts blocked the full-page PNG.
 3. `/improve-threejs` SKILL.md is in `aidenybai/react-doctor`. `npx react-doctor@latest` **0.9.13** on loopany-platform: React 19 / tanstack-start / **hasThree false** / score 100 with empty rules under `--no-lint`. The 10-row visual rubric was not run (no R3F surface in that clone). Thread still 55/1.
 4. Keep splat viewers out of this stack; if the page *is* a splat, use the gaussian-splatting worksheet.

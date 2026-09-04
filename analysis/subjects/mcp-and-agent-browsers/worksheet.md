@@ -41,6 +41,6 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 
 ## mcp-and-agent-browsers — next capture work
 
-1. Authed `treg catalog` dump to `wc` endpoints. Live hero is 2,630; README is still 2,896. `treg.to/providers.json` v12 = **104** BYO names; `treg.dev/providers.json` is **404**.
+1. Authed `treg catalog` dump to `wc` endpoints. Live hero is 2,630; README is still 2,896. `treg.to/providers.json` v12 = **104** BYO names; `treg.dev/providers.json` is **404**. OpenViking `ov` CLI via `ovcli.conf` now reads the local `viking://` probe ([openviking](../../tools/openviking.md)).
 2. Obscura 0.2.1 boot: example.com PNG 17,130 B / 1280×720; idle serve RSS ~25 MB; page-loaded CDP session **37,856 KB** (~37.0 MB) with `title=Example Domain` — [obscura](../../tools/obscura.md). Remaining: RSS with a heavier page (not example.com).
 3. Kitesurf blog, Browser Run limits, CDP `/devtools` endpoints, and Dynamic Workers docs are on [kitesurf](../../tools/kitesurf.md). Remaining: a live Browser Run session (needs a CF token with Browser Rendering - Edit).

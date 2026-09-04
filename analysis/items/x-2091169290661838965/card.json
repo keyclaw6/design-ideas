@@ -80,6 +80,16 @@
       "evidence_ref": "analysis/tools/openviking.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2091169290661838965#c6",
+      "text": "ov CLI with ovcli.conf url http://127.0.0.1:1933 reports health 0.4.17.1 Dev, vikingdb 1 collection / 17 vectors, and reads viking://resources/probe/hello.md. ov abstract still says directory overview is not ready.",
+      "kind": "result",
+      "evidence": "ov health exit 0; ov status embedding bge-small-zh-v1.5-f16; ov tree hello.md 32 B; ov read returns the probe body. Receipt analysis/_work/captures/openviking-ovcli.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openviking.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],

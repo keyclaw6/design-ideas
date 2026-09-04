@@ -47,7 +47,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 
 ## image-to-3d-world — next capture work
 
-1. Lumera paper is **arXiv:2607.20889** (Lumera-2K: 2,513 UE5 projects). Still no weights/GitHub ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). Remaining: a logged-in WorldGen export (GLB/USD).
+1. Lumera paper is **arXiv:2607.20889** (Lumera-2K: 2,513 UE5 projects). Lucida page still has no weights — only author GitHub user `OrangeSodahub` ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). Remaining: a logged-in WorldGen export (GLB/USD).
 2. World Labs **Marble** docs + public example CDN ([atlas](../../tools/atlas.md)): Free **4** gens / no export; Standard **12** + splat/pano/collider; Pro **25** + HQ mesh; Max **75**. Official rustic-kitchen downloads (no login): collider GLB **2,976,256** B, 500k SPZ **7,582,907** B, pano **3,860,086** B. Remaining: a logged-in export of a *user* world.
 3. kokraf README is a VEF modeler, not a four-view bake skill ([kokraf](../../tools/kokraf.md)). Projection path is still tweet/media-only.
 4. All 14 primaries are `ready-with-gaps`. Raising even three world-gen cards to `ready` unblocks a real bake-off.
