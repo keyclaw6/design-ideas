@@ -34,7 +34,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 - Mint Studio “browser 3D camera for video” — thread failed. Author’s live product **mint.gg** is a 3D-asset + MCP pipeline, not a documented camera-path exporter ([mint-studio](../../tools/mint-studio.md)).
 - Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read). Official Seedance 2.0 page claims image/audio/video reference including camera movement ([seedance](../../tools/seedance.md)); the cafe `.blend` is still not in this bank.
 - MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage.
-- CozyClay $17/30s miss — useful cost signal. **MCP confirmed** in the repo: 24 tools, `npx cozyclay mcp`, AGPL-3.0 ([cozyclay](../../tools/cozyclay.md)).
+- CozyClay $17/30s miss — useful cost signal. **MCP verified** on this host: **25** tools (`load_motion` is the extra vs README 24), 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip. AGPL-3.0 ([cozyclay](../../tools/cozyclay.md)).
 - Unreal MCP shot — Level Sequence exists in the demo; whether it then hits Seedance/H3 is not in the card.
 - GLM kitchen “not a generated video” — adjacent to freedom-modeling; do not file it as a finished spot.
 
