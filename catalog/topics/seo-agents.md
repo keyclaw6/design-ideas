@@ -1,6 +1,6 @@
-# SEO Agents
+# Seo Agents
 
-Items tagged with `seo-agents`.
+Curated slice — topic `seo-agents`.
 
 - [People Search Bench](../../raw/items/github-LessieAI-people-search-bench/) — `github-LessieAI-people-search-bench`
 - [SEO Skill](../../raw/items/github-iannuttall-seo/) — `github-iannuttall-seo`

@@ -1,0 +1,19 @@
+{
+  "id": "x-2091891133286605067",
+  "url": "https://x.com/paulcjh/status/2091891133286605067",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:34Z",
+  "title": "My autorouter works! This board completes in around 1 min, and manages to implement the required routing on just 2 layer",
+  "authors": [
+    "Paul Hetherington (@paulcjh)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2091891133286605067",
+    "author_handle": "paulcjh",
+    "fetch": "api.fxtwitter.com (retry)"
+  }
+}

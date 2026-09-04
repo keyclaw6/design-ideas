@@ -1,0 +1,20 @@
+{
+  "id": "x-2087151521121419648",
+  "url": "https://x.com/CopilotKit/status/2087151521121419648",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:35Z",
+  "title": "That's the full stack. One package. One port. `npm i @copilotkit/aimock` Docs: http://aimock.copilotkit.dev GitHub: http",
+  "authors": [
+    "CopilotKit\ud83e\ude81 (@CopilotKit)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087151521121419648",
+    "author_handle": "CopilotKit",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:36:30Z"
+  }
+}

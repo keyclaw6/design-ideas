@@ -2,33 +2,23 @@
 
 **CDP port:** `BU_CDP_URL=http://127.0.0.1:33789` (headed agent-browser — **not** Grok Bot / `127.0.0.1:9222`)
 
-**Tabs:**
-- `t1` — X login wall
-- `t2` — **Google “Sign in to continue to X”** (email form open — **needs you now**)
+Also available: `agent-browser --session chrome-profile get cdp-url` → port `37349` (same tabs, still guest on Reddit).
 
-### Option A — Google OAuth (headed Chrome tab t1)
+**Tabs:** `agent-browser tab list` — use `agent-browser tab reddit` / `agent-browser tab t10` before site-specific commands.
 
-1. In headed Chrome (`BU_CDP_URL` above), open tab **t1** (`x.com` login)
-2. Click **“Fortsæt med Google”** / **Continue with Google** (must be a real click — popup is blocked for automation)
-3. Complete Google sign-in → allow X access
-4. Confirm `https://x.com/i/bookmarks` loads
+## Status (2026-09-04 ~10:15)
 
-### Option B — Cookie paste (if already logged in elsewhere)
+### X — **CLEARED** (verified)
 
-From DevTools → Application → Cookies → `https://x.com`, copy `auth_token` and `ct0`, then:
+Bookmarks and likes list pages empty (`[]`). Harvest used fxtwitter + GraphQL `DeleteBookmark` (`Wlmlj2-xzyS1GN3a6cj-mQ`) when UI clicks stalled.
 
+Re-inject cookies if session drops:
 ```bash
 export BU_CDP_URL=http://127.0.0.1:33789
-export X_AUTH_TOKEN='...' X_CT0='...'
-python3 /home/kab/design-ideas/scripts/x_inject_cookies.py
+agent-browser cookies set auth_token "$X_AUTH_TOKEN" --domain .x.com
+agent-browser cookies set ct0 "$X_CT0" --domain .x.com
 ```
 
-Then reply **`logged in`**.
+### Reddit — **STOPPED** (out of scope per user)
 
-### After login (agent runs)
-
-```bash
-export BU_CDP_URL=http://127.0.0.1:40289
-/home/kab/design-ideas/scripts/x_clear_lists.sh   # Bookmarks + Likes
-# then git commit/push, reddit_clear_saved.sh, catalog rebuild
-```
+Reddit login blocked (reCAPTCHA / Google OAuth). User directed: stop Reddit; commit X harvest only.

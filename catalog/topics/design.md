@@ -1,6 +1,6 @@
 # Design
 
-Items tagged with `design`.
+Curated slice — topic `design`.
 
 - [AntV Infographic](../../raw/items/github-antvis-infographic/) — `github-antvis-infographic`
 - [Diagram Design](../../raw/items/github-cathrynlavery-diagram-design/) — `github-cathrynlavery-diagram-design`

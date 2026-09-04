@@ -1,0 +1,21 @@
+{
+  "id": "x-2088345102540587356",
+  "url": "https://x.com/caspar_br/status/2088345102540587356",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:30Z",
+  "title": "anatomy of a managed deep agent. https://langch.in/mda",
+  "authors": [
+    "Caspar (@caspar_br)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088345102540587356",
+    "author_handle": "caspar_br",
+    "fetch": "api.fxtwitter.com (retry)"
+  }
+}

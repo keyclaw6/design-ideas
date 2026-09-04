@@ -1,0 +1,20 @@
+{
+  "id": "x-2087873421094896122",
+  "url": "https://x.com/trending_repos/status/2087873421094896122",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:37Z",
+  "title": "Trending repository of the day \ud83d\udcc8 diagram-design 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. N",
+  "authors": [
+    "Trending GitHub Repositories (@trending_repos)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087873421094896122",
+    "author_handle": "trending_repos",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:37:09Z"
+  }
+}

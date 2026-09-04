@@ -1,0 +1,20 @@
+{
+  "id": "x-2091943679317463153",
+  "url": "https://x.com/SpenserFX/status/2091943679317463153",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:46Z",
+  "title": "SplatPaint is a real-time browser-based creative sandbox for Gaussian Splats: paint, sculpt, recolor, relight, deform, a",
+  "authors": [
+    "Spenser Dickerson (@SpenserFX)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2091943679317463153",
+    "author_handle": "SpenserFX",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:39:30Z"
+  }
+}

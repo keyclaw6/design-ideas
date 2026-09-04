@@ -5,12 +5,22 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 export BU_CDP_URL="${BU_CDP_URL:?Set BU_CDP_URL}"
 
+ab_url() {
+  agent-browser eval "location.href" | tr -d '"'
+}
+
+ab_tab_reddit() {
+  agent-browser tab reddit 2>/dev/null || agent-browser tab t10 2>/dev/null || true
+}
+
+ab_tab_reddit
 agent-browser open 'https://www.reddit.com/user/kab264set/saved/'
 sleep 5
-url=$(agent-browser get url)
-if echo "$url" | grep -qiE 'login|register'; then
+url=$(ab_url)
+body=$(agent-browser eval "document.body.innerText.slice(0,400)" | tr -d '"')
+if echo "$body" | grep -qi 'nobody on Reddit goes by that name' || echo "$url" | grep -qiE '/login|register'; then
   echo "NOT LOGGED IN: $url" >&2
-  echo "Login: reddit.com → Log in with Google → Kab264z@gmail.com" >&2
+  echo "Login: reddit.com/login → email+password or one-time link → Kab264z@gmail.com" >&2
   exit 1
 fi
 
@@ -31,4 +41,14 @@ for id in $(echo "$ids" | python3 -c "import sys,json; [print(x) for x in json.l
   agent-browser eval "(()=>{const b=[...document.querySelectorAll('button')].find(e=>/unsave|saved/i.test(e.getAttribute('aria-label')||e.innerText||'')); b&&b.click(); return b?'clicked':'none';})()"
   echo "processed reddit-$id"
 done
-echo "Reload saved page to verify empty"
+
+ab_tab_reddit
+agent-browser open 'https://www.reddit.com/user/kab264set/saved/'
+sleep 4
+remaining=$(extract_ids)
+if [[ "$remaining" == "[]" ]]; then
+  echo "VERIFIED: Reddit Saved list empty"
+else
+  echo "WARN: saved posts remain: $remaining" >&2
+  exit 1
+fi

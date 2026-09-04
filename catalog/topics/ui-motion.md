@@ -1,6 +1,6 @@
-# UI Motion
+# Ui Motion
 
-Items tagged with `ui-motion`.
+Curated slice — topic `ui-motion`.
 
 - [Skills For Designers and Engineers](../../raw/items/github-emilkowalski-skills/) — `github-emilkowalski-skills`
 - [Taste Skill](../../raw/items/github-leonxlnx-taste-skill/) — `github-leonxlnx-taste-skill`

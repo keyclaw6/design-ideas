@@ -1,6 +1,6 @@
 # Infographics
 
-Items tagged with `infographics`.
+Curated slice — topic `infographics`.
 
 - [AntV Infographic](../../raw/items/github-antvis-infographic/) — `github-antvis-infographic`
 - [Diagram Design](../../raw/items/github-cathrynlavery-diagram-design/) — `github-cathrynlavery-diagram-design`

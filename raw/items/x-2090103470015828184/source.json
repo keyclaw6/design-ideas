@@ -1,0 +1,21 @@
+{
+  "id": "x-2090103470015828184",
+  "url": "https://x.com/UnslothAI/status/2090103470015828184",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:31Z",
+  "title": "We\u2019re releasing new Qwen3.8-27B GGUFs with 10% higher accuracy. Unsloth Dynamic V3 outperforms others by >10% on Div-300",
+  "authors": [
+    "Unsloth AI (@UnslothAI)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2090103470015828184",
+    "author_handle": "UnslothAI",
+    "fetch": "api.fxtwitter.com (retry)"
+  }
+}

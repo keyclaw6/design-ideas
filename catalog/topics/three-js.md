@@ -1,6 +1,6 @@
-# Three.js
+# Three Js
 
-Items tagged with `three-js`.
+Curated slice — topic `three-js`.
 
 - [The Complete Shelf](../../raw/items/github-mengto-complete-shelf/) — `github-mengto-complete-shelf`
 - [Agent Skills (MengTo)](../../raw/items/github-mengto-skills/) — `github-mengto-skills`

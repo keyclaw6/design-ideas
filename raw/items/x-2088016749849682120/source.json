@@ -1,0 +1,21 @@
+{
+  "id": "x-2088016749849682120",
+  "url": "https://x.com/fleetingbits/status/2088016749849682120",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:28Z",
+  "title": "i've started having claude turn my codebases into visual diagrams so i can discuss the codebases with claude more easily",
+  "authors": [
+    "FleetingBits (@fleetingbits)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2088016749849682120",
+    "author_handle": "fleetingbits",
+    "fetch": "api.fxtwitter.com (retry)"
+  }
+}

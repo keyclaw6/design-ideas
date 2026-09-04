@@ -1,6 +1,6 @@
 # Gaussian Splatting
 
-Items tagged with `gaussian-splatting`.
+Curated slice — topic `gaussian-splatting`.
 
 - [ArtiFixer](../../raw/items/github-nv-tlabs-ArtiFixer/) — `github-nv-tlabs-ArtiFixer`
 - [Splat2Mesh](../../raw/items/web-arcana-splat2mesh/) — `web-arcana-splat2mesh`

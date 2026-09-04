@@ -1,0 +1,19 @@
+{
+  "id": "x-2087304957011911157",
+  "url": "https://x.com/DODOREACH/status/2087304957011911157",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:49:26Z",
+  "title": "stop sending bad prompts to your Pi coding agent. you liked pi-clarify, so i published it on npm too: pi install npm:pi-",
+  "authors": [
+    "dodo-reach \ud83e\udda4 (@DODOREACH)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2087304957011911157",
+    "author_handle": "DODOREACH",
+    "fetch": "api.fxtwitter.com (retry)"
+  }
+}

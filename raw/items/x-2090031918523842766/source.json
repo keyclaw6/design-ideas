@@ -1,0 +1,20 @@
+{
+  "id": "x-2090031918523842766",
+  "url": "https://x.com/emilkowalski/status/2090031918523842766",
+  "source_type": "x",
+  "captured_at": "2026-09-04T06:35:41Z",
+  "title": "New skill: /animate-expo All the animation knowledge, but for your native apps. React Native and Expo: gestures, sheets,",
+  "authors": [
+    "Emil Kowalski (@emilkowalski)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2090031918523842766",
+    "author_handle": "emilkowalski",
+    "fetch": "api.fxtwitter.com (harvest-clear loop)",
+    "unsaved_at": "2026-09-04T06:38:20Z"
+  }
+}
