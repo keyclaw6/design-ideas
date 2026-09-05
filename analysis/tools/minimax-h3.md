@@ -19,4 +19,6 @@
 **2026-09-05 capture — AE→H3 handoff clip.** `seiiiiiiiiiiru/2092040265234260091` amplify video **7.061 s** / 1232×1276. Recipe already English on the card. Thread is `captured_partial` (13/1), not failed. Receipt `ae-h3-2092040265234260091.json`.
 
 **2026-09-05 capture — leftover12 Runway “unlimited H3” is Hailuo 3.0 terms.** Reply t.co → `https://runway.com/hailuo-terms` **200 / 284,430 B**. Official: unlimited **Hailuo 3.0** for Max-plan Eligible Users, Promotion Period **7 days** (Aug 17–23 2026 PT); late joiners get remaining days (example day 3 → 4). Does **not** apply from Runway MCP or Agent products. Do not collapse tweet MiniMax H3 with Hailuo 3.0. Runway homepage `runway.com` **918,419 B** has no H3/unlimited quota string. Receipt `leftover12-2026-09-05.json`.
+
+**2026-09-05 leftover28.** Unused MiniMax create-video docs **442,375 B** name MiniMax-H3. HF `MiniMaxAI/MiniMax-H3` **4,913** likes / **5,118,457** downloads; license other. Did not submit a create-task call. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -11,6 +11,7 @@
 **Claims.**
 - `web-fal-ai#c1` (capability, stated) fal hosts 1,000+ production-ready generative media models behind one API. — evidence: "1,000+ production-ready image/video/audio/3D models via unified API" [linked-page]
 - `web-fal-ai#c2` (availability, stated) Homepage highlights MiniMax H3 Max and Seedance 2.5 image-to-video endpoints. — evidence: "MiniMax H3 Max Text-to-Video / Image-to-Video; FLUX 3 Image-to-Video; Seedance 2.5 Image-to-Video" [linked-page]
+- `web-fal-ai#c3` (capability, demonstrated) leftover28 unused fal.ai/docs/llms.txt 95,947 B is a docs index: 198 unique fal.ai doc links this pass, and copy claiming 1,000+ models plus MCP / genmedia CLI / Platform MCP. leftover28 does not call a model or an authed MCP session. — evidence: "leftover28 fal-llms 95947 B. 198 unique doc links; 1,000+ models." [note]
 **Numbers.** Developers: 1.5M+  (linked-page); Model count: 1000+  (linked-page)
 **Recipe.** —
 **Techniques.** [agent-video-editing](../../techniques/agent-video-editing.md)

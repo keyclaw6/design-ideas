@@ -11,11 +11,12 @@
 **Claims.**
 - `web-lottiefiles#c1` (capability, stated) dotLottie format is marketed as about 90% smaller than GIF for the same motion. — evidence: "dotLottie 90% smaller than GIF" [linked-page]
 - `web-lottiefiles#c2` (availability, stated) The public library lists 800,000+ free and premium ready-to-use animations. — evidence: "800,000+ free & premium ready-to-use animations searchable by category" [linked-page]
+- `web-lottiefiles#c3` (availability, demonstrated) leftover28 unused lottiefiles.com 403 / 5,598 B Cloudflare checkpoint (Just a moment…). Visible extract empty. Do not hammer. leftover28 does not open /features. — evidence: "leftover28 lottiefiles 403 / 5598 B Cloudflare. Do not hammer." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** product (https://lottiefiles.com/), https://lottiefiles.com/features
+**Links.** product (https://lottiefiles.com/), https://lottiefiles.com/features, https://lottiefiles.com/
 **Related items.** [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-animos-editor](../web-animos-editor/card.md), [web-originkit-dev](../web-originkit-dev/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-tinyshots](../web-tinyshots/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

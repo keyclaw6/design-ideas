@@ -14,4 +14,6 @@
 **2026-09-05 capture — Spanish 21-min Sol tutorial.** `alextalksai/2093583622691283018` amplify video **1282.766 s** (~21.38 min) / **3324×2160**, matching “21 minutos.” No separate syllabus URL. Thread stays `captured_partial` (70/2). Card dropped `translation-needed`. Receipt `sol-es-2093583622691283018.json`.
 
 **2026-09-05 leftover19.** Failed-thread reply `t.co/qlVOgcGt83` → `sceneai.art` **200 / 307,798 B** (same host as the sibling leftover). Prompt body still missing.
+
+**2026-09-05 leftover28.** Unused `sceneai.art` **307,798 B** on the READY card: **36** Copy Prompt; **60% OFF**; still no GPT 5.6 / unlimited. Byte-match leftover19. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

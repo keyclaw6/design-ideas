@@ -43,6 +43,7 @@ DEAD = (
     "openreview.net",
     "mcp.gojiberry.ai",
     "mcp.crowdreply.io",
+    "lottiefiles.com",
 )
 SKIP_HOSTS = {
     "x.com",

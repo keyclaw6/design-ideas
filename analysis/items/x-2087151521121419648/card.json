@@ -3,7 +3,7 @@
   "id": "x-2087151521121419648",
   "source_type": "x",
   "url": "https://x.com/CopilotKit/status/2087151521121419648",
-  "title": "CopilotKit aimock — single-port mock stack for LLM, MCP, and search",
+  "title": "CopilotKit aimock \u2014 single-port mock stack for LLM, MCP, and search",
   "author": {
     "name": "CopilotKit",
     "handle": "CopilotKit",
@@ -48,6 +48,16 @@
       "evidence_source": "post",
       "evidence_ref": null,
       "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2087151521121419648#c3",
+      "text": "leftover28 unused aimock.copilotkit.dev 135,659 B titles aimock \u2014 Deterministic mock infrastructure for AI apps. Visible extract: npx -p @copilotkit/aimock llmock; docker ghcr.io/copilotkit/aimock on port 4010. leftover28 does not run a fixture replay.",
+      "kind": "capability",
+      "evidence": "leftover28 aimock 135659 B. npx @copilotkit/aimock; docker port 4010.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/copilotkit-aimock.md",
+      "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
     }
   ],

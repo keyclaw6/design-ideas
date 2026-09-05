@@ -13,4 +13,6 @@ Tree also has extra *example* stems without a `type-*.md` (beeswarm, bubble, bum
 **Opened sample.** `skills/diagram-design/assets/example-architecture.html`: `:root` tokens `--color-paper #f5f5f5`, `--color-ink #2d3142`, `--color-muted #4f5d75`, `--color-accent #eb6c36`, plus `--font-sans/serif/mono`. Inline SVG (`viewBox="0 0 1000 480"`) also hardcodes the same hex on fills/markers. CSS variables are editable; many SVG paints are duplicated as hex. Five slash commands: doctor, export-diagram, import-drawio, import-mermaid, profile.
 
 **2026-09-05 leftover27.** Unused `littlemight.com` **61,395 B** is *Business & life strategies for ambitious millennials* — host-string collision, not this library. Receipt `leftover27-2026-09-05.json`.
+
+**2026-09-05 leftover28.** Unused GitHub `imxv/Pretty-mermaid-skills` MIT **1,182★**: **15** themes / **6** diagram types / batch CLI. Neighbor mermaid skill, not Diagram Design’s **39** types. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

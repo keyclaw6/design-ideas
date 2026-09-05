@@ -10,11 +10,12 @@
 
 **Claims.**
 - `web-opale-ui-taste#c1` (recipe, stated) The essay recommends writing why you hate or love specific UI patterns into skills so taste becomes scalable through iterative refinement, not one-shot downloads. — evidence: "when you hate something, write why in skills; when you love something, capture the reasoning" [linked-page]
+- `web-opale-ui-taste#c2` (availability, demonstrated) leftover28 unused opale-ui.design 23,680 B titles Opale UI | Next.js Templates with Craft-Level Design. Visible extract is a template shop (48h AI Chat template free for a limited time) — not the taste-encoding essay already on this card. Do not treat the template catalog as a DESIGN.md pack. — evidence: "leftover28 opale 23680 B. Title: Next.js Templates with Craft-Level Design." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [taste-skill-encoding](../../techniques/taste-skill-encoding.md), [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md)
 **Tools.** —
-**Links.** product (https://opale-ui.design/)
+**Links.** product (https://opale-ui.design/), https://opale-ui.design/
 **Related items.** [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.**
 `raw/items/web-opale-ui-taste/media/og-image.png` (image, carries_technique=false) — Saved og-image file is an HTML 404 page from opale-ui.design, not a rendered social preview image.

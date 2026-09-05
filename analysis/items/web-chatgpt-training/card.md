@@ -12,6 +12,7 @@
 - `web-chatgpt-training#c1` (capability, stated) OpenAI defines plugins as new capabilities and skills as how you want them done. — evidence: "Plugins = new capabilities; skills = how you want them done" [linked-page]
 - `web-chatgpt-training#c2` (availability, stated) Training hub ships two hands-on labs (Work planning, Codex first code change) and six ordered walkthroughs. — evidence: "Hands-on labs ... Walkthroughs (6)" [linked-page]
 - `web-chatgpt-training#c3` (availability, demonstrated) leftover27 unused learn.chatgpt.com/training 305,746 B lists ChatGPT Training walkthroughs for ChatGPT (Work) and Codex. leftover27 does not complete a signed-in training module or export a completion receipt. — evidence: "leftover27 chatgpt-training 305746 B. Work + Codex walkthroughs." [note]
+- `web-chatgpt-training#c4` (availability, demonstrated) leftover28 unused academy.openai.com/home/events 612,752 B redirects to /public/events. Title Events | OpenAI Academy. Visible extract lists livestream / in-person sessions (this pass: 24 Register CTAs / 17 Livestream labels). leftover28 does not complete a signed-in event. — evidence: "leftover28 openai-academy 612752 B. 24 Register / 17 Livestream labels." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

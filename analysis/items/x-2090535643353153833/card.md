@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2090535643353153833#c1` (capability, stated) CadX Studio produced a wheel hub with bolt circle, drive spline, and brake disc mount from a prompt through to an engineering drawing. — evidence: "Bolt circle. Drive spline. Brake disc mount. From prompt to CAD model to engineering drawing." [post]
+- `x-2090535643353153833#c2` (availability, demonstrated) leftover28 unused cadxstudio.in 3,111 B on this sibling card is the same leftover28 cadx receipt (AI Design Engine in the Browser; visible extract empty). Still no STEP export. — evidence: "leftover28 cadx 3111 B. Same sibling leftover as x-2089717063921332378#c2." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [text-to-cad](../../techniques/text-to-cad.md)
 **Tools.** [cadx-studio](../../tools/cadx-studio.md)
-**Links.** product (https://cadxstudio.in)
+**Links.** product (https://cadxstudio.in), https://cadxstudio.in
 **Related items.** [x-2089717063921332378](../x-2089717063921332378/card.md), [x-2087272209429766596](../x-2087272209429766596/card.md), [x-2089802212000362939](../x-2089802212000362939/card.md)
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)

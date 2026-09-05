@@ -63,6 +63,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "web-lottiefiles#c3",
+      "text": "leftover28 unused lottiefiles.com 403 / 5,598 B Cloudflare checkpoint (Just a moment\u2026). Visible extract empty. Do not hammer. leftover28 does not open /features.",
+      "kind": "availability",
+      "evidence": "leftover28 lottiefiles 403 / 5598 B Cloudflare. Do not hammer.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/remotion.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "links": {
@@ -71,7 +81,8 @@
     "paper": null,
     "product": "https://lottiefiles.com/",
     "other": [
-      "https://lottiefiles.com/features"
+      "https://lottiefiles.com/features",
+      "https://lottiefiles.com/"
     ],
     "related_items": [
       "github-nexu-io-motion-anything",

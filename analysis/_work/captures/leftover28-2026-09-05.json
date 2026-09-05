@@ -1,0 +1,273 @@
+{
+  "fetched_at": "2026-09-05T14:00:00Z",
+  "pages": {
+    "nqz-gen": {
+      "url": "https://nqz.ai/ai-search-prompt-generator",
+      "final": "https://nqz.ai/ai-search-prompt-generator",
+      "status": 200,
+      "bytes": 36810,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Free AI Search Prompt Generator \u2014 ChatGPT & Perplexity Prompts For Your Business | nqzai",
+      "visible_len": 2704
+    },
+    "nqz-tools": {
+      "url": "https://nqz.ai/free-ai-tools",
+      "final": "https://nqz.ai/free-ai-tools",
+      "status": 200,
+      "bytes": 28162,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Free AI Tools \u2014 GEO Scorecard, AI Search Prompt Generator | nqzai",
+      "visible_len": 1862
+    },
+    "known-agency": {
+      "url": "https://known.agency/",
+      "final": "https://known.agency/",
+      "status": 200,
+      "bytes": 965519,
+      "ctype": "text/html",
+      "error": null,
+      "title": "known.agency \u2014 #1 AI Search Optimization Agency",
+      "visible_len": 7736
+    },
+    "opale": {
+      "url": "https://opale-ui.design/",
+      "final": "https://opale-ui.design/",
+      "status": 200,
+      "bytes": 23680,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Opale UI | Next.js Templates with Craft-Level Design",
+      "visible_len": 365
+    },
+    "sceneai": {
+      "url": "https://sceneai.art/",
+      "final": "https://sceneai.art/",
+      "status": 200,
+      "bytes": 307798,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "SceneAI: The Best UI Prompt Library on the Internet",
+      "visible_len": 2532
+    },
+    "tinylaunch-dirs": {
+      "url": "https://www.tinylaunch.com/directories",
+      "final": "https://www.tinylaunch.com/directories",
+      "status": 200,
+      "bytes": 106620,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "List of Product Directories (Free)",
+      "visible_len": 7472
+    },
+    "recent-design": {
+      "url": "https://recent.design/",
+      "final": "https://recent.design/",
+      "status": 200,
+      "bytes": 311079,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Recent \u2014 Design Inspiration",
+      "visible_len": 608
+    },
+    "tinyshots": {
+      "url": "https://tinyshots.app",
+      "final": "https://www.tinyshots.app/",
+      "status": 200,
+      "bytes": 70112,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "TinyShots | Capture. Polish. Done.",
+      "visible_len": 3759
+    },
+    "oryzo": {
+      "url": "https://oryzo.ai/",
+      "final": "https://oryzo.ai/",
+      "status": 200,
+      "bytes": 71633,
+      "ctype": "text/html",
+      "error": null,
+      "title": "ORYZO AI",
+      "visible_len": 6628
+    },
+    "lusion": {
+      "url": "https://lusion.co/",
+      "final": "https://lusion.co/",
+      "status": 200,
+      "bytes": 59671,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Lusion - Award Winning 3D and Interactive Web Studio",
+      "visible_len": 2229
+    },
+    "seed3d": {
+      "url": "https://seed.bytedance.com/en/seed3d_2_0",
+      "final": "https://seed.bytedance.com/en/seed3d_2_0",
+      "status": 200,
+      "bytes": 136088,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "ByteDance Seed",
+      "visible_len": 911
+    },
+    "splatpaint": {
+      "url": "https://alpha.splatpaint.app",
+      "final": "https://alpha.splatpaint.app",
+      "status": 200,
+      "bytes": 5686,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "SplatPaint Founding Alpha",
+      "visible_len": 435
+    },
+    "minimax-docs": {
+      "url": "https://platform.minimax.io/docs/api-reference/video-generation-v2-create",
+      "final": "https://platform.minimax.io/docs/api-reference/video-generation-v2-create",
+      "status": 200,
+      "bytes": 442375,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Create Video Generation Task - MiniMax API Docs",
+      "visible_len": 11036
+    },
+    "hf-minimax-h3": {
+      "url": "https://huggingface.co/api/models/MiniMaxAI/MiniMax-H3",
+      "final": "https://huggingface.co/api/models/MiniMaxAI/MiniMax-H3",
+      "status": 200,
+      "bytes": 20848,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover28-2026-09-05/hf-minimax-h3.json",
+      "json_summary": {
+        "name": "MiniMaxAI/MiniMax-H3",
+        "stars": 4913,
+        "license": null,
+        "description": "",
+        "published_at": null
+      }
+    },
+    "lottiefiles": {
+      "url": "https://lottiefiles.com/",
+      "final": "https://lottiefiles.com/",
+      "status": 403,
+      "bytes": 5598,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 403",
+      "title": "Just a moment...",
+      "visible_len": 0
+    },
+    "fal-llms": {
+      "url": "https://fal.ai/docs/llms.txt",
+      "final": "https://fal.ai/docs/llms.txt",
+      "status": 200,
+      "bytes": 95947,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 95909
+    },
+    "vercel-skills": {
+      "url": "https://api.github.com/repos/vercel-labs/agent-skills",
+      "final": "https://api.github.com/repos/vercel-labs/agent-skills",
+      "status": 200,
+      "bytes": 6440,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover28-2026-09-05/vercel-skills.json",
+      "json_summary": {
+        "name": "agent-skills",
+        "stars": 30848,
+        "license": null,
+        "description": "Vercel's official collection of agent skills",
+        "published_at": null
+      }
+    },
+    "great-ui": {
+      "url": "https://www.great-ui.com/",
+      "final": "https://www.great-ui.com/",
+      "status": 200,
+      "bytes": 72561,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Great UI - Accessible React & Tailwind Components",
+      "visible_len": 1412
+    },
+    "cadx": {
+      "url": "https://cadxstudio.in",
+      "final": "https://cadxstudio.in",
+      "status": 200,
+      "bytes": 3111,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "CadXStudio | AI Design Engine in the Browser",
+      "visible_len": 0
+    },
+    "clawhub-nano": {
+      "url": "https://clawhub.com/skill/nano-banana-pro-prompts-recommend",
+      "final": "https://clawhub.ai/skill/skills/nano-banana-pro-prompts-recommend",
+      "status": 200,
+      "bytes": 63154,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "nano-banana-pro-prompts-recommend \u2014 ClawHub",
+      "visible_len": 9866
+    },
+    "aimock": {
+      "url": "https://aimock.copilotkit.dev",
+      "final": "https://aimock.copilotkit.dev",
+      "status": 200,
+      "bytes": 135659,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "aimock \u2014 Deterministic mock infrastructure for AI apps",
+      "visible_len": 6735
+    },
+    "pretty-mermaid": {
+      "url": "https://api.github.com/repos/imxv/Pretty-mermaid-skills",
+      "final": "https://api.github.com/repos/imxv/Pretty-mermaid-skills",
+      "status": 200,
+      "bytes": 5816,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover28-2026-09-05/pretty-mermaid.json",
+      "json_summary": {
+        "name": "Pretty-mermaid-skills",
+        "stars": 1182,
+        "license": "MIT",
+        "description": "AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII \u2014 15 themes, 6 diagram types, batch CLI, no browser.",
+        "published_at": null
+      }
+    },
+    "refero-examples": {
+      "url": "https://styles.refero.design/ai-agents/design-md-examples",
+      "final": "https://styles.refero.design/ai-agents/design-md-examples",
+      "status": 200,
+      "bytes": 157432,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "DESIGN.md Examples for AI Agents | Refero Styles",
+      "visible_len": 6648
+    },
+    "cf-browser-run": {
+      "url": "https://developers.cloudflare.com/browser-run/",
+      "final": "https://developers.cloudflare.com/browser-run/",
+      "status": 200,
+      "bytes": 138466,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Browser Run \u00b7 Cloudflare Browser Run docs",
+      "visible_len": 6252
+    },
+    "openai-academy": {
+      "url": "https://academy.openai.com/home/events",
+      "final": "https://academy.openai.com/public/events",
+      "status": 200,
+      "bytes": 612752,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Events | OpenAI AcademyArrow Nav DownArrow Nav DownArrow Nav Down",
+      "visible_len": 4241
+    }
+  }
+}

@@ -3,7 +3,7 @@
   "id": "web-tinylaunch-directories",
   "source_type": "website",
   "url": "https://www.tinylaunch.com/directories",
-  "title": "TinyLaunch Directories — paid SaaS directory submission for DR lift",
+  "title": "TinyLaunch Directories \u2014 paid SaaS directory submission for DR lift",
   "author": {
     "name": "Chris",
     "handle": "chrissyinspace",
@@ -27,14 +27,14 @@
   "platforms": [
     "other"
   ],
-  "summary": "TinyLaunch sells done-for-you manual submissions to a vetted list of launch directories, promising Domain Rating lifts with tiered guarantees on a 110-directory package and case studies such as Flashcard Buddy 7→30 DR.",
+  "summary": "TinyLaunch sells done-for-you manual submissions to a vetted list of launch directories, promising Domain Rating lifts with tiered guarantees on a 110-directory package and case studies such as Flashcard Buddy 7\u219230 DR.",
   "question_it_answers": "What paid service submits a product to curated launch directories to raise Domain Rating?",
   "claims": [
     {
       "id": "web-tinylaunch-directories#c1",
-      "text": "The 110-directory package guarantees minimum DR bands such as 15–20 when starting from DR 0–10.",
+      "text": "The 110-directory package guarantees minimum DR bands such as 15\u201320 when starting from DR 0\u201310.",
       "kind": "result",
-      "evidence": "0–10 | DR 15–20",
+      "evidence": "0\u201310 | DR 15\u201320",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -48,6 +48,16 @@
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-tinylaunch-directories#c3",
+      "text": "leftover28 unused tinylaunch.com/directories 106,620 B restates leftover22: Showing 15 of 691; 30,000+ makers; paid 110 directories $279. leftover28 visible extract lists DR rows (sample Makerthrive DR 45 \u2026 AppSumo DR 84). Do not collapse 691 with TinyShelf listing counts. DR 11\u219246 still tweet-only.",
+      "kind": "availability",
+      "evidence": "leftover28 tinylaunch-dirs 106620 B. 691 listed / 30000+ makers / $279 for 110.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshots.md",
+      "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
     }
   ],
@@ -80,7 +90,8 @@
     "paper": null,
     "product": "https://www.tinylaunch.com/directories",
     "other": [
-      "https://www.tinylaunch.com/tos"
+      "https://www.tinylaunch.com/tos",
+      "https://www.tinylaunch.com/directories"
     ],
     "related_items": [
       "web-tinyshelf",

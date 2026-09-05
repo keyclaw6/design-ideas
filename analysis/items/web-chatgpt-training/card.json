@@ -60,6 +60,16 @@
       "evidence_ref": "analysis/tools/chatgpt-training.md",
       "confidence": "demonstrated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "web-chatgpt-training#c4",
+      "text": "leftover28 unused academy.openai.com/home/events 612,752 B redirects to /public/events. Title Events | OpenAI Academy. Visible extract lists livestream / in-person sessions (this pass: 24 Register CTAs / 17 Livestream labels). leftover28 does not complete a signed-in event.",
+      "kind": "availability",
+      "evidence": "leftover28 openai-academy 612752 B. 24 Register / 17 Livestream labels.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/chatgpt-training.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,

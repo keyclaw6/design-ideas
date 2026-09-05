@@ -44,10 +44,20 @@
       "id": "web-recent-design#c2",
       "text": "Feed mixes FUI loaders, glass shaders, onboarding flows, and WebGPU demos as daily taste references rather than a component library.",
       "kind": "capability",
-      "evidence": "Mix includes FUI loaders, 404 experiments, glass/refraction, 3D cards, onboarding flows, WebGPU libs — useful as daily taste input",
+      "evidence": "Mix includes FUI loaders, 404 experiments, glass/refraction, 3D cards, onboarding flows, WebGPU libs \u2014 useful as daily taste input",
       "evidence_source": "linked-page",
       "evidence_ref": "research.md",
       "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-recent-design#c3",
+      "text": "leftover28 unused recent.design 311,079 B titles Recent \u2014 Design Inspiration. Visible extract is a thin inspiration + jobs shell (Web / Interface / Branding / Product / Typography / Motion / Illustration / 3D / Editorial / Print / Packaging). No DESIGN.md inventory and no component count.",
+      "kind": "availability",
+      "evidence": "leftover28 recent-design 311079 B. Title: Recent \u2014 Design Inspiration.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshots.md",
+      "confidence": "demonstrated",
       "subject": "landing-ui-motion"
     }
   ],
@@ -61,7 +71,8 @@
     "paper": null,
     "product": "https://recent.design/",
     "other": [
-      "https://cdn.recent.design/"
+      "https://cdn.recent.design/",
+      "https://recent.design/"
     ],
     "related_items": [
       "web-sceneai-art",

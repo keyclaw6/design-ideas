@@ -27,7 +27,7 @@
     "cli",
     "other"
   ],
-  "summary": "macOS menu-bar app for polished marketing screenshots—backgrounds, annotations, Vision background removal, and compositions—with a full CLI for batch presets aimed at Claude Code and other agents.",
+  "summary": "macOS menu-bar app for polished marketing screenshots\u2014backgrounds, annotations, Vision background removal, and compositions\u2014with a full CLI for batch presets aimed at Claude Code and other agents.",
   "question_it_answers": "What offline tool polishes product screenshots and exposes a CLI for agent pipelines?",
   "claims": [
     {
@@ -38,6 +38,16 @@
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-tinyshots#c2",
+      "text": "leftover28 unused tinyshots.app 70,112 B restates the product NOTES: $39 early-bird, 97 spots left, then $49; 180+ wallpapers; macOS Sonoma 14+; one-time / offline. DR 11\u219246 still absent. leftover28 is that homepage now on the READY card.",
+      "kind": "pricing",
+      "evidence": "leftover28 tinyshots 70112 B. $39 / 97 spots / $49 / 180+ wallpapers.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshots.md",
+      "confidence": "demonstrated",
       "subject": "landing-ui-motion"
     }
   ],
@@ -59,7 +69,9 @@
     "repo": null,
     "paper": null,
     "product": "https://tinyshots.app",
-    "other": [],
+    "other": [
+      "https://tinyshots.app"
+    ],
     "related_items": [
       "web-tinyshelf",
       "web-animos-editor",

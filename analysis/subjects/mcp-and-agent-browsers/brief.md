@@ -109,7 +109,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2087555254757757116#c2` | The supplied CA bundle is installed into the browser trust store automatically. | stated | [KERNEL agent browsers add custom prox…](../../items/x-2087555254757757116/card.md) |
 | `x-2087898602890744089#c1` | Rakazo supports any LLM via pi harness and any sandbox provider or Docker. | stated | [Rakazo: Apache-2.0 open-source Grok B…](../../items/x-2087898602890744089/card.md) |
 
-Full set: claims.jsonl (40 rows)
+Full set: claims.jsonl (42 rows)
 
 ## mcp-and-agent-browsers — comparison axes
 

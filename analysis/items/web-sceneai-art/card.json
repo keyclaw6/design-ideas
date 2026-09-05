@@ -3,7 +3,7 @@
   "id": "web-sceneai-art",
   "source_type": "website",
   "url": "https://sceneai.art/",
-  "title": "SceneAI — copy-paste UI section prompt library with save counts",
+  "title": "SceneAI \u2014 copy-paste UI section prompt library with save counts",
   "author": {
     "name": "SceneAI",
     "handle": "sceneai",
@@ -28,7 +28,7 @@
     "cursor",
     "other"
   ],
-  "summary": "SceneAI hosts ready-made AI prompts for web heroes and landing pages—Neurolink, Exosia, Airlines, Shipmint, and similar sections—with save-count social proof for copy-paste into Cursor or v0 before taste-skill cleanup.",
+  "summary": "SceneAI hosts ready-made AI prompts for web heroes and landing pages\u2014Neurolink, Exosia, Airlines, Shipmint, and similar sections\u2014with save-count social proof for copy-paste into Cursor or v0 before taste-skill cleanup.",
   "question_it_answers": "Where can you grab starter hero and landing-page prompts for agent-driven site builds?",
   "claims": [
     {
@@ -50,6 +50,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-sceneai-art#c3",
+      "text": "leftover28 unused sceneai.art 307,798 B titles SceneAI: The Best UI Prompt Library on the Internet (source ranking language). Visible extract still has 36 Copy Prompt buttons and 60% OFF. Byte drift vs leftover Sol marketplace 308,165 B \u2014 do not collapse. HTML still has no GPT 5.6 and no unlimited.",
+      "kind": "availability",
+      "evidence": "leftover28 sceneai 307798 B. 36 Copy Prompt; 60% OFF; no GPT 5.6 / unlimited.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gpt-5-6-sol.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -61,7 +71,9 @@
     "repo": null,
     "paper": null,
     "product": "https://sceneai.art/",
-    "other": [],
+    "other": [
+      "https://sceneai.art/"
+    ],
     "related_items": [
       "web-getlayers-ai",
       "web-recent-design",

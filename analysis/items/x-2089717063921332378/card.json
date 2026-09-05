@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2089717063921332378#c2",
+      "text": "leftover28 unused cadxstudio.in 3,111 B titles CadXStudio | AI Design Engine in the Browser. Visible extract is empty (thin marketing shell). Meta/og still says text-to-CAD / BREP / no install. leftover28 does not export a STEP.",
+      "kind": "availability",
+      "evidence": "leftover28 cadx 3111 B. Title: AI Design Engine in the Browser.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cadx-studio.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": null,
@@ -54,7 +64,9 @@
     "repo": null,
     "paper": null,
     "product": "https://cadxstudio.in",
-    "other": [],
+    "other": [
+      "https://cadxstudio.in"
+    ],
     "related_items": [
       "x-2090535643353153833",
       "x-2087272209429766596",

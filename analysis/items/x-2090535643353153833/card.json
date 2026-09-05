@@ -37,6 +37,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2090535643353153833#c2",
+      "text": "leftover28 unused cadxstudio.in 3,111 B on this sibling card is the same leftover28 cadx receipt (AI Design Engine in the Browser; visible extract empty). Still no STEP export.",
+      "kind": "availability",
+      "evidence": "leftover28 cadx 3111 B. Same sibling leftover as x-2089717063921332378#c2.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cadx-studio.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": null,
@@ -52,7 +62,9 @@
     "repo": null,
     "paper": null,
     "product": "https://cadxstudio.in",
-    "other": [],
+    "other": [
+      "https://cadxstudio.in"
+    ],
     "related_items": [
       "x-2089717063921332378",
       "x-2087272209429766596",

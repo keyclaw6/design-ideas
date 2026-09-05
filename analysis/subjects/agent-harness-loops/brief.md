@@ -149,7 +149,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2082316720086405524#c1` | Author disables all agent permission checks and skips auto-review, treating the machine as an employee laptop not a p… | stated | [Kun Chen YOLO-agent ops: disposable N…](../../items/x-2082316720086405524/card.md) |
 | `x-2082316720086405524#c2` | Recovery path is nix-darwin plus home-manager dotfiles: wipe, clone, rebuild in minutes. | stated | [Kun Chen YOLO-agent ops: disposable N…](../../items/x-2082316720086405524/card.md) |
 
-Full set: claims.jsonl (111 rows)
+Full set: claims.jsonl (112 rows)
 
 ## agent-harness-loops — comparison axes
 

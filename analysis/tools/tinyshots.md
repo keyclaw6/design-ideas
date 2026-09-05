@@ -11,4 +11,6 @@ Fetched 2026-09-05 `https://www.tinyshots.app/` GET 200 / **70,112 B**. Title Ti
 Neighbor listing: `https://www.tinyshelf.co/tools/tinyshots` GET 200 / **7,594 B**. Photo, Video & Audio; 180+ wallpapers; Vision on-device background remove; CLI. **DR 11→46 absent** from listing and product page. Receipt `analysis/_work/captures/mustread-2026-09-05.json`.
 
 **2026-09-05 leftover22.** Unused `tinylaunch.com/directories` **106,620 B**. Live list **Showing 15 of 691**. Paid **110** directories **$279**; **30,000+** makers. Flashcard Buddy **7→30** is vendor copy. Do not collapse 691 with TinyShelf **122** outgoing dofollow. Receipt `leftover22-2026-09-05.json`.
+
+**2026-09-05 leftover28.** Same TinyLaunch directories **106,620 B** now on the READY card. Unused `tinyshots.app` **70,112 B** restates **$39** / **97** spots / **$49** / **180+**. Unused `recent.design` **311,079 B** is a thin inspiration + jobs shell. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

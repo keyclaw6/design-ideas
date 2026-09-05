@@ -10,11 +10,12 @@
 
 **Claims.**
 - `web-tinyshots#c1` (capability, stated) TinyShots provides on-device Vision background removal and a CLI for batch agent workflows. — evidence: "Full command-line interface for batch processing and agent workflows" [linked-page]
+- `web-tinyshots#c2` (pricing, demonstrated) leftover28 unused tinyshots.app 70,112 B restates the product NOTES: $39 early-bird, 97 spots left, then $49; 180+ wallpapers; macOS Sonoma 14+; one-time / offline. DR 11→46 still absent. leftover28 is that homepage now on the READY card. — evidence: "leftover28 tinyshots 70112 B. $39 / 97 spots / $49 / 180+ wallpapers." [note]
 **Numbers.** early bird price: 39 USD (linked-page)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [tinyshots](../../tools/tinyshots.md)
-**Links.** product (https://tinyshots.app)
+**Links.** product (https://tinyshots.app), https://tinyshots.app
 **Related items.** [web-tinyshelf](../web-tinyshelf/card.md), [web-animos-editor](../web-animos-editor/card.md), [web-lottiefiles](../web-lottiefiles/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-dicebear](../web-dicebear/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: [web-tinyshelf](../web-tinyshelf/card.md), [web-animos-editor](../web-animos-editor/card.md)

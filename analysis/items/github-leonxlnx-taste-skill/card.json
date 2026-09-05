@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/taste-skill.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-leonxlnx-taste-skill#c4",
+      "text": "leftover28 unused GitHub vercel-labs/agent-skills API 6,440 B is 30,848\u2605 with license null this pass. Description: Vercel's official collection of agent skills. Neighbor catalog, not Taste Skill v2 and not MengTo/Skills. Do not collapse 30,848\u2605 with Taste Skill or Emil install counts.",
+      "kind": "availability",
+      "evidence": "leftover28 vercel-skills 6440 B. vercel-labs/agent-skills 30848\u2605 license null.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

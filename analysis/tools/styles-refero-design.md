@@ -25,4 +25,6 @@ Beta gallery copy: **“Browse 2,000+ AI-readable design systems.”** Refero MC
 **2026-09-05 leftover19.** `styles.refero.design` **200 / 103,024 B** still markets **2,000+**. API recount stays **1,289 / 1,241**.
 
 **2026-09-05 leftover25.** Unused `http://styles.refero.design` resolves to the same **103,024 B** https homepage. API 1,289/1,241 unchanged. Receipt `leftover25-2026-09-05.json`.
+
+**2026-09-05 leftover28.** Unused `/ai-agents/design-md-examples` **157,432 B**: **24** curated from **1,200+** matching styles. Do not collapse with API **1,289 / 1,241** or marketing **2,000+**. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

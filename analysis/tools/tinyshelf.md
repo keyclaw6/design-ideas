@@ -22,4 +22,6 @@ Homepage confirms: curated directory, “Every listing is reviewed before it goe
 Neighbor (parked; Sami 15-name list, no sami.md): 2026-09-05 live GETs — SaaSHub **211,434 B**; SourceForge **113,772 B**; Indie Hackers **188,546 B**; Wellfound **122,361 B**. **403:** BetaList `/submit`, AlternativeTo, Slant, GetApp, Capterra, Clutch. StackShare **429** — do not hammer. Tweet DR tiers / 48-hour approval stay tweet-only. Receipt `analysis/_work/captures/leftover3-2026-09-05.json`.
 
 **2026-09-05 leftover25.** Unused Crunchbase **128,439 B** (39B signals marketing). G2 **403 / 1,704 B** and Product Hunt **403 / 5,581 B** — do not hammer. No DR 11→46. Receipt `leftover25-2026-09-05.json`.
+
+**2026-09-05 leftover28.** Unused `known.agency` **965,519 B** titles *#1 AI Search Optimization Agency* (source ranking language) and claims **100+** companies. Same leftover18 vendor-copy byte count, now on the READY card. Do not invent `known-agency.md`. Not GSC proof. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

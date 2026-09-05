@@ -3,7 +3,7 @@
   "id": "web-oryzo-ai",
   "source_type": "website",
   "url": "https://oryzo.ai/",
-  "title": "ORYZO AI — Lusion satirical AI-product landing for a cork coaster",
+  "title": "ORYZO AI \u2014 Lusion satirical AI-product landing for a cork coaster",
   "author": {
     "name": "Lusion",
     "handle": null,
@@ -52,6 +52,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-oryzo-ai#c3",
+      "text": "leftover28 unused oryzo.ai 71,633 B is a satirical cork-coaster / AI-slop landing designed by Lusion (ORYZO-1 open-weight joke; ISSUE NO. 00124). leftover28 unused lusion.co 59,671 B is the studio site and names Oryzo AI as featured work. Neither page is a Three.js skill pack or a scene exporter.",
+      "kind": "counter-claim",
+      "evidence": "leftover28 oryzo 71633 B; lusion 59671 B. Cork-coaster satire; Lusion featured work.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-world-skill.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
@@ -64,7 +74,8 @@
     "paper": null,
     "product": "https://oryzo.ai/",
     "other": [
-      "https://lusion.co/"
+      "https://lusion.co/",
+      "https://oryzo.ai/"
     ],
     "related_items": [
       "web-utsubo",

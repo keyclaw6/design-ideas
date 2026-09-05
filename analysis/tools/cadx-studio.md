@@ -8,5 +8,5 @@
 - [CadX Studio prompt-to-CAD wheel hub with bolt circle and spline](../items/x-2090535643353153833/card.md) — example, claim-source — ai-cad-hardware
 
 <!-- NOTES:START -->
-
+**2026-09-05 leftover28.** Unused `cadxstudio.in` **3,111 B** titles *AI Design Engine in the Browser*. Visible extract empty. No STEP export. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

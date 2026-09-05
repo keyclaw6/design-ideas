@@ -1,0 +1,688 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Redirect /index.html to clean URL -->
+    <script>
+      if (window.location.pathname.endsWith("/index.html")) {
+        window.history.replaceState(null, "", "/");
+      }
+    </script>
+    <title>aimock — Deterministic mock infrastructure for AI apps</title>
+    <meta
+      name="description"
+      content="One mock server for LLMs, MCP, A2A, vector DBs, and more. Fixture-driven. Zero dependencies. The aimock suite for AI application testing."
+    />
+
+    <!-- Open Graph / Social -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://aimock.copilotkit.dev/" />
+    <meta property="og:title" content="aimock — Deterministic mock infrastructure for AI apps" />
+    <meta
+      property="og:description"
+      content="One mock server for LLMs, MCP, A2A, vector DBs, and more. Fixture-driven. Zero dependencies."
+    />
+    <meta property="og:image" content="https://aimock.copilotkit.dev/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="aimock — Mock everything your AI app talks to" />
+    <meta
+      name="twitter:description"
+      content="LLM APIs, MCP, A2A, vector DBs, search. One package, one port, zero dependencies."
+    />
+    <meta name="twitter:image" content="https://aimock.copilotkit.dev/og-image.png" />
+
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Instrument+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      /* ─── Reset & Variables ───────────────────────────────────────── */
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      :root {
+        --bg-deep: #0a0a0f;
+        --bg-surface: #111118;
+        --bg-card: #16161f;
+        --bg-card-hover: #1c1c28;
+        --border: #2a2a3a;
+        --border-bright: #3a3a50;
+        --text-primary: #e8e8f0;
+        --text-secondary: #8888a0;
+        --text-dim: #555570;
+        --accent: #00ff88;
+        --accent-dim: #00cc6a;
+        --accent-glow: rgba(0, 255, 136, 0.15);
+        --accent-glow-strong: rgba(0, 255, 136, 0.3);
+        --warning: #ffaa00;
+        --error: #ff4466;
+        --blue: #4488ff;
+        --purple: #aa66ff;
+        --font-mono: "JetBrains Mono", "SF Mono", "Fira Code", monospace;
+        --font-features-mono: "liga" 0, "calt" 0;
+        --font-sans: "Instrument Sans", -apple-system, system-ui, sans-serif;
+        --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+        /* Rendered height of the fixed nav. Anything that sticks below the nav
+           offsets from this instead of re-guessing the number. The value here is
+           the desktop/mobile fallback for a no-JS render; the nav measures itself
+           on load and on resize and overwrites it, so a change to nav padding,
+           brand font-size or link wrapping can no longer silently desync. */
+        --nav-h: 70px;
+      }
+
+      html {
+        font-size: 16px;
+        scroll-behavior: smooth;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      body {
+        font-family: var(--font-sans);
+        background: var(--bg-deep);
+        color: var(--text-primary);
+        line-height: 1.6;
+        overflow-x: hidden;
+      }
+
+      code,
+      pre,
+      kbd {
+        font-feature-settings: var(--font-features-mono);
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+
+      /* ─── Noise Overlay ──────────────────────────────────────────── */
+      body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+        pointer-events: none;
+        z-index: 9999;
+      }
+
+      /* ─── Layout ─────────────────────────────────────────────────── */
+      .container {
+        max-width: 1120px;
+        margin: 0 auto;
+        padding: 0 2rem;
+      }
+
+      /* ─── Nav ────────────────────────────────────────────────────── */
+      nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        padding: 1rem 0;
+        background: rgba(10, 10, 15, 0.85);
+        backdrop-filter: blur(20px) saturate(1.4);
+        -webkit-backdrop-filter: blur(20px) saturate(1.4);
+        border-bottom: 1px solid var(--border);
+      }
+      nav .container {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+      }
+      /* Pushes both link groups to the right, so splitting them into two lists
+         leaves the desktop bar looking exactly as it did with one. */
+      .nav-brand {
+        margin-right: auto;
+      }
+      .nav-brand {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        font-family: var(--font-mono);
+        font-weight: 600;
+        font-size: 1rem;
+        color: var(--text-primary);
+      }
+      .nav-brand .brand-main {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+      .nav-brand .prompt {
+        color: var(--accent);
+      }
+      .nav-links {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        list-style: none;
+      }
+      .nav-links a {
+        color: var(--text-secondary);
+        font-size: 0.875rem;
+        font-weight: 500;
+        transition: color 0.2s;
+      }
+      .nav-links a:hover {
+        color: var(--text-primary);
+        text-decoration: none;
+      }
+      .nav-links .gh-link {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.4rem 1rem;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        transition:
+          border-color 0.2s,
+          background 0.2s;
+      }
+      .nav-links .gh-link:hover {
+        border-color: var(--border-bright);
+        background: var(--bg-card);
+      }
+
+      /* ─── Animations ─────────────────────────────────────────────── */
+      @keyframes fadeUp {
+        from {
+          opacity: 0;
+          transform: translateY(30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @keyframes pulse {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.4;
+        }
+      }
+
+      @keyframes blink {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0;
+        }
+      }
+
+      .fade-in {
+        opacity: 0;
+        transform: translateY(30px);
+        transition:
+          opacity 0.8s var(--ease-out-expo),
+          transform 0.8s var(--ease-out-expo);
+      }
+      .fade-in.visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      /* The OS-level request is to stop motion on the PAGE, not only in the
+         marquee (whose own reduced-motion rules live with the marquee CSS).
+         This neutralises every remaining moving part: the fadeUp entrances, the
+         looping pulse and blink, the scroll-triggered reveal transitions and
+         smooth scrolling. Durations collapse rather than being removed so that
+         a `both`-filled animation still lands on its final frame instead of
+         never applying, and iteration-count 1 stops the infinite loops on their
+         100% keyframe (fully opaque) rather than mid-fade. */
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+        *,
+        *::before,
+        *::after {
+          animation-duration: 0.001ms !important;
+          animation-delay: 0ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.001ms !important;
+          transition-delay: 0ms !important;
+        }
+        /* .fade-in is revealed by an IntersectionObserver adding .visible. The
+           observer still fires here, but with the transition gone the hidden
+           resting state is no longer a frame anyone sees — and a section whose
+           observer never fires (JS off, a browser without it) would be left
+           permanently blank. So under reduced motion the resting state IS the
+           revealed state and .visible becomes a no-op. */
+        .fade-in {
+          opacity: 1;
+          transform: none;
+        }
+      }
+
+      /* ─── Hero ───────────────────────────────────────────────────── */
+      .hero {
+        padding: 120px 0 3rem;
+        position: relative;
+        overflow: hidden;
+      }
+      .hero::before {
+        content: "";
+        position: absolute;
+        top: -200px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 800px;
+        height: 600px;
+        background: radial-gradient(ellipse, var(--accent-glow) 0%, transparent 70%);
+        pointer-events: none;
+      }
+      .hero .container {
+        position: relative;
+        z-index: 1;
+      }
+      .hero-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.35rem 1rem;
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 100px;
+        font-family: var(--font-mono);
+        font-size: 0.75rem;
+        color: var(--text-secondary);
+        margin-bottom: 2rem;
+        animation: fadeUp 0.8s var(--ease-out-expo) both;
+      }
+      .hero-badge .dot {
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: var(--accent);
+        box-shadow: 0 0 8px var(--accent);
+        animation: pulse 2s infinite;
+      }
+      .hero h1 {
+        font-family: var(--font-sans);
+        font-size: clamp(2.5rem, 6vw, 4.5rem);
+        font-weight: 700;
+        line-height: 1.08;
+        letter-spacing: -0.03em;
+        max-width: 780px;
+        animation: fadeUp 0.8s var(--ease-out-expo) 0.1s both;
+      }
+      .hero h1 .highlight {
+        color: var(--accent);
+        position: relative;
+      }
+      .hero-sub {
+        font-size: 1.2rem;
+        color: var(--text-secondary);
+        max-width: 640px;
+        margin-top: 1.5rem;
+        line-height: 1.7;
+        animation: fadeUp 0.8s var(--ease-out-expo) 0.2s both;
+      }
+
+      /* ─── Install Box ────────────────────────────────────────────── */
+      .install-box {
+        display: inline-flex;
+        align-items: center;
+        gap: 1rem;
+        margin-top: 2.5rem;
+        padding: 0.75rem 1rem 0.75rem 1.25rem;
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        font-family: var(--font-mono);
+        font-size: 0.9rem;
+        animation: fadeUp 0.8s var(--ease-out-expo) 0.3s both;
+      }
+      .install-box .prompt-sign {
+        color: var(--accent);
+        user-select: none;
+      }
+      .install-box code {
+        color: var(--text-primary);
+      }
+      .install-box .copy-btn {
+        background: none;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        color: var(--text-secondary);
+        padding: 0.35rem 0.75rem;
+        font-family: var(--font-mono);
+        font-size: 0.75rem;
+        cursor: pointer;
+        transition: all 0.2s;
+      }
+      .install-box .copy-btn:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+      }
+
+      /* Variant: a single install-box housing multiple run commands
+         separated by an "or" divider. Stacks vertically instead of
+         the default single-line inline-flex layout. */
+      .install-box.install-box--multi {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.25rem;
+        padding: 0.75rem 1.25rem;
+        max-width: 100%;
+      }
+      .install-box--multi .run-cmd {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+      }
+      .install-box--multi .run-cmd code {
+        overflow-x: auto;
+        flex: 1;
+        white-space: nowrap;
+      }
+      .install-box--multi .run-or {
+        color: var(--text-secondary);
+        font-size: 0.75rem;
+        text-align: center;
+        padding: 0.25rem 0;
+        user-select: none;
+      }
+      .install-secondary {
+        margin-top: 1rem;
+        font-size: 0.85rem;
+        color: var(--text-secondary);
+        animation: fadeUp 0.8s var(--ease-out-expo) 0.35s both;
+      }
+      .install-secondary code {
+        font-family: var(--font-mono);
+        color: var(--text-primary);
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        padding: 0.15rem 0.45rem;
+        font-size: 0.85em;
+      }
+
+      /* ─── Demo Panels ────────────────────────────────────────────── */
+      .demo-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1.5rem;
+        margin-top: 3.5rem;
+        animation: fadeUp 0.8s var(--ease-out-expo) 0.4s both;
+      }
+      .demo-panel {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow:
+          0 8px 32px rgba(0, 0, 0, 0.4),
+          0 2px 8px rgba(0, 0, 0, 0.2);
+      }
+      .demo-titlebar {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.75rem 1rem;
+        background: rgba(0, 0, 0, 0.3);
+        border-bottom: 1px solid var(--border);
+      }
+      .demo-titlebar .dots {
+        display: flex;
+        gap: 6px;
+      }
+      .demo-titlebar .dots span {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+      }
+      .demo-titlebar .dots span:nth-child(1) {
+        background: #ff5f57;
+      }
+      .demo-titlebar .dots span:nth-child(2) {
+        background: #ffbd2e;
+      }
+      .demo-titlebar .dots span:nth-child(3) {
+        background: #28ca42;
+      }
+      .demo-titlebar .title {
+        font-family: var(--font-mono);
+        font-size: 0.75rem;
+        color: var(--text-dim);
+        margin-left: 0.5rem;
+      }
+      .demo-body {
+        padding: 1.25rem;
+        font-family: var(--font-mono);
+        font-size: 0.8rem;
+        line-height: 1.7;
+        overflow-x: auto;
+      }
+
+      /* ─── Syntax Highlighting ────────────────────────────────────── */
+      .syn-key {
+        color: #88aaff;
+      }
+      .syn-str {
+        color: #66ddaa;
+      }
+      .syn-num {
+        color: #ffaa66;
+      }
+      .syn-bool {
+        color: #ff88aa;
+      }
+      .syn-bracket {
+        color: var(--text-dim);
+      }
+      .syn-comment {
+        color: var(--text-dim);
+        font-style: italic;
+      }
+
+      /* ─── Terminal Colors ────────────────────────────────────────── */
+      .t-green {
+        color: var(--accent);
+      }
+      .t-yellow {
+        color: var(--warning);
+      }
+      .t-red {
+        color: var(--error);
+      }
+      .t-blue {
+        color: var(--blue);
+      }
+      .t-dim {
+        color: var(--text-dim);
+      }
+      .t-purple {
+        color: var(--purple);
+      }
+
+      /* ─── Terminal Demo Animation ────────────────────────────────── */
+      .demo-term {
+        padding: 1.25rem;
+        font-family: var(--font-mono);
+        font-size: 0.78rem;
+        line-height: 1.75;
+        height: 310px;
+        overflow: hidden;
+      }
+      .demo-term .line {
+        opacity: 0;
+        transform: translateX(-6px);
+        white-space: nowrap;
+      }
+      .demo-term .line.visible {
+        opacity: 1;
+        transform: translateX(0);
+        transition:
+          opacity 0.25s ease,
+          transform 0.25s ease;
+      }
+      .demo-term .prompt-sym {
+        color: var(--accent);
+        user-select: none;
+      }
+      .demo-term .cmd {
+        color: var(--text-primary);
+      }
+      .demo-term .info {
+        color: var(--text-dim);
+      }
+      .demo-term .ok {
+        color: var(--accent);
+      }
+      .demo-term .req {
+        color: var(--warning);
+      }
+      .demo-term .match {
+        color: var(--purple);
+      }
+      .demo-term .streamed {
+        color: var(--text-primary);
+      }
+      .demo-term .cursor {
+        display: inline-block;
+        width: 7px;
+        height: 14px;
+        background: var(--accent);
+        animation: blink 1s step-end infinite;
+        vertical-align: text-bottom;
+        margin-left: 1px;
+      }
+
+      /* ─── Section: Record & Replay ───────────────────────────────── */
+      .section-record {
+        padding: 4.5rem 0;
+        position: relative;
+        background: linear-gradient(
+          180deg,
+          var(--bg-deep) 0%,
+          var(--bg-surface) 30%,
+          var(--bg-surface) 70%,
+          var(--bg-deep) 100%
+        );
+      }
+      .record-grid {
+        display: grid;
+        grid-template-columns: 1fr 1.2fr;
+        gap: 4rem;
+        align-items: start;
+      }
+      .record-label {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-family: var(--font-mono);
+        font-size: 0.8rem;
+        color: var(--error);
+        margin-bottom: 1rem;
+      }
+      .record-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--error);
+        box-shadow: 0 0 10px var(--error);
+        animation: pulse 1.5s infinite;
+      }
+      .steps {
+        display: flex;
+        flex-direction: column;
+        gap: 1.25rem;
+        margin-bottom: 2.5rem;
+      }
+      .step {
+        display: flex;
+        gap: 1rem;
+        align-items: flex-start;
+      }
+      .step-num {
+        flex-shrink: 0;
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: var(--font-mono);
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: var(--accent);
+      }
+      .step-content h3 {
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 0.25rem;
+      }
+      .step-content p {
+        font-size: 0.9rem;
+        color: var(--text-secondary);
+        line-height: 1.6;
+      }
+
+      /* ─── Buttons ────────────────────────────────────────────────── */
+      .btn-primary {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.75rem 1.75rem;
+        background: var(--accent);
+        color: var(--bg-deep);
+        font-family: var(--font-mono);
+        font-size: 0.875rem;
+        font-weight: 600;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+        transition: all 0.2s;
+        text-decoration: none;
+      }
+      .btn-primary:hover {
+        background: var(--accent-dim);
+        text-decoration: none;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 20px var(--accent-glow);
+      }
+      .btn-secondary {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.75rem 1.75rem;
+        background: transparent;
+        color: var(--text-primary);
+        font-family: var(--font-mono);
+        font-size: 0.875rem;
+        font-weight: 500;
+        bor

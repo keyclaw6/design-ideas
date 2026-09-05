@@ -54,6 +54,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2087329201451855933#c2",
+      "text": "leftover28 unused GitHub imxv/Pretty-mermaid-skills API 5,816 B is MIT 1,182\u2605. Description: 15 themes, 6 diagram types, batch CLI, SVG or terminal ASCII, no browser. leftover28 does not render a fixture SVG.",
+      "kind": "availability",
+      "evidence": "leftover28 pretty-mermaid 5816 B. MIT 1182\u2605; 15 themes / 6 diagram types.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/diagram-design.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "links": {
@@ -61,7 +71,9 @@
     "repo": "https://github.com/imxv/Pretty-mermaid-skills",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/imxv/Pretty-mermaid-skills"
+    ],
     "related_items": [
       "github-cathrynlavery-diagram-design",
       "github-antvis-infographic",

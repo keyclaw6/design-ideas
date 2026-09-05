@@ -9,4 +9,6 @@
 Fetched 2026-09-05 `https://learn.chatgpt.com/training` GET 200 / **305,746 B**. Title ChatGPT Training. Nav: Codex Docs, ChatGPT Plugins, Workspace Agents, Skills, MCP and Connectors. Training hub, not a runnable harness. Receipt `analysis/_work/captures/leftover2-2026-09-05.json`.
 
 **2026-09-05 leftover27.** Same unused `learn.chatgpt.com/training` **305,746 B** recount on the READY card: Work + Codex walkthroughs. No signed-in completion receipt. Receipt `leftover27-2026-09-05.json`.
+
+**2026-09-05 leftover28.** Unused `academy.openai.com/home/events` **612,752 B** → `/public/events`. This pass **24** Register / **17** Livestream labels. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

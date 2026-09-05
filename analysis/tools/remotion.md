@@ -10,4 +10,6 @@
 **2026-09-05 leftover6.** `https://www.remotion.dev/` **113,524 B**: Make videos programmatically with React; Agent Skills named; `npx create-video@latest`. GitHub `remotion-dev/remotion` **58,331★** / license **NOASSERTION** (homepage footer 57K — do not collapse). Pricing: orgs ≤3 Free; Company 4+; Automators **$0.01/render** / **$100/mo** min; Creators **$25/mo per seat**; Enterprise from **$500/mo**. Footer: 5M+ installs/mo, 35 templates. Receipt `leftover6-2026-09-05/remotion-visible.txt`.
 
 **2026-09-05 leftover14 attach.** Same Remotion first-party now sits on the imperfect-handcrafted leftover ([x-2091622751756751211](../items/x-2091622751756751211/card.md)). That tweet names no renderer — do not treat the aesthetic as a Remotion pricing receipt.
+
+**2026-09-05 leftover28.** Unused `lottiefiles.com` **403 / 5,598 B** Cloudflare — do not hammer. Neighbor park only; not a Remotion receipt. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

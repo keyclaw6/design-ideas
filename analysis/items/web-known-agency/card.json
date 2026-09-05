@@ -32,7 +32,7 @@
       "id": "web-known-agency#c1",
       "text": "Services span AI search optimization for citations in answer engines plus SEO, content, technical, authority links, and local/map-pack work.",
       "kind": "capability",
-      "evidence": "AI Search Optimization — earn citations and recommendations across answer engines",
+      "evidence": "AI Search Optimization \u2014 earn citations and recommendations across answer engines",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -47,6 +47,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-known-agency#c3",
+      "text": "leftover28 unused known.agency 965,519 B titles known.agency \u2014 #1 AI Search Optimization Agency (source ranking language; do not echo as a finding). Visible extract claims Trusted by 100+ companies and a first-30-days visibility baseline. Same byte count already sits on leftover18 NOTES as vendor copy, not GSC proof. leftover28 is that homepage now on the READY card. Do not invent known-agency.md.",
+      "kind": "availability",
+      "evidence": "leftover28 known-agency 965519 B. Title #1 AI Search Optimization Agency; 100+ companies.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshelf.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,
@@ -59,7 +69,8 @@
     "paper": null,
     "product": "https://known.agency/",
     "other": [
-      "https://known.agency/#get-started"
+      "https://known.agency/#get-started",
+      "https://known.agency/"
     ],
     "related_items": [
       "web-crowdreply",

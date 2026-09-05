@@ -11,11 +11,12 @@
 **Claims.**
 - `web-recent-design#c1` (capability, stated) Site aggregates design inspiration in a masonry feed with items linking to detail pages and original X or Instagram creators. — evidence: "Each item links to a detail page (`/i/<slug>`) and credits the original creator (X or Instagram profile)." [linked-page]
 - `web-recent-design#c2` (capability, stated) Feed mixes FUI loaders, glass shaders, onboarding flows, and WebGPU demos as daily taste references rather than a component library. — evidence: "Mix includes FUI loaders, 404 experiments, glass/refraction, 3D cards, onboarding flows, WebGPU libs — useful as daily taste input" [linked-page]
+- `web-recent-design#c3` (availability, demonstrated) leftover28 unused recent.design 311,079 B titles Recent — Design Inspiration. Visible extract is a thin inspiration + jobs shell (Web / Interface / Branding / Product / Typography / Motion / Illustration / 3D / Editorial / Print / Packaging). No DESIGN.md inventory and no component count. — evidence: "leftover28 recent-design 311079 B. Title: Recent — Design Inspiration." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** product (https://recent.design/), https://cdn.recent.design/
+**Links.** product (https://recent.design/), https://cdn.recent.design/, https://recent.design/
 **Related items.** [web-sceneai-art](../web-sceneai-art/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

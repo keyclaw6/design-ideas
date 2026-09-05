@@ -52,6 +52,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "web-fal-ai#c3",
+      "text": "leftover28 unused fal.ai/docs/llms.txt 95,947 B is a docs index: 198 unique fal.ai doc links this pass, and copy claiming 1,000+ models plus MCP / genmedia CLI / Platform MCP. leftover28 does not call a model or an authed MCP session.",
+      "kind": "capability",
+      "evidence": "leftover28 fal-llms 95947 B. 198 unique doc links; 1,000+ models.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/fal-api.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,

@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#181818">
+  <meta name="description" content="Join or sign in to the SplatPaint Founding Alpha.">
+  <title>SplatPaint Founding Alpha</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #111;
+      color: #f4f4f4;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      min-width: 320px;
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      overflow-x: hidden;
+      background:
+        radial-gradient(circle at 50% 0%, rgba(47, 214, 78, 0.13), transparent 34rem),
+        linear-gradient(145deg, #191919 0%, #111 55%, #0b0b0b 100%);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.18;
+      background-image: radial-gradient(rgba(255,255,255,0.18) 0.6px, transparent 0.6px);
+      background-size: 10px 10px;
+      mask-image: linear-gradient(to bottom, black, transparent 72%);
+    }
+
+    main {
+      width: min(940px, calc(100% - 32px));
+      margin: 32px auto;
+      padding: clamp(28px, 6vw, 68px);
+      position: relative;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 28px;
+      background: rgba(24, 24, 24, 0.88);
+      box-shadow: 0 30px 90px rgba(0, 0, 0, 0.44);
+      backdrop-filter: blur(20px);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      margin-bottom: clamp(44px, 8vw, 76px);
+      font-size: 17px;
+      font-weight: 720;
+      letter-spacing: -0.02em;
+    }
+
+    .mark {
+      width: 44px;
+      height: 44px;
+      display: block;
+      box-shadow: 0 0 26px rgba(47, 214, 78, 0.2);
+    }
+
+    .eyebrow {
+      margin: 0 0 18px;
+      color: #84f0a0;
+      font-size: 12px;
+      font-weight: 760;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      max-width: 760px;
+      margin: 0;
+      font-size: clamp(42px, 7vw, 82px);
+      line-height: 0.96;
+      letter-spacing: -0.055em;
+    }
+
+    .lede {
+      max-width: 680px;
+      margin: 26px 0 0;
+      color: #bdb8ba;
+      font-size: clamp(17px, 2.5vw, 21px);
+      line-height: 1.55;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 38px;
+    }
+
+    .button {
+      min-height: 52px;
+      padding: 0 22px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid transparent;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 740;
+      transition: transform 130ms ease, border-color 130ms ease, background 130ms ease;
+    }
+
+    .button:hover { transform: translateY(-2px); }
+    .button:focus-visible { outline: 3px solid rgba(132, 240, 160, 0.6); outline-offset: 3px; }
+
+    .primary {
+      color: #082f15;
+      background: #2fd64e;
+      box-shadow: 0 12px 34px rgba(47, 214, 78, 0.2);
+    }
+
+    .primary:hover { background: #43e360; }
+
+    .secondary {
+      color: #f4f4f4;
+      border-color: rgba(255, 255, 255, 0.18);
+      background: rgba(255, 255, 255, 0.055);
+    }
+
+    .secondary:hover { border-color: rgba(132, 240, 160, 0.56); }
+
+    .tertiary {
+      color: #aaa4a6;
+      border-color: rgba(255, 255, 255, 0.09);
+      background: transparent;
+    }
+
+    .tertiary:hover {
+      color: #f4f4f4;
+      border-color: rgba(255, 255, 255, 0.22);
+    }
+
+    .access-note {
+      max-width: 700px;
+      margin: 26px 0 0;
+      color: #8f898b;
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .rule {
+      height: 1px;
+      margin: clamp(42px, 8vw, 70px) 0 24px;
+      background: linear-gradient(90deg, rgba(47, 214, 78, 0.46), rgba(255,255,255,0.06), transparent);
+    }
+
+    footer {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 14px;
+      color: #777173;
+      font-size: 12px;
+    }
+
+    @media (max-width: 560px) {
+      main { width: min(100% - 20px, 940px); margin: 10px auto; border-radius: 20px; }
+      .brand { margin-bottom: 46px; }
+      .actions { display: grid; }
+      .button { width: 100%; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .button { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <main data-free-access="inactive">
+    <div class="brand">
+      <svg class="mark" aria-hidden="true" viewBox="0 0 512 512">
+        <rect x="16" y="16" width="480" height="480" rx="104" ry="104" fill="#2fd64e"/>
+        <text x="256" y="262" fill="#0a3d1a" font-family="Helvetica Neue, Arial, sans-serif" font-weight="700" font-size="248" letter-spacing="-8" text-anchor="middle" dominant-baseline="central">SP</text>
+      </svg>
+      <span>SplatPaint</span>
+    </div>
+    <p class="eyebrow">Founding Alpha</p>
+    <h1>Welcome to SplatPaint.</h1>
+    <p class="lede">A browser-based creative playground for painting, sculpting, animating, and art-directing Gaussian splats.</p>
+    <div class="actions">
+      <a class="button primary" href="/join">Join the Alpha</a>
+      <a class="button secondary" href="/sign-in">Alpha Sign In</a>
+    </div>
+    <p class="access-note">Already invited or an active SplatPaint Patreon member? Sign in with the email attached to your access. Entering an unapproved email does not create an account or grant access.</p>
+    <div class="rule"></div>
+    <footer><span>Patreon membership or invited tester access</span><span>Chrome or Edge recommended</span></footer>
+  </main>
+</body>
+</html>

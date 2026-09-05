@@ -37,7 +37,7 @@
       "id": "web-cloudflare-kitesurf#c1",
       "text": "Kitesurf originated as an Obscura port to Workers and shipped after a twelve-week production build.",
       "kind": "capability",
-      "evidence": "Cloudflare ported Obscura to Workers with AI assistance; after a detailed success plan, prototype worked → 12-week build.",
+      "evidence": "Cloudflare ported Obscura to Workers with AI assistance; after a detailed success plan, prototype worked \u2192 12-week build.",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -47,7 +47,7 @@
       "id": "web-cloudflare-kitesurf#c2",
       "text": "The Engine exposes CDP WebSocket and HTTP REST compatible with Puppeteer, Playwright, and DevTools clients.",
       "kind": "capability",
-      "evidence": "Engine — public CDP WebSocket + HTTP REST; session state; Puppeteer/Playwright/DevTools compatible.",
+      "evidence": "Engine \u2014 public CDP WebSocket + HTTP REST; session state; Puppeteer/Playwright/DevTools compatible.",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -61,6 +61,16 @@
       "evidence_source": "linked-page",
       "evidence_ref": "https://developers.cloudflare.com/browser-run/cdp/index.md",
       "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "web-cloudflare-kitesurf#c4",
+      "text": "leftover28 unused developers.cloudflare.com/browser-run/ 138,466 B is the Browser Run overview: /content /screenshot /pdf /markdown /snapshot /accessibilityTree /scrape /json /links /crawl plus Live View / Human in the Loop / Session recording / WebMCP (Beta). leftover24/25 already have limits NOTES. leftover28 does not start a live Browser Run session (needs a CF token).",
+      "kind": "capability",
+      "evidence": "leftover28 cf-browser-run 138466 B. Named REST actions + Beta Live View / WebMCP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/kitesurf.md",
+      "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
     }
   ],
@@ -81,7 +91,8 @@
     "product": "https://developers.cloudflare.com/browser-run/",
     "other": [
       "https://developers.cloudflare.com/browser-run/cdp/",
-      "https://developers.cloudflare.com/dynamic-workers/"
+      "https://developers.cloudflare.com/dynamic-workers/",
+      "https://developers.cloudflare.com/browser-run/"
     ],
     "related_items": [
       "github-h4ckf0r0day-obscura",

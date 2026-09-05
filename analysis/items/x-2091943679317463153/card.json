@@ -64,6 +64,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2091943679317463153#c3",
+      "text": "leftover28 unused alpha.splatpaint.app 5,686 B titles SplatPaint Founding Alpha. Visible extract is an invite / Patreon sign-in shell for a browser Gaussian-splat playground. Unapproved email does not create an account. leftover28 does not paint a splat or export a PLY.",
+      "kind": "availability",
+      "evidence": "leftover28 splatpaint 5686 B. Title: SplatPaint Founding Alpha. Invite/Patreon gate.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat-js.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "links": {
@@ -71,7 +81,9 @@
     "repo": null,
     "paper": null,
     "product": "https://alpha.splatpaint.app",
-    "other": [],
+    "other": [
+      "https://alpha.splatpaint.app"
+    ],
     "related_items": []
   },
   "media": [],

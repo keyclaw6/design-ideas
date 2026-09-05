@@ -71,6 +71,16 @@
       "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
       "confidence": "demonstrated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "github-youmind-openlab-nano-banana-pro-prompts#c5",
+      "text": "leftover28 unused clawhub.com/skill/nano-banana-pro-prompts-recommend 63,154 B redirects to clawhub.ai/skill/skills/nano-banana-pro-prompts-recommend. Title matches the skill slug. Visible extract is an OpenClaw ecosystem catalog shell \u2014 it does not restate leftover27 title 10,000+ / footer 15,508. Do not collapse ClawHub with the YouMind footer inventory.",
+      "kind": "availability",
+      "evidence": "leftover28 clawhub-nano 63154 B. Redirect clawhub.ai; title nano-banana-pro-prompts-recommend.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/clawhub.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": null,

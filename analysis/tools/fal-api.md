@@ -6,5 +6,5 @@
 - [fal.ai unified generative media API and GPU platform](../items/web-fal-ai/card.md) — tool, reference — ai-video-generation
 
 <!-- NOTES:START -->
-
+**2026-09-05 leftover28.** Unused `fal.ai/docs/llms.txt` **95,947 B**: **198** unique doc links; copy claims **1,000+** models + MCP / genmedia CLI. Did not call a model. Receipt `leftover28-2026-09-05.json`.
 <!-- NOTES:END -->

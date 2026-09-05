@@ -42,6 +42,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-opale-ui-taste#c2",
+      "text": "leftover28 unused opale-ui.design 23,680 B titles Opale UI | Next.js Templates with Craft-Level Design. Visible extract is a template shop (48h AI Chat template free for a limited time) \u2014 not the taste-encoding essay already on this card. Do not treat the template catalog as a DESIGN.md pack.",
+      "kind": "availability",
+      "evidence": "leftover28 opale 23680 B. Title: Next.js Templates with Craft-Level Design.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -56,7 +66,9 @@
     "repo": null,
     "paper": null,
     "product": "https://opale-ui.design/",
-    "other": [],
+    "other": [
+      "https://opale-ui.design/"
+    ],
     "related_items": [
       "github-leonxlnx-taste-skill",
       "github-emilkowalski-skills"

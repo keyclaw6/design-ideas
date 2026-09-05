@@ -3,7 +3,7 @@
   "id": "note-blender-minimax-h3-video-generation",
   "source_type": "note",
   "url": "raw/notes/blender-minimax-h3-video-generation.md",
-  "title": "BESS flythrough research — Blender MCP camera path to MiniMax H3 and depth conditioning",
+  "title": "BESS flythrough research \u2014 Blender MCP camera path to MiniMax H3 and depth conditioning",
   "author": {
     "name": null,
     "handle": null,
@@ -38,7 +38,7 @@
       "id": "note-blender-minimax-h3-video-generation#c1",
       "text": "The dominant 2026 recipe is Blender blockout plus LLM camera path, then feed reference video or first/last frames to a video model for photoreal output.",
       "kind": "recipe",
-      "evidence": "Blender blockout + LLM-authored camera path (via `blender-mcp`) → render reference video + first/last frames → feed to a video model",
+      "evidence": "Blender blockout + LLM-authored camera path (via `blender-mcp`) \u2192 render reference video + first/last frames \u2192 feed to a video model",
       "evidence_source": "note",
       "evidence_ref": "blender-minimax-h3-video-generation.md",
       "confidence": "stated",
@@ -48,7 +48,7 @@
       "id": "note-blender-minimax-h3-video-generation#c2",
       "text": "MiniMax H3 hosted API pins Blender first and last frames via FL2VA at roughly $0.13/s for 2K while open weights exclude US/EU/UK/KR outputs.",
       "kind": "pricing",
-      "evidence": "**$0.08/s (768p), $0.13/s (2K)** ≈ **$7.80/min at 2K**; US/EU region selectable",
+      "evidence": "**$0.08/s (768p), $0.13/s (2K)** \u2248 **$7.80/min at 2K**; US/EU region selectable",
       "evidence_source": "note",
       "evidence_ref": "blender-minimax-h3-video-generation.md",
       "confidence": "stated",
@@ -62,6 +62,16 @@
       "evidence_source": "note",
       "evidence_ref": "blender-minimax-h3-video-generation.md",
       "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "note-blender-minimax-h3-video-generation#c4",
+      "text": "leftover28 unused MiniMax Create Video Generation Task docs 442,375 B titles the H3 video-generation POST and names MiniMax-H3 as a new-generation open general-purpose multimodal video model. leftover28 unused HF api/models/MiniMaxAI/MiniMax-H3 20,848 B: 4,913 likes, 5,118,457 downloads, pipeline image-text-to-video, license other / minimax-h3-community-license-agreement. leftover28 does not submit a create-task call or run a Blender blockout through H3.",
+      "kind": "availability",
+      "evidence": "leftover28 minimax-docs 442375 B; hf-minimax-h3 4913 likes / 5118457 downloads.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
     }
   ],
@@ -92,7 +102,8 @@
     "paper": null,
     "product": "https://platform.minimax.io/docs/api-reference/video-generation-v2-create",
     "other": [
-      "https://huggingface.co/MiniMaxAI/MiniMax-H3"
+      "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "https://platform.minimax.io/docs/api-reference/video-generation-v2-create"
     ],
     "related_items": [
       "x-2091497597743612379",

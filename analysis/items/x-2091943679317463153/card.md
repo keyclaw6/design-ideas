@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2091943679317463153#c1` (capability, stated) SplatPaint supports paint, sculpt, recolor, relight, deform, animate, and particle FX on splats in the browser. — evidence: "paint, sculpt, recolor, relight, deform, animate, and layer wicked particle system FX." [post]
 - `x-2091943679317463153#c2` (capability, stated) Users can convert an image, logo, or 3D model into splats inside SplatPaint without an existing splat file. — evidence: "Grab an image, logo, or 3D model, convert it into splats (inside SplatPaint), and start building something unique." [post]
+- `x-2091943679317463153#c3` (availability, demonstrated) leftover28 unused alpha.splatpaint.app 5,686 B titles SplatPaint Founding Alpha. Visible extract is an invite / Patreon sign-in shell for a browser Gaussian-splat playground. Unapproved email does not create an account. leftover28 does not paint a splat or export a PLY. — evidence: "leftover28 splatpaint 5686 B. Title: SplatPaint Founding Alpha. Invite/Patreon gate." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** product (https://alpha.splatpaint.app)
+**Links.** product (https://alpha.splatpaint.app), https://alpha.splatpaint.app
 **Related items.** —
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)
