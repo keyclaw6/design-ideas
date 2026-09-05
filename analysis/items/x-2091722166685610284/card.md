@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2091722166685610284#c1` (capability, demonstrated) CozyClay exposes slow-motion as stretchable timeline handles that slow impact timing in the same editor. — evidence: "its a handle on the timeline now
 stretch it and the punch actually lands slower" [post]
+- `x-2091722166685610284#c2` (capability, demonstrated) Same first-party CozyClay bank as the sibling leftover: NomaDamas/CozyClay AGPL-3.0; MCP verify **25** tools (README 24 stale); 420 `frame_shot` combos; cozyclay.org **22,437 B** free OSS Three.js + R3F. Timeline slow-mo handles stay a tweet/media claim — not a named MCP tool in the 25-name list. — evidence: "cozyclay NOTES verify 25 tools; GET cozyclay.org 22437 B. leftover4-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
-**Links.** repo (https://github.com/NomaDamas/CozyClay)
+**Tools.** [cozyclay](../../tools/cozyclay.md)
+**Links.** repo (https://github.com/NomaDamas/CozyClay), product (https://cozyclay.org/)
 **Related items.** [x-2091577179914338583](../x-2091577179914338583/card.md), [x-2093377271771865267](../x-2093377271771865267/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 3 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)

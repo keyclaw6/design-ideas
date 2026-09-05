@@ -1,0 +1,245 @@
+{
+  "fetched_at": "2026-09-05T04:50:00Z",
+  "pages": {
+    "fields-studio": {
+      "url": "https://fields-studio.arenaphysica.com/",
+      "status": 200,
+      "bytes": 225703,
+      "final": "https://fields-studio.arenaphysica.com/",
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Atlas Fields Studio",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/fields-studio-visible.txt",
+      "visible_len": 3215
+    },
+    "arenaphysica": {
+      "url": "https://www.arenaphysica.com/",
+      "status": 200,
+      "bytes": 75739,
+      "final": "https://www.arenaphysica.com/",
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Home | Arena Physica",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/arenaphysica-visible.txt",
+      "visible_len": 536
+    },
+    "heaviside": {
+      "url": "https://www.arenaphysica.com/publications/heaviside-1",
+      "status": 200,
+      "bytes": 382556,
+      "final": "https://www.arenaphysica.com/publications/heaviside-1",
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Introducing Heaviside-1 | Arena Physica",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/heaviside-visible.txt",
+      "visible_len": 17907
+    },
+    "freerouting-gh": {
+      "url": "https://api.github.com/repos/freerouting/freerouting",
+      "status": 200,
+      "bytes": 6709,
+      "final": "https://api.github.com/repos/freerouting/freerouting",
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "title": null,
+      "json_summary": {
+        "full_name": "freerouting/freerouting",
+        "stars": 1940,
+        "license": "GPL-3.0",
+        "desc": "Advanced PCB auto-router",
+        "homepage": "https://www.freerouting.app"
+      },
+      "saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/freerouting-gh.json"
+    },
+    "freerouting-site": {
+      "url": "https://www.freerouting.org/",
+      "status": 200,
+      "bytes": 29006,
+      "final": "https://www.freerouting.org/",
+      "ctype": "text/html;charset=UTF-8",
+      "error": null,
+      "title": "FreeRouting | FreeRouting Documentation",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/freerouting-site-visible.txt",
+      "visible_len": 1282
+    },
+    "deeppcb": {
+      "url": "https://www.deeppcb.ai/",
+      "status": 200,
+      "bytes": 137606,
+      "final": "https://deeppcb.ai/",
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "AI PCB Routing for Engineering Teams | DeepPCB",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/deeppcb-visible.txt",
+      "visible_len": 6395
+    },
+    "hermes-nous": {
+      "url": "https://api.github.com/repos/NousResearch/hermes-agent",
+      "status": 200,
+      "bytes": 6747,
+      "final": "https://api.github.com/repos/NousResearch/hermes-agent",
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "title": null,
+      "json_summary": {
+        "full_name": "NousResearch/hermes-agent",
+        "stars": 241533,
+        "license": "MIT",
+        "desc": "The agent that grows with you",
+        "homepage": "https://hermes-agent.nousresearch.com"
+      },
+      "saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/hermes-nous.json"
+    },
+    "hermes-gh": {
+      "url": "https://api.github.com/repos/NousResearch/Hermes-Agent",
+      "status": 200,
+      "bytes": 6747,
+      "final": "https://api.github.com/repos/NousResearch/Hermes-Agent",
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "title": null,
+      "json_summary": {
+        "full_name": "NousResearch/hermes-agent",
+        "stars": 241533,
+        "license": "MIT",
+        "desc": "The agent that grows with you",
+        "homepage": "https://hermes-agent.nousresearch.com"
+      },
+      "saved": "/workspace/analysis/_work/captures/leftover7-2026-09-05/hermes-gh.json"
+    },
+    "have-range-gh": {
+      "url": "https://api.github.com/search/repositories?q=have-some-range",
+      "status": 200,
+      "bytes": 178019,
+      "final": "https://api.github.com/search/repositories?q=have-some-range",
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "title": null,
+      "json_summary": {
+        "total": 485,
+        "items": [
+          {
+            "full_name": "DivyaGodayal/CoderChef-Kitchen",
+            "stars": 378,
+            "license": null,
+            "desc": "The official repository for our programming kitchen which consists of 50+ delicious programming recipes having all the interesting ingredients ranging from dynamic programming, graph theory, linked lists and much more. All the articles contain beautiful images and some gif/video at times to help clear important concepts."
+          },
+          {
+            "full_name": "kmilne40/GIBSON",
+            "stars": 66,
+            "license": "NOASSERTION",
+            "desc": "Gibson is a simulation of a z/OS IBM Mainframe - an environment for learning a wide range of features, options, functions and to give some hands on security. It will be part of the Hacking Mainframes Book by No Starch Press, that will let you go along with the book and get hands on if you don't have a mainframe."
+          },
+          {
+            "full_name": "jxsl13/zcatchPlus",
+            "stars": 3,
+            "license": "NOASSERTION",
+            "desc": "A small update to zCatch that has some extended kick/ban exploit features and faster capability to use range bans. Detects some known clients based on flags. Codebase is literally crap, as I use this to learn some C++. Have fun"
+          },
+          {
+            "full_name": "luisds95/Playground",
+            "stars": 5,
+            "license": "MIT",
+            "desc": "Curated collection of notebooks and code files I have worked on while learning a wide range of data science subfields, such as Reinforcement Learning, Natural Language Processing, Deep Neural Networks, Genetic Algorithms, etc. Some of these are accompanied by a pdf and/or article."
+          },
+          {
+            "full_name": "AlexSWong/COVID-Net",
+            "stars": 43,
+            "license": null,
+            "desc": "Launched in March 2020 in response to the coronavirus disease 2019 (COVID-19) pandemic, COVID-Net is a global open source, open access initiative dedicated to accelerating advancement in machine learning to aid front-line healthcare workers and clinical institutions around the world fighting the continuing pandemic. Towards this goal, our global multi-disciplinary team of researchers, developers, and clinicians have made publicly available a suite of tailored deep neural network models for tackling different challenges ranging from screening to risk stratification to treatment planning for patients with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Furthermore, we have made available fully curated, open access benchmark datasets comprised of some of the largest, most diverse patient cohorts from around the world."
+          },
+          {
+            "full_name": "Quantum-Computing-Cooperation/6.s089-Intro-to-Quantum-Computing",
+            "stars": 35,
+            "license": null,
+            "desc": "Quantum computation is a growing \ufb01eld at the intersection of physics, computer science, electrical engineering, and applied math. This course provides an introduction to the basics of quantum computation. Speci\ufb01cally, we will cover some fundamental quantum mechanics, survey quantum circuits, and introduce the most signi\ufb01cant quantum algorithms. Furthermore, we will survey advanced topics towards the end of the course. In the past, these topics have included quantum error correction, quantum communication, and applications to \ufb01elds ranging from machine learning to chemistry. This course is self-contained and does not require any prior knowledge of quantum mechanics."
+          },
+          {
+            "full_name": "easydatawarehousing/ruby_measure_responsetime",
+            "stars": 10,
+            "license": "MIT",
+            "desc": "Some scripts to measure the responsetime of a Ruby application. It automates testing of a range of ruby versions you have installed on your machine. Instead of just reporting some aggregated statistics it creates a nice little report where you can see the results over time."
+          },
+          {
+            "full_name": "ahsanfarooqui/UQuAD---Urdu-Question-Answer-Dataset",
+            "stars": 2,
+            "license": "CC0-1.0",
+            "desc": "We have presented a new dataset for question and answering models. Our dataset contains 27 different Urdu paragraphs which are taken from different available resources i.e Urdu Wikipedia, youtube and news articles etc. All selected paragraphs have an average of 3 to 7 questions along with their possible answers that range from 1 to 3. The data contains mostly Urdu words as well as some words from English language. "
+          }
+        ]
+      }
+    },
+    "claude-mg-search": {
+      "url": "https://api.github.com/search/repositories?q=claude+motion+graphics",
+      "status": 200,
+      "bytes": 177423,
+      "final": "https://api.github.com/search/repositories?q=claude+motion+graphics",
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "title": null,
+      "json_summary": {
+        "total": 90,
+        "items": [
+          {
+            "full_name": "Anil-matcha/vox-ai-motion-graphics-generator",
+            "stars": 187,
+            "license": null,
+            "desc": "\ud83c\udfac Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video \u2014 script, collage keyframes, animation, voice-over, music & captions, all automated. An agent skill for Claude Code, Codex & other coding agents."
+          },
+          {
+            "full_name": "robonuggets/seedance-skill",
+            "stars": 101,
+            "license": null,
+            "desc": "Seedance 2.0 motion graphics skill for Claude Code \u2014 liquid glass prompting, Fal AI integration, App Store scraping"
+          },
+          {
+            "full_name": "haidrrrry/claude-remotion-skill",
+            "stars": 120,
+            "license": "MIT",
+            "desc": "Open-source Claude agent skill that teaches Claude Code, Claude Desktop & Claude AI to create and edit professional motion graphics videos with Remotion. AI video editing, B-roll, captions, sound design \u2014 from one prompt."
+          },
+          {
+            "full_name": "olegkupshukov/claude-resolve",
+            "stars": 17,
+            "license": "MIT",
+            "desc": "AI-powered motion graphics generator & assistant for DaVinci Resolve Studio"
+          },
+          {
+            "full_name": "notivn/AIEV",
+            "stars": 109,
+            "license": "MIT",
+            "desc": "Automatic AI video editing. Claude directs HyperFrames (HTML + GSAP motion graphics) and Remotion (timeline assembly) to turn raw footage into a finished MP4 - transcript, kinetic typography, karaoke subtitles, sound effects. Self-hosted, supervised from a web dashboard on port 6868."
+          },
+          {
+            "full_name": "ginonave/Motion-Synthesizer",
+            "stars": 15,
+            "license": null,
+            "desc": "A web-based motion graphics playground. Developed with Claude Code."
+          },
+          {
+            "full_name": "cindyxu1030/motion-graphics-prompt-bank",
+            "stars": 23,
+            "license": "NOASSERTION",
+            "desc": "\u52a8\u6548 Prompt \u94f6\u884c \u00b7 Motion Prompt Bank \u2014 copy-paste prompts for HTML motion graphics (logo / product ads / data / captions), each with the GIF it renders. For Claude Code / Codex + HyperFrames."
+          },
+          {
+            "full_name": "timscheuerai/content-vault",
+            "stars": 30,
+            "license": "MIT",
+            "desc": "14 Claude Code skills + Notion template that run a complete content engine. LinkedIn / X / YouTube (script, description, thumbnail, publish) / long-form / newsletters / lead magnets / graphics / motion video. Built by Oxygen, free under MIT."
+          }
+        ]
+      }
+    },
+    "edge8-hf": {
+      "url": "https://huggingface.co/api/models?search=edge8-35b",
+      "status": 200,
+      "bytes": 2,
+      "final": "https://huggingface.co/api/models?search=edge8-35b",
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "title": null,
+      "json_summary": []
+    }
+  }
+}

@@ -24,15 +24,15 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 | VibeCAD | text-to-CAD + sim | unknown | n/a | unknown | mechanical |
 | Smith + Opus jet | text-to-CAD | “manufacturable” claimed | n/a | Smith | general |
 | Fable 5.1 Fusion gripper / W16 | agentic in Fusion | unknown | n/a | Fusion | robot mount / engine showpiece |
-| custom autorouter | n/a | n/a | route only | local implied | keyboard board |
+| custom autorouter | n/a | n/a | route only (tweet 1 min / 2-layer) | local implied | keyboard board; Freerouting is GPL-3.0 **1,940★** |
 | KiCad + OpenEMS | n/a | n/a | high (SI before fab) | local OSS | general PCB |
-| Atlas Fields Studio | n/a | n/a | EM view, not route | free web | PCB |
+| Atlas Fields Studio | n/a | n/a | EM view (Heaviside-1 Beta; ms vs hours) | free web **225,703 B** | PCB |
 | SipeedLab schematic hour | AI schematic | unknown | schematic, not SI | unknown | general |
 
 ## ai-cad-hardware — claims that need a receipt
 
 - Fusion rings “stay aligned” — must-read demo; need a STEP/F3D, not a video. Wrapper `export` can emit `step` / `f3d` ([autodesk-fusion](../../tools/autodesk-fusion.md)) but this host has no Fusion seat. Root amplify video is **15.866 s** / 2452×1080. Card is now `ready` (thread `empty`).
-- Autorouter 1 minute / two layers vs four — one author’s board; no gerbers in this bank.
+- Autorouter 1 minute / two layers vs four — one author’s board; no gerbers in this bank. Freerouting + DeepPCB product pages are first-party ([freerouting](../../tools/freerouting.md), [deeppcb](../../tools/deeppcb.md)); the 1 min / 25 min pair stays tweet-only.
 - OpenEMS harness “flags SI issues” — need one before/after plot.
 - CadX / Smith / Fable W16 “one-shot manufacturable” — trailers. Do not send to a shop.
 - 10GB from <3MB Python — **du’d**. Public tree blob sum **18,800,398** B; GitHub size **155,412** KB; `models/*/src/*.py` **3,046,558** B; W16 **12,678** lines. Tweet 10GB / 12,000 not in README. A real STEP from that tree now exists: `covers.step` **11.2 MB** / 56 solids ([text-to-cad](../../tools/text-to-cad.md)).
@@ -51,3 +51,4 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 3. text-to-cad repo + docs are on [text-to-cad](../../tools/text-to-cad.md). **Generated STEP now in-bank:** `cadgen 0.5.0` wrote `models/w16/STEP/covers.step` **11,769,007** B (56 solids / 129 occurrences / validate `failureCount` 0) — card `#c5`. Full `w16.py` engine not run (`BUILDING.md` memory warning). Tweet 10GB assembled meshes still not in git.
 4. Do not expand keyboard coverage beyond boards already in the roster.
 5. Fable 5.1 Fusion demo is an X amplify video **7.633 s** / 3396×2160 — no STEP/F3D ([fusion](../../tools/fusion.md)). Stale `media-undescribed` dropped; card stays `ready-with-gaps` (`thread-partial` 79/1). VibeCAD exploded-view clip is **58.616 s** / 1920×1080 ([vibecad](../../tools/vibecad.md)); thread 5/1. KiCad+OpenEMS harness has **no public repo**; artifact is a **17.866 s** / 1920×1024 clip ([openems](../../tools/openems.md)). Do not treat `antmicro/kicad-si-simulation-wrapper` as that harness.
+6. Atlas Fields Studio live **225,703 B** + Heaviside-1 article **382,556 B** ([x-2094840529997410525#c3](../../items/x-2094840529997410525/card.md)). Tweet 45 ms / 10 GHz stays on the screenshot, not a live HUD string.

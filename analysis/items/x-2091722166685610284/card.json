@@ -30,17 +30,29 @@
       "evidence_ref": null,
       "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2091722166685610284#c2",
+      "text": "Same first-party CozyClay bank as the sibling leftover: NomaDamas/CozyClay AGPL-3.0; MCP verify **25** tools (README 24 stale); 420 `frame_shot` combos; cozyclay.org **22,437 B** free OSS Three.js + R3F. Timeline slow-mo handles stay a tweet/media claim — not a named MCP tool in the 25-name list.",
+      "kind": "capability",
+      "evidence": "cozyclay NOTES verify 25 tools; GET cozyclay.org 22437 B. leftover4-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cozyclay.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "cozyclay"
+  ],
   "links": {
     "canonical": null,
     "repo": "https://github.com/NomaDamas/CozyClay",
     "paper": null,
-    "product": null,
+    "product": "https://cozyclay.org/",
     "other": [],
     "related_items": [
       "x-2091577179914338583",

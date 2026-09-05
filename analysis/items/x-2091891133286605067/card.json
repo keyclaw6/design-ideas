@@ -47,6 +47,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2091891133286605067#c3",
+      "text": "freerouting/freerouting GPL-3.0 **1,940★**; homepage https://www.freerouting.app. Docs freerouting.org **29,006 B**: PCB router via Specctra/Electra DSN; KiCad / Eagle / LayoutEditor; Alfons Wirtz 2004–2008, GPL 2014. deeppcb.ai **137,606 B** (InstaDeep): learned RL router; public benches STM32 100% / **18m 8s** vs ~8 hrs hand; RF mixed-signal **2m 6s** vs 2–3 hrs; critical nets stay human. Tweet 1 min / 2-layer keyboard vs Freerouting 25 min stays tweet-only — not a named board on DeepPCB’s public table.",
+      "kind": "availability",
+      "evidence": "GET api.github.com/repos/freerouting/freerouting 1940 stars GPL-3.0. deeppcb.ai 137606 B. leftover7-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/freerouting.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": null,
@@ -68,6 +78,12 @@
       "value": "2",
       "unit": "layers",
       "source": "post"
+    },
+    {
+      "label": "Freerouting stars",
+      "value": "1940",
+      "unit": null,
+      "source": "note"
     }
   ],
   "techniques": [
@@ -79,10 +95,13 @@
   ],
   "links": {
     "canonical": "https://x.com/paulcjh/status/2091891133286605067",
-    "repo": null,
+    "repo": "https://github.com/freerouting/freerouting",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://www.freerouting.org/",
+      "https://www.deeppcb.ai/"
+    ],
     "related_items": []
   },
   "media": [],

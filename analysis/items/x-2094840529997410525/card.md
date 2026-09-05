@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2094840529997410525#c1` (capability, stated) Atlas Fields Studio lets you explore electromagnetic behavior around PCB designs for free. — evidence: "The Fields Studio App lets you explore electromagnetic behavior around PCB designs" [post]
 - `x-2094840529997410525#c2` (result, demonstrated) Guest mode predicts 10,000 field vectors in about 45 ms at 10 GHz on a hairpin filter template. — evidence: "10,000 field vectors predicted in 45 ms | f = 10.000 GHz" [media]
-**Numbers.** Field vectors predicted: 10000 vectors (media); Prediction time: 45 ms (media); Frequency: 10 GHz (media)
+- `x-2094840529997410525#c3` (capability, demonstrated) fields-studio.arenaphysica.com **225,703 B** (title Atlas Fields Studio). Beta launch: interactive viewer; predicted E/H fields update in milliseconds vs a commercial solver that can take hours. Default query **10,000** points; render 720p–8K; Heaviside-1 deep dive linked. arenaphysica.com **75,739 B** announces Heaviside-1 + Atlas Fields Studio Beta. Publication `/publications/heaviside-1` **382,556 B** (13 min; Sep 1, 2026): foundation model for 3D EM fields; natively encodes 3D structures + materials + excitation; try Atlas Fields Studio in beta. Tweet 45 ms / 10 GHz is on the capture screenshot, not repeated as a live HUD string in this HTML. — evidence: "GET fields-studio.arenaphysica.com 225703 B; arenaphysica.com 75739 B; /publications/heaviside-1 382556 B. leftover7-2026-09-05.json" [note]
+**Numbers.** Field vectors predicted: 10000 vectors (media); Prediction time: 45 ms (media); Frequency: 10 GHz (media); Fields Studio HTML: 225703 bytes (note)
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** paper (https://www.arenaphysica.com/publications/heaviside-1), product (https://fields-studio.arenaphysica.com), https://www.arenaphysica.com/publications/rf-studio
+**Links.** paper (https://www.arenaphysica.com/publications/heaviside-1), product (https://fields-studio.arenaphysica.com/), https://www.arenaphysica.com/publications/rf-studio
 **Related items.** —
 **Media.**
 `raw/items/x-2094840529997410525/media/thumb.jpg` (image, carries_technique=true) — Laptop screenshot of Atlas Fields Studio showing a 3D hairpin filter with colored E-field vectors, S-parameter plot, and 45 ms prediction overlay.

@@ -52,6 +52,16 @@
       "evidence_ref": "media/thumb.jpg",
       "confidence": "demonstrated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2094840529997410525#c3",
+      "text": "fields-studio.arenaphysica.com **225,703 B** (title Atlas Fields Studio). Beta launch: interactive viewer; predicted E/H fields update in milliseconds vs a commercial solver that can take hours. Default query **10,000** points; render 720p–8K; Heaviside-1 deep dive linked. arenaphysica.com **75,739 B** announces Heaviside-1 + Atlas Fields Studio Beta. Publication `/publications/heaviside-1` **382,556 B** (13 min; Sep 1, 2026): foundation model for 3D EM fields; natively encodes 3D structures + materials + excitation; try Atlas Fields Studio in beta. Tweet 45 ms / 10 GHz is on the capture screenshot, not repeated as a live HUD string in this HTML.",
+      "kind": "capability",
+      "evidence": "GET fields-studio.arenaphysica.com 225703 B; arenaphysica.com 75739 B; /publications/heaviside-1 382556 B. leftover7-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover7-2026-09-05/fields-studio-visible.txt",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],
@@ -73,6 +83,12 @@
       "value": "10",
       "unit": "GHz",
       "source": "media"
+    },
+    {
+      "label": "Fields Studio HTML",
+      "value": "225703",
+      "unit": "bytes",
+      "source": "note"
     }
   ],
   "techniques": [],
@@ -81,7 +97,7 @@
     "canonical": "https://fields-studio.arenaphysica.com",
     "repo": null,
     "paper": "https://www.arenaphysica.com/publications/heaviside-1",
-    "product": "https://fields-studio.arenaphysica.com",
+    "product": "https://fields-studio.arenaphysica.com/",
     "other": [
       "https://www.arenaphysica.com/publications/rf-studio"
     ],
