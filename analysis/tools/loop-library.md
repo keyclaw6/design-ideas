@@ -23,4 +23,6 @@ Each card states cadence (always-on / daily / weekly) and output (PR, digest, al
 Template files: `meta.json` (paste prompt in `description`), `story.md`, `reference.md`, `thumb.svg`. Prompt is a guided setup: wiki-grounded comments, draft-for-review default, shared ledger, ≥21 min gap, ≤5 posts/day, `opencli reddit` via a logged-in browser session. Author `story.md` claims comment karma **−4 → 92** over 7 days — first-party story, not independently verified. Do not treat the story chart as a bake-off.
 
 **2026-09-05 leftover29.** Unused `awesome.re` **542,276 B** redirects to `sindresorhus/awesome` (PRs temporarily disabled). Index, not a harness. Receipt `leftover29-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused GitHub `Shubhamsaboo/awesome-llm-apps` Apache-2.0 **136,098★** (tweet **132,000+**). Index, not a harness. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -12,6 +12,7 @@
 - `github-nexu-io-open-design#c1` (capability, stated) Marketed as the open-source Claude Design alternative with a discover-brief-lock-critique-deliver agent loop. — evidence: "The open-source Claude Design alternative." [media]
 - `github-nexu-io-open-design#c2` (capability, stated) Supports Claude Code, Codex, Cursor, DeepSeek Harness, and 26+ CLIs via BYOK with six artifact types and live iframe preview. — evidence: "Supports Claude Code, Codex, Cursor, DeepSeek Harness (dsh), 26+ CLIs via BYOK" [linked-page]
 - `github-nexu-io-open-design#c3` (availability, demonstrated) Live GitHub API: Apache-2.0, 94,085 stars / 10,862 forks. README 58,746 B. Comparison table says 277 plugins; 0.8.0 changelog says 261 official plugins. Official dirs: design-systems 143, video-templates 63, image-templates 45, atoms 13, examples 183. Do not collapse 261/277. Product open-design.ai 200 / 339,680 B. — evidence: "api.github.com/repos/nexu-io/open-design stargazers_count 94085. README table + 0.8.0 line. Site GET 200. See analysis/tools/open-design.md." [note]
+- `github-nexu-io-open-design#c4` (availability, demonstrated) leftover30 unused discord.gg/mHAjSMV6gz is a Discord invite — skip. leftover30 does not join. — evidence: "leftover30-2026-09-05.json skip Discord invite." [note]
 **Numbers.** GitHub stars: 94085  (note)
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md), [remotion-code-video](../../techniques/remotion-code-video.md)

@@ -21,7 +21,7 @@
   "id": "web-obscura-sh",
   "source_type": "website",
   "url": "https://obscura.sh",
-  "title": "Obscura — Rust headless browser for agent-scale automation",
+  "title": "Obscura \u2014 Rust headless browser for agent-scale automation",
   "author": {
     "name": "Obscura",
     "handle": "obscura_sh",
@@ -61,10 +61,20 @@
       "id": "web-obscura-sh#c2",
       "text": "Existing Playwright and Puppeteer scripts can target Obscura via CDP compatibility.",
       "kind": "capability",
-      "evidence": "Playwright + CDP compatible — point existing scripts at Obscura",
+      "evidence": "Playwright + CDP compatible \u2014 point existing scripts at Obscura",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "web-obscura-sh#c3",
+      "text": "leftover30 unused github.com/h4ckf0r0day/obscura and docs.obscura.sh / llms.txt host strings are leftover24/27. No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip obscura leftover24/27.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/obscura.md",
+      "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
     }
   ],
@@ -75,7 +85,8 @@
     "product": null,
     "other": [
       "https://docs.obscura.sh",
-      "https://docs.obscura.sh/llms.txt"
+      "https://docs.obscura.sh/llms.txt",
+      "https://github.com/h4ckf0r0day/obscura"
     ],
     "related_items": [
       "github-h4ckf0r0day-obscura",

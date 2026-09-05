@@ -12,11 +12,12 @@
 - `github-superdesigndev-treg#c1` (capability, stated) treg catalogs 2,896 endpoints across 60 providers, priced per call from about one cent. — evidence: "2,896 catalogued endpoints across 60 providers — SEO and backlinks, social and trends, people and company enrichment, ads, scraping — priced per call, from a cent" [linked-page]
 - `github-superdesigndev-treg#c2` (recipe, stated) Team-registered API keys always override treg's catalog keys and are never metered. — evidence: "Your own key always wins over treg's, and those calls are never metered." [linked-page]
 - `github-superdesigndev-treg#c3` (result, demonstrated) GET treg.to/providers.json is still version 12 with 104 named BYO providers. GET treg.dev/providers.json is 404; treg.dev is not the dump host. — evidence: "treg.to/providers.json HTTP 200 size 23376 version 12 providers.length 104 (Google Ads … OpenWeather). treg.dev/providers.json HTTP 404 size 6888. treg.dev/ 200 599592 B." [note]
+- `github-superdesigndev-treg#c4` (availability, demonstrated) leftover30 unused github.com/superdesigndev/treg host string is leftover24 1,190★. No new integers. — evidence: "leftover30-2026-09-05.json skip superdesigndev/treg already leftover24." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** [treg](../../tools/treg.md)
-**Links.** repo (https://github.com/superdesigndev/treg), product (https://treg.to), https://treg.to/mcp/v2/, https://treg.to/people-search
+**Links.** repo (https://github.com/superdesigndev/treg), product (https://treg.to), https://treg.to/mcp/v2/, https://treg.to/people-search, https://github.com/superdesigndev/treg
 **Related items.** [web-treg-people-search](../web-treg-people-search/card.md), [github-LessieAI-people-search-bench](../github-LessieAI-people-search-bench/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md)
 **Media.** —
 **Judge hints.** must_read: True · compare with: [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md), [web-treg-people-search](../web-treg-people-search/card.md)

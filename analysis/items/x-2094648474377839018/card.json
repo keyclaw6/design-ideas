@@ -5,7 +5,7 @@
   "url": "https://x.com/ArcanaMfg/status/2094648474377839018",
   "title": "Arcana Splat2Mesh launch: 3DGS PLY to OBJ/GLB (Japanese)",
   "author": {
-    "name": "Arcana Mfg.Co.,Ltd. | 株式会社Arcana製作所",
+    "name": "Arcana Mfg.Co.,Ltd. | \u682a\u5f0f\u4f1a\u793eArcana\u88fd\u4f5c\u6240",
     "handle": "@ArcanaMfg",
     "url": "https://x.com/ArcanaMfg"
   },
@@ -34,7 +34,7 @@
       "id": "x-2094648474377839018#c1",
       "text": "Splat2Mesh converts 3DGS data to OBJ/GLB; personal non-commercial use is free.",
       "kind": "availability",
-      "evidence": "3D Gaussian SplattingデータをOBJ / GLB形式へ変換できます。\n個人利用・非商用利用は無料です。",
+      "evidence": "3D Gaussian Splatting\u30c7\u30fc\u30bf\u3092OBJ / GLB\u5f62\u5f0f\u3078\u5909\u63db\u3067\u304d\u307e\u3059\u3002\n\u500b\u4eba\u5229\u7528\u30fb\u975e\u5546\u7528\u5229\u7528\u306f\u7121\u6599\u3067\u3059\u3002",
       "evidence_source": "post",
       "evidence_ref": "raw/items/x-2094648474377839018/post.md",
       "confidence": "stated",
@@ -42,9 +42,19 @@
     },
     {
       "id": "x-2094648474377839018#c2",
-      "text": "Live EN product page https://arcana-mfg.com/en/splat2mesh/ is 200 / 73,796 B: Windows 11, OBJ/GLB export, Free for Personal & Non-Commercial Use, EULA-gated download, sample.ply. The English page does not say “no GPU.” Thread status is empty (0 replies, 10 quotes). 3dnchu write-up is 200 / 299,442 B.",
+      "text": "Live EN product page https://arcana-mfg.com/en/splat2mesh/ is 200 / 73,796 B: Windows 11, OBJ/GLB export, Free for Personal & Non-Commercial Use, EULA-gated download, sample.ply. The English page does not say \u201cno GPU.\u201d Thread status is empty (0 replies, 10 quotes). 3dnchu write-up is 200 / 299,442 B.",
       "kind": "availability",
       "evidence": "GET https://arcana-mfg.com/en/splat2mesh/ 200 73796 B. Copy: Windows 11 Supported / Free for Personal Non-Commercial Use / Export to widely used 3D formats such as OBJ and GLB.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094648474377839018#c3",
+      "text": "leftover30 unused GitHub org ArcanaMfg API 1,237 B is type Organization, public_repos 2, followers 0, location Nagano Japan, blog https://arcana-mfg.com/. leftover24 EN splat2mesh page stays on #c2. leftover30 does not download the ZIP.",
+      "kind": "availability",
+      "evidence": "leftover30 gh-arcanamfg 1237 B. Org; 2 public repos; Nagano; blog arcana-mfg.com.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/splat2mesh.md",
       "confidence": "demonstrated",
@@ -66,7 +76,8 @@
     "product": "https://arcana-mfg.com/en/splat2mesh/",
     "other": [
       "https://arcana-mfg.com/splat2mesh/",
-      "https://3dnchu.com/archives/splat2mesh/"
+      "https://3dnchu.com/archives/splat2mesh/",
+      "https://github.com/ArcanaMfg"
     ],
     "related_items": [
       "web-arcana-splat2mesh",

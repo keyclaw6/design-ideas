@@ -59,6 +59,16 @@
       "evidence_ref": "analysis/tools/tinyshots.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-recent-design#c4",
+      "text": "leftover30 unused cdn.recent.design 404 / 27,150 B is a GCS bucket Not Found (object not publicly accessible). leftover28 homepage leftover stays on #c3.",
+      "kind": "availability",
+      "evidence": "leftover30 cdn-recent 404 27150 B. GCS bucket not public.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshots.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,

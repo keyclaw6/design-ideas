@@ -63,6 +63,16 @@
       "evidence_ref": "analysis/tools/graphed-mcp.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-graphed#c4",
+      "text": "leftover30 unused mcp.graphed.com/mcp stays keyed. leftover29 homepage leftover stays on #c3. Do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip keyed Graphed MCP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/graphed-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],

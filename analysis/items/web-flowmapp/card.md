@@ -11,11 +11,12 @@
 **Claims.**
 - `web-flowmapp#c1` (capability, stated) Flowmapp combines brief, sitemap, wireframes, content, estimation, and invoice in one client-facing pipeline. — evidence: "brief, sitemap, structure, wireframes, content, estimation, invoice" [linked-page]
 - `web-flowmapp#c2` (capability, stated) Projects export to Figma, PDF, PNG, XML, CSV, or an interactive presentation webpage. — evidence: "Export — Figma, PDF, PNG, XML, CSV, webpage" [linked-page]
+- `web-flowmapp#c3` (availability, demonstrated) leftover30 unused app.flowmapp.com/signup 1,130 B titles FlowMapp. Visible-text extract is empty (signup SPA). leftover30 does not create an account. — evidence: "leftover30 flowmapp-signup 1130 B. Title FlowMapp. Visible empty." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** product (https://app.flowmapp.com/signup)
+**Links.** product (https://app.flowmapp.com/signup), https://app.flowmapp.com/signup
 **Related items.** [web-checklist-design](../web-checklist-design/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [web-neuform-ai](../web-neuform-ai/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: [web-checklist-design](../web-checklist-design/card.md), [web-neuform-ai](../web-neuform-ai/card.md)

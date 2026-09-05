@@ -14,4 +14,6 @@
 **2026-09-05 leftover24.** Unused GitHub `MengTo/Skills` MIT **5,798★** folded onto the Sylva leftover. Not the moss-instancing repo. Receipt `leftover24-2026-09-05.json`.
 
 **2026-09-05 leftover27.** Unused `ui-skills.com` **211,608 B** is a third-party catalog of other authors (ibelick / emilkowalski / jakubkrehel / pbakaus / Leonxlnx). Not a MengTo/Skills inventory. Receipt `leftover27-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused `aura.build` host string is leftover18. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

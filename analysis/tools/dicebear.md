@@ -8,4 +8,6 @@
 
 <!-- NOTES:START -->
 **2026-09-05 leftover29.** Unused GitHub `dicebear/dicebear` MIT **9,506★**. Unused playground **25,069 B** shows Star **9.5k**. leftover23 homepage 61 / 9.5k / MIT / 1B stays on the Blume leftover. Receipt `leftover29-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused `editor.dicebear.com` **826 B** empty. Unused lorelei SVG `seed=Felix` **5,801 B**. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

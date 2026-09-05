@@ -12,6 +12,7 @@
 - `github-mengto-skills#c1` (capability, stated) Video to Super Prompt turns a screen recording into a detailed HTML recreation prompt. — evidence: "Video to Super Prompt — screen recording → detailed HTML recreation prompt" [linked-page]
 - `github-mengto-skills#c2` (capability, stated) Stitched Full Page Capture grabs a whole landing page reference, not just the hero. — evidence: "Stitched Full Page Capture — full landing page reference, not just hero" [linked-page]
 - `github-mengto-skills#c3` (availability, demonstrated) leftover27 unused ui-skills.com 211,608 B is a third-party catalog of other authors' skills (ibelick, emilkowalski, jakubkrehel, pbakaus, Leonxlnx, and others) — not an inventory of MengTo/Skills. Do not treat ui-skills.com counts as MengTo repo stats. — evidence: "leftover27 ui-skills 211608 B. Third-party catalog, not MengTo/Skills." [note]
+- `github-mengto-skills#c4` (availability, demonstrated) leftover30 unused aura.build host string is leftover18. No new integers. — evidence: "leftover30-2026-09-05.json skip aura.build already leftover18." [note]
 **Numbers.** GitHub stars: 5734  (linked-page)
 **Recipe.** —
 **Techniques.** [prompt-to-html-landing](../../techniques/prompt-to-html-landing.md), [remotion-code-video](../../techniques/remotion-code-video.md), [screenshot-verify-loop](../../techniques/screenshot-verify-loop.md)

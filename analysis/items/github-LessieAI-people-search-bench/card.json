@@ -77,6 +77,16 @@
       "evidence_ref": "analysis/tools/lessie.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "github-LessieAI-people-search-bench#c4",
+      "text": "leftover30 unused treg.to/people-search host string is already leftover23 on the treg leftover. No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip treg.to/people-search already leftover23.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/treg.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "links": {

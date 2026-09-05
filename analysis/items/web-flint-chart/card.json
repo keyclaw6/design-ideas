@@ -70,6 +70,16 @@
       "evidence_ref": "analysis/tools/flint-chart-mcp.md",
       "confidence": "demonstrated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "web-flint-chart#c5",
+      "text": "leftover30 unused flint.data-formulator.ai/mcp stays keyed \u2014 do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip keyed Flint MCP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/flint-chart-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,
@@ -94,7 +104,8 @@
     "paper": null,
     "product": "https://flint.data-formulator.ai/mcp",
     "other": [
-      "https://www.npmjs.com/package/flint-chart"
+      "https://www.npmjs.com/package/flint-chart",
+      "https://flint.data-formulator.ai/mcp"
     ],
     "related_items": [
       "github-antvis-infographic",

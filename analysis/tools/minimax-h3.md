@@ -23,4 +23,6 @@
 **2026-09-05 leftover28.** Unused MiniMax create-video docs **442,375 B** name MiniMax-H3. HF `MiniMaxAI/MiniMax-H3` **4,913** likes / **5,118,457** downloads; license other. Did not submit a create-task call. Receipt `leftover28-2026-09-05.json`.
 
 **2026-09-05 leftover29.** Unused note.com Ponyo Blender timelapse **316,890 B** — not an H3 blockout recipe. Receipt `leftover29-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused MiniMax create-video docs host string is leftover28 `#c4`. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

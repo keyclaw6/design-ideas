@@ -12,6 +12,7 @@
 - `github-punkpeye-awesome-mcp-servers#c1` (capability, stated) The README indexes MCP servers by category with legend for language, local vs cloud scope, and OS. — evidence: "Legend marks language (Python, TS, Go, Rust), scope (local/cloud), and OS." [linked-page]
 - `github-punkpeye-awesome-mcp-servers#c2` (availability, stated) Glama.ai/mcp/servers mirrors the list as a browsable web directory. — evidence: "https://glama.ai/mcp/servers — synced web directory" [linked-page]
 - `github-punkpeye-awesome-mcp-servers#c3` (availability, demonstrated) leftover29 unused GitHub punkpeye/awesome-mcp-servers API 5,662 B is MIT 94,179★. leftover29 unused glama.ai/mcp/servers 244,196 B titles Open-Source MCP Servers – 81,811 in the Glama Registry (updated 2026-09-05 05:28) and splits Remote 34,954 / Python 34,181 / TypeScript 28,944 / Local 27,943. leftover29 unused modelcontextprotocol.io 279,547 B redirects to docs/2026-07-28/getting-started/intro. leftover29 does not install a listed server. — evidence: "leftover29 gh-punkpeye 94179 MIT; glama 244196 B 81811 servers; mcp-io 279547 B spec 2026-07-28." [note]
+- `github-punkpeye-awesome-mcp-servers#c4` (availability, demonstrated) leftover30 unused GitHub punkpeye/awesome-mcp-clients API 5,652 B is MIT 6,577★. Description: a collection of MCP clients. leftover29 servers leftover stays on #c3 (94,179★ / Glama 81,811). leftover30 does not install a listed client. — evidence: "leftover30 gh-mcp-clients 5652 B. MIT 6577★." [note]
 **Numbers.** GitHub stars: 93831  (post)
 **Recipe.** —
 **Techniques.** —

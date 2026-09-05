@@ -11,6 +11,7 @@
 **Claims.**
 - `web-seowins-io#c1` (capability, stated) The product bundles 150+ step-by-step SEO and AI SEO strategies. — evidence: "Database of **150+ battle-tested SEO and AI SEO strategies** for growing rankings, traffic, brand mentions, and AI citations" [linked-page]
 - `web-seowins-io#c2` (pricing, stated) Lifetime license was $79 at capture (down from $179). — evidence: "SEO Wins lifetime | ~~$179~~ **$79** one-time" [linked-page]
+- `web-seowins-io#c3` (availability, demonstrated) leftover30 unused youtube.com/watch?v=m7K4hKjnEG4 is a seowins leftover — do not hammer. — evidence: "leftover30-2026-09-05.json skip seowins YouTube." [note]
 **Numbers.** Lifetime price: 79 USD (linked-page); Strategy count: 150+  (linked-page)
 **Recipe.** —
 **Techniques.** —

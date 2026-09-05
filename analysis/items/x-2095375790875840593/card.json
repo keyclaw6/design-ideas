@@ -46,9 +46,19 @@
       "id": "x-2095375790875840593#c1",
       "text": "LichtFeldStudio output was converted with Splat2Mesh and printed on a Mimaki 3DUJ-2207.",
       "kind": "result",
-      "evidence": "LichtFeldStudioで出力したデータをSplat2Meshで変換し、そのままMimakiの3DUJ-2207で出力しました。",
+      "evidence": "LichtFeldStudio\u3067\u51fa\u529b\u3057\u305f\u30c7\u30fc\u30bf\u3092Splat2Mesh\u3067\u5909\u63db\u3057\u3001\u305d\u306e\u307e\u307eMimaki\u306e3DUJ-2207\u3067\u51fa\u529b\u3057\u307e\u3057\u305f\u3002",
       "evidence_source": "post",
       "evidence_ref": "post.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2095375790875840593#c2",
+      "text": "leftover30 unused arcana-mfg.com/en/splat2mesh/ host string is leftover24 73,796 B. Still no watertight claim.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip splat2mesh leftover24.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
       "confidence": "demonstrated",
       "subject": "gaussian-splatting"
     }
@@ -58,7 +68,9 @@
     "repo": null,
     "paper": null,
     "product": "https://arcana-mfg.com/en/splat2mesh/",
-    "other": [],
+    "other": [
+      "https://arcana-mfg.com/en/splat2mesh/"
+    ],
     "related_items": [
       "web-arcana-splat2mesh",
       "x-2093179838249251011"

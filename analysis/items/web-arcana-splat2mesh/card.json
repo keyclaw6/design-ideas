@@ -3,7 +3,7 @@
   "id": "web-arcana-splat2mesh",
   "source_type": "website",
   "url": "https://arcana-mfg.com/en/splat2mesh/",
-  "title": "Arcana Splat2Mesh — Windows 3DGS PLY to OBJ/GLB mesh exporter",
+  "title": "Arcana Splat2Mesh \u2014 Windows 3DGS PLY to OBJ/GLB mesh exporter",
   "author": {
     "name": "Arcana Mfg.",
     "handle": "ArcanaMfg",
@@ -48,6 +48,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "web-arcana-splat2mesh#c3",
+      "text": "leftover30 unused arcana-mfg.com/en/splat2mesh/ host string is leftover24 73,796 B. Unused Splat2Mesh_v1.0.zip stays a ZIP \u2014 do not download.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip splat2mesh leftover24 + ZIP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": [],
@@ -69,7 +79,8 @@
     "paper": null,
     "product": "https://arcana-mfg.com/en/splat2mesh/",
     "other": [
-      "https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip"
+      "https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip",
+      "https://arcana-mfg.com/en/splat2mesh/"
     ],
     "related_items": [
       "github-nv-tlabs-ArtiFixer",

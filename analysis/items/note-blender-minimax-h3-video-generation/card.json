@@ -73,6 +73,16 @@
       "evidence_ref": "analysis/tools/minimax-h3.md",
       "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "note-blender-minimax-h3-video-generation#c5",
+      "text": "leftover30 unused platform.minimax.io create-video docs host string is leftover28 #c4 (442,375 B + HF 4,913 / 5,118,457). No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip minimax create-video already leftover28.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],

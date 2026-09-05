@@ -12,6 +12,7 @@
 - `github-LessieAI-people-search-bench#c1` (benchmark, stated) Lessie leads the published overall score at 65.2 versus Exa 55.0 and Claude Code 46.0. — evidence: "| Lessie | 70.2 | 69.1 | 56.4 | 65.2 |" [linked-page]
 - `github-LessieAI-people-search-bench#c2` (capability, stated) Scoring uses Tavily web search verification with Cohen's kappa 0.84 against human annotators. — evidence: "Verification uses live web search (Tavily API), not LLM-as-judge. Cohen's kappa = 0.84 with human annotators (per arXiv abstract)." [linked-page]
 - `github-LessieAI-people-search-bench#c3` (benchmark, demonstrated) leftover27 unused lessie.ai 1,469,320 B homepage comparison table claims Lessie 65.2, Exa 55, Claude 46, Juicebox 45.8 on 119 queries. leftover23 already folded arXiv abs/2603.27476 PeopleSearchBench 119 queries / four scenarios / κ=0.84 and does not name treg #1. Do not collapse this homepage 65.2 score with treg #1 or with the abs paper's scenario table. leftover27 does not rerun those 119 queries. — evidence: "leftover27 lessie-ai 1469320 B. Homepage 65.2 / Exa 55 / Claude 46 / Juicebox 45.8 on 119 queries." [note]
+- `github-LessieAI-people-search-bench#c4` (availability, demonstrated) leftover30 unused treg.to/people-search host string is already leftover23 on the treg leftover. No new integers. — evidence: "leftover30-2026-09-05.json skip treg.to/people-search already leftover23." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [people-search-eval](../../techniques/people-search-eval.md)

@@ -11,4 +11,6 @@ Fetched 2026-09-05 `https://www.graphed.com/mcp` GET 200 / **40,794 B**. Title G
 **2026-09-05 leftover23.** Unused `cal.com/team/graphed-com/discovery` **576,201 B** title Graphed Discovery Call. Visible empty (Cal booking SPA). Not the MCP warehouse page. Receipt `leftover23-2026-09-05.json`.
 
 **2026-09-05 leftover29.** Unused `graphed.com` **292,950 B** marketing-agents homepage; example **$2.4k** shift. MCP stays keyed. Receipt `leftover29-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused `mcp.graphed.com/mcp` stays keyed — do not hammer. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -11,11 +11,12 @@
 **Claims.**
 - `github-iannuttall-seo#c1` (capability, stated) The repo provides a local CLI and MCP server for SEO audits using your crawl, Search Console, and GA4. — evidence: "Audit sites, find search opportunities, research competitors, and verify work from one local CLI and MCP server — using your own crawl, Search Console, and GA4 data." [linked-page]
 - `github-iannuttall-seo#c2` (recipe, stated) MCP tools install into Cursor via seo mcp install. — evidence: "`seo mcp install` exposes tools to Cursor and other MCP clients" [linked-page]
+- `github-iannuttall-seo#c3` (availability, demonstrated) leftover30 unused github.com/iannuttall/seo host string is leftover24 #c6 on the sibling leftover (463★ / 70+). npm stays 403. — evidence: "leftover30-2026-09-05.json skip iannuttall/seo already leftover24." [note]
 **Numbers.** GitHub stars: 380  (linked-page)
 **Recipe.** —
 **Techniques.** [serp-keyword-research](../../techniques/serp-keyword-research.md), [serp-keyword-research](../../techniques/serp-keyword-research.md)
 **Tools.** [seo-skill-cli](../../tools/seo-skill-cli.md), [indexnow](../../tools/indexnow.md)
-**Links.** repo (https://github.com/iannuttall/seo), product (https://www.npmjs.com/package/seo)
+**Links.** repo (https://github.com/iannuttall/seo), product (https://www.npmjs.com/package/seo), https://github.com/iannuttall/seo
 **Related items.** [web-crowdreply](../web-crowdreply/card.md), [web-brave-submit-url](../web-brave-submit-url/card.md), [web-seowins-io](../web-seowins-io/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

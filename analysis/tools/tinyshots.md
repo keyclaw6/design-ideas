@@ -13,4 +13,6 @@ Neighbor listing: `https://www.tinyshelf.co/tools/tinyshots` GET 200 / **7,594 B
 **2026-09-05 leftover22.** Unused `tinylaunch.com/directories` **106,620 B**. Live list **Showing 15 of 691**. Paid **110** directories **$279**; **30,000+** makers. Flashcard Buddy **7→30** is vendor copy. Do not collapse 691 with TinyShelf **122** outgoing dofollow. Receipt `leftover22-2026-09-05.json`.
 
 **2026-09-05 leftover28.** Same TinyLaunch directories **106,620 B** now on the READY card. Unused `tinyshots.app` **70,112 B** restates **$39** / **97** spots / **$49** / **180+**. Unused `recent.design` **311,079 B** is a thin inspiration + jobs shell. Receipt `leftover28-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused Cartier PDP **608,820 B** (42 mm / 1847 MC / 3 bar / 40HOUR / 8-year Care; unavailable online) plus homepage **803,531 B** Clash tote **$4,700 / $4,400 / $4,100** — do not invent `cartier.md`. Unused `app.flowmapp.com/signup` **1,130 B** empty SPA. Unused `cdn.recent.design` **404 / 27,150 B** GCS bucket not public. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

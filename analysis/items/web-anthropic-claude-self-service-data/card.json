@@ -58,6 +58,16 @@
       "evidence_ref": "analysis/tools/reasoning-bank.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-anthropic-claude-self-service-data#c4",
+      "text": "leftover30 unused iandmacomber.com and davidgasquez.com neighbor essays are leftover29 on those READY cards. No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip leftover29 neighbor essays.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": null,

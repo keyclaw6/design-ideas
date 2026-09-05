@@ -57,6 +57,16 @@
       "evidence_ref": "analysis/tools/checklist-design.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-checklist-design#c4",
+      "text": "leftover30 unused Figma community skill/74536/checklist-design 732,823 B titles checklist-design | Figma. Visible extract empty (SPA), same leftover29 plugin 734,330 B pattern. leftover29 plugin leftover stays on #c3. leftover30 does not install the skill.",
+      "kind": "availability",
+      "evidence": "leftover30 figma-skill 732823 B. Title checklist-design | Figma. Visible empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/checklist-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

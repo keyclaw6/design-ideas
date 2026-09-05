@@ -18,4 +18,6 @@ JP launch tweet og:description (`x-2095136786095951924` retry): local processing
 **2026-09-05 re-fetch.** EN product page still **200 / 73,796 B**. 3dnchu write-up `https://3dnchu.com/archives/splat2mesh/` **200 / 299,442 B** (posted 2026-09-02) restates Windows 11 PLY→OBJ/GLB. ymt3d amplify video **7.36 s** / 718×396. Cards `x-2094826117056414132` and `x-2094648474377839018` are now `ready` (threads `empty`). Teaser `x-2093179838249251011` stays `ready-with-gaps` (`captured_partial` 10/3).
 
 No conversion of `sample.ply` was run in this environment (Windows installer; this host is Linux).
+
+**2026-09-05 leftover30.** Unused GitHub org `ArcanaMfg` **1,237 B**: Organization, **2** public repos, Nagano Japan, blog arcana-mfg.com. Unused EN splat2mesh + ZIP leftovers stay leftover24 — do not download the ZIP. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -49,6 +49,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-arxiv-2603-27476#c3",
+      "text": "leftover30 unused arxiv.org/html/2603.27476v3 229,610 B titles PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification (v3 30 Aug 2026; CC BY 4.0). Visible extract restates leftover23 119 queries / four scenarios / \u03ba=0.84 and leftover27 Lessie 65.2 \u00b1 1.5 vs Exa 55.0 / Claude Code 46.0 / Juicebox 45.8. leftover30 unused github.com/LessieAI/people-search-bench and treg.to/people-search host strings are leftover23 / leftover27 \u2014 HTML does not name treg. leftover30 does not run the bench.",
+      "kind": "benchmark",
+      "evidence": "leftover30 arxiv-html 229610 B. 119 / \u03ba=0.84 / Lessie 65.2\u00b11.5. No treg.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/people-search-bench.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": null,
@@ -79,7 +89,10 @@
     "paper": "https://arxiv.org/pdf/2603.27476",
     "product": "https://treg.to/people-search",
     "other": [
-      "https://arxiv.org/html/2603.27476v3"
+      "https://arxiv.org/html/2603.27476v3",
+      "https://github.com/LessieAI/people-search-bench",
+      "https://arxiv.org/pdf/2603.27476",
+      "https://treg.to/people-search"
     ],
     "related_items": [
       "github-LessieAI-people-search-bench",

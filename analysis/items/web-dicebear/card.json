@@ -58,6 +58,16 @@
       "evidence_ref": "analysis/tools/dicebear.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-dicebear#c4",
+      "text": "leftover30 unused editor.dicebear.com 826 B titles Editor | DiceBear; visible extract empty. leftover30 unused api.dicebear.com/10.x/lorelei/svg?seed=Felix 5,801 B image/svg+xml. leftover29 GitHub 9,506\u2605 / playground 9.5k stay on #c3. leftover30 does not save an avatar.",
+      "kind": "availability",
+      "evidence": "leftover30 dicebear-editor 826 B empty; dicebear-svg 5801 B lorelei Felix.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/dicebear.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
@@ -81,7 +91,8 @@
     "other": [
       "https://www.dicebear.com/playground/",
       "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix",
-      "https://github.com/dicebear/dicebear"
+      "https://github.com/dicebear/dicebear",
+      "https://editor.dicebear.com/"
     ],
     "related_items": [
       "web-tinyshots",

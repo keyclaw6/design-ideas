@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/kitesurf.md",
       "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-punkpeye-awesome-mcp-servers#c4",
+      "text": "leftover30 unused GitHub punkpeye/awesome-mcp-clients API 5,652 B is MIT 6,577\u2605. Description: a collection of MCP clients. leftover29 servers leftover stays on #c3 (94,179\u2605 / Glama 81,811). leftover30 does not install a listed client.",
+      "kind": "availability",
+      "evidence": "leftover30 gh-mcp-clients 5652 B. MIT 6577\u2605.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/kitesurf.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "recipe_steps": [],

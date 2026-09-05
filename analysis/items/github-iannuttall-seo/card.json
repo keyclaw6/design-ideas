@@ -37,7 +37,7 @@
       "id": "github-iannuttall-seo#c1",
       "text": "The repo provides a local CLI and MCP server for SEO audits using your crawl, Search Console, and GA4.",
       "kind": "capability",
-      "evidence": "Audit sites, find search opportunities, research competitors, and verify work from one local CLI and MCP server — using your own crawl, Search Console, and GA4 data.",
+      "evidence": "Audit sites, find search opportunities, research competitors, and verify work from one local CLI and MCP server \u2014 using your own crawl, Search Console, and GA4 data.",
       "evidence_source": "linked-page",
       "evidence_ref": null,
       "confidence": "stated",
@@ -51,6 +51,16 @@
       "evidence_source": "linked-page",
       "evidence_ref": null,
       "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "github-iannuttall-seo#c3",
+      "text": "leftover30 unused github.com/iannuttall/seo host string is leftover24 #c6 on the sibling leftover (463\u2605 / 70+). npm stays 403.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip iannuttall/seo already leftover24.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
     }
   ],
@@ -76,7 +86,9 @@
     "repo": "https://github.com/iannuttall/seo",
     "paper": null,
     "product": "https://www.npmjs.com/package/seo",
-    "other": [],
+    "other": [
+      "https://github.com/iannuttall/seo"
+    ],
     "related_items": [
       "web-crowdreply",
       "web-brave-submit-url",

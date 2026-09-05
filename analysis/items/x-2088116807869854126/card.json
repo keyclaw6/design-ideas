@@ -38,6 +38,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2088116807869854126#c2",
+      "text": "leftover30 unused GitHub Shubhamsaboo/awesome-llm-apps API 5,841 B is Apache-2.0 136,098\u2605. Description: 100+ AI Agents, Agent Skills and RAG Apps. Tweet claimed 132,000+. Do not collapse. Index, not a harness. leftover30 does not count the list files.",
+      "kind": "availability",
+      "evidence": "leftover30 gh-awesome-llm-apps 5841 B. Apache-2.0 136098\u2605 (tweet 132000+).",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/loop-library.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": [],
@@ -56,7 +66,9 @@
     "repo": "https://github.com/Shubhamsaboo/awesome-llm-apps",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    ],
     "related_items": [
       "github-sindresorhus-awesome",
       "github-punkpeye-awesome-mcp-servers",

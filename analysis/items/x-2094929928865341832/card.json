@@ -3,7 +3,7 @@
   "url": "https://x.com/0x0SojalSec/status/2094929928865341832",
   "title": "NVIDIA ArtiFixer tweet: video diffusion repairs sparse 3D scans",
   "author": {
-    "name": "Md Ismail Šojal",
+    "name": "Md Ismail \u0160ojal",
     "handle": "0x0SojalSec",
     "url": "https://x.com/0x0SojalSec"
   },
@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "unverified",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094929928865341832#c3",
+      "text": "leftover30 unused github.com/nv-tlabs/ArtiFixer / arxiv.org/abs/2603.00492 / huggingface.co/nvidia/ArtiFixer / research.nvidia.com leftovers are leftover27. No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip ArtiFixer leftover27.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/artifixer.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": null,
@@ -78,7 +88,10 @@
     "paper": "https://arxiv.org/abs/2603.00492",
     "product": "https://huggingface.co/nvidia/ArtiFixer",
     "other": [
-      "https://research.nvidia.com/labs/sil/projects/artifixer/"
+      "https://research.nvidia.com/labs/sil/projects/artifixer/",
+      "https://github.com/nv-tlabs/ArtiFixer",
+      "https://arxiv.org/abs/2603.00492",
+      "https://huggingface.co/nvidia/ArtiFixer"
     ],
     "related_items": [
       "github-nv-tlabs-ArtiFixer",

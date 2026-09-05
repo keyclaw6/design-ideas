@@ -13,6 +13,7 @@
 - `web-iandmacomber-post-ai-data-stack#c2` (recipe, stated) Agent-readable dashboards should ship per-data-product llms.txt with owners, filters, and provenance instructions. — evidence: "Per-data-product `llms.txt` in markdown — code, filters, owners, entry points, rendered values." [linked-page]
 - `web-iandmacomber-post-ai-data-stack#c3` (recipe, stated) Semantic layer plus dbt tests act as the contract layer so agents do not invent metric definitions. — evidence: "Semantic layer + dbt tests as the contract layer." [linked-page]
 - `web-iandmacomber-post-ai-data-stack#c4` (capability, demonstrated) leftover29 unused iandmacomber.com/blog/post-ai-data-stack 67,426 B titles The Shape and Feel of the Post-AI Data Stack (August 30, 2026) and names agent-readable artifacts / agent-operable tools / agent-agnostic context. leftover29 unused rilldata.com 88,734 B titles Rill | The fastest business intelligence tool for humans and agents and shows 3k. leftover29 does not deploy a Rill project. — evidence: "leftover29 macomber 67426 B; rilldata 88734 B 3k." [note]
+- `web-iandmacomber-post-ai-data-stack#c5` (availability, demonstrated) leftover30 unused davidgasquez.com leftover is leftover29 #c5 on that card. No new integers. — evidence: "leftover30-2026-09-05.json skip leftover29 gasquez neighbor." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [context-etl](../../techniques/context-etl.md), [semantic-layer-contract](../../techniques/semantic-layer-contract.md)

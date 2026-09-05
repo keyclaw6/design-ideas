@@ -13,4 +13,6 @@
 **Hosted MCP** `https://flint.data-formulator.ai/mcp`: GET → JSON-RPC **-32600** “method not allowed; use POST”. Unauthed `initialize` **200**, `serverInfo.name` `flint-chart-mcp` v0.5.1. Instructions: hosted server cannot read local files or remote URLs — inline `data.values` only. `tools/list` names **6** tools: `render_chart`, `compile_chart`, `validate_chart`, `list_chart_types`, `list_themes`, `create_chart_view`. `render_chart` backend enum is **vegalite | echarts | chartjs** (no Plotly/Excel on that tool). Do not collapse JS five-assembler list with the MCP render enum.
 
 **2026-09-04 capture — Plotly assemble + MCP SVG/PNG pair.** Same 5-row Line Chart input (`chart_spec.chartType` = `Line Chart`). Local `assemblePlotly` from `flint-chart@0.5.1` returns `{ data, layout }`: **1** `scatter` trace; layout title + deck HTML; JSON **1,506** bytes. Hosted `render_chart` `backend=vegalite`: **SVG** 17,393 B (`width="428"` `height="416"`, 13 `<path>`, 36 `<text>`); **PNG** 23,944 B (magic `\x89PNG`, `mimeType` `image/png`). First `render_chart` guess without `data` + `chart_spec` returned `-32602`. Files left under `/tmp/captures8/` (not copied into the bank).
+
+**2026-09-05 leftover30.** Unused `flint.data-formulator.ai/mcp` stays keyed — do not hammer. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -25,4 +25,6 @@ Neighbor (parked; no imageory.md): 2026-09-05 `https://Imageory.in` GET 200 / **
 **2026-09-05 leftover24.** Unused GitHub recount `wuyoscar/GPT-Image2-Skill` MIT **5,154★**. Still no identity lock. Receipt `leftover24-2026-09-05.json`.
 
 **2026-09-05 leftover29.** Unused GitHub `freestylefly/awesome-gpt-image-2` MIT **28,060★** (was **28,017★**). Description **530+** / **20+**. Receipt `leftover29-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused GitHub `wuyoscar/GPT-Image2-Skill` MIT **5,154★** now on the READY card (leftover24 same count). Still no identity lock. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

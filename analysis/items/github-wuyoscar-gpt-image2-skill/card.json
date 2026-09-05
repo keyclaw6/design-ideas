@@ -53,6 +53,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "github-wuyoscar-gpt-image2-skill#c3",
+      "text": "leftover30 unused GitHub wuyoscar/GPT-Image2-Skill API 5,817 B is MIT 5,154\u2605 this pass (leftover24 already 5,154\u2605 on the gpt-image-2 NOTES). leftover30 is that leftover now on this READY card. Still no identity lock.",
+      "kind": "availability",
+      "evidence": "leftover30 gh-gpt-image2-skill 5817 B. MIT 5154\u2605 (leftover24 same count).",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gpt-image-2.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": [],
@@ -71,7 +81,9 @@
     "repo": "https://github.com/wuyoscar/GPT-Image2-Skill",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/wuyoscar/GPT-Image2-Skill"
+    ],
     "related_items": [
       "github-youmind-openlab-nano-banana-pro-prompts",
       "web-meigen-ai",

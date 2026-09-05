@@ -1,0 +1,188 @@
+{
+  "fetched_at": "2026-09-05T16:00:00Z",
+  "pages": {
+    "cartier-pdp": {
+      "url": "https://www.cartier.com/en-dk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRWSBB0049",
+      "final": "https://www.cartier.com/en-dk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRWSBB0049",
+      "status": 200,
+      "bytes": 608820,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Ballon Bleu de Cartier watch - 42 mm, mechanical movement with automatic winding, steel - CRWSBB0049 -Cartier\u00ae DK",
+      "visible_len": 12089
+    },
+    "cartier-home": {
+      "url": "https://www.cartier.com/",
+      "final": "https://www.cartier.com/en-us/home",
+      "status": 200,
+      "bytes": 803531,
+      "ctype": "text/html;charset=UTF-8",
+      "error": null,
+      "title": "Cartier\u00ae Official Website - Jeweler and Watchmaker since 1847Cartier",
+      "visible_len": 11428
+    },
+    "flowmapp-signup": {
+      "url": "https://app.flowmapp.com/signup",
+      "final": "https://app.flowmapp.com/signup",
+      "status": 200,
+      "bytes": 1130,
+      "ctype": "text/html",
+      "error": null,
+      "title": "FlowMapp",
+      "visible_len": 0
+    },
+    "cdn-recent": {
+      "url": "https://cdn.recent.design/",
+      "final": "https://cdn.recent.design/",
+      "status": 404,
+      "bytes": 27150,
+      "ctype": "text/html",
+      "error": "HTTPError 404",
+      "title": "Not Found",
+      "visible_len": 249
+    },
+    "dicebear-editor": {
+      "url": "https://editor.dicebear.com/",
+      "final": "https://editor.dicebear.com/",
+      "status": 200,
+      "bytes": 826,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Editor | DiceBear",
+      "visible_len": 0
+    },
+    "dicebear-svg": {
+      "url": "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix",
+      "final": "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix",
+      "status": 200,
+      "bytes": 5801,
+      "ctype": "image/svg+xml",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover30-2026-09-05/dicebear-svg.svg",
+      "title": "svg",
+      "visible_len": 0
+    },
+    "gh-arcanamfg": {
+      "url": "https://api.github.com/users/ArcanaMfg",
+      "final": "https://api.github.com/users/ArcanaMfg",
+      "status": 200,
+      "bytes": 1237,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover30-2026-09-05/gh-arcanamfg.json",
+      "json_summary": {
+        "name": "Arcana Mfg",
+        "stars": 2,
+        "license": null,
+        "description": "",
+        "published_at": "2021-12-08T10:01:43Z",
+        "type": "Organization"
+      }
+    },
+    "gh-mcp-clients": {
+      "url": "https://api.github.com/repos/punkpeye/awesome-mcp-clients",
+      "final": "https://api.github.com/repos/punkpeye/awesome-mcp-clients",
+      "status": 200,
+      "bytes": 5652,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover30-2026-09-05/gh-mcp-clients.json",
+      "json_summary": {
+        "name": "awesome-mcp-clients",
+        "stars": 6577,
+        "license": "MIT",
+        "description": "A collection of MCP clients.",
+        "published_at": "2025-01-11T10:11:05Z",
+        "type": null
+      }
+    },
+    "gh-open-design": {
+      "url": "https://api.github.com/repos/nexu-io/open-design",
+      "final": "https://api.github.com/repos/nexu-io/open-design",
+      "status": 200,
+      "bytes": 6867,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover30-2026-09-05/gh-open-design.json",
+      "json_summary": {
+        "name": "open-design",
+        "stars": 94132,
+        "license": "Apache-2.0",
+        "description": "\ud83c\udfa8 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. \ud83d\udda5\ufe0f Local-first desktop app. \ud83d\uddbc\ufe0f Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video \u2014 real files, HTML/P",
+        "published_at": "2026-04-28T04:25:20Z",
+        "type": null
+      }
+    },
+    "gh-awesome-llm-apps": {
+      "url": "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps",
+      "final": "https://api.github.com/repos/Shubhamsaboo/awesome-llm-apps",
+      "status": 200,
+      "bytes": 5841,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover30-2026-09-05/gh-awesome-llm-apps.json",
+      "json_summary": {
+        "name": "awesome-llm-apps",
+        "stars": 136098,
+        "license": "Apache-2.0",
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "published_at": "2024-04-29T05:30:25Z",
+        "type": null
+      }
+    },
+    "arxiv-html": {
+      "url": "https://arxiv.org/html/2603.27476v3",
+      "final": "https://arxiv.org/html/2603.27476v3",
+      "status": 200,
+      "bytes": 229610,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "PeopleSearchBench: Evaluating AI-Powered People Search Platformswith Criteria-Grounded Verification",
+      "visible_len": 48717
+    },
+    "figma-skill": {
+      "url": "https://www.figma.com/community/skill/74536/checklist-design",
+      "final": "https://www.figma.com/community/skill/74536/checklist-design",
+      "status": 200,
+      "bytes": 732823,
+      "ctype": "text/html;charset=utf-8",
+      "error": null,
+      "title": "checklist-design | Figma",
+      "visible_len": 0
+    },
+    "gh-gpt-image2-skill": {
+      "url": "https://api.github.com/repos/wuyoscar/GPT-Image2-Skill",
+      "final": "https://api.github.com/repos/wuyoscar/GPT-Image2-Skill",
+      "status": 200,
+      "bytes": 5817,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover30-2026-09-05/gh-gpt-image2-skill.json",
+      "json_summary": {
+        "name": "GPT-Image2-Skill",
+        "stars": 5154,
+        "license": "MIT",
+        "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+        "published_at": "2026-04-22T11:27:21Z",
+        "type": null
+      }
+    }
+  },
+  "skips": {
+    "treg.to/people-search": "leftover23 already",
+    "github.com/iannuttall/seo": "leftover24 already (READY-card leftover)",
+    "aura.build": "leftover18 already",
+    "discord.gg": "Discord invite \u2014 skip",
+    "github.com/superdesigndev/treg": "leftover24 already",
+    "platform.minimax.io/docs": "leftover28 already",
+    "arcana-mfg.com/en/splat2mesh": "leftover24 already",
+    "Splat2Mesh_v1.0.zip": "ZIP \u2014 do not download",
+    "flint.data-formulator.ai/mcp": "keyed MCP \u2014 do not hammer",
+    "mcp.graphed.com/mcp": "keyed MCP \u2014 do not hammer",
+    "github.com/h4ckf0r0day/obscura": "leftover24/27 already",
+    "docs.obscura.sh": "leftover24/27 already",
+    "youtube.com seowins": "seowins leftover \u2014 do not hammer",
+    "nv-tlabs/ArtiFixer": "leftover27 already",
+    "neighbor leftover29 essays": "gasquez/macomber/anthropic already leftover29"
+  }
+}

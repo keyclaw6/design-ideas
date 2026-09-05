@@ -12,11 +12,12 @@
 - `x-2094929928865341832#c1` (capability, stated) ArtiFixer uses video diffusion to generate camera angles never captured and reconstructs the scene from generated frames. — evidence: "It uses video diffusion to generate the camera angles you never captured, then reconstructs the scene from the generated frames." [post]
 - `x-2094929928865341832#c2` (benchmark, unverified) The tweet claims ArtiFixer finishes in one to four steps and beats SOTA by about three dB. — evidence: "- 70x faster, Finishes in 1 to 4 steps
 - Beats SOTA by 3dB" [post]
+- `x-2094929928865341832#c3` (availability, demonstrated) leftover30 unused github.com/nv-tlabs/ArtiFixer / arxiv.org/abs/2603.00492 / huggingface.co/nvidia/ArtiFixer / research.nvidia.com leftovers are leftover27. No new integers. — evidence: "leftover30-2026-09-05.json skip ArtiFixer leftover27." [note]
 **Numbers.** inference steps cited: 1-4 steps (post); PSNR improvement cited: 3 dB (post)
 **Recipe.** —
 **Techniques.** [splat-pipeline](../../techniques/splat-pipeline.md)
 **Tools.** [artifixer](../../tools/artifixer.md)
-**Links.** repo (https://github.com/nv-tlabs/ArtiFixer), paper (https://arxiv.org/abs/2603.00492), product (https://huggingface.co/nvidia/ArtiFixer), https://research.nvidia.com/labs/sil/projects/artifixer/
+**Links.** repo (https://github.com/nv-tlabs/ArtiFixer), paper (https://arxiv.org/abs/2603.00492), product (https://huggingface.co/nvidia/ArtiFixer), https://research.nvidia.com/labs/sil/projects/artifixer/, https://github.com/nv-tlabs/ArtiFixer, https://arxiv.org/abs/2603.00492, https://huggingface.co/nvidia/ArtiFixer
 **Related items.** [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md), [x-2094648474377839018](../x-2094648474377839018/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)
 **Media.**
 `raw/items/x-2094929928865341832/media/thumb.jpg` (image, carries_technique=true) — Static four-panel grid comparing 3DGUT, GenFusion, GSFixer noise against a sharp ArtiFixer3D+ bicycle beside a park bench.

@@ -12,6 +12,7 @@
 - `web-graphed#c1` (capability, stated) Platform connects 750+ marketing data sources into a modeled warehouse. — evidence: "Connect channels — Meta, Google, Shopify, GA4, HubSpot, **750+ sources** → warehouse" [linked-page]
 - `web-graphed#c2` (capability, stated) Graphed MCP supports schema exploration and read-only ClickHouse SQL. — evidence: "**Capabilities:** explore schema, run read-only ClickHouse SQL, publish live data endpoints, build embedded dashboards." [linked-page]
 - `web-graphed#c3` (availability, demonstrated) leftover29 unused graphed.com 292,950 B titles Graphed - Deploy AI Agents for Marketing. Visible extract is forward-deployed engineers + warehouse hosting; example Facebook Ads Agent Shifted $2.4k. leftover23 Cal.com Graphed Discovery Call stays a booking SPA. leftover29 does not open the keyed MCP. — evidence: "leftover29 graphed-home 292950 B. Marketing agents; example $2.4k shift." [note]
+- `web-graphed#c4` (availability, demonstrated) leftover30 unused mcp.graphed.com/mcp stays keyed. leftover29 homepage leftover stays on #c3. Do not hammer. — evidence: "leftover30-2026-09-05.json skip keyed Graphed MCP." [note]
 **Numbers.** connected sources: 750+  (linked-page)
 **Recipe.** —
 **Techniques.** —

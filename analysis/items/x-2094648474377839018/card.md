@@ -12,11 +12,12 @@
 - `x-2094648474377839018#c1` (availability, stated) Splat2Mesh converts 3DGS data to OBJ/GLB; personal non-commercial use is free. — evidence: "3D Gaussian SplattingデータをOBJ / GLB形式へ変換できます。
 個人利用・非商用利用は無料です。" [post]
 - `x-2094648474377839018#c2` (availability, demonstrated) Live EN product page https://arcana-mfg.com/en/splat2mesh/ is 200 / 73,796 B: Windows 11, OBJ/GLB export, Free for Personal & Non-Commercial Use, EULA-gated download, sample.ply. The English page does not say “no GPU.” Thread status is empty (0 replies, 10 quotes). 3dnchu write-up is 200 / 299,442 B. — evidence: "GET https://arcana-mfg.com/en/splat2mesh/ 200 73796 B. Copy: Windows 11 Supported / Free for Personal Non-Commercial Use / Export to widely used 3D formats such as OBJ and GLB." [note]
+- `x-2094648474377839018#c3` (availability, demonstrated) leftover30 unused GitHub org ArcanaMfg API 1,237 B is type Organization, public_repos 2, followers 0, location Nagano Japan, blog https://arcana-mfg.com/. leftover24 EN splat2mesh page stays on #c2. leftover30 does not download the ZIP. — evidence: "leftover30 gh-arcanamfg 1237 B. Org; 2 public repos; Nagano; blog arcana-mfg.com." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [splat-pipeline](../../techniques/splat-pipeline.md)
 **Tools.** [splat2mesh](../../tools/splat2mesh.md)
-**Links.** repo (https://github.com/ArcanaMfg), product (https://arcana-mfg.com/en/splat2mesh/), https://arcana-mfg.com/splat2mesh/, https://3dnchu.com/archives/splat2mesh/
+**Links.** repo (https://github.com/ArcanaMfg), product (https://arcana-mfg.com/en/splat2mesh/), https://arcana-mfg.com/splat2mesh/, https://3dnchu.com/archives/splat2mesh/, https://github.com/ArcanaMfg
 **Related items.** [web-arcana-splat2mesh](../web-arcana-splat2mesh/card.md), [x-2094826117056414132](../x-2094826117056414132/card.md)
 **Media.**
 `raw/items/x-2094648474377839018/media/quoted-thumb.jpg` (image, carries_technique=true) — Splat2Mesh v1.0 dark UI with bicycle.ply viewport, voxel and polygon reduction controls visible.

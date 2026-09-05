@@ -3,7 +3,7 @@
   "id": "web-flowmapp",
   "source_type": "website",
   "url": "https://www.flowmapp.com/",
-  "title": "Flowmapp — agency sitemap, wireframe, and estimate platform",
+  "title": "Flowmapp \u2014 agency sitemap, wireframe, and estimate platform",
   "author": {
     "name": "Flowmapp",
     "handle": "Flowmapp",
@@ -43,10 +43,20 @@
       "id": "web-flowmapp#c2",
       "text": "Projects export to Figma, PDF, PNG, XML, CSV, or an interactive presentation webpage.",
       "kind": "capability",
-      "evidence": "Export — Figma, PDF, PNG, XML, CSV, webpage",
+      "evidence": "Export \u2014 Figma, PDF, PNG, XML, CSV, webpage",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-flowmapp#c3",
+      "text": "leftover30 unused app.flowmapp.com/signup 1,130 B titles FlowMapp. Visible-text extract is empty (signup SPA). leftover30 does not create an account.",
+      "kind": "availability",
+      "evidence": "leftover30 flowmapp-signup 1130 B. Title FlowMapp. Visible empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshots.md",
+      "confidence": "demonstrated",
       "subject": "landing-ui-motion"
     }
   ],
@@ -59,7 +69,9 @@
     "repo": null,
     "paper": null,
     "product": "https://app.flowmapp.com/signup",
-    "other": [],
+    "other": [
+      "https://app.flowmapp.com/signup"
+    ],
     "related_items": [
       "web-checklist-design",
       "github-google-labs-code-design-md",

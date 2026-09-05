@@ -11,6 +11,7 @@
 **Claims.**
 - `web-cerebras-knowledge-base#c1` (benchmark, stated) Cerebras Knowledge handled 15,000+ internal questions per day within about three months of launch. — evidence: "Claim at publish: **15,000+ questions/day**, widely adopted within ~3 months of launch." [linked-page]
 - `web-cerebras-knowledge-base#c2` (recipe, stated) Slack ingestion re-fetches the entire thread on any new message and distills structured fields before embedding. — evidence: "re-fetch **entire thread** on any new message (parent + all replies as one row)" [linked-page]
+- `web-cerebras-knowledge-base#c3` (availability, demonstrated) leftover30 unused davidgasquez.com and iandmacomber.com neighbor essays are leftover29 on those READY cards. Cerebras blog 500 — do not retry. — evidence: "leftover30-2026-09-05.json skip leftover29 neighbor essays." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

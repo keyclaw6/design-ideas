@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/treg.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-treg-people-search#c4",
+      "text": "leftover30 unused github.com/superdesigndev/treg is leftover24 1,190\u2605. Unused github.com/LessieAI/people-search-bench is leftover23 / leftover27. leftover29 llms.txt stays on #c3.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip leftover24 treg GH + leftover23 bench.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/treg.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],
@@ -97,7 +107,8 @@
     "other": [
       "https://treg.to/llms.txt",
       "https://github.com/LessieAI/people-search-bench",
-      "https://treg.to/people-search"
+      "https://treg.to/people-search",
+      "https://github.com/superdesigndev/treg"
     ],
     "related_items": [
       "github-superdesigndev-treg",

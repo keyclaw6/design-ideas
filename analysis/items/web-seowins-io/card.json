@@ -48,6 +48,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "web-seowins-io#c3",
+      "text": "leftover30 unused youtube.com/watch?v=m7K4hKjnEG4 is a seowins leftover \u2014 do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip seowins YouTube.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seoskill-dev.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,

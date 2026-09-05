@@ -23,4 +23,6 @@ Paper Table 1 WebArena overall SR / steps (684 tasks; Map excluded): Gemini-2.5-
 **2026-09-05 leftover26.** Neighbor unused `openreview.net/forum?id=CGO1hDTHNe` stays gated — do not hammer. Receipt `leftover26-2026-09-05.json`.
 
 **2026-09-05 leftover29.** Neighbor essays now on READY cards: Gasquez **13,726 B** (Aug 2, 2026); Context.ai filesystem **38,717 B** (6 Jun 2026); Macomber post-AI stack **67,426 B** (Aug 30, 2026); Rill **88,734 B** / **3k**; Anthropic Claude Tag Slack **517,319 B**. Receipt `leftover29-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Same leftover29 neighbor essays now recorded as unused-host skips on the sibling READY cards. leftover15 Anthropic self-service URL stays leftover15, not leftover29 Slack. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

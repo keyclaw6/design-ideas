@@ -77,6 +77,16 @@
       "evidence_ref": "analysis/tools/reasoning-bank.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-davidgasquez-context-engineering#c6",
+      "text": "leftover30 unused iandmacomber.com leftover is leftover29 #c4 on that card. Unused leftover15 claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude is a different URL than leftover29 Claude Tag Slack \u2014 already first-party leftover15. No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip leftover29 macomber + leftover15 anthropic URL.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],

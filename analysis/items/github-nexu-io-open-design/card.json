@@ -63,6 +63,16 @@
       "evidence_ref": "analysis/tools/open-design.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-nexu-io-open-design#c4",
+      "text": "leftover30 unused discord.gg/mHAjSMV6gz is a Discord invite \u2014 skip. leftover30 does not join.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip Discord invite.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/open-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

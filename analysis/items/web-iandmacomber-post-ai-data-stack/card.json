@@ -69,6 +69,16 @@
       "evidence_ref": "analysis/tools/reasoning-bank.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-iandmacomber-post-ai-data-stack#c5",
+      "text": "leftover30 unused davidgasquez.com leftover is leftover29 #c5 on that card. No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip leftover29 gasquez neighbor.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": null,

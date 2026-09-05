@@ -63,6 +63,16 @@
       "evidence_ref": "analysis/tools/mengto-skills.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-mengto-skills#c4",
+      "text": "leftover30 unused aura.build host string is leftover18. No new integers.",
+      "kind": "availability",
+      "evidence": "leftover30-2026-09-05.json skip aura.build already leftover18.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mengto-skills.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

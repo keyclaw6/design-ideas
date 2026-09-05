@@ -17,4 +17,6 @@ Workers Free Browser Run (docs 2026-08-20): **10 minutes/day**, 3 concurrent ses
 **2026-09-05 leftover28.** Unused Browser Run overview **138,466 B** names REST `/content` `/screenshot` `/pdf` `/markdown` `/snapshot` `/accessibilityTree` `/scrape` `/json` `/links` `/crawl` plus Live View / Human in the Loop / Session recording / WebMCP (Beta). Still no live session. Receipt `leftover28-2026-09-05.json`.
 
 **2026-09-05 leftover29.** Unused `punkpeye/awesome-mcp-servers` MIT **94,179★**. Unused Glama registry **244,196 B** / **81,811** servers. Unused MCP intro **279,547 B** spec **2026-07-28**. Unused `cloudflare/cloudflare-os` Apache-2.0 **9,655★**. Receipt `leftover29-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused `punkpeye/awesome-mcp-clients` MIT **6,577★**. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->

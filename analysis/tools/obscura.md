@@ -21,4 +21,6 @@
 **2026-09-05 leftover24.** Unused `obscura.sh` **11,965 B**: Star **16.2k**; **<50ms** session start; **10×** leaner vs Chrome. `docs.obscura.sh` **926,821 B** GitBook SPA. Do not collapse 16.2k with local RSS. Receipt `leftover24-2026-09-05.json`.
 
 **2026-09-05 leftover27.** Unused `docs.obscura.sh/llms.txt` **2,687 B**: **21** doc links + GitBook `?ask=` query. Did not run the ask endpoint. Receipt `leftover27-2026-09-05.json`.
+
+**2026-09-05 leftover30.** Unused Obscura GitHub / docs / llms.txt host strings are leftover24/27. Receipt `leftover30-2026-09-05.json`.
 <!-- NOTES:END -->
