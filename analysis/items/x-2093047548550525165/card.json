@@ -47,6 +47,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093047548550525165#c3",
+      "text": "Official GLM-5.3-Flash docs (docs.z.ai/guides/vlm/glm-5.3-flash, 200 / 333,788 B) name it the first native multimodal GLM-5 model: 320B total / 18B activated, 1M context / 128K output, API code glm-5.3-flash. Visual coding loop explicitly includes Blender 3D scenes; a best-practice recipe is “From a Single Description to a Complete Blender Project” with ≥4 build→fixed-camera-render→inspect rounds and a .blend delivery. HF zai-org/GLM-5.3-Flash is MIT, 2,053 likes / 654,957 downloads, arXiv 2602.15763 (paper title GLM-5: from Vibe Coding to Agentic Engineering, v2 2026-02-24). chat.z.ai title is powered by GLM-5.3-Flash. Kitchen-specific “dream kitchen” copy stays tweet-only. zai-org GitHub search for GLM-5.3 returned 0 official repos this pass (weights on HF).",
+      "kind": "capability",
+      "evidence": "docs.z.ai/guides/vlm/glm-5.3-flash 333788 B; HF zai-org/GLM-5.3-Flash MIT 2053 likes 654957 dl arxiv 2602.15763; chat.z.ai title GLM-5.3-Flash; org search total 0. leftover9 + leftover9b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9b-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "numbers": [],
@@ -59,9 +69,12 @@
   "links": {
     "canonical": "https://x.com/louszbd/status/2093047548550525165",
     "repo": null,
-    "paper": null,
-    "product": null,
-    "other": [],
+    "paper": "https://arxiv.org/abs/2602.15763",
+    "product": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+    "other": [
+      "https://docs.z.ai/guides/vlm/glm-5.3-flash",
+      "https://chat.z.ai/"
+    ],
     "related_items": [
       "x-2092255768770920506",
       "note-blender-minimax-h3-video-generation"

@@ -38,6 +38,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2095207624396652956#c2",
+      "text": "No public DesignByMoein DESIGN.md host this pass. designbymoein.com NXDOMAIN. moeindesign.com is a different Moein graphic-design blog (200 / 378,216 B, lorem contact copy, CCTV / Red Bull prompt posts) — do not collapse with @DesignByMoein. Client DESIGN.md stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "designbymoein.com NXDOMAIN; moeindesign.com 378216 B title Moein design, lorem contact. leftover9-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,

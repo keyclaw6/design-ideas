@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2093437790969385283#c3",
+      "text": "Do not collapse Greg Mushen’s Hermes judgment-layer name with NousResearch/hermes-agent. That repo is MIT, 241,533★ (leftover7), homepage https://hermes-agent.nousresearch.com/ 200 / 90,409 B: “The Agent That Grows With You”, Hermes Agent v0.21.0, install.sh, desktop apps for macOS/Windows/Linux. Mushen’s post is an architecture split (judgment / slim skills / deterministic CLIs / telemetry), not that product.",
+      "kind": "counter-claim",
+      "evidence": "leftover7 hermes-nous MIT 241533★ homepage hermes-agent.nousresearch.com; leftover9 homepage 90409 B title Hermes Agent — Open-Source AI Agent That Grows With You v0.21.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": [],

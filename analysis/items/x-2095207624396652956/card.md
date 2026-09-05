@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2095207624396652956#c1` (recipe, stated) The hero section was built with custom skills, a video tool, Cursor, and a client design markdown file. — evidence: "built by Custom Skills + My Video Tool + Cursor + Client design md file and Some Creativity" [post]
+- `x-2095207624396652956#c2` (counter-claim, demonstrated) No public DesignByMoein DESIGN.md host this pass. designbymoein.com NXDOMAIN. moeindesign.com is a different Moein graphic-design blog (200 / 378,216 B, lorem contact copy, CCTV / Red Bull prompt posts) — do not collapse with @DesignByMoein. Client DESIGN.md stays tweet-only. — evidence: "designbymoein.com NXDOMAIN; moeindesign.com 378216 B title Moein design, lorem contact. leftover9-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md)

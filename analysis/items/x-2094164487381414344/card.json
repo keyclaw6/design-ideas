@@ -67,14 +67,28 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2094164487381414344#c3",
+      "text": "Quoted template t.co/KhAZy3E4ZG resolves to Raylight community template SPA https://www.raylight.app/community/templates/q3BBAgWP (200 / 1,660 B, title Raylight; no template body in HTML). Product host https://www.raylight.app/ is 200 / 292,501 B: browser product videos, no After Effects. Pricing annual: Free $0 (1080p + Made in Raylight badge, 50 MCP calls/week); Hobby $12/mo ($15 monthly); Pro $24/mo ($29 monthly); Max $49/mo ($59 monthly). MCP endpoint https://api.raylight.app/mcp. Sound-mode t.co/ClE6SOWP5f resolves to the quoted tvnxty critique tweet 2089024517725168005, not a product page. leftover7 GitHub “claude motion graphics” hits are other repos — do not invent this product’s repo.",
+      "kind": "availability",
+      "evidence": "t.co/KhAZy3E4ZG → raylight.app/community/templates/q3BBAgWP 1660 B; homepage 292501 B; pricing 153257 B; mcp 81128 B; t.co/ClE6SOWP5f → x.com/tvnxty/status/2089024517725168005. leftover9-2026-09-05.json + leftover9b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "links": {
     "canonical": null,
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://www.raylight.app/",
+    "other": [
+      "https://www.raylight.app/community/templates/q3BBAgWP",
+      "https://www.raylight.app/pricing",
+      "https://api.raylight.app/mcp"
+    ],
     "related_items": [
       "x-2088155107544191339",
       "x-2093681908227936745"

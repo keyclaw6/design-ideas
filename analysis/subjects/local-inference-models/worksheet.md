@@ -43,4 +43,4 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 
 1. Paper PDF body is now on the must-read card `#c5` ([freetoken](../../tools/freetoken.md)): **39.3 tok/s** / **<44 s** TTFT / 5090 **77–83** and **22–25**. Abs still omits those two integers. Remaining: one `profile` on a real GPU (none here).
 2. Unsloth `Qwen3.8-27B-GGUF` is **apache-2.0**; Q4_0 file **16.06 GB**; UD-IQ1_S **6.19 GB**. Filenames + sizes on [unsloth](../../tools/unsloth.md). Remaining: a local load timing those envelopes.
-3. Leave Edge8 / Bonsai as device research until weights are linked.
+3. Leave Edge8 / Bonsai as device research until weights are linked. leftover8/9: GitHub `Edge8-35B` **0**, HF search **[]** ([edge8-35b](../../tools/edge8-35b.md); [x-2087562269807030754#c3](../../items/x-2087562269807030754/card.md)).

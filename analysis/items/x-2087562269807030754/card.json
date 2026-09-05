@@ -86,6 +86,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2087562269807030754#c3",
+      "text": "No public Edge8-35B weights this pass. GitHub search Edge8-35B total 0; search edge8+35b total 0; Hugging Face search Edge8-35B returned []. leftover8 GH search also 0. 44 tok/s / 1.06 GB stay tweet-only until a repo or HF card appears.",
+      "kind": "availability",
+      "evidence": "api.github.com/search/repositories?q=Edge8-35B total 0; q=edge8+35b total 0; huggingface.co/api/models?search=Edge8-35B []. leftover8 + leftover9-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "links": {

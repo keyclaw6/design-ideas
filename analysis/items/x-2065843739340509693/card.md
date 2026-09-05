@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2065843739340509693#c1` (capability, demonstrated) The attached clip shows Blender Python driving rigid-body animation in a live viewport. — evidence: "codex + blender is insane" [post]
+- `x-2065843739340509693#c2` (counter-claim, demonstrated) Neighbor in-bank Blender MCP article (quoted on the cafe flythrough card) is Claude Desktop + Blender 4.2+ / official addon, live cube→red-sphere check — not this Codex rigid-body desk clip. This leftover stays a bpy viewport demo; no video-model conditioner and no MCP named in the tweet. — evidence: "blender-mcp NOTES: fxtwitter article 2083925419800002560 3924 chars Claude + Blender MCP. This card media is Codex + bpy rigid-body at a desk. leftover9 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md)

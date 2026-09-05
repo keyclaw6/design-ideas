@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091865940581638285#c1` (availability, stated) Author published a slash-command skill named /have-some-range promoted with an attached demo video. — evidence: "/have-some-range" [post]
 - `x-2091865940581638285#c2` (capability, demonstrated) Demo video shows four distinct color-theme panels rather than one repeated palette. — evidence: "Demo video shows four distinct pixel-art UI themes in red, blue, purple, and green palettes." [media]
+- `x-2091865940581638285#c3` (availability, demonstrated) t.co/zPK69FjkG8 resolves back to this same X post (video), not a skill repo. leftover7 GitHub search `have-some-range` returned 485 unrelated hits (CoderChef-Kitchen, GIBSON, …) — no matching skill repository. Do not invent one. — evidence: "t.co/zPK69FjkG8 → x.com/michaelmicasso/status/2091865940581638285. leftover7 have-range-gh total 485 none named have-some-range. leftover9-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [taste-skill-encoding](../../techniques/taste-skill-encoding.md)

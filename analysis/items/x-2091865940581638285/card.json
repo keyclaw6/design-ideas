@@ -45,6 +45,16 @@
       "evidence_ref": "media/media_0.jpg",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2091865940581638285#c3",
+      "text": "t.co/zPK69FjkG8 resolves back to this same X post (video), not a skill repo. leftover7 GitHub search `have-some-range` returned 485 unrelated hits (CoderChef-Kitchen, GIBSON, …) — no matching skill repository. Do not invent one.",
+      "kind": "availability",
+      "evidence": "t.co/zPK69FjkG8 → x.com/michaelmicasso/status/2091865940581638285. leftover7 have-range-gh total 485 none named have-some-range. leftover9-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "numbers": [],

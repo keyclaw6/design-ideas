@@ -52,6 +52,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2091748299975880994#c3",
+      "text": "No public VanhDesign product host this pass. vanh.design / vanhdesign.com / vanhdesign.io all NXDOMAIN. GitHub user VanhDesign lists 0 public repos. 201 KB HTML + Blender CLI keyboard recipe stays tweet-only.",
+      "kind": "availability",
+      "evidence": "vanh.design / vanhdesign.com / vanhdesign.io NXDOMAIN; api.github.com/users/VanhDesign/repos [] 2 B. leftover9-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": null,

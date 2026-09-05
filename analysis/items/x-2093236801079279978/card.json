@@ -42,6 +42,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2093236801079279978#c2",
+      "text": "First-party Higgsfield homepage https://higgsfield.ai/ is 200 / 530,348 B, title Higgsfield AI — AI-native creative suite. Nav names Image / Video / Audio / Edit / Cinema Studio 4.0 / Marketing Studio / 3D Jutsu / MCP & CLI / Supercomputer. ChatGPT + Fable 5 workflow strings are absent. Pricing URL 200 / 78,150 B is a shell (visible 332 B, no plan table). Neighbor in-bank blog remains 200 / 72,653 B (no 19-minute string). fable.ai is a Spaceship domain listing at $1,500,000 — do not collapse with Fable 5.",
+      "kind": "availability",
+      "evidence": "higgsfield.ai 530348 B; pricing 78150 B visible 332 B; adil blog 72653 B; fable.ai 17853 B title fable.ai for sale $1,500,000. leftover9-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": [],
@@ -59,7 +69,7 @@
     "canonical": "https://x.com/elayadesigns/status/2093236801079279978",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://higgsfield.ai/",
     "other": [],
     "related_items": []
   },

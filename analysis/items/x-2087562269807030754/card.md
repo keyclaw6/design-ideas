@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087562269807030754#c1` (benchmark, stated) Demo reports 44 tokens per second at about 1.06 GB peak memory on one iPhone without cloud. — evidence: "In this demo: 44 tok/s, ~1.06 GB peak memory." [post]
 - `x-2087562269807030754#c2` (capability, stated) The stack pairs a jointly trained dynamic expert planner with an SSD-streaming inference engine. — evidence: "We trained Edge8-35B, an ultra-sparse MoE with a jointly trained dynamic expert planner, and built an SSD-streaming inference engine around it." [post]
+- `x-2087562269807030754#c3` (availability, demonstrated) No public Edge8-35B weights this pass. GitHub search Edge8-35B total 0; search edge8+35b total 0; Hugging Face search Edge8-35B returned []. leftover8 GH search also 0. 44 tok/s / 1.06 GB stay tweet-only until a repo or HF card appears. — evidence: "api.github.com/search/repositories?q=Edge8-35B total 0; q=edge8+35b total 0; huggingface.co/api/models?search=Edge8-35B []. leftover8 + leftover9-2026-09-05.json." [note]
 **Numbers.** throughput: 44 tok/s (post); peak memory: 1.06 GB (post); parameters: 35 B (post)
 **Recipe.** —
 **Techniques.** [moe-expert-offload](../../techniques/moe-expert-offload.md)

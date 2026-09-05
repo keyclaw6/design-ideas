@@ -12,6 +12,7 @@
 - `x-2095352925597884465#c1` (result, stated) Fable 5.1 reportedly one-shotted a quad-turbo W16 engine as a full CAD model with animation. — evidence: "fable 5.1 one shotting a quad-turbo W16 engine
 
 (this is a full CAD model + animation)" [post]
+- `x-2095352925597884465#c2` (counter-claim, demonstrated) No matching Fable 5.1 CAD product host this pass. fable.ai is a Spaceship domain listing (200 / 17,853 B, Buy now $1,500,000). fable.com returned Cloudflare 403 — do not hammer. GitHub search `fable 5.1 cad` total 0. Neighbor earthtojake/text-to-cad already holds a generated W16 covers.step (11,769,007 B, 56 MANIFOLD_SOLID_BREP) — that is the programmatic CAD repo, not a Fable export. Do not invent a Fable STEP from this tweet. — evidence: "fable.ai 17853 B for sale $1,500,000; fable.com 403; GH search fable 5.1 cad total 0. text-to-cad NOTES covers.step 11769007 B. leftover9-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

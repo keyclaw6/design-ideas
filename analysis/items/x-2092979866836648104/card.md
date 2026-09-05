@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2092979866836648104#c1` (recipe, demonstrated) Base prompt specifies premium 16:9 editorial+glossy 3D style with bold typography and high-end materials. — evidence: "Create a premium 16:9 brand campaign visual in a clean editorial + glossy 3D design style." [author-thread]
 - `x-2092979866836648104#c2` (recipe, demonstrated) Authors add one line naming brand, product type, count, theme, and palette to specialize the template. — evidence: "then just add one line describing the actual brand + what you want:" [author-thread]
+- `x-2092979866836648104#c3` (counter-claim, demonstrated) PRYNE and ARCO in this thread are prompt-fill brands, not first-party products. pryne.com is a 616 B wasm-pack “Hello wasm-pack!” page. lexnlin.com NXDOMAIN. Do not treat either host as the campaign template. — evidence: "pryne.com 200 / 616 B title Hello wasm-pack!; lexnlin.com NXDOMAIN. leftover9-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** 1. Paste the base premium 16:9 editorial+glossy-3D campaign prompt. 2. Add one line: brand name, product type, number of visuals, theme, and color palette. 3. Generate and iterate on campaign stills (examples: PRYNE math, ARCO coffee).
 **Techniques.** [prompt-as-code](../../techniques/prompt-as-code.md)

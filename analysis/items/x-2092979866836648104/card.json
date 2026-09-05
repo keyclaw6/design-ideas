@@ -73,6 +73,16 @@
       "evidence_ref": null,
       "confidence": "demonstrated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "x-2092979866836648104#c3",
+      "text": "PRYNE and ARCO in this thread are prompt-fill brands, not first-party products. pryne.com is a 616 B wasm-pack “Hello wasm-pack!” page. lexnlin.com NXDOMAIN. Do not treat either host as the campaign template.",
+      "kind": "counter-claim",
+      "evidence": "pryne.com 200 / 616 B title Hello wasm-pack!; lexnlin.com NXDOMAIN. leftover9-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "links": {

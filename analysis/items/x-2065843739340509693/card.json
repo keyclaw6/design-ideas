@@ -59,6 +59,16 @@
       "evidence_ref": "post.md",
       "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2065843739340509693#c2",
+      "text": "Neighbor in-bank Blender MCP article (quoted on the cafe flythrough card) is Claude Desktop + Blender 4.2+ / official addon, live cube→red-sphere check — not this Codex rigid-body desk clip. This leftover stays a bpy viewport demo; no video-model conditioner and no MCP named in the tweet.",
+      "kind": "counter-claim",
+      "evidence": "blender-mcp NOTES: fxtwitter article 2083925419800002560 3924 chars Claude + Blender MCP. This card media is Codex + bpy rigid-body at a desk. leftover9 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blender-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "links": {

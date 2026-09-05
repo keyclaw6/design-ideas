@@ -1,0 +1,572 @@
+{
+  "fetched_at": "2026-09-05T05:20:00Z",
+  "pages": {
+    "tco-sound": {
+      "url": "https://t.co/ClE6SOWP5f",
+      "final": "https://x.com/tvnxty/status/2089024517725168005",
+      "status": 200,
+      "bytes": 192114,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "bruno on X: \"I respect everyone who builds something, but at this point it seems like there's a new \"Claude for motion graphics\" app every week.\n\nI'm not sure I understand who's the target market? \n\nSerious founders and brands will always opt in for a studio or an experienced motion designer that c\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/tco-sound-visible.txt",
+      "visible_len": 4015,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/tco-sound-excerpt.html"
+    },
+    "tco-template": {
+      "url": "https://t.co/KhAZy3E4ZG",
+      "final": "https://www.raylight.app/community/templates/q3BBAgWP",
+      "status": 200,
+      "bytes": 1660,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Raylight",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/tco-template-visible.txt",
+      "visible_len": 0,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/tco-template-excerpt.html"
+    },
+    "tco-range": {
+      "url": "https://t.co/zPK69FjkG8",
+      "final": "https://x.com/michaelmicasso/status/2091865940581638285",
+      "status": 200,
+      "bytes": 182384,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "MEK.txt on X: \"/have-some-range\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/tco-range-visible.txt",
+      "visible_len": 740,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/tco-range-excerpt.html"
+    },
+    "higgsfield-home": {
+      "url": "https://higgsfield.ai/",
+      "final": "https://higgsfield.ai/",
+      "status": 200,
+      "bytes": 530348,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Higgsfield AI \u2014 AI-native creative suite",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/higgsfield-home-visible.txt",
+      "visible_len": 3948,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/higgsfield-home-excerpt.html"
+    },
+    "fable-ai": {
+      "url": "https://fable.ai/",
+      "final": "https://fable.ai/",
+      "status": 200,
+      "bytes": 17853,
+      "ctype": "text/html",
+      "error": null,
+      "title": "fable.ai for sale | Spaceship.com",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/fable-ai-visible.txt",
+      "visible_len": 573,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/fable-ai-excerpt.html"
+    },
+    "fable-so": {
+      "url": "https://fable.so/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>"
+    },
+    "fable-dev": {
+      "url": "https://fable.dev/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+    },
+    "fable-inc": {
+      "url": "https://www.fable.com/",
+      "final": "https://www.fable.com/",
+      "status": 403,
+      "bytes": 5596,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 403",
+      "title": "Just a moment...",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/fable-inc-visible.txt",
+      "visible_len": 0,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/fable-inc-excerpt.html"
+    },
+    "claude-fable": {
+      "url": "https://www.anthropic.com/claude",
+      "final": "https://claude.com/product/overview",
+      "status": 200,
+      "bytes": 1297545,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "The AI for Problem Solvers | Claude by Anthropic",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/claude-fable-visible.txt",
+      "visible_len": 49698,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/claude-fable-excerpt.html"
+    },
+    "glm-zhipu": {
+      "url": "https://z.ai/",
+      "final": "https://chat.z.ai/",
+      "status": 200,
+      "bytes": 15727,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.3-Flash",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/glm-zhipu-visible.txt",
+      "visible_len": 0,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/glm-zhipu-excerpt.html"
+    },
+    "glm-open": {
+      "url": "https://open.bigmodel.cn/",
+      "final": "https://open.bigmodel.cn/",
+      "status": 200,
+      "bytes": 3967,
+      "ctype": "text/html",
+      "error": null,
+      "title": "\u667a\u8c31\u4e28BigModel \u5e73\u53f0",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/glm-open-visible.txt",
+      "visible_len": 0,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/glm-open-excerpt.html"
+    },
+    "glm-docs": {
+      "url": "https://docs.z.ai/",
+      "final": "https://docs.z.ai/guides/overview/quick-start",
+      "status": 200,
+      "bytes": 423788,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Quick Start - Overview - Z.AI DEVELOPER DOCUMENT",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/glm-docs-visible.txt",
+      "visible_len": 7504,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/glm-docs-excerpt.html"
+    },
+    "vanh-design": {
+      "url": "https://vanh.design/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+    },
+    "vanhdesign-com": {
+      "url": "https://vanhdesign.com/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+    },
+    "vanhdesign-io": {
+      "url": "https://vanhdesign.io/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+    },
+    "designbymoein": {
+      "url": "https://designbymoein.com/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+    },
+    "moeindesign": {
+      "url": "https://www.moeindesign.com/",
+      "final": "https://www.moeindesign.com/",
+      "status": 200,
+      "bytes": 378216,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Moein design",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/moeindesign-visible.txt",
+      "visible_len": 2064,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/moeindesign-excerpt.html"
+    },
+    "pryne": {
+      "url": "https://pryne.com/",
+      "final": "https://pryne.com/",
+      "status": 200,
+      "bytes": 616,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Hello wasm-pack!",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/pryne-visible.txt",
+      "visible_len": 0,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/pryne-excerpt.html"
+    },
+    "lexnlin": {
+      "url": "https://lexnlin.com/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+    },
+    "raylight": {
+      "url": "https://raylight.ai/",
+      "final": "https://raylight.ai/",
+      "status": 308,
+      "bytes": 0,
+      "ctype": null,
+      "error": "HTTPError 308"
+    },
+    "raylight-app": {
+      "url": "https://www.raylight.app/",
+      "final": "https://www.raylight.app/",
+      "status": 200,
+      "bytes": 292501,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Raylight: Build beautiful product videos in minutes",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/raylight-app-visible.txt",
+      "visible_len": 3254,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/raylight-app-excerpt.html"
+    },
+    "cyburns": {
+      "url": "https://cyburns.com/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+    },
+    "hermes-nous-home": {
+      "url": "https://hermes-agent.nousresearch.com/",
+      "final": "https://hermes-agent.nousresearch.com/",
+      "status": 200,
+      "bytes": 90409,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Hermes Agent \u2014 Open-Source AI Agent That Grows With You | Nous Research",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/hermes-nous-home-visible.txt",
+      "visible_len": 1606,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/hermes-nous-home-excerpt.html"
+    },
+    "edge8-gh-search": {
+      "url": "https://api.github.com/search/repositories?q=Edge8-35B",
+      "final": "https://api.github.com/search/repositories?q=Edge8-35B",
+      "status": 200,
+      "bytes": 55,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/edge8-gh-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 0,
+        "items": null
+      }
+    },
+    "edge8-gh-search2": {
+      "url": "https://api.github.com/search/repositories?q=edge8+35b",
+      "final": "https://api.github.com/search/repositories?q=edge8+35b",
+      "status": 200,
+      "bytes": 55,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/edge8-gh-search2.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 0,
+        "items": null
+      }
+    },
+    "glm-gh-search": {
+      "url": "https://api.github.com/search/repositories?q=GLM-5.3-Flash",
+      "final": "https://api.github.com/search/repositories?q=GLM-5.3-Flash",
+      "status": 200,
+      "bytes": 186279,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/glm-gh-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 218,
+        "items": [
+          {
+            "full_name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
+            "stars": 342,
+            "license": "MIT",
+            "desc": "GLM-5.3 Flash EXL3 for 2x DGX Sparks"
+          },
+          {
+            "full_name": "Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report",
+            "stars": 1024,
+            "license": "NOASSERTION",
+            "desc": "GLM-5.3-Flash \u00d7 J-Space capability realization \u2014 benchmark presentation of the J-Space Cognition Suite"
+          },
+          {
+            "full_name": "sqliteai/warp",
+            "stars": 2356,
+            "license": "Apache-2.0",
+            "desc": "Run the full 2.78-trillion-parameter Kimi K3 model or GLM-5.3-Flash beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inferenc"
+          },
+          {
+            "full_name": "local-ai-zone/local-ai-zone.github.io",
+            "stars": 30,
+            "license": "MIT",
+            "desc": "Kimi K3, deepseek v4 flash, glm 5.2,  qwen 3.8 27b, Muse Glimmer, Nemotron, glm 5.3, ox alpha, glm 5.3 flash, mimo 3"
+          },
+          {
+            "full_name": "yhfgyyf/vllm-deepseek-v4-sm89",
+            "stars": 139,
+            "license": "Apache-2.0",
+            "desc": "Run DeepSeek-V4-Flash / Vision-Exp and GLM-5.3-Flash on SM89 (Ada / RTX 4090) and SM120 (RTX PRO 6000) with vLLM"
+          },
+          {
+            "full_name": "tonyd2wild/GLM-5.3-Flash-NVFP4-DFlash2-2x-DGX-Spark",
+            "stars": 151,
+            "license": null,
+            "desc": "GLM-5.3-Flash (NVFP4) on 2x NVIDIA DGX Spark - vLLM TP2, 262K context, MTP. World-first deploy recipe: 7 day-0 bugs found and fixed, patched sm121 image, probes and full report."
+          },
+          {
+            "full_name": "vukrosic/glm-5.3-flash-from-scratch",
+            "stars": 74,
+            "license": "MIT",
+            "desc": "A 25.7M-parameter GLM-5.3-Flash-inspired model trained from scratch and improved with executable-reward RL."
+          },
+          {
+            "full_name": "MiaAI-Lab/GLM-5.3-Flash-NVFP4-Dual-DGX-Spark",
+            "stars": 76,
+            "license": "MIT",
+            "desc": "2x DGX Spark recipe for LibertAIDAI/GLM-5.3-Flash-NVFP4 (NVFP4, Ray TP=2, multimodal)"
+          }
+        ]
+      }
+    },
+    "fable-gh-search": {
+      "url": "https://api.github.com/search/repositories?q=fable+5.1+cad",
+      "final": "https://api.github.com/search/repositories?q=fable+5.1+cad",
+      "status": 200,
+      "bytes": 55,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/fable-gh-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 0,
+        "items": null
+      }
+    },
+    "vanh-gh": {
+      "url": "https://api.github.com/users/VanhDesign/repos?per_page=20",
+      "final": "https://api.github.com/users/VanhDesign/repos?per_page=20",
+      "status": 200,
+      "bytes": 2,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/vanh-gh.json",
+      "json_summary": {
+        "len": 0,
+        "head": []
+      }
+    },
+    "hf-glm": {
+      "url": "https://huggingface.co/api/models?search=GLM-5.3-Flash&limit=8",
+      "final": "https://huggingface.co/api/models?search=GLM-5.3-Flash&limit=8",
+      "status": 200,
+      "bytes": 4626,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/hf-glm.json",
+      "json_summary": {
+        "len": 8,
+        "head": [
+          {
+            "_id": "6a8d39822a943ad8a2f2ea50",
+            "id": "zai-org/GLM-5.3-Flash",
+            "likes": 2053,
+            "trendingScore": 445,
+            "private": false,
+            "downloads": 654957,
+            "tags": [
+              "transformers",
+              "safetensors",
+              "glm5_next",
+              "image-text-to-text",
+              "conversational",
+              "en",
+              "zh",
+              "arxiv:2602.15763",
+              "license:mit",
+              "eval-results",
+              "endpoints_compatible",
+              "fp8",
+              "region:us"
+            ],
+            "pipeline_tag": "image-text-to-text",
+            "library_name": "transformers",
+            "createdAt": "2026-08-25T06:43:14.000Z",
+            "modelId": "zai-org/GLM-5.3-Flash"
+          },
+          {
+            "_id": "6a9286970a88c73a41f88da9",
+            "id": "orcarouter/GLM-5.3-Flash-Uncensored-FP8",
+            "likes": 183,
+            "trendingScore": 160,
+            "private": false,
+            "downloads": 7782,
+            "tags": [
+              "transformers",
+              "safetensors",
+              "glm5_next",
+              "image-text-to-text",
+              "abliterated",
+              "glm",
+              "glm5",
+              "glm-5.3-flash",
+              "uncensored",
+              "ai-red-team",
+              "red-teaming",
+              "moe",
+              "vision-language",
+              "function-calling",
+              "reasoning",
+              "mtp",
+              "fp8",
+              "post-training",
+              "fine-tuning",
+              "text-generation",
+              "conversational",
+              "en",
+              "zh",
+              "base_model:zai-org/GLM-5.3-Flash",
+              "base_model:finetune:zai-org/GLM-5.3-Flash",
+              "license:mit",
+              "endpoints_compatible",
+              "region:us"
+            ],
+            "pipeline_tag": "text-generation",
+            "library_name": "transformers",
+            "createdAt": "2026-08-29T07:13:27.000Z",
+            "modelId": "orcarouter/GLM-5.3-Flash-Uncensored-FP8"
+          },
+          {
+            "_id": "6a8ef65b58482bb8b9d2a681",
+            "id": "unsloth/GLM-5.3-Flash-GGUF",
+            "likes": 366,
+            "trendingScore": 111,
+            "private": false,
+            "downloads": 85158,
+            "tags": [
+              "gguf",
+              "unsloth",
+              "glm5_next",
+              "text-generation",
+              "en",
+              "zh",
+              "arxiv:2602.15763",
+              "base_model:zai-org/GLM-5.3-Flash",
+              "base_model:quantized:zai-org/GLM-5.3-Flash",
+              "license:mit",
+              "endpoints_compatible",
+              "region:us",
+              "conversational"
+            ],
+            "pipeline_tag": "text-generation",
+            "createdAt": "2026-08-26T14:21:15.000Z",
+            "modelId": "unsloth/GLM-5.3-Flash-GGUF"
+          },
+          {
+            "_id": "6a94f224e9c40d15b705a308",
+            "id": "orcarouter/GLM-5.3-Flash-Uncensored-NVFP4",
+            "likes": 47,
+            "trendingScore": 45,
+            "private": false,
+            "downloads": 1171,
+            "tags": [
+              "transformers",
+              "safetensors",
+              "glm5_next",
+              "image-text-to-text",
+              "abliterated",
+              "uncensored",
+              "glm",
+              "glm5",
+              "glm-5.3-flash",
+              "glm5-next",
+              "moe",
+              "nvfp4",
+              "fp4",
+              "compressed-tensors",
+              "vllm",
+              "vision-language",
+              "function-calling",
+              "reasoning",
+              "mtp",
+              "ai-red-team",
+              "red-teaming",
+              "conversational",
+              "en",
+              "zh",
+              "base_model:zai-org/GLM-5.3-Flash",
+              "base_model:quantized:zai-org/GLM-5.3-Flash",
+              "license:mit",
+              "endpoints_compatible",
+              "8-bit",
+              "region:us"
+            ],
+            "pipeline_tag": "image-text-to-text",
+            "library_name": "transformers",
+            "createdAt": "2026-08-31T03:16:52.000Z",
+            "modelId": "orcarouter/GLM-5.3-Flash-Uncensored-NVFP4"
+          },
+          {
+            "_id": "6a8f5600e8e799f3299d529f",
+            "id": "dealignai/GLM-5.3-Flash-UNCENSORED-FP8",
+            "likes": 74,
+            "trendingScore": 28,
+            "private": false,
+            "downloads": 2317,
+            "tags": [
+              "safetensors",
+              "glm5_next",
+              "abliterated",
+              "uncensored",
+              "crack",
+              "glm",
+              "moe",
+              "fp8",
+              "vision",
+              "mtp",
+              "en",
+              "base_model:zai-org/GLM-5.3-Flash",
+              "base_model:quantized:zai-org/GLM-5.3-Flash",
+              "license:mit",
+              "region:us"
+            ],
+            "createdAt": "2026-08-26T21:09:20.000Z",
+            "modelId": "dealignai/GLM-5.3-Flash-UNCENSORED-FP8"
+          }
+        ]
+      }
+    },
+    "hf-edge8": {
+      "url": "https://huggingface.co/api/models?search=Edge8-35B&limit=8",
+      "final": "https://huggingface.co/api/models?search=Edge8-35B&limit=8",
+      "status": 200,
+      "bytes": 2,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover9-2026-09-05/hf-edge8.json",
+      "json_summary": {
+        "len": 0,
+        "head": []
+      }
+    }
+  }
+}

@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091748299975880994#c1` (capability, stated) Template is one HTML file about 201 KB plus the model, WebGPU rendered, no Three.js and no manual steps. — evidence: "One HTML file, 201 KB + the model, no ThreeJs, no manual steps, simple prompts to fix." [post]
 - `x-2091748299975880994#c2` (recipe, stated) Keyboard geometry is modeled in Blender from the command line and rendered in WebGPU so wireframe and finished views share the same mesh. — evidence: "The keyboard is modelled in Blender from a command line and rendered with WebGPU, so the wireframe you see on the left is the same geometry as the finished aluminium on the right." [post]
+- `x-2091748299975880994#c3` (availability, demonstrated) No public VanhDesign product host this pass. vanh.design / vanhdesign.com / vanhdesign.io all NXDOMAIN. GitHub user VanhDesign lists 0 public repos. 201 KB HTML + Blender CLI keyboard recipe stays tweet-only. — evidence: "vanh.design / vanhdesign.com / vanhdesign.io NXDOMAIN; api.github.com/users/VanhDesign/repos [] 2 B. leftover9-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md), [scroll-driven-3d](../../techniques/scroll-driven-3d.md)

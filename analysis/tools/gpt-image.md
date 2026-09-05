@@ -6,5 +6,5 @@
 - [GPT brand-campaign prompt template with PRYNE examples](../items/x-2092979866836648104/card.md) — technique, example — image-prompt-galleries
 
 <!-- NOTES:START -->
-
+**2026-09-05 capture — leftover9 PRYNE/ARCO are prompt-fill brands.** `pryne.com` is a **616 B** wasm-pack “Hello wasm-pack!” page. `lexnlin.com` NXDOMAIN. Do not treat either host as the LexnLin campaign template ([x-2092979866836648104](../items/x-2092979866836648104/card.md)). Receipt `leftover9-2026-09-05.json`.
 <!-- NOTES:END -->

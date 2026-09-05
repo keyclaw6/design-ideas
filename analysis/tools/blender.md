@@ -11,5 +11,5 @@
 - [Blender camera lock plus Seedance 2.5 skin via Higgsfield plugin](../items/x-2093377271771865267/card.md) — technique, example — blockout-to-video-flythrough
 
 <!-- NOTES:START -->
-
+**2026-09-05 capture — leftover9 Codex desk clip is not blender-mcp.** [x-2065843739340509693](../items/x-2065843739340509693/card.md) is Codex + bpy rigid-body at a desk. Neighbor Claude + Blender MCP article (3,924 chars) lives on [blender-mcp](blender-mcp.md) and the cafe flythrough card — do not collapse the two. Receipt leftover9 attach.
 <!-- NOTES:END -->
