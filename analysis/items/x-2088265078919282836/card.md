@@ -2,7 +2,7 @@
 
 `x-2088265078919282836` · x · demo-video · en · [source](https://x.com/titepommee/status/2088265078919282836) · [raw](../../../raw/items/x-2088265078919282836/)
 **Author:** — (@titepommee) · **Published:** — · **Captured:** 2026-09-04T06:52:23Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [web-3d-scenes](../../subjects/web-3d-scenes/brief.md) · **Also:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Roles:** technique, example · **Platforms:** claude-code, three-js
 
 **Summary.** Recommendation to watch Meng To walk through advanced Three.js landing pages using Claude Code and Opus 5, covering structure, motion, and implementation as onboarding for Meng skill packs and scroll-world stacks.
