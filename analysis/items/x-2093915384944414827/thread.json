@@ -62,13 +62,6 @@
       "target": "https://api.fxtwitter.com/himanshubuildss/status/2093915384944414827",
       "outcome": "error",
       "note": "reply count only; never a reply capture"
-    },
-    {
-      "at": "2026-09-05T00:45:00Z",
-      "method": "fxtwitter-api",
-      "target": "https://api.fxtwitter.com/himanshubuildss/status/2093915384944414827",
-      "outcome": "ok",
-      "note": "amplify video 533.524 s / 1920x1080; replies 2 still unfetched; status stays failed"
     }
   ],
   "raw_payloads": [
