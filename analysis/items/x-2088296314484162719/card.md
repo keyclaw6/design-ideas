@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2088296314484162719#c1` (capability, stated) The described Fusion workflow finds fasteners in a large assembly, hides everything else, and changes dimensions across screw sizes from plain English. — evidence: "find specific fasteners inside a large assembly, hide everything else, change dimensions across different screw sizes" [post]
 - `x-2088296314484162719#c2` (opinion, stated) MCP-style agents that understand existing engineering data can automate find-filter-param-pattern work on live assemblies. — evidence: "once MCP-style agents can reliably understand what is already inside a real engineering project, the boring half of CAD work starts looking suspiciously automatable." [post]
+- `x-2088296314484162719#c3` (capability, demonstrated) In-bank Fusion MCP NOTES: official Fusion MCP is four broad raw-Python tools at 127.0.0.1:27182/mcp; community wrapper Mfrostbutter/fusion-cad-mcp registers 75/74 tools including assembly/joints and export step/f3d. Quoted X article 2089992746178150400 argues MCP is not text-to-3D. This leftover’s fastener-search / hide-rest / English screw-size edit is not a recorded STEP/F3D session here (no Fusion seat). — evidence: "autodesk-fusion NOTES: official 4 tools; wrapper 75/74; article 14743 chars. leftover10 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

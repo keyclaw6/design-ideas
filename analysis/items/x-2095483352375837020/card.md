@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2095483352375837020#c1` (recipe, stated) Local MiniMax H3 processing helps finalize direction before API calls, reducing waste. — evidence: "ローカルで方向性が定まってからAPIに投げられるので無駄が少ない" [post]
+- `x-2095483352375837020#c2` (pricing, demonstrated) In-bank Hailuo H3 first-party: hailuoai.video/pricing 617,559 B names Standard $14.99/mo / Pro $54.99/mo; research blog 98,310 B (15 s @ 2K; weights planned). Tool page “Free Credits to Start Creating!” is a signup bonus, not a local-unlimited H3 quota. This leftover’s “lock direction locally then API” recipe stays tweet-only — the live pages do not document a local H3 renderer. — evidence: "minimax-h3 NOTES: pricing 617559 B Standard $14.99 / Pro $54.99; blog 98310 B. leftover10 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [agent-video-editing](../../techniques/agent-video-editing.md)

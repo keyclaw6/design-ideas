@@ -43,6 +43,16 @@
       "evidence_ref": "raw/items/x-2091571624390881664/post.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2091571624390881664#c2",
+      "text": "Neighbor MengTo/Skills is a capture-to-prompt skill pack (github-mengto-skills), not a 60-component Three.js gallery. In-bank tutorial pointer is an X video 2411.133 s / 2880×2160, no docs/YouTube URL. Tweet “60 more three.js components” is not a counted in-repo list this pass — do not treat Skills as that inventory.",
+      "kind": "counter-claim",
+      "evidence": "mengto-skills NOTES: 40-min tutorial is X video 2411.133 s. github-mengto-skills claims are video→HTML / stitched capture, no 60-component count. leftover10 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mengto-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],

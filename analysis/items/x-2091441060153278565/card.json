@@ -41,6 +41,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2091441060153278565#c2",
+      "text": "Do not collapse MiniMax M3 (this leftover’s logo-to-brand-film claim) with MiniMax H3. In-bank H3 first-party is Hailuo pricing + blog (15 s @ 2K). Those pages do not document an M3 logo-to-film workflow. Tweet “polished premium brand film” stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "minimax-h3 NOTES hailuo pricing/blog. This card names MiniMax M3, not H3. leftover10 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": [],

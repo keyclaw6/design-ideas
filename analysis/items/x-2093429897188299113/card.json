@@ -47,6 +47,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2093429897188299113#c3",
+      "text": "Neighbor REAP-288 HF README (sh0wie/Qwen3.8-Flash-Next-REAP-288-MLX-4bit) is 288 experts / 68 GB resident or 39 GB streamed / 91.5% HumanEval — not this leftover’s 60% experts-on-disk / 37 GB / 40 tok/s M4 Max. Unsloth Qwen3.8-27B Q4_0 file is 16.06 GB (tweet ~17 GB is a RAM envelope). Do not collapse 37 / 39 / 68.",
+      "kind": "counter-claim",
+      "evidence": "unsloth NOTES REAP-288 68 GB resident / 39 GB streamed; Q4_0 16056478688 B. leftover10 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unsloth.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "recipe_steps": null,

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2091441060153278565#c1` (capability, stated) MiniMax M3 can turn a simple logo into a polished premium brand film with little effort. — evidence: "MiniMax M3 can turn a simple logo into a polished, premium brand film with surprisingly little effort." [post]
+- `x-2091441060153278565#c2` (counter-claim, demonstrated) Do not collapse MiniMax M3 (this leftover’s logo-to-brand-film claim) with MiniMax H3. In-bank H3 first-party is Hailuo pricing + blog (15 s @ 2K). Those pages do not document an M3 logo-to-film workflow. Tweet “polished premium brand film” stays tweet-only. — evidence: "minimax-h3 NOTES hailuo pricing/blog. This card names MiniMax M3, not H3. leftover10 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

@@ -36,6 +36,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2095483352375837020#c2",
+      "text": "In-bank Hailuo H3 first-party: hailuoai.video/pricing 617,559 B names Standard $14.99/mo / Pro $54.99/mo; research blog 98,310 B (15 s @ 2K; weights planned). Tool page “Free Credits to Start Creating!” is a signup bonus, not a local-unlimited H3 quota. This leftover’s “lock direction locally then API” recipe stays tweet-only — the live pages do not document a local H3 renderer.",
+      "kind": "pricing",
+      "evidence": "minimax-h3 NOTES: pricing 617559 B Standard $14.99 / Pro $54.99; blog 98310 B. leftover10 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": [],

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2091571624390881664#c1` (result, stated) Author added 60 more Three.js components created with Claude Code variant prompts. — evidence: "I added 60 more three.js components from experiments I made over the last two weeks." [post]
+- `x-2091571624390881664#c2` (counter-claim, demonstrated) Neighbor MengTo/Skills is a capture-to-prompt skill pack (github-mengto-skills), not a 60-component Three.js gallery. In-bank tutorial pointer is an X video 2411.133 s / 2880×2160, no docs/YouTube URL. Tweet “60 more three.js components” is not a counted in-repo list this pass — do not treat Skills as that inventory. — evidence: "mengto-skills NOTES: 40-min tutorial is X video 2411.133 s. github-mengto-skills claims are video→HTML / stitched capture, no 60-component count. leftover10 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [scroll-driven-3d](../../techniques/scroll-driven-3d.md), [taste-skill-encoding](../../techniques/taste-skill-encoding.md)

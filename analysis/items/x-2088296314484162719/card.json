@@ -52,6 +52,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2088296314484162719#c3",
+      "text": "In-bank Fusion MCP NOTES: official Fusion MCP is four broad raw-Python tools at 127.0.0.1:27182/mcp; community wrapper Mfrostbutter/fusion-cad-mcp registers 75/74 tools including assembly/joints and export step/f3d. Quoted X article 2089992746178150400 argues MCP is not text-to-3D. This leftover’s fastener-search / hide-rest / English screw-size edit is not a recorded STEP/F3D session here (no Fusion seat).",
+      "kind": "capability",
+      "evidence": "autodesk-fusion NOTES: official 4 tools; wrapper 75/74; article 14743 chars. leftover10 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/autodesk-fusion.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],

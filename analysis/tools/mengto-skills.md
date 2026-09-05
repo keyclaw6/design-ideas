@@ -8,4 +8,6 @@
 
 <!-- NOTES:START -->
 **2026-09-05 capture — Meng To 40-min Three.js tutorial is an X video.** Pointer card `x-2088265078919282836` has no docs/YouTube URL. Quoted tweet `MengTo/2088117711868227765`: “I recorded a 40-min tutorial on how to create three.js landing pages using Claude Code and Opus 5.” Amplify video **2411.133 s** (40.18 min), **2880×2160**. No `urls` on the tweet. Receipt `analysis/_work/captures/mengto-threejs-tutorial-2088117711868227765.json`.
+
+**2026-09-05 capture — leftover10 60-component tweet is not this repo.** [x-2091571624390881664](../items/x-2091571624390881664/card.md) “60 more three.js components” is not a counted in-repo list on MengTo/Skills (that pack is video→HTML / stitched capture). Do not treat Skills as that inventory.
 <!-- NOTES:END -->

@@ -60,6 +60,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093663876692754713#c2",
+      "text": "In-bank Higgsfield first-party: homepage 200 / 530,348 B (Cinema Studio 4.0 / 3D Jutsu / MCP & CLI / Supercomputer) plus adilinthewild workflow blog 200 / 72,653 B. This leftover’s Claude Desktop → Blender MCP → 1080p playblast → Seedance 2.5 motion-reference recipe is not on those HTML pages. Tweet one-shot / 100% camera control stays tweet-only.",
+      "kind": "availability",
+      "evidence": "higgsfield NOTES leftover9 homepage 530348 B + adil blog 72653 B. leftover10 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/higgsfield.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "links": {

@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2093429897188299113#c1` (capability, stated) Sixty percent of experts are stored on disk and stream to memory on demand, similar to n-gram streaming. — evidence: "I stored 60% of experts on disk which stream to memory on-demand. Similar technique as n-gram streaming" [post]
 - `x-2093429897188299113#c2` (benchmark, stated) Full experts without pruning run in thirty-seven gigabytes and decode at forty tokens per second on M4 Max. — evidence: "Just eval'd with FULL experts (no prune) running on just 37gb of memory and decoding at 40 tok/s on my M4 Max" [post]
+- `x-2093429897188299113#c3` (counter-claim, demonstrated) Neighbor REAP-288 HF README (sh0wie/Qwen3.8-Flash-Next-REAP-288-MLX-4bit) is 288 experts / 68 GB resident or 39 GB streamed / 91.5% HumanEval — not this leftover’s 60% experts-on-disk / 37 GB / 40 tok/s M4 Max. Unsloth Qwen3.8-27B Q4_0 file is 16.06 GB (tweet ~17 GB is a RAM envelope). Do not collapse 37 / 39 / 68. — evidence: "unsloth NOTES REAP-288 68 GB resident / 39 GB streamed; Q4_0 16056478688 B. leftover10 attach." [note]
 **Numbers.** experts stored on disk: 60 % (post); resident memory with full experts: 37 GB (post); decode speed on M4 Max: 40 tok/s (post)
 **Recipe.** —
 **Techniques.** [moe-expert-offload](../../techniques/moe-expert-offload.md)

@@ -1,0 +1,122 @@
+{
+  "bonsai-gh": {
+    "status": 200,
+    "bytes": 37253,
+    "final": "https://api.github.com/search/repositories?q=Bonsai-1.7B",
+    "ctype": "application/json; charset=utf-8",
+    "total": 7,
+    "items": [
+      {
+        "full_name": "nbardy/bonzai-webgpu",
+        "stars": 3,
+        "desc": "Pure WebGPU 1-bit inference for Bonsai 1.7B (prism-ml/Bonsai-1.7B). Runs the 1.25-bit affine quantized model entirely in-browser at ~45 tok/s via custom WGSL co"
+      },
+      {
+        "full_name": "eSlider/bonsai-ollama",
+        "stars": 2,
+        "desc": "HTTP proxy serving PrismML Bonsai 1.7B (Q1_0 GGUF) through an Ollama-compatible API via llama-server."
+      },
+      {
+        "full_name": "qharo/Bonsai-1.7B-Ternary",
+        "stars": 0,
+        "desc": "An optimized C inference engine for Ternary-Bonsai-1.7B "
+      },
+      {
+        "full_name": "watzon/ternary-vlm-1.7b",
+        "stars": 1,
+        "desc": "First ternary (1.58-bit) vision-language model. CLIP ViT-L + trained projector + Ternary Bonsai 1.7B. Research artifact."
+      },
+      {
+        "full_name": "vieduy/bonsai-sample-app",
+        "stars": 0,
+        "desc": "A minimal SwiftUI iPhone app that runs Bonsai-1.7B (1-bit, Q1_0) on-device via upstream llama.cpp with the Metal GPU backend."
+      }
+    ]
+  },
+  "prismml-gh": {
+    "status": 200,
+    "bytes": 55,
+    "final": "https://api.github.com/search/repositories?q=org:PrismML+OR+PrismML+Bonsai",
+    "ctype": "application/json; charset=utf-8",
+    "total": 0,
+    "items": []
+  },
+  "hf-bonsai": {
+    "status": 200,
+    "bytes": 3682,
+    "final": "https://huggingface.co/api/models?search=Bonsai-1.7B&limit=8",
+    "ctype": "application/json; charset=utf-8",
+    "len": 8,
+    "head": [
+      {
+        "id": "prism-ml/Bonsai-1.7B-gguf",
+        "likes": 91,
+        "downloads": 66378
+      },
+      {
+        "id": "prism-ml/Ternary-Bonsai-1.7B-mlx-2bit",
+        "likes": 20,
+        "downloads": 1304
+      },
+      {
+        "id": "prism-ml/Ternary-Bonsai-1.7B-gguf",
+        "likes": 44,
+        "downloads": 5549
+      },
+      {
+        "id": "prism-ml/Bonsai-1.7B-mlx-1bit",
+        "likes": 22,
+        "downloads": 1300
+      },
+      {
+        "id": "prism-ml/Bonsai-1.7B-unpacked",
+        "likes": 13,
+        "downloads": 4428
+      }
+    ]
+  },
+  "hf-prism": {
+    "status": 200,
+    "bytes": 4477,
+    "final": "https://huggingface.co/api/models?search=PrismML+Bonsai&limit=8",
+    "ctype": "application/json; charset=utf-8",
+    "len": 8,
+    "head": [
+      {
+        "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+        "likes": 1268,
+        "downloads": 636343
+      },
+      {
+        "id": "prism-ml/Bonsai-27B-gguf",
+        "likes": 836,
+        "downloads": 496970
+      },
+      {
+        "id": "prism-ml/Bonsai-27B-mlx-1bit",
+        "likes": 234,
+        "downloads": 1638176
+      },
+      {
+        "id": "prism-ml/Bonsai-8B-gguf",
+        "likes": 777,
+        "downloads": 117876
+      },
+      {
+        "id": "prism-ml/Ternary-Bonsai-8B-gguf",
+        "likes": 148,
+        "downloads": 364254
+      }
+    ]
+  },
+  "prismml": {
+    "status": 200,
+    "bytes": 96797,
+    "final": "https://prismml.com/",
+    "ctype": "text/html; charset=utf-8",
+    "title": "PrismML \u2014 Concentrating intelligence"
+  },
+  "prismml-ai": {
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
+  }
+}

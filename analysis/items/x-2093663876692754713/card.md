@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093663876692754713#c1` (result, stated) Author claims one-shot Seedance results with full camera and framing control using a Blender playblast reference. — evidence: "One-shot results with 100% camera & framing control." [post]
+- `x-2093663876692754713#c2` (availability, demonstrated) In-bank Higgsfield first-party: homepage 200 / 530,348 B (Cinema Studio 4.0 / 3D Jutsu / MCP & CLI / Supercomputer) plus adilinthewild workflow blog 200 / 72,653 B. This leftover’s Claude Desktop → Blender MCP → 1080p playblast → Seedance 2.5 motion-reference recipe is not on those HTML pages. Tweet one-shot / 100% camera control stays tweet-only. — evidence: "higgsfield NOTES leftover9 homepage 530348 B + adil blog 72653 B. leftover10 attach." [note]
 **Numbers.** —
 **Recipe.** 1. Connect Claude Desktop to Blender via the Higgsfield MCP bridge 2. Let Claude generate your 3D gray-box blockout scene in minutes 3. Tweak your camera path & render a 1080p playblast 4. Feed the blockout into Seedance 2.5 as a motion reference
 **Techniques.** —
