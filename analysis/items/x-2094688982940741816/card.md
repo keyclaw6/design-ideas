@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2094688982940741816#c1` (recipe, stated) Brave submit flow is three steps: open search.brave.com/submit-url, enter the URL, and press Submit. — evidence: "Go to search∙brave∙com/submit-url." [quoted-post]
 - `x-2094688982940741816#c2` (result, stated) Analytics screenshot highlights search.brave.com referral at 1,190 sessions (1.34%) on an 88,974-session total. — evidence: "search.brave.com / referral 1,190 (1.34%)" [media]
+- `x-2094688982940741816#c3` (availability, demonstrated) Brave submit-url is HTTP 429 / 73,802 B this bank; seowins.io is HTTP 403. 1,190 sessions / 1.34% of 88,974 stay on the analytics screenshot. Do not hammer either host. — evidence: "mustread-retry.json brave 429; leftover-2026-09-05.json seowins 403. leftover18 attach." [note]
 **Numbers.** Brave referral sessions: 1190 sessions (media); Brave referral share: 1.34 percent (media); total sessions in table: 88974 sessions (media)
 **Recipe.** —
 **Techniques.** [alternate-engine-indexing](../../techniques/alternate-engine-indexing.md), [alternate-engine-indexing](../../techniques/alternate-engine-indexing.md)

@@ -34,10 +34,20 @@
       "id": "x-2093964632562253866#c1",
       "text": "Brave Search indexing starts at search.brave.com/submit-url where you enter a URL and press Submit.",
       "kind": "recipe",
-      "evidence": "1. Go to search∙brave∙com/submit-url.\n2. Enter your website URL now.\n3. Press the Submit button.",
+      "evidence": "1. Go to search\u2219brave\u2219com/submit-url.\n2. Enter your website URL now.\n3. Press the Submit button.",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2093964632562253866#c2",
+      "text": "Official submit-url host is HTTP 429 / 73,802 B this bank; help page 429 / 2,404 B. Three-step leftover stays a tweet/screenshot recipe. Do not hammer search.brave.com/submit-url.",
+      "kind": "availability",
+      "evidence": "mustread-retry.json brave_submit 429 73802 B. leftover18 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
     }
   ],

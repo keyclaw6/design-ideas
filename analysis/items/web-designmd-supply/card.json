@@ -33,7 +33,7 @@
       "id": "web-designmd-supply#c1",
       "text": "Domain is listed in tranmautritam's DESIGN.md tools cluster as a likely marketplace or supply catalog for DESIGN.md files.",
       "kind": "capability",
-      "evidence": "Named in tranmautritam's DESIGN.md tools list — likely a marketplace or supply catalog for DESIGN.md files.",
+      "evidence": "Named in tranmautritam's DESIGN.md tools list \u2014 likely a marketplace or supply catalog for DESIGN.md files.",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "unverified",
@@ -48,6 +48,16 @@
       "evidence_ref": "page.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-designmd-supply#c3",
+      "text": "Re-fetch this bank: designmd.supply HTTP 429 / 32,184 B (Vercel Security Checkpoint). Same neighbor designmd.app 200 / 75,632 B / 562 files is a different host. Marketplace features stay unverified. Do not hammer.",
+      "kind": "availability",
+      "evidence": "mustread-retry.json designmd_supply 429 32184 B. leftover18 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getdesign-md.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -60,7 +70,8 @@
     "paper": null,
     "product": "https://designmd.supply",
     "other": [
-      "https://github.com/google-labs-code/design.md"
+      "https://github.com/google-labs-code/design.md",
+      "https://designmd.app"
     ],
     "related_items": [
       "web-getdesign-md",

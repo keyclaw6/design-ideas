@@ -15,4 +15,6 @@ Local `seo` CLI + MCP (`seo mcp install`). Audits, Search Console, connected ana
 **2026-09-05 capture — seoskill.dev + GitHub API.** Homepage GET 200 / **120,656 B**. H1 The only SEO skill your agent needs. `npm i -g seo` + `seo start` + local MCP first-party. Homepage HTML has **no “70+” string**; GitHub `iannuttall/seo` Apache-2.0 **463★** this pass still carries “70+ SEO audit tools” in the description. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 
 **2026-09-05 leftover17 — seowins.io 403 (no seowins.md).** Same leftover receipt: `https://seowins.io/` **HTTP 403 Forbidden**. Attached to the Reddit-comment leftover and the $100k AEO leftover so those tweets are not treated as a live SEO Wins export. Do not retry. Sibling [web-seowins-io](../items/web-seowins-io/card.md) still holds the earlier $79 / 150+ linked-page capture.
+
+**2026-09-05 leftover18 — Brave submit-url 429 (no brave-submit-url.md).** `search.brave.com/submit-url` **429 / 73,802 B** (title Brave Search). Help `search.brave.com/help/submit-url` **429 / 2,404 B** (Request refused). Do not hammer. Receipt `2026-09-05-mustread-retry.json`. Attached to [web-brave-submit-url](../items/web-brave-submit-url/card.md) and the two leftover tweets.
 <!-- NOTES:END -->

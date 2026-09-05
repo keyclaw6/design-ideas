@@ -12,6 +12,7 @@
 - `x-2093964632562253866#c1` (recipe, stated) Brave Search indexing starts at search.brave.com/submit-url where you enter a URL and press Submit. — evidence: "1. Go to search∙brave∙com/submit-url.
 2. Enter your website URL now.
 3. Press the Submit button." [post]
+- `x-2093964632562253866#c2` (availability, demonstrated) Official submit-url host is HTTP 429 / 73,802 B this bank; help page 429 / 2,404 B. Three-step leftover stays a tweet/screenshot recipe. Do not hammer search.brave.com/submit-url. — evidence: "mustread-retry.json brave_submit 429 73802 B. leftover18 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [alternate-engine-indexing](../../techniques/alternate-engine-indexing.md)

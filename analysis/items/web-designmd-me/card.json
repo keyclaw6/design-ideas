@@ -3,7 +3,7 @@
   "id": "web-designmd-me",
   "source_type": "website",
   "url": "https://designmd.me",
-  "title": "designmd.me — blocked DESIGN.md ecosystem URL stub",
+  "title": "designmd.me \u2014 blocked DESIGN.md ecosystem URL stub",
   "author": {
     "name": null,
     "handle": null,
@@ -38,6 +38,16 @@
       "evidence_ref": "page.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-designmd-me#c2",
+      "text": "Re-fetch this bank: designmd.me HTTP 429 / 32,188 B (title Vercel Security Checkpoint). Neighbor designmd.app is 200 / 75,632 B (title DESIGN.md \u2014 562 Design System Files). Do not hammer designmd.me. Do not collapse 562 with getdesign.md marketing 550+ or sitemap union 627.",
+      "kind": "availability",
+      "evidence": "mustread-retry.json designmd_me 429 32188 B; designmd_app 200 75632 B. leftover18 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getdesign-md.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -50,7 +60,8 @@
     "paper": null,
     "product": "https://designmd.me",
     "other": [
-      "https://github.com/google-labs-code/design.md"
+      "https://github.com/google-labs-code/design.md",
+      "https://designmd.app"
     ],
     "related_items": [
       "web-designmd-supply",

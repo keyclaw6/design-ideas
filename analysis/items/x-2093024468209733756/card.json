@@ -39,6 +39,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2093024468209733756#c2",
+      "text": "leftover13 t.co loops to this tweet and a sibling promo tweet. No public landing host is named. Neighbor Motionsites homepage 56,054 B has no 590 integer. Related Originkit is a component kit, not this polish clip. Do not collapse the demo with those catalogs.",
+      "kind": "counter-claim",
+      "evidence": "leftover13 tco-polish / tco-polish2 loop to X. motionsites-ai NOTES 56054 B. leftover18 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/motionsites-ai.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,

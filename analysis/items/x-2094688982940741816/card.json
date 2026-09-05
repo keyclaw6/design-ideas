@@ -32,7 +32,7 @@
       "id": "x-2094688982940741816#c1",
       "text": "Brave submit flow is three steps: open search.brave.com/submit-url, enter the URL, and press Submit.",
       "kind": "recipe",
-      "evidence": "Go to search∙brave∙com/submit-url.",
+      "evidence": "Go to search\u2219brave\u2219com/submit-url.",
       "evidence_source": "quoted-post",
       "evidence_ref": "comments.md",
       "confidence": "stated",
@@ -46,6 +46,16 @@
       "evidence_source": "media",
       "evidence_ref": "media/photo.jpg",
       "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094688982940741816#c3",
+      "text": "Brave submit-url is HTTP 429 / 73,802 B this bank; seowins.io is HTTP 403. 1,190 sessions / 1.34% of 88,974 stay on the analytics screenshot. Do not hammer either host.",
+      "kind": "availability",
+      "evidence": "mustread-retry.json brave 429; leftover-2026-09-05.json seowins 403. leftover18 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
     }
   ],

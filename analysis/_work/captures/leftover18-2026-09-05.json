@@ -1,0 +1,76 @@
+{
+  "fetched_at": "2026-09-05T08:10:00Z",
+  "pages": {
+    "tco-linkedin-quoted": {
+      "url": "https://t.co/sHIeqAYMPB",
+      "final": "https://x.com/i/article/2093291732741873664",
+      "status": 404,
+      "bytes": 28622,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 404",
+      "title": "X",
+      "visible_len": 439
+    },
+    "tco-linkedin-reply": {
+      "url": "https://t.co/NODoPwKhsE",
+      "final": "https://x.com/umairkseo/status/2094016164062212593",
+      "status": 200,
+      "bytes": 163420,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Umair | Link Building on X: \"@jakezward that's great. i ranked for \"link building for local seo\" with in a few seconds of indexing.\" / X",
+      "visible_len": 1313
+    },
+    "corey-com": {
+      "url": "https://coreyhaines.com/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>"
+    },
+    "corey-co": {
+      "url": "https://coreyhaines.co/",
+      "final": null,
+      "status": null,
+      "bytes": 0,
+      "ctype": null,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
+    },
+    "conversionalchemy": {
+      "url": "https://www.conversionalchemy.com/",
+      "final": "https://conversionalchemy.com/",
+      "status": 200,
+      "bytes": 2487,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Conversion Alchemy | Shopify CRO & Offer Optimization",
+      "visible_len": 0
+    },
+    "gh-coreyhainesco": {
+      "url": "https://api.github.com/users/coreyhainesco",
+      "final": "https://api.github.com/users/coreyhainesco",
+      "status": 404,
+      "bytes": 89,
+      "ctype": "application/json; charset=utf-8",
+      "error": "HTTPError 404",
+      "saved": "/workspace/analysis/_work/captures/leftover18-2026-09-05/gh-coreyhainesco.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "total": null,
+        "items": null
+      }
+    },
+    "known-agency": {
+      "url": "https://www.known.agency/",
+      "final": "https://known.agency/",
+      "status": 200,
+      "bytes": 965519,
+      "ctype": "text/html",
+      "error": null,
+      "title": "known.agency \u2014 #1 AI Search Optimization Agency",
+      "visible_len": 7736
+    }
+  }
+}

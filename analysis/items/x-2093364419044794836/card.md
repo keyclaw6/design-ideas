@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093364419044794836#c1` (result, demonstrated) Author shares a pre-launch site teaser with attached motion footage as a landing reference. — evidence: "I can't wait to finally launch this site" [post]
+- `x-2093364419044794836#c2` (counter-claim, demonstrated) Pre-launch teaser names no public host. Related Nate Herk leftover is Fable 5.1 + scroll-craft (fxtwitter article 9,821 chars; four cost pairs). Motionsites 56,054 B is a prompt library. Do not collapse an unnamed teaser clip with those workflows. — evidence: "Related x-2094978216146452971#c4 9821 chars. motionsites-ai 56054 B. leftover18 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

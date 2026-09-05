@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093024468209733756#c1` (opinion, stated) Good product design can win attention without outbidding everyone. — evidence: "You don't need to outbid everyone for attention if your product actually looks good." [post]
+- `x-2093024468209733756#c2` (counter-claim, demonstrated) leftover13 t.co loops to this tweet and a sibling promo tweet. No public landing host is named. Neighbor Motionsites homepage 56,054 B has no 590 integer. Related Originkit is a component kit, not this polish clip. Do not collapse the demo with those catalogs. — evidence: "leftover13 tco-polish / tco-polish2 loop to X. motionsites-ai NOTES 56054 B. leftover18 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

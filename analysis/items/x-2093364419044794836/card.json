@@ -15,7 +15,7 @@
   ],
   "artifact_type": "demo-video",
   "platforms": [],
-  "summary": "Designer ivanboroja posts a short pre-launch teaser—'I can't wait to finally launch this site'—with attached screen recording as a landing-motion reference before the site goes live.",
+  "summary": "Designer ivanboroja posts a short pre-launch teaser\u2014'I can't wait to finally launch this site'\u2014with attached screen recording as a landing-motion reference before the site goes live.",
   "question_it_answers": "What does ivanboroja's pre-launch landing motion teaser look like?",
   "claims": [
     {
@@ -25,6 +25,16 @@
       "evidence": "I can't wait to finally launch this site",
       "evidence_source": "post",
       "evidence_ref": null,
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2093364419044794836#c2",
+      "text": "Pre-launch teaser names no public host. Related Nate Herk leftover is Fable 5.1 + scroll-craft (fxtwitter article 9,821 chars; four cost pairs). Motionsites 56,054 B is a prompt library. Do not collapse an unnamed teaser clip with those workflows.",
+      "kind": "counter-claim",
+      "evidence": "Related x-2094978216146452971#c4 9821 chars. motionsites-ai 56054 B. leftover18 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/motionsites-ai.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
     }

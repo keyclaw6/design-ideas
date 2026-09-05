@@ -40,6 +40,16 @@
       "evidence_ref": "raw/items/x-2093990583576486268/post.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2093990583576486268#c2",
+      "text": "Quoted t.co/sHIeqAYMPB resolves to x.com/i/article/2093291732741873664 logged-out 404 / 28,622 B. Reply t.co loops to an X status. leftover12 other t.co also looped to this tweet. Neighbor known.agency is 200 / 965,519 B (title #1 AI Search Optimization Agency \u2014 ranking language is vendor copy). That homepage is not the LinkedIn article and not a GSC proof of 24h page-one for \u201cSEO in 2026\u201d. Ranking claim stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "leftover18 t.co \u2192 X article 404 28622 B; known.agency 965519 B. leftover12b tco-linkedin-seo loops to same tweet.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openseo-so.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],
@@ -58,7 +68,9 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://known.agency/"
+    ],
     "related_items": []
   },
   "media": [],

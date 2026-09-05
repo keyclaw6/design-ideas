@@ -20,4 +20,6 @@ Homepage still advertises **550+** DESIGN.md analyses and “Follows Google’s 
 **2026-09-04 designmd.app sitemap + library title.** `GET /sitemap.xml` is a one-child index; `sitemap-0.xml` has **198** unique `<loc>`s: **74** `/library/<slug>` style pages, **35** `/brands/<slug>` (plus 10 `/brands/category/…`), **51** blog, **12** guides. `/library` HTTP 200, **1,455,593** B, title **“DESIGN.md Library — 561 Design Systems for AI Agents”**. Do not collapse homepage **562**, library-title **561**, sitemap **198**, or library slugs **74**. No `/api/files` dump (404). Author link on the home page: `gitlab.com/fabriciotelles/vibe-styles`.
 
 **2026-09-05 roundup re-fetch (Tran Mau nine).** getdesign.md **200 / 193,240 B** still markets **550+**. neuform.ai **6,499 B** SPA. aura.build **7,737 B** SPA. sokosumi.com/tools/design-md **109,208 B**. open-design.ai **339,680 B**. designmd.me / designmd.supply / typeui.sh still **429** — do not hammer. Receipt `analysis/_work/captures/mustread-2026-09-05.json`.
+
+**2026-09-05 leftover18.** Same 429 re-count on the stub cards: designmd.me **32,188 B** / designmd.supply **32,184 B** (Vercel Security Checkpoint). Neighbor designmd.app this receipt **75,632 B** / **562** files. Do not hammer. Do not collapse 562 with 550+ / 627.
 <!-- NOTES:END -->
