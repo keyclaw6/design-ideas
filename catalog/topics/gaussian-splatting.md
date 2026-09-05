@@ -25,7 +25,7 @@ Query here for “fix a thin splat,” “PLY to GLB,” or “one photo to an o
 - [NVIDIA ArtiFixer thread](../../raw/items/x-2094929928865341832/) — `x-2094929928865341832` — video diffusion rebuilds missing/blurry regions on scans.
 - [Splat2Mesh — free Win tool](../../raw/items/x-2094826117056414132/) — `x-2094826117056414132` — cleanup/export before web or DCC; JA launch `x-2094648474377839018`.
 - [Atlas + spark.js + three.js](../../raw/items/x-2094864872853119216/) — `x-2094864872853119216` — World Labs Atlas reconstruction as a three.js scene (also `camera-control`, `video-generation`).
-- [Salvage phone photos → splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan` — Woshixing internals inventory + COLMAP-gate / skip-splat / CAD-hybrid attack order.
+- [Salvage phone photos → splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan` — Drive `SPLAT images` (544 stills, 8 vision clusters) + COLMAP-gate / skip-splat / CAD-hybrid attack order.
 
 ## Examples
 
