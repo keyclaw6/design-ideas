@@ -50,6 +50,7 @@ Cross-cutting techniques and recurring pipelines discovered during harvest.
 - **One still → Atlas world → three.js** — World Labs Atlas fills gaps; spark.js presents an orbitable scene (`x-2094864872853119216`).
 - **Repair then fly** — ArtiFixer on broken/blurry 3DGS, then a camera path or mesh export (`github-nv-tlabs-ArtiFixer`, `web-arcana-splat2mesh`).
 - **Indoor capture → posed assets** — Lucida-style video to individual 3D objects (`x-2094961942058418268`).
+- **Phone stills of BESS internals → splat or skip-splat mesh** — overlap audit first; salvage 3DGS only per bay; else Tripo/Meshy or CAD blockout + photo projection, then decimate (`note-bess-phone-photos-splat-mesh-plan`).
 
 ## Infographics & diagram-as-content
 

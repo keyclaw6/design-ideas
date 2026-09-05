@@ -43,6 +43,7 @@ Query here for “agent that can light a mesh,” “WebGL hero that isn’t a G
 - [The Complete Shelf](../../raw/items/github-mengto-complete-shelf/) — `github-mengto-complete-shelf`
 - [Agent Skills (MengTo)](../../raw/items/github-mengto-skills/) — `github-mengto-skills`
 - [Three.js Awesome Graphics Agent Skills](../../raw/items/github-scottstts-threejs-awesome-graphics-agent-skills/) — `github-scottstts-threejs-awesome-graphics-agent-skills`
+- [Plan of attack: salvage phone photos → Gaussian splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan`
 - [FeralUI](../../raw/items/web-feralui-dev/) — `web-feralui-dev`
 - [GetLayers AI](../../raw/items/web-getlayers-ai/) — `web-getlayers-ai`
 - [A Developer's Guide to Taste in the Age of AI](../../raw/items/web-opale-ui-taste/) — `web-opale-ui-taste`

@@ -1,0 +1,10 @@
+{
+  "id": "note-bess-phone-photos-splat-mesh-plan",
+  "title": "Plan of attack: salvage phone photos → Gaussian splat → minimal mesh",
+  "topics": [
+    "gaussian-splatting",
+    "bess-3d-flythrough",
+    "three-js",
+    "camera-control"
+  ]
+}

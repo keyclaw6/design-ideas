@@ -344,210 +344,6 @@
       "source_location": "L1"
     },
     {
-      "id": "agents",
-      "label": "AGENTS.md",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "agents.md",
-      "source_file": "AGENTS.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "agents_agent_query_guide",
-      "label": "Agent query guide",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "agent query guide",
-      "source_file": "AGENTS.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "agents_conventions",
-      "label": "Conventions",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "conventions",
-      "source_file": "AGENTS.md",
-      "source_location": "L38"
-    },
-    {
-      "id": "agents_graphify",
-      "label": "Graphify",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "graphify",
-      "source_file": "AGENTS.md",
-      "source_location": "L20"
-    },
-    {
-      "id": "agents_query_order",
-      "label": "Query order",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "query order",
-      "source_file": "AGENTS.md",
-      "source_location": "L5"
-    },
-    {
-      "id": "agents_x_harvest_skill",
-      "label": "X harvest skill",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "x harvest skill",
-      "source_file": "AGENTS.md",
-      "source_location": "L34"
-    },
-    {
-      "id": "catalog_patterns",
-      "label": "patterns.md",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "patterns.md",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "catalog_patterns_3d_video_bess_flythrough",
-      "label": "3D / video / BESS flythrough",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3d / video / bess flythrough",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L33"
-    },
-    {
-      "id": "catalog_patterns_capture_to_world_photo_video_3d",
-      "label": "Capture-to-world (photo/video \u2192 3D)",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "capture-to-world (photo/video \u2192 3d)",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L48"
-    },
-    {
-      "id": "catalog_patterns_data_context_for_agents",
-      "label": "Data & context for agents",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "data & context for agents",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L61"
-    },
-    {
-      "id": "catalog_patterns_design_md_design_skills",
-      "label": "DESIGN.md & design skills",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "design.md & design skills",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L20"
-    },
-    {
-      "id": "catalog_patterns_html_as_video_prompt_to_clip",
-      "label": "HTML-as-video / prompt-to-clip",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "html-as-video / prompt-to-clip",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L42"
-    },
-    {
-      "id": "catalog_patterns_infographics_diagram_as_content",
-      "label": "Infographics & diagram-as-content",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "infographics & diagram-as-content",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L54"
-    },
-    {
-      "id": "catalog_patterns_landing_page_ui_motion_pipelines",
-      "label": "Landing page & UI motion pipelines",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "landing page & ui motion pipelines",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L26"
-    },
-    {
-      "id": "catalog_patterns_mcp_agent_orchestration",
-      "label": "MCP & agent orchestration",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "mcp & agent orchestration",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L13"
-    },
-    {
-      "id": "catalog_patterns_patterns",
-      "label": "Patterns",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "patterns",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "catalog_patterns_seo_ai_search_visibility",
-      "label": "SEO & AI search visibility",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "seo & ai search visibility",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L5"
-    },
-    {
       "id": "raw_progress_harvest_loop",
       "label": "harvest-loop.md",
       "_origin": "ast",
@@ -606,54 +402,6 @@
       "norm_label": "x \u2014 bookmarks + likes",
       "source_file": "raw/_progress/harvest-loop.md",
       "source_location": "L3"
-    },
-    {
-      "id": "readme",
-      "label": "README.md",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "readme.md",
-      "source_file": "README.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "readme_current_focus",
-      "label": "Current focus",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "current focus",
-      "source_file": "README.md",
-      "source_location": "L11"
-    },
-    {
-      "id": "readme_design_ideas",
-      "label": "design-ideas",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "design-ideas",
-      "source_file": "README.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "readme_layout",
-      "label": "Layout",
-      "_origin": "ast",
-      "community": 0,
-      "community_name": "X bookmark/likes harvest-clear",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "layout",
-      "source_file": "README.md",
-      "source_location": "L16"
     },
     {
       "id": "schema",
@@ -5915,7 +5663,7 @@
       "node_kind": "heading",
       "norm_label": "all items",
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L36"
+      "source_location": "L38"
     },
     {
       "id": "catalog_topics_bess_3d_flythrough_bess_3d_flythrough",
@@ -5939,7 +5687,7 @@
       "node_kind": "heading",
       "norm_label": "examples",
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L31"
+      "source_location": "L33"
     },
     {
       "id": "catalog_topics_bess_3d_flythrough_pipelines",
@@ -5963,7 +5711,7 @@
       "node_kind": "heading",
       "norm_label": "techniques",
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L24"
+      "source_location": "L25"
     },
     {
       "id": "catalog_topics_bess_3d_flythrough_tools",
@@ -5975,7 +5723,7 @@
       "node_kind": "heading",
       "norm_label": "tools",
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L18"
+      "source_location": "L19"
     },
     {
       "id": "catalog_topics_camera_control_all_items",
@@ -6059,7 +5807,7 @@
       "node_kind": "heading",
       "norm_label": "all items",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L33"
+      "source_location": "L35"
     },
     {
       "id": "catalog_topics_gaussian_splatting_examples",
@@ -6071,7 +5819,7 @@
       "node_kind": "heading",
       "norm_label": "examples",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L28"
+      "source_location": "L30"
     },
     {
       "id": "catalog_topics_gaussian_splatting_gaussian_splatting",
@@ -6107,7 +5855,7 @@
       "node_kind": "heading",
       "norm_label": "techniques",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L22"
+      "source_location": "L23"
     },
     {
       "id": "catalog_topics_gaussian_splatting_tools",
@@ -6119,7 +5867,7 @@
       "node_kind": "heading",
       "norm_label": "tools",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L17"
+      "source_location": "L18"
     },
     {
       "id": "catalog_topics_video_generation_all_items",
@@ -6230,27 +5978,351 @@
       "source_location": "L7"
     },
     {
-      "id": "catalog_filtered",
-      "label": "filtered.md",
+      "id": "agents",
+      "label": "AGENTS.md",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "filtered.md",
+      "community_name": "Agent query guide",
       "file_type": "document",
       "node_kind": "page",
-      "norm_label": "filtered.md",
-      "source_file": "catalog/filtered.md",
+      "norm_label": "agents.md",
+      "source_file": "AGENTS.md",
       "source_location": "L1"
     },
     {
-      "id": "catalog_filtered_filtered_items",
-      "label": "Filtered items",
+      "id": "agents_agent_query_guide",
+      "label": "Agent query guide",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "filtered.md",
+      "community_name": "Agent query guide",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "filtered items",
-      "source_file": "catalog/filtered.md",
+      "norm_label": "agent query guide",
+      "source_file": "AGENTS.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "agents_conventions",
+      "label": "Conventions",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "conventions",
+      "source_file": "AGENTS.md",
+      "source_location": "L38"
+    },
+    {
+      "id": "agents_graphify",
+      "label": "Graphify",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "graphify",
+      "source_file": "AGENTS.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "agents_query_order",
+      "label": "Query order",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "query order",
+      "source_file": "AGENTS.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "agents_x_harvest_skill",
+      "label": "X harvest skill",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "x harvest skill",
+      "source_file": "AGENTS.md",
+      "source_location": "L34"
+    },
+    {
+      "id": "catalog_patterns",
+      "label": "patterns.md",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "patterns.md",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "readme",
+      "label": "README.md",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "readme.md",
+      "source_file": "README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "readme_current_focus",
+      "label": "Current focus",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "current focus",
+      "source_file": "README.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "readme_design_ideas",
+      "label": "design-ideas",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "design-ideas",
+      "source_file": "README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "readme_layout",
+      "label": "Layout",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "Agent query guide",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "layout",
+      "source_file": "README.md",
+      "source_location": "L16"
+    },
+    {
+      "id": "catalog_patterns_3d_video_bess_flythrough",
+      "label": "3D / video / BESS flythrough",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3d / video / bess flythrough",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L33"
+    },
+    {
+      "id": "catalog_patterns_capture_to_world_photo_video_3d",
+      "label": "Capture-to-world (photo/video \u2192 3D)",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "capture-to-world (photo/video \u2192 3d)",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L48"
+    },
+    {
+      "id": "catalog_patterns_data_context_for_agents",
+      "label": "Data & context for agents",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "data & context for agents",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L62"
+    },
+    {
+      "id": "catalog_patterns_design_md_design_skills",
+      "label": "DESIGN.md & design skills",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "design.md & design skills",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "catalog_patterns_html_as_video_prompt_to_clip",
+      "label": "HTML-as-video / prompt-to-clip",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "html-as-video / prompt-to-clip",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L42"
+    },
+    {
+      "id": "catalog_patterns_infographics_diagram_as_content",
+      "label": "Infographics & diagram-as-content",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "infographics & diagram-as-content",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L55"
+    },
+    {
+      "id": "catalog_patterns_landing_page_ui_motion_pipelines",
+      "label": "Landing page & UI motion pipelines",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "landing page & ui motion pipelines",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L26"
+    },
+    {
+      "id": "catalog_patterns_mcp_agent_orchestration",
+      "label": "MCP & agent orchestration",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "mcp & agent orchestration",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "catalog_patterns_patterns",
+      "label": "Patterns",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "patterns",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_patterns_seo_ai_search_visibility",
+      "label": "SEO & AI search visibility",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "Patterns",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "seo & ai search visibility",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "catalog_topics_bess_3d_flythrough",
+      "label": "bess-3d-flythrough.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "bess-3d-flythrough.md",
+      "source_file": "catalog/topics/bess-3d-flythrough.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_topics_camera_control",
+      "label": "camera-control.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "camera-control.md",
+      "source_file": "catalog/topics/camera-control.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_topics_gaussian_splatting",
+      "label": "gaussian-splatting.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "gaussian-splatting.md",
+      "source_file": "catalog/topics/gaussian-splatting.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_topics_three_js",
+      "label": "three-js.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "three-js.md",
+      "source_file": "catalog/topics/three-js.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_topics_ui_motion",
+      "label": "ui-motion.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "ui-motion.md",
+      "source_file": "catalog/topics/ui-motion.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_topics_video_generation",
+      "label": "video-generation.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "video-generation.md",
+      "source_file": "catalog/topics/video-generation.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "label": "bess-phone-photos-splat-mesh-plan.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "bess-phone-photos-splat-mesh-plan.md",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "raw_notes_blender_minimax_h3_video_generation",
+      "label": "blender-minimax-h3-video-generation.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "three-js.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "blender-minimax-h3-video-generation.md",
+      "source_file": "raw/notes/blender-minimax-h3-video-generation.md",
       "source_location": "L1"
     },
     {
@@ -15372,6 +15444,54 @@
       "source_location": "L32"
     },
     {
+      "id": "catalog_filtered",
+      "label": "filtered.md",
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "catalog/README.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "filtered.md",
+      "source_file": "catalog/filtered.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_filtered_filtered_items",
+      "label": "Filtered items",
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "catalog/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "filtered items",
+      "source_file": "catalog/filtered.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_index",
+      "label": "index.md",
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "catalog/README.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "index.md",
+      "source_file": "catalog/index.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_index_catalog_index",
+      "label": "Catalog index",
+      "_origin": "ast",
+      "community": 2,
+      "community_name": "catalog/README.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "catalog index",
+      "source_file": "catalog/index.md",
+      "source_location": "L1"
+    },
+    {
       "id": "catalog_readme",
       "label": "catalog/README.md",
       "_origin": "ast",
@@ -15396,30 +15516,6 @@
       "source_location": "L1"
     },
     {
-      "id": "catalog_topics_bess_3d_flythrough",
-      "label": "bess-3d-flythrough.md",
-      "_origin": "ast",
-      "community": 2,
-      "community_name": "catalog/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "bess-3d-flythrough.md",
-      "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "catalog_topics_camera_control",
-      "label": "camera-control.md",
-      "_origin": "ast",
-      "community": 2,
-      "community_name": "catalog/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "camera-control.md",
-      "source_file": "catalog/topics/camera-control.md",
-      "source_location": "L1"
-    },
-    {
       "id": "catalog_topics_design",
       "label": "design.md",
       "_origin": "ast",
@@ -15429,18 +15525,6 @@
       "node_kind": "page",
       "norm_label": "design.md",
       "source_file": "catalog/topics/design.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "catalog_topics_gaussian_splatting",
-      "label": "gaussian-splatting.md",
-      "_origin": "ast",
-      "community": 2,
-      "community_name": "catalog/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "gaussian-splatting.md",
-      "source_file": "catalog/topics/gaussian-splatting.md",
       "source_location": "L1"
     },
     {
@@ -15489,54 +15573,6 @@
       "node_kind": "page",
       "norm_label": "seo-agents.md",
       "source_file": "catalog/topics/seo-agents.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "catalog_topics_three_js",
-      "label": "three-js.md",
-      "_origin": "ast",
-      "community": 2,
-      "community_name": "catalog/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "three-js.md",
-      "source_file": "catalog/topics/three-js.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "catalog_topics_ui_motion",
-      "label": "ui-motion.md",
-      "_origin": "ast",
-      "community": 2,
-      "community_name": "catalog/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "ui-motion.md",
-      "source_file": "catalog/topics/ui-motion.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "catalog_topics_video_generation",
-      "label": "video-generation.md",
-      "_origin": "ast",
-      "community": 2,
-      "community_name": "catalog/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "video-generation.md",
-      "source_file": "catalog/topics/video-generation.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "raw_notes_blender_minimax_h3_video_generation",
-      "label": "blender-minimax-h3-video-generation.md",
-      "_origin": "ast",
-      "community": 2,
-      "community_name": "catalog/README.md",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "blender-minimax-h3-video-generation.md",
-      "source_file": "raw/notes/blender-minimax-h3-video-generation.md",
       "source_location": "L1"
     },
     {
@@ -29705,28 +29741,220 @@
       "source_location": "L1"
     },
     {
-      "id": "catalog_index",
-      "label": "index.md",
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "label": "1. What we actually have (Drive, not Google Photos)",
       "_origin": "ast",
       "community": 394,
-      "community_name": "index.md",
+      "community_name": "3. Methods (from the design-ideas harvest)",
       "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "index.md",
-      "source_file": "catalog/index.md",
+      "node_kind": "heading",
+      "norm_label": "1. what we actually have (drive, not google photos)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_2_why_prior_gaussian_splats_failed_this_capture_not_the_phone",
+      "label": "2. Why prior Gaussian splats failed (this capture, not \u201cthe phone\u201d)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2. why prior gaussian splats failed (this capture, not \u201cthe phone\u201d)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L49"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "label": "3. Methods (from the design-ideas harvest)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3. methods (from the design-ideas harvest)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L65"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_4_recommended_attack_order",
+      "label": "4. Recommended attack order",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "4. recommended attack order",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L138"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_5_platform_license_this_linux_worker",
+      "label": "5. Platform / license (this Linux worker)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "5. platform / license (this linux worker)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L153"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_6_open",
+      "label": "6. Open",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "6. open",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L162"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_a_woshixing_factory_internals_the_splat_candidate",
+      "label": "Dataset A \u2014 Woshixing factory internals (the splat candidate)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "dataset a \u2014 woshixing factory internals (the splat candidate)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L17"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_b_fat_factory_exterior_not_splat",
+      "label": "Dataset B \u2014 FAT / factory exterior (not splat)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "dataset b \u2014 fat / factory exterior (not splat)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L35"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_c_br\u00e6dstrup_site_same_phone_wrong_subject",
+      "label": "Dataset C \u2014 Br\u00e6dstrup site (same phone, wrong subject)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "dataset c \u2014 br\u00e6dstrup site (same phone, wrong subject)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L39"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_d_marketing_cad_downstream_only",
+      "label": "Dataset D \u2014 marketing / CAD (downstream only)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "dataset d \u2014 marketing / cad (downstream only)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L43"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_finish_minimal_mesh_always",
+      "label": "Finish \u2192 minimal mesh (always)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "finish \u2192 minimal mesh (always)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L125"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_gate_do_this_first_cheap",
+      "label": "Gate (do this first, cheap)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "gate (do this first, cheap)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L67"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_1_salvage_3dgs_only_if_the_gate_passes",
+      "label": "Path 1 \u2014 Salvage 3DGS (only if the gate passes)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "path 1 \u2014 salvage 3dgs (only if the gate passes)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L79"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_2_skip_splat_photo_mesh_default_for_a1_a3_a4",
+      "label": "Path 2 \u2014 Skip splat, photo \u2192 mesh (default for A1/A3/A4)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "path 2 \u2014 skip splat, photo \u2192 mesh (default for a1/a3/a4)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L92"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_3_hybrid_cad_truth_photo_projection_accuracy",
+      "label": "Path 3 \u2014 Hybrid CAD truth + photo projection (accuracy)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "path 3 \u2014 hybrid cad truth + photo projection (accuracy)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L103"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_4_fast_orbit_poc_not_a_product_mesh",
+      "label": "Path 4 \u2014 Fast orbit POC (not a product mesh)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "path 4 \u2014 fast orbit poc (not a product mesh)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L113"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "label": "Plan of attack: salvage phone photos \u2192 Gaussian splat \u2192 minimal mesh",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "plan of attack: salvage phone photos \u2192 gaussian splat \u2192 minimal mesh",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
       "source_location": "L1"
     },
     {
-      "id": "catalog_index_catalog_index",
-      "label": "Catalog index",
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_splat_mesh_if_path_1_yields_a_ply",
+      "label": "Splat \u2192 mesh (if Path 1 yields a PLY)",
       "_origin": "ast",
       "community": 394,
-      "community_name": "index.md",
+      "community_name": "3. Methods (from the design-ideas harvest)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "catalog index",
-      "source_file": "catalog/index.md",
-      "source_location": "L1"
+      "norm_label": "splat \u2192 mesh (if path 1 yields a ply)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L117"
     },
     {
       "id": "catalog_topics_infographics_all_items",
@@ -51754,7 +51982,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/patterns.md",
-      "source_location": "L54",
+      "source_location": "L55",
       "weight": 1.0
     },
     {
@@ -51765,7 +51993,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/patterns.md",
-      "source_location": "L61",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -52007,7 +52235,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L18",
+      "source_location": "L19",
       "weight": 1.0
     },
     {
@@ -52018,7 +52246,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L24",
+      "source_location": "L25",
       "weight": 1.0
     },
     {
@@ -52029,7 +52257,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L31",
+      "source_location": "L33",
       "weight": 1.0
     },
     {
@@ -52040,7 +52268,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/bess-3d-flythrough.md",
-      "source_location": "L36",
+      "source_location": "L38",
       "weight": 1.0
     },
     {
@@ -52205,7 +52433,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L17",
+      "source_location": "L18",
       "weight": 1.0
     },
     {
@@ -52216,7 +52444,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L22",
+      "source_location": "L23",
       "weight": 1.0
     },
     {
@@ -52227,7 +52455,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L28",
+      "source_location": "L30",
       "weight": 1.0
     },
     {
@@ -52238,7 +52466,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L33",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -83757,6 +83985,204 @@
       "weight": 1.0
     },
     {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_a_woshixing_factory_internals_the_splat_candidate",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_b_fat_factory_exterior_not_splat",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_c_br\u00e6dstrup_site_same_phone_wrong_subject",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_d_marketing_cad_downstream_only",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_3_hybrid_cad_truth_photo_projection_accuracy",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L103",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_4_fast_orbit_poc_not_a_product_mesh",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L113",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_splat_mesh_if_path_1_yields_a_ply",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L117",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_finish_minimal_mesh_always",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L125",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_gate_do_this_first_cheap",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L67",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_1_salvage_3dgs_only_if_the_gate_passes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_2_skip_splat_photo_mesh_default_for_a1_a3_a4",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L92",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_4_recommended_attack_order",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L138",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_5_platform_license_this_linux_worker",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L153",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_6_open",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L162",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_2_why_prior_gaussian_splats_failed_this_capture_not_the_phone",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L49",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
       "source": "raw_notes_blender_minimax_h3_video_generation",
       "target": "raw_notes_blender_minimax_h3_video_generation_llm_blender_ai_video_photoreal_bess_flythrough",
       "relation": "contains",
@@ -86079,6 +86505,17 @@
     },
     {
       "source": "catalog_topics_bess_3d_flythrough",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/bess-3d-flythrough.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "catalog_topics_bess_3d_flythrough",
       "target": "raw_notes_blender_minimax_h3_video_generation",
       "relation": "references",
       "_origin": "ast",
@@ -86133,6 +86570,17 @@
       "weight": 1.0
     },
     {
+      "source": "catalog_topics_camera_control",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/camera-control.md",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
       "source": "catalog_topics_design",
       "target": "catalog_topics_three_js",
       "relation": "references",
@@ -86152,6 +86600,17 @@
       "confidence_score": 1.0,
       "source_file": "catalog/topics/design.md",
       "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "catalog_topics_gaussian_splatting",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/gaussian-splatting.md",
+      "source_location": "L28",
       "weight": 1.0
     },
     {
@@ -86299,6 +86758,17 @@
     },
     {
       "source": "catalog_topics_three_js",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/three-js.md",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "catalog_topics_three_js",
       "target": "catalog_topics_ui_motion",
       "relation": "references",
       "_origin": "ast",
@@ -86397,6 +86867,17 @@
       "weight": 1.0
     },
     {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "target": "raw_notes_blender_minimax_h3_video_generation",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
       "source": "readme",
       "target": "schema",
       "relation": "references",
@@ -86464,5 +86945,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "aedd295d19cf9e16b9fd3c5ee575b21991080e8a"
+  "built_at_commit": "c532aa50ac464ec5881ce95eca082733837f7cf0"
 }

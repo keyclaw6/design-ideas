@@ -12,6 +12,7 @@ Query here for “site flythrough landing,” “scan the plant then orbit it,�
 
 - **Scroll-scrubbed 3D hero** — agent skill + Seedance/Monid isometric flythrough on the landing (`github-oso95-scroll-world`; pairs with `github-nateherkai-scroll-craft` on [ui-motion](ui-motion.md)).
 - **Scan → repair → mesh** — 3DGS capture, ArtiFixer on sparse/blurry recon, Splat2Mesh PLY → OBJ/GLB (`github-nv-tlabs-ArtiFixer`, `web-arcana-splat2mesh`, `x-2094826117056414132`).
+- **Already-shot cabinet internals** — factory phone stills are too sparse for a whole-cabinet splat; split bays and gate on overlap (`note-bess-phone-photos-splat-mesh-plan`).
 - **Indoor video → editable assets** — indoor footage to posed 3D objects (`x-2094961942058418268`).
 - **Blender blockout → photoreal clip** — MCP camera + first/last frames + optional Z-depth (`note-blender-minimax-h3-video-generation`).
 
@@ -27,6 +28,7 @@ Query here for “site flythrough landing,” “scan the plant then orbit it,�
 - [NVIDIA ArtiFixer thread](../../raw/items/x-2094929928865341832/) — `x-2094929928865341832` — video diffusion that rebuilds broken/blurry scans before a flythrough.
 - [ByteDance Lucida](../../raw/items/x-2094961942058418268/) — `x-2094961942058418268` — indoor video → VLM/Seed3D 2.0 → individual editable 3D assets.
 - [Blender Minimax H3 note](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation` — BESS-cabinet interiors need a Blender Z-pass; commercial models invent internals from prompts alone.
+- [Salvage phone photos → splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan` — existing S22 stills of SVOLT/Envicool/PCS bays; splat only if SfM locks.
 
 ## Examples
 
@@ -38,6 +40,7 @@ Query here for “site flythrough landing,” “scan the plant then orbit it,�
 <!-- AUTO:ITEMS -->
 - [ArtiFixer](../../raw/items/github-nv-tlabs-ArtiFixer/) — `github-nv-tlabs-ArtiFixer`
 - [scroll-world](../../raw/items/github-oso95-scroll-world/) — `github-oso95-scroll-world`
+- [Plan of attack: salvage phone photos → Gaussian splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan`
 - [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
 - [Splat2Mesh](../../raw/items/web-arcana-splat2mesh/) — `web-arcana-splat2mesh`
 - [Utsubo](../../raw/items/web-utsubo/) — `web-utsubo`

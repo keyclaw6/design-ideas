@@ -2370,86 +2370,86 @@
     "semantic_hash": ""
   },
   "catalog/index.md": {
-    "mtime": 1788533977.7536483,
-    "seen": 1788533980.5766454,
-    "ast_hash": "bbf47e3d1f5b58aeabd001a6553baa38",
+    "mtime": 1788626102.8633354,
+    "seen": 1788626105.8827963,
+    "ast_hash": "fe37588e66079ec29dcec1bdfa000dbc",
     "semantic_hash": ""
   },
   "catalog/patterns.md": {
-    "mtime": 1788524313.9195268,
-    "seen": 1788524351.8804433,
-    "ast_hash": "02be85b7e9bdf04d373cd39279a2e57d",
+    "mtime": 1788626096.92579,
+    "seen": 1788626105.882797,
+    "ast_hash": "657d84de2570304757bdfb30ab94d9c0",
     "semantic_hash": ""
   },
   "catalog/topics/agent-skills.md": {
-    "mtime": 1788533977.7581596,
-    "seen": 1788533980.5766475,
+    "mtime": 1788626102.8670824,
+    "seen": 1788626105.8827977,
     "ast_hash": "42a5c9ecff726716870e071f2c57ff48",
     "semantic_hash": ""
   },
   "catalog/topics/bess-3d-flythrough.md": {
-    "mtime": 1788533977.7556722,
-    "seen": 1788533980.5766482,
-    "ast_hash": "8b45e46f1c58bcfa98b47925d0948847",
+    "mtime": 1788626102.8651812,
+    "seen": 1788626105.882799,
+    "ast_hash": "94f66a3d62d8641605096f4aa0f70f39",
     "semantic_hash": ""
   },
   "catalog/topics/camera-control.md": {
-    "mtime": 1788533977.7561252,
-    "seen": 1788533980.5766497,
-    "ast_hash": "45cead0cce2af0941c29d680fe40c9d4",
+    "mtime": 1788626102.8655882,
+    "seen": 1788626105.8827999,
+    "ast_hash": "68ca6a2cd5cdfca134bb08ce6ad73309",
     "semantic_hash": ""
   },
   "catalog/topics/design.md": {
-    "mtime": 1788533977.7570226,
-    "seen": 1788533980.5766509,
+    "mtime": 1788626102.8664052,
+    "seen": 1788626105.8828008,
     "ast_hash": "fe96f4eec676527b16145ab293c652bd",
     "semantic_hash": ""
   },
   "catalog/topics/gaussian-splatting.md": {
-    "mtime": 1788533977.7558978,
-    "seen": 1788533980.5766518,
-    "ast_hash": "2f3c4585809f1e217a7f9ed43ace59e4",
+    "mtime": 1788626102.8653748,
+    "seen": 1788626105.8828018,
+    "ast_hash": "8d8f6618232bb5655634dfefff10f689",
     "semantic_hash": ""
   },
   "catalog/topics/infographics.md": {
-    "mtime": 1788533977.7589073,
-    "seen": 1788533980.5766528,
+    "mtime": 1788626102.8677065,
+    "seen": 1788626105.8828027,
     "ast_hash": "1c742ae8072b1b285fa5514e42178787",
     "semantic_hash": ""
   },
   "catalog/topics/keyboard-pcb.md": {
-    "mtime": 1788533977.7567513,
-    "seen": 1788533980.5766535,
+    "mtime": 1788626102.866091,
+    "seen": 1788626105.8828032,
     "ast_hash": "b9447e2f4bec52e8aeb2155d8cfeb872",
     "semantic_hash": ""
   },
   "catalog/topics/mcp.md": {
-    "mtime": 1788533977.7587798,
-    "seen": 1788533980.5766547,
+    "mtime": 1788626102.8675346,
+    "seen": 1788626105.882804,
     "ast_hash": "37a6d75e28ad0107044760fc945e4161",
     "semantic_hash": ""
   },
   "catalog/topics/seo-agents.md": {
-    "mtime": 1788533977.756572,
-    "seen": 1788533980.5766556,
+    "mtime": 1788626102.8659637,
+    "seen": 1788626105.882805,
     "ast_hash": "96d652dedc84872554f87ae9fc3cae7d",
     "semantic_hash": ""
   },
   "catalog/topics/three-js.md": {
-    "mtime": 1788533977.7563536,
-    "seen": 1788533980.5766566,
-    "ast_hash": "054fdc44fe831e7a4828c79cbcd0b46a",
+    "mtime": 1788626102.8657756,
+    "seen": 1788626105.8828058,
+    "ast_hash": "f9b0c09ef919e345049777eff48bf2ad",
     "semantic_hash": ""
   },
   "catalog/topics/ui-motion.md": {
-    "mtime": 1788533977.758578,
-    "seen": 1788533980.576658,
+    "mtime": 1788626102.8673818,
+    "seen": 1788626105.8828063,
     "ast_hash": "edd6045f1513df1d922b4c606d5fa472",
     "semantic_hash": ""
   },
   "catalog/topics/video-generation.md": {
-    "mtime": 1788533977.7575185,
-    "seen": 1788533980.5766587,
+    "mtime": 1788626102.8666759,
+    "seen": 1788626105.8828073,
     "ast_hash": "d7dac737416072cb033b4e66214cb36e",
     "semantic_hash": ""
   },
@@ -10350,8 +10350,8 @@
     "semantic_hash": ""
   },
   "catalog/filtered.md": {
-    "mtime": 1788533977.755289,
-    "seen": 1788533980.5766442,
+    "mtime": 1788626102.8647223,
+    "seen": 1788626105.8827953,
     "ast_hash": "ec13ef3d539cc51129de8844eddfa0aa",
     "semantic_hash": ""
   },
@@ -10359,6 +10359,18 @@
     "mtime": 1788533971.002292,
     "seen": 1788533980.5766304,
     "ast_hash": "1188780e69d68ba83f2e32c35e081e4a",
+    "semantic_hash": ""
+  },
+  "raw/notes/bess-phone-photos-splat-mesh-plan.meta.json": {
+    "mtime": 1788626046.5333767,
+    "seen": 1788626105.882777,
+    "ast_hash": "4c00d47e4311a44302a9be7c61e78137",
+    "semantic_hash": ""
+  },
+  "raw/notes/bess-phone-photos-splat-mesh-plan.md": {
+    "mtime": 1788626046.5794444,
+    "seen": 1788626105.883688,
+    "ast_hash": "4cd6c8cff6f937ddcc3de3d9264c278e",
     "semantic_hash": ""
   }
 }

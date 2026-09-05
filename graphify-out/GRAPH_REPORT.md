@@ -1,22 +1,23 @@
-# Graph Report - design-ideas  (2026-09-04)
+# Graph Report - design-ideas  (2026-09-05)
 
 ## Corpus Check
-- 1524 files · ~30,044,675 words
+- 1526 files · ~30,046,230 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 4247 nodes · 3218 edges · 1128 communities (369 shown, 757 thin omitted)
+- 4266 nodes · 3241 edges · 1130 communities (372 shown, 756 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `aedd295d`
+- Built from commit: `c532aa50`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - X bookmark/likes harvest-clear
 - LLM + Blender → AI Video: Photoreal BESS Flythrough
+- catalog/README.md
 - Obscura (GitHub)
 - TinyLaunch Directories
 - x_harvest_clear.py
@@ -407,7 +408,7 @@
 - Links from X Capture 5 — Ingest Manifest
 - Links from X Capture 6 — Ingest Manifest
 - X bookmarks inventory
-- index.md
+- 3. Methods (from the design-ideas harvest)
 - Infographics
 - Keyboard PCB
 - MCP
@@ -1140,7 +1141,8 @@
 - Gaussian splatting
 - Video generation
 - Catalog
-- filtered.md
+- Agent query guide
+- Patterns
 
 ## God Nodes (most connected - your core abstractions)
 1. `LLM + Blender → AI Video: Photoreal BESS Flythrough` - 14 edges
@@ -1160,11 +1162,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (1128 total, 757 thin omitted)
+## Communities (1130 total, 756 thin omitted)
 
 ### Community 0 - "X bookmark/likes harvest-clear"
-Cohesion: 0.04
-Nodes (40): Agent query guide, Conventions, Graphify, Query order, X harvest skill, 3D / video / BESS flythrough, Capture-to-world (photo/video → 3D), Data & context for agents (+32 more)
+Cohesion: 0.08
+Nodes (22): Git, Harvest loop (X + Reddit), Reddit — Saved (`kab264set`), X — Bookmarks + Likes, Catalog, Item folders, Notes (pre-item research), Schema (+14 more)
 
 ### Community 1 - "LLM + Blender → AI Video: Photoreal BESS Flythrough"
 Cohesion: 0.06
@@ -2586,6 +2588,10 @@ Nodes (3): main(), Path, read_cookies()
 Cohesion: 0.83
 Nodes (3): cdp_url(), connect(), main()
 
+### Community 394 - "3. Methods (from the design-ideas harvest)"
+Cohesion: 0.11
+Nodes (18): 1. What we actually have (Drive, not Google Photos), 2. Why prior Gaussian splats failed (this capture, not “the phone”), 3. Methods (from the design-ideas harvest), 4. Recommended attack order, 5. Platform / license (this Linux worker), 6. Open, Dataset A — Woshixing factory internals (the splat candidate), Dataset B — FAT / factory exterior (not splat) (+10 more)
+
 ### Community 395 - "Infographics"
 Cohesion: 0.33
 Nodes (6): All items, Examples, Infographics, Pipelines, Techniques, Tools
@@ -2638,23 +2644,33 @@ Nodes (6): All items, Examples, Pipelines, Techniques, Tools, Video generation
 Cohesion: 0.67
 Nodes (3): Catalog, Query order (agents), Taxonomy
 
+### Community 1127 - "Agent query guide"
+Cohesion: 0.18
+Nodes (8): Agent query guide, Conventions, Graphify, Query order, X harvest skill, Current focus, design-ideas, Layout
+
+### Community 1128 - "Patterns"
+Cohesion: 0.20
+Nodes (10): 3D / video / BESS flythrough, Capture-to-world (photo/video → 3D), Data & context for agents, DESIGN.md & design skills, HTML-as-video / prompt-to-clip, Infographics & diagram-as-content, Landing page & UI motion pipelines, MCP & agent orchestration (+2 more)
+
 ## Knowledge Gaps
-- **2676 isolated node(s):** `BU_CDP_URL`, `BU_CDP_URL`, `x_delete_bookmark.sh script`, `Query order`, `Graphify` (+2671 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 3708 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **757 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **2691 isolated node(s):** `BU_CDP_URL`, `BU_CDP_URL`, `x_delete_bookmark.sh script`, `Query order`, `Graphify` (+2686 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 3723 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **756 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `LLM + Blender → AI Video: Photoreal BESS Flythrough` connect `LLM + Blender → AI Video: Photoreal BESS Flythrough` to `catalog/README.md`?**
+- **Why does `LLM + Blender → AI Video: Photoreal BESS Flythrough` connect `LLM + Blender → AI Video: Photoreal BESS Flythrough` to `three-js.md`?**
   _High betweenness centrality (0.000) - this node is a cross-community bridge._
 - **What connects `BU_CDP_URL`, `BU_CDP_URL`, `x_delete_bookmark.sh script` to the rest of the system?**
-  _2676 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _2691 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `X bookmark/likes harvest-clear` be split into smaller, more focused modules?**
-  _Cohesion score 0.043478260869565216 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
 - **Should `LLM + Blender → AI Video: Photoreal BESS Flythrough` be split into smaller, more focused modules?**
   _Cohesion score 0.058823529411764705 - nodes in this community are weakly interconnected._
 - **Should `Obscura (GitHub)` be split into smaller, more focused modules?**
   _Cohesion score 0.08695652173913043 - nodes in this community are weakly interconnected._
 - **Should `TinyLaunch Directories` be split into smaller, more focused modules?**
   _Cohesion score 0.09523809523809523 - nodes in this community are weakly interconnected._
+- **Should `3. Methods (from the design-ideas harvest)` be split into smaller, more focused modules?**
+  _Cohesion score 0.1111111111111111 - nodes in this community are weakly interconnected._
