@@ -67,6 +67,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2088155107544191339#c3",
+      "text": "Linked Google Doc export 200 / 9,075 B is the Motion Prompt user guide (title MOTION PROMPT). First-party: skill name motion-prompt / file motion-promo.skill; 4–7 timed beats; always .mp4 + scrubbable .html; 9:16 1080×1920 / 1:1 / 16:9; 15–20 s social sweet spot; 20 s ≈ 600 frames / 5–15 min; Opus 5 named. Install is a sent .skill file, not a public GitHub tree.",
+      "kind": "recipe",
+      "evidence": "GET docs.google.com/.../export?format=txt 9075 B. You get two files every time: .mp4 and .html. analysis/_work/captures/leftover3-2026-09-05/gdoc-export.txt",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/claude-motion-prompt.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "links": {

@@ -50,6 +50,16 @@
       "evidence_ref": "research.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2094467179320119498#c3",
+      "text": "Docs /docs/mcp 200 / 202,792 B lists the same 22 snake_case tools as the marketing page and names hosts Claude Code / Codex / Cursor / VS Code Copilot (project) plus Windsurf user-scope only. Rate table: generate_design + refine_design 30 / 60s per account; 4 concurrent remote generations. npm registry @aidesigner/agent-skills latest 0.1.4 UNLICENSED (5 versions). Unauthed initialize stays 401.",
+      "kind": "capability",
+      "evidence": "GET 200 aidesigner.ai/docs/mcp 202792 B. npm registry 0.1.4 UNLICENSED. analysis/_work/captures/leftover3-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/aidesigner-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

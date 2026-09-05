@@ -1,0 +1,83 @@
+
+<!doctype html>
+<html>
+  <head>
+    <title>Gojiberry - API Documentation</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1" />
+  </head>
+
+  <body>
+    <div id="app"></div>
+
+    <!-- Load the Script -->
+    <script src="https://cdn.jsdelivr.net/npm/@scalar/api-reference"></script>
+
+    <!-- Initialize the Scalar API Reference -->
+    <script>
+      Scalar.createApiReference('#app', {
+        // The URL of the OpenAPI/Swagger document
+        url: '/openapi.json',
+        // Avoid CORS issues
+        proxyUrl: 'https://proxy.scalar.com',
+        hideClientButton: true,
+        info: {
+          title: 'Gojiberry AI - API Documentation',
+          version: '1.0.0',
+        },
+        baseServerURL: 'https://ext.gojiberry.ai',
+        favicon: 'https://app.gojiberry.ai/favicon.ico',
+        logoUrl: 'https://app.gojiberry.ai/favicon.ico',
+        servers: [
+          {
+            url: 'https://ext.gojiberry.ai',
+            description: 'Production',
+          },
+        ],
+        mcp: {
+          name: 'Gojiberry AI',
+          url: 'https://mcp.gojiberry.ai',
+        },
+        defaultHttpClient: {
+          targetKey: 'node',
+          clientKey: 'fetch',
+        },
+        metaData: {
+          ogImage: 'https://app.gojiberry.ai/favicon.ico',
+          ogTitle: 'Gojiberry AI - API Documentation',
+          ogDescription: 'Gojiberry AI - API Documentation',
+          ogUrl: 'https://ext.gojiberry.ai',
+          ogType: 'website',
+          ogLocale: 'en_US',
+          ogSiteName: 'Gojiberry AI',
+        },
+        theme: {
+          logo: {
+            src: 'https://app.gojiberry.ai/favicon.ico',
+            href: 'https://gojiberry.ai',
+            altText: 'Gojiberry AI'
+          },
+          colors: {
+            primary: "#2b7a78"
+          }
+        },
+        "siteConfig": {
+          "logo": {
+            "darkMode": "https://app.gojiberry.ai/logo_new.png",
+            "lightMode": "https://app.gojiberry.ai/logo_new.png"
+          },
+        },
+        authentication: {
+          // Use the HTTP Bearer scheme by default
+          preferredSecurityScheme: 'httpBearer',
+        }
+      });
+
+      const container = document.getElementsByClassName('t-doc__sidebar');
+      container[0].insertAdjacentHTML('afterbegin', '<img src="https://app.gojiberry.ai/logo_new.png" style="margin: 12px;" alt="Gojiberry AI Logo" width="150">');
+    </script>
+  </body>
+</html>
+  

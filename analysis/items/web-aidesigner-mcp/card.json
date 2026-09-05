@@ -63,6 +63,16 @@
       "evidence_ref": "analysis/tools/aidesigner-mcp.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-aidesigner-mcp#c4",
+      "text": "Official /docs/mcp 200 / 202,792 B documents the same 22 tools, OAuth for MCP / API keys for REST, and rate limits: generate_design + refine_design 30 / 60s per account; 4 concurrent remote generations. Hosts: Claude Code, Codex, Cursor, VS Code/Copilot project installs; Windsurf user-scope only. Bootstrap is npx -y @aidesigner/agent-skills init. npm latest 0.1.4 UNLICENSED.",
+      "kind": "capability",
+      "evidence": "GET 200 https://www.aidesigner.ai/docs/mcp 202792 B. Rate table 30/60s and 4 in flight. leftover3-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/aidesigner-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

@@ -57,6 +57,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094684433546985907#c4",
+      "text": "Named-directory live check this pass: SaaSHub 200 / 211,434 B; SourceForge 200 / 113,772 B; Indie Hackers 200 / 188,546 B; Wellfound (AngelList) 200 / 122,361 B. Blocked: BetaList /submit, AlternativeTo, Slant, GetApp, Capterra, Clutch all 403. StackShare 429 — do not hammer. Tweet DR 80+/70+/60+ and 48-hour approval stay tweet-only. Full sheet still DM-gated.",
+      "kind": "availability",
+      "evidence": "GETs 2026-09-05. analysis/_work/captures/leftover3-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshelf.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,

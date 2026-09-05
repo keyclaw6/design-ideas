@@ -69,6 +69,16 @@
       "evidence_ref": "page.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "github-romangojiberryAI-gojiberryai-sales-os#c3",
+      "text": "GitHub API this pass: MIT, 96 stars, 22 forks, created 2026-09-01. Public External API is OpenAPI 3.0.0 at ext.gojiberry.ai/openapi.json (89,620 B, 32 paths). First-party model is Source agent → List → Campaign; Bearer token; 100 requests per minute per key. Scalar docs page is a 2,479 B shell. No filled ICP in the repo.",
+      "kind": "capability",
+      "evidence": "GET api.github.com/repos/romangojiberryAI/gojiberryai-sales-os stargazers_count 96. GET /openapi.json 32 paths. leftover3-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberry-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "links": {

@@ -14,6 +14,7 @@
 Crunchbase, G2, Product Hunt, Capterra, GetApp" [post]
 - `x-2094684433546985907#c2` (availability, stated) Author claims most listings are free, approve within 48 hours, and some index the same day despite often being nofollow. — evidence: "All free. Most approve within 48 hours. Some index same day. Most are no-follow links but still has some authority." [post]
 - `x-2094684433546985907#c3` (availability, stated) Full directory sheet with submission links is gated behind replying LIST for a DM, not posted in visible comments. — evidence: "Reply "LIST" and get the full directory sheet with submission links." [post]
+- `x-2094684433546985907#c4` (availability, demonstrated) Named-directory live check this pass: SaaSHub 200 / 211,434 B; SourceForge 200 / 113,772 B; Indie Hackers 200 / 188,546 B; Wellfound (AngelList) 200 / 122,361 B. Blocked: BetaList /submit, AlternativeTo, Slant, GetApp, Capterra, Clutch all 403. StackShare 429 — do not hammer. Tweet DR 80+/70+/60+ and 48-hour approval stay tweet-only. Full sheet still DM-gated. — evidence: "GETs 2026-09-05. analysis/_work/captures/leftover3-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [directory-submission](../../techniques/directory-submission.md)

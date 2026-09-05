@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2088155107544191339#c1` (capability, stated) One prompt yields both a finished MP4 and an interactive HTML player you can scrub frame by frame. — evidence: "→ gives you a finished .mp4 + interactive .html player" [post]
 - `x-2088155107544191339#c2` (capability, stated) The workflow builds frames with code rather than AI-generated images or video. — evidence: "this entire animation was made with code, not AI-generated images or video." [post]
+- `x-2088155107544191339#c3` (recipe, demonstrated) Linked Google Doc export 200 / 9,075 B is the Motion Prompt user guide (title MOTION PROMPT). First-party: skill name motion-prompt / file motion-promo.skill; 4–7 timed beats; always .mp4 + scrubbable .html; 9:16 1080×1920 / 1:1 / 16:9; 15–20 s social sweet spot; 20 s ≈ 600 frames / 5–15 min; Opus 5 named. Install is a sent .skill file, not a public GitHub tree. — evidence: "GET docs.google.com/.../export?format=txt 9075 B. You get two files every time: .mp4 and .html. analysis/_work/captures/leftover3-2026-09-05/gdoc-export.txt" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [remotion-code-video](../../techniques/remotion-code-video.md)

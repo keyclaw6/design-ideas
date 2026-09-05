@@ -11,6 +11,7 @@
 **Claims.**
 - `github-romangojiberryAI-gojiberryai-sales-os#c1` (capability, stated) The repo ships thirteen specialized outbound agents orchestrated through the GojiberryAI MCP. — evidence: "Thirteen specialized agents — signal hunting, ICP filtering, account research, enrichment, copywriting, LinkedIn outreach, reply handling, meeting qualification — coordinated via the hosted **GojiberryAI MCP**." [linked-page]
 - `github-romangojiberryAI-gojiberryai-sales-os#c2` (recipe, demonstrated) Cursor users can copy skills and point MCP at https://mcp.gojiberry.ai/mcp. — evidence: "Manual / Cursor: copy `skills/sales-os/` into agent skills; point MCP at `https://mcp.gojiberry.ai/mcp`." [linked-page]
+- `github-romangojiberryAI-gojiberryai-sales-os#c3` (capability, demonstrated) GitHub API this pass: MIT, 96 stars, 22 forks, created 2026-09-01. Public External API is OpenAPI 3.0.0 at ext.gojiberry.ai/openapi.json (89,620 B, 32 paths). First-party model is Source agent → List → Campaign; Bearer token; 100 requests per minute per key. Scalar docs page is a 2,479 B shell. No filled ICP in the repo. — evidence: "GET api.github.com/repos/romangojiberryAI/gojiberryai-sales-os stargazers_count 96. GET /openapi.json 32 paths. leftover3-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [outbound-agent-pipeline](../../techniques/outbound-agent-pipeline.md)
