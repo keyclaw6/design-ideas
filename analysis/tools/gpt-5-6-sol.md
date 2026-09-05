@@ -7,5 +7,5 @@
 - [GPT 5.6 Sol website prompt teaser (marketplace link)](../items/x-2095451624139567162/card.md) — example — image-prompt-galleries
 
 <!-- NOTES:START -->
-
+**2026-09-05 capture — Sol “marketplace” is sceneai.art.** Quoted t.co on `ranakabiria/2095451727088828653` → `https://sceneai.art/` **200 / 308,165 B**. Title **SceneAI: The Best UI Prompt Library on the Internet** (source ranking language). **36** `Copy Prompt` / **46** unique `aria-label="Preview …"` titles. Banner **60% OFF**; **Get All Access** ×9. HTML has **no GPT 5.6** and **no unlimited**. Sol prompt body still missing. Receipt `analysis/_work/captures/sceneai-art-2026-09-05.json`.
 <!-- NOTES:END -->

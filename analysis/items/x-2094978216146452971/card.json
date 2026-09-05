@@ -62,6 +62,16 @@
       "evidence_ref": "research.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2094978216146452971#c4",
+      "text": "fxtwitter article 2094971964163006468 (carrier nateherk/2094977775593525567) is 102 blocks / 90 nonempty / 9,821 chars. Cost pairs Fable 5.1 vs 5: $18.24/$20.22, $14.52/$14.67, $12.83/$21.64, $11.18/$17.37. scroll-craft is not in the article body.",
+      "kind": "benchmark",
+      "evidence": "Fable 5 Versus Fable 5.1. $18.24 with Fable 5.1 versus $20.22 with Fable 5; $14.52 versus $14.67; $12.83 versus $21.64; $11.18 versus $17.37. scroll-craft string absent from the 9,821-char body.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/fable-5-1.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,
@@ -154,5 +164,5 @@
     "why_must_read": "Full Fable 5.1 article body with cost tables and site names is summarized in research.md, not post.md."
   },
   "worker": "cards-12",
-  "written_at": "2026-09-04T18:10:00Z"
+  "written_at": "2026-09-05T01:00:00Z"
 }

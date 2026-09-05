@@ -16,4 +16,6 @@ Score items that use this method on the owner brief's comparison axes. Do not tr
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
 **2026-09-04 capture — CrowdReply homepage.** `GET https://crowdreply.io` **200 / 1,136,240 B**. Title quotes **#1** (source ranking language). Marketplace **40,000+** publishers; **5,000+** brands. 4%→40% still absent. See [crowdreply-mcp](../tools/crowdreply-mcp.md).
+
+**2026-09-05 capture — 4%→40% / 11 weeks is in the X article body.** See [crowdreply-mcp](../tools/crowdreply-mcp.md). Still first-party article copy, not an Ahrefs/Moz export.
 <!-- NOTES:END -->

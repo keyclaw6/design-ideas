@@ -39,7 +39,7 @@ These are load-bearing if someone acts on “syrups,” and every one is still `
 
 - TinyShots DR 11→46 from TinyShelf alone ([x-2094328961522397530#c1](../../items/x-2094328961522397530/card.md)). Need an Ahrefs/Moz export, not a tweet.
 - 108 repeating AI citations and +21% on unbranded prompts ([x-2094148909253943322](../../items/x-2094148909253943322/card.md)). Need the prompt set and the tracker.
-- CrowdReply 4%→40% in 11 weeks ([x-2094553318031024285#c2](../../items/x-2094553318031024285/card.md)). Lives in a quoted X article (`2094451432208711681`); jina and direct fetch both 403. Do not treat the tweet’s paraphrase as a receipt.
+- CrowdReply 4%→40% in 11 weeks ([x-2094553318031024285#c2](../../items/x-2094553318031024285/card.md)). **Now in the X article body** (14,763 chars via fxtwitter carrier `dawoodkhan254/2094451439573881015`): 847 domains / ~10% closed / 85 mentions; 76→127 of 847; 2→9 of 17 ChatGPT sources. Still first-party copy, not a tracker export. Do not collapse with `/features` “4% on Perplexity.”
 - $100k traffic and $25k revenue AEO stories ([x-2093729321131368744](../../items/x-2093729321131368744/card.md), [x-2094450512938856802](../../items/x-2094450512938856802/card.md)). Treat as marketing until a property + date range shows up.
 - llms.txt 10/10 fetch ([x-2088046188037902579](../../items/x-2088046188037902579/card.md)). Re-run the ten models; the screenshot is the only evidence.
 - Brave 1,190 sessions / 1.34% ([x-2094688982940741816#c2](../../items/x-2094688982940741816/card.md)). Screenshot exists; property is unnamed.
@@ -55,7 +55,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 
 ## serp-ai-visibility — next capture work
 
-1. CrowdReply homepage is live (**1,136,240 B**; quote-only “#1”). Marketplace **40,000+** publishers / **5,000+** brands. `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap, not 4%→40% / 11 weeks ([crowdreply-mcp](../../tools/crowdreply-mcp.md)). Remaining: a keyed session and the X article body.
+1. CrowdReply homepage is live (**1,136,240 B**; quote-only “#1”). Marketplace **40,000+** publishers / **5,000+** brands. `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap. X article **2094451432208711681** body is now on [crowdreply-mcp](../../tools/crowdreply-mcp.md) (4%→40% / 11 weeks + 847 / 85). Remaining: a keyed MCP session.
 2. Shimanski tool URLs from the must-read card are live (200) but several are now platforms/extensions, not one-job pages ([serp-keyword-research](../../techniques/serp-keyword-research.md)). TurjoAt `t.co/cTa5Jep0AT` **301 → aiedit.com** (100+ models / 15+ tools platform). Thread still 26/3.
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.

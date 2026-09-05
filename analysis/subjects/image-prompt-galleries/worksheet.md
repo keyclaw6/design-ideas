@@ -20,14 +20,14 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 | MeiGen | GPT Image, Seedance, Nano Banana, Midjourney | MCP repo `data/trending-prompts.json` **1,446**; **9** named tools | community prompts; site 403 this pass | MCP repo MIT; live gallery uncounted |
 | PRYNE brand template | GPT (implied) | one 16:9 template + fill-in line | demonstrated on-thread | author examples |
 | Imageory.in | ChatGPT | marketplace site | stills only | unknown |
-| GPT 5.6 Sol teasers | Sol | prompt **not captured** | video only | marketplace link |
+| GPT 5.6 Sol teasers | Sol | prompt **not captured**; quoted marketplace is **sceneai.art** (36 Copy Prompt / 46 previews) | video only | sceneai.art is a UI library, not the Sol text |
 
 ## image-prompt-galleries — claims that need a receipt
 
 - YouMind “10,000+” — tree counted 2026-09-04: unique ids **14,965**, manifest `totalPrompts` **15,508**, category-file sum **22,466**. Do not collapse. See [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md).
 - MeiGen “1,446+ / nine MCP tools” — repo file is **exactly 1,446**; nine `src/tools` names listed on the same NOTES. Live `meigen.ai` was Cloudflare 403 this pass.
 - awesome-gpt-image-2 2,449 stars in 24h / 16,477 total — capture snapshot. API 2026-09-04: **28,017** stars. Case file counts on [gpt-image-2](../../tools/gpt-image-2.md).
-- Sol website prompts — the prompt text is missing; the cards say so.
+- Sol website prompts — the prompt text is missing. Quoted “unlimited” link is **sceneai.art** (308,165 B; no GPT 5.6 / unlimited in HTML) ([gpt-5-6-sol](../../tools/gpt-5-6-sol.md)).
 
 ## image-prompt-galleries — do not treat as load-bearing
 
@@ -37,6 +37,6 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 
 ## image-prompt-galleries — next capture work
 
-1. Save the Sol prompt text if the author posts it; until then keep those cards as examples-only.
+1. Save the Sol prompt text if the author posts it. Marketplace destination is now **sceneai.art**; still no Sol body. Keep those cards as examples-only.
 2. YouMind + MeiGen file counts are on [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md). awesome-gpt-image-2 tree counts are on [gpt-image-2](../../tools/gpt-image-2.md). Remaining: a headed MeiGen gallery count if Cloudflare clears; do not use the 403 shell.
 3. Fold this subject into design-agent-skills only if a later pass finds no image-only users. Grain is already inside 6–60.

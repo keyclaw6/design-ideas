@@ -1,0 +1,21 @@
+{
+  "fetched": "2026-09-05T00:55:00Z",
+  "method": "fxtwitter-api",
+  "carrier_tweet": "https://api.fxtwitter.com/nateherk/status/2094977775593525567",
+  "carrier_author": "nateherk",
+  "article_id": "2094971964163006468",
+  "title": "Fable 5.1 FINALLY Kills AI Website Slop",
+  "block_count": 102,
+  "nonempty_blocks": 90,
+  "char_count": 9821,
+  "five_sites": true,
+  "two_from_single_prompt": true,
+  "cost_pairs_fable51_vs_fable5_usd": [
+    [18.24, 20.22],
+    [14.52, 14.67],
+    [12.83, 21.64],
+    [11.18, 17.37]
+  ],
+  "scroll_craft_in_article_body": false,
+  "note": "Title ranking language is the author's. scroll-craft is named on the amplifying tweet ('skill is in the replies'), not in this 9,821-char body. Logged-out x.com/i/article/2094971964163006468 and api.fxtwitter.com/nateherk/status/2094971964163006468 are 404."
+}
