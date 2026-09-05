@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2087708050002239702#c1` (capability, stated) Design mode draws and annotates on your site then sends feedback to any AI agent. — evidence: "draw and annotate right on your site, then send that feedback to any AI agent." [post]
+- `x-2087708050002239702#c2` (availability, demonstrated) leftover4 first-party: https://www.orca.build/ 200 / 2,963 B with empty title and no H1. Apex https://orca.build/ handshake timed out — do not retry. On-page annotate / send-to-any-agent copy is not in that 2,963 B shell. — evidence: "leftover4-2026-09-05.json orca-www 200 / 2963 B title empty; orca-build URLError handshake timed out. leftover11 attach, no retry." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

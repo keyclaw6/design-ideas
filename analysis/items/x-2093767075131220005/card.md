@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093767075131220005#c1` (recipe, stated) Landing page for an AI-based Harry Potter experience event was built with Custom Skills, a video tool, and Cursor. — evidence: "Built by Custom Skills + My Video Tool + Cursor + Some Creativity" [post]
+- `x-2093767075131220005#c2` (counter-claim, demonstrated) Same author leftover as the DESIGN.md hero: designbymoein.com NXDOMAIN. moeindesign.com is a different Moein graphic-design blog (378,216 B, lorem contact) — do not collapse with @DesignByMoein. Hogwarts event landing + custom-skills recipe stays tweet-only. — evidence: "cursor NOTES leftover9: designbymoein.com NXDOMAIN; moeindesign.com 378216 B. leftover11 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

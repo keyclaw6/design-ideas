@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2093767075131220005#c2",
+      "text": "Same author leftover as the DESIGN.md hero: designbymoein.com NXDOMAIN. moeindesign.com is a different Moein graphic-design blog (378,216 B, lorem contact) — do not collapse with @DesignByMoein. Hogwarts event landing + custom-skills recipe stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "cursor NOTES leftover9: designbymoein.com NXDOMAIN; moeindesign.com 378216 B. leftover11 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cursor.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,

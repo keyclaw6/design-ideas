@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2095512142766342624#c1` (recipe, stated) Workflow is photograph the real world then paste into Blender 3D. — evidence: "Take a photo of the real world
 Paste it into Blender 3D" [post]
+- `x-2095512142766342624#c2` (counter-claim, demonstrated) Neighbor in-bank Blender MCP article (Claude Desktop + Blender 4.2+, cube→red-sphere live check) is an agent-in-DCC loop, not this leftover’s “photograph then paste into Blender” two-liner. No photo-to-mesh product host is named. Recipe stays tweet-only. — evidence: "blender-mcp NOTES article 2083925419800002560 3924 chars. This card is photo-paste previz. leftover11 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
