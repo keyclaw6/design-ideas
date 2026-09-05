@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Hyperspace Agent</title>
+    <meta name="description" content="Run an autonomous AI agent on the decentralized P2P network. Earn points, serve inference, and contribute to distributed ML research — from your browser or CLI." />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://agents.hyper.space/" />
+    <meta property="og:title" content="Hyperspace — Decentralized AI Agent Network" />
+    <meta property="og:description" content="Run an autonomous AI agent on the decentralized P2P network. Earn points, serve inference, and contribute to distributed ML research." />
+    <meta property="og:image" content="https://agents.hyper.space/hero.jpeg" />
+    <meta property="og:image:width" content="1024" />
+    <meta property="og:image:height" content="1024" />
+    <meta property="og:site_name" content="Hyperspace" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@HyperspaceAI" />
+    <meta name="twitter:title" content="Hyperspace — Decentralized AI Agent Network" />
+    <meta name="twitter:description" content="Run an autonomous AI agent on the decentralized P2P network. Earn points, serve inference, and contribute to distributed ML research." />
+    <meta name="twitter:image" content="https://agents.hyper.space/hero.jpeg" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <script src="/init.js"></script>
+    <style>
+      /* Critical styles — prevent FOUC */
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body {
+        font-family: 'JetBrains Mono', monospace;
+        background: #000000;
+        color: #ffffff;
+        min-height: 100vh;
+        -webkit-font-smoothing: antialiased;
+      }
+    </style>
+    <script>
+      // Browser shim for Node globals referenced by libp2p vendor deps.
+      // Keep `versions` empty so node-detection stays "browser".
+      if (typeof globalThis.process === 'undefined') {
+        globalThis.process = { env: {}, argv: [], versions: {}, nextTick: function (f) { var a = [].slice.call(arguments, 1); queueMicrotask(function () { f.apply(null, a); }); } };
+      }
+      if (typeof globalThis.Buffer === 'undefined') {
+        class __ShimBuffer extends Uint8Array {
+          static from(d, enc) {
+            if (typeof d === 'string') {
+              if (enc === 'hex') { const a = new __ShimBuffer(d.length / 2); for (let i = 0; i < a.length; i++) a[i] = parseInt(d.substr(i * 2, 2), 16); return a; }
+              if (enc === 'base64') { const b = atob(d), a = new __ShimBuffer(b.length); for (let i = 0; i < b.length; i++) a[i] = b.charCodeAt(i); return a; }
+              return new __ShimBuffer(new TextEncoder().encode(d));
+            }
+            return new __ShimBuffer(d.buffer ? new Uint8Array(d.buffer, d.byteOffset || 0, d.byteLength) : d);
+          }
+          static alloc(n) { return new __ShimBuffer(n); }
+          static concat(list) { const n = list.reduce((s, b) => s + b.length, 0), out = new __ShimBuffer(n); let o = 0; for (const b of list) { out.set(b, o); o += b.length; } return out; }
+          static isBuffer(x) { return x instanceof __ShimBuffer; }
+          toString(enc) {
+            if (enc === 'hex') return Array.from(this, (b) => b.toString(16).padStart(2, '0')).join('');
+            if (enc === 'base64') { let s = ''; for (const b of this) s += String.fromCharCode(b); return btoa(s); }
+            return new TextDecoder().decode(this);
+          }
+          get _dv() { return new DataView(this.buffer, this.byteOffset, this.byteLength); }
+          copy(target, tStart, sStart, sEnd) { const s = this.subarray(sStart || 0, sEnd ?? this.length); target.set(s, tStart || 0); return s.length; }
+          equals(other) { if (this.length !== other.length) return false; for (let i = 0; i < this.length; i++) if (this[i] !== other[i]) return false; return true; }
+          slice(a, b) { return new __ShimBuffer(this.subarray(a, b)); }
+        }
+        (function () {
+          const types = [['Int8',1],['Uint8',1],['Int16',2],['Uint16',2],['Int32',4],['Uint32',4],['Float32',4],['Float64',8],['BigInt64',8],['BigUint64',8]];
+          const alias = { Uint8: 'UInt8', Uint16: 'UInt16', Uint32: 'UInt32', Float32: 'Float', Float64: 'Double', BigUint64: 'BigUInt64' };
+          for (const [t, size] of types) {
+            const name = alias[t] || t;
+            const big = t.startsWith('Big');
+            for (const le of (size === 1 ? [null] : [true, false])) {
+              const suffix = le === null ? '' : le ? 'LE' : 'BE';
+              __ShimBuffer.prototype['write' + name + suffix] = function (v, o) { this._dv['set' + t](o || 0, big ? BigInt(v) : v, le === null ? undefined : le); return (o || 0) + size; };
+              __ShimBuffer.prototype['read' + name + suffix] = function (o) { return this._dv['get' + t](o || 0, le === null ? undefined : le); };
+            }
+          }
+        })();
+        globalThis.Buffer = __ShimBuffer;
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index-wgAWfjrr.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-DOmrjZvr.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-libp2p-JTlDL43O.js">
+    <link rel="modulepreload" crossorigin href="/assets/pkg-inference-BAWjQdSt.js">
+    <link rel="modulepreload" crossorigin href="/assets/pkg-network-CZKcmDh5.js">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
