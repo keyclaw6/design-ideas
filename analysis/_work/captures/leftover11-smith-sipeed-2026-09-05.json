@@ -1,0 +1,44 @@
+{
+  "smith-co": {
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "smith-cad": {
+    "error": "<urlopen error [Errno -2] Name or service not known>"
+  },
+  "smith-ai": {
+    "status": 200,
+    "bytes": 319322,
+    "final": "https://smith.ai/",
+    "title": "Smith.ai 24/7 AI Receptionists &amp; Live Human Agents"
+  },
+  "getsmith": {
+    "status": 200,
+    "bytes": 162750,
+    "final": "https://www.smithgds.ca/",
+    "title": "SmithGDS | Ideas that Ignite Action"
+  },
+  "sipeed": {
+    "status": 200,
+    "bytes": 2251,
+    "final": "https://sipeed.com/",
+    "title": "Sipeed"
+  },
+  "sipeed-wiki": {
+    "status": 200,
+    "bytes": 72489,
+    "final": "https://wiki.sipeed.com/",
+    "title": "Sipeed \u8d44\u6599\u7ad9 - Sipeed Wiki"
+  },
+  "arche": {
+    "status": 200,
+    "bytes": 122718,
+    "final": "https://arche.co/",
+    "title": "Arche Industries"
+  },
+  "archedotco": {
+    "status": 200,
+    "bytes": 122718,
+    "final": "https://arche.co/",
+    "title": "Arche Industries"
+  }
+}

@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2089802212000362939#c1` (result, stated) The shown mini jet engine was designed with Opus in Smith and is described as manufacturable. — evidence: "A manufacturable mini jet engine, designed with Opus in Smith." [post]
+- `x-2089802212000362939#c2` (availability, demonstrated) First-party Smith is Arche Industries https://arche.co/ 200 / 122,718 B. Nav: Smith / DFM / Scrapyard / Build. Copy: Design for Smith writes the CAD and runs the simulation; Scrapyard ships the part; Python is the source of truth; GPU-accelerated structural and CFD. DFM mode: orientation solver ranks 20 build directions; sheet metal exports layered DXF. Scrapyard lists a “Jet plane, display model” by Vincent Zhou — do not collapse with this leftover’s Opus-in-Smith manufacturable mini jet. smith.ai is 24/7 receptionists (319,322 B) — do not collapse. smith.co 403 this pass — do not hammer. — evidence: "arche.co 122718 B Smith DFM Scrapyard Python source of truth; smith.ai 319322 B receptionists; smith.co 403. leftover11-smith-sipeed-2026-09-05.json + visible." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** —
+**Links.** product (https://arche.co/)
 **Related items.** [x-2089717063921332378](../x-2089717063921332378/card.md), [x-2090535643353153833](../x-2090535643353153833/card.md), [x-2087272209429766596](../x-2087272209429766596/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)
 **Media.**
 `raw/items/x-2089802212000362939/media/media_0.jpg` (video, carries_technique=true) — 14-second vertical clip showing a rendered mini jet engine CAD model produced via Opus in Smith at 588x960.

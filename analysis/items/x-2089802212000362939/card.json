@@ -38,6 +38,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2089802212000362939#c2",
+      "text": "First-party Smith is Arche Industries https://arche.co/ 200 / 122,718 B. Nav: Smith / DFM / Scrapyard / Build. Copy: Design for Smith writes the CAD and runs the simulation; Scrapyard ships the part; Python is the source of truth; GPU-accelerated structural and CFD. DFM mode: orientation solver ranks 20 build directions; sheet metal exports layered DXF. Scrapyard lists a “Jet plane, display model” by Vincent Zhou — do not collapse with this leftover’s Opus-in-Smith manufacturable mini jet. smith.ai is 24/7 receptionists (319,322 B) — do not collapse. smith.co 403 this pass — do not hammer.",
+      "kind": "availability",
+      "evidence": "arche.co 122718 B Smith DFM Scrapyard Python source of truth; smith.ai 319322 B receptionists; smith.co 403. leftover11-smith-sipeed-2026-09-05.json + visible.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover11-smith-sipeed-visible-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],
@@ -48,7 +58,7 @@
     "canonical": "https://x.com/archedotco/status/2089802212000362939",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://arche.co/",
     "other": [],
     "related_items": [
       "x-2089717063921332378",

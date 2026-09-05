@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2092106682302140648#c1` (result, stated) AI automated schematic design finishes in one hour what takes a skilled engineer half a day. — evidence: "what takes a skilled engineer half a day, it finishes in just one hour" [post]
+- `x-2092106682302140648#c2` (availability, demonstrated) First-party Sipeed this pass: sipeed.com 200 / 2,251 B (empty visible SPA, title Sipeed). wiki.sipeed.com 200 / 72,489 B is MaixCAM / Tang FPGA / Lichee SBC docs (MaixCAM2 NPU 3.2Tops@INT8). One-hour vs half-day schematic copy is not on those pages. Tweet clock stays tweet-only. — evidence: "sipeed.com 2251 B empty visible; wiki.sipeed.com 72489 B MaixCAM/Tang/Lichee. leftover11-smith-sipeed-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
