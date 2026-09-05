@@ -109,6 +109,16 @@
       "evidence_ref": "analysis/tools/treg.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094740953554932149#c6",
+      "text": "leftover26 unused github.com/superdesigndev/treg host string is already leftover24 #c5 (1,190\u2605). No new integers.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip treg GitHub host already #c5.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/treg.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "links": {

@@ -14,6 +14,7 @@ Running inside Grok Bot.
 Powered by the GojiberryAI MCP." [post]
 - `x-2095081419202560010#c2` (capability, stated) README states live prospecting requires MCP auth: No MCP, no live pipeline. — evidence: "No MCP, no live pipeline." [linked-page]
 - `x-2095081419202560010#c3` (capability, demonstrated) GitHub romangojiberryAI/gojiberryai-sales-os is MIT / 96★ / 22 forks this pass (created 2026-09-01). ext.gojiberry.ai/openapi.json is OpenAPI 3.0.0 / 89,620 B / 32 paths. First-party pipeline is Source agent → List → Campaign; Bearer auth; 100 requests per minute per API key. Docs HTML is a 2,479 B Scalar shell. Do not invent a filled ICP for the tweet 97/1 run. — evidence: "GET api.github.com 96 stars MIT. GET ext.gojiberry.ai/openapi.json 89620 B 32 paths; Rate Limits 100 requests per minute. analysis/_work/captures/leftover3-2026-09-05.json" [note]
+- `x-2095081419202560010#c4` (availability, demonstrated) leftover26 unused mcp.gojiberry.ai/mcp stays keyed. GitHub 96★ already on #c3. Do not hammer. — evidence: "leftover26-2026-09-05.json skip keyed Gojiberry MCP." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

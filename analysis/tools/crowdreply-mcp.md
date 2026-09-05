@@ -30,4 +30,6 @@ Citation-outreach marketing page (https://crowdreply.io/features/citation-outrea
 **2026-09-05 capture — X article 2094451432208711681 body via fxtwitter.** Carrier `dawoodkhan254/2094451439573881015`. **165** blocks / **150** nonempty / **14,763** chars. Title *How I use Grok Bots to rank brands on AI answers that it feels illegal*. First-party copy **does** include **4%→40% visibility on buying questions in 11 weeks**, plus **847** cited domains / **~10%** closed / **85** mentions; **76→127** of 847 cited pages; **2→9** of 17 ChatGPT sources on “the one that mattered most”; **1,860+** offsite mentions; **10,000+** brands. Six named bots: Chief of Staff, Scout, Finder, Writer, Closer, Watcher. Logged-out `x.com/i/article/…` still 404. Do not collapse with `/features` “4% on Perplexity.” Receipt `analysis/_work/captures/crowdreply-x-article-2094451432208711681.json`.
 
 **2026-09-05 leftover24.** Unused `/features/citation-outreach` **396,104 B** restates **5,000+** brands / **240+** / **1,860+** / **22,400+** / unpublished **$0**. MCP stays keyed. Receipt `leftover24-2026-09-05.json`.
+
+**2026-09-05 leftover26.** Unused `mcp.crowdreply.io/mcp` stays keyed — do not hammer. Receipt `leftover26-2026-09-05.json`.
 <!-- NOTES:END -->

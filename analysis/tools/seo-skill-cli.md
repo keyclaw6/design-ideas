@@ -23,4 +23,6 @@ Local `seo` CLI + MCP (`seo mcp install`). Audits, Search Console, connected ana
 **2026-09-05 leftover23.** Unused `npmjs.com/package/seo` **403 / 5,650 B** Cloudflare — do not hammer. Receipt `leftover23-2026-09-05.json`.
 
 **2026-09-05 leftover24.** Unused GitHub `iannuttall/seo` Apache-2.0 **463★** first-party **70+** SEO audit tools. Homepage still has no 70+. Receipt `leftover24-2026-09-05.json`.
+
+**2026-09-05 leftover26.** Unused `github.com/iannuttall/seo` host string is leftover24 `#c6`. Receipt `leftover26-2026-09-05.json`.
 <!-- NOTES:END -->

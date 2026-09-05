@@ -92,6 +92,16 @@
       "evidence_ref": "analysis/tools/crowdreply-mcp.md",
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094553318031024285#c7",
+      "text": "leftover26 unused mcp.crowdreply.io/mcp stays keyed. Citation-outreach leftover24 already on #c6. Do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip keyed CrowdReply MCP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/crowdreply-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,

@@ -94,6 +94,16 @@
       "evidence_ref": "analysis/tools/headlong.md",
       "confidence": "demonstrated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2091990178638496195#c5",
+      "text": "leftover26 unused laude.org Headlong post host string is already leftover22 #c4 (227,836 B / 9.9K). No new integers.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip laude.org already leftover22 #c4.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/headlong.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "links": {

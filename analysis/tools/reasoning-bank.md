@@ -19,4 +19,6 @@ Paper Table 1 WebArena overall SR / steps (684 tasks; Map excluded): Gemini-2.5-
 **2026-09-05 leftover20.** GitHub API now **562★** / 66 forks / Apache-2.0. README still **5,783 B**. Guessed `research.google/blog/reasoningbank*` **404**. Do not collapse 562 with 561.
 
 **2026-09-05 leftover24.** Unused abs `arxiv.org/abs/2509.25140` **45,267 B** still ICLR 2026 v2 (16 Mar 2026; PDF **3,953 KB**). OpenReview still gated. Receipt `leftover24-2026-09-05.json`.
+
+**2026-09-05 leftover26.** Neighbor unused `openreview.net/forum?id=CGO1hDTHNe` stays gated — do not hammer. Receipt `leftover26-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -69,11 +69,21 @@
     },
     {
       "id": "x-2095081419202560010#c3",
-      "text": "GitHub romangojiberryAI/gojiberryai-sales-os is MIT / 96★ / 22 forks this pass (created 2026-09-01). ext.gojiberry.ai/openapi.json is OpenAPI 3.0.0 / 89,620 B / 32 paths. First-party pipeline is Source agent → List → Campaign; Bearer auth; 100 requests per minute per API key. Docs HTML is a 2,479 B Scalar shell. Do not invent a filled ICP for the tweet 97/1 run.",
+      "text": "GitHub romangojiberryAI/gojiberryai-sales-os is MIT / 96\u2605 / 22 forks this pass (created 2026-09-01). ext.gojiberry.ai/openapi.json is OpenAPI 3.0.0 / 89,620 B / 32 paths. First-party pipeline is Source agent \u2192 List \u2192 Campaign; Bearer auth; 100 requests per minute per API key. Docs HTML is a 2,479 B Scalar shell. Do not invent a filled ICP for the tweet 97/1 run.",
       "kind": "capability",
       "evidence": "GET api.github.com 96 stars MIT. GET ext.gojiberry.ai/openapi.json 89620 B 32 paths; Rate Limits 100 requests per minute. analysis/_work/captures/leftover3-2026-09-05.json",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/gojiberry-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2095081419202560010#c4",
+      "text": "leftover26 unused mcp.gojiberry.ai/mcp stays keyed. GitHub 96\u2605 already on #c3. Do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip keyed Gojiberry MCP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
     }

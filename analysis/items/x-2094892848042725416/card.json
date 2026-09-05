@@ -3,7 +3,7 @@
   "id": "x-2094892848042725416",
   "source_type": "x",
   "url": "https://x.com/pierreeliottlal/status/2094892848042725416",
-  "title": "Gojiberry CEO launch — 13-agent outbound tree on hosted MCP for Grok Bot",
+  "title": "Gojiberry CEO launch \u2014 13-agent outbound tree on hosted MCP for Grok Bot",
   "author": {
     "name": "Pierre-Eliott Lallemant",
     "handle": "pierreeliottlal",
@@ -37,7 +37,7 @@
       "id": "x-2094892848042725416#c1",
       "text": "The post introduces a full outbound team of thirteen specialized agents from Head of Sales through Sales Manager.",
       "kind": "capability",
-      "evidence": "┃  \n┣ 📁 Head of Sales",
+      "evidence": "\u2503  \n\u2523 \ud83d\udcc1 Head of Sales",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -57,7 +57,7 @@
       "id": "x-2094892848042725416#c3",
       "text": "Outreach Operator queues LinkedIn campaigns with zero sent until the user approves.",
       "kind": "capability",
-      "evidence": "┃ ┗ 📁 0 sent until you say so",
+      "evidence": "\u2503 \u2517 \ud83d\udcc1 0 sent until you say so",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -72,6 +72,16 @@
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents",
       "id": "x-2094892848042725416#c4"
+    },
+    {
+      "id": "x-2094892848042725416#c5",
+      "text": "leftover26 unused GitHub gojiberryai-sales-os is leftover24 96\u2605 on the sibling must-read. Unused mcp.gojiberry.ai/mcp stays keyed \u2014 do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip sibling Gojiberry GitHub + keyed MCP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],
@@ -95,7 +105,8 @@
     "paper": null,
     "product": "https://gojiberry.ai/",
     "other": [
-      "https://mcp.gojiberry.ai/mcp"
+      "https://mcp.gojiberry.ai/mcp",
+      "https://github.com/romangojiberryAI/gojiberryai-sales-os"
     ],
     "related_items": [
       "github-romangojiberryAI-gojiberryai-sales-os",

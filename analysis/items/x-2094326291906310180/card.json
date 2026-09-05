@@ -72,6 +72,16 @@
       "evidence_ref": "analysis/tools/gojiberryai.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094326291906310180#c5",
+      "text": "leftover26 unused gojiberry.ai homepage is already leftover21 1,154,716 B. Unused mcp.gojiberry.ai/mcp stays keyed \u2014 do not hammer. Still no filled ICP.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip gojiberry.ai homepage + keyed MCP.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],
@@ -116,7 +126,8 @@
     "product": "https://gojiberry.ai/",
     "other": [
       "https://mcp.gojiberry.ai/mcp",
-      "https://github.com/romangojiberryAI/gojiberryai-sales-os"
+      "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+      "https://gojiberry.ai/"
     ],
     "related_items": [
       "github-romangojiberryAI-gojiberryai-sales-os",

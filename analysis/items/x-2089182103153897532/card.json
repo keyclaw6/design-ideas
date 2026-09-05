@@ -3,7 +3,7 @@
   "id": "x-2089182103153897532",
   "source_type": "x",
   "url": "https://x.com/scottymatt/status/2089182103153897532",
-  "title": "AICSS.dev — agent-chat UI components for thinking, tools, and streaming",
+  "title": "AICSS.dev \u2014 agent-chat UI components for thinking, tools, and streaming",
   "author": {
     "name": "Scotty Matthewman",
     "handle": "scottymatt",
@@ -30,7 +30,7 @@
     "react",
     "cursor"
   ],
-  "summary": "Reaction link to aicss.dev: 14 copy-paste UI components for AI agent conversations—thinking states, tool calls, streaming text, approvals—with React/Vue/Svelte snippets and an agent-ingestible /r JSON index.",
+  "summary": "Reaction link to aicss.dev: 14 copy-paste UI components for AI agent conversations\u2014thinking states, tool calls, streaming text, approvals\u2014with React/Vue/Svelte snippets and an agent-ingestible /r JSON index.",
   "question_it_answers": "What component library covers agent thinking, tool traces, and streaming chat UI?",
   "claims": [
     {
@@ -55,9 +55,19 @@
     },
     {
       "id": "x-2089182103153897532#c3",
-      "text": "Live GET /r is 200 / 3,042 B: total 14, free 10, locked 4 (file-diff, image-generation, inline-citations, comparison-table). Homepage 200 / 321,914 B titled AICSS · UI components for AI agents.",
+      "text": "Live GET /r is 200 / 3,042 B: total 14, free 10, locked 4 (file-diff, image-generation, inline-citations, comparison-table). Homepage 200 / 321,914 B titled AICSS \u00b7 UI components for AI agents.",
       "kind": "availability",
       "evidence": "JSON keys total/free/components. Locked require Authorization Bearer from /account. See analysis/_work/captures/aicss-r-2026-09-04.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/aicss.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089182103153897532#c4",
+      "text": "leftover26 unused aicss.dev /r host string is already first-party on #c3 (14 / 10 free / 4 locked). No new integers.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip aicss.dev already on #c3.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/aicss.md",
       "confidence": "demonstrated",
@@ -83,7 +93,8 @@
     "paper": null,
     "product": "https://www.aicss.dev/",
     "other": [
-      "https://www.aicss.dev/r"
+      "https://www.aicss.dev/r",
+      "https://www.aicss.dev/"
     ],
     "related_items": [
       "web-originkit-dev",

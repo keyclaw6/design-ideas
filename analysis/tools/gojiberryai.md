@@ -19,4 +19,6 @@ Neighbor (parked; no starborn.md): 2026-09-05 `https://www.starbornai.com/` GET 
 **2026-09-05 leftover21.** Root `t.co/s0za9kxTZC` loops to the same X status. Still no filled ICP for 97/1.
 
 **2026-09-05 leftover25.** Unused neighbor `linkedin.com/in/leadgenwiz` **999 / 1,530 B** — do not hammer. Receipt `leftover25-2026-09-05.json`.
+
+**2026-09-05 leftover26.** Unused `gojiberry.ai` homepage already leftover21; unused `mcp.gojiberry.ai/mcp` stays keyed — do not hammer. Still no filled ICP. Receipt `leftover26-2026-09-05.json`.
 <!-- NOTES:END -->

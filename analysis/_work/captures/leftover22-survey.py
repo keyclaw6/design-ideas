@@ -45,6 +45,11 @@ DEAD = (
     "www.producthunt.com",
     "linkedin.com",
     "www.linkedin.com",
+    "grok.com",
+    "www.grok.com",
+    "openreview.net",
+    "mcp.gojiberry.ai",
+    "mcp.crowdreply.io",
 )
 
 SKIP_HOSTS = (

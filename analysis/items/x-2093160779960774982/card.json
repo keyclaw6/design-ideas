@@ -34,7 +34,7 @@
       "id": "x-2093160779960774982#c1",
       "text": "REAP pruning cuts MoE experts from 512 to 288 with MLX 4-bit build 60% smaller than stock q4.",
       "kind": "capability",
-      "evidence": "Pruned 512→288 experts via REAP",
+      "evidence": "Pruned 512\u2192288 experts via REAP",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -59,6 +59,16 @@
       "confidence": "demonstrated",
       "subject": "local-inference-models",
       "id": "x-2093160779960774982#c3"
+    },
+    {
+      "id": "x-2093160779960774982#c4",
+      "text": "leftover26 unused huggingface.co generic host is the same HF model already on #c3 (sh0wie REAP-288). No new integers.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip huggingface.co generic host.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unsloth.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "recipe_steps": null,

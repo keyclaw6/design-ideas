@@ -12,11 +12,12 @@
 - `x-2089182103153897532#c1` (capability, stated) AICSS ships 14 components for AI agent chat UI including thinking states, tool calls, and streaming text. — evidence: "14 components; 10 free, rest behind a one-time license." [reply]
 - `x-2089182103153897532#c2` (recipe, stated) Components expose a programmatic index at /r and /r/{slug} with optional ?format=md for agent ingestion. — evidence: "Programmatic index at `/r` and `/r/{slug}` (JSON) plus `?format=md` for agent-ingestible prompts." [reply]
 - `x-2089182103153897532#c3` (availability, demonstrated) Live GET /r is 200 / 3,042 B: total 14, free 10, locked 4 (file-diff, image-generation, inline-citations, comparison-table). Homepage 200 / 321,914 B titled AICSS · UI components for AI agents. — evidence: "JSON keys total/free/components. Locked require Authorization Bearer from /account. See analysis/_work/captures/aicss-r-2026-09-04.json." [note]
+- `x-2089182103153897532#c4` (availability, demonstrated) leftover26 unused aicss.dev /r host string is already first-party on #c3 (14 / 10 free / 4 locked). No new integers. — evidence: "leftover26-2026-09-05.json skip aicss.dev already on #c3." [note]
 **Numbers.** component count: 14 components (reply)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [aicss](../../tools/aicss.md)
-**Links.** product (https://www.aicss.dev/), https://www.aicss.dev/r
+**Links.** product (https://www.aicss.dev/), https://www.aicss.dev/r, https://www.aicss.dev/
 **Related items.** [web-originkit-dev](../web-originkit-dev/card.md), [web-cult-ui](../web-cult-ui/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 13 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)

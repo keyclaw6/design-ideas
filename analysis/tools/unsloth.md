@@ -27,4 +27,6 @@ Neighbor (parked; no hamster.md): 2026-09-05 HF `sh0wie/Qwen3.8-Flash-Next-REAP-
 **2026-09-05 capture — leftover10 Qwen expert-on-disk.** [x-2093429897188299113](../items/x-2093429897188299113/card.md) tweet **60%** on disk / **37 GB** / **40 tok/s** M4 Max is not the REAP-288 **39 GB streamed / 68 GB resident** table. Do not collapse 37 / 39 / 68.
 
 **2026-09-05 leftover24.** Unused HF API `unsloth/Qwen3.8-27B-GGUF`: **3,514** likes / **9,951,693** downloads. No local load. Receipt `leftover24-2026-09-05.json`.
+
+**2026-09-05 leftover26.** Unused `grok.com` is a login wall; unused generic `huggingface.co` is the same REAP-288 model already on the leftover card. Do not hammer. Receipt `leftover26-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -1,0 +1,17 @@
+{
+  "fetched_at": "2026-09-05T12:30:00Z",
+  "note": "leftover26 closes leftover22-survey leftovers that are login, gated, keyed MCP, or already-folded host-string misses. No new first-party fetch.",
+  "skips": {
+    "grok.com": "login wall — do not hammer",
+    "openreview.net": "challenge/gated — leftover20 already recorded",
+    "aicss.dev": "already first-party on same card leftover #c3",
+    "laude.org": "already leftover22 #c4 on same card",
+    "huggingface.co": "generic host; model page already on #c3",
+    "gojiberry.ai": "homepage already leftover21 1,154,716 B",
+    "mcp.gojiberry.ai": "keyed MCP — do not hammer",
+    "mcp.crowdreply.io": "keyed MCP leftover24 citation page already folded",
+    "github.com/superdesigndev/treg": "leftover24 #c5 on same card",
+    "github.com/romangojiberryAI/gojiberryai-sales-os": "leftover24 96★ already",
+    "github.com/iannuttall/seo": "leftover24 #c6 on same card"
+  }
+}

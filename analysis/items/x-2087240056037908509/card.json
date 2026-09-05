@@ -59,6 +59,16 @@
       "confidence": "demonstrated",
       "subject": "local-inference-models",
       "id": "x-2087240056037908509#c3"
+    },
+    {
+      "id": "x-2087240056037908509#c4",
+      "text": "leftover26 unused grok.com is a login wall. Do not hammer. AMD Token Factory leftover stays on #c3.",
+      "kind": "availability",
+      "evidence": "leftover26-2026-09-05.json skip grok.com login wall.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unsloth.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "recipe_steps": [],
