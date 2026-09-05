@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "contested",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2032330665081839791#c3",
+      "text": "Install t.co \u2192 agents.hyper.space/api/install 5,803 B shell (title Hyperspace Agent). Commit t.co \u2192 github.com/hyperspaceai/agi MIT 2,038\u2605. GitHub search `autoquant` total 92 is other products (AdrianAntico/AutoQuant AGPL 251\u2605 and neighbors) \u2014 do not collapse this leftover with those repos. Tweet 135 agents / Sharpe 1.32 stay tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "agents.hyper.space 5803 B; hyperspaceai/agi MIT 2038\u2605; GH search autoquant total 92. leftover12 + leftover12b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,
@@ -70,12 +80,14 @@
     "autoresearch-loop",
     "autoresearch-loop"
   ],
-  "tools": [],
+  "tools": [
+    "hyperspace"
+  ],
   "links": {
     "canonical": "https://x.com/varun_mathur/status/2032330665081839791",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://agents.hyper.space/",
     "other": [],
     "related_items": [
       "x-2032671842230501729",

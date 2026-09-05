@@ -27,7 +27,7 @@
   ],
   "artifact_type": "demo-image",
   "platforms": [],
-  "summary": "LexnLin shows four PRYNE math-education brand visuals — purple 3D symbol heroes and pastel operator blocks — claiming they were made in minutes with AI for a random math brand.",
+  "summary": "LexnLin shows four PRYNE math-education brand visuals \u2014 purple 3D symbol heroes and pastel operator blocks \u2014 claiming they were made in minutes with AI for a random math brand.",
   "question_it_answers": "What does a quick AI-generated math-education brand visual set look like?",
   "claims": [
     {
@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2092890365930131920#c2",
+      "text": "PRYNE here is a prompt-fill brand, same stills as the campaign-template card. pryne.com is a 616 B wasm-pack \u201cHello wasm-pack!\u201d page. lexnlin.com NXDOMAIN. Do not treat either host as a math-education product.",
+      "kind": "counter-claim",
+      "evidence": "pryne.com 200 / 616 B title Hello wasm-pack!; lexnlin.com NXDOMAIN. leftover9-2026-09-05.json leftover12 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover9-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,
@@ -46,7 +56,9 @@
   "techniques": [
     "svg-infographic-rendering"
   ],
-  "tools": [],
+  "tools": [
+    "gpt-image"
+  ],
   "links": {
     "canonical": "https://x.com/LexnLin/status/2092890365930131920",
     "repo": null,

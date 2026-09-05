@@ -29,7 +29,7 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 | Type | hosted scopes | product writes | product | no | unknown |
 | PipesHub | governed connectors | enterprise ingest | RAG + agents | OSS claimed | mid |
 | Sentrux | codebase graph | scan | treemap | yes | architecture, not memory |
-| EP Hermes prompt | markdown + memory layer | prompt-boot | unknown | yes | low (prompt only) |
+| EP Hermes prompt | markdown + memory layer | prompt-boot | unknown | yes | low (prompt only; LifeOS is a different product) |
 
 ## agent-memory-knowledge — claims that need a receipt
 
@@ -52,3 +52,4 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 3. Obsidian Mind tree + `/om-*` commands are on [obsidian-mind](../../tools/obsidian-mind.md). It is **not** Ryven’s stack. Tweet/infographic still has five automations + **4,000** RAW notes; quoted X article **2090496192136290304** has four prompts, **50–100** source threshold, and Claude Desktop paid — [filesystem-context-memory](../../techniques/filesystem-context-memory.md). `@imryven` GitHub user still **404**.
 4. OpenViking MCP docs name **15 tools** on `:1933/mcp` — [openviking](../../tools/openviking.md). Local **0.4.17.1** with `openviking[local-embed]` served on `127.0.0.1:1933` (`auth_mode=dev`). Live `viking://` write/read of `resources/probe/hello.md` (32 B). `ov` CLI via `ovcli.conf` (`url=http://127.0.0.1:1933`): health 0.4.17.1 Dev; status vikingdb **1 collection / 17 vectors**; `ov read` returns the probe; `ov abstract` still “not ready.” Card stays `ready-with-gaps` (`thread-partial`). Remaining: a VLM-backed L0 abstract.
 5. Sentrux is first-party on [sentrux](../../tools/sentrux.md): MIT **3,170★**; README **52** languages; public `plugins` tree **50** dirs this pass. Do not collapse. Tweet 52 matches the README, not the tree.
+6. leftover12 EP Hermes prompt: reply pointed at Daniel Miessler LifeOS. First-party `danielmiessler/LifeOS` MIT **18,886★**, `ourlifeos.ai` **113,753 B**. README names a Hermes sidecar. Do not collapse the tweet prompt with LifeOS, Mushen’s Hermes layer, or Nous hermes-agent ([hermes](../../tools/hermes.md); [x-2086920236079681607#c4](../../items/x-2086920236079681607/card.md)).

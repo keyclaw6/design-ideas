@@ -15,7 +15,7 @@
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** —
+**Links.** product (https://wiki.sipeed.com/)
 **Related items.** —
 **Media.**
 `raw/items/x-2092106682302140648/media/media_0.jpg` (image, carries_technique=false) — Attached video demo of AI schematic design workflow (file stored as media_0.jpg but is MP4).

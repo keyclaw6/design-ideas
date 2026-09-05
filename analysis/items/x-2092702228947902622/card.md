@@ -10,10 +10,11 @@
 
 **Claims.**
 - `x-2092702228947902622#c1` (availability, stated) MiniMax Agent released H3-based plugins for dynamic images and white-model rendering. — evidence: "@MiniMaxAgent just shipped H3-based plugins for dynamic images and white-model rendering!" [post]
+- `x-2092702228947902622#c2` (counter-claim, demonstrated) Media t.co loops to the same tweet. In-bank Hailuo H3 first-party (pricing 617,559 B Standard $14.99 / Pro $54.99; blog 98,310 B 15 s @ 2K) does not document MiniMax Agent H3 dynamic-image or white-model plugins. Plugin shipping stays tweet-only. — evidence: "minimax-h3 NOTES hailuo pricing/blog. leftover12 t.co/JlkEPxlSP9 loops to same status." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
+**Tools.** [minimax-h3](../../tools/minimax-h3.md)
 **Links.** —
 **Related items.** —
 **Media.**

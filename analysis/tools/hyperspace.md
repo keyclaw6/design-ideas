@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 **2026-09-05 leftover6.** Install/site t.co → `https://agents.hyper.space/` **5,803 B** shell (title Hyperspace Agent). Agents t.co → `github.com/hyperspaceai/agi` MIT **2,038★**; homepage agents.hyper.space. `clawhub.ai/hyperspace` **404**. Do not collapse with `hyperspace.ai` (All-in-one AI Tool, **446,595 B**) or `hyperspace.so` (shape light, **327,746 B**). Tweet 237 / 14,832 absent from the 5,803 B shell. Receipt `leftover6-2026-09-05.json`.
+
+**2026-09-05 leftover12 Autoquant install/commit.** Same **5,803 B** shell + `hyperspaceai/agi` MIT **2,038★**. GitHub search `autoquant` total **92** is other products (AdrianAntico/AutoQuant AGPL **251★** and neighbors) — do not collapse with this leftover ([x-2032330665081839791](../items/x-2032330665081839791/card.md)). Receipt `leftover12-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -1,0 +1,645 @@
+{
+  "fetched_at": "2026-09-05T06:10:00Z",
+  "pages": {
+    "tco-pocock-skill": {
+      "url": "https://t.co/UZRe9thSRU",
+      "final": "https://x.com/mattpocockuk/status/2086838432102228008",
+      "status": 200,
+      "bytes": 175248,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Matt Pocock on X: \"Vibed out an app today and I haven't looked at the internals at all\n\nThings are going wrong with it, I'm scared and frustrated\n\nThen I remembered /improve-codebase-architecture\n\nWhat a lovely, warm bath of a skill\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-pocock-skill-visible.txt",
+      "visible_len": 1314,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-pocock-skill-excerpt.html"
+    },
+    "tco-pocock-quoted": {
+      "url": "https://t.co/VAfPmyTLLK",
+      "final": "https://www.aihero.dev/skills-improve-codebase-architecture",
+      "status": 200,
+      "bytes": 368578,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "The /improve-codebase-architecture Skill",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-pocock-quoted-visible.txt",
+      "visible_len": 13601,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-pocock-quoted-excerpt.html"
+    },
+    "tco-hermes-writeup": {
+      "url": "https://t.co/YZV33FWmah",
+      "final": "https://x.com/shannholmberg/status/2086920236079681607",
+      "status": 200,
+      "bytes": 293568,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Shann\u00b3 on X: \"one of the best write-ups I have seen on getting hermes agent to build your life OS and second brain\n\nEP released a single prompt that creates 4 connected layers:\n\n1. a markdown knowledge base that is your source of truth\n2. a persistent memory pointer so every future session knows wh\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hermes-writeup-visible.txt",
+      "visible_len": 3168,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hermes-writeup-excerpt.html"
+    },
+    "tco-lifeos": {
+      "url": "https://t.co/nW8O3RWeko",
+      "final": "https://github.com/danielmiessler/LifeOS",
+      "status": 200,
+      "bytes": 417052,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "GitHub - danielmiessler/LifeOS: \u26f0\ufe0f The Life Operating System \u2014 an intent engineering platform that moves you from your current state to your ideal state, in life and work. \u00b7 GitHub",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-lifeos-visible.txt",
+      "visible_len": 17276,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-lifeos-excerpt.html"
+    },
+    "tco-hermes-reply": {
+      "url": "https://t.co/7H48QDMSNQ",
+      "final": "https://x.com/Blum_OG/status/2087257086170136720",
+      "status": 200,
+      "bytes": 166675,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Blum on X: \"@shannholmberg\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hermes-reply-visible.txt",
+      "visible_len": 1083,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hermes-reply-excerpt.html"
+    },
+    "tco-duckdb": {
+      "url": "https://t.co/oJr6WUUGtO",
+      "final": "https://x.com/hamiltonulmer/status/2087205167662088363",
+      "status": 200,
+      "bytes": 181385,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Hamilton Ulmer on X: \"not only does this work, but it EXTREMELY works. Dataviz at duckdb speed, for nearly free, no js required\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-duckdb-visible.txt",
+      "visible_len": 1338,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-duckdb-excerpt.html"
+    },
+    "tco-llms-blog": {
+      "url": "https://t.co/2dwDI1FuxR",
+      "final": "https://x.com/KingBootoshi/status/2088046188037902579",
+      "status": 200,
+      "bytes": 242103,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "BOOTOSHI \ud83d\udc51 on X: \"genius LLM SEO/GEO hack\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-llms-blog-visible.txt",
+      "visible_len": 1056,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-llms-blog-excerpt.html"
+    },
+    "tco-llms-love": {
+      "url": "https://t.co/veXnkp2JjU",
+      "final": "https://x.com/right_blogger/status/2088389477492281535",
+      "status": 200,
+      "bytes": 157817,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "RightBlogger \u2728 on X: \"@KingBootoshi Love it\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-llms-love-visible.txt",
+      "visible_len": 706,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-llms-love-excerpt.html"
+    },
+    "tco-runway": {
+      "url": "https://t.co/5mx6XHOlZj",
+      "final": "https://x.com/runwayml/status/2090090516151243063",
+      "status": 200,
+      "bytes": 185675,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Runway on X: \"MiniMax H3 is now unlimited on Runway.\n\nFor a limited time, Max plan users can generate as much as they want with no caps, no counting, just unlimited access to one of the best video models available. Get started now at the link below.\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-runway-visible.txt",
+      "visible_len": 1355,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-runway-excerpt.html"
+    },
+    "tco-runway-scam1": {
+      "url": "https://t.co/dKY8Rb4a4S",
+      "final": "https://runway.com/hailuo-terms",
+      "status": 200,
+      "bytes": 284430,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Promotion Terms | Runway",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-runway-scam1-visible.txt",
+      "visible_len": 2521,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-runway-scam1-excerpt.html"
+    },
+    "tco-runway-scam2": {
+      "url": "https://t.co/qRJ6g5yL6N",
+      "final": "https://x.com/nationaljuche/status/2090146459866083736",
+      "status": 200,
+      "bytes": 141425,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "\ud83d\udd3b \ud83c\uddf0\ud83c\uddf5National Juche \ud83d\udfe9\u262b\ud83d\udfe5 \ud83e\ude82\ud83c\uddf5\ud83c\uddf8\ud83c\uddfe\ud83c\uddea\ud83c\uddf1\ud83c\udde7\ud83c\udde8\ud83c\uddf3 on X: \"@MiniMax_AI Why are you promoting Runwayml \"Unlimited\" scams?\n\n It's for 4 days of \"unlimited\"\nhttps://t.co/dKY8Rb4a4S\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-runway-scam2-visible.txt",
+      "visible_len": 1291,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-runway-scam2-excerpt.html"
+    },
+    "tco-h3-plugins": {
+      "url": "https://t.co/JlkEPxlSP9",
+      "final": "https://x.com/RenLeanna/status/2092702228947902622",
+      "status": 200,
+      "bytes": 196250,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Leanna Ren on X: \"@MiniMaxAgent just shipped H3-based plugins for dynamic images and white-model rendering! Been playing around with them a bit. We're still tuning the white model quality, but this is already pretty fun to mess with~\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-h3-plugins-visible.txt",
+      "visible_len": 1428,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-h3-plugins-excerpt.html"
+    },
+    "tco-fini-root": {
+      "url": "https://t.co/YVWPbF6Ej7",
+      "final": "https://x.com/0xfini/status/2094110975045554191",
+      "status": 200,
+      "bytes": 216195,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "fini on X: \"everyone showing off their six agent company is showing off one login.\n\nI counted what mine actually did in twenty minutes. 23,999 actions. Peak rate 38 per second. Six bots on the board.\n\nOne profile.\n\nThat is the whole thing. Six names in a sidebar, one browser session underneath, and\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fini-root-visible.txt",
+      "visible_len": 6124,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fini-root-excerpt.html"
+    },
+    "tco-fini-quoted": {
+      "url": "https://t.co/K5FnOQbTdA",
+      "final": "https://x.com/i/article/2091852239996334081",
+      "status": 404,
+      "bytes": 28622,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 404",
+      "title": "X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fini-quoted-visible.txt",
+      "visible_len": 439,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fini-quoted-excerpt.html"
+    },
+    "tco-fini-gh": {
+      "url": "https://t.co/o6HgHkP2Vg",
+      "final": "https://github.com/0xf1n1",
+      "status": 200,
+      "bytes": 186299,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "0xf1n1 (Fini) \u00b7 GitHubX",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fini-gh-visible.txt",
+      "visible_len": 3362,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fini-gh-excerpt.html"
+    },
+    "tco-hasan-playbook": {
+      "url": "https://t.co/HgtgfwfMGj",
+      "final": "https://x.com/HsanC_/status/2093624705030959554",
+      "status": 200,
+      "bytes": 179675,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Hasan Cagli on X: \"Here's how I make AI mention my SaaS:\n\n1. Create high-quality content for my money keywords \ud83d\udcb0\n2. Build relevant backlinks \ud83d\udd17\n3. Get mentioned on 3rd party sites \ud83c\udf10\n4. LinkedIn articles + Reddit posts (both gets indexed)\n5. Create original data/content worth citing \ud83d\udcca\n\nYou need t\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hasan-playbook-visible.txt",
+      "visible_len": 2007,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hasan-playbook-excerpt.html"
+    },
+    "tco-hasan-agent": {
+      "url": "https://t.co/9rrD0MSISr",
+      "final": "https://elvixai.com/",
+      "status": 200,
+      "bytes": 191152,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "ElvixAI \u2014 AI Backlink Outreach Agent",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hasan-agent-visible.txt",
+      "visible_len": 9756,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-hasan-agent-excerpt.html"
+    },
+    "tco-arcads": {
+      "url": "https://t.co/pEEFOquwMA",
+      "final": "https://x.com/rom1trs/status/2095156045303701766",
+      "status": 200,
+      "bytes": 190305,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Romain Torres on X: \"AI was supposed to replace artists.\n\nSo I hired one to make an AI Gucci ad.\n\nHe drew every shot on paper first.\n\nThen Claude ran the AI part:\n\n> a keyframe per drawing + character sheets\n> Arcads MCP animates, 480p first, keepers at 1080\n> 4K upscale, graded and retimed by hand\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-arcads-visible.txt",
+      "visible_len": 1714,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-arcads-excerpt.html"
+    },
+    "tco-fable-video": {
+      "url": "https://t.co/8ZigK2I1vT",
+      "final": "https://x.com/viktoroddy/status/2095549461737111905",
+      "status": 200,
+      "bytes": 203412,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Viktor Oddy on X: \"Claude Fable 5.1 has given me the best website outputs compared to any AI model\n\nOne-shots - don't need to spend a lot.\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fable-video-visible.txt",
+      "visible_len": 1333,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fable-video-excerpt.html"
+    },
+    "tco-fable-ref1": {
+      "url": "https://t.co/spKXHNO8jB",
+      "final": "https://motionsites.ai/?prompt=vectrus-energy",
+      "status": 200,
+      "bytes": 56115,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "MotionSites AI \u2014 Official Premium AI Website PromptsMotionSites AI \u2014 Official Premium AI Website Prompts",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fable-ref1-visible.txt",
+      "visible_len": 1461,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fable-ref1-excerpt.html"
+    },
+    "tco-fable-ref2": {
+      "url": "https://t.co/CmlrIsbXw5",
+      "final": "https://x.com/viktoroddy/status/2095550600411038024",
+      "status": 200,
+      "bytes": 180273,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Viktor Oddy on X: \"original reference https://t.co/spKXHNO8jB\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fable-ref2-visible.txt",
+      "visible_len": 999,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-fable-ref2-excerpt.html"
+    },
+    "tco-emil-graphs": {
+      "url": "https://t.co/OZkRrENTMb",
+      "final": "https://x.com/emilkowalski/status/2089372767934115883",
+      "status": 200,
+      "bytes": 193422,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Emil Kowalski on X: \"Currently I\u2019m really into markdown graphs with one vibrant accent color\" / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-emil-graphs-visible.txt",
+      "visible_len": 931,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-emil-graphs-excerpt.html"
+    },
+    "tco-emil-inspired": {
+      "url": "https://t.co/3uzj5lL4Zc",
+      "final": "https://oxide.computer/",
+      "status": 200,
+      "bytes": 164446,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Oxide Computer CompanyGitHub logoLinkedin logoBluesky logo",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-emil-inspired-visible.txt",
+      "visible_len": 9684,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-emil-inspired-excerpt.html"
+    },
+    "tco-grok-bots": {
+      "url": "https://t.co/oAMqQuYEQM",
+      "final": "https://x.com/irabukht/status/2095231184531828762",
+      "status": 200,
+      "bytes": 218081,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Ira Bodnar on X: \"Hey Grok, make $1M, make no mistakes\n\n9 Grok bots to run your marketing \ud83d\udc47\n\n1/ Ads Grok\n->  Connect Google and Meta in 1 click and say \"do it for me\"\n->  Builds creatives, changes targeting, tweaks performance weekly\n\n2/ SEO Grok\n->  1-click connect your site or store\n->  Audits a\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-grok-bots-visible.txt",
+      "visible_len": 5225,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-grok-bots-excerpt.html"
+    },
+    "tco-grok-50": {
+      "url": "https://t.co/EZax5PplaJ",
+      "final": "https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4",
+      "status": 200,
+      "bytes": 96215,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Grok for SEO, GEO, paid ads and Shopify by Dmitry",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-grok-50-visible.txt",
+      "visible_len": 297,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-grok-50-excerpt.html"
+    },
+    "tco-autoquant-root": {
+      "url": "https://t.co/Us3K68iNHr",
+      "final": "https://x.com/varun_mathur/status/2032330665081839791",
+      "status": 200,
+      "bytes": 210568,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Varun on X: \"Autoquant: a distributed quant research lab | v2.6.9                                                                                                 \n                                                \nWe pointed @karpathy's autoresearch loop at quantitative finance. 135 autonomous agents\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-root-visible.txt",
+      "visible_len": 8339,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-root-excerpt.html"
+    },
+    "tco-autoskill": {
+      "url": "https://t.co/8tEXz6RIi4",
+      "final": "https://x.com/varun_mathur/status/2032224933837684932",
+      "status": 200,
+      "bytes": 211493,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Varun on X: \"Autoskill: a distributed skill factory | v.2.6.5                                                                                                        \n                                                   \nWe're now applying the same @karpathy autoresearch pattern to an even wilder prob\u2026 / X",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoskill-visible.txt",
+      "visible_len": 9086,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoskill-excerpt.html"
+    },
+    "tco-autoquant-curl": {
+      "url": "https://t.co/EkgEQAh72T",
+      "final": "https://agents.hyper.space/api/install",
+      "status": 200,
+      "bytes": 5803,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Hyperspace Agent",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-curl-visible.txt",
+      "visible_len": 0,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-curl-excerpt.html"
+    },
+    "tco-autoquant-claw": {
+      "url": "https://t.co/EB6W9A1qUk",
+      "final": "https://agents.hyper.space/",
+      "status": 200,
+      "bytes": 5803,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Hyperspace Agent",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-claw-visible.txt",
+      "visible_len": 0,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-claw-excerpt.html"
+    },
+    "tco-autoquant-commit": {
+      "url": "https://t.co/jCaQw495Us",
+      "final": "https://github.com/hyperspaceai/agi",
+      "status": 200,
+      "bytes": 410205,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "GitHub - hyperspaceai/agi: The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI. \u00b7 GitHub",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-commit-visible.txt",
+      "visible_len": 19599,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/tco-autoquant-commit-excerpt.html"
+    },
+    "runway-home": {
+      "url": "https://runwayml.com/",
+      "final": "https://runway.com/",
+      "status": 200,
+      "bytes": 918419,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Runway | Building Real-World Intelligence",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/runway-home-visible.txt",
+      "visible_len": 4303,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/runway-home-excerpt.html"
+    },
+    "arcads-home": {
+      "url": "https://www.arcads.ai/",
+      "final": "https://www.arcads.ai/",
+      "status": 200,
+      "bytes": 198802,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Arcads - Create winning ads\u00a0with\u00a0AI",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/arcads-home-visible.txt",
+      "visible_len": 7198,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/arcads-home-excerpt.html"
+    },
+    "arcads-apex": {
+      "url": "https://arcads.ai/",
+      "final": "https://www.arcads.ai/",
+      "status": 200,
+      "bytes": 198802,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Arcads - Create winning ads\u00a0with\u00a0AI",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/arcads-apex-visible.txt",
+      "visible_len": 7198,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/arcads-apex-excerpt.html"
+    },
+    "duckdb-home": {
+      "url": "https://duckdb.org/",
+      "final": "https://duckdb.org/",
+      "status": 200,
+      "bytes": 409105,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "An analytical SQL database management system \u2013 DuckDB",
+      "visible_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/duckdb-home-visible.txt",
+      "visible_len": 8832,
+      "excerpt_saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/duckdb-home-excerpt.html"
+    },
+    "lifeos-gh": {
+      "url": "https://api.github.com/repos/danielmiessler/Personal_AI_Infrastructure",
+      "final": "https://api.github.com/repositories/1052845083",
+      "status": 200,
+      "bytes": 5624,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/lifeos-gh.json",
+      "json_summary": {
+        "full_name": "danielmiessler/LifeOS",
+        "stars": 18886,
+        "license": "MIT",
+        "desc": "\u26f0\ufe0f The Life Operating System \u2014 an intent engineering platform that moves you from your current state to your ideal state, in life and work.",
+        "homepage": "https://ourlifeos.ai",
+        "total": null,
+        "items": null
+      }
+    },
+    "lifeos-search": {
+      "url": "https://api.github.com/search/repositories?q=LifeOS+user:danielmiessler",
+      "final": "https://api.github.com/search/repositories?q=LifeOS+user:danielmiessler",
+      "status": 200,
+      "bytes": 5622,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/lifeos-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 1,
+        "items": [
+          {
+            "full_name": "danielmiessler/LifeOS",
+            "stars": 18886,
+            "license": "MIT",
+            "desc": "\u26f0\ufe0f The Life Operating System \u2014 an intent engineering platform that moves you from your current state to your ideal state, in life and work."
+          }
+        ]
+      }
+    },
+    "pocock-skill-search": {
+      "url": "https://api.github.com/search/repositories?q=improve-codebase-architecture",
+      "final": "https://api.github.com/search/repositories?q=improve-codebase-architecture",
+      "status": 200,
+      "bytes": 175330,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/pocock-skill-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 38,
+        "items": [
+          {
+            "full_name": "MaibornWolff/codecharta",
+            "stars": 505,
+            "license": "BSD-3-Clause",
+            "desc": "CodeCharta is a visualization tool that transforms complex software architecture and code metrics into interactive, customizable visual maps, empowering everyone to communicate and"
+          },
+          {
+            "full_name": "dundalek/stratify",
+            "stars": 112,
+            "license": "MIT",
+            "desc": "Explore and improve architecture of software, visualize structure and dependencies of codebases, calculate code metrics"
+          },
+          {
+            "full_name": "mrsixw/improve-codebase-architecture",
+            "stars": 1,
+            "license": null,
+            "desc": "Agent skill: improve-codebase-architecture"
+          },
+          {
+            "full_name": "IvDev19/skill-improve-codebase-architecture",
+            "stars": 0,
+            "license": null,
+            "desc": "Claude skill: improve-codebase-architecture"
+          },
+          {
+            "full_name": "zjie44574-droid/manus-skill-improve-codebase-architecture",
+            "stars": 0,
+            "license": null,
+            "desc": ""
+          },
+          {
+            "full_name": "Adnan9011/movie_archive",
+            "stars": 8,
+            "license": null,
+            "desc": "The project uses Jetpack Compose for UI, MVVM with Clean Architecture, Multi Module codebase, and libraries like Koin for Dependency Injection, Flow, Coroutine, Ktor, Kotlin Serial"
+          },
+          {
+            "full_name": "zachcr-ws/improve-code-architecture",
+            "stars": 0,
+            "license": "MIT",
+            "desc": "Architecture improve for your codebase"
+          },
+          {
+            "full_name": "Anuraj-IND/claude-cli-agent-efficiency",
+            "stars": 5,
+            "license": null,
+            "desc": "AI agent acceleration pack containing architecture maps, tool schemas, command references, and coding patterns that reduce context usage and improve code-generation accuracy on lar"
+          }
+        ]
+      }
+    },
+    "autoquant-search": {
+      "url": "https://api.github.com/search/repositories?q=autoquant",
+      "final": "https://api.github.com/search/repositories?q=autoquant",
+      "status": 200,
+      "bytes": 159283,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/autoquant-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 92,
+        "items": [
+          {
+            "full_name": "AdrianAntico/AutoQuant",
+            "stars": 251,
+            "license": "AGPL-3.0",
+            "desc": "Automation framework for machine learning, forecasting, model evaluation, and interpretation."
+          },
+          {
+            "full_name": "Hanke98/AutoQuantizer",
+            "stars": 65,
+            "license": null,
+            "desc": "Code for SIGGRAPH 2022 paper \"Automatic quantization for physics-based simulation\""
+          },
+          {
+            "full_name": "Marcnuth/AutoQuant",
+            "stars": 22,
+            "license": "MIT",
+            "desc": "AutoQuant is an out-of-the-box quantitative investment platform."
+          },
+          {
+            "full_name": "AndyLinGo/AutoQuantAI",
+            "stars": 12,
+            "license": "NOASSERTION",
+            "desc": "AutoQuantAI is an open source intelligent financial analysis platform integrating RAG, Algorithm Strategies,LLM,and Real-time Market Data (A-Share). It serves as your personal AI Q"
+          },
+          {
+            "full_name": "qwopqwop200/AutoQuant",
+            "stars": 11,
+            "license": "MIT",
+            "desc": ""
+          },
+          {
+            "full_name": "rock-876/autoquant",
+            "stars": 5,
+            "license": "NOASSERTION",
+            "desc": "Autonomous A-share quantitative trading strategy optimization powered by AI agents"
+          },
+          {
+            "full_name": "auditmos/autoquant",
+            "stars": 0,
+            "license": null,
+            "desc": ""
+          },
+          {
+            "full_name": "monk1337/AutoQuantLLM",
+            "stars": 6,
+            "license": "Apache-2.0",
+            "desc": "AutoQuantLLM"
+          }
+        ]
+      }
+    },
+    "arcads-search": {
+      "url": "https://api.github.com/search/repositories?q=arcads+mcp",
+      "final": "https://api.github.com/search/repositories?q=arcads+mcp",
+      "status": 200,
+      "bytes": 18173,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/arcads-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": 3,
+        "items": [
+          {
+            "full_name": "elninotarifa-creator/antigravity-starter-kit",
+            "stars": 0,
+            "license": null,
+            "desc": "Entorno Antigravity + Claude Code listo para instalar: MCP (correo, Drive, Calendar, WhatsApp, Apify, Arcads) + Playwright + 55 skills. Sin credenciales."
+          },
+          {
+            "full_name": "maddoherty23/higgsfield-claude-code",
+            "stars": 0,
+            "license": null,
+            "desc": "Higgsfield AI Video and Image, Agent Skill Pack for Claude Code and Cursor. Higgsfield MCP transport conversion of caleb-mr-paid-social/arcads-claude-code."
+          },
+          {
+            "full_name": "krusemediallc/hermes-ad-agent",
+            "stars": 0,
+            "license": "MIT",
+            "desc": "A media buyer brain for your Hermes agent: research competitors, build image + video ads with Arcads, write human-sounding copy, launch to Meta, and monitor performance automatical"
+          }
+        ]
+      }
+    },
+    "fini-user": {
+      "url": "https://api.github.com/users/0xfini",
+      "final": "https://api.github.com/users/0xfini",
+      "status": 404,
+      "bytes": 89,
+      "ctype": "application/json; charset=utf-8",
+      "error": "HTTPError 404",
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/fini-user.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "desc": null,
+        "homepage": null,
+        "total": null,
+        "items": null
+      }
+    }
+  }
+}

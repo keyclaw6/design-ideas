@@ -33,6 +33,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2095156045303701766#c2",
+      "text": "First-party www.arcads.ai is 200 / 198,802 B, title Arcads - Create winning ads with AI. Visible: 1,000+ AI Actors; 7-day unlimited Seedance 2.5 in Arcads Studio. GitHub search `arcads mcp` total 3, all 0\u2605 wrappers \u2014 no official Arcads MCP repo this pass. Tweet 480p/1080p/4K pipeline stays tweet-only.",
+      "kind": "availability",
+      "evidence": "arcads.ai 198802 B; GH search arcads+mcp total 3 0\u2605. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": [
@@ -43,12 +53,14 @@
   ],
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "seedance"
+  ],
   "links": {
     "canonical": null,
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://www.arcads.ai/",
     "other": [],
     "related_items": [
       "x-2092040265234260091",

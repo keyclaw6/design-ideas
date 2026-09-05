@@ -52,7 +52,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 - SEO Wins $79 lifetime library ([web-seowins-io](../../items/web-seowins-io/card.md)) — paywalled tactics, not a runnable loop.
 - Blogr LTD ladder **$199 / $399 / $499 · next $799** (3/10 left this pass). Topical authority is copy, not a map export ([blogr-ai](../../tools/blogr-ai.md)).
 - Sami “reply LIST” sheet — the 15 names are in the post; the gated sheet is not in this bank.
-- Hasan’s DR 71/75/50/57 workflow ([x-2093713466955649145](../../items/x-2093713466955649145/card.md)) — numbers without URLs or a date window.
+- Hasan’s DR 71/75/50/57 workflow ([x-2093713466955649145](../../items/x-2093713466955649145/card.md)) — numbers without URLs or a date window. leftover12 product host is **elvixai.com** (**191,152 B**): $19/14d then $99/mo, 30 emails/day, 8% of 6,258. DR quartet is **not** on that page ([x-2093624705030959554#c4](../../items/x-2093624705030959554/card.md)).
 
 ## serp-ai-visibility — next capture work
 
@@ -62,3 +62,4 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
 5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing. Sami’s 15 named directories this pass: SaaSHub / SourceForge / Indie Hackers / Wellfound **200**; six hosts **403**; StackShare **429** — do not hammer ([x-2094684433546985907#c4](../../items/x-2094684433546985907/card.md)). DR tiers and 48-hour approval stay tweet-only.
 6. seoskill.dev is live (**120,656 B**; `npm i -g seo` + MCP). Homepage has **no “70+”**; that count stays on GitHub `iannuttall/seo` Apache-2.0 **463★** ([seo-skill-cli](../../tools/seo-skill-cli.md)).
+7. leftover12 Hasan agent t.co → ElvixAI. First-party pricing + 8%/6,258 table are on the cards. Remaining: a GSC/Ahrefs export for 43+ / 145.9K / 484 and the tweet DR quartet.

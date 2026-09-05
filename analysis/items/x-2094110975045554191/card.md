@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2094110975045554191#c1` (result, stated) Six sidebar bots operated on one browser profile logging 23,999 actions in twenty minutes at 38 actions per second peak. — evidence: "23,999 actions. Peak rate 38 per second. Six bots on the board." [post]
 - `x-2094110975045554191#c2` (counter-claim, stated) Deleting a bot did not kill its underlying session, so separate bots are not a security boundary. — evidence: "Separate bots are not a security boundary. That is not my opinion, it is in the docs nobody opens." [post]
+- `x-2094110975045554191#c3` (availability, demonstrated) Author github t.co → github.com/0xf1n1 (not 0xfini). API: public_repos 0; repos list []. Logged-out X article 2091852239996334081 is 404. 23,999 actions stay tweet-only. — evidence: "GET github.com/0xf1n1 public_repos 0; x.com/i/article/2091852239996334081 404. leftover12 + leftover12b." [note]
 **Numbers.** actions in 20 minutes: 23999 actions (post); peak action rate: 38 per second (post)
 **Recipe.** —
 **Techniques.** [session-hardening](../../techniques/session-hardening.md), [session-hardening](../../techniques/session-hardening.md)

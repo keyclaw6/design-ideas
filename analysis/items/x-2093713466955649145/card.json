@@ -3,7 +3,7 @@
   "id": "x-2093713466955649145",
   "source_type": "x",
   "url": "https://x.com/HsanC_/status/2093713466955649145",
-  "title": "Hasan Cagli AI-agent workflow for DR 50–75 SEO backlinks",
+  "title": "Hasan Cagli AI-agent workflow for DR 50\u201375 SEO backlinks",
   "author": {
     "name": "Hasan Cagli",
     "handle": "HsanC_",
@@ -25,14 +25,14 @@
   ],
   "artifact_type": "thread",
   "platforms": [],
-  "summary": "Thread opener where Hasan Cagli says AI agents now automate most of his daily SEO backlink prospecting that used to take 2–3 hours manually, citing DR 71/75/50/57 links as results and promising an eight-minute walkthrough.",
+  "summary": "Thread opener where Hasan Cagli says AI agents now automate most of his daily SEO backlink prospecting that used to take 2\u20133 hours manually, citing DR 71/75/50/57 links as results and promising an eight-minute walkthrough.",
   "question_it_answers": "How can AI agents automate daily SEO backlink prospecting that previously took hours manually?",
   "claims": [
     {
       "id": "x-2093713466955649145#c1",
-      "text": "Manual backlink work that took 2–3 hours daily is now mostly automated with agents.",
+      "text": "Manual backlink work that took 2\u20133 hours daily is now mostly automated with agents.",
       "kind": "result",
-      "evidence": "What used to take me 2–3 hours a day manually is now mostly automated.",
+      "evidence": "What used to take me 2\u20133 hours a day manually is now mostly automated.",
       "evidence_source": "post",
       "evidence_ref": null,
       "confidence": "stated",
@@ -42,10 +42,20 @@
       "id": "x-2093713466955649145#c2",
       "text": "Author cites DR 71, 75, 50, and 57 backlinks from the workflow.",
       "kind": "benchmark",
-      "evidence": "It's the exact workflow I used to get 71-75-50-57 DR backlinks 🎯",
+      "evidence": "It's the exact workflow I used to get 71-75-50-57 DR backlinks \ud83c\udfaf",
       "evidence_source": "post",
       "evidence_ref": null,
       "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2093713466955649145#c3",
+      "text": "Same product host as the five-step playbook leftover: elvixai.com 191,152 B. Tweet DR 71/75/50/57 is not on the live page. Founder note says 40 high-quality backlinks in 3 weeks on PostPlanify (copy). Do not collapse the tweet DR quartet with homepage 43+ / 8% / 6,258.",
+      "kind": "pricing",
+      "evidence": "elvixai.com 191152 B leftover12; DR quartet absent. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
     }
   ],
@@ -66,7 +76,7 @@
     "canonical": "https://x.com/HsanC_/status/2093713466955649145",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://elvixai.com/",
     "other": [],
     "related_items": []
   },

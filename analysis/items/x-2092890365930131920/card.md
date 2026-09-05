@@ -10,10 +10,11 @@
 
 **Claims.**
 - `x-2092890365930131920#c1` (result, stated) Author created multiple PRYNE brand visuals for a math brand in a few minutes using AI. — evidence: "made all of these visuals for a random math brand in a few minutes with AI" [post]
+- `x-2092890365930131920#c2` (counter-claim, demonstrated) PRYNE here is a prompt-fill brand, same stills as the campaign-template card. pryne.com is a 616 B wasm-pack “Hello wasm-pack!” page. lexnlin.com NXDOMAIN. Do not treat either host as a math-education product. — evidence: "pryne.com 200 / 616 B title Hello wasm-pack!; lexnlin.com NXDOMAIN. leftover9-2026-09-05.json leftover12 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [svg-infographic-rendering](../../techniques/svg-infographic-rendering.md)
-**Tools.** —
+**Tools.** [gpt-image](../../tools/gpt-image.md)
 **Links.** —
 **Related items.** —
 **Media.**

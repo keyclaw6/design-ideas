@@ -42,6 +42,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2086838432102228008#c2",
+      "text": "Quoted t.co/VAfPmyTLLK resolves to https://www.aihero.dev/skills-improve-codebase-architecture 200 / 368,578 B. Install is `npx skills@latest add mattpocock/skills --skill=improve-codebase-architecture`. The skill surveys deepening opportunities, writes one HTML report in OS temp, and never changes code. Repo mattpocock/skills is MIT, 250,588\u2605 this pass (homepage aihero.dev/skills). Root remains 5 dirs \u2014 not a 25-skill inventory.",
+      "kind": "recipe",
+      "evidence": "aihero.dev/skills-improve-codebase-architecture 368578 B; GH mattpocock/skills MIT 250588\u2605 leftover12-2026-09-05.json + leftover12b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,
@@ -54,7 +64,7 @@
     "canonical": "https://x.com/mattpocockuk/status/2086838432102228008",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://www.aihero.dev/skills-improve-codebase-architecture",
     "other": [],
     "related_items": [
       "x-2087239769877295158",

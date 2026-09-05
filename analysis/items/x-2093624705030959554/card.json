@@ -25,14 +25,14 @@
   ],
   "artifact_type": "thread",
   "platforms": [],
-  "summary": "Hasan Cagli lists five long-term AEO tactics—money-keyword content, backlinks, third-party mentions, indexed LinkedIn/Reddit posts, and citable original data—to compound AI-search visibility for a SaaS, with an attached AI-responses dashboard screenshot.",
+  "summary": "Hasan Cagli lists five long-term AEO tactics\u2014money-keyword content, backlinks, third-party mentions, indexed LinkedIn/Reddit posts, and citable original data\u2014to compound AI-search visibility for a SaaS, with an attached AI-responses dashboard screenshot.",
   "question_it_answers": "What five tactics does Hasan Cagli use to get AI models to mention his SaaS?",
   "claims": [
     {
       "id": "x-2093624705030959554#c1",
       "text": "Playbook step one is creating high-quality content targeting money keywords.",
       "kind": "recipe",
-      "evidence": "1. Create high-quality content for my money keywords 💰",
+      "evidence": "1. Create high-quality content for my money keywords \ud83d\udcb0",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -42,7 +42,7 @@
       "id": "x-2093624705030959554#c2",
       "text": "Steps include third-party mentions plus LinkedIn articles and Reddit posts because both get indexed.",
       "kind": "recipe",
-      "evidence": "3. Get mentioned on 3rd party sites 🌐\n4. LinkedIn articles + Reddit posts (both gets indexed)",
+      "evidence": "3. Get mentioned on 3rd party sites \ud83c\udf10\n4. LinkedIn articles + Reddit posts (both gets indexed)",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -52,10 +52,20 @@
       "id": "x-2093624705030959554#c3",
       "text": "Author claims consistent long-term execution compounds into improved AI search visibility.",
       "kind": "result",
-      "evidence": "Over time, this compounds and can significantly improve your visibility in AI search 📈",
+      "evidence": "Over time, this compounds and can significantly improve your visibility in AI search \ud83d\udcc8",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2093624705030959554#c4",
+      "text": "Author t.co/9rrD0MSISr resolves to elvixai.com 200 / 191,152 B, title ElvixAI \u2014 AI Backlink Outreach Agent. Pricing: $19 for 14 days then $99/mo (annual strike $199). Plan includes 30 emails/day. Live campaign table: 8% reply rate across 6,258 prospects. Marketing integers 43+ backlinks / 145.9K impressions / 484 ChatGPT mentions are first-party copy, not a GSC export. DR 71/75/50/57 is not on this page.",
+      "kind": "pricing",
+      "evidence": "elvixai.com 191152 B: $19/14d then $99/mo; 30 emails/day; 8% of 6258. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
     }
   ],
@@ -70,7 +80,7 @@
     "canonical": "https://x.com/HsanC_/status/2093624705030959554",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://elvixai.com/",
     "other": [],
     "related_items": []
   },

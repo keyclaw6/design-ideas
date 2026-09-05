@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2095156045303701766#c1` (recipe, stated) Pipeline pairs hand-drawn storyboards with Claude keyframes and Arcads MCP animation before manual 4K finishing. — evidence: "a keyframe per drawing + character sheets" [post]
+- `x-2095156045303701766#c2` (availability, demonstrated) First-party www.arcads.ai is 200 / 198,802 B, title Arcads - Create winning ads with AI. Visible: 1,000+ AI Actors; 7-day unlimited Seedance 2.5 in Arcads Studio. GitHub search `arcads mcp` total 3, all 0★ wrappers — no official Arcads MCP repo this pass. Tweet 480p/1080p/4K pipeline stays tweet-only. — evidence: "arcads.ai 198802 B; GH search arcads+mcp total 3 0★. leftover12-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** 1. Artist draws every shot on paper first. 2. Claude generates a keyframe per drawing plus character sheets. 3. Arcads MCP animates at 480p first; keepers rendered at 1080p. 4. Upscale to 4K and grade/retime by hand.
 **Techniques.** —
-**Tools.** —
-**Links.** —
+**Tools.** [seedance](../../tools/seedance.md)
+**Links.** product (https://www.arcads.ai/)
 **Related items.** [x-2092040265234260091](../x-2092040265234260091/card.md), [web-fal-ai](../web-fal-ai/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 17 · captured 3 · relevant 0 · author thread: none → [thread.md](thread.md)

@@ -17,4 +17,6 @@
 **2026-09-05 capture — cafe flythrough video.** Must-read [x-2087565352372723955](../items/x-2087565352372723955/card.md) root amplify video is **46.733 s** / 1920×1080 (`analysis/_work/captures/cafe-video-2087565352372723955.json`). Thread is `empty` (0 replies). The quoted Blender MCP article is on [blender-mcp](blender-mcp.md). The cafe `.blend` is still not in this bank. Same-blockout Seedance vs MiniMax 3D Director remains GPU work.
 
 **2026-09-05 capture — GPT Image 2 face-swap demo.** Must-read [x-2094819241916801165](../items/x-2094819241916801165/card.md) root amplify video is **10.08 s** / 1920×1080 (`analysis/_work/captures/seedance-faceswap-video-2094819241916801165.json`). Official 2.5 page still has no identity-lock copy. Thread stays `captured_partial` (1/57).
+
+**2026-09-05 capture — leftover12 Arcads host (no arcads.md).** `https://www.arcads.ai/` **200 / 198,802 B**, title Arcads - Create winning ads with AI. Visible: **1,000+** AI Actors; **7-day** unlimited Seedance 2.5 in Arcads Studio. GitHub search `arcads mcp` total **3**, all **0★** wrappers — no official Arcads MCP repo. Paper-board leftover 480p/1080p/4K stays tweet-only ([x-2095156045303701766](../items/x-2095156045303701766/card.md)). Receipt `leftover12-2026-09-05.json`.
 <!-- NOTES:END -->

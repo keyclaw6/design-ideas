@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2032330665081839791#c1` (capability, stated) Autoquant runs ~135 agents with 30 mutations per round and Darwinian selection across a P2P gossip network. — evidence: "30 mutations compete per round. Best strategies propagate across the swarm." [post]
 - `x-2032330665081839791#c2` (result, contested) Agents independently converged on dropping three factors and risk-parity sizing, claiming Sharpe 1.32 versus 1.04 baseline. — evidence: "Sharpe 1.32, 3x return, 5.5% max drawdown" [post]
+- `x-2032330665081839791#c3` (counter-claim, demonstrated) Install t.co → agents.hyper.space/api/install 5,803 B shell (title Hyperspace Agent). Commit t.co → github.com/hyperspaceai/agi MIT 2,038★. GitHub search `autoquant` total 92 is other products (AdrianAntico/AutoQuant AGPL 251★ and neighbors) — do not collapse this leftover with those repos. Tweet 135 agents / Sharpe 1.32 stay tweet-only. — evidence: "agents.hyper.space 5803 B; hyperspaceai/agi MIT 2038★; GH search autoquant total 92. leftover12 + leftover12b." [note]
 **Numbers.** agent count: 135 agents (post); claimed Sharpe: 1.32 ratio (post)
 **Recipe.** —
 **Techniques.** [autoresearch-loop](../../techniques/autoresearch-loop.md), [autoresearch-loop](../../techniques/autoresearch-loop.md)
-**Tools.** —
-**Links.** —
+**Tools.** [hyperspace](../../tools/hyperspace.md)
+**Links.** product (https://agents.hyper.space/)
 **Related items.** [x-2032671842230501729](../x-2032671842230501729/card.md), [x-2080856252687745093](../x-2080856252687745093/card.md), [x-2074912810803560497](../x-2074912810803560497/card.md), [x-2087151807965401320](../x-2087151807965401320/card.md)
 **Media.**
 `raw/items/x-2032330665081839791/media/media_0.jpg` (image, carries_technique=true) — ASCII infographic: 135 Autoquant agents on a P2P gossip network, Darwinian selection box, and claimed Sharpe 1.32 result card.

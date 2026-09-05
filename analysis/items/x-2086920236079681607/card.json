@@ -61,6 +61,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2086920236079681607#c4",
+      "text": "Reply asked whether the prompt uses Daniel Miessler LifeOS. First-party is github.com/danielmiessler/LifeOS MIT, 18,886\u2605, homepage ourlifeos.ai 200 / 113,753 B. README names Hermes as one install harness and a Hermes sidecar as a second front door. Do not collapse EP\u2019s four-layer prompt with LifeOS, with Greg Mushen\u2019s Hermes layer name, or with NousResearch/hermes-agent (MIT 241,533\u2605 / homepage 90,409 B v0.21.0).",
+      "kind": "counter-claim",
+      "evidence": "danielmiessler/LifeOS MIT 18886\u2605 homepage ourlifeos.ai 113753 B. leftover12 + leftover12b. Nous collapse leftover9.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12b-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -69,12 +79,14 @@
     "filesystem-context-memory",
     "filesystem-context-memory"
   ],
-  "tools": [],
+  "tools": [
+    "hermes"
+  ],
   "links": {
     "canonical": "https://x.com/shannholmberg/status/2086920236079681607",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://ourlifeos.ai/",
     "other": [],
     "related_items": [
       "x-2087143369181114868",

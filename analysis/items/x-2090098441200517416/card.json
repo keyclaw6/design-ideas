@@ -38,17 +38,29 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2090098441200517416#c2",
+      "text": "Reply t.co resolves to runway.com/hailuo-terms 200 / 284,430 B. Official copy: unlimited Hailuo 3.0 generations for Max-plan Eligible Users during a 7-day Promotion Period (Aug 17\u201323 2026 PT). Late joiners get remaining days (example: day 3 \u2192 4 days). Unlimited Hailuo 3.0 does not apply from Runway MCP or Agent products. Tweet MiniMax H3 unlimited is not the same string as Hailuo 3.0. Hailuo first-party pages still have no unlimited H3 quota.",
+      "kind": "pricing",
+      "evidence": "runway.com/hailuo-terms 284430 B: Hailuo 3.0, 7 days Aug 17\u201323 2026, MCP/Agent excluded. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "minimax-h3"
+  ],
   "links": {
     "canonical": "https://x.com/MiniMax_AI/status/2090098441200517416",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://runway.com/hailuo-terms",
     "other": [],
     "related_items": [
       "note-blender-minimax-h3-video-generation",

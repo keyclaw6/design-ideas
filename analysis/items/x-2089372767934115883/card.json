@@ -34,10 +34,20 @@
       "id": "x-2089372767934115883#c1",
       "text": "Emil Kowalski recommends markdown graphs that use one vibrant accent color.",
       "kind": "opinion",
-      "evidence": "Currently I’m really into markdown graphs with one vibrant accent color",
+      "evidence": "Currently I\u2019m really into markdown graphs with one vibrant accent color",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2089372767934115883#c2",
+      "text": "Inspired-by t.co/3uzj5lL4Zc resolves to oxide.computer 200 / 164,446 B, Oxide Computer Company. Hardware/rack company homepage \u2014 not a mermaid or markdown-graph skill. One-accent taste rule stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "oxide.computer 164446 B title Oxide Computer Company. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
       "subject": "infographics-diagrams"
     }
   ],

@@ -29,7 +29,7 @@
   "platforms": [
     "grok-bot"
   ],
-  "summary": "Thread pitching nine specialized Grok bots for marketing—ads, SEO audits that ship fixes, GEO ranking pages, Meta creative generation, ad spy, CRO, Shopify edits, ChatGPT ads, and reporting—with a services upsell to set them up in 24 hours.",
+  "summary": "Thread pitching nine specialized Grok bots for marketing\u2014ads, SEO audits that ship fixes, GEO ranking pages, Meta creative generation, ad spy, CRO, Shopify edits, ChatGPT ads, and reporting\u2014with a services upsell to set them up in 24 hours.",
   "question_it_answers": "What Grok-bot roles does Ira Bodnar propose for a full automated marketing stack?",
   "claims": [
     {
@@ -61,6 +61,16 @@
       "evidence_ref": "post.md",
       "confidence": "unverified",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2095231184531828762#c4",
+      "text": "t.co/EZax5PplaJ resolves to x.ai/bot/dep-tU0gmIPgiqNsvS4N4 200 / 96,215 B. Title: Grok for SEO, GEO, paid ads and Shopify by Dmitry. Page says the bot was created by a third-party user, not SpaceXAI. Visible body 297 chars \u2014 no 9-bot inventory, no 50+ tools, no 178K Meta ads.",
+      "kind": "availability",
+      "evidence": "x.ai/bot/dep-tU0gmIPgiqNsvS4N4 96215 B visible 297 chars. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": null,
@@ -81,12 +91,14 @@
   "techniques": [
     "grok-marketing-bot-stack"
   ],
-  "tools": [],
+  "tools": [
+    "grok-bot"
+  ],
   "links": {
     "canonical": "https://x.com/irabukht/status/2095231184531828762",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4",
     "other": [],
     "related_items": [
       "x-2094553318031024285",

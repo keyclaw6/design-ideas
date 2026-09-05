@@ -49,12 +49,25 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2095549461737111905#c3",
+      "text": "Quoted \u201coriginal reference\u201d t.co/spKXHNO8jB resolves to motionsites.ai/?prompt=vectrus-energy 200 / 56,115 B (same MotionSites shell as leftover 56,054 B). No Fable 5.1 / one-shot website skill on that page. fable.ai remains a Spaceship listing at $1,500,000 \u2014 do not collapse with Claude Fable 5.1.",
+      "kind": "counter-claim",
+      "evidence": "motionsites.ai/?prompt=vectrus-energy 56115 B; fable.ai leftover9 Spaceship $1,500,000. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "fable",
+    "motionsites-ai"
+  ],
   "links": {
     "canonical": null,
     "repo": null,

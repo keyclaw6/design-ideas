@@ -16,11 +16,12 @@
 ->  Then it writes the pages that get you mentioned" [post]
 - `x-2095231184531828762#c3` (capability, unverified) Creative Grok is described as trained on 178K labeled Meta ads and shipping 30+ new creatives weekly. — evidence: "Trained on 178K labeled Meta ads, tagged by hook, format and performance
 ->  Ships 30+ new creatives a week, because creative is the only alpha left" [post]
+- `x-2095231184531828762#c4` (availability, demonstrated) t.co/EZax5PplaJ resolves to x.ai/bot/dep-tU0gmIPgiqNsvS4N4 200 / 96,215 B. Title: Grok for SEO, GEO, paid ads and Shopify by Dmitry. Page says the bot was created by a third-party user, not SpaceXAI. Visible body 297 chars — no 9-bot inventory, no 50+ tools, no 178K Meta ads. — evidence: "x.ai/bot/dep-tU0gmIPgiqNsvS4N4 96215 B visible 297 chars. leftover12-2026-09-05.json." [note]
 **Numbers.** labeled Meta ads in training set: 178000  (post); weekly creatives shipped: 30 + (post)
 **Recipe.** —
 **Techniques.** [grok-marketing-bot-stack](../../techniques/grok-marketing-bot-stack.md)
-**Tools.** —
-**Links.** —
+**Tools.** [grok-bot](../../tools/grok-bot.md)
+**Links.** product (https://x.ai/bot/dep-tU0gmIPgiqNsvS4N4)
 **Related items.** [x-2094553318031024285](../x-2094553318031024285/card.md), [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md)
 **Media.**
 `raw/items/x-2095231184531828762/media/media_0.mp4` (video, carries_technique=false) — Attached promo video accompanying the nine-bot Grok marketing stack pitch.

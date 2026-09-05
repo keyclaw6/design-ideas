@@ -16,7 +16,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 | item | control beyond text | audio / lipsync | character or product lock | local preview before paid API | duration / res numbers |
 |---|---|---|---|---|---|
 | GPT Image 2 + Seedance 2.5 | high (face-swap stills) | unknown | high (stated identity lock) | stills are cheap; video is not | none on the card |
-| Paper boards + Arcads | high (human boards) | unknown | mid (sheets) | mid | unknown |
+| Paper boards + Arcads | high (human boards) | unknown | mid (sheets) | mid | tweet 480p/1080p; host has Seedance 7-day promo |
 | H3 audio repair | mid (resolution / steps) | high (this *is* the fix) | n/a | mid | low-res plate then composite |
 | H3 local product-CG | mid (local lock) | unknown | product, not character | high | unknown |
 | H3 Max on Magnific | low (host toggle) | unknown | unknown | unlimited trial stated | 5s / 480p / <5s gen (stated) |
@@ -27,7 +27,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 | LightReel 160k/day | product is UGC researcher (10k TikToks/day meta) | unknown | unknown | 3-day trial stated | **160k/day not on lightreel.ai** |
 | Base44 / Intelligence Co breakdowns | craft, not a control | unknown | n/a | n/a | Base44 landing live; intelligence.co → Design Arena (not a craft page); view counts still tweet-only |
 | fal.ai | API routing | model-dependent | model-dependent | pay-per-call | catalog, not one number |
-| H3 unlimited on Runway | host quota | unknown | unknown | iteration volume | none |
+| H3 unlimited on Runway | host quota (terms: Hailuo 3.0, 7 days) | unknown | unknown | Max-plan promo; MCP/Agent excluded | none |
 
 ## ai-video-generation — claims that need a receipt
 
@@ -42,7 +42,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 
 - Secondary blockout items (cafe Seedance, Unreal MCP, CozyClay, 3D Director) — wrong subject.
 - “AI coding models make imperfect handcrafted motion” — that argument belongs with Remotion / html-video.
-- Unlimited H3 on Runway / Magnific trial windows — quota copy, expires.
+- Unlimited H3 on Runway / Magnific trial windows — quota copy, expires. leftover12 Runway terms are **Hailuo 3.0** / **7 days** / MCP+Agent excluded, not MiniMax H3 ([minimax-h3](../../tools/minimax-h3.md); [x-2090098441200517416#c2](../../items/x-2090098441200517416/card.md)).
 
 ## ai-video-generation — next capture work
 
@@ -54,3 +54,4 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 6. Calliope card is now `ready` (thread `captured_full`). Product hunt: calliope.so is Decision Intelligence; calliope.ai **403** — do not hammer ([x-2093481253043380418#c3](../../items/x-2093481253043380418/card.md)).
 7. Higgsfield leftover homepage is first-party **530,348 B** ([higgsfield](../../tools/higgsfield.md); [x-2093236801079279978#c2](../../items/x-2093236801079279978/card.md)). ChatGPT + Fable 5 workflow strings absent. Pricing `/pricing` is a **78,150 B** shell (visible **332 B**, no plan table). `fable.ai` is a Spaceship listing at **$1,500,000** — do not collapse with Fable 5.
 8. Local H3 product-CG leftover now points at Hailuo pricing/blog ([minimax-h3](../../tools/minimax-h3.md); [x-2095483352375837020#c2](../../items/x-2095483352375837020/card.md)). Pages do not document a local H3 renderer.
+9. leftover12 Arcads homepage **198,802 B** / **1,000+** actors / 7-day Seedance 2.5 promo. No official Arcads MCP repo (GH search **3** / **0★**). Paper-board 480p/1080p/4K stays tweet-only ([seedance](../../tools/seedance.md); [x-2095156045303701766#c2](../../items/x-2095156045303701766/card.md)). MiniMax Agent H3 plugins leftover still tweet-only ([x-2092702228947902622#c2](../../items/x-2092702228947902622/card.md)).

@@ -35,7 +35,9 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 - Flint compiles to Vega, ECharts, *and* Plotly — local `assembleVegaLite` + `assembleECharts` ran on the getting-started spec. Plotly/Excel assemblers not exercised. Hosted `render_chart` enum omits Plotly. See [flint-chart-mcp](../../tools/flint-chart-mcp.md).
 - archify “verifiable” diagrams — need what is verified (nodes vs runtime).
 - Dashboard Stack “OSS repo soon” — studio is live (`studio.dashboardstack.sh` **103,784 B**, MCP mentioned); repo still unlinked ([dashboard-stack](../../tools/dashboard-stack.md)).
-- PRYNE “minutes” — same stills already used as a prompt-gallery example; do not double-count as a diagram system.
+- PRYNE “minutes” — same stills already used as a prompt-gallery example; do not double-count as a diagram system. leftover12: `pryne.com` is **616 B** wasm-pack; `lexnlin.com` NXDOMAIN ([x-2092890365930131920#c2](../../items/x-2092890365930131920/card.md)).
+- Emil one-accent graphs — leftover12 inspired-by t.co is **oxide.computer** (**164,446 B**), a hardware company, not a mermaid skill ([x-2089372767934115883#c2](../../items/x-2089372767934115883/card.md)).
+- DuckDB-speed viz — leftover12 `duckdb.org` **409,105 B** is the SQL DBMS; DSR / 10M sparklines / no-JS product are not on the homepage ([x-2087205167662088363#c2](../../items/x-2087205167662088363/card.md)).
 
 ## infographics-diagrams — do not treat as load-bearing
 

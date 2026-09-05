@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2094110975045554191#c3",
+      "text": "Author github t.co \u2192 github.com/0xf1n1 (not 0xfini). API: public_repos 0; repos list []. Logged-out X article 2091852239996334081 is 404. 23,999 actions stay tweet-only.",
+      "kind": "availability",
+      "evidence": "GET github.com/0xf1n1 public_repos 0; x.com/i/article/2091852239996334081 404. leftover12 + leftover12b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12b-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,

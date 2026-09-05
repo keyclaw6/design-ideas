@@ -27,7 +27,7 @@
   "platforms": [
     "cli"
   ],
-  "summary": "Hamilton Ulmer reacts that DuckDB-speed data visualization works extremely well, nearly free, with no JavaScript required—pointing agents toward SQL-native chart stacks over custom D3 apps.",
+  "summary": "Hamilton Ulmer reacts that DuckDB-speed data visualization works extremely well, nearly free, with no JavaScript required\u2014pointing agents toward SQL-native chart stacks over custom D3 apps.",
   "question_it_answers": "Why prefer DuckDB-backed SQL-native charts for agent-generated dataviz?",
   "claims": [
     {
@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2087205167662088363#c2",
+      "text": "Media t.co loops to the same tweet. First-party duckdb.org is 200 / 409,105 B, title An analytical SQL database management system. Homepage does not document Database-Side Rendering, 10 million SVG sparklines, or a no-JS dataviz product. Endorsement stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "duckdb.org 409105 B; t.co/oJr6WUUGtO loops to same status. leftover12-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,
@@ -49,7 +59,7 @@
     "canonical": "https://x.com/hamiltonulmer/status/2087205167662088363",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://duckdb.org/",
     "other": [],
     "related_items": [
       "web-flint-chart",

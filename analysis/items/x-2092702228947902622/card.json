@@ -10,7 +10,9 @@
   "recipe_steps": null,
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "minimax-h3"
+  ],
   "gaps": [],
   "judge_hints": {
     "compare_with": [],
@@ -52,6 +54,16 @@
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2092702228947902622#c2",
+      "text": "Media t.co loops to the same tweet. In-bank Hailuo H3 first-party (pricing 617,559 B Standard $14.99 / Pro $54.99; blog 98,310 B 15 s @ 2K) does not document MiniMax Agent H3 dynamic-image or white-model plugins. Plugin shipping stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "minimax-h3 NOTES hailuo pricing/blog. leftover12 t.co/JlkEPxlSP9 loops to same status.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover12-2026-09-05.json",
+      "confidence": "demonstrated",
       "subject": "ai-video-generation"
     }
   ],

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2089372767934115883#c1` (opinion, stated) Emil Kowalski recommends markdown graphs that use one vibrant accent color. — evidence: "Currently I’m really into markdown graphs with one vibrant accent color" [post]
+- `x-2089372767934115883#c2` (counter-claim, demonstrated) Inspired-by t.co/3uzj5lL4Zc resolves to oxide.computer 200 / 164,446 B, Oxide Computer Company. Hardware/rack company homepage — not a mermaid or markdown-graph skill. One-accent taste rule stays tweet-only. — evidence: "oxide.computer 164446 B title Oxide Computer Company. leftover12-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

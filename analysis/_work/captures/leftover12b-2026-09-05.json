@@ -1,0 +1,150 @@
+{
+  "fetched_at": "2026-09-05T06:20:00Z",
+  "pages": {
+    "mattpocock-skills": {
+      "url": "https://api.github.com/repos/mattpocock/skills",
+      "final": "https://api.github.com/repos/mattpocock/skills",
+      "status": 200,
+      "bytes": 5245,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/mattpocock-skills.json",
+      "json_summary": {
+        "full_name": "mattpocock/skills",
+        "stars": 250588,
+        "license": "MIT",
+        "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+        "homepage": "https://aihero.dev/skills",
+        "total": null,
+        "items": null
+      }
+    },
+    "lifeos-repo": {
+      "url": "https://api.github.com/repos/danielmiessler/LifeOS",
+      "final": "https://api.github.com/repos/danielmiessler/LifeOS",
+      "status": 200,
+      "bytes": 5624,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/lifeos-repo.json",
+      "json_summary": {
+        "full_name": "danielmiessler/LifeOS",
+        "stars": 18886,
+        "license": "MIT",
+        "desc": "\u26f0\ufe0f The Life Operating System \u2014 an intent engineering platform that moves you from your current state to your ideal state, in life and work.",
+        "homepage": "https://ourlifeos.ai",
+        "total": null,
+        "items": null
+      }
+    },
+    "fini-0xf1n1": {
+      "url": "https://api.github.com/users/0xf1n1",
+      "final": "https://api.github.com/users/0xf1n1",
+      "status": 200,
+      "bytes": 1160,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/fini-0xf1n1.json",
+      "json_summary": {
+        "full_name": "0xf1n1",
+        "stars": 0,
+        "license": null,
+        "desc": null,
+        "homepage": "https://github.com/0xf1n1",
+        "total": null,
+        "items": null
+      }
+    },
+    "fini-repos": {
+      "url": "https://api.github.com/users/0xf1n1/repos?per_page=20&sort=updated",
+      "final": "https://api.github.com/users/0xf1n1/repos?per_page=20&sort=updated",
+      "status": 200,
+      "bytes": 2,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/fini-repos.json",
+      "json_summary": {
+        "len": 0,
+        "head": []
+      }
+    },
+    "ourlifeos": {
+      "url": "https://ourlifeos.ai/",
+      "final": "https://ourlifeos.ai/",
+      "status": 200,
+      "bytes": 113753,
+      "ctype": "text/html",
+      "error": null,
+      "title": "LifeOS | Moving You From Current to Ideal State",
+      "visible_len": 4196
+    },
+    "hyperspace-agi": {
+      "url": "https://api.github.com/repos/hyperspaceai/agi",
+      "final": "https://api.github.com/repos/hyperspaceai/agi",
+      "status": 200,
+      "bytes": 6587,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover12-2026-09-05/hyperspace-agi.json",
+      "json_summary": {
+        "full_name": "hyperspaceai/agi",
+        "stars": 2038,
+        "license": "MIT",
+        "desc": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+        "homepage": "https://agents.hyper.space/",
+        "total": null,
+        "items": null
+      }
+    },
+    "tco-press-wire": {
+      "url": "https://t.co/RV7OYxklGQ",
+      "final": "https://x.com/coreyhainesco/status/2094148909253943322",
+      "status": 200,
+      "bytes": 185765,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Corey Haines on X: \"I love how much faster the feedback loop is with AEO than SEO.\n\nA client came to us to boost their presence in AI answers and not just in Google results.\n\nWe built a weekly press release program designed for AI citation: neutral, factual releases distributed over a newswire, eac\u2026 / X",
+      "visible_len": 2832
+    },
+    "tco-aeo-100k": {
+      "url": "https://t.co/JiUTuke1cj",
+      "final": "https://x.com/alexgroberman/status/2093729321131368744",
+      "status": 200,
+      "bytes": 202844,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Alex Groberman on X: \"A business followed the recommendations in this article and added over $100,000 in ChatGPT, Google and broader AI search-driven traffic.\" / X",
+      "visible_len": 2266
+    },
+    "tco-hasan-dr": {
+      "url": "https://t.co/LbbvsTUrfX",
+      "final": "https://x.com/HsanC_/status/2093713466955649145",
+      "status": 200,
+      "bytes": 208193,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Hasan Cagli on X: \"I started using AI agents to build SEO backlinks recently.\n\nWhat used to take me 2\u20133 hours a day manually is now mostly automated.\n\nIt's the exact workflow I used to get 71-75-50-57 DR backlinks \ud83c\udfaf\n\nHere's how in 8 mins \ud83d\udc47\" / X",
+      "visible_len": 2012
+    },
+    "tco-linkedin-seo": {
+      "url": "https://t.co/9gZIg87p1C",
+      "final": "https://x.com/jakezward/status/2093990583576486268",
+      "status": 200,
+      "bytes": 202766,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Jake Ward on X: \"Posted this as a LinkedIn article targeting \u201cSEO in 2026\u201d and in 24 hours it's ranking on page one of Google\n\nLinkedIn\u2019s authority is ridiculous\" / X",
+      "visible_len": 1902
+    },
+    "tco-crawler-ua": {
+      "url": "https://t.co/ti2VbZetVW",
+      "final": "https://x.com/_can1357/status/2090837707069014224",
+      "status": 200,
+      "bytes": 149999,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Can B\u00f6l\u00fck on X: \"UA spoofing is back on baby, for only $0.00\u00a0you too can be OpenAI File Downloader, XaiImageApiFetch/1.0\n\nSome sites like LinkedIn even remove their click-bait/paywall garbage if you're Claude-User\" / X",
+      "visible_len": 1483
+    }
+  }
+}

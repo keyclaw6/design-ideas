@@ -33,7 +33,7 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 - treg $0.0089 per lead and “1B+ contacts” — now first-party on `/people-search` (**83,902 B**): 1B+ / 60 providers / `people.email.find` from $0.0089. Do not collapse with companies.search Apollo $0.026 ([treg](../../tools/treg.md)). People Search Bench leaderboard (README): Lessie 65.2 / Exa 55.0 / Claude Code 46.0 / Juicebox 45.8 — **treg is not on the table** ([people-search-bench](../../tools/people-search-bench.md)).
 - 10k emails/day via 500 inboxes / 167 domains — capacity formula, not a delivered log.
 - MapsData ~$0.33–$0.98 per 1k leads — first-party on `/pricing`: those two numbers are **Scale monthly $0.33** and **Pro monthly $0.98**. Starter is **$1.90/1k**. **500 free leads a month** (refills). 100k per search is Scale only ([mapsdata](../../tools/mapsdata.md)).
-- Nine Grok bots as a “full marketing stack” — same thin bundle already flagged on the SERP worksheet.
+- Nine Grok bots as a “full marketing stack” — same thin bundle already flagged on the SERP worksheet. leftover12 landing is `x.ai/bot/dep-tU0gmIPgiqNsvS4N4` (**96,215 B**, visible **297** chars): one third-party Dmitry bot, not a 9-bot inventory ([grok-bot](../../tools/grok-bot.md); [x-2095231184531828762#c4](../../items/x-2095231184531828762/card.md)).
 
 ## outbound-gtm-agents — do not treat as load-bearing
 
