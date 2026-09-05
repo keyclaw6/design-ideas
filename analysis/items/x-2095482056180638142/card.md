@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2095482056180638142#c1` (recipe, stated) Quoted prompt specifies a scroll-scrubbed hero for LAOUNGE coffee with frame-accurate background video seek and a giant title that shrinks into a floating logo on scroll. — evidence: "A scroll-scrubbed hero header for the LAOUNGE coffee brand, featuring a frame-accurate background video that seeks in sync with scroll and a giant title that shrinks into a floating logo as the user scrolls." [quoted-post]
+- `x-2095482056180638142#c2` (counter-claim, demonstrated) Quoted t.co/8yqOGQgCZU resolves to jiro.build 200 / 1,255,876 B. Title Jiro — The Design Prompt Library to Vibe Code Better Websites. First-party: 1,147+ premium templates & components; 270+ vibe coders. Strings LAOUNGE / Fable / coffee / scroll-scrub are absent. This is not the tweet’s Fable 5.1 coffee-hero prompt body. — evidence: "GET 200 https://jiro.build/ 1255876 B. LAOUNGE/Fable/coffee absent." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [scroll-driven-3d](../../techniques/scroll-driven-3d.md), [parallax-scroll-landing](../../techniques/parallax-scroll-landing.md)

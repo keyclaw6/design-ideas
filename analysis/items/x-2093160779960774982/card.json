@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "contested",
       "subject": "local-inference-models"
+    },
+    {
+      "text": "HF sh0wie/Qwen3.8-Flash-Next-REAP-288-MLX-4bit (not a HamsterResearch org). README table first-party: Base Q4 512 experts 98 GB disk / 97 GB resident / 93.9% HumanEval; this build 288 experts 68 GB disk / 68 GB resident or 39 GB streamed / 91.5% HumanEval. String Hamster absent. Do not collapse 39 streamed with 68 resident.",
+      "kind": "benchmark",
+      "evidence": "README 10141 B 2026-09-05. 91.5% / 39 GB streamed / 68 GB resident. analysis/_work/captures/mustread-2026-09-05/hf-reap-readme.md",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unsloth.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models",
+      "id": "x-2093160779960774982#c3"
     }
   ],
   "recipe_steps": null,

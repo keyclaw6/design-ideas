@@ -31,4 +31,6 @@ uniqueness.md **grammar forbids — the fixture matches none of the eight.** Fil
 Neighbor (parked; no scrolltide.md): 2026-09-05 `https://www.scrolltide.co/` GET 200 / **236,160 B**. First-party: **61** templates / **61** prompts; **1,100+** builders; Lifetime access **$239** one-time. Tweet 300-frame Gemini/Frame pipeline is **not** on the homepage HTML. Stack named: React Vite Next Tailwind Framer Motion GSAP Three.js WebGL Shaders Lenis. Receipt `analysis/_work/captures/priority7-2026-09-05.json`.
 
 Neighbor (parked; no departuremono.md): 2026-09-05 `https://departuremono.com` GET 200 / **2,203 B**. Title Departure Mono. Title-only SSR shell — not a captured type-specimen layout. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
+
+Neighbor (parked; no viscousrealm.md): 2026-09-05 `https://80.lv/articles/blender-artist-designs-entire-gaming-spaces-hidden-inside-controllers` GET 200 / **97,431 B**. 19 May 2026, Amber Rutherford. Saksham Pandit / ViscousRealm; Blender miniature rooms inside controllers. Not a web motion kit. Receipt `analysis/_work/captures/mustread-2026-09-05.json`.
 <!-- NOTES:END -->

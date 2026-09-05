@@ -58,7 +58,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 
 1. CrowdReply homepage is live (**1,136,240 B**; quote-only “#1”). Marketplace **40,000+** publishers / **5,000+** brands. `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap. X article **2094451432208711681** body is now on [crowdreply-mcp](../../tools/crowdreply-mcp.md) (4%→40% / 11 weeks + 847 / 85). Remaining: a keyed MCP session.
 2. Shimanski named hosts are live and now claimed on the card: personal site **67,867 B** (15+/8/2/6 counters), Post Formatter Chrome ext **433,543 B**, Blurr Chrome ext **323,939 B**, UnicodeGames arcade **129,009 B** / **21** games, plus aiedit.com platform. GSC **1.01M / 16.3K** still tweet-screenshot only. Thread still 26/3.
-3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
+3. TinyShots listing is live on TinyShelf (`/tools/tinyshots` **7,594 B**). Product page **$39** early-bird / **97** spots / then **$49** ([tinyshots](../../tools/tinyshots.md)). DR 11→46 still tweet-only — need Ahrefs/Moz.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
 5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing.
 6. seoskill.dev is live (**120,656 B**; `npm i -g seo` + MCP). Homepage has **no “70+”**; that count stays on GitHub `iannuttall/seo` Apache-2.0 **463★** ([seo-skill-cli](../../tools/seo-skill-cli.md)).

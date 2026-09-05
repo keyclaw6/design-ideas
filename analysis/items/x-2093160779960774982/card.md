@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2093160779960774982#c1` (capability, stated) REAP pruning cuts MoE experts from 512 to 288 with MLX 4-bit build 60% smaller than stock q4. — evidence: "Pruned 512→288 experts via REAP" [post]
 - `x-2093160779960774982#c2` (benchmark, contested) Author claims 91.5% HumanEval versus 93.9% stock while fitting in 39GB memory. — evidence: "91.5% HumanEval (vs 93.9% stock)" [post]
+- `x-2093160779960774982#c3` (benchmark, demonstrated) HF sh0wie/Qwen3.8-Flash-Next-REAP-288-MLX-4bit (not a HamsterResearch org). README table first-party: Base Q4 512 experts 98 GB disk / 97 GB resident / 93.9% HumanEval; this build 288 experts 68 GB disk / 68 GB resident or 39 GB streamed / 91.5% HumanEval. String Hamster absent. Do not collapse 39 streamed with 68 resident. — evidence: "README 10141 B 2026-09-05. 91.5% / 39 GB streamed / 68 GB resident. analysis/_work/captures/mustread-2026-09-05/hf-reap-readme.md" [note]
 **Numbers.** VRAM requirement: 39 GB (post); HumanEval score: 91.5 percent (post)
 **Recipe.** —
 **Techniques.** [moe-expert-offload](../../techniques/moe-expert-offload.md), [dynamic-quantization](../../techniques/dynamic-quantization.md)

@@ -41,6 +41,16 @@
       "evidence_ref": "thread.json",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "text": "Quoted t.co/8yqOGQgCZU resolves to jiro.build 200 / 1,255,876 B. Title Jiro — The Design Prompt Library to Vibe Code Better Websites. First-party: 1,147+ premium templates & components; 270+ vibe coders. Strings LAOUNGE / Fable / coffee / scroll-scrub are absent. This is not the tweet’s Fable 5.1 coffee-hero prompt body.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://jiro.build/ 1255876 B. LAOUNGE/Fable/coffee absent.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/fable-5-1.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills",
+      "id": "x-2095482056180638142#c2"
     }
   ],
   "recipe_steps": [],

@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "text": "80.lv article 200 / 97,431 B (19 May 2026, Amber Rutherford). Title Blender Artist Builds Entire Gaming Rooms Inside Game Controllers. First-party: Saksham Pandit / ViscousRealm; Blender miniature rooms inside controllers. Not a web motion kit.",
+      "kind": "availability",
+      "evidence": "GET 200 https://80.lv/articles/blender-artist-designs-entire-gaming-spaces-hidden-inside-controllers 97431 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-craft.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion",
+      "id": "x-2092644473868050684#c2"
     }
   ],
   "recipe_steps": null,

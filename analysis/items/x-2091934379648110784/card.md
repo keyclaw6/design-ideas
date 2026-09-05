@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2091934379648110784#c1` (capability, stated) Site offers 2000+ DESIGN.md files from real product sites covering colors, typography, spacing, and components. — evidence: "2,000+ DESIGN.md files from real product sites, colors, type, spacing, components" [post]
+- `x-2091934379648110784#c2` (counter-claim, demonstrated) Live paged GET /api/styles still returns 1,289 unique style ids / 1,241 unique siteNames (20/page through 64, 10 on 65). Marketing 2,000+ DESIGN.md files stays above this public API. Linear/Notion/Stripe records are JSON designSystem blobs, not a downloadable .md tree. — evidence: "analysis/tools/styles-refero-design.md NOTES; 2026-09-05 recount 1289/1241." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

@@ -12,6 +12,7 @@
 - `x-2094328961522397530#c1` (result, stated) Listing tinyshots.app on tinyshelf raised DR from 11 to 46 within a couple of days. — evidence: "its DR exploded from 11 to 46!? I did nothing else" [post]
 - `x-2094328961522397530#c2` (benchmark, stated) tinyshelf.co currently shows DR 46 with only 122 outgoing dofollow links. — evidence: "We only have 122 outgoing dofollow links" [post]
 - `x-2094328961522397530#c3` (recipe, stated) A free dofollow backlink requires embedding the TinyShelf badge. — evidence: "You do need to embed our badge to get the dofollow link 🙏" [quoted-post]
+- `x-2094328961522397530#c4` (pricing, demonstrated) tinyshelf.co/tools/tinyshots 200 / 7,594 B listing is live (Photo, Video & Audio). tinyshots.app 200 / 70,112 B: $39 early-bird, 97 spots left, then $49; one-time; macOS Sonoma 14+; fully offline. No Ahrefs/Moz DR integer on either page. Tweet DR 11→46 stays tweet-only. — evidence: "GET 200 tinyshots.app 70112 B $39 / 97 spots / $49. Listing 7594 B. DR absent." [note]
 **Numbers.** TinyShots DR before/after: 11 to 46 DR (post); tinyshelf outgoing dofollow links: 122  (post); tinyshelf.co DR in screenshot: 46 DR (media)
 **Recipe.** —
 **Techniques.** [directory-submission](../../techniques/directory-submission.md)

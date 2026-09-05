@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "text": "Live paged GET /api/styles still returns 1,289 unique style ids / 1,241 unique siteNames (20/page through 64, 10 on 65). Marketing 2,000+ DESIGN.md files stays above this public API. Linear/Notion/Stripe records are JSON designSystem blobs, not a downloadable .md tree.",
+      "kind": "counter-claim",
+      "evidence": "analysis/tools/styles-refero-design.md NOTES; 2026-09-05 recount 1289/1241.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/styles-refero-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills",
+      "id": "x-2091934379648110784#c2"
     }
   ],
   "recipe_steps": null,

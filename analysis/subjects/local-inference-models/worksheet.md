@@ -5,7 +5,7 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 ## local-inference-models — short stack to try
 
 1. **Weights + a quant recipe you can download.** Unsloth Qwen3.8-27B Dynamic GGUF ~17GB RAM ([x-2088281537427235320](../../items/x-2088281537427235320/card.md)). Dynamic V3 + 8GB 1-bit path and “+10% vs others” ([x-2090103470015828184](../../items/x-2090103470015828184/card.md)).
-2. **MoE offload / streaming on one box.** Must-read FreeToken PCIe/CPU split + prefill checkpoints ([x-2091150763418620133](../../items/x-2091150763418620133/card.md)). Qwen expert-on-disk 37GB / 40 tok/s ([x-2093429897188299113](../../items/x-2093429897188299113/card.md)). HamsterResearch REAP-288 MLX 4-bit, 180B-class on 39GB ([x-2093160779960774982](../../items/x-2093160779960774982/card.md)).
+2. **MoE offload / streaming on one box.** Must-read FreeToken PCIe/CPU split + prefill checkpoints ([x-2091150763418620133](../../items/x-2091150763418620133/card.md)). Qwen expert-on-disk 37GB / 40 tok/s ([x-2093429897188299113](../../items/x-2093429897188299113/card.md)). REAP-288 is HF `sh0wie/…-MLX-4bit`: **91.5%** HumanEval; **68 GB** resident or **39 GB streamed** ([x-2093160779960774982](../../items/x-2093160779960774982/card.md)).
 3. **On-device demos (treat as research).** Edge8-35B on iPhone 44 tok/s ([x-2087562269807030754](../../items/x-2087562269807030754/card.md)). Bonsai-1.7B 90 tok/s CPU on Android ([x-2087962842985058365](../../items/x-2087962842985058365/card.md)).
 4. **Hosted numbers, not local.** RunInfra lists DeepSeek V4 Flash at **$0.13/$0.27 per M**; **278 tok/s / BF16 absent** from the live HTML ([x-2088594942482374759](../../items/x-2088594942482374759/card.md)). AMD portal has complimentary credits; **Token Factory / daily absent** ([x-2087240056037908509](../../items/x-2087240056037908509/card.md)). Hesamation’s “unnamed Berkeley/MIT engine” is a FreeToken paraphrase ([x-2090930324817498246](../../items/x-2090930324817498246/card.md)).
 
@@ -17,7 +17,7 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 | Unsloth Dynamic V3 | claimed | V3 + 1-bit 8GB path | +10% Div-300/KLD stated | same | yes |
 | FreeToken | engine; model BYO | MoE cache split | PCIe vs CPU profile | OSS claimed | yes |
 | Qwen expert-on-disk | implied same family | 60% experts on disk | 37GB / 40 tok/s stated | check Qwen | yes |
-| HamsterResearch REAP-288 | claimed MLX | 4-bit, 512→288 experts | 39GB / 180B-class stated | unknown | yes |
+| REAP-288 (HF `sh0wie/…-MLX-4bit`) | HF README | 4-bit, 512→288 experts | **91.5%** HumanEval; **68 GB** resident or **39 GB streamed** (do not collapse) | unknown | yes |
 | Edge8-35B | announcement | sparse MoE + SSD stream | 44 tok/s iPhone stated | unknown | yes (device) |
 | Bonsai-1.7B | announcement | CPU decode | 64→90 tok/s Android | unknown | yes (device) |
 | RunInfra BF16 | hosted | none (full BF16) | 278 tok/s; $0.13/$0.27 | n/a (hosted) | no — this *is* a host |
@@ -28,7 +28,7 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 
 - FreeToken split and prefill checkpoints — README + paper body ([freetoken](../../tools/freetoken.md)). Apache-2.0. Paper: 39.3 tok/s on 8 GB 4060 / 35B; TTFT <44 s vs baselines >150 s; 5090 77–83 tok/s (35B) and 22–25 tok/s (284B). Local clone: **499** `.py` files; `torch>=2.11,<2.12`; README now **290B+** (older NOTES 284B). Still no local `profile` here.
 - Unsloth “+10% on Div-300 and KLD” — provider blog; save the table.
-- 17GB / 8GB / 37GB / 39GB envelopes — restated; time tokens/s on a named GPU/CPU.
+- 17GB / 8GB / 37GB envelopes — restated; time tokens/s on a named GPU/CPU. REAP-288 **39 GB** is streamed; resident is **68 GB** ([x-2093160779960774982#c3](../../items/x-2093160779960774982/card.md)).
 - Edge8 44 tok/s and Bonsai 90 tok/s — device demos, no traces.
 - RunInfra 278 tok/s and AMD ~$10/day — host quotes; re-check the public pricing page.
 - Hesamation “unnamed Berkeley/MIT engine” — it is FreeToken. MIT is only in that paraphrase. Install from `FlashML-org/FreeToken`, not from the teaser wording.

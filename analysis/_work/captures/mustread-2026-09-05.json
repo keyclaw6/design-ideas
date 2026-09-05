@@ -1,0 +1,254 @@
+{
+  "fetched_at": "2026-09-05T02:20:00Z",
+  "pages": {
+    "80lv": {
+      "ok": true,
+      "status": 200,
+      "final": "https://80.lv/articles/blender-artist-designs-entire-gaming-spaces-hidden-inside-controllers",
+      "bytes": 97431,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://80.lv/articles/blender-artist-designs-entire-gaming-spaces-hidden-inside-controllers",
+      "saved": "80lv.html",
+      "title": "Blender Artist Builds Entire Gaming Rooms Inside Game Controllers",
+      "h1": [
+        "Blender Artist Designs Entire Gaming Spaces Hidden Inside Controllers",
+        "Subscribe to 80 Level Newsletters"
+      ]
+    },
+    "slite-ebook": {
+      "ok": true,
+      "status": 200,
+      "final": "https://slite.com/ebooks/company-brain",
+      "bytes": 50779,
+      "ctype": "text/html;charset=utf-8",
+      "url": "https://slite.com/ebooks/company-brain",
+      "saved": "slite-ebook.html",
+      "title": "The Company Brain ebook | Slite",
+      "h1": [
+        "The Ontology of the Company Brain"
+      ]
+    },
+    "tinyshots-app": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.tinyshots.app/",
+      "bytes": 70112,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://tinyshots.app",
+      "saved": "tinyshots-app.html",
+      "title": "TinyShots | Capture. Polish. Done.",
+      "h1": [
+        "Capture. Polish. Done."
+      ]
+    },
+    "tinyshelf-tinyshots": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.tinyshelf.co/tools/tinyshots",
+      "bytes": 7594,
+      "ctype": "text/html;charset=UTF-8",
+      "url": "https://www.tinyshelf.co/tools/tinyshots",
+      "saved": "tinyshelf-tinyshots.html",
+      "title": "TinyShots · TinyShelf",
+      "h1": [
+        "> TinyShots"
+      ]
+    },
+    "tinyshelf-search": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.tinyshelf.co/?q=tinyshots",
+      "bytes": 49458,
+      "ctype": "text/html;charset=UTF-8",
+      "url": "https://www.tinyshelf.co/?q=tinyshots",
+      "saved": "tinyshelf-search.html",
+      "title": "TinyShelf",
+      "h1": [
+        "TinyShelf is a tiny, curated directory of good software."
+      ]
+    },
+    "getdesign": {
+      "ok": true,
+      "status": 200,
+      "final": "https://getdesign.md/",
+      "bytes": 193240,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://getdesign.md/",
+      "saved": "getdesign.html",
+      "title": "Wise",
+      "h1": [
+        "Give AI-built websites a real design with DESIGN.md"
+      ]
+    },
+    "neuform": {
+      "ok": true,
+      "status": 200,
+      "final": "https://neuform.ai/",
+      "bytes": 6499,
+      "ctype": "text/html; charset=UTF-8",
+      "url": "https://neuform.ai/",
+      "saved": "neuform.html",
+      "title": "AI HTML Landing Page Builder and Remix Templates | Neuform",
+      "h1": [
+        "AI HTML Landing Page Builder and Remix Templates | Neuform"
+      ]
+    },
+    "aura": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.aura.build/",
+      "bytes": 7737,
+      "ctype": "text/html; charset=UTF-8",
+      "url": "https://aura.build/",
+      "saved": "aura.html",
+      "title": "Aura – AI Website Builder",
+      "h1": []
+    },
+    "sokosumi-design": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.sokosumi.com/tools/design-md",
+      "bytes": 109208,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://www.sokosumi.com/tools/design-md",
+      "saved": "sokosumi-design.html",
+      "title": "Free DESIGN.md generator for AI coding agents | Sokosumi",
+      "h1": [
+        "DESIGN.md Generator"
+      ]
+    },
+    "open-design-ai": {
+      "ok": true,
+      "status": 200,
+      "final": "https://open-design.ai/",
+      "bytes": 339680,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://open-design.ai/",
+      "saved": "open-design-ai.html",
+      "title": "OpenDesign — Best Open Source Claude Design Alternative",
+      "h1": [
+        "The Vibe Design Workspace for your brand.One design system. Every prototype, slide, marketing image,video, and dashboard stays on-brand."
+      ]
+    },
+    "tco-fable": {
+      "ok": true,
+      "status": 200,
+      "final": "https://jiro.build/",
+      "bytes": 1255876,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://t.co/8yqOGQgCZU",
+      "saved": "tco-fable.html",
+      "title": "Jiro — The Design Prompt Library to Vibe Code Better Websites",
+      "h1": [
+        "Design Prompt Library toVibe-Code better websites"
+      ]
+    },
+    "hf-hamster": {
+      "ok": true,
+      "status": 200,
+      "final": "https://huggingface.co/api/models?search=Qwen3.8-Flash-Next-REAP-288&limit=10",
+      "bytes": 3790,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://huggingface.co/api/models?search=Qwen3.8-Flash-Next-REAP-288&limit=10",
+      "saved": "hf-hamster.json",
+      "models": [
+        {
+          "id": "sh0wie/Qwen3.8-Flash-Next-REAP-288-MLX-4bit",
+          "likes": 38,
+          "downloads": 11713
+        },
+        {
+          "id": "sh0wie/Qwen3.8-Flash-Next-REAP-288-GGUF",
+          "likes": 4,
+          "downloads": 1892
+        },
+        {
+          "id": "butterf1ying/Qwen3.8-Flash-Next-Uncensored-REAP288-MTP-MLX-4bit",
+          "likes": 3,
+          "downloads": 393
+        },
+        {
+          "id": "sh0wie/Qwen3.8-Flash-Next-REAP-288-bf16",
+          "likes": 2,
+          "downloads": 811
+        },
+        {
+          "id": "sh0wie/Qwen3.8-Flash-Next-REAP-288-Q8E-MLX",
+          "likes": 1,
+          "downloads": 911
+        },
+        {
+          "id": "rcmorano/sh0wie-Qwen3.8-Flash-Next-REAP-288-ROCMFPX",
+          "likes": 1,
+          "downloads": 200
+        },
+        {
+          "id": "30cmtonyfaker/Qwen3.8-Flash-Next-REAP-288-MLX-Serve-4bit",
+          "likes": 0,
+          "downloads": 0
+        }
+      ]
+    },
+    "gh-gbrain": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/garrytan/gbrain",
+      "bytes": 5072,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/garrytan/gbrain",
+      "saved": "gh-gbrain.json"
+    }
+  },
+  "fxtwitter": {
+    "vacca": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/itsalexvacca/2094162743985308047"
+    },
+    "popcorn": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/sankalp1999/2074912810803560497"
+    },
+    "shimanski": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/dshimanski/2094770895021572502"
+    },
+    "worldgen": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/hyper3d/2095437841958314100"
+    },
+    "seedance": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/seedance/2094819241916801165"
+    },
+    "impeccable": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/pbakaus/2088254428730085690"
+    },
+    "gojiberry": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/pierreeliottlal/2094326291906310180"
+    },
+    "slite": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/femke_plantinga/2092918452423983363"
+    },
+    "freetoken": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/tokenbender/2091150763418620133"
+    },
+    "openviking": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found",
+      "url": "https://api.fxtwitter.com/defileo/2091169290661838965"
+    }
+  }
+}

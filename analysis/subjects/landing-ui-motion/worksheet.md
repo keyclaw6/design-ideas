@@ -49,7 +49,7 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 ## landing-ui-motion — do not treat as load-bearing
 
 - Pre-launch teasers and “polish beats paid attention” clips — mood, not a kit ([x-2093364419044794836](../../items/x-2093364419044794836/card.md), [x-2093024468209733756](../../items/x-2093024468209733756/card.md), [x-2095429087141515616](../../items/x-2095429087141515616/card.md)).
-- ViscousRealm controller-rooms — 80 Level feature, Blender illustration, not a web kit.
+- ViscousRealm controller-rooms — 80.lv article this pass **97,431 B** (19 May 2026); first-party **Saksham Pandit / ViscousRealm**; Blender miniature rooms, not a web kit ([x-2092644473868050684#c2](../../items/x-2092644473868050684/card.md); parked on [scroll-craft](../../tools/scroll-craft.md)).
 - Flowmapp — sitemap/estimate SaaS; put it in planning, not motion.
 - Secondary skill packs (Impeccable, Taste, Emil, MengTo) — judge those on the design-agent-skills worksheet.
 - Secondary 3D pages (FeralUI, ORYZO, Utsubo) — web-3d-scenes.

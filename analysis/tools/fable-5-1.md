@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 **2026-09-05 capture — Nate Herk X article 2094971964163006468.** Carrier `nateherk/2094977775593525567` via fxtwitter. Title *Fable 5.1 FINALLY Kills AI Website Slop* (source ranking language). **102** blocks / **90** nonempty / **9,821** chars. Opens: five animated websites, two from a single prompt. Cost pairs Fable 5.1 vs 5: **$18.24 / $20.22**, **$14.52 / $14.67**, **$12.83 / $21.64**, **$11.18 / $17.37**. **scroll-craft is not in the article body** — the amplifying tweet says the skill is in the replies. Direct `api.fxtwitter.com/nateherk/status/2094971964163006468` 404. Receipt `analysis/_work/captures/nateherk-x-article-2094971964163006468.json`.
+
+Neighbor: 2026-09-05 t.co/8yqOGQgCZU → `https://jiro.build/` GET 200 / **1,255,876 B**. Title Jiro — The Design Prompt Library. **1,147+** premium templates; **270+** vibe coders. LAOUNGE / Fable / coffee / scroll-scrub **absent**. Not the tweet’s Fable 5.1 coffee-hero prompt. Receipt `analysis/_work/captures/mustread-2026-09-05.json`.
 <!-- NOTES:END -->

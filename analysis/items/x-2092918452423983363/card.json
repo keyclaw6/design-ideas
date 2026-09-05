@@ -79,6 +79,16 @@
       "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "text": "Ebook landing re-read 200 / 50,779 B now quotes first-party: surveyed 149 teams and interviewed 10+ Company Brain builders. Form still firstName/lastName/email/companyWebsite. GBrain / mem0 / Letta / Zep / Sylph / Pletor / Gorgias / Slite Agent strings remain absent. 149 is on this gated page, not the announcing blog.",
+      "kind": "result",
+      "evidence": "GET 200 slite.com/ebooks/company-brain 50779 B. Quote: we surveyed 149 teams and interviewed 10+ Company Brain builders.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge",
+      "id": "x-2092918452423983363#c6"
     }
   ],
   "recipe_steps": [],

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2092644473868050684#c1` (capability, stated) ViscousRealm designed entire gaming spaces hidden inside different controller shells as Blender animations. — evidence: "ViscousRealm imagined tiny gaming rooms inside different controllers." [post]
+- `x-2092644473868050684#c2` (availability, demonstrated) 80.lv article 200 / 97,431 B (19 May 2026, Amber Rutherford). Title Blender Artist Builds Entire Gaming Rooms Inside Game Controllers. First-party: Saksham Pandit / ViscousRealm; Blender miniature rooms inside controllers. Not a web motion kit. — evidence: "GET 200 https://80.lv/articles/blender-artist-designs-entire-gaming-spaces-hidden-inside-controllers 97431 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [ui-motion-physics](../../techniques/ui-motion-physics.md)

@@ -21,4 +21,6 @@ README uses ranking language (“>10% … better accuracy”). Quote that as a p
 **2026-09-05 capture — docs page.** `https://unsloth.ai/docs/basics/dynamic-3.0-ggufs` GET 200 / **1,390,164 B**. First-party: Qwen3.8-27B Dynamic v3.0 quants deliver **>10% top-1% better accuracy** at the same size vs every other provider (author claim). Separate sentence: Unsloth GGUFs perform better despite being **~8GB smaller**. Do not collapse >10% with ~8GB. No GPU profile. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 
 Neighbor: `https://developer.amd.com` GET 200 / **108,551 B**. Complimentary cloud credits; free to join. **Token Factory** / daily strings absent. Receipt `analysis/_work/captures/leftover2-2026-09-05.json`.
+
+Neighbor (parked; no hamster.md): 2026-09-05 HF `sh0wie/Qwen3.8-Flash-Next-REAP-288-MLX-4bit` (not a HamsterResearch org). README table: Base Q4 **512** experts **98 GB** disk / **97 GB** resident / **93.9%** HumanEval; this build **288** experts **68 GB** disk / **68 GB** resident or **39 GB streamed** / **91.5%** HumanEval. String Hamster absent. Do not collapse 39 streamed with 68 resident. Receipt `analysis/_work/captures/mustread-2026-09-05/hf-reap-readme.md`.
 <!-- NOTES:END -->
