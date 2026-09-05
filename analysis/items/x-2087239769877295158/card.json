@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087239769877295158#c3",
+      "text": "sentrux.dev 200 / 16,280 B + GitHub sentrux/sentrux MIT **3,170★** / 280 forks. README first-party: **52 languages** via tree-sitter plugins; `sentrux plugin add-standard` installs all 52; plugin.toml + tags.scm; MCP `--mcp`. Public sentrux/plugins tree this pass has **50** language dirs — do not collapse with README 52. Demo quality integers 7342 / 6772 are marketing on the page.",
+      "kind": "capability",
+      "evidence": "GET sentrux.dev 16280 B; api.github.com/repos/sentrux/sentrux 3170 stars MIT. plugins contents 50 language dirs. leftover4-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/sentrux.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": null,

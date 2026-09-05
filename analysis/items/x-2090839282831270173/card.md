@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2090839282831270173#c1` (capability, stated) Splat.js trains Gaussian splatting in the browser with SfM included under MIT license. — evidence: "train gaussian splatting straight in the browser with Splat.js. SfM included, open source, and MIT Licensed." [post]
+- `x-2090839282831270173#c2` (capability, demonstrated) Repo is arrival-space/splat.js MIT **116★** / 19 forks (description null). README first-party: in-browser WebGPU 3DGS trainer + JS SfM; photographs → poses → .ply (INRIA); scales past 4,000,000 splats; Truck scene poses pixel-identical to COLMAP; live https://arrival.space/splat-js. Do not collapse with mkkellogg/GaussianSplats3D or SplatJS/SplatJS (2D canvas engine). — evidence: "GET api.github.com/repos/arrival-space/splat.js 116 stars MIT. README 9164 B. leftover4-2026-09-05/splatjs-readme.md" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

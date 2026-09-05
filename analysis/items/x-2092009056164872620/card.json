@@ -50,6 +50,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2092009056164872620#c3",
+      "text": "In-bank CozyClay verify (v1.7.0) lists 25 MCP tools (README 24 is stale) and 420 frame_shot combos; SwiftShader capture_frame produced a 640×360 PNG. cozyclay.org 200 / 22,437 B first-party: free OSS Three.js + R3F browser previs; no Blender/Unity; one-command local run. Tweet ~30 s reframe stays tweet-only.",
+      "kind": "capability",
+      "evidence": "cozyclay NOTES verify 25 tools; GET https://cozyclay.org/ 22437 B. leftover4-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cozyclay.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],

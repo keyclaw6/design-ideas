@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087239769877295158#c1` (capability, stated) Sentrux watches a codebase as a live treemap and compresses structure and dependency risk into one continuous quality score. — evidence: "sentrux is a real-time architectural sensor, it watches your codebase as a live treemap and turns file structure and dependencies into one continuous quality score." [post]
 - `x-2087239769877295158#c2` (capability, stated) Language support lives in plugin.toml and tags.scm files so adding a language needs no Rust changes. — evidence: "all 52 languages live in plugin.toml and tags.scm query files, so a new language needs zero rust code." [post]
+- `x-2087239769877295158#c3` (capability, demonstrated) sentrux.dev 200 / 16,280 B + GitHub sentrux/sentrux MIT **3,170★** / 280 forks. README first-party: **52 languages** via tree-sitter plugins; `sentrux plugin add-standard` installs all 52; plugin.toml + tags.scm; MCP `--mcp`. Public sentrux/plugins tree this pass has **50** language dirs — do not collapse with README 52. Demo quality integers 7342 / 6772 are marketing on the page. — evidence: "GET sentrux.dev 16280 B; api.github.com/repos/sentrux/sentrux 3170 stars MIT. plugins contents 50 language dirs. leftover4-2026-09-05.json" [note]
 **Numbers.** languages via plugins: 52  (post)
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md)

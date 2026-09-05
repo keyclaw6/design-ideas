@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2092009056164872620#c1` (opinion, stated) CozyClay has MCP and is much easier to use than Blender despite lower extensibility. — evidence: "MCPあるし格段に使いやすい" [post]
 - `x-2092009056164872620#c2` (result, stated) Reframing an existing scene takes about 30 seconds. — evidence: "構図変更するのも30秒くらい" [post]
+- `x-2092009056164872620#c3` (capability, demonstrated) In-bank CozyClay verify (v1.7.0) lists 25 MCP tools (README 24 is stale) and 420 frame_shot combos; SwiftShader capture_frame produced a 640×360 PNG. cozyclay.org 200 / 22,437 B first-party: free OSS Three.js + R3F browser previs; no Blender/Unity; one-command local run. Tweet ~30 s reframe stays tweet-only. — evidence: "cozyclay NOTES verify 25 tools; GET https://cozyclay.org/ 22437 B. leftover4-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [worldgen-to-video](../../techniques/worldgen-to-video.md)

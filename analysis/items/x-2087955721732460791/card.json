@@ -37,6 +37,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087955721732460791#c2",
+      "text": "type.com 200 / 651,313 B titles “Type | A shared workspace for Claude and Codex.” First-party: share work from individual Claude or ChatGPT conversations into a central space; “Build a shared company brain: context, memory and skills that constantly self-improve”; “Builds memories and learns as your team works.” Tweet’s three-layer individual/team/company schema is not a numbered product architecture in the HTML.",
+      "kind": "capability",
+      "evidence": "GET 200 https://type.com/ 651313 B. leftover4-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/type.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": null,

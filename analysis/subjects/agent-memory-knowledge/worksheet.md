@@ -41,7 +41,7 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 
 ## agent-memory-knowledge — do not treat as load-bearing
 
-- Type product pitch — scopes without a schema.
+- Type product pitch — homepage is a shared Claude/Codex workspace + “company brain” line, not a three-layer schema ([x-2087955721732460791#c2](../../items/x-2087955721732460791/card.md)).
 - Driscoll / Lieberman “intelligence layer” collage — argument, not a store.
 - Stanford Control Plane (secondary) — harness, not memory.
 
@@ -51,3 +51,4 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 2. gbrain-evals official rows are 93.19% / 95.32% `recall_all@5`, not 97.6%. Keep the tweet as marketing.
 3. Obsidian Mind tree + `/om-*` commands are on [obsidian-mind](../../tools/obsidian-mind.md). It is **not** Ryven’s stack. Tweet/infographic still has five automations + **4,000** RAW notes; quoted X article **2090496192136290304** has four prompts, **50–100** source threshold, and Claude Desktop paid — [filesystem-context-memory](../../techniques/filesystem-context-memory.md). `@imryven` GitHub user still **404**.
 4. OpenViking MCP docs name **15 tools** on `:1933/mcp` — [openviking](../../tools/openviking.md). Local **0.4.17.1** with `openviking[local-embed]` served on `127.0.0.1:1933` (`auth_mode=dev`). Live `viking://` write/read of `resources/probe/hello.md` (32 B). `ov` CLI via `ovcli.conf` (`url=http://127.0.0.1:1933`): health 0.4.17.1 Dev; status vikingdb **1 collection / 17 vectors**; `ov read` returns the probe; `ov abstract` still “not ready.” Card stays `ready-with-gaps` (`thread-partial`). Remaining: a VLM-backed L0 abstract.
+5. Sentrux is first-party on [sentrux](../../tools/sentrux.md): MIT **3,170★**; README **52** languages; public `plugins` tree **50** dirs this pass. Do not collapse. Tweet 52 matches the README, not the tree.

@@ -107,7 +107,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2087208634493095978#c1` | Memoria versions AI agent memory with snapshots, branches, and merges. | stated | [Memoria — git-like snapshots and bran…](../../items/x-2087208634493095978/card.md) |
 | `x-2087208634493095978#c2` | README positions Memoria as the first git for AI agent memory with zero-copy branching on MatrixOne. | stated | [Memoria — git-like snapshots and bran…](../../items/x-2087208634493095978/card.md) |
 
-Full set: claims.jsonl (52 rows)
+Full set: claims.jsonl (54 rows)
 
 ## agent-memory-knowledge — comparison axes
 

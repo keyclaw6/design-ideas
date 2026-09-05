@@ -1,0 +1,405 @@
+{
+  "fetched_at": "2026-09-05T03:20:00Z",
+  "pages": {
+    "type-com": {
+      "url": "https://type.com/",
+      "ok": true,
+      "status": 200,
+      "bytes": 651313,
+      "final": "https://type.com/",
+      "ctype": "text/html; charset=utf-8",
+      "title": "Type | A shared workspace for Claude and CodexLoading",
+      "h1": [
+        "A shared workspace where your",
+        "Marketing",
+        "M",
+        "a",
+        "r",
+        "k"
+      ],
+      "error": null
+    },
+    "type-www": {
+      "url": "https://www.type.com/",
+      "ok": true,
+      "status": 200,
+      "bytes": 651313,
+      "final": "https://type.com/",
+      "ctype": "text/html; charset=utf-8",
+      "title": "Type | A shared workspace for Claude and CodexLoading",
+      "h1": [
+        "A shared workspace where your",
+        "Marketing",
+        "M",
+        "a",
+        "r",
+        "k"
+      ],
+      "error": null
+    },
+    "typedotcom": {
+      "url": "https://www.type.com",
+      "ok": true,
+      "status": 200,
+      "bytes": 651313,
+      "final": "https://type.com/",
+      "ctype": "text/html; charset=utf-8",
+      "title": "Type | A shared workspace for Claude and CodexLoading",
+      "h1": [
+        "A shared workspace where your",
+        "Marketing",
+        "M",
+        "a",
+        "r",
+        "k"
+      ],
+      "error": null
+    },
+    "orca-build": {
+      "url": "https://orca.build/",
+      "ok": false,
+      "status": null,
+      "bytes": 0,
+      "final": null,
+      "ctype": null,
+      "title": null,
+      "h1": [],
+      "error": "URLError: <urlopen error _ssl.c:983: The handshake operation timed out>"
+    },
+    "orca-www": {
+      "url": "https://www.orca.build/",
+      "ok": true,
+      "status": 200,
+      "bytes": 2963,
+      "final": "https://www.orca.build/",
+      "ctype": "text/html",
+      "title": "",
+      "h1": [],
+      "error": null
+    },
+    "cozyclay-org": {
+      "url": "https://cozyclay.org/",
+      "ok": true,
+      "status": 200,
+      "bytes": 22437,
+      "final": "https://cozyclay.org/",
+      "ctype": "text/html; charset=utf-8",
+      "title": "CozyClay \u2014 open source 3D previs software, in your browser",
+      "h1": [
+        "Block the shot before you pay to render it"
+      ],
+      "error": null
+    },
+    "splatjs-com": {
+      "url": "https://splatjs.com/",
+      "ok": false,
+      "status": null,
+      "bytes": 0,
+      "final": null,
+      "ctype": null,
+      "title": null,
+      "h1": [],
+      "error": "URLError: <urlopen error [Errno -2] Name or service not known>"
+    },
+    "sentrux-dev": {
+      "url": "https://sentrux.dev/",
+      "ok": true,
+      "status": 200,
+      "bytes": 16280,
+      "final": "https://sentrux.dev/",
+      "ctype": "text/html; charset=utf-8",
+      "title": "sentrux \u2014 The sensor that helps AI agents close the feedback loop",
+      "h1": [
+        "The",
+        "sensor",
+        "that closes",
+        "the feedback loop for",
+        "AI coding agents."
+      ],
+      "error": null
+    },
+    "sentrux-com": {
+      "url": "https://sentrux.com/",
+      "ok": false,
+      "status": 403,
+      "bytes": 0,
+      "final": null,
+      "ctype": null,
+      "title": null,
+      "h1": [],
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "gh-sentrux": {
+      "url": "https://api.github.com/search/repositories?q=sentrux&per_page=5",
+      "ok": true,
+      "status": 200,
+      "bytes": 26673,
+      "final": "https://api.github.com/search/repositories?q=sentrux&per_page=5",
+      "ctype": "application/json; charset=utf-8",
+      "title": null,
+      "h1": [],
+      "error": null,
+      "json": [
+        {
+          "full_name": "sentrux/sentrux",
+          "stars": 3170,
+          "desc": "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.",
+          "html": "https://github.com/sentrux/sentrux",
+          "license": "MIT"
+        },
+        {
+          "full_name": "2233admin/code-intel-pipeline",
+          "stars": 12,
+          "desc": "Local code-intelligence pipeline for AI coding agents: architecture maps, hotspots, change impact, and structural regression gates before the agent edits. Rust core, powered by rg + Repowise + Understand + Sentrux.",
+          "html": "https://github.com/2233admin/code-intel-pipeline",
+          "license": "MIT"
+        },
+        {
+          "full_name": "sentrux/plugins",
+          "stars": 5,
+          "desc": "Language plugins for sentrux \u2014 tree-sitter grammars and queries",
+          "html": "https://github.com/sentrux/plugins",
+          "license": null
+        },
+        {
+          "full_name": "sentrux/homebrew-tap",
+          "stars": 2,
+          "desc": "Homebrew tap for sentrux",
+          "html": "https://github.com/sentrux/homebrew-tap",
+          "license": null
+        },
+        {
+          "full_name": "james-heidi/sentrux-metrics",
+          "stars": 0,
+          "desc": null,
+          "html": "https://github.com/james-heidi/sentrux-metrics",
+          "license": null
+        }
+      ],
+      "total": {}
+    },
+    "gh-splatjs": {
+      "url": "https://api.github.com/search/repositories?q=splat.js&per_page=5",
+      "ok": true,
+      "status": 200,
+      "bytes": 27844,
+      "final": "https://api.github.com/search/repositories?q=splat.js&per_page=5",
+      "ctype": "application/json; charset=utf-8",
+      "title": null,
+      "h1": [],
+      "error": null,
+      "json": [
+        {
+          "full_name": "mkkellogg/GaussianSplats3D",
+          "stars": 2882,
+          "desc": "Three.js-based implementation of 3D Gaussian splatting",
+          "html": "https://github.com/mkkellogg/GaussianSplats3D",
+          "license": "MIT"
+        },
+        {
+          "full_name": "sparkjsdev/spark",
+          "stars": 3570,
+          "desc": ":sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js",
+          "html": "https://github.com/sparkjsdev/spark",
+          "license": "MIT"
+        },
+        {
+          "full_name": "arrival-space/splat.js",
+          "stars": 116,
+          "desc": null,
+          "html": "https://github.com/arrival-space/splat.js",
+          "license": "MIT"
+        },
+        {
+          "full_name": "WilliamLiu-1997/3D-Tiles-RendererJS-3DGS-Plugin",
+          "stars": 124,
+          "desc": "Gaussian splat tile plugin for 3d-tiles-renderer that streams Gaussian Splats content in Three.js",
+          "html": "https://github.com/WilliamLiu-1997/3D-Tiles-RendererJS-3DGS-Plugin",
+          "license": "Apache-2.0"
+        },
+        {
+          "full_name": "SplatJS/SplatJS",
+          "stars": 22,
+          "desc": "A 2d HTML5 Canvas game engine",
+          "html": "https://github.com/SplatJS/SplatJS",
+          "license": "MIT"
+        }
+      ],
+      "total": {}
+    },
+    "gh-orca-design": {
+      "url": "https://api.github.com/search/repositories?q=orca+design+mode&per_page=5",
+      "ok": true,
+      "status": 200,
+      "bytes": 5580,
+      "final": "https://api.github.com/search/repositories?q=orca+design+mode&per_page=5",
+      "ctype": "application/json; charset=utf-8",
+      "title": null,
+      "h1": [],
+      "error": null,
+      "json": [
+        {
+          "full_name": "raj03kumar/Orca-orange",
+          "stars": 1,
+          "desc": "Orca orange is a basic design website which has light and dark mode switch mode implemented using javascript",
+          "html": "https://github.com/raj03kumar/Orca-orange",
+          "license": "GPL-3.0"
+        }
+      ],
+      "total": {}
+    },
+    "gh-sentrux-name": {
+      "url": "https://api.github.com/search/repositories?q=sentrux+in:name&per_page=5",
+      "ok": true,
+      "status": 200,
+      "bytes": 26122,
+      "final": "https://api.github.com/search/repositories?q=sentrux+in:name&per_page=5",
+      "ctype": "application/json; charset=utf-8",
+      "title": null,
+      "h1": [],
+      "error": null,
+      "json": {
+        "total": 5,
+        "items": [
+          {
+            "full_name": "sentrux/sentrux",
+            "stars": 3170,
+            "desc": "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.",
+            "html": "https://github.com/sentrux/sentrux",
+            "license": "MIT"
+          },
+          {
+            "full_name": "sentrux/plugins",
+            "stars": 5,
+            "desc": "Language plugins for sentrux \u2014 tree-sitter grammars and queries",
+            "html": "https://github.com/sentrux/plugins",
+            "license": null
+          },
+          {
+            "full_name": "sentrux/homebrew-tap",
+            "stars": 2,
+            "desc": "Homebrew tap for sentrux",
+            "html": "https://github.com/sentrux/homebrew-tap",
+            "license": null
+          },
+          {
+            "full_name": "james-heidi/sentrux-metrics",
+            "stars": 0,
+            "desc": null,
+            "html": "https://github.com/james-heidi/sentrux-metrics",
+            "license": null
+          },
+          {
+            "full_name": "fabiencrassat/sentrux-docker",
+            "stars": 1,
+            "desc": null,
+            "html": "https://github.com/fabiencrassat/sentrux-docker",
+            "license": null
+          }
+        ]
+      }
+    },
+    "gh-splat-js-name": {
+      "url": "https://api.github.com/search/repositories?q=splat.js+in:name&per_page=5",
+      "ok": true,
+      "status": 200,
+      "bytes": 25811,
+      "final": "https://api.github.com/search/repositories?q=splat.js+in:name&per_page=5",
+      "ctype": "application/json; charset=utf-8",
+      "title": null,
+      "h1": [],
+      "error": null,
+      "json": {
+        "total": 24,
+        "items": [
+          {
+            "full_name": "arrival-space/splat.js",
+            "stars": 116,
+            "desc": null,
+            "html": "https://github.com/arrival-space/splat.js",
+            "license": "MIT"
+          },
+          {
+            "full_name": "SplatJS/SplatJS",
+            "stars": 22,
+            "desc": "A 2d HTML5 Canvas game engine",
+            "html": "https://github.com/SplatJS/SplatJS",
+            "license": "MIT"
+          },
+          {
+            "full_name": "nysh9/Splat.js",
+            "stars": 0,
+            "desc": "WebGPU Gaussian Splat Renderer",
+            "html": "https://github.com/nysh9/Splat.js",
+            "license": null
+          },
+          {
+            "full_name": "courtnek/splatoon.js",
+            "stars": 4,
+            "desc": "A pebble watchapp that fetches and displays the current maps in splatoon",
+            "html": "https://github.com/courtnek/splatoon.js",
+            "license": "MIT"
+          },
+          {
+            "full_name": "justekoro/splatoon2.ink.js",
+            "stars": 2,
+            "desc": null,
+            "html": "https://github.com/justekoro/splatoon2.ink.js",
+            "license": null
+          }
+        ]
+      }
+    },
+    "gh-arrival-splat": {
+      "url": "https://api.github.com/search/repositories?q=Splat.js+in:name&per_page=5",
+      "ok": true,
+      "status": 200,
+      "bytes": 25811,
+      "final": "https://api.github.com/search/repositories?q=Splat.js+in:name&per_page=5",
+      "ctype": "application/json; charset=utf-8",
+      "title": null,
+      "h1": [],
+      "error": null,
+      "json": {
+        "total": 24,
+        "items": [
+          {
+            "full_name": "arrival-space/splat.js",
+            "stars": 116,
+            "desc": null,
+            "html": "https://github.com/arrival-space/splat.js",
+            "license": "MIT"
+          },
+          {
+            "full_name": "SplatJS/SplatJS",
+            "stars": 22,
+            "desc": "A 2d HTML5 Canvas game engine",
+            "html": "https://github.com/SplatJS/SplatJS",
+            "license": "MIT"
+          },
+          {
+            "full_name": "nysh9/Splat.js",
+            "stars": 0,
+            "desc": "WebGPU Gaussian Splat Renderer",
+            "html": "https://github.com/nysh9/Splat.js",
+            "license": null
+          },
+          {
+            "full_name": "courtnek/splatoon.js",
+            "stars": 4,
+            "desc": "A pebble watchapp that fetches and displays the current maps in splatoon",
+            "html": "https://github.com/courtnek/splatoon.js",
+            "license": "MIT"
+          },
+          {
+            "full_name": "justekoro/splatoon2.ink.js",
+            "stars": 2,
+            "desc": null,
+            "html": "https://github.com/justekoro/splatoon2.ink.js",
+            "license": null
+          }
+        ]
+      }
+    }
+  }
+}

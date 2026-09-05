@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2087955721732460791#c1` (capability, stated) Type builds distinct memory layers at individual, team, and company levels. — evidence: "Type builds a separate memory on the individual, team and company level." [post]
+- `x-2087955721732460791#c2` (capability, demonstrated) type.com 200 / 651,313 B titles “Type | A shared workspace for Claude and Codex.” First-party: share work from individual Claude or ChatGPT conversations into a central space; “Build a shared company brain: context, memory and skills that constantly self-improve”; “Builds memories and learns as your team works.” Tweet’s three-layer individual/team/company schema is not a numbered product architecture in the HTML. — evidence: "GET 200 https://type.com/ 651313 B. leftover4-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
