@@ -57,6 +57,16 @@
       "evidence_ref": "analysis/techniques/splat-pipeline.md",
       "confidence": "demonstrated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094769581965369822#c4",
+      "text": "arXiv 2608.29269 first-party: abs 42,527 B and html 192,093 B quote +9.74 dB PSNR and +0.121 SSIM vs strongest baseline on synthetic novel-state relighting. Project page https://zhn202.github.io/LightFuse/ is 200 / 22,365 B and says Code Soon. Page GitHub hrefs are IG-Fuse/nerfies templates, not LightFuse weights. lightfuse.github.io remains 404.",
+      "kind": "benchmark",
+      "evidence": "analysis/_work/captures/lightfuse-arxiv-2608.29269-2026-09-05.json. Abstract: outperforming the strongest baseline by +9.74 dB PSNR and +0.121 SSIM on average.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/splat-pipeline.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": null,
@@ -82,8 +92,8 @@
   "links": {
     "canonical": "https://x.com/janusch_patas/status/2094769581965369822",
     "repo": null,
-    "paper": null,
-    "product": null,
+    "paper": "https://arxiv.org/abs/2608.29269",
+    "product": "https://zhn202.github.io/LightFuse/",
     "other": [],
     "related_items": []
   },

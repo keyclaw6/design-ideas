@@ -60,6 +60,16 @@
       "evidence_ref": "analysis/tools/dashboard-stack.md",
       "confidence": "demonstrated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2091767461058105402#c4",
+      "text": "2026-09-05 OSS hunt still empty for the carousel studio. dashboardstack.sh 200 / 103,408 B is the DashboardStack Nuxt/Next schema framework (dennisadriaans personal GitHub), not the studio. api.github.com/orgs/dashboardstack/repos is an empty list. dennisadriaans 26 public repos have no carousel/studio name. Search carousel+studio+dashboardstack returned only unrelated MohtashamMurshid/carousel.",
+      "kind": "availability",
+      "evidence": "GET https://dashboardstack.sh 200 103408 B; org repos []; dennis 26 repos; search total_count 1. analysis/_work/captures/dashboardstack-oss-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/dashboard-stack.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": [],

@@ -1,0 +1,27 @@
+{
+  "fetched": "2026-09-05T01:41:00Z",
+  "abs": {
+    "url": "https://arxiv.org/abs/2608.29269",
+    "status": 200,
+    "bytes": 42527,
+    "title": "[2608.29269] LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing"
+  },
+  "html": {
+    "url": "https://arxiv.org/html/2608.29269",
+    "status": 200,
+    "bytes": 192093
+  },
+  "project": {
+    "url": "https://zhn202.github.io/LightFuse/",
+    "status": 200,
+    "bytes": 22365,
+    "title": "LightFuse",
+    "code": "Code Soon",
+    "github_in_page": [
+      "https://github.com/IG-Fuse/IG-Fuse.github.io",
+      "https://github.com/nerfies/nerfies.github.io"
+    ]
+  },
+  "quote": "outperforming the strongest baseline by +9.74 dB PSNR and +0.121 SSIM on average",
+  "note": "ar5iv html redirected to abs. No weights zip. Page GitHub links are template repos, not LightFuse code."
+}

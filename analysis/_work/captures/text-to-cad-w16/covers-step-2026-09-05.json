@@ -1,0 +1,25 @@
+{
+  "fetched": "2026-09-05T01:42:00Z",
+  "engine": "cadgen 0.5.0",
+  "model": "models/w16/src/covers.py",
+  "command": "python3 src/covers.py",
+  "cwd": "/tmp/repos/text-to-cad/models/w16",
+  "exit": 0,
+  "elapsed_s": 44.262,
+  "step": {
+    "path": "/tmp/repos/text-to-cad/models/w16/STEP/covers.step",
+    "bytes": 11769007,
+    "header": "ISO-10303-21 FILE_SCHEMA AUTOMOTIVE_DESIGN FILE_NAME covers Open CASCADE STEP processor 7.9 cadgen",
+    "manifold_solid_brep": 56,
+    "closed_shell": 56,
+    "advanced_face": 1626
+  },
+  "validate": {
+    "ok": true,
+    "occurrenceCount": 129,
+    "prototypeCount": 56,
+    "failureCount": 0,
+    "selfIntersectionCheck": "first-placement"
+  },
+  "note": "Full w16.py not run (BUILDING.md memory warning). This is a generated STEP from models/w16, not the assembled engine. Tweet 10GB demo meshes still not in git."
+}

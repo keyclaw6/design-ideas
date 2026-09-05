@@ -47,4 +47,4 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 
 1. AntV SSR fixture + Diagram Design architecture HTML token notes are on the tool pages. Remaining: a *fresh* agent-emitted SVG (not the repo fixture) if someone reruns the skill.
 2. Flint `assemblePlotly` (1 scatter trace) and hosted `render_chart` vegalite **SVG 17,393 B / PNG 23,944 B** are on [flint-chart-mcp](../../tools/flint-chart-mcp.md). `render_chart` still has no Plotly/Excel backend.
-3. Carousel studio is live (screenshot → pan → numbered frames; MCP named). Remaining: the promised OSS repo.
+3. Carousel studio is live (screenshot → pan → numbered frames; MCP named). 2026-09-05 OSS hunt still empty (card `#c4`): `dashboardstack.sh` is a different Nuxt/Next framework; org repos `[]`; dennis 26 public repos have no studio name. Remaining: the promised OSS repo.

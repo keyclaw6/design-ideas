@@ -62,6 +62,16 @@
       "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
       "confidence": "demonstrated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "web-meigen-ai#c4",
+      "text": "Live GET https://www.meigen.ai/ 200 / 129,701 B (Cloudflare 403 cleared). Title MeiGen - Free GPT Image 2, Nano Banana & Seedance 2.5 Prompts. SSR is a marketing/SPA shell (Loading…; 4 img tags; no 1,446 in HTML). /app is a mobile download page (104,802 B). /gallery and /api/prompts 404. Headed card count still missing; MCP file count 1,446 remains the counted integer.",
+      "kind": "availability",
+      "evidence": "GET 200 https://www.meigen.ai/ 129701 B 2026-09-05. /gallery 404. analysis/_work/captures/meigen-live-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": null,

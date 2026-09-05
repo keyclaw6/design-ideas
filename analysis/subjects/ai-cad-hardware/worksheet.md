@@ -19,7 +19,7 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 | Fusion MCP rings (must-read) | MCP-in-Fusion | claimed aligned assembly | n/a | Fusion (cloud/local seat) | general |
 | Fusion as CAD database | MCP-in-Fusion | param-edit claimed | n/a | Fusion | general |
 | OpenSCAD + grill-me | text/skills → OpenSCAD | printable rack claimed | n/a | local | general (homelab) |
-| text-to-cad Python repo | programmatic (11 skill dirs; MIT; **14,338★**) | tweet 10GB **not** in git (blob **18.8 MB**; W16 src **12,678** lines) | n/a | local | general |
+| text-to-cad Python repo | programmatic (11 skill dirs; MIT; **14,338★**) | tweet 10GB **not** in git; **covers.step** 11.2 MB / 56 solids validated | n/a | local | general |
 | CadXStudio demos | text-to-CAD | unknown (pretty models) | n/a | hosted cadxstudio.in | general |
 | VibeCAD | text-to-CAD + sim | unknown | n/a | unknown | mechanical |
 | Smith + Opus jet | text-to-CAD | “manufacturable” claimed | n/a | Smith | general |
@@ -35,7 +35,7 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 - Autorouter 1 minute / two layers vs four — one author’s board; no gerbers in this bank.
 - OpenEMS harness “flags SI issues” — need one before/after plot.
 - CadX / Smith / Fable W16 “one-shot manufacturable” — trailers. Do not send to a shop.
-- 10GB from <3MB Python — **du’d**. Public tree blob sum **18,800,398** B; GitHub size **155,412** KB; `models/*/src/*.py` **3,046,558** B; W16 **12,678** lines. Tweet 10GB / 12,000 not in README ([text-to-cad](../../tools/text-to-cad.md)).
+- 10GB from <3MB Python — **du’d**. Public tree blob sum **18,800,398** B; GitHub size **155,412** KB; `models/*/src/*.py` **3,046,558** B; W16 **12,678** lines. Tweet 10GB / 12,000 not in README. A real STEP from that tree now exists: `covers.step` **11.2 MB** / 56 solids ([text-to-cad](../../tools/text-to-cad.md)).
 - Fable 5.1 “strongest agentic CAD” — ranking language in the source; do not echo it.
 
 ## ai-cad-hardware — do not treat as load-bearing
@@ -48,6 +48,6 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 
 1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools and `export` formats (`step`, `f3d`, …) are on [autodesk-fusion](../../tools/autodesk-fusion.md). Quoted X article **2089992746178150400** (title *GPT + Autodesk Fusion MCP…*; 14,743 chars via fxtwitter) documents Codex `127.0.0.1:27182/mcp` and argues MCP is not text-to-3D. Rings card is `ready` (thread `empty`; video **15.866 s**). Remaining: a STEP/F3D of the ring assembly (article has none; this host has no Fusion seat).
 2. Keep PCB items (autoroute, OpenEMS, Fields Studio) in a separate shortlist from CadX demos.
-3. text-to-cad repo + docs are on [text-to-cad](../../tools/text-to-cad.md). Remaining: a generated STEP from `models/w16` on this host (no CAD seat required if cadgen runs; not exercised).
+3. text-to-cad repo + docs are on [text-to-cad](../../tools/text-to-cad.md). **Generated STEP now in-bank:** `cadgen 0.5.0` wrote `models/w16/STEP/covers.step` **11,769,007** B (56 solids / 129 occurrences / validate `failureCount` 0) — card `#c5`. Full `w16.py` engine not run (`BUILDING.md` memory warning). Tweet 10GB assembled meshes still not in git.
 4. Do not expand keyboard coverage beyond boards already in the roster.
 5. Fable 5.1 Fusion demo is an X amplify video **7.633 s** / 3396×2160 — no STEP/F3D ([fusion](../../tools/fusion.md)). Stale `media-undescribed` dropped; card stays `ready-with-gaps` (`thread-partial` 79/1). VibeCAD exploded-view clip is **58.616 s** / 1920×1080 ([vibecad](../../tools/vibecad.md)); thread 5/1. KiCad+OpenEMS harness has **no public repo**; artifact is a **17.866 s** / 1920×1024 clip ([openems](../../tools/openems.md)). Do not treat `antmicro/kicad-si-simulation-wrapper` as that harness.

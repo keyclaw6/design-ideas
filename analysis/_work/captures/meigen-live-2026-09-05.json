@@ -1,0 +1,23 @@
+{
+  "fetched": "2026-09-05T01:41:00Z",
+  "home": {
+    "url": "https://www.meigen.ai/",
+    "status": 200,
+    "bytes": 129701,
+    "title": "MeiGen - Free GPT Image 2, Nano Banana & Seedance 2.5 Prompts",
+    "img_tags": 4,
+    "ssr_note": "SPA shell shows Loading…; no 1,446 / 1446 in HTML"
+  },
+  "app": {
+    "url": "https://www.meigen.ai/app",
+    "status": 200,
+    "bytes": 104802,
+    "title": "Download the MeiGen App for Android & iOS | MeiGen"
+  },
+  "missing": {
+    "gallery": 404,
+    "api_prompts": 404,
+    "prompts": 404
+  },
+  "note": "Cloudflare 403 from the prior pass cleared. Headed gallery card count still missing. MCP trending-prompts.json 1,446 remains the counted integer."
+}

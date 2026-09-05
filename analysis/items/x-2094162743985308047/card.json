@@ -67,6 +67,16 @@
       "evidence_ref": "analysis/tools/clay.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094162743985308047#c5",
+      "text": "All 25 /blog index hrefs fetched 200 (52,962 B index + 25 posts). None contain the tweet’s 3× deals / 1,000 meetings / 5–11% signal integers. Visible 3x strings are LinkedIn algorithm/ads copy (carousel vs text-only; Lead Gen Forms 2-3x). Remaining: a property + date window, not another Frontal HTML page.",
+      "kind": "counter-claim",
+      "evidence": "analysis/_work/captures/frontal-blog-posts-2026-09-05.json and frontal-blog-posts-rest-2026-09-05.json. 25/25 status 200; tweet-integer needles empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/clay.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],

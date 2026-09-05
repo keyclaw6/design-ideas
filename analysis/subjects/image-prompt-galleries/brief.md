@@ -81,7 +81,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2095368133070700884#c1` | Post advertises a GPT 5.6 Sol prompt with a demo video but does not include the prompt body in the capture. | stated | [GPT 5.6 Sol website prompt demo video…](../../items/x-2095368133070700884/card.md) |
 | `x-2095451624139567162#c1` | Quoted follow-up advertises unlimited prompts for AI websites via an external marketplace link. | stated | [GPT 5.6 Sol website prompt teaser (ma…](../../items/x-2095451624139567162/card.md) |
 
-Full set: claims.jsonl (19 rows)
+Full set: claims.jsonl (20 rows)
 
 ## image-prompt-galleries — comparison axes
 

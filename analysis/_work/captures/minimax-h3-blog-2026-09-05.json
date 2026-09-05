@@ -1,0 +1,28 @@
+{
+  "fetched": "2026-09-05T01:42:00Z",
+  "blog": {
+    "url": "https://www.minimax.io/blog/minimax-h3",
+    "status": 200,
+    "bytes": 98310,
+    "title": "MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities",
+    "date": "2026-07-31"
+  },
+  "news_old_path": {
+    "url": "https://www.minimax.io/news/minimax-h3",
+    "status": 404,
+    "bytes": 19112
+  },
+  "pricing": {
+    "url": "https://hailuoai.video/pricing",
+    "status": 200,
+    "bytes": 617559
+  },
+  "blog_integers": [
+    "15 seconds",
+    "2K",
+    "768p",
+    "weights in the coming days"
+  ],
+  "hands_on": "https://hailuoai.video/zh-Intl/tools/minimax-h3",
+  "note": "Tweet \u7121\u6599 still not on blog or pricing HTML as an H3 quota. Blog is dated 2026-07-31 and says weights planned, not a current drop."
+}

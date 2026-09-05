@@ -17,4 +17,6 @@ First-party case studies that *are* on frontal.so this pass:
 GTM blog (`/blog/go-to-market-strategy-framework-2026`): 100 rules. Aggregated reply-rate copy: “good” 5–10%; average 3.4–5.8%; under-50-recipient campaigns 5.8% vs 1,000+ blasts 2.1%. That is **not** the tweet’s 5–11% signal range. Do not collapse tweet and case-study integers.
 
 **2026-09-05 capture — `/blog` index.** `GET https://www.frontal.so/blog` **200 / 52,962 B**. No 3× / 1,000 meetings / 5–11% on the index. Visible posts include “100,000+ DMs” LinkedIn outreach and Clay-agency roundups. Receipt `analysis/_work/captures/2026-09-05-mustread-retry.json`.
+
+**2026-09-05 capture — all 25 `/blog` hrefs.** Every index path returned **200**. Tweet needles (1,000 meetings / 5–11% / tripled deals / signal campaign) are **absent** on all 25. Visible `3x` strings are LinkedIn algorithm/ads copy (carousel vs text-only; Lead Gen Forms 2–3x; “3x used to be enough”). Receipts `frontal-blog-posts-2026-09-05.json` and `frontal-blog-posts-rest-2026-09-05.json`. Remaining: a property + date window, not another HTML page.
 <!-- NOTES:END -->

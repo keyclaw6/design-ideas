@@ -12,5 +12,7 @@
 
 **2026-09-05 capture — fujiryu00 “H3 is free.”** Root video **13.723 s** / 1108×720. `https://hailuoai.video/` **200 / 848,994 B**, title *MiniMax H3 LIVE NOW*. HTML has **From /mo** and Sign In. Page “Free” is an image-pack category, not an H3 quota. Tweet 無料 stays tweet-only. `minimax.io/news/minimax-h3` **404**. Receipts `h3-free-2091519705911795761.json`, `minimax-hailuo.json`.
 
+**2026-09-05 capture — pricing + research blog.** `https://hailuoai.video/pricing` **200 / 617,559 B**. Named plans in HTML: Standard **$14.99/mo** (promo **$7.99**, **1,000** credits ≈ 40×6s 768p); Pro **$54.99/mo** (promo **$24.99**, **4,500** credits); also **$94.99**, **$124.99** (**12,000** credits, Hailuo 02), **$199.99** (**20,000** credits, Hailuo 01/02). Master Membership copy: unlimited Hailo video before April 15. `https://www.minimax.io/blog/minimax-h3` **200 / 98,310 B** (dated **2026-07-31**): up to **15 s** at **2K**; per-second price “less than a third” at 2K vs unnamed mainstream; weights “in the coming days.” Hands-on URL `hailuoai.video/zh-Intl/tools/minimax-h3`. Tweet 無料 is still not an H3 quota on these pages. Receipt `minimax-h3-blog-2026-09-05.json`.
+
 **2026-09-05 capture — AE→H3 handoff clip.** `seiiiiiiiiiiru/2092040265234260091` amplify video **7.061 s** / 1232×1276. Recipe already English on the card. Thread is `captured_partial` (13/1), not failed. Receipt `ae-h3-2092040265234260091.json`.
 <!-- NOTES:END -->

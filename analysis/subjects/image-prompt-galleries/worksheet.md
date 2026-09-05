@@ -17,7 +17,7 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 | wuyoscar gpt-image2-skill | GPT Image 2 | gallery + CLI + skill | CLI `-p` demonstrated | MIT |
 | awesome-gpt-image-2 | GPT Image 2 | `cases.json` **541** / images **544** / badge 544; **22** templates in style-library | template engine + live SPA `gpt-image2.canghe.ai` | MIT |
 | YouMind Nano Banana skill | Nano Banana Pro / Gemini image | **14,965** unique ids / manifest **15,508** / file-sum **22,466** (11 JSON cats; 7,299 ids in 2+ files) | top-3 + sample images stated | package.json MIT; no LICENSE file |
-| MeiGen | GPT Image, Seedance, Nano Banana, Midjourney | MCP repo `data/trending-prompts.json` **1,446**; **9** named tools | community prompts; site 403 this pass | MCP repo MIT; live gallery uncounted |
+| MeiGen | GPT Image, Seedance, Nano Banana, Midjourney | MCP repo `data/trending-prompts.json` **1,446**; **9** named tools | community prompts; homepage live **129,701 B** (SSR shell) | MCP repo MIT; live gallery still uncounted |
 | PRYNE brand template | GPT (implied) | one 16:9 template + fill-in line | demonstrated on-thread | author examples |
 | Imageory.in | ChatGPT | marketplace site | stills only | unknown |
 | GPT 5.6 Sol teasers | Sol | prompt **not captured**; quoted marketplace is **sceneai.art** (36 Copy Prompt / 46 previews) | video only | sceneai.art is a UI library, not the Sol text |
@@ -38,5 +38,5 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 ## image-prompt-galleries — next capture work
 
 1. Save the Sol prompt text if the author posts it. Marketplace destination is now **sceneai.art**; still no Sol body. Keep those cards as examples-only.
-2. YouMind + MeiGen file counts are on [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md). awesome-gpt-image-2 tree counts are on [gpt-image-2](../../tools/gpt-image-2.md). Remaining: a headed MeiGen gallery count if Cloudflare clears; do not use the 403 shell.
+2. YouMind + MeiGen file counts are on [nano-banana-pro-prompts-recommend](../../tools/nano-banana-pro-prompts-recommend.md). awesome-gpt-image-2 tree counts are on [gpt-image-2](../../tools/gpt-image-2.md). MeiGen homepage **200 / 129,701 B** (403 cleared; card `#c4`) is still an SSR shell — no headed card count. Do not treat the marketing HTML as 1,446.
 3. Fold this subject into design-agent-skills only if a later pass finds no image-only users. Grain is already inside 6–60.

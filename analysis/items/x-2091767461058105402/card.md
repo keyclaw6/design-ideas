@@ -12,6 +12,7 @@
 - `x-2091767461058105402#c1` (availability, stated) Dashboard Stack studio is live for creating Instagram and LinkedIn carousels. — evidence: "and it is live; Instagram + LinkedIn carousels" [post]
 - `x-2091767461058105402#c2` (availability, stated) Author says an open-source repo will be available soon for the carousel studio. — evidence: "open source repo soon available" [post]
 - `x-2091767461058105402#c3` (capability, demonstrated) Live GET https://studio.dashboardstack.sh is 200 / 103,784 B. Title Carousel Studio. UI names Recipe, Screenshot, Pan run, Slides, Canvas, Layout template, Copy, and Use via MCP. Templates seen: Wide pan + reveal, Blank, Cover, Slices. Canvas hint 1600×1200 4:3. Saved in this browser. OSS repo still not linked. — evidence: "analysis/_work/captures/dashboard-studio-2026-09-04.json" [note]
+- `x-2091767461058105402#c4` (availability, demonstrated) 2026-09-05 OSS hunt still empty for the carousel studio. dashboardstack.sh 200 / 103,408 B is the DashboardStack Nuxt/Next schema framework (dennisadriaans personal GitHub), not the studio. api.github.com/orgs/dashboardstack/repos is an empty list. dennisadriaans 26 public repos have no carousel/studio name. Search carousel+studio+dashboardstack returned only unrelated MohtashamMurshid/carousel. — evidence: "GET https://dashboardstack.sh 200 103408 B; org repos []; dennis 26 repos; search total_count 1. analysis/_work/captures/dashboardstack-oss-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

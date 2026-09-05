@@ -1,0 +1,26 @@
+{
+  "fetched": "2026-09-05T01:42:00Z",
+  "studio": {
+    "url": "https://studio.dashboardstack.sh",
+    "status": 200,
+    "bytes": 103784,
+    "title": "Carousel Studio"
+  },
+  "framework": {
+    "url": "https://dashboardstack.sh",
+    "status": 200,
+    "bytes": 103408,
+    "title": "DashboardStack — Full-stack dashboards from your schema",
+    "note": "Nuxt/Next/TanStack schema dashboard CLI, not the carousel studio"
+  },
+  "github": {
+    "org_repos": {"url": "https://api.github.com/orgs/dashboardstack/repos", "body": "[]"},
+    "dennisadriaans_public": 26,
+    "dennis_carousel_or_studio_names": [],
+    "search_carousel_studio_dashboardstack": {
+      "total_count": 1,
+      "items": ["MohtashamMurshid/carousel"]
+    }
+  },
+  "note": "Promised carousel-studio OSS repo still not linked."
+}

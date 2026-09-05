@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 **2026-09-04 capture — studio live.** `GET https://studio.dashboardstack.sh` **200 / 103,784 B**. Title **Carousel Studio**. Description: upload a screenshot, pan across the product, export numbered frames. UI names Recipe, Screenshot, Pan run, Slides, Canvas, Layout template, Copy, **Use via MCP**. Templates seen: Wide pan + reveal, Blank, Cover, Slices. Canvas hint **1600 × 1200 · 4:3**. Saved in this browser; desktop-first. OSS repo still not linked. Receipt `dashboard-studio-2026-09-04.json`.
+
+**2026-09-05 capture — framework host ≠ studio OSS.** `https://dashboardstack.sh` **200 / 103,408 B** is the DashboardStack Nuxt/Next/TanStack schema CLI (`npx @dashboardstack/cli init`), not the carousel studio. `api.github.com/orgs/dashboardstack/repos` is **[]**. dennisadriaans **26** public repos have no carousel/studio name. Search `carousel+studio+dashboardstack` returned only unrelated `MohtashamMurshid/carousel`. Promised OSS still missing. Receipt `dashboardstack-oss-2026-09-05.json`.
 <!-- NOTES:END -->
