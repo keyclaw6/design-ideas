@@ -1,0 +1,132 @@
+{
+  "unlazy": {
+    "status": 200,
+    "final": "https://api.github.com/repos/Leonxlnx/unlazy",
+    "bytes": 5380,
+    "url": "https://api.github.com/repos/Leonxlnx/unlazy",
+    "json": {
+      "full_name": "Leonxlnx/unlazy",
+      "stars": 3055,
+      "license": "MIT",
+      "desc": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+      "pushed": "2026-09-03T09:31:17Z"
+    }
+  },
+  "grill_search": {
+    "status": 200,
+    "final": "https://api.github.com/search/repositories?q=grill-me+openscad",
+    "bytes": 55,
+    "url": "https://api.github.com/search/repositories?q=grill-me+openscad",
+    "json": {
+      "total": 0,
+      "top": []
+    }
+  },
+  "grill2": {
+    "status": 200,
+    "final": "https://api.github.com/search/repositories?q=grill-me+in:name",
+    "bytes": 156969,
+    "url": "https://api.github.com/search/repositories?q=grill-me+in:name",
+    "json": {
+      "total": 346,
+      "top": [
+        {
+          "full_name": "zhudan930612/grill-me",
+          "stars": 42,
+          "desc": null
+        },
+        {
+          "full_name": "RobMitt/grill-me-skill",
+          "stars": 424,
+          "desc": "Claude Code / Cowork skill: interview the user relentlessly until reaching shared understanding"
+        },
+        {
+          "full_name": "majorgilles/pi-grill-me",
+          "stars": 17,
+          "desc": "Socratic planning and shared-understanding sessions for pi."
+        },
+        {
+          "full_name": "joshuawheelock/grill-me",
+          "stars": 5,
+          "desc": "`grill-me` is an agent skill that tests whether you understand the code you maintain\u2014not merely whether your coding agent can change it."
+        },
+        {
+          "full_name": "EricTechPro/grill-me-checkpoint",
+          "stars": 5,
+          "desc": "Checkpointed grill-me discovery skill for agent interviews"
+        }
+      ]
+    }
+  },
+  "dash_search": {
+    "status": 200,
+    "final": "https://api.github.com/search/repositories?q=dashboardstack",
+    "bytes": 11498,
+    "url": "https://api.github.com/search/repositories?q=dashboardstack",
+    "json": {
+      "total": 2,
+      "top": [
+        {
+          "full_name": "MohammadZenAlabdeen/DashBoardStack",
+          "stars": 1,
+          "desc": "React+TypeScript dashboard"
+        },
+        {
+          "full_name": "MohtashamMurshid/carousel",
+          "stars": 0,
+          "desc": "Client-only Instagram / LinkedIn carousel composer. The deck lives in the URL. Inspired by DashboardStack Carousel Studio."
+        }
+      ]
+    }
+  },
+  "dash2": {
+    "status": 200,
+    "final": "https://api.github.com/search/repositories?q=dashboard-stack+carousel",
+    "bytes": 55,
+    "url": "https://api.github.com/search/repositories?q=dashboard-stack+carousel",
+    "json": {
+      "total": 0,
+      "top": []
+    }
+  },
+  "arcads": {
+    "status": 200,
+    "final": "https://api.github.com/search/repositories?q=arcads+mcp",
+    "bytes": 18173,
+    "url": "https://api.github.com/search/repositories?q=arcads+mcp",
+    "json": {
+      "total": 3,
+      "top": [
+        {
+          "full_name": "elninotarifa-creator/antigravity-starter-kit",
+          "stars": 0,
+          "desc": "Entorno Antigravity + Claude Code listo para instalar: MCP (correo, Drive, Calendar, WhatsApp, Apify, Arcads) + Playwright + 55 skills. Sin credenciales."
+        },
+        {
+          "full_name": "maddoherty23/higgsfield-claude-code",
+          "stars": 0,
+          "desc": "Higgsfield AI Video and Image, Agent Skill Pack for Claude Code and Cursor. Higgsfield MCP transport conversion of caleb-mr-paid-social/arcads-claude-code."
+        },
+        {
+          "full_name": "krusemediallc/hermes-ad-agent",
+          "stars": 0,
+          "desc": "A media buyer brain for your Hermes agent: research competitors, build image + video ads with Arcads, write human-sounding copy, launch to Meta, and monitor performance automatically. MCP-only, installs itself."
+        }
+      ]
+    }
+  },
+  "dash_studio": {
+    "status": 200,
+    "final": "https://studio.dashboardstack.sh",
+    "bytes": 103784,
+    "url": "https://studio.dashboardstack.sh",
+    "title": "Carousel Studio"
+  },
+  "unlazy_gh_page": {
+    "status": 200,
+    "final": "https://github.com/Leonxlnx/unlazy",
+    "bytes": 355231,
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "title": "GitHub - Leonxlnx/unlazy: Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion. \u00b7 GitHub"
+  }
+}

@@ -30,12 +30,24 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2088742864310481025#c2",
+      "text": "The linked repo Leonxlnx/unlazy is MIT / 3,055 stars. README-level description is a Depth Tree anti-laziness skill, not a design-system pack. Opus 5 + ponytail pairing stays the author’s field note.",
+      "kind": "availability",
+      "evidence": "GET https://api.github.com/repos/Leonxlnx/unlazy 200. 3055 stars MIT. analysis/_work/captures/2026-09-05-unlazy-grill.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unlazy.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "unlazy"
+  ],
   "links": {
     "canonical": null,
     "repo": "https://github.com/Leonxlnx/unlazy",

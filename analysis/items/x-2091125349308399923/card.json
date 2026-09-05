@@ -37,6 +37,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2091125349308399923#c2",
+      "text": "GitHub Leonxlnx/unlazy is public MIT, 3,055 stars this pass. Description: anti-laziness skill; Depth Tree splits a task N layers deep and gives every leaf the full time budget so effort multiplies with depth. Grounded in 2025–2026 research on model laziness / underthinking / premature completion.",
+      "kind": "availability",
+      "evidence": "GET https://api.github.com/repos/Leonxlnx/unlazy 200. stargazers_count 3055 license MIT. analysis/_work/captures/2026-09-05-unlazy-grill.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unlazy.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -68,7 +78,9 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [],
+  "gaps": [
+    "thread-partial"
+  ],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,

@@ -10,10 +10,11 @@
 
 **Claims.**
 - `x-2088742864310481025#c1` (opinion, stated) Author found /unlazy effective with Opus 5 and recommends stacking it with ponytail for cleaner, complete code. — evidence: "okay I tested /unlazy more with Opus 5 and I'm ngl it's really good" [post]
+- `x-2088742864310481025#c2` (availability, demonstrated) The linked repo Leonxlnx/unlazy is MIT / 3,055 stars. README-level description is a Depth Tree anti-laziness skill, not a design-system pack. Opus 5 + ponytail pairing stays the author’s field note. — evidence: "GET https://api.github.com/repos/Leonxlnx/unlazy 200. 3055 stars MIT. analysis/_work/captures/2026-09-05-unlazy-grill.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
+**Tools.** [unlazy](../../tools/unlazy.md)
 **Links.** repo (https://github.com/Leonxlnx/unlazy)
 **Related items.** [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2091125349308399923](../x-2091125349308399923/card.md), [x-2090834948332655011](../x-2090834948332655011/card.md)
 **Media.** —
