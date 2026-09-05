@@ -34,7 +34,7 @@
       "id": "x-2087143369181114868#c1",
       "text": "ReasoningBank stores reasoning process from both successful and failed trajectories, framing experience memory as a third scaling axis beside parameters and test-time compute.",
       "kind": "capability",
-      "evidence": "失败的轨迹同样进记忆——推理过程（怎么走到那一步的）才是记忆的载体，而不只是结果",
+      "evidence": "\u5931\u8d25\u7684\u8f68\u8ff9\u540c\u6837\u8fdb\u8bb0\u5fc6\u2014\u2014\u63a8\u7406\u8fc7\u7a0b\uff08\u600e\u4e48\u8d70\u5230\u90a3\u4e00\u6b65\u7684\uff09\u624d\u662f\u8bb0\u5fc6\u7684\u8f7d\u4f53\uff0c\u800c\u4e0d\u53ea\u662f\u7ed3\u679c",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -42,7 +42,7 @@
     },
     {
       "id": "x-2087143369181114868#c2",
-      "text": "Author follow-up: do not dump raw failure traces; judge success/fail first, then compress to at most 3 reusable experiences of 1–3 sentences each.",
+      "text": "Author follow-up: do not dump raw failure traces; judge success/fail first, then compress to at most 3 reusable experiences of 1\u20133 sentences each.",
       "kind": "recipe",
       "evidence": "EN gloss of captured author reply (handle yibie): raw trajectory is evidence; the reflected strategy is the retrievable memory.",
       "evidence_source": "note",
@@ -52,7 +52,7 @@
     },
     {
       "id": "x-2087143369181114868#c3",
-      "text": "arXiv:2509.25140v2 (13 pages) Table 1 WebArena overall (684 tasks): Flash ReasoningBank 48.8 / 8.3 vs No Memory 40.5 / 9.7 (+8.3 SR). Pro 53.9 / 7.4 vs 46.7 / 8.8 (+7.2). Claude-3.7 46.3 / 7.3 vs 41.7 / 8.0 (+4.6). Table 2 SWE-Verified: Flash 38.8 / 27.5 vs 34.2 / 30.3; Pro 57.4 / 19.8 vs 54.0 / 21.1. MaTTS parallel Shopping 49.7 (k=1) → 55.1 (k=5).",
+      "text": "arXiv:2509.25140v2 (13 pages) Table 1 WebArena overall (684 tasks): Flash ReasoningBank 48.8 / 8.3 vs No Memory 40.5 / 9.7 (+8.3 SR). Pro 53.9 / 7.4 vs 46.7 / 8.8 (+7.2). Claude-3.7 46.3 / 7.3 vs 41.7 / 8.0 (+4.6). Table 2 SWE-Verified: Flash 38.8 / 27.5 vs 34.2 / 30.3; Pro 57.4 / 19.8 vs 54.0 / 21.1. MaTTS parallel Shopping 49.7 (k=1) \u2192 55.1 (k=5).",
       "kind": "benchmark",
       "evidence": "pdfminer extract of 2509.25140v2.pdf (5,545,249 B). Prose: improves overall SR on WebArena by +8.3, +7.2, and +4.6. Table 2 rows match. MaTTS parallel 49.7 to 55.1.",
       "evidence_source": "note",
@@ -65,6 +65,16 @@
       "text": "Live github.com/google-research/reasoning-bank is Apache-2.0, 561 stars / 66 forks, description null, README 5,783 B. Disclaimer: not an official Google product; demo-only. OpenReview forum jL7fwchScm was challenge-gated (307) this pass.",
       "kind": "availability",
       "evidence": "GitHub API 2026-09-04: license Apache-2.0, stargazers_count 561, forks_count 66, description null. OpenReview Location=/challenge.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087143369181114868#c5",
+      "text": "leftover20: live github.com/google-research/reasoning-bank is still Apache-2.0, now 562\u2605 / 66 forks (prior pass 561\u2605). README still 5,783 B and demo-only / not an official Google product. Guessed research.google/blog/reasoningbank* URLs are 404 this pass. OpenReview forum stays challenge-gated. Paper tables stay on #c3.",
+      "kind": "availability",
+      "evidence": "leftover20-2026-09-05.json gh-reasoning-bank 562 Apache-2.0; rb-blog-a/b 404 132088 B; README 5783 B.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/reasoning-bank.md",
       "confidence": "demonstrated",
@@ -85,7 +95,9 @@
     "repo": "https://github.com/google-research/reasoning-bank",
     "paper": "https://arxiv.org/abs/2509.25140",
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/google-research/reasoning-bank"
+    ],
     "related_items": [
       "x-2087208634493095978",
       "x-2086920236079681607"

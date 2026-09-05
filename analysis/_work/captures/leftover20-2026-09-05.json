@@ -1,0 +1,145 @@
+{
+  "fetched_at": "2026-09-05T08:40:00Z",
+  "pages": {
+    "gh-reasoning-bank": {
+      "url": "https://api.github.com/repos/google-research/reasoning-bank",
+      "final": "https://api.github.com/repos/google-research/reasoning-bank",
+      "status": 200,
+      "bytes": 7057,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover20-2026-09-05/gh-reasoning-bank.json",
+      "json_summary": {
+        "full_name": "google-research/reasoning-bank",
+        "stars": 562,
+        "license": "Apache-2.0",
+        "description": ""
+      }
+    },
+    "rb-blog-a": {
+      "url": "https://research.google/blog/reasoningbank-scaling-agent-self-evolving-with-reasoning-memory/",
+      "final": "https://research.google/blog/reasoningbank-scaling-agent-self-evolving-with-reasoning-memory/",
+      "status": 404,
+      "bytes": 132088,
+      "ctype": "text/html; charset=utf-8",
+      "error": "HTTPError 404",
+      "title": null,
+      "visible_len": 3750
+    },
+    "rb-blog-b": {
+      "url": "https://research.google/blog/reasoningbank/",
+      "final": "https://research.google/blog/reasoningbank/",
+      "status": 404,
+      "bytes": 132088,
+      "ctype": "text/html; charset=utf-8",
+      "error": "HTTPError 404",
+      "title": null,
+      "visible_len": 3750
+    },
+    "rb-readme": {
+      "url": "https://raw.githubusercontent.com/google-research/reasoning-bank/main/README.md",
+      "final": "https://raw.githubusercontent.com/google-research/reasoning-bank/main/README.md",
+      "status": 200,
+      "bytes": 5783,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 5479
+    },
+    "mem0": {
+      "url": "https://mem0.ai",
+      "final": "https://mem0.ai",
+      "status": 200,
+      "bytes": 733509,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Mem0 - AI Memory Layer for your Agents & Apps | Persistent Context",
+      "visible_len": 8843
+    },
+    "gh-mem0": {
+      "url": "https://api.github.com/repos/mem0ai/mem0",
+      "final": "https://api.github.com/repos/mem0ai/mem0",
+      "status": 200,
+      "bytes": 6127,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover20-2026-09-05/gh-mem0.json",
+      "json_summary": {
+        "full_name": "mem0ai/mem0",
+        "stars": 64715,
+        "license": "Apache-2.0",
+        "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production."
+      }
+    },
+    "letta": {
+      "url": "https://www.letta.com",
+      "final": "https://www.letta.com",
+      "status": 200,
+      "bytes": 22739,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Letta | Machines that learn",
+      "visible_len": 2131
+    },
+    "gh-letta": {
+      "url": "https://api.github.com/repos/letta-ai/letta",
+      "final": "https://api.github.com/repos/letta-ai/letta",
+      "status": 200,
+      "bytes": 6151,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover20-2026-09-05/gh-letta.json",
+      "json_summary": {
+        "full_name": "letta-ai/letta",
+        "stars": 24621,
+        "license": "Apache-2.0",
+        "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time."
+      }
+    },
+    "zep": {
+      "url": "https://www.getzep.com",
+      "final": "https://www.getzep.com",
+      "status": 200,
+      "bytes": 250777,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Agent memory at enterprise scale \u2014 Zep",
+      "visible_len": 11380
+    },
+    "gh-graphiti": {
+      "url": "https://api.github.com/repos/getzep/graphiti",
+      "final": "https://api.github.com/repos/getzep/graphiti",
+      "status": 200,
+      "bytes": 6094,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover20-2026-09-05/gh-graphiti.json",
+      "json_summary": {
+        "full_name": "getzep/graphiti",
+        "stars": 30599,
+        "license": "Apache-2.0",
+        "description": "Build Real-Time Knowledge Graphs for AI Agents"
+      }
+    },
+    "gorgias": {
+      "url": "https://www.gorgias.com",
+      "final": "https://www.gorgias.com",
+      "status": 200,
+      "bytes": 289647,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "The Conversational AI platform for Ecommerce | Gorgias",
+      "visible_len": 9300
+    },
+    "gorgias-cortex": {
+      "url": "https://www.gorgias.com/cortex",
+      "final": "https://www.gorgias.com/cortex",
+      "status": 404,
+      "bytes": 34090,
+      "ctype": "text/html; charset=utf-8",
+      "error": "HTTPError 404",
+      "title": "Not Found",
+      "visible_len": 0
+    }
+  }
+}

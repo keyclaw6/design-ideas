@@ -27,7 +27,7 @@
   "platforms": [
     "browser"
   ],
-  "summary": "Slite thread and free ebook survey nine company-brain implementations — GBrain, mem0, Letta, Zep/Graphiti, Sylph, DIY git markdown, Pletor, Gorgias Cortex, Slite Agent — arguing each shares four parts: signals, memory, dreaming/pruning, and search/speech.",
+  "summary": "Slite thread and free ebook survey nine company-brain implementations \u2014 GBrain, mem0, Letta, Zep/Graphiti, Sylph, DIY git markdown, Pletor, Gorgias Cortex, Slite Agent \u2014 arguing each shares four parts: signals, memory, dreaming/pruning, and search/speech.",
   "question_it_answers": "How do nine real company-brain stacks differ while sharing the same four functional layers?",
   "claims": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": "x-2092918452423983363#c3",
-      "text": "Slite /ebooks/company-brain public page (50,779 B) titles the work “The Ontology of the Company Brain” and lists four TOC beats; access is a firstName/lastName/email/companyWebsite form. The tweet’s nine architecture names are still not in the HTML.",
+      "text": "Slite /ebooks/company-brain public page (50,779 B) titles the work \u201cThe Ontology of the Company Brain\u201d and lists four TOC beats; access is a firstName/lastName/email/companyWebsite form. The tweet\u2019s nine architecture names are still not in the HTML.",
       "kind": "result",
       "evidence": "HTTP 200 slite.com/ebooks/company-brain; form inputs firstName lastName email companyWebsite privacyPolicy. See filesystem-context-memory NOTES.",
       "evidence_source": "note",
@@ -64,7 +64,7 @@
       "id": "x-2092918452423983363#c4",
       "text": "Slite announcing blog (105,291 B) states first-party: 55% of teams that built a company brain themselves gave up, almost always on upkeep. Company Brain 101 / the ebook CTA still points at the gated /ebooks/company-brain form. Nine architecture names and the 149-team survey count are not on this post.",
       "kind": "result",
-      "evidence": "GET 200 slite.com/blog/slite-announcing-self-maintaining-knowledge-base; quote Maintenance is where company brains die: 55% … Get the ebook → /ebooks/company-brain. See filesystem-context-memory NOTES.",
+      "evidence": "GET 200 slite.com/blog/slite-announcing-self-maintaining-knowledge-base; quote Maintenance is where company brains die: 55% \u2026 Get the ebook \u2192 /ebooks/company-brain. See filesystem-context-memory NOTES.",
       "evidence_source": "note",
       "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
       "confidence": "demonstrated",
@@ -72,7 +72,7 @@
     },
     {
       "id": "x-2092918452423983363#c5",
-      "text": "Slite Cerebras post /blog/cerebras-knowledge-base 200 / 105,197 B first-party names Garry Tan GBrain plus Karpathy “company brain,” then argues Cerebras rejected stored GitHub context graphs. Other eight tweet names (mem0, Letta, Zep/Graphiti, Sylph, DIY, Pletor, Gorgias Cortex, Slite Agent) and Gorgias 12,000 are still absent. Neighbor second-brain and Claude-Code posts CTA the gated ebook only. Nine-name map stays tweet-infographic except GBrain.",
+      "text": "Slite Cerebras post /blog/cerebras-knowledge-base 200 / 105,197 B first-party names Garry Tan GBrain plus Karpathy \u201ccompany brain,\u201d then argues Cerebras rejected stored GitHub context graphs. Other eight tweet names (mem0, Letta, Zep/Graphiti, Sylph, DIY, Pletor, Gorgias Cortex, Slite Agent) and Gorgias 12,000 are still absent. Neighbor second-brain and Claude-Code posts CTA the gated ebook only. Nine-name map stays tweet-infographic except GBrain.",
       "kind": "result",
       "evidence": "GET 200 slite.com/blog/cerebras-knowledge-base 105197 B. Quote: Ever since Andrej Karpathy started talking about a company brain and Garry Tan showed off GBrain. analysis/_work/captures/slite-blog-related-2026-09-05.json",
       "evidence_source": "note",
@@ -89,6 +89,16 @@
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge",
       "id": "x-2092918452423983363#c6"
+    },
+    {
+      "id": "x-2092918452423983363#c7",
+      "text": "leftover20 vendor first-party: mem0.ai 733,509 B / mem0ai/mem0 Apache-2.0 64,715\u2605; letta.com 22,739 B / letta-ai/letta Apache-2.0 24,621\u2605; getzep.com 250,777 B / getzep/graphiti Apache-2.0 30,599\u2605; gorgias.com 289,647 B (ecommerce conversational AI). gorgias.com/cortex 404. Visible text has no 12,000 markdown nodes and no nine-architecture map. Those integers stay tweet-infographic. Do not invent mem0.md / letta.md / zep.md / gorgias.md.",
+      "kind": "counter-claim",
+      "evidence": "leftover20-2026-09-05.json mem0/letta/zep/gorgias. Visible grep 12000/company brain empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -109,7 +119,12 @@
     "repo": null,
     "paper": null,
     "product": "https://slite.com/ebooks/company-brain",
-    "other": [],
+    "other": [
+      "https://mem0.ai",
+      "https://www.letta.com",
+      "https://www.getzep.com",
+      "https://www.gorgias.com"
+    ],
     "related_items": [
       "x-2086920236079681607",
       "x-2093677274641969390",
