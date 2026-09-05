@@ -14,6 +14,7 @@
 > Adjust anything by hand
 > Reblock the whole shot in seconds" [post]
 - `x-2092255768770920506#c2` (availability, stated) Feature ships via Higgsfield MCP or Supercomputer. — evidence: "Now available via Higgsfield MCP or Supercomputer." [post]
+- `x-2092255768770920506#c3` (availability, demonstrated) In-bank Higgsfield first-party: adilinthewild Blender workflow blog **200 / 72,653 B** (no 19-minute string). This leftover’s prompt-blockout / MCP / Supercomputer copy is not on that blog HTML. Tweet MCP-or-Supercomputer availability stays tweet-only. — evidence: "higgsfield NOTES leftover blog 72653 B. leftover8 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [worldgen-to-video](../../techniques/worldgen-to-video.md), [blender-blockout-camera](../../techniques/blender-blockout-camera.md)

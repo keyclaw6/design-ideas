@@ -21,7 +21,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 | BESS note | high (Blender camera) | high (depth / EXR / H3) | high (blender-mcp) | designed for it | MiniMax H3, Seedance, Veo family |
 | cafe Seedance flythrough | high (.blend camera) | high (3D camera → Seedance) | mid (Claude Opus 5 once) | unknown (one demo) | Seedance 2.0/2.5 |
 | Higgsfield MCP gray-box | high | high (path as motion ref) | high (Claude Desktop + MCP) | mid (four-step writeup) | Seedance 2.5 |
-| ComfyUI + H3 | high | high (blockout motion + still) | mid (graph, not MCP) | mid | MiniMax H3 |
+| ComfyUI + H3 | high | high (blockout motion + still) | mid (graph; Comfy MCP is a homepage nav item) | mid | MiniMax H3 (homepage 2K / 5–15s) |
 | Unreal MCP CineCamera | high (Level Sequence) | unknown (engine shot, not always a video model) | high | mid (one demo) | Unreal render or later model |
 | CozyClay | mid (browser previs) | low (previs only) | high (MCP) | high (iterate before pay) | whatever you send next |
 | Mint / Intangible | Intangible live: compose cameras + **MCP Beta**; Mint live URL is **mint.gg** (assets + MCP, not a path exporter) | unknown | Intangible MCP Beta; Mint MCP is asset pipeline | unknown | their renderer |
@@ -57,3 +57,4 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 8. npaka CLI-vs-MCP note card is now `ready` (thread `empty`; body already on [blender-blockout-camera](../../techniques/blender-blockout-camera.md)).
 9. Higgsfield + Claude Opus 5 in-Blender world-build ([x-2091497597743612379](../../items/x-2091497597743612379/card.md)) is now `ready` (thread `empty`). Root video **49.6 s** / 1440×1080. Remaining: the `.blend` / Meshy project, not thread capture.
 10. CozyClay timeline leftover now carries the in-bank MCP verify (25 tools / cozyclay.org **22,437 B**) ([x-2091722166685610284#c2](../../items/x-2091722166685610284/card.md)). Slow-mo handles are still not a named MCP tool.
+11. Higgsfield in-Blender leftover now points at the in-bank 72,653 B workflow blog ([x-2092255768770920506#c3](../../items/x-2092255768770920506/card.md)). ComfyUI homepage is first-party **152,823 B** + GPL-3.0 **131,541★** ([comfyui](../../tools/comfyui.md)); the Blender+H3 graph stays tweet-only.

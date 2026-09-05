@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2092679517588574690#c1` (recipe, stated) Workflow uses Blender blockout for motion and composition plus a reference image to steer MiniMax H3 environment and textures. — evidence: "a Blender blockout provides the motion and composition while a reference image guides the environment, subject, and textures with MiniMax H3." [post]
+- `x-2092679517588574690#c2` (availability, demonstrated) comfy.org **152,823 B**: Professional Control of Visual AI; nav Products / Pricing / Community / **Comfy MCP**; 132K desktop download named; Cloud free trial; Developer Platform Beta (workflow as production API). MiniMax commercial-license reseller named; H3 2K / 5–15s; Seedance 2.5 / LTX 2.5 / Wan Animate 2 partner nodes. GitHub API resolves Comfy-Org/ComfyUI GPL-3.0 **131,541★** (do not collapse 132K desktop with 131,541★). Blender-blockout + H3 graph in the tweet is not a named homepage workflow. — evidence: "GET comfy.org 152823 B; api.github.com Comfy-Org/ComfyUI 131541 stars GPL-3.0." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md), [seedance-motion-reference](../../techniques/seedance-motion-reference.md)
 **Tools.** [minimax-h3](../../tools/minimax-h3.md), [comfyui](../../tools/comfyui.md)
-**Links.** —
+**Links.** repo (https://github.com/Comfy-Org/ComfyUI), product (https://comfy.org/)
 **Related items.** —
 **Media.**
 `raw/items/x-2092679517588574690/media/media_0.jpg` (video, carries_technique=true) — Workflow preview video showing Blender blockout camera motion composited with MiniMax H3 environment generation from a reference image.

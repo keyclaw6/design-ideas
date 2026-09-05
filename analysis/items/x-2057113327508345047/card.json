@@ -51,6 +51,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2057113327508345047#c3",
+      "text": "github.com/sengchor/kokraf README is a browser VEF mesh modeler (Three.js render; Vertex–Edge–Face edit). Live kokraf.com is collaborative 3D modeling. README and homepage HTML have no four-view / AI texture-projection copy. Tweet four-view projection stays tweet/media-only — do not treat the repo as a texture-projection skill.",
+      "kind": "counter-claim",
+      "evidence": "kokraf NOTES 2026-09-04: README VEF modeler; kokraf.com no four-view string.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/kokraf.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": [],
@@ -65,7 +75,7 @@
     "canonical": "https://x.com/kokraf3d/status/2057113327508345047",
     "repo": "https://github.com/sengchor/kokraf",
     "paper": null,
-    "product": null,
+    "product": "https://kokraf.com/",
     "other": [],
     "related_items": [
       "github-scottstts-threejs-awesome-graphics-agent-skills",

@@ -48,6 +48,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2092255768770920506#c3",
+      "text": "In-bank Higgsfield first-party: adilinthewild Blender workflow blog **200 / 72,653 B** (no 19-minute string). This leftover’s prompt-blockout / MCP / Supercomputer copy is not on that blog HTML. Tweet MCP-or-Supercomputer availability stays tweet-only.",
+      "kind": "availability",
+      "evidence": "higgsfield NOTES leftover blog 72653 B. leftover8 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/higgsfield.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "numbers": [],

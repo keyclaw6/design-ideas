@@ -42,6 +42,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2092679517588574690#c2",
+      "text": "comfy.org **152,823 B**: Professional Control of Visual AI; nav Products / Pricing / Community / **Comfy MCP**; 132K desktop download named; Cloud free trial; Developer Platform Beta (workflow as production API). MiniMax commercial-license reseller named; H3 2K / 5–15s; Seedance 2.5 / LTX 2.5 / Wan Animate 2 partner nodes. GitHub API resolves Comfy-Org/ComfyUI GPL-3.0 **131,541★** (do not collapse 132K desktop with 131,541★). Blender-blockout + H3 graph in the tweet is not a named homepage workflow.",
+      "kind": "availability",
+      "evidence": "GET comfy.org 152823 B; api.github.com Comfy-Org/ComfyUI 131541 stars GPL-3.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/comfyui.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": null,
@@ -56,9 +66,9 @@
   ],
   "links": {
     "canonical": "https://x.com/ComfyUI/status/2092679517588574690",
-    "repo": null,
+    "repo": "https://github.com/Comfy-Org/ComfyUI",
     "paper": null,
-    "product": null,
+    "product": "https://comfy.org/",
     "other": [],
     "related_items": []
   },
