@@ -49,6 +49,26 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2095548418533798086#c3",
+      "text": "GitHub earthtojake/text-to-cad is MIT, 14,338 stars / 1,520 forks. Homepage https://www.texttocad.dev is 200 / 79,751 B (title text-to-cad | A library of agent skills for CAD, CAE and CAM; HTML extract shows 0.4.28 and 14,338). Tree has 11 skill dirs and is not truncated (1,634 entries).",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/text-to-cad-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/text-to-cad.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2095548418533798086#c4",
+      "text": "Tweet ~10GB demo models / <3MB scripts / 12,000-line W16 is not what the public tree holds. Git blob sum 18,800,398 B; GitHub size 155,412 KB. All .py 695 files / 6,772,509 B. models/*/src/*.py 338 files / 3,046,558 B. models/w16/src 38 files / 12,678 lines / 562,721 B. README does not repeat 10GB / 3MB / 12,000. Do not collapse those integers.",
+      "kind": "counter-claim",
+      "evidence": "analysis/_work/captures/text-to-cad-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/text-to-cad.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],
@@ -74,9 +94,9 @@
   ],
   "links": {
     "canonical": "https://x.com/earthtojake/status/2095548418533798086",
-    "repo": null,
+    "repo": "https://github.com/earthtojake/text-to-cad",
     "paper": null,
-    "product": null,
+    "product": "https://www.texttocad.dev",
     "other": [],
     "related_items": [
       "x-2095352925597884465",
@@ -96,7 +116,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [

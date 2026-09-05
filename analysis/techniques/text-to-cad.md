@@ -15,4 +15,6 @@ Natural language or OpenSCAD skills that emit CAD solids or assemblies.
 Owner subject: `ai-cad-hardware`. Referenced by 6 item(s): x-2088252062454751483, x-2088277946918142211, x-2089717063921332378, x-2090535643353153833, x-2093305736717545869, x-2095548418533798086.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — earthtojake/text-to-cad tree vs tweet.** Public git is **not** a 10GB model dump. W16 sources are **12,678** lines / **38** files. See [text-to-cad](../tools/text-to-cad.md).
 <!-- NOTES:END -->

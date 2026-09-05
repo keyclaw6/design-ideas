@@ -16,8 +16,7 @@
   ],
   "tools": [],
   "gaps": [
-    "thread-partial",
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -73,13 +72,23 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2093681908227936745#c3",
+      "text": "Live GET https://base44.com is 200 / 435,678 B. Title Vibe Coding Platform for Building Apps and Websites | Base44. H1 Every builder needs a base. Meta: no-code AI platform for apps and websites. 7.5M launch-video views are not on this page.",
+      "kind": "availability",
+      "evidence": "analysis/_work/captures/base44-com-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/agent-video-editing.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "links": {
     "canonical": null,
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://base44.com",
     "other": [],
     "related_items": [
       "x-2094164487381414344"

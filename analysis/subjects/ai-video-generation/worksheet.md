@@ -25,7 +25,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 | Calliope | mid (script→2D→VO) | VO claimed | 2D characters | unknown | faceless YT length unknown |
 | Higgsfield + Fable + Cursor | mid (design then animate) | unknown | unknown | mid | unknown |
 | LightReel 160k/day | product is UGC researcher (10k TikToks/day meta) | unknown | unknown | 3-day trial stated | **160k/day not on lightreel.ai** |
-| Base44 / Intelligence Co breakdowns | craft, not a control | unknown | n/a | n/a | 52s clip on Base44 |
+| Base44 / Intelligence Co breakdowns | craft, not a control | unknown | n/a | n/a | Base44 landing live; intelligence.co → Design Arena (not a craft page); view counts still tweet-only |
 | fal.ai | API routing | model-dependent | model-dependent | pay-per-call | catalog, not one number |
 | H3 unlimited on Runway | host quota | unknown | unknown | iteration volume | none |
 
@@ -48,4 +48,4 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 
 1. Official Seedance 2.5 page: 30 s / extend twice / reference + white-model + green-screen — **no identity-lock copy** ([seedance](../../tools/seedance.md)). Face-swap recipe still needs two locked stills + a Seedance clip in this bank.
 2. video-use README still describes a local-folder path; Browser Use Cloud is optional ([video-use](../../tools/video-use.md)). Local `helpers/render.py` on a two-range lavfi EDL wrote draft `final.mp4` **132,217** B / **1.666** s / **1280×720** / 24 fps (`analysis/_work/captures/video-use-edit/`). Remaining: a Claude Code / ElevenLabs skill-loop edit of real talking-head takes.
-3. Keep launch-video breakdowns as craft notes; do not score models by view counts.
+3. Keep launch-video breakdowns as craft notes; do not score models by view counts. Base44.com is a vibe-coding product landing (**435,678 B**). intelligence.co 301s to intelligence.ai Design Arena (**52,359 B**).

@@ -1,0 +1,62 @@
+{
+  "fetched": "2026-09-05T00:20:00Z",
+  "github": {
+    "full_name": "earthtojake/text-to-cad",
+    "html_url": "https://github.com/earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "stars": 14338,
+    "forks": 1520,
+    "license": "MIT",
+    "size_kb": 155412,
+    "default_branch": "main",
+    "homepage": "https://www.texttocad.dev",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "cad",
+      "mechanical-engineering",
+      "robotics",
+      "step",
+      "stl",
+      "stp",
+      "text-to-cad"
+    ]
+  },
+  "tree": {
+    "entries": 1634,
+    "truncated": false,
+    "py_files": 695,
+    "py_bytes": 6772509,
+    "blob_bytes": 18800398,
+    "models_src_py_files": 338,
+    "models_src_py_bytes": 3046558
+  },
+  "w16": {
+    "src_py_files": 38,
+    "src_bytes": 562721,
+    "src_lines": 12678,
+    "note": "Tweet said 12,000 lines. Do not collapse with 12,678."
+  },
+  "skills_dirs": [
+    "bambu-labs",
+    "cad",
+    "cad-viewer",
+    "dfam-check",
+    "dxf",
+    "gcode",
+    "sdf",
+    "sendcutsend",
+    "srdf",
+    "step-parts",
+    "urdf"
+  ],
+  "docs": {
+    "url": "https://www.texttocad.dev",
+    "http": 200,
+    "bytes": 79751,
+    "title": "text-to-cad | A library of agent skills for CAD, CAE and CAM",
+    "visible": "version 0.4.28 and 14,338 stars in the HTML extract"
+  },
+  "note": "Tweet ~10GB demo models is not in the public git tree (blob sum 18.8 MB; GitHub size 155,412 KB). models/w16/.gitignore present. Tweet <3MB scripts: models/*/src/*.py is 3,046,558 B; all .py is 6,772,509 B. README does not repeat 10GB / 3MB / 12,000."
+}

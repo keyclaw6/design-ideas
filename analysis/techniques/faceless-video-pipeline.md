@@ -14,5 +14,7 @@ Owner subject: `ai-video-generation`. Referenced by 4 item(s): web-utsubo, x-209
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
+**2026-09-04 capture — intelligence.co → intelligence.ai.** `GET https://intelligence.co` 301s to `https://www.intelligence.ai/` **200 / 52,359 B**. Title **Intelligence**. Meta quotes **The world’s most realistic model evaluations** (source ranking language). Page is Design Arena / model-eval leaderboards, not a launch-video craft breakdown. **4.6M views still tweet-only.** Receipt `intelligence-ai-2026-09-04.json`.
+
 **2026-09-04 capture — LightReel is a UGC researcher.** `GET https://lightreel.ai` **200 / 68,837 B**. Title **Your AI UGC Marketing Researcher**. Meta **10,000 TikToks added daily**; marketing **4,000+** brands. **160k views/day is not on this page.** See [lightreelai](../tools/lightreelai.md).
 <!-- NOTES:END -->

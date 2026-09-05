@@ -17,4 +17,6 @@ Agent-driven cut, face-swap, and API routing with a local preview before spend.
 Owner subject: `ai-video-generation`. Referenced by 8 item(s): web-fal-ai, x-2092008677834387672, x-2092980272819999227, x-2093236801079279978, x-2093681908227936745, x-2094819241916801165, x-2095427702325231977, x-2095483352375837020.
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-04 capture — Base44 product page.** `GET https://base44.com` **200 / 435,678 B**. Title **Vibe Coding Platform for Building Apps and Websites | Base44**. H1 **Every builder needs a base**. **7.5M views is not on this page.** Receipt `base44-com-2026-09-04.json`.
 <!-- NOTES:END -->
