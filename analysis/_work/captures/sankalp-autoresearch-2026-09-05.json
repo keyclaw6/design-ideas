@@ -1,0 +1,18 @@
+{
+  "fetched": "2026-09-05T01:48:00Z",
+  "url": "https://sankalp.bearblog.dev/autoresearch/",
+  "status": 200,
+  "bytes": 158069,
+  "title": "Auto-research with codex: How I achieved a 232x Faster Kernel over baseline with Codex in GPU Mode's qr_v2 problem",
+  "date": "2026-07-08",
+  "integers": {
+    "place": "12th of 183",
+    "speedup": "232x",
+    "baseline_us": 419000,
+    "final_us": 1805,
+    "lineage_us": "108803 to 1805"
+  },
+  "submit_logs": "Described as a local workspace folder: logs provided by the evaluator for each submission; AGENTS.md says keep submission logs under submit_logs/. Not a public GitHub tree.",
+  "popcorn": "GPU Mode provides the popcorn CLI. Agents test/benchmark/submit to the leaderboard directly.",
+  "note": "Prior pass had a 403 on this URL. Do not collapse tweet 212x / blog 232x / live board 26th 3916.103 us."
+}

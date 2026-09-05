@@ -1,0 +1,170 @@
+{
+  "https://slite.com/blog/building-a-second-brain-for-teams": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/blog/building-a-second-brain-for-teams",
+    "bytes": 108844,
+    "title": "Can a team build a second brain?",
+    "url": "https://slite.com/blog/building-a-second-brain-for-teams",
+    "hits": {
+      "ebook": 8,
+      "company brain": 2
+    }
+  },
+  "https://slite.com/blog/cerebras-knowledge-base": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/blog/cerebras-knowledge-base",
+    "bytes": 105197,
+    "title": "Inside the Cerebras knowledge base, and how to build one",
+    "url": "https://slite.com/blog/cerebras-knowledge-base",
+    "hits": {
+      "GBrain": 2,
+      "ebook": 6,
+      "company brain": 14
+    }
+  },
+  "https://slite.com/blog/ai-stack-of-the-future": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/blog/ai-stack-of-the-future",
+    "bytes": 110116,
+    "title": "Tools, hands, and brain: the AI stack of the future",
+    "url": "https://slite.com/blog/ai-stack-of-the-future",
+    "hits": {
+      "ebook": 4,
+      "company brain": 4
+    }
+  },
+  "https://slite.com/blog/dont-drop-claude-code-add-what-it-cant-see": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/blog/dont-drop-claude-code-add-what-it-cant-see",
+    "bytes": 148788,
+    "title": "Don&#x27;t drop Claude Code. Add what it can&#x27;t see",
+    "url": "https://slite.com/blog/dont-drop-claude-code-add-what-it-cant-see",
+    "hits": {
+      "ebook": 6,
+      "company brain": 29
+    }
+  },
+  "https://slite.com/blog/your-company-doesnt-need-a-context-graph": {
+    "ok": false,
+    "status": 404,
+    "bytes": 51020,
+    "final": "https://slite.com/blog/your-company-doesnt-need-a-context-graph",
+    "title": "Slite | Self-maintaining AI knowledge base",
+    "url": "https://slite.com/blog/your-company-doesnt-need-a-context-graph",
+    "hits": {}
+  },
+  "https://slite.com/blog/3-tips-to-create-a-knowledge-base-as-a-team-from-day-1": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/learn/what-is-a-knowledge-base",
+    "bytes": 164897,
+    "title": "What is a knowledge base: a comprehensive guide and best practices",
+    "url": "https://slite.com/blog/3-tips-to-create-a-knowledge-base-as-a-team-from-day-1",
+    "hits": {
+      "ebook": 6,
+      "company brain": 4
+    }
+  },
+  "https://slite.com/blog/improve-your-knowledge-base-with-slites-actionable-insights": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/learn/what-is-a-knowledge-base",
+    "bytes": 164897,
+    "title": "What is a knowledge base: a comprehensive guide and best practices",
+    "url": "https://slite.com/blog/improve-your-knowledge-base-with-slites-actionable-insights",
+    "hits": {
+      "ebook": 6,
+      "company brain": 4
+    }
+  },
+  "https://slite.com/blog/knowledge-base-on-autopilot": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/blog/slite-announcing-self-maintaining-knowledge-base",
+    "bytes": 105291,
+    "title": "Say hello to Slite, the self-maintaining knowledge base",
+    "url": "https://slite.com/blog/knowledge-base-on-autopilot",
+    "hits": {
+      "55%": 2,
+      "ebook": 4,
+      "company brain": 6
+    }
+  },
+  "https://slite.com/blog/signs-your-knowledge-base-needs-some-love": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/learn/what-is-a-knowledge-base",
+    "bytes": 164897,
+    "title": "What is a knowledge base: a comprehensive guide and best practices",
+    "url": "https://slite.com/blog/signs-your-knowledge-base-needs-some-love",
+    "hits": {
+      "ebook": 6,
+      "company brain": 4
+    }
+  },
+  "https://slite.com/blog/slack-the-accidental-knowledge-base": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/learn/what-is-a-knowledge-base",
+    "bytes": 164897,
+    "title": "What is a knowledge base: a comprehensive guide and best practices",
+    "url": "https://slite.com/blog/slack-the-accidental-knowledge-base",
+    "hits": {
+      "ebook": 6,
+      "company brain": 4
+    }
+  },
+  "https://slite.com/blog/slite-announcing-self-maintaining-knowledge-base": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/blog/slite-announcing-self-maintaining-knowledge-base",
+    "bytes": 105291,
+    "title": "Say hello to Slite, the self-maintaining knowledge base",
+    "url": "https://slite.com/blog/slite-announcing-self-maintaining-knowledge-base",
+    "hits": {
+      "55%": 2,
+      "ebook": 4,
+      "company brain": 6
+    }
+  },
+  "https://slite.com/blog/stop-thinking-about-your-knowledge-base-as-a-library": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/learn/what-is-a-knowledge-base",
+    "bytes": 164897,
+    "title": "What is a knowledge base: a comprehensive guide and best practices",
+    "url": "https://slite.com/blog/stop-thinking-about-your-knowledge-base-as-a-library",
+    "hits": {
+      "ebook": 6,
+      "company brain": 4
+    }
+  },
+  "https://slite.com/blog/why-your-team-needs-purpose-built-knowledge-base": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/learn/what-is-a-knowledge-base",
+    "bytes": 164897,
+    "title": "What is a knowledge base: a comprehensive guide and best practices",
+    "url": "https://slite.com/blog/why-your-team-needs-purpose-built-knowledge-base",
+    "hits": {
+      "ebook": 6,
+      "company brain": 4
+    }
+  },
+  "https://slite.com/blog/you-need-a-knowledge-base": {
+    "ok": true,
+    "status": 200,
+    "final": "https://slite.com/learn/what-is-a-knowledge-base",
+    "bytes": 164897,
+    "title": "What is a knowledge base: a comprehensive guide and best practices",
+    "url": "https://slite.com/blog/you-need-a-knowledge-base",
+    "hits": {
+      "ebook": 6,
+      "company brain": 4
+    }
+  }
+}

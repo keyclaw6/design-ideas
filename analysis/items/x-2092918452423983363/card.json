@@ -69,6 +69,16 @@
       "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2092918452423983363#c5",
+      "text": "Slite Cerebras post /blog/cerebras-knowledge-base 200 / 105,197 B first-party names Garry Tan GBrain plus Karpathy “company brain,” then argues Cerebras rejected stored GitHub context graphs. Other eight tweet names (mem0, Letta, Zep/Graphiti, Sylph, DIY, Pletor, Gorgias Cortex, Slite Agent) and Gorgias 12,000 are still absent. Neighbor second-brain and Claude-Code posts CTA the gated ebook only. Nine-name map stays tweet-infographic except GBrain.",
+      "kind": "result",
+      "evidence": "GET 200 slite.com/blog/cerebras-knowledge-base 105197 B. Quote: Ever since Andrej Karpathy started talking about a company brain and Garry Tan showed off GBrain. analysis/_work/captures/slite-blog-related-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
