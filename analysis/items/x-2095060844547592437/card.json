@@ -27,7 +27,7 @@
   ],
   "artifact_type": "thread",
   "platforms": [],
-  "summary": "Starborn founder Paolo Trivellato breaks LinkedIn lead-magnet virality into thumbnail image, specific hook, and comment-gated body—claiming 20k+ client comments in 30 days with no in-post links and one-word CTAs under six letters.",
+  "summary": "Starborn founder Paolo Trivellato breaks LinkedIn lead-magnet virality into thumbnail image, specific hook, and comment-gated body\u2014claiming 20k+ client comments in 30 days with no in-post links and one-word CTAs under six letters.",
   "question_it_answers": "How does Paolo Trivellato structure LinkedIn lead magnets to maximize comment engagement?",
   "claims": [
     {
@@ -61,7 +61,7 @@
       "subject": "outbound-gtm-agents"
     },
     {
-      "text": "starbornai.com 200 / 90,168 B. Title/H1 Add $15K–$50K MRR in 90 days using LinkedIn alone. First-party: write posts, run DMs, book 20–30 qualified sales calls. Marketing outcome copy, not a ledger. Tweet three-part viral recipe is not a numbered walkthrough in this HTML.",
+      "text": "starbornai.com 200 / 90,168 B. Title/H1 Add $15K\u2013$50K MRR in 90 days using LinkedIn alone. First-party: write posts, run DMs, book 20\u201330 qualified sales calls. Marketing outcome copy, not a ledger. Tweet three-part viral recipe is not a numbered walkthrough in this HTML.",
       "kind": "availability",
       "evidence": "GET 200 https://www.starbornai.com/ 90168 B.",
       "evidence_source": "note",
@@ -69,6 +69,16 @@
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents",
       "id": "x-2095060844547592437#c4"
+    },
+    {
+      "id": "x-2095060844547592437#c5",
+      "text": "leftover25 unused linkedin.com/in/leadgenwiz is HTTP 999 / 1,530 B. Do not hammer. Starborn leftover stays on #c4.",
+      "kind": "availability",
+      "evidence": "leftover25 linkedin-leadgenwiz 999 1530 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": null,

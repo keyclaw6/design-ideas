@@ -93,6 +93,16 @@
       "evidence_ref": "analysis/tools/blume.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094524951025914278#c7",
+      "text": "leftover25 unused blume.codes 248,749 B is Blume Sidecar \u2014 Monitor and Improve Coding Agents (leftover19 homepage was 253,619 B). First-party: local history; Cursor / Claude Code / Codex / Pi; Usage / Setup / Agents / Improve. This is the sidecar product, not a design-system gallery. Dicebear leftover stays on #c6.",
+      "kind": "availability",
+      "evidence": "leftover25 blume-codes 248749 B. Title Blume Sidecar \u2014 Monitor and Improve Coding Agents.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blume-sidecar.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
@@ -133,7 +143,8 @@
     "product": "https://blume.codes",
     "other": [
       "https://www.dicebear.com",
-      "https://fal.ai"
+      "https://fal.ai",
+      "https://blume.codes"
     ],
     "related_items": [
       "web-blume-codes",

@@ -1,0 +1,75 @@
+{
+  "fetched_at": "2026-09-05T12:00:00Z",
+  "pages": {
+    "crunchbase": {
+      "url": "https://www.crunchbase.com/",
+      "final": "https://www.crunchbase.com/",
+      "status": 200,
+      "bytes": 128439,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Crunchbase | Private Company Data & Predictive Intelligence",
+      "visible_len": 7198
+    },
+    "g2": {
+      "url": "https://www.g2.com/",
+      "final": "https://www.g2.com/",
+      "status": 403,
+      "bytes": 1704,
+      "ctype": "text/html;charset=utf-8",
+      "error": "HTTPError 403",
+      "title": "g2.com",
+      "visible_len": 43
+    },
+    "producthunt": {
+      "url": "https://www.producthunt.com/",
+      "final": "https://www.producthunt.com/",
+      "status": 403,
+      "bytes": 5581,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 403",
+      "title": "Just a moment...",
+      "visible_len": 0
+    },
+    "blume-codes": {
+      "url": "https://blume.codes",
+      "final": "https://blume.codes",
+      "status": 200,
+      "bytes": 248749,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Blume Sidecar \u2014 Monitor and Improve Coding Agents",
+      "visible_len": 3576
+    },
+    "refero-http": {
+      "url": "http://styles.refero.design",
+      "final": "https://styles.refero.design/",
+      "status": 200,
+      "bytes": 103024,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "DESIGN.md Examples for AI Agents | Refero Styles",
+      "visible_len": 1474
+    },
+    "linkedin-leadgenwiz": {
+      "url": "https://www.linkedin.com/in/leadgenwiz",
+      "final": "https://www.linkedin.com/in/leadgenwiz",
+      "status": 999,
+      "bytes": 1530,
+      "ctype": "text/html",
+      "error": "HTTPError 999",
+      "title": null,
+      "visible_len": 0
+    },
+    "aicss-home": {
+      "url": "https://www.aicss.dev/",
+      "final": "https://www.aicss.dev/",
+      "status": 200,
+      "bytes": 321914,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "AICSS \u00b7 UI components for AI agents",
+      "visible_len": 2333
+    }
+  }
+}

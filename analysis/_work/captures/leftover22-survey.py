@@ -39,6 +39,12 @@ DEAD = (
     "www.npmjs.com",
     "aiautomationsociety.ai",
     "www.aiautomationsociety.ai",
+    "g2.com",
+    "www.g2.com",
+    "producthunt.com",
+    "www.producthunt.com",
+    "linkedin.com",
+    "www.linkedin.com",
 )
 
 SKIP_HOSTS = (
