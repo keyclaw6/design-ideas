@@ -124,7 +124,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2092980272819999227#c1` | Author reports video-use combined with Codex is highly effective for AI-driven video editing. | stated | [video-use plus Codex for agent-driven…](../../items/x-2092980272819999227/card.md) |
 | `x-2093236801079279978#c1` | The workflow chains ChatGPT ideation, Fable 5 building, and Higgsfield animation with iterative refinement. | stated | [ChatGPT ideation, Fable 5 build, Higg…](../../items/x-2093236801079279978/card.md) |
 
-Full set: claims.jsonl (43 rows)
+Full set: claims.jsonl (44 rows)
 
 ## ai-video-generation — comparison axes
 
