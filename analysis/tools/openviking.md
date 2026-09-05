@@ -8,7 +8,7 @@
 <!-- NOTES:START -->
 Fetched 2026-09-04 README https://github.com/volcengine/OpenViking
 
-**AGPLv3** OSS context DB. `viking://` URIs; agent uses `ls` / `tree` / `find` / `ov grep`. Studio https://openviking.ai/studio is a JS shell this pass (no method text). Docs fetched: https://docs.openviking.ai/en/concepts/03-context-layers
+**AGPLv3** OSS context DB. `viking://` URIs; agent uses `ls` / `tree` / `find` / `ov grep`. Studio https://openviking.ai/studio is a JS shell this pass (no method text). Re-fetch 2026-09-05: quoted `t.co/BJlCON8mji` → `https://github.com/volcengine/OpenViking`; `https://openviking.net/studio?ov_entry=ai` **200 / 2,525 B** JS shell titled OpenViking Studio. Docs fetched: https://docs.openviking.ai/en/concepts/03-context-layers
 
 Official layer table (defaults): **L0** Abstract = directory `.abstract.md`, 256 characters, vector recall; **L1** Overview = `.overview.md`, 4000 characters, rerank/navigation; **L2** Detail = original files, no uniform limit. L0/L1 are **directory sidecars**, not per-file. FAQ still says “~100 tokens / ~2000 tokens” — that is the marketing token gloss; the concept page’s character limits are the configured defaults (`semantic.abstract_max_chars` / `overview_max_chars`). Retrieval: intent analysis → vector on L0 → rerank on L1 → load L2. `find()` vs `search()` (search adds conversation-aware expansion). Commercial edition exists (license key) on top of the OSS tree.
 

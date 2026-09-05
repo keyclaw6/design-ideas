@@ -61,6 +61,56 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2093677274641969390#c4",
+      "text": "Quoted t.co/wBLzP25PUm resolves to X article 2090496192136290304 (carrier imryven/2090512486738845784), titled The Second Brain Is Not a Storage System. It's a Compiler. fxtwitter article payload is 44 blocks / 43 nonempty / 7,394 chars.",
+      "kind": "result",
+      "evidence": "The Second Brain Is Not a Storage System. It's a Compiler. 44 blocks / 43 nonempty / 7,394 chars on analysis/_work/captures/ryven-quote-fx.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2093677274641969390#c5",
+      "text": "Article body ships four prompts (ingest source → wiki pages; interview → vault-root CLAUDE.md; project folder Inputs/Process/Outputs/Feedback; daily compilation task), not the tweet/infographic's five automations (ingest, write, manage, review, maintain).",
+      "kind": "recipe",
+      "evidence": "The prompts that run the system... To ingest a new source... To build your CLAUDE.md... To build a project folder... To set up the daily compilation loop.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/ryven-quote-fx-article.txt",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2093677274641969390#c6",
+      "text": "Article architecture is three folders plus CLAUDE.md: raw/ is an input buffer, wiki/ is compilation (one source touches ten to fifteen pages), output/ is built from compiled knowledge. Infographic ctx/mem and 4,000 RAW notes / three months are not in the article; the 3-month line is qualitative (wiki surfaces connections).",
+      "kind": "counter-claim",
+      "evidence": "raw/ is the input buffer, not the brain... wiki/ is where compilation happens. One source touches ten to fifteen pages... Three months in: the wiki surfaces connections you never consciously made.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/ryven-quote-fx-article.txt",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2093677274641969390#c7",
+      "text": "Article-stated compile-beats-search threshold is around 50 to 100 well-compiled sources. Loop requires Claude Desktop and a paid plan; scheduled tasks and filesystem access fail on the free tier. A bad source “has touched fifteen pages before you notice.”",
+      "kind": "capability",
+      "evidence": "That threshold is around 50 to 100 well-compiled sources... this requires Claude Desktop and a paid plan... A bad source in a compiler has touched fifteen pages before you notice.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/ryven-quote-fx-article.txt",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2093677274641969390#c8",
+      "text": "Article attributes Karpathy “LLM Wiki” to April 2026 and states 5,000 stars / 16 million views on a single post. Those integers are article copy, not a first-party GitHub receipt. api.github.com/users/imryven is 404; search users q=imryven returns total_count 0 — still no public repo.",
+      "kind": "availability",
+      "evidence": "He called it LLM Wiki. The idea spread across GitHub within days. 5,000 stars. 16 million views... GET https://api.github.com/users/imryven 404; search users q=imryven total_count 0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/2026-09-05-mustread-pages.json",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -70,6 +120,18 @@
       "value": "4000",
       "unit": null,
       "source": "post"
+    },
+    {
+      "label": "article nonempty blocks",
+      "value": "43",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "article compile-beats-search threshold",
+      "value": "50-100",
+      "unit": "sources",
+      "source": "note"
     }
   ],
   "techniques": [
@@ -83,7 +145,10 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://x.com/i/article/2090496192136290304",
+      "https://x.com/imryven/status/2090512486738845784"
+    ],
     "related_items": [
       "x-2092918452423983363",
       "x-2086920236079681607",
@@ -110,7 +175,9 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [],
+  "gaps": [
+    "thread-partial"
+  ],
   "judge_hints": {
     "compare_with": [
       "x-2092918452423983363",

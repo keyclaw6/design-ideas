@@ -25,7 +25,7 @@ Scores are `high` / `mid` / `low` / `unknown` against the brief axes. `unknown` 
 | TinyShelf | high if badge accepted | low (free + badge) | low | low | low | directory live: 19 cats / ~657 listings (2026-09-04); DR 11→46 still tweet-only |
 | TinyLaunch directories | mid (~10 days) | high | low | low | low | stated DR-band guarantee |
 | Sami 15 directories | mid (48h claim) | low | low | low | low | stated; full sheet DM-gated |
-| free one-page tools (Bing) | low (weeks of flat metrics) | low | mid (Bing WM) | low | mid (you ship HTML) | stated 1.01M impressions |
+| free one-page tools (Bing) | low (weeks of flat metrics) | low | mid (Bing WM) | low | mid (you ship HTML) | GSC 1.01M tweet-only; live hosts are ext/platform/arcade |
 | CrowdReply | unknown | high | low | high | high (MCP) | homepage **1,136,240 B**; marketplace **40,000+** publishers / **5,000+** brands; MCP docs **58** snake ids vs **18**-row table; 4%→40% still missing |
 | nqz.ai prompt generator | n/a (research aid) | low | low | high | low | stated 4×3 prompts, 10/hour |
 | llms.txt nudge | mid (fetch rate, not rank) | low | n/a | high | low | stated 10/10; screenshot only |
@@ -56,7 +56,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 ## serp-ai-visibility — next capture work
 
 1. CrowdReply homepage is live (**1,136,240 B**; quote-only “#1”). Marketplace **40,000+** publishers / **5,000+** brands. `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap. X article **2094451432208711681** body is now on [crowdreply-mcp](../../tools/crowdreply-mcp.md) (4%→40% / 11 weeks + 847 / 85). Remaining: a keyed MCP session.
-2. Shimanski tool URLs from the must-read card are live (200) but several are now platforms/extensions, not one-job pages ([serp-keyword-research](../../techniques/serp-keyword-research.md)). TurjoAt `t.co/cTa5Jep0AT` **301 → aiedit.com** (100+ models / 15+ tools platform). Thread still 26/3.
+2. Shimanski named hosts are live and now claimed on the card: personal site **67,867 B** (15+/8/2/6 counters), Post Formatter Chrome ext **433,543 B**, Blurr Chrome ext **323,939 B**, UnicodeGames arcade **129,009 B** / **21** games, plus aiedit.com platform. GSC **1.01M / 16.3K** still tweet-screenshot only. Thread still 26/3.
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
 5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing.

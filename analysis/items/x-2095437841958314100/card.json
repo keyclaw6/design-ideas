@@ -63,6 +63,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2095437841958314100#c4",
+      "text": "Logged-out https://hyper3d.ai/workspace/worldgen is a 11,026 B login SPA (data-app-booting, no title/h1, no gltf/usd/export strings). https://hyper3d.ai/ is Rodin (390,840 B). No public user-scene download this pass.",
+      "kind": "availability",
+      "evidence": "GET /workspace/worldgen 200 / 11,026 B; GET https://hyper3d.ai/ 200 / 390,840 B title Hyper3D Rodin. analysis/_work/captures/2026-09-05-mustread-pages.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/hyper3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": [],
@@ -79,8 +89,10 @@
     "canonical": "https://x.com/grokkedd/status/2095437841958314100",
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://hyper3d.ai/workspace/worldgen",
+    "other": [
+      "https://hyper3d.ai/"
+    ],
     "related_items": [
       "x-2093937170717585657",
       "note-blender-minimax-h3-video-generation"
@@ -115,7 +127,9 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [],
+  "gaps": [
+    "thread-partial"
+  ],
   "judge_hints": {
     "compare_with": [
       "x-2093937170717585657",

@@ -69,6 +69,46 @@
       "evidence_ref": "analysis/techniques/serp-keyword-research.md",
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c5",
+      "text": "https://shimanski.dev GET 200 / 67,867 B. Title Artyom Shimanski – Entrepreneur & Software Developer. Live counters: 15+ years, 8 products shipped, 2 SaaS, 6 browser tools & games. Named products: AI Edit, FixMeBot, Post Formatter, Blurr. This is a personal site, not a one-page one-job tool.",
+      "kind": "availability",
+      "evidence": "GET 200 / 67,867 B. Counters and product cards on analysis/_work/captures/2026-09-05-shimanski-live.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/serp-keyword-research.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c6",
+      "text": "https://postformatter.com GET 200 / 433,543 B. Title LinkedIn Post Formatter, Bold Text & 30+ Fonts | Chrome Extension. Live product is a Chrome extension, not a no-install one-page tool.",
+      "kind": "availability",
+      "evidence": "GET 200 / 433,543 B. Title LinkedIn Post Formatter, Bold Text & 30+ Fonts | Chrome Extension on analysis/_work/captures/2026-09-05-shimanski-live.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/serp-keyword-research.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c7",
+      "text": "https://blurr.ing GET 200 / 323,939 B. Title Free Blur Chrome Extension for Any Web Page. Live product is a Chrome extension.",
+      "kind": "availability",
+      "evidence": "GET 200 / 323,939 B. Title Free Blur Chrome Extension for Any Web Page on analysis/_work/captures/2026-09-05-shimanski-live.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/serp-keyword-research.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c8",
+      "text": "https://unicodegames.com GET 200 / 129,009 B. Title UnicodeGames — Free Browser Games Made of Characters. Live copy: 21 games, no sign-up, no install. Closest of the five URLs to “free, no signup,” but it is an arcade index, not one job.",
+      "kind": "availability",
+      "evidence": "GET 200 / 129,009 B. “21 games · made entirely of characters” on analysis/_work/captures/2026-09-05-shimanski-live.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/serp-keyword-research.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],

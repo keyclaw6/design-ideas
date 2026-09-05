@@ -16,7 +16,7 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 
 | item | store type | write path ETL vs chat residue | retrieval | works without paid memory SaaS | auditability |
 |---|---|---|---|---|---|
-| Ryven RAW/WIKI | files | ETL-ish (immutable RAW) | markdown + CLAUDE.md | yes | high (git) |
+| Ryven RAW/WIKI | files | ETL-ish (article: compile at ingest) | markdown + CLAUDE.md | no (Claude Desktop paid) | high (git) |
 | Obsidian Mind | vault | template + chat residue | vault search | yes | high |
 | Memoria | git-like DB | snapshots / branches | their API | OSS | high (rollback) |
 | OpenViking | filesystem metaphor (`viking://`) | ingest → L0/L1 sidecars | find/search + L2 read | OSS AGPLv3 | high (traj + sidecars) |
@@ -49,5 +49,5 @@ PipesHub and Type are productized company brains. Sentrux scores a *codebase*, n
 
 1. Gasquez extract/transform/publish plus the public `davidgasquez/handbook` vault (**159** topic `.md` files, including Context Engineering.md) are on [context-etl](../../techniques/context-etl.md). Slite 55% / upkeep sentence is first-party on `/blog/slite-announcing-self-maintaining-knowledge-base`. Ebook PDF is still a name/email form; nine architecture names stay tweet-only ([filesystem-context-memory](../../techniques/filesystem-context-memory.md)). Remaining: a company-prod extract (Slack/CRM), not just the personal handbook.
 2. gbrain-evals official rows are 93.19% / 95.32% `recall_all@5`, not 97.6%. Keep the tweet as marketing.
-3. Obsidian Mind tree + `/om-*` commands are on [obsidian-mind](../../tools/obsidian-mind.md). It is **not** Ryven’s RAW/WIKI + five automations (those stay tweet-only; `@imryven` has no public GitHub user).
+3. Obsidian Mind tree + `/om-*` commands are on [obsidian-mind](../../tools/obsidian-mind.md). It is **not** Ryven’s stack. Tweet/infographic still has five automations + **4,000** RAW notes; quoted X article **2090496192136290304** has four prompts, **50–100** source threshold, and Claude Desktop paid — [filesystem-context-memory](../../techniques/filesystem-context-memory.md). `@imryven` GitHub user still **404**.
 4. OpenViking MCP docs name **15 tools** on `:1933/mcp` — [openviking](../../tools/openviking.md). Local **0.4.17.1** with `openviking[local-embed]` served on `127.0.0.1:1933` (`auth_mode=dev`). Live `viking://` write/read of `resources/probe/hello.md` (32 B). `ov` CLI via `ovcli.conf` (`url=http://127.0.0.1:1933`): health 0.4.17.1 Dev; status vikingdb **1 collection / 17 vectors**; `ov read` returns the probe; `ov abstract` still “not ready.” Card stays `ready-with-gaps` (`thread-partial`). Remaining: a VLM-backed L0 abstract.

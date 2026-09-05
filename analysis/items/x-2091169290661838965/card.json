@@ -90,6 +90,16 @@
       "evidence_ref": "analysis/tools/openviking.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2091169290661838965#c7",
+      "text": "Quoted t.co/BJlCON8mji resolves to https://github.com/volcengine/OpenViking. Live https://openviking.net/studio?ov_entry=ai is a 2,525 B JS shell titled OpenViking Studio — no method text, no viking:// session.",
+      "kind": "availability",
+      "evidence": "t.co title https://github.com/volcengine/OpenViking. GET studio 200 / 2,525 B. analysis/_work/captures/2026-09-05-mustread-pages.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openviking.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],

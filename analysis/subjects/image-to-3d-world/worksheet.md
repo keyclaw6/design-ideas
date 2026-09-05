@@ -31,7 +31,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 
 ## image-to-3d-world — claims that need a receipt
 
-- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; `/worldgen` 404; `/workspace/worldgen` is an **11,026**-byte login SPA with no public mesh download ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). CAST paper tables now quoted there (CLIP 85.77 / 3D-Front CD-S 0.052). Still no engine file.
+- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; `/worldgen` 404; `/workspace/worldgen` is an **11,026**-byte login SPA with no public mesh download — now on card `#c4` ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). CAST paper tables now quoted there (CLIP 85.77 / 3D-Front CD-S 0.052). Still no engine file.
 - Atlas 3D AI “one sentence → Unreal ride” — 35 replies / 3 captured; the ride may be video, not an `.uproject`.
 - Lumera object-split meshes + HDR lights — project page is a 1 KB JS shell; weights/code still missing.
 - Lucida parse/generate/place + GizmoAct — **abs + project page first-party** ([image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md)): R2S-Scene AP **0.592** vs Boxer **0.351**; ADD-SB@0.05 **83.4%** on CA-1M; F-Score **0.924**. Seed3D 2.0 stays tweet-only. Card is now `ready`. No weights zip.
