@@ -14,6 +14,7 @@
 - `x-2093900284896657841#c2` (recipe, stated) Build pipeline includes headless scroll-position audit and per-line contrast measurement at brightest frame. — evidence: "A headless browser walks every scroll position hunting “dead scroll”
 5. It measures contrast on the composited page, per line, at the brightest frame" [post]
 - `x-2093900284896657841#c3` (availability, stated) Author claims scroll-craft crossed 900+ GitHub stars within four days. — evidence: "And it already crossed 900+ GitHub stars in 4 days." [post]
+- `x-2093900284896657841#c4` (capability, demonstrated) scroll-craft README + uniqueness.md first-party: eight mutually exclusive grammars; fingerprint ≥4 of 6. Live shoot.mjs on nateherk.com: 13.1 vh, 22 frames, failed: []. Tweet 900+ stars is not this receipt. Fixture refuse-list is a checklist, not a headed skill run. — evidence: "analysis/tools/scroll-craft.md NOTES + nateherk-shoot/report.json." [note]
 **Numbers.** GitHub stars cited: 900 + (post); days to stars cited: 4 days (post)
 **Recipe.** —
 **Techniques.** [scroll-driven-3d](../../techniques/scroll-driven-3d.md), [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md), [parallax-scroll-landing](../../techniques/parallax-scroll-landing.md)

@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2088281537427235320#c1` (availability, stated) Dynamic GGUF path targets about 17GB RAM for Qwen3.8-27B local runs. — evidence: "Run on 17GB RAM via Unsloth Dynamic GGUFs." [post]
 - `x-2088281537427235320#c2` (availability, stated) Unsloth also uploaded NVFP4 quantizations for NVIDIA boxes. — evidence: "We also uploaded NVFP4 quants." [post]
+- `x-2088281537427235320#c3` (counter-claim, demonstrated) HF unsloth/Qwen3.8-27B-GGUF tree (2026-09-04): apache-2.0; 30 .gguf siblings. Q4_0 is 16,056,478,688 B (~14.95 GiB) — tweet ~17GB RAM is a runtime envelope, not this file. UD-IQ1_S is 6,192,222,208 B (~5.77 GiB), not an 8GB file. No local load. — evidence: "analysis/tools/unsloth.md NOTES HF tree sizes 2026-09-04." [note]
 **Numbers.** RAM target for Dynamic GGUF: 17 GB (post); model parameters: 27 B (post)
 **Recipe.** —
 **Techniques.** [dynamic-quantization](../../techniques/dynamic-quantization.md)

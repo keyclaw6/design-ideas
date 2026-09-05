@@ -57,6 +57,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "text": "scroll-craft README + uniqueness.md first-party: eight mutually exclusive grammars; fingerprint ≥4 of 6. Live shoot.mjs on nateherk.com: 13.1 vh, 22 frames, failed: []. Tweet 900+ stars is not this receipt. Fixture refuse-list is a checklist, not a headed skill run.",
+      "kind": "capability",
+      "evidence": "analysis/tools/scroll-craft.md NOTES + nateherk-shoot/report.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-craft.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion",
+      "id": "x-2093900284896657841#c4"
     }
   ],
   "numbers": [

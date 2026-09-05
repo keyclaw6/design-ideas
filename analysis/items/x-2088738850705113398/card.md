@@ -15,6 +15,7 @@
 - physics-based diffraction grating shader
 - procedural flower field (@JungleSilicon)" [post]
 - `x-2088738850705113398#c2` (recipe, stated) Codex install uses npx threejs-awesome-graphics-agent-skills@latest. — evidence: "npx threejs-awesome-graphics-agent-skills@latest install --agent codex" [post]
+- `x-2088738850705113398#c3` (availability, demonstrated) Gallery is 40 runnable scene.js files. Official capture-examples.mjs has filmic-lens-flare debug stills (final 647,301 B) with runtimeErrors: []. v0.8.0 tweet examples sit on that tree; GPU frame time still not measured. — evidence: "analysis/tools/threejs-awesome-graphics-agent-skills.md NOTES." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
