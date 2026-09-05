@@ -1,0 +1,203 @@
+{
+  "pdfcn_tco": {
+    "ok": true,
+    "status": 200,
+    "final": "https://x.com/alaymanguy/status/2087656088124719304",
+    "bytes": 243953,
+    "ctype": "text/html; charset=UTF-8",
+    "name": "pdfcn_tco",
+    "url": "https://t.co/egpPgTzmHe",
+    "title": "Aniket Pawar on X: &quot;Introducing pdfcn \ud83d\udcc4 by @shadcnlabs &amp;gt; Built on Takumi by @kanewang_ and Forme &amp;gt; Zero config, one command setup. &amp;gt; @shadcn /ui compatible (simply copy-paste) &amp;gt; 10+ themes, components, blocks &amp;gt; Fully customizable 100% free and open-source.&quot; / X",
+    "text_head": "Aniket Pawar on X: \"Introducing pdfcn \ud83d\udcc4 by @shadcnlabs &gt; Built on Takumi by @kanewang_ and Forme &gt; Zero config, one command setup. &gt; @shadcn /ui compatible (simply copy-paste) &gt; 10+ themes, components, blocks &gt; Fully customizable 100% free and open-source.\" / X | Post | Log in | Sign up | Post | Aniket Pawar on X: \"Introducing pdfcn \ud83d\udcc4 by @shadcnlabs &gt; Built on Takumi by @kanewang_ and Forme &gt; Zero config, one command setup. &gt; @shadcn /ui compatible (simply copy-paste) &gt; 10+ themes, components, blocks &gt; Fully customizable 100% free and open-source.\" | Aniket Pawar | @alaymanguy | Introducing pdfcn \ud83d\udcc4 by | @ | shadcnlabs | > Built on Takumi by | @ | kanewang_ | and Forme > Zero config, one command setup. > | @ | shadcn | /ui compatible (simply copy-paste) > 10+ themes, components, blocks > Fully customizable 100% free and open-source. | 00:00 | 9:42 PM \u00b7 Aug 12, 2026 | 117.4K | Views | 38 | 117 | 2K | 2.8K | Log in or sign up for X | See what\u2019s happening and join the conversation | Continue with phone | Continue with Apple | Continue with Google | or | Log in with username or email | Relevant people | Aniket Pawar | @ | alaymanguy | Follow | Trending now | Terms | \u00b7 | Privacy | \u00b7 | Cookies | \u00b7 | Accessibility | \u00b7 | Ads Info | \u00b7 | More | \u00a9 2026 X Corp. | Aniket Pawar | @alaymanguy | Introducing pdfcn \ud83d\udcc4 by | @ | shadcnlabs | > Built on Takumi by | @ | kanewang_ | and Forme > Zero config, one command setup. > | @ | shadcn | /ui compatible (simply copy-paste) > 10+ themes, components, blocks > Fully customizable 100% free and open-source. | 00:00 | 9:42 PM \u00b7 Aug 12, 2026 | 117.4K | Views | 38 | 117 | 2K | 2.8K | Aniket Pawar | @alaymanguy | Aug 12 | Try it here: | pdfcn | From pdfcn.dev | 3 | 53 | 7.7K | Aniket Pawar | @alaymanguy | Aug 12 | Give "
+  },
+  "vgpu_docs_tco": {
+    "ok": true,
+    "status": 200,
+    "final": "https://vgpu.sh/",
+    "bytes": 247177,
+    "ctype": "text/html; charset=utf-8",
+    "name": "vgpu_docs_tco",
+    "url": "https://t.co/OGcCMpMLvi",
+    "title": "vgpu",
+    "text_head": "vgpu | Slash forward icon | Docs | Examples | Search\u2026 | \u2318 K | Ask AI | Ask AI | GitHub | Search\u2026 | \u2318 K | Docs | Examples | GitHub | The WebGPU library, designed for agents. | Prompt | \u00b7 | CLI | \u00b7 | Skill | \u00b7 | MCP | Setup vgpu on my project, run | npx vgpu | pnpm add vgpu | npx skills add vercel-labs/vgpu | npx -y add-mcp https://vgpu.sh/api/mcp -g | Get started | Explore examples | One shader. Render everywhere. | Use the same shader in the browser and headless Node.js. Make it interactive, render it at any resolution, turn it into video, or run tests on your CI. | eve.ts | import | { effect } | from | \"vgpu\" | ; | const | eve = | effect | (gpu, eveWgsl); eve. | draw | ({ target }); | Web | interactive \u00b7 canvas | Image | png \u00b7 8192 \u00d7 4608 | Video | mp4 \u00b7 60 fps | 00:00 | / | 00:00 | CI | headless \u00b7 artifact | CI runs the render test, compiles the shader, renders a headless frame, compares the snapshot, and passes. | $ pnpm test:render | \u2713 | compile eve.wgsl | \u2713 | render headless frame | \u2713 | compare snapshot | \u25cf | 1 test passed \u00b7 842ms | Shader code that scales. | Import and export WGSL like TypeScript. vgpu resolves the module graph, reflects bindings, removes unused declarations, and emits compact shader source at build time. | index.ts | main.wgsl | color.wgsl | 1 | import | { effect, frame, init, surface } | from | \"vgpu\" | ; | 2 | import | shaderSource | from | \"./main.wgsl\" | ; | 3 | 4 | export async function | render | (canvas: HTMLCanvasElement) { | 5 | const | gpu = | await | init | (); | 6 | const | output = | surface | (gpu, canvas, { dpr: 1 }); | 7 | const | shader = | effect | (gpu, shaderSource); | 8 | 9 | shader.set | ({ uniforms: { resolution: output.size } }); | 10 | frame | (gpu, (f) => f.pass(output, shader)); | 11 | return | () => gpu. | dispose | ()"
+  },
+  "vgpu_cli_tco": {
+    "ok": true,
+    "status": 200,
+    "final": "https://x.com/matiNotFound/status/2093012558554730838",
+    "bytes": 313788,
+    "ctype": "text/html; charset=UTF-8",
+    "name": "vgpu_cli_tco",
+    "url": "https://t.co/qcNydXfC0f",
+    "title": "Matias \ud83e\uddc9 on X: &quot;Agents usually just open a browser to check their work; waiting ~10 seconds to check for a syntax error is too slow. This is where the CLI helps: - `vpgu docs` and `vgpu examples` to quickly learn - `vgpu check` to validate shader code syntax&quot; / X",
+    "text_head": "Matias \ud83e\uddc9 on X: \"Agents usually just open a browser to check their work; waiting ~10 seconds to check for a syntax error is too slow. This is where the CLI helps: - `vpgu docs` and `vgpu examples` to quickly learn - `vgpu check` to validate shader code syntax\" / X | Post | Log in | Sign up | Post | Matias \ud83e\uddc9 on X: \"Agents usually just open a browser to check their work; waiting ~10 seconds to check for a syntax error is too slow. This is where the CLI helps: - `vpgu docs` and `vgpu examples` to quickly learn - `vgpu check` to validate shader code syntax\" | Matias \ud83e\uddc9 | @matiNotFound | Agents usually just open a browser to check their work; waiting ~10 seconds to check for a syntax error is too slow. This is where the CLI helps: - `vpgu docs` and `vgpu examples` to quickly learn - `vgpu check` to validate shader code syntax | 4:27 PM \u00b7 Aug 27, 2026 | 6K | Views | 1 | 29 | 8 | Log in or sign up for X | See what\u2019s happening and join the conversation | Continue with phone | Continue with Apple | Continue with Google | or | Log in with username or email | Relevant people | Matias \ud83e\uddc9 | @ | matiNotFound | Follow | Trending now | Terms | \u00b7 | Privacy | \u00b7 | Cookies | \u00b7 | Accessibility | \u00b7 | Ads Info | \u00b7 | More | \u00a9 2026 X Corp. | Matias \ud83e\uddc9 | @matiNotFound | Aug 27 | About 7 months ago, I started designing a WebGPU library to ship performant shaders at Vercel. Today, we are announcing vgpu: a minimal WebGPU library designed for agents. But what does \"designed for agents\" mean? \ud83e\uddf5 | Vercel | 00:00 | Vercel | 71 | 162 | 1.9K | 139K | Matias \ud83e\uddc9 | @matiNotFound | Aug 27 | My first attempt at this library was to design a minimal API that let me ship shaders with a few lines of code. It was the \"dream api\" that I always wanted, super minimal, abstracting all the verbosity away, but it came with "
+  },
+  "spatial_tco": {
+    "ok": true,
+    "status": 200,
+    "final": "https://studio.realhorizons.ai/",
+    "bytes": 8035,
+    "ctype": "text/html; charset=utf-8",
+    "name": "spatial_tco",
+    "url": "https://t.co/7OebUDN1n4",
+    "title": "Spatial Studio | Real Horizons",
+    "text_head": "Spatial Studio | Real Horizons"
+  },
+  "spatial_park_tco": {
+    "ok": true,
+    "status": 200,
+    "final": "https://studio.realhorizons.ai/tours/8b1bf25c-f2ee-4a78-8940-2516351d78b1/view",
+    "bytes": 8035,
+    "ctype": "text/html; charset=utf-8",
+    "name": "spatial_park_tco",
+    "url": "https://t.co/Iow579owe9",
+    "title": "Spatial Studio | Real Horizons",
+    "text_head": "Spatial Studio | Real Horizons"
+  },
+  "marso_tco": {
+    "ok": true,
+    "status": 200,
+    "final": "https://marso.app/?utm_source=x&utm_medium=social&utm_campaign=i2m-model-release&utm_content=launch-thread",
+    "bytes": 181050,
+    "ctype": "text/html; charset=utf-8",
+    "name": "marso_tco",
+    "url": "https://t.co/dPdYG2wjMB",
+    "title": "Marso Studio",
+    "text_head": "Marso Studio | Marso | Home | Workflow | Templates | Pricing | API | Log in | Sign Up | Batch generate game-ready PBR 3D assets from one image. | Powered by material intelligent models developed by M-XR. | Launch App | View API | Explore the Studio | Import or Generate Scene Image | Start with a real photo or generate an image of a scene, and edit to create your world. | Detect & Select Objects | Detect, select & extract objects from your scene. Then edit to match your desired vision. | Generate PBR 3D Assets | Generate 3D models with physically accurate PBR materials from reference images. | Manage, Store & Find Content | Manage your content in one place, build custom collections, and port directly into DCC\u2019s with Marso Bridge. | Generating image | Start from a template | Open a template to step into its node graph \u2014 then grab the nodes and rearrange them. | Game Art | Hero Props | Texture a whole weapon rack to one art direction, then dress the scene around it. | Game Art | Asset Packs | Take one shield and fan it out into a hundred crests, each with its own wear. | Robotics & Physical AI | Synthetic Data | Bridge the sim-to-real 3D gap and batch generate sim-ready PBR 3D assets that port into your simulation. | Pricing that scales with your work | Start free, and scale as your project grows. | Free | $0 | /mo | No card required | Start for free | 400 credits per month | Single-asset workflows | Artist | $29 | /mo | 14-day free trial | Start free trial | 2,400 credits per month | Scene generation (uncapped) | API access | Data storage (limited period) | Artist Pro | $99 | /mo | Billed monthly | Get started | 9,500 credits per month | Scene generation (uncapped) | API access | Early access to new features | Data storage | Studio | $399 | /mo | Billed monthly | Get star"
+  },
+  "ouro_abs": {
+    "ok": true,
+    "status": 200,
+    "final": "https://arxiv.org/abs/2608.08311",
+    "bytes": 42948,
+    "ctype": "text/html; charset=utf-8",
+    "name": "ouro_abs",
+    "url": "https://arxiv.org/abs/2608.08311",
+    "title": "[2608.08311] Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+    "text_head": "[2608.08311] Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution | Skip to main content | Search | Submit | Donate | Log in | Search arXiv | Press Enter to search \u00b7 | Advanced search | Computer Science > Software Engineering | arXiv:2608.08311 | (cs) | [Submitted on 8 Aug 2026 ( | v1 | ), last revised 31 Aug 2026 (this version, v3)] | Title: | Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution | Authors: | Anton Razzhigaev | , | Andrei Gritsaev | , | Andrei Kaznacheev | , | Nikita Dragunov | , | Roman Yampolskiy | , | Andrei Kuznetsov | View a PDF of the paper titled Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution, by Anton Razzhigaev and 5 other authors | View PDF | HTML (experimental) | Abstract: | We present Ouroboros, a self-developing agent harness whose tools, prompts, context assembly, and core implementation improve through reviewed commits that become the runtime for later work. Core evolution proceeds in two modes. In recursive free evolution, improvement is itself a task, and completing one evolution cycle can schedule the next. In experience-driven core evolution, ordinary work and social interaction expose bugs, rough edges, and inefficient context construction that lead to reviewed structural changes. | On Terminal-Bench 2.1, an Opus 5 run scores 86.74%, the best result reported on the benchmark. On OSWorld-Verified, an Opus 5 run reaches 90.69%, exceeding the best previously reported score. A five-rollout CL-Bench campaign achieves a normalized reward of 0.2301, setting a new state of the art. | Hope is the longest-running publicly documented Ouroboros deployment. It is a 161-day living agent experiment in free evolution under governed human communication across seven"
+  },
+  "ouro_site": {
+    "ok": true,
+    "status": 200,
+    "final": "https://ouroboros-agent.ai/",
+    "bytes": 20391,
+    "ctype": "text/html; charset=utf-8",
+    "name": "ouro_site",
+    "url": "https://ouroboros-agent.ai/",
+    "title": "Ouroboros: open-source AI agent with autonomous evolution",
+    "text_head": "Ouroboros: open-source AI agent with autonomous evolution | Ouroboros | Work | Paper | Benchmarks | Install | Evolution | About | GitHub | Download | Open source \u00b7 General purpose \u00b7 Self-modifying | An AI agent that can rewrite the system it inhabits. | Ouroboros works on external projects, coordinates a live swarm of specialist agents, and can evolve its own implementation across code, architecture, prompts, tools, and dependencies. Its identity, memory, and history continue across tasks and restarts. | Download the desktop app | Run it headless | External workspaces | Root-owned integration | Reviewed evolution | Repository scout | maps the code and constraints | Research lane | checks current primary sources | Builder | works inside a bounded surface | Adversarial eye | looks for the failure class | Verifier | tests the artifact, not the claim | Review panel | returns evidence and dissent | one identity \u00b7 one task \u00b7 final responsibility | CONCEPTUAL COORDINATION FIELD | 01 / WORK | Give it a goal, then follow the evidence. | A task stays attached to one accountable agent even when the work fans out. Ouroboros can inspect the environment, delegate bounded investigations or builds, absorb the results, and verify the joined outcome. | 01 | Read the real surface | It starts from the repository, available tools, task constraints, and current sources instead of a canned workflow. | 02 | Open working lanes | Specialists can research, inspect, build, or challenge the plan in parallel while sharing one task frame. | 03 | Absorb the swarm | The root agent decides what belongs in the result and remains responsible for conflicts, omissions, and final integration. | 04 | Verify the artifact | Tests, receipts, review evidence, and task history remain available after the answer is "
+  },
+  "ouro_gh": {
+    "ok": true,
+    "status": 200,
+    "final": "https://api.github.com/repos/razzant/ouroboros",
+    "bytes": 5502,
+    "ctype": "application/json; charset=utf-8",
+    "name": "ouro_gh",
+    "url": "https://api.github.com/repos/razzant/ouroboros",
+    "title": null,
+    "text_head": "{\"id\": 1155766506, \"node_id\": \"R_kgDOROOY6g\", \"name\": \"ouroboros\", \"full_name\": \"razzant/ouroboros\", \"private\": false, \"owner\": {\"login\": \"razzant\", \"id\": 47871264, \"node_id\": \"MDQ6VXNlcjQ3ODcxMjY0\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/47871264?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/razzant\", \"html_url\": \"https://github.com/razzant\", \"followers_url\": \"https://api.github.com/users/razzant/followers\", \"following_url\": \"https://api.github.com/users/razzant/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/razzant/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/razzant/starred{/owner}{/repo}\", \"subscriptions_url\": \"https://api.github.com/users/razzant/subscriptions\", \"organizations_url\": \"https://api.github.com/users/razzant/orgs\", \"repos_url\": \"https://api.github.com/users/razzant/repos\", \"events_url\": \"https://api.github.com/users/razzant/events{/privacy}\", \"received_events_url\": \"https://api.github.com/users/razzant/received_events\", \"type\": \"User\", \"user_view_type\": \"public\", \"site_admin\": false}, \"html_url\": \"https://github.com/razzant/ouroboros\", \"description\": \"Ouroboros \\u2014 self-creating AI agent. Born Feb 16, 2026.\", \"fork\": false, \"url\": \"https://api.github.com/repos/razzant/ouroboros\", \"forks_url\": \"https://api.github.com/repos/razzant/ouroboros/forks\", \"keys_url\": \"https://api.github.com/repos/razzant/ouroboros/keys{/key_id}\", \"collaborators_url\": \"https://api.github.com/repos/razzant/ouroboros/collaborators{/collaborator}\", \"teams_url\": \"https://api.github.com/repos/razzant/ouroboros/teams\", \"hooks_url\": \"https://api.github.com/repos/razzant/ouroboros/hooks\", \"issue_events_url\": \"https://api.github.com/repos/razzant/ouroboros/issues/events{/number}\", \"events_url\": \"https://api.github."
+  },
+  "ouro_q00": {
+    "ok": true,
+    "status": 200,
+    "final": "https://api.github.com/repos/q00/ouroboros",
+    "bytes": 5354,
+    "ctype": "application/json; charset=utf-8",
+    "name": "ouro_q00",
+    "url": "https://api.github.com/repos/q00/ouroboros",
+    "title": null,
+    "text_head": "{\"id\": 1133901637, \"node_id\": \"R_kgDOQ5X3RQ\", \"name\": \"ouroboros\", \"full_name\": \"Q00/ouroboros\", \"private\": false, \"owner\": {\"login\": \"Q00\", \"id\": 31264094, \"node_id\": \"MDQ6VXNlcjMxMjY0MDk0\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/31264094?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/Q00\", \"html_url\": \"https://github.com/Q00\", \"followers_url\": \"https://api.github.com/users/Q00/followers\", \"following_url\": \"https://api.github.com/users/Q00/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/Q00/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/Q00/starred{/owner}{/repo}\", \"subscriptions_url\": \"https://api.github.com/users/Q00/subscriptions\", \"organizations_url\": \"https://api.github.com/users/Q00/orgs\", \"repos_url\": \"https://api.github.com/users/Q00/repos\", \"events_url\": \"https://api.github.com/users/Q00/events{/privacy}\", \"received_events_url\": \"https://api.github.com/users/Q00/received_events\", \"type\": \"User\", \"user_view_type\": \"public\", \"site_admin\": false}, \"html_url\": \"https://github.com/Q00/ouroboros\", \"description\": \"Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.\", \"fork\": false, \"url\": \"https://api.github.com/repos/Q00/ouroboros\", \"forks_url\": \"https://api.github.com/repos/Q00/ouroboros/forks\", \"keys_url\": \"https://api.github.com/repos/Q00/ouroboros/keys{/key_id}\", \"collaborators_url\": \"https://api.github.com/repos/Q00/ouroboros/collaborators{/collaborator}\", \"teams_url\": \"https://api.github.com/repos/Q00/ouroboros/teams\", \"hooks_url\": \"https://api.github.com/repos/Q00/ouroboros/hooks\", \"issue_events_url\": \"https://api.github.com"
+  },
+  "pdfcn_gh_search": {
+    "ok": true,
+    "status": 200,
+    "final": "https://api.github.com/search/repositories?q=pdfcn",
+    "bytes": 36164,
+    "ctype": "application/json; charset=utf-8",
+    "name": "pdfcn_gh_search",
+    "url": "https://api.github.com/search/repositories?q=pdfcn",
+    "title": null,
+    "text_head": "{\"total_count\": 7, \"incomplete_results\": false, \"items\": [{\"id\": 1330867309, \"node_id\": \"R_kgDOT1NsbQ\", \"name\": \"pdfcn\", \"full_name\": \"shadcn-labs/pdfcn\", \"private\": false, \"owner\": {\"login\": \"shadcn-labs\", \"id\": 278042933, \"node_id\": \"O_kgDOEJKZNQ\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/278042933?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/shadcn-labs\", \"html_url\": \"https://github.com/shadcn-labs\", \"followers_url\": \"https://api.github.com/users/shadcn-labs/followers\", \"following_url\": \"https://api.github.com/users/shadcn-labs/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/shadcn-labs/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/shadcn-labs/starred{/owner}{/repo}\", \"subscriptions_url\": \"https://api.github.com/users/shadcn-labs/subscriptions\", \"organizations_url\": \"https://api.github.com/users/shadcn-labs/orgs\", \"repos_url\": \"https://api.github.com/users/shadcn-labs/repos\", \"events_url\": \"https://api.github.com/users/shadcn-labs/events{/privacy}\", \"received_events_url\": \"https://api.github.com/users/shadcn-labs/received_events\", \"type\": \"Organization\", \"user_view_type\": \"public\", \"site_admin\": false}, \"html_url\": \"https://github.com/shadcn-labs/pdfcn\", \"description\": \"Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.\", \"fork\": false, \"url\": \"https://api.github.com/repos/shadcn-labs/pdfcn\", \"forks_url\": \"https://api.github.com/repos/shadcn-labs/pdfcn/forks\", \"keys_url\": \"https://api.github.com/repos/shadcn-labs/pdfcn/keys{/key_id}\", \"collaborators_url\": \"https://api.github.com/repos/shadcn-labs/pdfcn/collaborators{/collaborator}\", \"teams_url\": \"https://api.github.com/repos/shadcn-labs/pdfcn/teams\", \"hooks_url\": \"https://api.github.com/repos/shadcn-labs/p"
+  },
+  "vgpu_gh_search": {
+    "ok": true,
+    "status": 200,
+    "final": "https://api.github.com/search/repositories?q=vgpu+webgpu",
+    "bytes": 74350,
+    "ctype": "application/json; charset=utf-8",
+    "name": "vgpu_gh_search",
+    "url": "https://api.github.com/search/repositories?q=vgpu+webgpu",
+    "title": null,
+    "text_head": "{\"total_count\": 14, \"incomplete_results\": false, \"items\": [{\"id\": 1230165564, \"node_id\": \"R_kgDOSVLWPA\", \"name\": \"vgpu\", \"full_name\": \"vercel-labs/vgpu\", \"private\": false, \"owner\": {\"login\": \"vercel-labs\", \"id\": 108547162, \"node_id\": \"O_kgDOBnhMWg\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/108547162?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/vercel-labs\", \"html_url\": \"https://github.com/vercel-labs\", \"followers_url\": \"https://api.github.com/users/vercel-labs/followers\", \"following_url\": \"https://api.github.com/users/vercel-labs/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/vercel-labs/gists{/gist_id}\", \"starred_url\": \"https://api.github.com/users/vercel-labs/starred{/owner}{/repo}\", \"subscriptions_url\": \"https://api.github.com/users/vercel-labs/subscriptions\", \"organizations_url\": \"https://api.github.com/users/vercel-labs/orgs\", \"repos_url\": \"https://api.github.com/users/vercel-labs/repos\", \"events_url\": \"https://api.github.com/users/vercel-labs/events{/privacy}\", \"received_events_url\": \"https://api.github.com/users/vercel-labs/received_events\", \"type\": \"Organization\", \"user_view_type\": \"public\", \"site_admin\": false}, \"html_url\": \"https://github.com/vercel-labs/vgpu\", \"description\": \"Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz\", \"fork\": false, \"url\": \"https://api.github.com/repos/vercel-labs/vgpu\", \"forks_url\": \"https://api.github.com/repos/vercel-labs/vgpu/forks\", \"keys_url\": \"https://api.github.com/repos/vercel-labs/vgpu/keys{/key_id}\", \"collaborators_url\": \"https://api.github.com/repos/vercel-labs/vgpu/collaborators{/collaborator}\", \"teams_url\": \"https://api.github.com/repos/vercel-labs/vgpu/teams\", \"hooks_url\": \"https://api.github.com/repos/vercel-labs/"
+  },
+  "pdfcn_guess": {
+    "ok": false,
+    "status": null,
+    "final": "https://pdfcn.com",
+    "bytes": 0,
+    "ctype": "",
+    "error": "URLError(gaierror(-5, 'No address associated with hostname'))",
+    "name": "pdfcn_guess",
+    "url": "https://pdfcn.com",
+    "title": null,
+    "text_head": ""
+  },
+  "pdfcn_guess2": {
+    "ok": true,
+    "status": 200,
+    "final": "https://www.pdfcn.dev",
+    "bytes": 134148,
+    "ctype": "text/html; charset=utf-8",
+    "name": "pdfcn_guess2",
+    "url": "https://www.pdfcn.dev",
+    "title": "pdfcn - Beautiful PDFs, made simple",
+    "text_head": "pdfcn - Beautiful PDFs, made simple | For the complete documentation index, see llms.txt. Markdown variants are available by appending .md to any URL or sending an Accept: text/markdown header. An agent skill is available at /.well-known/agent-skills/site-skill.md. | Toggle Menu | / | pdfcn | pdfcn | Docs | Components | Blocks | Theme Builder | Search documentation... | Search... | \u2318 | K | 954 | Sponsor | New Theme builder | Beautiful PDFs, made simple | Ready to use, customizable pdf components for React. | Built on Takumi and Forme. Distributed via shadcn. | bun | npm | pnpm | yarn | $ | pnpm dlx | shadcn add | \\ | @pdfcn | / | forme/alert | Add | Copy | Get Started | Browse Components | corporate-invoice.tsx | Takumi | Forme | Choose base | Documents | Corporate invoice | Financial report | Minimal invoice | Choose template | Preview | Code | Components Used | 6 | 01 | Page header | 02 | Key-value | 03 | Table | 04 | Section | 05 | Text | 06 | Page footer | Page header | A branded document header with logo, company details, and document title. | bun | npm | pnpm | yarn | $ | pnpm dlx shadcn@latest add @pdfcn/takumi/page-header | Copy | Built by | Aniket Pawar | . The source code is available on | GitHub | ."
+  },
+  "vgpu_guess": {
+    "ok": false,
+    "status": null,
+    "final": "https://vgpu.dev",
+    "bytes": 0,
+    "ctype": "",
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))",
+    "name": "vgpu_guess",
+    "url": "https://vgpu.dev",
+    "title": null,
+    "text_head": ""
+  },
+  "marso_guess": {
+    "ok": true,
+    "status": 200,
+    "final": "https://marso.app",
+    "bytes": 180651,
+    "ctype": "text/html; charset=utf-8",
+    "name": "marso_guess",
+    "url": "https://marso.app",
+    "title": "Marso Studio",
+    "text_head": "Marso Studio | Marso | Home | Workflow | Templates | Pricing | API | Log in | Sign Up | Batch generate game-ready PBR 3D assets from one image. | Powered by material intelligent models developed by M-XR. | Launch App | View API | Explore the Studio | Import or Generate Scene Image | Start with a real photo or generate an image of a scene, and edit to create your world. | Detect & Select Objects | Detect, select & extract objects from your scene. Then edit to match your desired vision. | Generate PBR 3D Assets | Generate 3D models with physically accurate PBR materials from reference images. | Manage, Store & Find Content | Manage your content in one place, build custom collections, and port directly into DCC\u2019s with Marso Bridge. | Generating image | Start from a template | Open a template to step into its node graph \u2014 then grab the nodes and rearrange them. | Game Art | Hero Props | Texture a whole weapon rack to one art direction, then dress the scene around it. | Game Art | Asset Packs | Take one shield and fan it out into a hundred crests, each with its own wear. | Robotics & Physical AI | Synthetic Data | Bridge the sim-to-real 3D gap and batch generate sim-ready PBR 3D assets that port into your simulation. | Pricing that scales with your work | Start free, and scale as your project grows. | Free | $0 | /mo | No card required | Start for free | 400 credits per month | Single-asset workflows | Artist | $29 | /mo | 14-day free trial | Start free trial | 2,400 credits per month | Scene generation (uncapped) | API access | Data storage (limited period) | Artist Pro | $99 | /mo | Billed monthly | Get started | 9,500 credits per month | Scene generation (uncapped) | API access | Early access to new features | Data storage | Studio | $399 | /mo | Billed monthly | Get star"
+  },
+  "marso_studio": {
+    "ok": false,
+    "status": null,
+    "final": "https://studio.marso.app",
+    "bytes": 0,
+    "ctype": "",
+    "error": "URLError(gaierror(-2, 'Name or service not known'))",
+    "name": "marso_studio",
+    "url": "https://studio.marso.app",
+    "title": null,
+    "text_head": ""
+  },
+  "spatial_guess": {
+    "ok": true,
+    "status": 200,
+    "final": "https://spatial.studio",
+    "bytes": 91131,
+    "ctype": "text/html; charset=UTF-8",
+    "name": "spatial_guess",
+    "url": "https://spatial.studio",
+    "title": "HOME - SPATIAL STUDIO",
+    "text_head": "HOME - SPATIAL STUDIO | Skip to content | PROJECTS | Fingal Residence | Price House | Hope Pool House | Palk Residence | Bladen House | Valentine Residence | Macalister Residence | Tucker Residence | Sorrento Residence | Pekina House | Blackburn Residence | ABOUT | PROJECTS | Fingal Residence | Price House | Hope Pool House | Palk Residence | Bladen House | Valentine Residence | Macalister Residence | Tucker Residence | Sorrento Residence | Pekina House | Blackburn Residence | ABOUT | Working with you to define the future of sustainable living environments. | Evidence-Based | collaborative | Forward-Thinking | CONTACT | 0427 378 389 | hello@spatial.studio | West Footscray, 3012 | Company | Home | About | PROJECTS | Blackburn Residence | Valentine Residence | \u00a9 All rights reserved"
+  }
+}

@@ -2,7 +2,7 @@
 
 `x-2088252062454751483` · x · thread · en · [source](https://x.com/anaisbetts/status/2088252062454751483) · [raw](../../../raw/items/x-2088252062454751483/)
 **Author:** Anaïs Betts (@anaisbetts) · **Published:** — · **Captured:** 2026-09-04T06:49:28Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [ai-cad-hardware](../../subjects/ai-cad-hardware/brief.md) · **Also:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Roles:** technique, example · **Platforms:** cursor, openscad
 
 **Summary.** Anaïs Betts describes designing a custom homelab server rack with OpenSCAD, Cursor plan mode, and Matt Pocock's grill-me skill, then exporting STLs to Bambu Studio for printing.

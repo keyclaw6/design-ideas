@@ -2,7 +2,7 @@
 
 `x-2095156045303701766` · x · thread · en · [source](https://x.com/rom1trs/status/2095156045303701766) · [raw](../../../raw/items/x-2095156045303701766/)
 **Author:** rom1trs (@rom1trs) · **Published:** — · **Captured:** 2026-09-04T07:01:53Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [ai-video-generation](../../subjects/ai-video-generation/brief.md) · **Also:** [blockout-to-video-flythrough](../../subjects/blockout-to-video-flythrough/brief.md) · **Roles:** technique, example · **Platforms:** mcp, claude-code
 
 **Summary.** rom1trs describes hiring an artist for a Gucci-style AI ad: paper storyboards, Claude-generated keyframes and character sheets, Arcads MCP animation at 480p/1080p, then manual 4K grade and retime.

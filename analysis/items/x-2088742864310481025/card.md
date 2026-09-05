@@ -2,7 +2,7 @@
 
 `x-2088742864310481025` · x · thread · en · [source](https://x.com/LexnLin/status/2088742864310481025) · [raw](../../../raw/items/x-2088742864310481025/)
 **Author:** LexnLin (@LexnLin) · **Published:** — · **Captured:** 2026-09-04T07:07:50Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Also:** — · **Roles:** claim-source, tool · **Platforms:** cursor
 
 **Summary.** LexnLin reports the Leonxlnx/unlazy Cursor skill works well with Opus 5, especially paired with the ponytail write-less-code skill to stop stubbed implementations.

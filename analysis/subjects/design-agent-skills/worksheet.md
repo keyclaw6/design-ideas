@@ -53,7 +53,7 @@ Prompt libraries (SceneAI, motionsites 590+) are *dumps*. Use them after a contr
 - Aura.build — live **7,737 B** SPA shell; **189,000** users is meta-only; no generated HTML in-repo.
 - skills.sh “top 10 anti-slop” list ([x-2090834948332655011](../../items/x-2090834948332655011/card.md)) — community ranking, not a bake-off.
 - Matt Pocock 25-skill tour — harness-adjacent; only the design-relevant subset belongs here.
-- pdfcn — PDF kit, not a design skill.
+- pdfcn — PDF kit, not a design skill. Live `www.pdfcn.dev` **134,148 B**; repo MIT **993★** ([shadcn-component-kit](../../techniques/shadcn-component-kit.md)).
 - Component libraries (Cult, Originkit, Vengeance) — landing-ui-motion.
 - Image prompt galleries — image-prompt-galleries.
 

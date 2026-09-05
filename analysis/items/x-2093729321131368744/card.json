@@ -79,7 +79,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-failed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],

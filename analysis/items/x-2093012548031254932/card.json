@@ -31,6 +31,26 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2093012548031254932#c2",
+      "text": "Docs t.co/OGcCMpMLvi resolves to https://vgpu.sh/ (200 / 247,177 B). Page copy: Prompt / CLI / Skill / MCP. Install lines: npx vgpu; pnpm add vgpu; npx skills add vercel-labs/vgpu; npx -y add-mcp https://vgpu.sh/api/mcp -g. Same shader for browser and headless Node, including CI snapshot tests.",
+      "kind": "capability",
+      "evidence": "GET https://vgpu.sh/ 200 / 247,177 B. Title vgpu. analysis/_work/captures/2026-09-05-stale-next.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/2026-09-05-stale-next.json",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2093012548031254932#c3",
+      "text": "GitHub vercel-labs/vgpu is public MIT, 1,628 stars / 79 forks this pass (created 2026-05-05). Description: Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz.",
+      "kind": "availability",
+      "evidence": "GET https://api.github.com/repos/vercel-labs/vgpu 200. stargazers_count 1628 license MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/2026-09-05-stale-next.json",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
@@ -38,10 +58,10 @@
   "techniques": [],
   "tools": [],
   "links": {
-    "canonical": null,
-    "repo": null,
+    "canonical": "https://x.com/matiNotFound/status/2093012548031254932",
+    "repo": "https://github.com/vercel-labs/vgpu",
     "paper": null,
-    "product": null,
+    "product": "https://vgpu.sh/",
     "other": [],
     "related_items": [
       "github-scottstts-threejs-awesome-graphics-agent-skills",
@@ -70,7 +90,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-failed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],

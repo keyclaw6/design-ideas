@@ -2,7 +2,7 @@
 
 `x-2095502642218664004` · x · announcement · en · [source](https://x.com/marsoapp/status/2095502642218664004) · [raw](../../../raw/items/x-2095502642218664004/)
 **Author:** marsoapp (@marsoapp) · **Published:** — · **Captured:** 2026-09-04T06:54:40Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [image-to-3d-world](../../subjects/image-to-3d-world/brief.md) · **Also:** — · **Roles:** tool, claim-source · **Platforms:** —
 
 **Summary.** Marso announces I2M 1.2 with improved metallics, roughness, albedo, and IOR maps learned from physically measured real objects rather than subjective artist training data, now live in Marso Studio.
@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2095502642218664004#c1` (capability, stated) I2M 1.2 improves metallics, roughness, albedo, and IOR using materials measured from real objects. — evidence: "I2M learns from real objects we measured ourselves." [post]
+- `x-2095502642218664004#c2` (pricing, demonstrated) Quoted t.co/dPdYG2wjMB resolves to https://marso.app (200 / 180,651 B, title Marso Studio). Live pricing: Free $0 / 400 credits; Artist $29 / 2,400 credits; Artist Pro $99 / 9,500 credits; next listed 40,000 credits. Page names I2M (Studio/API texture set, fine-tuning). It does not repeat the tweet’s “I2M 1.2” version headline. — evidence: "GET 200 / 180,651 B. Free 400 / Artist 2,400 / Artist Pro 9,500 credits. analysis/_work/captures/2026-09-05-stale-next.json" [note]
 **Numbers.** —
 **Recipe.** —
-**Techniques.** —
+**Techniques.** [image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md)
 **Tools.** —
-**Links.** —
+**Links.** product (https://marso.app)
 **Related items.** [x-2091927587471712274](../x-2091927587471712274/card.md), [x-2094864872853119216](../x-2094864872853119216/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 2 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)

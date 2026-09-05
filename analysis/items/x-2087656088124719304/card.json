@@ -31,17 +31,29 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2087656088124719304#c2",
+      "text": "https://www.pdfcn.dev GET 200 / 134,148 B. Title pdfcn - Beautiful PDFs, made simple. Copy: ready-to-use React PDF components, built on Takumi and Forme, distributed via shadcn (`pnpm dlx shadcn add @pdfcn/forme/alert`). GitHub shadcn-labs/pdfcn is MIT / 993 stars. Tweet t.co/egpPgTzmHe loops back to the same X status, not a separate docs host.",
+      "kind": "availability",
+      "evidence": "GET 200 / 134,148 B. Repo MIT 993★ on 2026-09-05. analysis/_work/captures/2026-09-05-stale-next.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/shadcn-component-kit.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
-  "techniques": [],
+  "techniques": [
+    "shadcn-component-kit"
+  ],
   "tools": [],
   "links": {
-    "canonical": null,
-    "repo": null,
+    "canonical": "https://x.com/alaymanguy/status/2087656088124719304",
+    "repo": "https://github.com/shadcn-labs/pdfcn",
     "paper": null,
-    "product": null,
+    "product": "https://www.pdfcn.dev",
     "other": [],
     "related_items": [
       "web-cult-ui",
@@ -63,7 +75,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-failed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],

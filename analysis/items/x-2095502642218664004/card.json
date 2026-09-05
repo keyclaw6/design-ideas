@@ -28,17 +28,29 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2095502642218664004#c2",
+      "text": "Quoted t.co/dPdYG2wjMB resolves to https://marso.app (200 / 180,651 B, title Marso Studio). Live pricing: Free $0 / 400 credits; Artist $29 / 2,400 credits; Artist Pro $99 / 9,500 credits; next listed 40,000 credits. Page names I2M (Studio/API texture set, fine-tuning). It does not repeat the tweet’s “I2M 1.2” version headline.",
+      "kind": "pricing",
+      "evidence": "GET 200 / 180,651 B. Free 400 / Artist 2,400 / Artist Pro 9,500 credits. analysis/_work/captures/2026-09-05-stale-next.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/image-to-3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
-  "techniques": [],
+  "techniques": [
+    "image-to-3d-worldgen"
+  ],
   "tools": [],
   "links": {
-    "canonical": null,
+    "canonical": "https://x.com/marsoapp/status/2095502642218664004",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://marso.app",
     "other": [],
     "related_items": [
       "x-2091927587471712274",
@@ -58,7 +70,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-failed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],

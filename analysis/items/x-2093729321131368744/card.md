@@ -2,7 +2,7 @@
 
 `x-2093729321131368744` · x · thread · en · [source](https://x.com/alexgroberman/status/2093729321131368744) · [raw](../../../raw/items/x-2093729321131368744/)
 **Author:** alexgroberman (@alexgroberman) · **Published:** — · **Captured:** 2026-09-04T08:05:20Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [serp-ai-visibility](../../subjects/serp-ai-visibility/brief.md) · **Also:** — · **Roles:** claim-source, example · **Platforms:** —
 
 **Summary.** alexgroberman claims a business added over $100,000 in ChatGPT, Google, and broader AI-search traffic after following article recommendations, with a dashboard screenshot of AI response growth.

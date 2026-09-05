@@ -2,7 +2,7 @@
 
 `x-2091722166685610284` · x · repo · en · [source](https://x.com/Yun_HDY/status/2091722166685610284) · [raw](../../../raw/items/x-2091722166685610284/)
 **Author:** Yun (@Yun_HDY) · **Published:** — · **Captured:** 2026-09-04T06:49:33Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [blockout-to-video-flythrough](../../subjects/blockout-to-video-flythrough/brief.md) · **Also:** — · **Roles:** tool, technique · **Platforms:** browser
 
 **Summary.** Yun_HDY shows CozyClay adding slow-motion as draggable timeline handles so punch timing lands slower in-browser, linking the open-source NomaDamas/CozyClay previs repo.

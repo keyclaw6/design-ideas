@@ -43,7 +43,7 @@ Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-209
 
 - Four Japanese launch posts that only restated Splat2Mesh v1.0. One product page is enough ([web-arcana-splat2mesh](../../items/web-arcana-splat2mesh/card.md)).
 - GaussianGPT / LightFuse until there is a runnable repo in this bank.
-- Spatial Studio 4K export if the owner’s question is *mesh*, not *video*.
+- Spatial Studio 4K export if the owner’s question is *mesh*, not *video*. Product host is **studio.realhorizons.ai** (8,035 B SPA), not spatial.studio (architecture firm).
 
 ## gaussian-splatting — next capture work
 

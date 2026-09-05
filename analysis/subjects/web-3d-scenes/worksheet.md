@@ -25,7 +25,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 | VanhDesign WebGPU page | high (one HTML) | high (scene *is* the page) | WebGPU | low | unknown polycount |
 | GetLayers | mid (prompt → HTML layer) | depends on layer | WebGL/GLSL in prompts | mid (MCP assemble) | unknown |
 | FeralUI | high (React components) | pointer / physics, not camera | WebGL-adjacent CSS/R3F | low | experimental v0.1.1 |
-| vgpu | n/a (shader lib) | n/a | WebGPU | high (agent-oriented) | “minimal / performant” stated |
+| vgpu | n/a (shader lib) | n/a | WebGPU | high (agent-oriented) | vgpu.sh + vercel-labs/vgpu MIT 1,628★ |
 | ORYZO / Utsubo | high | high (studio scroll) | WebGL (implied) | none | studio-grade; no budget numbers |
 | Opus 5 jeep / Antigravity Bugatti | high (demo scene) | pointer / orbit | WebGL | one-off prompt loop | 4 min Antigravity claim; 300k context claim |
 | Spline opinion | unknown | unknown | Spline | none | no numbers |
@@ -38,7 +38,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 - Graphics skills produce valid R3F vs screenshot-alike HTML — README (2026-09-04) is **vanilla Three + TSL/WebGPU examples**, no R3F. Still need to open one example and diff the scene graph. See [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md).
 - Gemini Antigravity Bugatti in ~4 minutes — demo clock, no repo.
 - GetLayers MCP “assembles a whole site” — marketing; no recorded assembly log.
-- vgpu “built for coding agents” — announcement thread, 71 replies / 1 captured.
+- vgpu “built for coding agents” — announcement thread, 71 replies / 1 captured. Docs are live at **vgpu.sh** (**247,177 B**; CLI / skill / MCP). Repo `vercel-labs/vgpu` MIT **1,628★**.
 
 ## web-3d-scenes — do not treat as load-bearing
 
@@ -55,3 +55,4 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 4. Keep splat viewers out of this stack; if the page *is* a splat, use the gaussian-splatting worksheet.
 5. utsubo.com live **200 / 72,976 B**; “0% BETTER WITH SPEAKERS ON” is in the HTML ([scroll-driven-3d](../../techniques/scroll-driven-3d.md)). Card is now `ready`.
 6. Meng To “40-min” Three.js + Claude Code tutorial is the X amplify video on `MengTo/2088117711868227765` (**2411.133 s**, 2880×2160) — no separate docs/YouTube ([mengto-skills](../../tools/mengto-skills.md)). Pointer card is `ready` (thread `empty`, 0 replies reported).
+7. vgpu docs + MIT repo are now on [x-2093012548031254932](../../items/x-2093012548031254932/card.md). Stale `thread-failed` tag dropped (`thread-partial` 71/1). Remaining: more than the one captured Vercel reply.

@@ -32,18 +32,32 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094377838774472944#c2",
+      "text": "Quoted t.co/7OebUDN1n4 resolves to https://studio.realhorizons.ai/ (200 / 8,035 B SPA, title Spatial Studio | Real Horizons). Landscape Park tour t.co/Iow579owe9 is /tours/8b1bf25c-f2ee-4a78-8940-2516351d78b1/view (same 8,035 B shell). https://spatial.studio is a different West Footscray architecture firm — do not collapse.",
+      "kind": "availability",
+      "evidence": "GET studio.realhorizons.ai 200 / 8,035 B. GET spatial.studio 200 / 91,131 B title HOME - SPATIAL STUDIO. analysis/_work/captures/2026-09-05-stale-next.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/splat-pipeline.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
-  "techniques": [],
+  "techniques": [
+    "splat-pipeline"
+  ],
   "tools": [],
   "links": {
-    "canonical": null,
+    "canonical": "https://x.com/ShreyashT25/status/2094377838774472944",
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://studio.realhorizons.ai/",
+    "other": [
+      "https://studio.realhorizons.ai/tours/8b1bf25c-f2ee-4a78-8940-2516351d78b1/view"
+    ],
     "related_items": [
       "x-2094826117056414132",
       "web-arcana-splat2mesh"
@@ -64,7 +78,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-failed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],

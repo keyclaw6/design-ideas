@@ -18,4 +18,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-04 capture — 23rd.dev + Beautiful UI.** 23rd docs **10** named nav items; GitHub **68★ / 0** forks; `/registry.json` 404 ([23rd-dev](../tools/23rd-dev.md)). Beautiful UI live **21** named homepage components; **649,689 B**; `/r` 404. Receipts `23rd-dev-2026-09-04.json`, `beautifului-2026-09-04.json`.
 
 **2026-09-05 capture — Forja is Framer, not shadcn.** `GET https://www.framer.com/marketplace/templates/forja/` **200 / 261,271 B**. Title **Forja: Responsive AI Website Template by Miguel Queirós**. **$129** (`Buy for $129`; JSON `price` 129). Meta **Template for AI agents & agencies**. HTML also has AI agencies / agent studios / automation / no-code. Quoted from DopeOblivion `2092996963138449599`. Do not score it as a React registry kit. Receipt `analysis/_work/captures/forja-framer-2026-09-05.json`.
+
+**2026-09-05 capture — pdfcn first-party.** `https://www.pdfcn.dev` **200 / 134,148 B**. Title *pdfcn - Beautiful PDFs, made simple*. Built on Takumi and Forme; install `pnpm dlx shadcn add @pdfcn/forme/alert`. Repo `shadcn-labs/pdfcn` MIT **993★**. Tweet `t.co/egpPgTzmHe` loops to the X status. Card [x-2087656088124719304](../items/x-2087656088124719304/card.md) gap is now `thread-partial`.
 <!-- NOTES:END -->

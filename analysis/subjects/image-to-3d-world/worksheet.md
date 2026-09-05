@@ -26,7 +26,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 | BQR | boolean hard-surface | quad mesh | claimed clean quads | Blender native modifiers | addon |
 | Needle decimate | high-poly mesh | decimated GL for web | 3.2M→3k in 3s (stated) | three.js | “coming soon” |
 | kokraf | existing three.js mesh | textured mesh | uses existing topo | three.js | MIT-ish repo stated |
-| I2M 1.2 | real object photos | PBR maps, not a mesh | n/a | DCC materials | Marso product |
+| I2M 1.2 | real object photos | PBR maps, not a mesh | n/a | DCC materials | Marso Studio live: Free $0 / Artist $29 / Artist Pro $99 |
 | Blender MCP panorama | equirectangular | Blender mesh | unknown | Blender | depends on MCP + model |
 
 ## image-to-3d-world — claims that need a receipt

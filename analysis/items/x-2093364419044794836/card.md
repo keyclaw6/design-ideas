@@ -2,7 +2,7 @@
 
 `x-2093364419044794836` · x · demo-video · en · [source](https://x.com/ivanboroja/status/2093364419044794836) · [raw](../../../raw/items/x-2093364419044794836/)
 **Author:** ivanboroja (@ivanboroja) · **Published:** — · **Captured:** 2026-09-04T07:52:37Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-failed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [landing-ui-motion](../../subjects/landing-ui-motion/brief.md) · **Also:** — · **Roles:** example · **Platforms:** —
 
 **Summary.** Designer ivanboroja posts a short pre-launch teaser—'I can't wait to finally launch this site'—with attached screen recording as a landing-motion reference before the site goes live.
