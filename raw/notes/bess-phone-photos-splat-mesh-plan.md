@@ -46,7 +46,11 @@ Copies (not in git): `~/Downloads/bess-splat-zip5/` and `/home/kab/.cache/bess-s
 
 82 frames never registered (close-ups / scale jumps). Quality is a first checkpoint (7 k steps, not 30 k). Next folders if this look is acceptable: zip (2) 109 stills (open LCU), then zip (3) 78 (closed LCU).
 
-Do **not** train all 544 as one scene. Cluster 3 is a 3-frame detail burst of cluster 2 — attach it. Clusters 5 and 6 are the **same Envicool LCU** minutes apart (lid on, then lid off) — train separately first. Cluster 4 is one continuous cabinet walk (no ≥15s gap) with mixed orbit vs connector close-ups.
+### Optional 90s labels (not used for this run)
+
+Zip (5) ≈ C4. The table is leftover context only.
+
+Do **not** train all 544 as one scene.
 
 | ID | n | Window | What vision sees | First train path |
 |---|---|---|---|---|
@@ -162,13 +166,10 @@ NeedleTools 3.2M→3k (`x-2091927587471712274`) was “coming soon” at harvest
 
 ## 4. Recommended attack order
 
-1. ~~Normalize + cluster + vision~~ **done** (8 clusters; C3→C2; C5≠C6 on first train).
-2. **COLMAP audit** in order **C5 → C6 → C1 → C4**. Write register rates here. Drop a cluster if &lt;~30% register.
-3. **C5 → Splat.js** (or LichtFeld) if overlap passes; then C6, then C1.
-4. **If holey but posed:** ArtiFixer 1.3B, then IZUTSUYA vs Splat2Mesh.
-5. **Skip-splat (Tripo/Meshy)** on C7, C8 (after blur filter), and C2 if the gate fails.
-6. **Path 3 blockout** from readable labels (ZG-Mod-52 SN, Envicool ENR605HFC1A / LP624D3FSBD1, BCU-B30, GRID-A/B/C).
-7. **Decimate** whatever mesh wins.
+1. ~~Pick largest Drive zip and train one scene~~ **done** (`Photos-1-001(5).zip`).
+2. Look at `zip5_7000.html` / the GLBs. If the splat is usable, continue to 30 k steps or train zip (2). If it is soup, skip-splat that folder and try the closed LCU zip (3) instead.
+3. **If holey but posed:** ArtiFixer is CUDA-only on this harvest — skip here; IZUTSUYA vs Splat2Mesh if a nicer surface mesh is needed than the collision hull.
+4. **Decimate** whatever mesh wins (already did one 15 k pass on zip 5).
 
 Do **not** train all zips as one scene. Do **not** mix 2025 Woshixing with this dump.
 
