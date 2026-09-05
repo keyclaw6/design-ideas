@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2094742312433684496#c1` (recipe, stated) Six-step play: Google keyword, open page-one Reddit posts, write helpful comment, mention brand, get upvotes. — evidence: "Write a pretty helpful comment." [post]
 - `x-2094742312433684496#c2` (counter-claim, stated) Filip Mitras warns archived posts block comments and old-thread promotion risks shadowbans; cap at one of five comments. — evidence: "make sure it's at best 1 out of 5 of your comments that are done this way" [reply]
+- `x-2094742312433684496#c3` (availability, demonstrated) Product link seowins.io is HTTP 403 Forbidden in this bank (leftover-2026-09-05.json). Sibling web-seowins-io still carries the earlier linked-page capture (150+ tactics / $79 lifetime from $179). This leftover’s six-step Reddit comment play is tweet/reply-only. Do not retry seowins.io, and do not treat the 403 host as a live playbook export. — evidence: "leftover-2026-09-05.json seowins: HTTP Error 403 Forbidden. Do not hammer. leftover17 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [serp-keyword-research](../../techniques/serp-keyword-research.md), [serp-keyword-research](../../techniques/serp-keyword-research.md)

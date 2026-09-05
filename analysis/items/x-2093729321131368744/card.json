@@ -28,6 +28,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2093729321131368744#c2",
+      "text": "Related seowins.io host is HTTP 403 in this bank (leftover-2026-09-05.json). $100k AI-search traffic lift and the 9.7K / 1.9K dashboard stay screenshot/tweet-only. Do not retry seowins.io, and do not treat the 403 library as the source of those integers.",
+      "kind": "counter-claim",
+      "evidence": "leftover-2026-09-05.json seowins HTTP 403. Dashboard 9.7K/1.9K is media. leftover17 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],

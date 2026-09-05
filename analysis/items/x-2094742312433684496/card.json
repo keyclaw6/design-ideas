@@ -49,6 +49,16 @@
       "evidence_ref": "comments.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094742312433684496#c3",
+      "text": "Product link seowins.io is HTTP 403 Forbidden in this bank (leftover-2026-09-05.json). Sibling web-seowins-io still carries the earlier linked-page capture (150+ tactics / $79 lifetime from $179). This leftover\u2019s six-step Reddit comment play is tweet/reply-only. Do not retry seowins.io, and do not treat the 403 host as a live playbook export.",
+      "kind": "availability",
+      "evidence": "leftover-2026-09-05.json seowins: HTTP Error 403 Forbidden. Do not hammer. leftover17 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,
