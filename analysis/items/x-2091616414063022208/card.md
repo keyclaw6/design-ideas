@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2091616414063022208#c1` (opinion, stated) Author currently prioritizes exploring what is possible in design rather than debating what is necessary. — evidence: "But right now, I'm only interested in "what's possible?"" [post]
+- `x-2091616414063022208#c2` (counter-claim, demonstrated) Quoted t.co/HB61RYqWwL resolves to pear.no 200 / 53,685 B. PEAR AS (ORG NR 919 062 517, Oslo) is a revenue-share SEO/software partnership (no retainer; agreed share of new revenue). Not a design-motion skill or logo-animation pack. Philosophy tweet stays tweet-only. — evidence: "pear.no 53685 B PEAR AS ORG NR 919 062 517. leftover13-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** —
+**Links.** product (https://pear.no/)
 **Related items.** —
 **Media.**
 `raw/items/x-2091616414063022208/media/media_0.jpg` (video, carries_technique=true) — Short clip of an experimental animated web logo referenced as an example of exploratory design craft.

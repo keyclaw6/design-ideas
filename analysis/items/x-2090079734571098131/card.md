@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2090079734571098131#c1` (recipe, stated) Alternate AI SaaS design direction built with Custom Skills, a video tool, and Claude. — evidence: "built by Custom Skills + My Video Tool + Claude + Some Creativity" [post]
+- `x-2090079734571098131#c2` (counter-claim, demonstrated) Same author leftover as the DESIGN.md hero: designbymoein.com NXDOMAIN. moeindesign.com is a different Moein graphic-design blog (378,216 B, lorem contact) — do not collapse with @DesignByMoein. Alternate SaaS landing + custom-skills recipe stays tweet-only. Media t.co loops to X. — evidence: "cursor NOTES leftover9: designbymoein.com NXDOMAIN; moeindesign.com 378216 B. leftover13 t.co loops. leftover13-2026-09-05.json." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

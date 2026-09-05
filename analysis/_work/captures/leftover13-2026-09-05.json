@@ -1,0 +1,165 @@
+{
+  "fetched_at": "2026-09-05T06:45:00Z",
+  "pages": {
+    "tco-jeep": {
+      "url": "https://t.co/FIqKBvxCeQ",
+      "final": "https://x.com/startracker/status/2086537093120164177",
+      "status": 200,
+      "bytes": 170530,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Startracker \ud83d\udd3a on X: \"Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) \ud83d\ude80\n\nI finally figured out how to steer  Opus 5 into creating precise, high-detail, fully interactive 3D models.\n\nPrompt/method in comments! \u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f\n\nResult: this terrain vehicle that l\u2026 / X",
+      "visible_len": 2580
+    },
+    "tco-tank": {
+      "url": "https://t.co/e52sosOqMo",
+      "final": "https://x.com/Spectromachina/status/2086558057589334327",
+      "status": 200,
+      "bytes": 156690,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Spectro on X: \"@startracker Opus is the goat in terms of 3d modeling. currently making a fully interactable tank with it lol\" / X",
+      "visible_len": 1191
+    },
+    "tco-pi-handoff": {
+      "url": "https://t.co/sICsFS7iok",
+      "final": "https://x.com/1kartikkabadi1/status/2087263510090874911",
+      "status": 200,
+      "bytes": 158516,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Kartik on X: \"My workflow now is basically this:\n1. AGENTS.md auto loads up these 4 skills:\nponytail\ngrilling\nwayfinder\nask-matt\n2. I have the agent grill me completely over close to 100s of questions\n3. I have a custom Pi extension called /handoff that when the context window reaches 100k it asks \u2026 / X",
+      "visible_len": 2627
+    },
+    "tco-bugatti": {
+      "url": "https://t.co/rEYQ9u3OkL",
+      "final": "https://x.com/HarshithLucky3/status/2088240171565412733",
+      "status": 200,
+      "bytes": 189157,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Harshith on X: \"Gemini 3.7 Flash High in Antigravity \ud83d\udd25\ud83d\udd25\n\nit created this in ~4 mins - pretty fast and perfect\n\n&gt; Bugatti W16 engine with mechanically accurate internals and photorealistic exterior in Three.js\" / X",
+      "visible_len": 1443
+    },
+    "tco-canvas": {
+      "url": "https://t.co/kCeD3FdbjQ",
+      "final": "https://x.com/mfpiccolo/status/2088590355440476343",
+      "status": 200,
+      "bytes": 209967,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Mike Piccolo on X: \"I heavily use diagraming tools for architecting which means a lot of screenshotting and pasting. To make things simpler, I asked my harness to build itself a canvas worker. Now the agent draws the diagram right in the chat and console injectable UI.\" / X",
+      "visible_len": 1856
+    },
+    "tco-hqflow1": {
+      "url": "https://t.co/abPVj6fHns",
+      "final": "https://hqflow.vercel.app/",
+      "status": 200,
+      "bytes": 15455,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Agents ship the code. HQFlow shows you the system.",
+      "visible_len": 2984
+    },
+    "tco-hqflow2": {
+      "url": "https://t.co/WZcbOIv0ZQ",
+      "final": "https://x.com/WinterArc2125/status/2086067548999548956?s=20",
+      "status": 200,
+      "bytes": 166225,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Winter on X: \"How do we feel about node workflows? \nTo understand your codebase.\n\nShipping in the next update of (open source) HQ Flow!\nhttps://t.co/IFZdT141BO\n\nChanges:\n- The cards gain some color in gradient bleed theme.\n- The cards when moved around have dynamic edge anchors so they move around \u2026 / X",
+      "visible_len": 2008
+    },
+    "tco-saas1": {
+      "url": "https://t.co/2w2o3mYt0Z",
+      "final": "https://x.com/DesignByMoein/status/2090079734571098131",
+      "status": 200,
+      "bytes": 216711,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Moein on X: \"Another design direction for this AI SaaS.\n\nbuilt by Custom Skills + My Video Tool + Claude + Some Creativity\" / X",
+      "visible_len": 1269
+    },
+    "tco-saas2": {
+      "url": "https://t.co/aDdpemWAZq",
+      "final": "https://x.com/DesignByMoein/status/2089703590642524221",
+      "status": 200,
+      "bytes": 190287,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Moein on X: \"Another AI SaaS landing page.\n\nAgain built by Custom Skills + My Video Tool + Claude + Some Creativity\" / X",
+      "visible_len": 1364
+    },
+    "tco-designertom": {
+      "url": "https://t.co/HGmk7r0lca",
+      "final": "https://x.com/designertom/status/2091616414063022208",
+      "status": 200,
+      "bytes": 185699,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Tommy Geoco \ud83c\uddfa\ud83c\uddf8 on X: \"Someday I'll return to entertaining \"what's necessary?\" in design.\n\nBut right now, I'm only interested in \"what's possible?\"\n\nAbsolutely love seeing how others are exploring the answer to the latter.\n\nP.S. That logo is a banger.\" / X",
+      "visible_len": 1520
+    },
+    "tco-designertom2": {
+      "url": "https://t.co/HB61RYqWwL",
+      "final": "https://pear.no/",
+      "status": 200,
+      "bytes": 53685,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Pear \u2014 not an agency on the clock, a partner in the upside",
+      "visible_len": 4123
+    },
+    "tco-imperfect": {
+      "url": "https://t.co/7KMjpeWZBU",
+      "final": "https://x.com/kickingkeys/status/2091622751756751211",
+      "status": 200,
+      "bytes": 214424,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Surya on X: \"You can also make beautifully imperfect videos with AI coding models\" / X",
+      "visible_len": 1160
+    },
+    "tco-rl-paint": {
+      "url": "https://t.co/4x5B81kjUh",
+      "final": "https://x.com/kickingkeys/status/2091570990048276897",
+      "status": 200,
+      "bytes": 235615,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Surya on X: \"You can just RL a coding model to paint with javascript btw\" / X",
+      "visible_len": 1363
+    },
+    "tco-bee": {
+      "url": "https://t.co/Q54h0e3zSv",
+      "final": "https://x.com/thebuggeddev/status/2092242135504552118",
+      "status": 200,
+      "bytes": 193269,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "The Bugged Dev on X: \"I genuinely don't have any words for this \ud83e\udd2f\n\nJust ONE image of a robotic bee and somehow got this incredibly gooood 3D model with great topology.\n\nNo prompt. No rework. No retries. Nothing else.\n\nThis kind of thing could have taken weeks of modeling, retopology and iteration.\u2026 / X",
+      "visible_len": 2364
+    },
+    "tco-polish": {
+      "url": "https://t.co/uCbX29UOlj",
+      "final": "https://x.com/KrisAnfalova/status/2093024468209733756",
+      "status": 200,
+      "bytes": 159303,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Kris Anfalova on X: \"You don't need to outbid everyone for attention if your product actually looks good. Here\u2019s a design that proves it\" / X",
+      "visible_len": 1038
+    },
+    "tco-polish2": {
+      "url": "https://t.co/fcpwDR65ON",
+      "final": "https://x.com/KrisAnfalova/status/2093028186007241101",
+      "status": 200,
+      "bytes": 152333,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Kris Anfalova on X: \"Your brand could have been here, but you didn't order a design from me \ud83d\udc40\ud83e\uddad\ud83d\ude01\" / X",
+      "visible_len": 1000
+    }
+  }
+}

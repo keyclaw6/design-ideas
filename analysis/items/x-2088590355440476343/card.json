@@ -51,6 +51,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2088590355440476343#c3",
+      "text": "Reply t.co/abPVj6fHns resolves to hqflow.vercel.app 200 / 15,455 B. Visible: npx hqflow init / open / validate; local-first .codehq/ contract; no LLM inside. First-party repo WinterArc21/HQFlow MIT, 21\u2605 / 1 fork, homepage hqflow.vercel.app. This is a neighbor OSS workflow canvas, not the author\u2019s in-chat canvas worker. Do not collapse.",
+      "kind": "counter-claim",
+      "evidence": "hqflow.vercel.app 15455 B; WinterArc21/HQFlow MIT 21\u2605 leftover13 + leftover13b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover13-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,
@@ -63,7 +73,7 @@
     "canonical": "https://x.com/mfpiccolo/status/2088590355440476343",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://hqflow.vercel.app/",
     "other": [],
     "related_items": [
       "x-2088016749849682120",

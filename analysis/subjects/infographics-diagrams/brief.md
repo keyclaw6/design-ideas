@@ -97,7 +97,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2091559663833924082#c1` | The atlas uses progressive disclosure chapters that reveal a few boxes at a time instead of dumping the whole system. | stated | [system-atlas skill builds explorable …](../../items/x-2091559663833924082/card.md) |
 | `x-2091767461058105402#c1` | Dashboard Stack studio is live for creating Instagram and LinkedIn carousels. | stated | [Dashboard Stack carousel studio — Ins…](../../items/x-2091767461058105402/card.md) |
 
-Full set: claims.jsonl (33 rows)
+Full set: claims.jsonl (34 rows)
 
 ## infographics-diagrams — comparison axes
 

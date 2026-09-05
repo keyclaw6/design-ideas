@@ -36,6 +36,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2091616414063022208#c2",
+      "text": "Quoted t.co/HB61RYqWwL resolves to pear.no 200 / 53,685 B. PEAR AS (ORG NR 919 062 517, Oslo) is a revenue-share SEO/software partnership (no retainer; agreed share of new revenue). Not a design-motion skill or logo-animation pack. Philosophy tweet stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "pear.no 53685 B PEAR AS ORG NR 919 062 517. leftover13-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover13-2026-09-05.json",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,
@@ -46,7 +56,7 @@
     "canonical": "https://x.com/designertom/status/2091616414063022208",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://pear.no/",
     "other": [],
     "related_items": []
   },
