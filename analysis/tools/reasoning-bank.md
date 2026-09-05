@@ -21,4 +21,6 @@ Paper Table 1 WebArena overall SR / steps (684 tasks; Map excluded): Gemini-2.5-
 **2026-09-05 leftover24.** Unused abs `arxiv.org/abs/2509.25140` **45,267 B** still ICLR 2026 v2 (16 Mar 2026; PDF **3,953 KB**). OpenReview still gated. Receipt `leftover24-2026-09-05.json`.
 
 **2026-09-05 leftover26.** Neighbor unused `openreview.net/forum?id=CGO1hDTHNe` stays gated — do not hammer. Receipt `leftover26-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Neighbor essays now on READY cards: Gasquez **13,726 B** (Aug 2, 2026); Context.ai filesystem **38,717 B** (6 Jun 2026); Macomber post-AI stack **67,426 B** (Aug 30, 2026); Rill **88,734 B** / **3k**; Anthropic Claude Tag Slack **517,319 B**. Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

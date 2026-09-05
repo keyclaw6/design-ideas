@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "demonstrated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2088260067204137135#c2",
+      "text": "leftover29 unused raw mattpocock/skills grilling/SKILL.md 1,987 B restates leftover14: design-tree interview / frontier / rounds. grill-me alias stays 157 B. leftover29 is that file now on this leftover card.",
+      "kind": "capability",
+      "evidence": "leftover29 grilling 1987 B. Same leftover14 grilling SKILL.md.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,
@@ -51,7 +61,9 @@
     "repo": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md"
+    ],
     "related_items": [
       "x-2088290952704151671",
       "github-emilkowalski-skills"

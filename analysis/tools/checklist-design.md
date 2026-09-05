@@ -6,5 +6,5 @@
 - [Checklist Design: page-type QA checklists with Figma plugin and agent skill](../items/web-checklist-design/card.md) — reference, tool — design-agent-skills
 
 <!-- NOTES:START -->
-
+**2026-09-05 leftover29.** Unused Figma community plugin **734,330 B** titles *Checklist Design | Figma*. Visible extract empty (SPA). Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

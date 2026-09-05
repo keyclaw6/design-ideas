@@ -21,4 +21,6 @@ Category files and array lengths: profile-avatar 2,056; social-media-post 9,657;
 **2026-09-05 capture — MeiGen homepage live.** `https://www.meigen.ai/` **200 / 129,701 B** (prior Cloudflare **403** cleared). Title *MeiGen - Free GPT Image 2, Nano Banana & Seedance 2.5 Prompts*. SSR is a marketing/SPA shell (`Loading…`; **4** img tags; **no 1,446** in HTML). `/app` **200 / 104,802 B** (mobile download). `/gallery` and `/api/prompts` **404**. Headed card count still missing; **1,446** remains the MCP-file integer. Receipt `meigen-live-2026-09-05.json`.
 
 **2026-09-05 leftover27.** Unused `youmind.com/nano-banana-pro-prompts` **1,244,866 B**. Title **10,000+**; footer TOTAL **15,508**. Do not collapse title 10k / footer 15,508 / any 30,000+ repo copy. Receipt `leftover27-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Unused GitHub `youmind-openlab/nano-banana-pro-prompts-recommend-skill` **1,848★** license null; description **10000+**. Do not collapse with footer **15,508**. Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -3,7 +3,7 @@
   "id": "web-davidgasquez-context-engineering",
   "source_type": "website",
   "url": "https://davidgasquez.com/context-engineering-is-a-data-problem",
-  "title": "Context Engineering Is a Data Problem — David Gasquez essay",
+  "title": "Context Engineering Is a Data Problem \u2014 David Gasquez essay",
   "author": {
     "name": "David Gasquez",
     "handle": "davidgasquez",
@@ -42,7 +42,7 @@
       "id": "web-davidgasquez-context-engineering#c2",
       "text": "A knowledge base should compile raw sources into LLM-optimized representations via extract, transform, publish stages.",
       "kind": "recipe",
-      "evidence": "Knowledge base as **compiler for agents** — raw sources → LLM-optimized representations.",
+      "evidence": "Knowledge base as **compiler for agents** \u2014 raw sources \u2192 LLM-optimized representations.",
       "evidence_source": "linked-page",
       "evidence_ref": null,
       "confidence": "stated",
@@ -52,7 +52,7 @@
       "id": "web-davidgasquez-context-engineering#c3",
       "text": "Teams need per-area marts rather than one universal company context package.",
       "kind": "capability",
-      "evidence": "Build **marts** per area/team — no universal \"company context\" package",
+      "evidence": "Build **marts** per area/team \u2014 no universal \"company context\" package",
       "evidence_source": "linked-page",
       "evidence_ref": null,
       "confidence": "stated",
@@ -60,11 +60,21 @@
     },
     {
       "id": "web-davidgasquez-context-engineering#c4",
-      "text": "Gasquez’s public handbook vault (davidgasquez/handbook) is 159 topic .md files in a flat wiki-link tree, including Context Engineering.md and Company Knowledge Management.md. It is a personal published vault, not a company Slack extract.",
+      "text": "Gasquez\u2019s public handbook vault (davidgasquez/handbook) is 159 topic .md files in a flat wiki-link tree, including Context Engineering.md and Company Knowledge Management.md. It is a personal published vault, not a company Slack extract.",
       "kind": "capability",
       "evidence": "Git trees/main: 164 blobs / 159 md. Context Engineering.md 5989 B restates extract/transform/publish and no single company brain.",
       "evidence_source": "note",
       "evidence_ref": "analysis/techniques/context-etl.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-davidgasquez-context-engineering#c5",
+      "text": "leftover29 unused davidgasquez.com/context-engineering-is-a-data-problem 13,726 B titles Context Engineering Is a Data Problem (Aug 2, 2026). leftover29 unused context.ai/blog/a-filesystem-for-context 38,717 B (6 Jun 2026) argues a filesystem beats default vector-chunk RAG for institutional knowledge. leftover29 does not run either recipe.",
+      "kind": "opinion",
+      "evidence": "leftover29 gasquez 13726 B; context-ai 38717 B. Filesystem vs vector-chunk default.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
     }
@@ -87,7 +97,8 @@
       "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
       "https://www.iandmacomber.com/blog/post-ai-data-stack",
       "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
-      "https://www.context.ai/blog/a-filesystem-for-context"
+      "https://www.context.ai/blog/a-filesystem-for-context",
+      "https://davidgasquez.com/context-engineering-is-a-data-problem"
     ],
     "related_items": [
       "web-cerebras-knowledge-base",

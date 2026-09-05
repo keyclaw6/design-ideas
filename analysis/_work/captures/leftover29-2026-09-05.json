@@ -1,0 +1,345 @@
+{
+  "fetched_at": "2026-09-05T15:00:00Z",
+  "pages": {
+    "monid": {
+      "url": "https://monid.ai",
+      "final": "https://monid.ai",
+      "status": 200,
+      "bytes": 91135,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Monid \u2014 Connect your agent to every tool it needs.",
+      "visible_len": 2221
+    },
+    "higgsfield": {
+      "url": "https://higgsfield.ai",
+      "final": "https://higgsfield.ai",
+      "status": 200,
+      "bytes": 530407,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Higgsfield AI \u2014 AI-native creative suite",
+      "visible_len": 3948
+    },
+    "gh-scroll-world": {
+      "url": "https://api.github.com/repos/oso95/scroll-world",
+      "final": "https://api.github.com/repos/oso95/scroll-world",
+      "status": 200,
+      "bytes": 5187,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-scroll-world.json",
+      "json_summary": {
+        "name": "scroll-world",
+        "stars": 8996,
+        "license": "MIT",
+        "description": "A skill that turn any brand into a scrollable 3D world landing page",
+        "published_at": null
+      }
+    },
+    "frontend-design": {
+      "url": "https://raw.githubusercontent.com/anthropics/skills/main/skills/frontend-design/SKILL.md",
+      "final": "https://raw.githubusercontent.com/anthropics/skills/main/skills/frontend-design/SKILL.md",
+      "status": 200,
+      "bytes": 9390,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 9335
+    },
+    "figma-plugin": {
+      "url": "https://www.figma.com/community/plugin/1548640679824154718/checklist-design",
+      "final": "https://www.figma.com/community/plugin/1548640679824154718/checklist-design",
+      "status": 200,
+      "bytes": 734330,
+      "ctype": "text/html;charset=utf-8",
+      "error": null,
+      "title": "Checklist Design | Figma",
+      "visible_len": 0
+    },
+    "dicebear-gh": {
+      "url": "https://api.github.com/repos/dicebear/dicebear",
+      "final": "https://api.github.com/repos/dicebear/dicebear",
+      "status": 200,
+      "bytes": 6314,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/dicebear-gh.json",
+      "json_summary": {
+        "name": "dicebear",
+        "stars": 9506,
+        "license": "MIT",
+        "description": "DiceBear is an avatar library for designers and developers. \ud83c\udf0d",
+        "published_at": null
+      }
+    },
+    "dicebear-play": {
+      "url": "https://www.dicebear.com/playground/",
+      "final": "https://www.dicebear.com/playground/",
+      "status": 200,
+      "bytes": 25069,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Playground | DiceBear",
+      "visible_len": 1483
+    },
+    "feral-blob": {
+      "url": "https://api.github.com/repos/mortspace/feral-blob",
+      "final": "https://api.github.com/repos/mortspace/feral-blob",
+      "status": 200,
+      "bytes": 5387,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/feral-blob.json",
+      "json_summary": {
+        "name": "feral-blob",
+        "stars": 17,
+        "license": "MIT",
+        "description": "A playful, themeable SVG jelly-blob mascot for React \u2014 moods, a slow idle wobble, poke reactions, and a matching iOS-style logout modal. Part of FeralUI.",
+        "published_at": null
+      }
+    },
+    "open-design-ai": {
+      "url": "https://open-design.ai",
+      "final": "https://open-design.ai",
+      "status": 200,
+      "bytes": 339680,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "OpenDesign \u2014 Best Open Source Claude Design Alternative",
+      "visible_len": 9892
+    },
+    "gh-scottstts": {
+      "url": "https://api.github.com/repos/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+      "final": "https://api.github.com/repos/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
+      "status": 200,
+      "bytes": 6503,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-scottstts.json",
+      "json_summary": {
+        "name": "Threejs-Awesome-Graphics-Agent-Skills",
+        "stars": 782,
+        "license": "MIT",
+        "description": "A three.js agent skills for producing awesome graphics for scenes and games",
+        "published_at": null
+      }
+    },
+    "glama": {
+      "url": "https://glama.ai/mcp/servers",
+      "final": "https://glama.ai/mcp/servers",
+      "status": 200,
+      "bytes": 244196,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Open-Source MCP Servers \u2013 81,811 in the Glama Registry | Glama",
+      "visible_len": 8525
+    },
+    "mcp-io": {
+      "url": "https://modelcontextprotocol.io/",
+      "final": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+      "status": 200,
+      "bytes": 279547,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "What is the Model Context Protocol (MCP)? - Model Context Protocol",
+      "visible_len": 3079
+    },
+    "awesome-re": {
+      "url": "https://awesome.re",
+      "final": "https://github.com/sindresorhus/awesome#readme",
+      "status": 200,
+      "bytes": 542276,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "GitHub - sindresorhus/awesome: \ud83d\ude0e Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] \u00b7 GitHub",
+      "visible_len": 39118
+    },
+    "gh-youmind": {
+      "url": "https://api.github.com/repos/youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+      "final": "https://api.github.com/repos/youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+      "status": 200,
+      "bytes": 8178,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-youmind.json",
+      "json_summary": {
+        "name": "nano-banana-pro-prompts-recommend-skill",
+        "stars": 1848,
+        "license": null,
+        "description": "AI skill for OpenClaw & Claude Code \u2014 recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+        "published_at": null
+      }
+    },
+    "gh-motion-anything": {
+      "url": "https://api.github.com/repos/nexu-io/motion-anything",
+      "final": "https://api.github.com/repos/nexu-io/motion-anything",
+      "status": 200,
+      "bytes": 6591,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-motion-anything.json",
+      "json_summary": {
+        "name": "motion-anything",
+        "stars": 756,
+        "license": "Apache-2.0",
+        "description": "\u2728 The agentic motion layer \u2014 an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
+        "published_at": null
+      }
+    },
+    "gasquez": {
+      "url": "https://davidgasquez.com/context-engineering-is-a-data-problem",
+      "final": "https://davidgasquez.com/context-engineering-is-a-data-problem",
+      "status": 200,
+      "bytes": 13726,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Context Engineering Is a Data Problem | David Gasquez",
+      "visible_len": 4358
+    },
+    "macomber": {
+      "url": "https://www.iandmacomber.com/blog/post-ai-data-stack",
+      "final": "https://www.iandmacomber.com/blog/post-ai-data-stack",
+      "status": 200,
+      "bytes": 67426,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "The Shape and Feel of the Post-AI Data Stack \u2014 Ian Macomber",
+      "visible_len": 26453
+    },
+    "context-ai": {
+      "url": "https://www.context.ai/blog/a-filesystem-for-context",
+      "final": "https://www.context.ai/blog/a-filesystem-for-context",
+      "status": 200,
+      "bytes": 38717,
+      "ctype": "text/html",
+      "error": null,
+      "title": "A filesystem for institutional knowledge | Context",
+      "visible_len": 9370
+    },
+    "rilldata": {
+      "url": "https://www.rilldata.com/",
+      "final": "https://www.rilldata.com/",
+      "status": 200,
+      "bytes": 88734,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Rill | The fastest business intelligence tool for humans and agents",
+      "visible_len": 6544
+    },
+    "treg-llms": {
+      "url": "https://treg.to/llms.txt",
+      "final": "https://treg.to/llms.txt",
+      "status": 200,
+      "bytes": 40139,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 37454
+    },
+    "graphed-home": {
+      "url": "https://www.graphed.com/",
+      "final": "https://www.graphed.com/",
+      "status": 200,
+      "bytes": 292950,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Graphed - Deploy AI Agents for Marketing",
+      "visible_len": 10037
+    },
+    "gh-pipeshub": {
+      "url": "https://api.github.com/repos/pipeshub-ai/pipeshub-ai",
+      "final": "https://api.github.com/repos/pipeshub-ai/pipeshub-ai",
+      "status": 200,
+      "bytes": 6827,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-pipeshub.json",
+      "json_summary": {
+        "name": "pipeshub-ai",
+        "stars": 3724,
+        "license": "Apache-2.0",
+        "description": "PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search with verified citations across your business systems.",
+        "published_at": null
+      }
+    },
+    "grilling": {
+      "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grilling/SKILL.md",
+      "final": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grilling/SKILL.md",
+      "status": 200,
+      "bytes": 1987,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 1733
+    },
+    "note-acarcane": {
+      "url": "https://note.com/acarcane/n/nfb705e6cf9f1",
+      "final": "https://note.com/acarcane/n/nfb705e6cf9f1",
+      "status": 200,
+      "bytes": 316890,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "\u300e\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7\u300f\u306e\u30d5\u30a1\u30f3\u30e0\u30fc\u30d3\u30fc\u306e\u5236\u4f5c\u904e\u7a0b\u3092\u30bf\u30a4\u30e0\u30e9\u30d7\u30b9\u3067\u5927\u516c\u958b\uff01\uff5c\u30a2\u30ab\u30eb\u30ab\u30cd\uff5cCG \u30b2\u30fc\u30e0 \u6620\u50cf\u30af\u30ea\u30a8\u30a4\u30bf\u30fc\u5411\u3051\u60c5\u5831\u914d\u4fe1\u4e2d\ud83d\udce1",
+      "visible_len": 1648
+    },
+    "gh-awesome-gpt-image2": {
+      "url": "https://api.github.com/repos/freestylefly/awesome-gpt-image-2",
+      "final": "https://api.github.com/repos/freestylefly/awesome-gpt-image-2",
+      "status": 200,
+      "bytes": 6160,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-awesome-gpt-image2.json",
+      "json_summary": {
+        "name": "awesome-gpt-image-2",
+        "stars": 28060,
+        "license": "MIT",
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "published_at": null
+      }
+    },
+    "gh-cloudflare-os": {
+      "url": "https://api.github.com/repos/cloudflare/cloudflare-os",
+      "final": "https://api.github.com/repos/cloudflare/cloudflare-os",
+      "status": 200,
+      "bytes": 6672,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-cloudflare-os.json",
+      "json_summary": {
+        "name": "cloudflare-os",
+        "stars": 9655,
+        "license": "Apache-2.0",
+        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company\u2019s context and systems.",
+        "published_at": null
+      }
+    },
+    "gh-punkpeye": {
+      "url": "https://api.github.com/repos/punkpeye/awesome-mcp-servers",
+      "final": "https://api.github.com/repos/punkpeye/awesome-mcp-servers",
+      "status": 200,
+      "bytes": 5662,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover29-2026-09-05/gh-punkpeye.json",
+      "json_summary": {
+        "name": "awesome-mcp-servers",
+        "stars": 94179,
+        "license": "MIT",
+        "description": "A collection of MCP servers.",
+        "published_at": null
+      }
+    },
+    "anthropic-slack": {
+      "url": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+      "final": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+      "status": 200,
+      "bytes": 517319,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions | Claude by Anthropic",
+      "visible_len": 23486
+    }
+  }
+}

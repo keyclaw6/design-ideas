@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2088623462109593792#c2",
+      "text": "leftover29 unused GitHub pipeshub-ai/pipeshub-ai API 6,827 B is Apache-2.0 3,724\u2605. Description: open-source platform for connecting enterprise knowledge to AI with permission-aware search. leftover29 does not run a connector.",
+      "kind": "availability",
+      "evidence": "leftover29 gh-pipeshub 6827 B. Apache-2.0 3724\u2605.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/pipeshub.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": null,
@@ -52,7 +62,9 @@
     "repo": "https://github.com/pipeshub-ai/pipeshub-ai",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/pipeshub-ai/pipeshub-ai"
+    ],
     "related_items": [
       "web-cerebras-knowledge-base",
       "web-davidgasquez-context-engineering",

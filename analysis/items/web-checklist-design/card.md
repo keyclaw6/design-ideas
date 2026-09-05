@@ -11,6 +11,7 @@
 **Claims.**
 - `web-checklist-design#c1` (capability, stated) Covers mobile, web app, website, design-system, and flow checklist categories browsable on the site. — evidence: "Browse or search checklists covering websites, web apps, mobile, components, design systems, and user flows." [linked-page]
 - `web-checklist-design#c2` (capability, stated) Agent skill at checklist.design/skill mirrors the Figma plugin lists for coding-agent QA. — evidence: "Agent skill at checklist.design/skill so coding agents can run the same lists as designers in Figma." [note]
+- `web-checklist-design#c3` (availability, demonstrated) leftover29 unused Figma community plugin Checklist Design 734,330 B titles Checklist Design | Figma. Visible-text extract is empty (client-rendered community SPA). leftover29 does not install the plugin or the sibling skill/74536 page. — evidence: "leftover29 figma-plugin 734330 B. Title: Checklist Design | Figma. Visible empty." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [screenshot-verify-loop](../../techniques/screenshot-verify-loop.md)

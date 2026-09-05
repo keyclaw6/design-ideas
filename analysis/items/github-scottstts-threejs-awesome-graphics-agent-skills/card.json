@@ -31,14 +31,14 @@
     "cursor",
     "codex"
   ],
-  "summary": "MIT npm skill pack for Three.js that teaches agents camera direction, PBR materials, shaders, TSL/WebGPU effects, and visual validation via fixed-view captures—not an API cheat sheet but implementation vocabulary with examples.",
+  "summary": "MIT npm skill pack for Three.js that teaches agents camera direction, PBR materials, shaders, TSL/WebGPU effects, and visual validation via fixed-view captures\u2014not an API cheat sheet but implementation vocabulary with examples.",
   "question_it_answers": "Which agent skills help author Three.js cameras, PBR scenes, and diagnostic still captures?",
   "claims": [
     {
       "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c1",
       "text": "threejs-camera-direction covers authored lenses, chase/orbit rigs, and handoffs for flythrough-style camera language in WebGL scenes.",
       "kind": "capability",
-      "evidence": "threejs-camera-direction — Authored lenses, chase/orbit rigs, handoffs",
+      "evidence": "threejs-camera-direction \u2014 Authored lenses, chase/orbit rigs, handoffs",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -46,7 +46,7 @@
     },
     {
       "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c2",
-      "text": "Official capture-examples.mjs of filmic-lens-flare wrote a 647,301-byte 1440×900 PNG with empty runtimeErrors (WebGPU/TSL compositor, debugMode final). GPU frame time was not measured.",
+      "text": "Official capture-examples.mjs of filmic-lens-flare wrote a 647,301-byte 1440\u00d7900 PNG with empty runtimeErrors (WebGPU/TSL compositor, debugMode final). GPU frame time was not measured.",
       "kind": "result",
       "evidence": "Captured threejs-procedural-vfx/filmic-lens-flare; manifest runtimeErrors []; PNG 647301 bytes; backend WebGPU / TSL fullscreen compositor. See analysis/_work/captures/threejs-filmic/",
       "evidence_source": "note",
@@ -56,7 +56,7 @@
     },
     {
       "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c3",
-      "text": "The same official capture script with --debug no-flare wrote an 848,177-byte 1440×900 PNG of filmic-lens-flare. GPU frame time still unmeasured.",
+      "text": "The same official capture script with --debug no-flare wrote an 848,177-byte 1440\u00d7900 PNG of filmic-lens-flare. GPU frame time still unmeasured.",
       "kind": "result",
       "evidence": "threejs-procedural-vfx-filmic-lens-flare-no-flare.png 848177 bytes; manifest-no-flare.json debugMode no-flare; runtimeErrors [].",
       "evidence_source": "note",
@@ -66,9 +66,19 @@
     },
     {
       "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c4",
-      "text": "Official capture-examples.mjs also wrote filmic-lens-flare plate (482,580 B) and flare-only (373,499 B) 1440×900 PNGs with empty runtimeErrors. GPU frame time still unmeasured.",
+      "text": "Official capture-examples.mjs also wrote filmic-lens-flare plate (482,580 B) and flare-only (373,499 B) 1440\u00d7900 PNGs with empty runtimeErrors. GPU frame time still unmeasured.",
       "kind": "result",
       "evidence": "debugMode plate PNG 482580; flare-only PNG 373499; manifests in analysis/_work/captures/threejs-filmic/",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
+    },
+    {
+      "id": "github-scottstts-threejs-awesome-graphics-agent-skills#c5",
+      "text": "leftover29 unused GitHub scottstts/Threejs-Awesome-Graphics-Agent-Skills API 6,503 B is MIT 782\u2605. Description: a three.js agent skills for producing awesome graphics for scenes and games. leftover29 does not rerun capture-examples.mjs.",
+      "kind": "availability",
+      "evidence": "leftover29 gh-scottstts 6503 B. MIT 782\u2605.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
       "confidence": "demonstrated",
@@ -89,7 +99,9 @@
     "repo": "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills",
     "paper": null,
     "product": "https://www.npmjs.com/package/threejs-awesome-graphics-agent-skills",
-    "other": [],
+    "other": [
+      "https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills"
+    ],
     "related_items": [
       "github-mengto-skills",
       "github-oso95-scroll-world"

@@ -123,6 +123,16 @@
       "evidence_ref": "analysis/tools/impeccable.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c10",
+      "text": "leftover29 unused raw anthropics/skills frontend-design/SKILL.md 9,390 B. Front matter name frontend-design; license Complete terms in LICENSE.txt. Body is aesthetic-direction guidance (palette / type / anti-template tells). Neighbor Anthropic skill, not Impeccable 61 detectors and not Taste Skill v2. leftover29 does not run it on a fixture.",
+      "kind": "capability",
+      "evidence": "leftover29 frontend-design 9390 B. SKILL.md name frontend-design.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

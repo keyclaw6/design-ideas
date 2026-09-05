@@ -11,11 +11,12 @@
 **Claims.**
 - `github-sindresorhus-awesome#c1` (capability, stated) The README indexes hundreds of specialized awesome lists across platforms, languages, and tool categories. — evidence: "Awesome lists about all kinds of interesting topics." [linked-page]
 - `github-sindresorhus-awesome#c2` (capability, stated) awesome.md defines what qualifies as an awesome curated list. — evidence: "`awesome.md` — definition of what makes a list "awesome"" [linked-page]
+- `github-sindresorhus-awesome#c3` (availability, demonstrated) leftover29 unused awesome.re 542,276 B redirects to github.com/sindresorhus/awesome#readme. Title notes pull requests are temporarily disabled. Index, not a harness. leftover29 does not count the list files. — evidence: "leftover29 awesome-re 542276 B. Redirect sindresorhus/awesome; PRs temporarily disabled." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** repo (https://github.com/sindresorhus/awesome), product (https://awesome.re), https://awesome.re, https://github.com/sindresorhus/awesome/blob/main/awesome.md
+**Links.** repo (https://github.com/sindresorhus/awesome), product (https://awesome.re), https://awesome.re, https://github.com/sindresorhus/awesome/blob/main/awesome.md, https://github.com/sindresorhus/awesome
 **Related items.** [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md), [web-recent-design](../web-recent-design/card.md), [web-getdesign-md](../web-getdesign-md/card.md), [web-cult-ui](../web-cult-ui/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md)
 **Media.**
 `raw/items/github-sindresorhus-awesome/media/logo.svg` (other, carries_technique=false) — Red awesome-list logo SVG used as the repository branding mark.

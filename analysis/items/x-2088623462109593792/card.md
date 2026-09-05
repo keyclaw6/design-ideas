@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2088623462109593792#c1` (capability, stated) PipesHub connects organizational knowledge into one governed context layer for agents, RAG, and search. — evidence: "Connects enterprise knowledge across your organization to build AI agents, RAG applications, and search on a single governed context layer." [post]
+- `x-2088623462109593792#c2` (availability, demonstrated) leftover29 unused GitHub pipeshub-ai/pipeshub-ai API 6,827 B is Apache-2.0 3,724★. Description: open-source platform for connecting enterprise knowledge to AI with permission-aware search. leftover29 does not run a connector. — evidence: "leftover29 gh-pipeshub 6827 B. Apache-2.0 3724★." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** [pipeshub](../../tools/pipeshub.md)
-**Links.** repo (https://github.com/pipeshub-ai/pipeshub-ai)
+**Links.** repo (https://github.com/pipeshub-ai/pipeshub-ai), https://github.com/pipeshub-ai/pipeshub-ai
 **Related items.** [web-cerebras-knowledge-base](../web-cerebras-knowledge-base/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md), [web-anthropic-claude-self-service-data](../web-anthropic-claude-self-service-data/card.md), [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md)
 **Media.** —
 **Thread.** captured_full · reported 2 · captured 2 · relevant 1 · author thread: none → [thread.md](thread.md)

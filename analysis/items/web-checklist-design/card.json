@@ -25,7 +25,7 @@
   ],
   "artifact_type": "product",
   "platforms": [],
-  "summary": "George Hatzis checklist.design offers searchable design checklists for websites, web apps, mobile, design-system components, and flows — as a web app, Figma plugin, Figma skill, and downloadable agent skill.",
+  "summary": "George Hatzis checklist.design offers searchable design checklists for websites, web apps, mobile, design-system components, and flows \u2014 as a web app, Figma plugin, Figma skill, and downloadable agent skill.",
   "question_it_answers": "Where can I get page-type design checklists usable by both Figma and coding agents?",
   "claims": [
     {
@@ -46,6 +46,16 @@
       "evidence_source": "note",
       "evidence_ref": "research.md",
       "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-checklist-design#c3",
+      "text": "leftover29 unused Figma community plugin Checklist Design 734,330 B titles Checklist Design | Figma. Visible-text extract is empty (client-rendered community SPA). leftover29 does not install the plugin or the sibling skill/74536 page.",
+      "kind": "availability",
+      "evidence": "leftover29 figma-plugin 734330 B. Title: Checklist Design | Figma. Visible empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/checklist-design.md",
+      "confidence": "demonstrated",
       "subject": "design-agent-skills"
     }
   ],

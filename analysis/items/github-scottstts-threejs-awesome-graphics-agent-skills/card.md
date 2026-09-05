@@ -13,11 +13,12 @@
 - `github-scottstts-threejs-awesome-graphics-agent-skills#c2` (result, demonstrated) Official capture-examples.mjs of filmic-lens-flare wrote a 647,301-byte 1440×900 PNG with empty runtimeErrors (WebGPU/TSL compositor, debugMode final). GPU frame time was not measured. — evidence: "Captured threejs-procedural-vfx/filmic-lens-flare; manifest runtimeErrors []; PNG 647301 bytes; backend WebGPU / TSL fullscreen compositor. See analysis/_work/captures/threejs-filmic/" [note]
 - `github-scottstts-threejs-awesome-graphics-agent-skills#c3` (result, demonstrated) The same official capture script with --debug no-flare wrote an 848,177-byte 1440×900 PNG of filmic-lens-flare. GPU frame time still unmeasured. — evidence: "threejs-procedural-vfx-filmic-lens-flare-no-flare.png 848177 bytes; manifest-no-flare.json debugMode no-flare; runtimeErrors []." [note]
 - `github-scottstts-threejs-awesome-graphics-agent-skills#c4` (result, demonstrated) Official capture-examples.mjs also wrote filmic-lens-flare plate (482,580 B) and flare-only (373,499 B) 1440×900 PNGs with empty runtimeErrors. GPU frame time still unmeasured. — evidence: "debugMode plate PNG 482580; flare-only PNG 373499; manifests in analysis/_work/captures/threejs-filmic/" [note]
+- `github-scottstts-threejs-awesome-graphics-agent-skills#c5` (availability, demonstrated) leftover29 unused GitHub scottstts/Threejs-Awesome-Graphics-Agent-Skills API 6,503 B is MIT 782★. Description: a three.js agent skills for producing awesome graphics for scenes and games. leftover29 does not rerun capture-examples.mjs. — evidence: "leftover29 gh-scottstts 6503 B. MIT 782★." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md), [blender-blockout-camera](../../techniques/blender-blockout-camera.md)
 **Tools.** [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md)
-**Links.** repo (https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills), product (https://www.npmjs.com/package/threejs-awesome-graphics-agent-skills)
+**Links.** repo (https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills), product (https://www.npmjs.com/package/threejs-awesome-graphics-agent-skills), https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills
 **Related items.** [github-mengto-skills](../github-mengto-skills/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md)
 **Media.** —
 **Judge hints.** must_read: True · compare with: [github-mengto-skills](../github-mengto-skills/card.md), [web-utsubo](../web-utsubo/card.md)

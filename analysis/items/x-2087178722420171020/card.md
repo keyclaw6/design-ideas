@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2087178722420171020#c1` (capability, stated) cloudflare/cloudflare-os is an agent workspace on Cloudflare Workers. — evidence: "Github Repo: https://github.com/cloudflare/cloudflare-os" [post]
+- `x-2087178722420171020#c2` (availability, demonstrated) leftover29 unused GitHub cloudflare/cloudflare-os API 6,672 B is Apache-2.0 9,655★. Description: agent workspace built on Cloudflare Workers. leftover29 does not deploy a worker. — evidence: "leftover29 gh-cloudflare-os 6672 B. Apache-2.0 9655★." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** repo (https://github.com/cloudflare/cloudflare-os)
+**Links.** repo (https://github.com/cloudflare/cloudflare-os), https://github.com/cloudflare/cloudflare-os
 **Related items.** [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md), [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md), [web-obscura-sh](../web-obscura-sh/card.md), [github-punkpeye-awesome-mcp-servers](../github-punkpeye-awesome-mcp-servers/card.md)
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)

@@ -11,11 +11,12 @@
 **Claims.**
 - `web-treg-people-search#c1` (pricing, stated) Verified work email lookups start around $0.0089 per hit on catalog rates. — evidence: "Example: $0.0089 per verified email (Tomba catalog rate at capture)" [linked-page]
 - `web-treg-people-search#c2` (benchmark, stated) LessieAI bench cited: Claude Code + treg ~78.2% vs Claude alone ~43%. — evidence: "Claude Code alone ~43% vs Claude Code + treg ~78.2% on B2B prospecting (% tasks answered correctly)" [linked-page]
+- `web-treg-people-search#c3` (capability, demonstrated) leftover29 unused treg.to/llms.txt 40,139 B. Lead copy: 2,600+ catalogued endpoints across 60+ providers; later agent-setup line says 2,800+ tools across 60 providers; $1.00 free on every new team; MCP at https://treg.to/mcp/ with five tools (catalog_search / catalog_get / call / balance / my_tools). Do not collapse 2,600+ / 2,800+ with leftover README 2,896 / 60 or homepage hero 2,630 / 47. Authed catalog dump still missing. — evidence: "leftover29 treg-llms 40139 B. 2600+ / 60+ and 2800+ / 60; $1.00 free; five MCP tools." [note]
 **Numbers.** catalog endpoints: 2896  (linked-page); providers: 60  (linked-page); free credit: 1.00 USD (linked-page)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [treg](../../tools/treg.md), [apollo-io](../../tools/apollo-io.md)
-**Links.** repo (https://github.com/superdesigndev/treg), product (https://treg.to/people-search), https://treg.to/llms.txt, https://github.com/LessieAI/people-search-bench
+**Links.** repo (https://github.com/superdesigndev/treg), product (https://treg.to/people-search), https://treg.to/llms.txt, https://github.com/LessieAI/people-search-bench, https://treg.to/people-search
 **Related items.** [github-superdesigndev-treg](../github-superdesigndev-treg/card.md), [github-LessieAI-people-search-bench](../github-LessieAI-people-search-bench/card.md), [web-arxiv-2603-27476](../web-arxiv-2603-27476/card.md), [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

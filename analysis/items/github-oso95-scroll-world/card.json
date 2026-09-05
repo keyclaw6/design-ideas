@@ -53,6 +53,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "github-oso95-scroll-world#c3",
+      "text": "leftover29 unused GitHub oso95/scroll-world API 5,187 B is MIT 8,996\u2605 this pass. leftover29 unused monid.ai 91,135 B titles Monid \u2014 Connect your agent to every tool it needs and claims Live 1,700+ tools plus set up https://monid.ai/SKILL.md. leftover29 unused higgsfield.ai 530,407 B (byte drift vs leftover9 530,348 B) titles Higgsfield AI \u2014 AI-native creative suite and names Cinema Studio 4.0 / MCP & CLI / 3D Jutsu. leftover29 does not run a scroll-world generate or a Monid catalog dump.",
+      "kind": "availability",
+      "evidence": "leftover29 gh-scroll-world 8996 MIT; monid 91135 B 1700+; higgsfield 530407 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-world-skill.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": null,
@@ -79,7 +89,9 @@
     "paper": null,
     "product": "https://monid.ai",
     "other": [
-      "https://higgsfield.ai"
+      "https://higgsfield.ai",
+      "https://github.com/oso95/scroll-world",
+      "https://monid.ai"
     ],
     "related_items": [
       "github-nateherkai-scroll-craft",

@@ -26,7 +26,7 @@
     "claude-code",
     "mcp"
   ],
-  "summary": "Anthropic engineering post on automating business analytics with Claude by mapping questions to governed entities—not raw SQL generation. Canonical datasets, semantic layers, skills, freshness checks, and evals address ambiguity, staleness, and retrieval misses.",
+  "summary": "Anthropic engineering post on automating business analytics with Claude by mapping questions to governed entities\u2014not raw SQL generation. Canonical datasets, semantic layers, skills, freshness checks, and evals address ambiguity, staleness, and retrieval misses.",
   "question_it_answers": "How did Anthropic automate most business analytics queries without agents inventing metric definitions?",
   "claims": [
     {
@@ -47,6 +47,16 @@
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-anthropic-claude-self-service-data#c3",
+      "text": "leftover29 unused claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions 517,319 B titles Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions. Visible extract is a large product-nav shell around that title. leftover29 does not replay a Slack Tag session. Neighbor Macomber / Gasquez pages stay on their own cards.",
+      "kind": "availability",
+      "evidence": "leftover29 anthropic-slack 517319 B. Title: Claude Tag for ad-hoc questions.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
     }
   ],

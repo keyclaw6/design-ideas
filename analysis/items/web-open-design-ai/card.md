@@ -11,11 +11,12 @@
 **Claims.**
 - `web-open-design-ai#c1` (capability, stated) OpenDesign supports 21+ coding agents for prototypes, landing pages, slides, dashboards, and brand systems. — evidence: "turns 21+ coding agents into a design engine for prototypes, landing pages, slides, dashboards, HTML video, and brand systems" [linked-page]
 - `web-open-design-ai#c2` (capability, stated) Artifacts stay as portable DESIGN.md files in your repo instead of a hosted locked model. — evidence: "Where Claude Design is closed/hosted/model-locked, OpenDesign runs locally; artifacts land as files in your repo." [linked-page]
+- `web-open-design-ai#c3` (availability, demonstrated) leftover29 unused open-design.ai 339,680 B restates leftover18 (Best Open Source Claude Design Alternative) and names Fable 5.1 Pro/Max $20 / $100 bonus credits. leftover29 does not create a workspace. GitHub nexu-io/open-design star recount stays on the worksheet (94,085★). — evidence: "leftover29 open-design-ai 339680 B. Same leftover18 byte count." [note]
 **Numbers.** supported agents: 21+  (linked-page); design systems: 152  (linked-page)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [open-design](../../tools/open-design.md)
-**Links.** repo (https://github.com/nexu-io/open-design), product (https://open-design.ai), https://x.com/tranmautritam/status/2095078647652917329, https://github.com/nexu-io/open-design
+**Links.** repo (https://github.com/nexu-io/open-design), product (https://open-design.ai), https://x.com/tranmautritam/status/2095078647652917329, https://github.com/nexu-io/open-design, https://open-design.ai
 **Related items.** [github-nexu-io-open-design](../github-nexu-io-open-design/card.md), [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-neuform-ai](../web-neuform-ai/card.md), [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

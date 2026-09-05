@@ -21,4 +21,6 @@ Neighbor (parked): 2026-09-05 `https://skills.sh/hardikpandya/stop-slop` GET 200
 **2026-09-05 leftover27.** Unused `tasteskill.dev` **255,878 B**: Taste Skill **v2** experimental; **13** named skills (adapt, animate, compose, critique, extract, overdrive, polish, tautology, typography, on-brand, arrange, clarify, bolder); **16** sponsors; `npx skills add Leonxlnx/taste-skill`. Neighbor Emil: `animations.dev/skills` **125,328 B** thin newsletter; `skills.sh/emilkowalski/skills` **63,314 B** names **12** skills / **1.2M** total installs (emil-design-eng **250.4K** … write-swift **24.4K**). skills.sh counts are a third-party catalog, not GitHub totals. Receipt `leftover27-2026-09-05.json`.
 
 **2026-09-05 leftover28.** Unused `opale-ui.design` **23,680 B** is a Next.js template shop (48h AI Chat free), not the taste essay. Unused GitHub `vercel-labs/agent-skills` **30,848★** license null — neighbor catalog, not Taste Skill v2. Receipt `leftover28-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Unused Pocock `grilling/SKILL.md` **1,987 B** restates leftover14 design-tree interview. Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

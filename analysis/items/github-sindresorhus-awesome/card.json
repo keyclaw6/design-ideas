@@ -24,7 +24,7 @@
   ],
   "artifact_type": "repo",
   "platforms": [],
-  "summary": "The canonical awesome-list meta-index maintained by Sindresorhus, linking hundreds of topic-specific curated GitHub resource lists. It defines community list-quality standards in awesome.md but does not implement any pipeline—only discovery across languages, front-end, tools, and CS topics.",
+  "summary": "The canonical awesome-list meta-index maintained by Sindresorhus, linking hundreds of topic-specific curated GitHub resource lists. It defines community list-quality standards in awesome.md but does not implement any pipeline\u2014only discovery across languages, front-end, tools, and CS topics.",
   "question_it_answers": "Where is the canonical index to find curated awesome GitHub lists when hunting a new domain?",
   "claims": [
     {
@@ -41,10 +41,20 @@
       "id": "github-sindresorhus-awesome#c2",
       "text": "awesome.md defines what qualifies as an awesome curated list.",
       "kind": "capability",
-      "evidence": "`awesome.md` — definition of what makes a list \"awesome\"",
+      "evidence": "`awesome.md` \u2014 definition of what makes a list \"awesome\"",
       "evidence_source": "linked-page",
       "evidence_ref": null,
       "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "github-sindresorhus-awesome#c3",
+      "text": "leftover29 unused awesome.re 542,276 B redirects to github.com/sindresorhus/awesome#readme. Title notes pull requests are temporarily disabled. Index, not a harness. leftover29 does not count the list files.",
+      "kind": "availability",
+      "evidence": "leftover29 awesome-re 542276 B. Redirect sindresorhus/awesome; PRs temporarily disabled.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/loop-library.md",
+      "confidence": "demonstrated",
       "subject": "agent-harness-loops"
     }
   ],
@@ -59,7 +69,8 @@
     "product": "https://awesome.re",
     "other": [
       "https://awesome.re",
-      "https://github.com/sindresorhus/awesome/blob/main/awesome.md"
+      "https://github.com/sindresorhus/awesome/blob/main/awesome.md",
+      "https://github.com/sindresorhus/awesome"
     ],
     "related_items": [
       "github-punkpeye-awesome-mcp-servers",

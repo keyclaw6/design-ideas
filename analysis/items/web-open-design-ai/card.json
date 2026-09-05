@@ -3,7 +3,7 @@
   "id": "web-open-design-ai",
   "source_type": "website",
   "url": "https://open-design.ai",
-  "title": "OpenDesign product site — local vibe-design workspace for 21+ agents",
+  "title": "OpenDesign product site \u2014 local vibe-design workspace for 21+ agents",
   "author": {
     "name": "nexu-io",
     "handle": "nexu-io",
@@ -51,6 +51,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-open-design-ai#c3",
+      "text": "leftover29 unused open-design.ai 339,680 B restates leftover18 (Best Open Source Claude Design Alternative) and names Fable 5.1 Pro/Max $20 / $100 bonus credits. leftover29 does not create a workspace. GitHub nexu-io/open-design star recount stays on the worksheet (94,085\u2605).",
+      "kind": "availability",
+      "evidence": "leftover29 open-design-ai 339680 B. Same leftover18 byte count.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/open-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -79,7 +89,8 @@
     "product": "https://open-design.ai",
     "other": [
       "https://x.com/tranmautritam/status/2095078647652917329",
-      "https://github.com/nexu-io/open-design"
+      "https://github.com/nexu-io/open-design",
+      "https://open-design.ai"
     ],
     "related_items": [
       "github-nexu-io-open-design",

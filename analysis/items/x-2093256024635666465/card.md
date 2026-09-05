@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093256024635666465#c1` (capability, stated) The linked YouTube timelapse documents Ponyo fan-movie production with camera and layout work. — evidence: "崖の上のポニョのファンムービーの制作過程をタイムラプスで大公開" [post]
+- `x-2093256024635666465#c2` (availability, demonstrated) leftover29 unused note.com/acarcane/n/nfb705e6cf9f1 316,890 B is a Ponyo fan-movie Blender timelapse write-up (2026-08-28; Geometry Nodes / crayon look). YouTube youtu.be/a7doGx4R9rY was not fetched. Not a MiniMax H3 blockout recipe. — evidence: "leftover29 note-acarcane 316890 B. Ponyo Blender timelapse; not H3." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md)

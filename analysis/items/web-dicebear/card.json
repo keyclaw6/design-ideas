@@ -3,7 +3,7 @@
   "id": "web-dicebear",
   "source_type": "website",
   "url": "https://www.dicebear.com",
-  "title": "DiceBear — MIT avatar library with 61 deterministic seedable styles",
+  "title": "DiceBear \u2014 MIT avatar library with 61 deterministic seedable styles",
   "author": {
     "name": "DiceBear",
     "handle": "dicebear",
@@ -48,6 +48,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "web-dicebear#c3",
+      "text": "leftover29 unused GitHub dicebear/dicebear API 6,314 B is MIT 9,506\u2605. leftover29 unused dicebear.com/playground 25,069 B titles Playground | DiceBear and shows Star 9.5k. leftover23 homepage already had 61 / 9.5k / MIT / 1B on the Blume leftover \u2014 leftover29 is the READY-card GitHub + playground recount. Do not collapse 9,506\u2605 with 9.5k marketing.",
+      "kind": "availability",
+      "evidence": "leftover29 dicebear-gh 9506 MIT; dicebear-play 25069 B Star 9.5k.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/dicebear.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
@@ -70,7 +80,8 @@
     "product": "https://editor.dicebear.com/",
     "other": [
       "https://www.dicebear.com/playground/",
-      "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix"
+      "https://api.dicebear.com/10.x/lorelei/svg?seed=Felix",
+      "https://github.com/dicebear/dicebear"
     ],
     "related_items": [
       "web-tinyshots",

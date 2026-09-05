@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 **2026-09-05 leftover27.** Unused `feralui.dev` **10,527 B** titles *FeralUI · playful, physics-driven React elements*. Visible extract empty. Receipt `leftover27-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Unused GitHub `mortspace/feral-blob` MIT **17★**. Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

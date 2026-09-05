@@ -23,4 +23,6 @@ Neighbor (parked; no imageory.md): 2026-09-05 `https://Imageory.in` GET 200 / **
 **2026-09-05 leftover19.** Neighbor `wuyoscar/GPT-Image2-Skill` MIT **5,153★**. Gallery + 2 skills + CLI; edits `POST /v1/images/edits` with repeatable `-i`. Official image-generation docs **1,248,104 B**. Neither names identity lock. Do not collapse with `freestylefly/awesome-gpt-image-2` **28,017★**.
 
 **2026-09-05 leftover24.** Unused GitHub recount `wuyoscar/GPT-Image2-Skill` MIT **5,154★**. Still no identity lock. Receipt `leftover24-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Unused GitHub `freestylefly/awesome-gpt-image-2` MIT **28,060★** (was **28,017★**). Description **530+** / **20+**. Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

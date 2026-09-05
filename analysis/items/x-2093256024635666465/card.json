@@ -43,17 +43,27 @@
   "platforms": [
     "blender"
   ],
-  "summary": "Japanese curator post linking a Ponyo and Sosuke Blender fan-movie timelapse on YouTube and a note.com write-up — useful as a manual camera and layout process reference for blockout-to-video pipelines.",
+  "summary": "Japanese curator post linking a Ponyo and Sosuke Blender fan-movie timelapse on YouTube and a note.com write-up \u2014 useful as a manual camera and layout process reference for blockout-to-video pipelines.",
   "question_it_answers": "Where is a detailed Blender fan-film timelapse showing camera and layout craft?",
   "claims": [
     {
       "id": "x-2093256024635666465#c1",
       "text": "The linked YouTube timelapse documents Ponyo fan-movie production with camera and layout work.",
       "kind": "capability",
-      "evidence": "崖の上のポニョのファンムービーの制作過程をタイムラプスで大公開",
+      "evidence": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7\u306e\u30d5\u30a1\u30f3\u30e0\u30fc\u30d3\u30fc\u306e\u5236\u4f5c\u904e\u7a0b\u3092\u30bf\u30a4\u30e0\u30e9\u30d7\u30b9\u3067\u5927\u516c\u958b",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093256024635666465#c2",
+      "text": "leftover29 unused note.com/acarcane/n/nfb705e6cf9f1 316,890 B is a Ponyo fan-movie Blender timelapse write-up (2026-08-28; Geometry Nodes / crayon look). YouTube youtu.be/a7doGx4R9rY was not fetched. Not a MiniMax H3 blockout recipe.",
+      "kind": "availability",
+      "evidence": "leftover29 note-acarcane 316890 B. Ponyo Blender timelapse; not H3.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
     }
   ],

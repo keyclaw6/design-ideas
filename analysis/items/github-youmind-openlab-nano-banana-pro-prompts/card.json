@@ -81,6 +81,16 @@
       "evidence_ref": "analysis/tools/clawhub.md",
       "confidence": "demonstrated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "github-youmind-openlab-nano-banana-pro-prompts#c6",
+      "text": "leftover29 unused GitHub youmind-openlab/nano-banana-pro-prompts-recommend-skill API 8,178 B is 1,848\u2605 with license null. Description claims recommend from 10000+ Nano Banana Pro prompts. Do not collapse repo 10,000+ with leftover27 title 10,000+ / footer 15,508 / tree 14,965.",
+      "kind": "availability",
+      "evidence": "leftover29 gh-youmind 8178 B. 1848\u2605 license null; description 10000+.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": null,
@@ -125,7 +135,8 @@
     "product": "https://youmind.com/nano-banana-pro-prompts",
     "other": [
       "https://clawhub.com/skill/nano-banana-pro-prompts-recommend",
-      "https://youmind.com/nano-banana-pro-prompts"
+      "https://youmind.com/nano-banana-pro-prompts",
+      "https://github.com/youmind-openlab/nano-banana-pro-prompts-recommend-skill"
     ],
     "related_items": [
       "github-wuyoscar-gpt-image2-skill",

@@ -20,4 +20,6 @@ Vanilla Three.js + TSL/WebGPU **example library** attached to named skills (`thr
 **improve-threejs** (no tool file — park here): `aidenybai/react-doctor` `skills/improve-threejs/SKILL.md` (9,128 B). Skill dir is **only** that file. Scan engine: `npx react-doctor@latest --verbose`. Severity follows the render loop (`useFrame` / RAF). Visual rubric 10 rows (render sanity … resize/DPR); a row fails only with screenshot/frame evidence, or is labelled inferred-from-source if no browser. Tweet install `npx skills add … --skill improve-threejs` matches this folder name.
 
 **2026-09-05 leftover14 — Google Antigravity (no antigravity.md).** `www.antigravity.google` **136,935 B** (apex **28,747 B**). Title Google Antigravity. Surfaces: Antigravity 2.0 / CLI / Extensions / IDE / SDK. Blog *Gemini 3.7 Flash in Google Antigravity* **105,119 B** (Aug 13, 2026). Homepage copy: available at no charge for developers. `developers.google.com/antigravity` **404**. Bugatti / W16 / Three.js / ~4 min **absent**. leftover9 `covers.step` W16 is text-to-cad, not this Three.js scene ([x-2088240171565412733](../items/x-2088240171565412733/card.md)). Receipt `leftover14-2026-09-05.json` + `leftover14b-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Unused GitHub `scottstts/Threejs-Awesome-Graphics-Agent-Skills` MIT **782★**. Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

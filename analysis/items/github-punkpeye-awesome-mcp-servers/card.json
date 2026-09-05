@@ -46,10 +46,20 @@
       "id": "github-punkpeye-awesome-mcp-servers#c2",
       "text": "Glama.ai/mcp/servers mirrors the list as a browsable web directory.",
       "kind": "availability",
-      "evidence": "https://glama.ai/mcp/servers — synced web directory",
+      "evidence": "https://glama.ai/mcp/servers \u2014 synced web directory",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "github-punkpeye-awesome-mcp-servers#c3",
+      "text": "leftover29 unused GitHub punkpeye/awesome-mcp-servers API 5,662 B is MIT 94,179\u2605. leftover29 unused glama.ai/mcp/servers 244,196 B titles Open-Source MCP Servers \u2013 81,811 in the Glama Registry (updated 2026-09-05 05:28) and splits Remote 34,954 / Python 34,181 / TypeScript 28,944 / Local 27,943. leftover29 unused modelcontextprotocol.io 279,547 B redirects to docs/2026-07-28/getting-started/intro. leftover29 does not install a listed server.",
+      "kind": "availability",
+      "evidence": "leftover29 gh-punkpeye 94179 MIT; glama 244196 B 81811 servers; mcp-io 279547 B spec 2026-07-28.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/kitesurf.md",
+      "confidence": "demonstrated",
       "subject": "mcp-and-agent-browsers"
     }
   ],
@@ -71,7 +81,9 @@
     "product": "https://glama.ai/mcp/servers",
     "other": [
       "https://modelcontextprotocol.io/",
-      "https://github.com/punkpeye/awesome-mcp-clients"
+      "https://github.com/punkpeye/awesome-mcp-clients",
+      "https://github.com/punkpeye/awesome-mcp-servers",
+      "https://glama.ai/mcp/servers"
     ],
     "related_items": [
       "github-superdesigndev-treg",

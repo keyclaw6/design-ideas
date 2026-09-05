@@ -51,6 +51,16 @@
       "evidence_ref": "raw/items/web-treg-people-search/page.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-treg-people-search#c3",
+      "text": "leftover29 unused treg.to/llms.txt 40,139 B. Lead copy: 2,600+ catalogued endpoints across 60+ providers; later agent-setup line says 2,800+ tools across 60 providers; $1.00 free on every new team; MCP at https://treg.to/mcp/ with five tools (catalog_search / catalog_get / call / balance / my_tools). Do not collapse 2,600+ / 2,800+ with leftover README 2,896 / 60 or homepage hero 2,630 / 47. Authed catalog dump still missing.",
+      "kind": "capability",
+      "evidence": "leftover29 treg-llms 40139 B. 2600+ / 60+ and 2800+ / 60; $1.00 free; five MCP tools.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/treg.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],
@@ -86,7 +96,8 @@
     "product": "https://treg.to/people-search",
     "other": [
       "https://treg.to/llms.txt",
-      "https://github.com/LessieAI/people-search-bench"
+      "https://github.com/LessieAI/people-search-bench",
+      "https://treg.to/people-search"
     ],
     "related_items": [
       "github-superdesigndev-treg",

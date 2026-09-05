@@ -62,6 +62,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "github-nexu-io-motion-anything#c4",
+      "text": "leftover29 unused GitHub nexu-io/motion-anything API 6,591 B is Apache-2.0 756\u2605. Description: the agentic motion layer \u2014 chat-native motion engine. leftover29 unused sibling nexu-io/open-design star recount stays on the design worksheet (94,085\u2605). leftover29 does not run a motion compile.",
+      "kind": "availability",
+      "evidence": "leftover29 gh-motion-anything 6591 B. Apache-2.0 756\u2605.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/motion-anything.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": null,
@@ -92,7 +102,8 @@
     "paper": null,
     "product": "https://github.com/nexu-io/motion-anything",
     "other": [
-      "https://github.com/nexu-io/open-design"
+      "https://github.com/nexu-io/open-design",
+      "https://github.com/nexu-io/motion-anything"
     ],
     "related_items": [
       "github-nexu-io-open-design",

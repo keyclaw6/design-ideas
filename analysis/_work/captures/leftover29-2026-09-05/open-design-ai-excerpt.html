@@ -1,0 +1,352 @@
+<!DOCTYPE html><html lang="en" dir="ltr"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#efe7d2"><script>
+(() => {
+  const STORAGE_KEY = 'od.preferredLocale';
+  const ATTRIBUTION_HANDOFF_KEY = 'od.localeAttribution';
+  const DEFAULT_LOCALE = "en";
+  const LOCALES = [{"code":"en","htmlLang":"en"},{"code":"zh","htmlLang":"zh-CN"},{"code":"ja","htmlLang":"ja"},{"code":"ko","htmlLang":"ko"},{"code":"de","htmlLang":"de"},{"code":"fr","htmlLang":"fr"},{"code":"ru","htmlLang":"ru"},{"code":"es","htmlLang":"es"},{"code":"pt-br","htmlLang":"pt-BR"},{"code":"it","htmlLang":"it"},{"code":"tr","htmlLang":"tr"}];
+  const codes = new Set(LOCALES.map((locale) => locale.code));
+  // Legacy alias prefixes the catch-all route still emits (zh-CN, es-ES, fa,
+  // hu, th) that are NOT canonical LANDING_LOCALES. They must count as a
+  // strippable locale segment, or switching language on an alias page like
+  // /zh-CN/blog/ would rebuild a nested, non-existent /<locale>/zh-CN/blog/.
+  // Mirrors LEGACY_LOCALE_PREFIXES in app/i18n.ts.
+  const legacyAliases = new Set(['zh-cn', 'zh-tw', 'es-es', 'fa', 'hu', 'th']);
+  const isLocaleSegment = (segment) => {
+    const value = (segment || '').toLowerCase();
+    return value !== '' && (codes.has(value) || legacyAliases.has(value));
+  };
+
+  const normalizeLocale = (value) => {
+    if (typeof value !== 'string' || value.trim() === '') return null;
+    const raw = value.toLowerCase().replace(/_/g, '-');
+    if (raw === 'zh-cn' || raw === 'zh-hans' || raw.startsWith('zh-hans-')) return 'zh';
+    if (
+      raw === 'zh-hk' ||
+      raw === 'zh-mo' ||
+      raw === 'zh-tw' ||
+      raw === 'zh-hant' ||
+      raw.startsWith('zh-hant-')
+    ) {
+      return codes.has('zh-tw') ? 'zh-tw' : 'zh';
+    }
+    if (raw === 'pt' || raw.startsWith('pt-br')) return 'pt-br';
+    if (codes.has(raw)) return raw;
+    const base = raw.split('-')[0];
+    return codes.has(base) ? base : null;
+  };
+
+  const currentFromPath = () => {
+    const first = window.location.pathname.split('/').filter(Boolean)[0]?.toLowerCase();
+    return first && codes.has(first) ? first : DEFAULT_LOCALE;
+  };
+
+  const basePathFromCurrent = () => {
+    const parts = window.location.pathname.split('/').filter(Boolean);
+    if (parts[0] && isLocaleSegment(parts[0])) parts.shift();
+    return parts.length > 0 ? `/${parts.join('/')}/` : '/';
+  };
+
+  // Pages with no per-locale variant (e.g. plugin detail pages) mark
+  // <html data-locale-canonical="true">. Switching language must stay on the
+  // single canonical URL — building /<locale>/... would 404.
+  const isCanonicalOnly = () =>
+    document.documentElement.getAttribute('data-locale-canonical') === 'true';
+
+  const searchWithoutLocaleHandoff = () => {
+    const searchParams = new URLSearchParams(window.location.search);
+    searchParams.delete('od_locale');
+    const search = searchParams.toString();
+    return search ? `?${search}` : '';
+  };
+
+  const targetFor = (locale) => {
+    const basePath = basePathFromCurrent();
+    const nextPath =
+      isCanonicalOnly() || locale === DEFAULT_LOCALE ? basePath : `/${locale}${basePath}`;
+    return `${nextPath}${searchWithoutLocaleHandoff()}${window.location.hash}`;
+  };
+
+  const persistLocale = (locale) => {
+    try {
+      window.localStorage.setItem(STORAGE_KEY, locale);
+    } catch {}
+  };
+
+  const handoffAttribution = (target, reason, detectedLocale) => {
+    try {
+      let safeReferrer = '';
+      let referringDomain = '';
+      if (document.referrer) {
+        const referrer = new URL(document.referrer);
+        // Same-site referrers are genuine continuations, not acquisitions that
+        // need to survive this automatic redirect.
+        if (referrer.hostname === window.location.hostname) return;
+        referringDomain = referrer.hostname;
+        // Referrer queries may contain search terms or tokens. The path and
+        // hostname are sufficient for acquisition classification.
+        safeReferrer = referrer.origin + referrer.pathname;
+      }
+      const inbound = new URLSearchParams(window.location.search);
+      const attribution = {};
+      ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'gclid'].forEach((key) => {
+        const value = inbound.get(key);
+        if (value) attribution[key] = value.slice(0, 200);
+      });
+      const originalSearch = new URLSearchParams(attribution).toString();
+      const originalLandingUrl =
+        (window.location.pathname || '/') + (originalSearch ? '?' + originalSearch : '');
+      window.sessionStorage.setItem(ATTRIBUTION_HANDOFF_KEY, JSON.stringify({
+        referrer: safeReferrer,
+        referringDomain,
+        entryPath: window.location.pathname || '/',
+        targetPath: new URL(target, window.location.href).pathname,
+        originalLandingUrl,
+        attribution,
+        redirectReason: reason,
+        detectedLocale,
+        redirectFrom: window.location.pathname || '/',
+        redirectTo: new URL(target, window.location.href).pathname,
+        createdAt: Date.now(),
+      }));
+    } catch {}
+  };
+
+  const selectLocale = (locale, persist, attributionReason) => {
+    const next = normalizeLocale(locale) ?? DEFAULT_LOCALE;
+    if (persist) persistLocale(next);
+    const target = targetFor(next);
+    const current = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+    if (current !== target) {
+      if (attributionReason) handoffAttribution(target, attributionReason, next);
+      window.location.assign(target);
+    }
+  };
+
+  const bindSwitchers = () => {
+    // Each locale entry is a real <a> link with a server-computed href (the
+    // bare locale path), so right-click / modified-click ("open in new tab")
+    // keep working off the anchor. A plain left-click is intercepted and routed
+    // through selectLocale() instead, which both persists the choice AND
+    // carries the current query string + hash across the switch via
+    // targetFor() -- the bare href would otherwise drop the search + hash
+    // (e.g. switching language on /plugins/templates/?kind=deck#gallery).
+    for (const link of document.querySelectorAll('[data-locale-link]')) {
+      if (link.dataset.localeBound === 'true') continue;
+      link.dataset.localeBound = 'true';
+      link.addEventListener('click', (event) => {
+        if (event.defaultPrevented) return;
+        if (event.button !== 0) return;
+        if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+        const code = link.dataset.localeCode;
+        if (!code) return;
+        const details = link.closest('[data-locale-switch]');
+        if (details && details.open) details.open = false;
+        event.preventDefault();
+        selectLocale(code, true, null);
+      });
+    }
+
+    // Hover-to-open, matching the sibling nav dropdowns (which expand on
+    // hover). Click and keyboard still toggle the native <details>; the
+    // outside-click + Escape handlers below still close it. A short close
+    // delay tolerates the cursor crossing the gap between trigger and panel
+    // (a CSS bridge covers that gap too). Pointer must be hover-capable so
+    // touch devices keep the tap-to-toggle behaviour.
+    const hoverCapable = !window.matchMedia || window.matchMedia('(hover: hover)').matches;
+    if (hoverCapable) {
+      for (const details of document.querySelectorAll('[data-locale-switch]')) {
+        if (details.dataset.localeHoverBound === 'true') continue;
+        details.dataset.localeHoverBound = 'true';
+        let closeTimer = null;
+        const cancelClose = () => {
+          if (closeTimer) { window.clearTimeout(closeTimer); closeTimer = null; }
+        };
+        details.addEventListener('mouseenter', () => {
+          cancelClose();
+          details.open = true;
+        });
+        details.addEventListener('mouseleave', () => {
+          cancelClose();
+          closeTimer = window.setTimeout(() => { details.open = false; }, 120);
+        });
+      }
+    }
+
+    // Native <details> stays open until the summary is clicked again. Add
+    // outside-click + Escape close so it behaves like a real menu.
+    document.addEventListener('click', (event) => {
+      const target = event.target;
+      for (const details of document.querySelectorAll('[data-locale-switch][open]')) {
+        if (target instanceof Node && details.contains(target)) continue;
+        details.open = false;
+      }
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== 'Escape') return;
+      for (const details of document.querySelectorAll('[data-locale-switch][open]')) {
+        details.open = false;
+        const summary = details.querySelector('summary');
+        if (summary instanceof HTMLElement) summary.focus();
+      }
+    });
+  };
+
+  const autoAdapt = () => {
+    // Never auto-redirect away from a canonical-only page — its /<locale>/
+    // variant does not exist, so a zh-preference visitor would hit a 404.
+    if (isCanonicalOnly()) return;
+    // Pages that are localized but opt OUT of the on-load auto-redirect (e.g.
+    // design-system detail pages): keep the visitor on the URL they clicked.
+    // hreflang + manual language switching stay intact.
+    if (document.documentElement.getAttribute('data-locale-autoredirect') === 'off') return;
+    const current = currentFromPath();
+    const searchParams = new URLSearchParams(window.location.search);
+    const requested = normalizeLocale(searchParams.get('od_locale'));
+    // A product that links here already knows the user's selected language.
+    // Honor that explicit handoff before this site's saved/browser fallback,
+    // then consume it so a later manual language choice remains authoritative.
+    if (requested) {
+      if (requested !== current) selectLocale(requested, false, 'explicit_handoff');
+      else {
+        const target = `${window.location.pathname}${searchWithoutLocaleHandoff()}${window.location.hash}`;
+        window.history.replaceState(window.history.state, '', target);
+      }
+      return;
+    }
+    if (current !== DEFAULT_LOCALE) return;
+    let saved = null;
+    try {
+      saved = normalizeLocale(window.localStorage.getItem(STORAGE_KEY) ?? '');
+    } catch {}
+    const detected =
+      saved ??
+      (Array.isArray(navigator.languages)
+        ? navigator.languages.map(normalizeLocale).find(Boolean)
+        : normalizeLocale(navigator.language));
+    if (detected && detected !== DEFAULT_LOCALE) {
+      selectLocale(detected, false, saved ? 'saved_preference' : 'browser_detected');
+    }
+  };
+
+  // Run the auto-redirect FIRST and synchronously: when this script is placed
+  // at the top of <head> (as on the homepage), a non-English visitor on the
+  // English root is redirected to their locale before the browser finishes
+  // streaming the document — aborting the wasted first-load of a page they were
+  // never going to keep. autoAdapt only reads location / navigator / storage
+  // and html attributes, all available before <body> exists.
+  autoAdapt();
+  // bindSwitchers needs the switcher DOM, so defer it to DOMContentLoaded when
+  // this script runs in <head> (a no-op delay when it runs late in <body>).
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindSwitchers, { once: true });
+  } else {
+    bindSwitchers();
+  }
+})();
+</script><title>OpenDesign — Best Open Source Claude Design Alternative</title><meta name="description" content="Open-source vibe design workspace &amp; Claude Design alternative — build prototypes, landing pages, dashboards, slides &amp; HTML video with your own coding agent."><link rel="canonical" href="https://open-design.ai/"><link rel="alternate" hreflang="en" href="https://open-design.ai/"><link rel="alternate" hreflang="zh-CN" href="https://open-design.ai/zh/"><link rel="alternate" hreflang="ja" href="https://open-design.ai/ja/"><link rel="alternate" hreflang="ko" href="https://open-design.ai/ko/"><link rel="alternate" hreflang="de" href="https://open-design.ai/de/"><link rel="alternate" hreflang="fr" href="https://open-design.ai/fr/"><link rel="alternate" hreflang="ru" href="https://open-design.ai/ru/"><link rel="alternate" hreflang="es" href="https://open-design.ai/es/"><link rel="alternate" hreflang="pt-BR" href="https://open-design.ai/pt-br/"><link rel="alternate" hreflang="it" href="https://open-design.ai/it/"><link rel="alternate" hreflang="tr" href="https://open-design.ai/tr/"><link rel="alternate" hreflang="x-default" href="https://open-design.ai/"><link rel="icon" type="image/x-icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="preconnect" href="https://api.github.com" crossorigin><!--
+  Preload the primary above-the-fold typeface (Albert Sans, woff2 ≈50KB) so the
+  LCP heading/body text swaps to the brand face without a late round-trip.
+  Paired with `font-display: swap` this keeps text painting immediately while
+  the brand font streams in at high priority. `crossorigin` is required for font
+  preloads even same-origin, or the browser opens a second connection and the
+  preload is wasted.
+--><link rel="preload" href="/skill-assets/AlbertSans-VariableFont_wght.woff2" as="font" type="font/woff2" crossorigin><!-- Google tag (gtag.js) -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  var gtagScript = document.createElement('script');
+  gtagScript.async = true;
+  gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-2N1F3J61CX';
+  document.head.appendChild(gtagScript);
+  gtag('js', new Date());
+
+  gtag('config', "G-2N1F3J61CX");
+
+  document.addEventListener('click', function (event) {
+    if (typeof gtag !== 'function') return;
+    var link = event.target && event.target.closest ? event.target.closest('a[href]') : null;
+    if (!link) return;
+
+    var href = link.href;
+    var label = (link.getAttribute('aria-label') || link.textContent || '').trim().replace(/\s+/g, ' ');
+    var lowerHref = href.toLowerCase();
+    var lowerLabel = label.toLowerCase();
+    var cta = null;
+    var downloadTarget = null;
+
+    if (lowerHref.includes('github.com/nexu-io/open-design/releases')) { cta = 'download_desktop'; downloadTarget = 'direct'; }
+    else if (link.getAttribute('data-download-page') !== null || (link.pathname && /\/download\/?$/.test(link.pathname.toLowerCase()))) { cta = 'download_desktop'; downloadTarget = 'download_page'; }
+    else if (lowerHref === 'https://github.com/nexu-io/open-design' || lowerLabel.includes('star')) cta = 'star_github';
+    else if (lowerHref.includes('discord.gg/')) cta = 'join_discord';
+    else if (lowerHref.includes('github.com/nexu-io/open-design/issues')) cta = 'open_issue';
+    else if (link.pathname && link.pathname.startsWith('/blog/')) cta = 'blog_cta';
+    else if (link.pathname && link.pathname.startsWith('/tutorials/')) cta = 'tutorial_cta';
+
+    if (!cta) return;
+    var payload = {
+      cta_name: cta,
+      page_name: "landing_home",
+      link_url: href,
+      link_text: label.slice(0, 120),
+    };
+    if (downloadTarget) payload.download_target = downloadTarget;
+    // Distinguish the hero / cta / nav desktop-download buttons.
+    var placement = link.getAttribute('data-download-placement');
+    if (placement) payload.placement = placement;
+    gtag('event', 'cta_click', payload);
+  });
+</script> <!-- PostHog -->
+<script>
+  !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once register_for_session unregister unregister_for_session getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey getNextSurveyStep identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException loadToolbar get_property getSessionProperty createPersonProfile opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing debug getPageViewId captureTraceFeedback captureTraceMetric".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+  var odLocaleAttribution = null;
+  try {
+    var odLocaleAttributionRaw = window.sessionStorage.getItem('od.localeAttribution');
+    var odLocaleAttributionCandidate = odLocaleAttributionRaw && JSON.parse(odLocaleAttributionRaw);
+    if (
+      odLocaleAttributionCandidate &&
+      odLocaleAttributionCandidate.targetPath === window.location.pathname &&
+      typeof odLocaleAttributionCandidate.createdAt === 'number' &&
+      Date.now() - odLocaleAttributionCandidate.createdAt >= 0 &&
+      Date.now() - odLocaleAttributionCandidate.createdAt < 60000 &&
+      typeof odLocaleAttributionCandidate.referrer === 'string' &&
+      typeof odLocaleAttributionCandidate.referringDomain === 'string'
+    ) {
+      odLocaleAttribution = odLocaleAttributionCandidate;
+    }
+  } catch (e) {}
+  posthog.init("phc_u5dHWkwdqN626opkbbjDKk7xNzxR2UsJbdQqx3DncbjU", {
+    api_host: "https://us.i.posthog.com",
+    autocapture: false,
+    capture_pageview: true,
+    capture_pageleave: true,
+    disable_session_recording: true,
+    persistence: 'localStorage+cookie',
+    before_send: function (event) {
+      if (!event || !event.properties || !odLocaleAttribution) return event;
+      event.properties.$referrer = odLocaleAttribution.referrer || '$direct';
+      event.properties.$referring_domain = odLocaleAttribution.referringDomain || '$direct';
+      event.properties.od_locale_redirect = true;
+      event.properties.od_entry_path = odLocaleAttribution.entryPath;
+      event.properties.original_landing_url = odLocaleAttribution.originalLandingUrl;
+      event.properties.original_referrer = odLocaleAttribution.referrer;
+      event.properties.locale_redirect = true;
+      event.properties.locale_redirect_reason = odLocaleAttribution.redirectReason;
+      event.properties.detected_locale = odLocaleAttribution.detectedLocale;
+      event.properties.redirect_from = odLocaleAttribution.redirectFrom;
+      event.properties.redirect_to = odLocaleAttribution.redirectTo;
+      var odOriginalAttribution = odLocaleAttribution.attribution || {};
+      for (var odAttributionKey in odOriginalAttribution) {
+        event.properties['original_' + odAttributionKey] = odOriginalAttribution[odAttributionKey];
+      }
+      return event;
+    }
+  });
+  if (odLocaleAttribution) {
+    var odSessionAttribution = {
+      od_acquisition_referrer: odLocaleAttribution.referrer,
+      od_acquisition_referring_domain: odLocaleAttribution.referringDomain,
+      od_locale_redirect: true,
+      od_entry_path: odLocaleAttribution.entryPath,
+      original_landing_url: odLocaleAttribution.originalLandingUrl,
+      original

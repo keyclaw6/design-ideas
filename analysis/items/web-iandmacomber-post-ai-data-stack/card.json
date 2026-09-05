@@ -34,7 +34,7 @@
       "id": "web-iandmacomber-post-ai-data-stack#c1",
       "text": "Post-AI data teams must enable self-serve AI analysis and champion one singular company reality.",
       "kind": "opinion",
-      "evidence": "Enable everyone to build with data and AI — accurately, powerfully, independently.",
+      "evidence": "Enable everyone to build with data and AI \u2014 accurately, powerfully, independently.",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -44,7 +44,7 @@
       "id": "web-iandmacomber-post-ai-data-stack#c2",
       "text": "Agent-readable dashboards should ship per-data-product llms.txt with owners, filters, and provenance instructions.",
       "kind": "recipe",
-      "evidence": "Per-data-product `llms.txt` in markdown — code, filters, owners, entry points, rendered values.",
+      "evidence": "Per-data-product `llms.txt` in markdown \u2014 code, filters, owners, entry points, rendered values.",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -58,6 +58,16 @@
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "web-iandmacomber-post-ai-data-stack#c4",
+      "text": "leftover29 unused iandmacomber.com/blog/post-ai-data-stack 67,426 B titles The Shape and Feel of the Post-AI Data Stack (August 30, 2026) and names agent-readable artifacts / agent-operable tools / agent-agnostic context. leftover29 unused rilldata.com 88,734 B titles Rill | The fastest business intelligence tool for humans and agents and shows 3k. leftover29 does not deploy a Rill project.",
+      "kind": "capability",
+      "evidence": "leftover29 macomber 67426 B; rilldata 88734 B 3k.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
     }
   ],
@@ -76,7 +86,8 @@
     "other": [
       "https://www.rilldata.com/",
       "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
-      "https://davidgasquez.com/context-engineering-is-a-data-problem"
+      "https://davidgasquez.com/context-engineering-is-a-data-problem",
+      "https://www.iandmacomber.com/blog/post-ai-data-stack"
     ],
     "related_items": [
       "web-cerebras-knowledge-base",

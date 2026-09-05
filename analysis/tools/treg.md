@@ -26,4 +26,6 @@ Catalog dump still needs a token (`treg catalog` / `/call/…`). $1.00 free prep
 **2026-09-05 leftover24.** Unused GitHub `superdesigndev/treg` **1,190★** NOASSERTION. Does not name PeopleSearchBench #1. Receipt `leftover24-2026-09-05.json`.
 
 **2026-09-05 leftover26.** Unused `github.com/superdesigndev/treg` host string is leftover24 `#c5`. Receipt `leftover26-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Unused `treg.to/llms.txt` **40,139 B**: **2,600+ / 60+** and later **2,800+ / 60**; **$1.00** free; five MCP tools. Do not collapse with README **2,896 / 60** or hero **2,630 / 47**. Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

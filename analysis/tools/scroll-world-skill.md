@@ -10,4 +10,6 @@
 Clone `https://github.com/oso95/scroll-world` MIT. Portable engine: `skills/scroll-world/references/scrub-engine.js` **28,697** bytes + `index-template.html` **2,713** = **31,410** bytes. Repo has no generated landing and no video frames. Default backends named: Monid (Seedance 2.0, README ≈$27 for a 6-scene 1080p chain, verified 2026-07-25) or Higgsfield + ffmpeg. The brief’s “3 MB JS budget” is about a *generated* page, not this skill tree.
 
 **2026-09-05 leftover28.** Unused `oryzo.ai` **71,633 B** is a satirical cork-coaster landing (designed by Lusion). Unused `lusion.co` **59,671 B** names Oryzo AI as featured work. Neither is a scroll-world skill or scene exporter. Receipt `leftover28-2026-09-05.json`.
+
+**2026-09-05 leftover29.** Unused GitHub `oso95/scroll-world` MIT **8,996★**. Unused `monid.ai` **91,135 B** restates leftover6 **1,700+** tools. Unused `higgsfield.ai` **530,407 B** (drift vs leftover9 **530,348 B**). Receipt `leftover29-2026-09-05.json`.
 <!-- NOTES:END -->

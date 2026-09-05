@@ -38,7 +38,7 @@
       "id": "web-graphed#c1",
       "text": "Platform connects 750+ marketing data sources into a modeled warehouse.",
       "kind": "capability",
-      "evidence": "Connect channels — Meta, Google, Shopify, GA4, HubSpot, **750+ sources** → warehouse",
+      "evidence": "Connect channels \u2014 Meta, Google, Shopify, GA4, HubSpot, **750+ sources** \u2192 warehouse",
       "evidence_source": "linked-page",
       "evidence_ref": "raw/items/web-graphed/page.md",
       "confidence": "stated",
@@ -52,6 +52,16 @@
       "evidence_source": "linked-page",
       "evidence_ref": "raw/items/web-graphed/page.md",
       "confidence": "stated",
+      "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "web-graphed#c3",
+      "text": "leftover29 unused graphed.com 292,950 B titles Graphed - Deploy AI Agents for Marketing. Visible extract is forward-deployed engineers + warehouse hosting; example Facebook Ads Agent Shifted $2.4k. leftover23 Cal.com Graphed Discovery Call stays a booking SPA. leftover29 does not open the keyed MCP.",
+      "kind": "availability",
+      "evidence": "leftover29 graphed-home 292950 B. Marketing agents; example $2.4k shift.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/graphed-mcp.md",
+      "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
     }
   ],
@@ -77,7 +87,8 @@
     "other": [
       "https://www.graphed.com/mcp",
       "https://mcp.graphed.com/mcp",
-      "https://www.graphed.com/register?returnTo=%2Fbook-demo"
+      "https://www.graphed.com/register?returnTo=%2Fbook-demo",
+      "https://www.graphed.com/"
     ],
     "related_items": [
       "github-superdesigndev-treg",

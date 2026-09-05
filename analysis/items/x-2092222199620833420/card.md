@@ -13,11 +13,12 @@
 - `x-2092222199620833420#c2` (benchmark, stated) The repo gained 2,449 stars in the last 24 hours for a total of 16,477 stars at capture. — evidence: "Last 24h: 2,449 ⭐
 Total: 16,477 ⭐️" [post]
 - `x-2092222199620833420#c3` (benchmark, demonstrated) A 2026-09-04 clone has 541 cases in data/cases.json, 544 case* images, and 22 templates in style-library.json; GitHub API reported 28,017 stars. — evidence: "cases.json totalCases=541; data/images/case* =544; style-library templates=22; API stargazers_count=28017" [note]
+- `x-2092222199620833420#c4` (availability, demonstrated) leftover29 unused GitHub freestylefly/awesome-gpt-image-2 API 6,160 B is MIT 28,060★ this pass (worksheet already had API 28,017★). Description: 530+ cases / 20+ industrial templates. Do not collapse. — evidence: "leftover29 gh-awesome-gpt-image2 6160 B. MIT 28060★ (was 28017)." [note]
 **Numbers.** total GitHub stars: 16477 stars (post); cases.json totalCases: 541  (note); GitHub stars 2026-09-04: 28017 stars (note)
 **Recipe.** —
 **Techniques.** [prompt-as-code](../../techniques/prompt-as-code.md)
 **Tools.** [gpt-image-2](../../tools/gpt-image-2.md)
-**Links.** repo (https://github.com/freestylefly/awesome-gpt-image-2)
+**Links.** repo (https://github.com/freestylefly/awesome-gpt-image-2), https://github.com/freestylefly/awesome-gpt-image-2
 **Related items.** [github-wuyoscar-gpt-image2-skill](../github-wuyoscar-gpt-image2-skill/card.md), [github-youmind-openlab-nano-banana-pro-prompts](../github-youmind-openlab-nano-banana-pro-prompts/card.md), [web-meigen-ai](../web-meigen-ai/card.md)
 **Media.** —
 **Thread.** empty · reported 0 · captured 0 · relevant 0 · author thread: none → [thread.md](thread.md)

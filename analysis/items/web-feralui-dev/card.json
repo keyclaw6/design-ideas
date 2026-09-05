@@ -57,6 +57,16 @@
       "evidence_ref": "analysis/tools/feralui.md",
       "confidence": "demonstrated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-feralui-dev#c4",
+      "text": "leftover29 unused GitHub mortspace/feral-blob API 5,387 B is MIT 17\u2605. Description: playful themeable SVG jelly-blob mascot for React \u2014 part of FeralUI. leftover29 does not install the package.",
+      "kind": "availability",
+      "evidence": "leftover29 feral-blob 5387 B. MIT 17\u2605. Part of FeralUI.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/feralui.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "numbers": [
@@ -79,7 +89,8 @@
     "paper": null,
     "product": "https://feralui.dev/",
     "other": [
-      "https://feralui.dev"
+      "https://feralui.dev",
+      "https://github.com/mortspace/feral-blob"
     ],
     "related_items": [
       "web-originkit-dev",

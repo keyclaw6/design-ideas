@@ -3,7 +3,7 @@
   "id": "x-2087178722420171020",
   "source_type": "x",
   "url": "https://x.com/Sumanth_077/status/2087178722420171020",
-  "title": "Cloudflare OS repo — Workers-based agent workspace",
+  "title": "Cloudflare OS repo \u2014 Workers-based agent workspace",
   "author": {
     "name": null,
     "handle": "@Sumanth_077",
@@ -43,6 +43,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087178722420171020#c2",
+      "text": "leftover29 unused GitHub cloudflare/cloudflare-os API 6,672 B is Apache-2.0 9,655\u2605. Description: agent workspace built on Cloudflare Workers. leftover29 does not deploy a worker.",
+      "kind": "availability",
+      "evidence": "leftover29 gh-cloudflare-os 6672 B. Apache-2.0 9655\u2605.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/kitesurf.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": [],
@@ -54,7 +64,9 @@
     "repo": "https://github.com/cloudflare/cloudflare-os",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/cloudflare/cloudflare-os"
+    ],
     "related_items": [
       "web-cloudflare-kitesurf",
       "github-h4ckf0r0day-obscura",
