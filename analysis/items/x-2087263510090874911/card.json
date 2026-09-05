@@ -50,6 +50,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087263510090874911#c3",
+      "text": "Pi AGENTS.md names ponytail / grilling / wayfinder / ask-matt plus a custom /handoff at 100k. First-party this pass: DietrichGebert/ponytail MIT 126,322\u2605 (homepage ponytail.dev). mattpocock/skills MIT 250,614\u2605 still has 5 skill dirs; productivity/ contains grill-me (157 B alias: Call the Skill tool with grilling), grilling (1,987 B design-tree interview), and handoff (894 B: write a handoff doc to OS temp; disable-model-invocation). wayfinder and ask-matt are absent from productivity/ (404). GitHub search ask-matt skill total 0. Do not collapse the tweet\u2019s custom Pi /handoff-at-100k with the Pocock handoff skill, and do not invent a wayfinder/ask-matt repo.",
+      "kind": "availability",
+      "evidence": "DietrichGebert/ponytail 126322\u2605 MIT; mattpocock/skills 250614\u2605; productivity grill-me/grilling/handoff present, wayfinder/ask-matt 404. leftover14 + leftover14b-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": [],
@@ -60,8 +70,10 @@
     "canonical": null,
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md",
+    "other": [
+      "https://github.com/DietrichGebert/ponytail"
+    ],
     "related_items": [
       "x-2086715093707063445",
       "github-leonxlnx-taste-skill",

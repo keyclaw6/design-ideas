@@ -52,6 +52,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2088240171565412733#c3",
+      "text": "Official Google Antigravity is www.antigravity.google 200 / 136,935 B (apex antigravity.google 28,747 B). Title Google Antigravity. Surfaces named: Antigravity 2.0, CLI, Extensions, IDE, SDK. Blog Gemini 3.7 Flash in Google Antigravity 105,119 B (Aug 13, 2026). Copy: available at no charge for developers. developers.google.com/antigravity is 404. Bugatti / W16 / Three.js / ~4 min strings are absent from homepage and the 3.7 Flash post. leftover9 covers.step W16 is text-to-cad, not this Three.js scene. Do not invent antigravity.md.",
+      "kind": "availability",
+      "evidence": "www.antigravity.google 136935 B; blog 105119 B no Bugatti/W16/Three.js. leftover14-2026-09-05.json + leftover14b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/threejs-awesome-graphics-agent-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
@@ -64,7 +74,7 @@
     "canonical": "https://x.com/HarshithLucky3/status/2088240171565412733",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://www.antigravity.google/",
     "other": [],
     "related_items": [
       "github-scottstts-threejs-awesome-graphics-agent-skills",

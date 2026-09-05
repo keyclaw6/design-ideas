@@ -37,7 +37,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 - Lumera object-split meshes + HDR lights — project page is a 1 KB JS shell; weights/code still missing.
 - Lucida parse/generate/place + GizmoAct — **abs + project page first-party** ([image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md)): R2S-Scene AP **0.592** vs Boxer **0.351**; ADD-SB@0.05 **83.4%** on CA-1M; F-Score **0.924**. Seed3D 2.0 stays tweet-only. Card is now `ready`. No weights zip.
 - Needle 3.2M→3k in 3s with “superb normals” — demo numbers, tool not shipping in this capture.
-- Bee topology with “no prompt, no retries” — tool unnamed; cannot reproduce.
+- Bee topology with “no prompt, no retries” — tool unnamed; cannot reproduce. leftover13 t.co loops to the same tweet. WorldGen must-read is a different one-photo path (login SPA **11,026 B**) — do not invent Meshy/Tripo/WorldGen ([x-2092242135504552118#c3](../../items/x-2092242135504552118/card.md)).
 - kokraf four-view projection remains the texture-path `demonstrated` reference (media + repo). Atlas 3D AI and BQR leftovers now have first-party host receipts, not a runnable mesh.
 
 ## image-to-3d-world — do not treat as load-bearing

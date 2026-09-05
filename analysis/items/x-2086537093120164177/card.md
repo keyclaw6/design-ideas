@@ -11,10 +11,11 @@
 **Claims.**
 - `x-2086537093120164177#c1` (recipe, stated) Author steers Opus 5 with a recursive generation loop and subagent QC under 300k context. — evidence: "Textureless render demo of what happens when you give it a recursive loop + subagent QC under 300k context." [post]
 - `x-2086537093120164177#c2` (recipe, stated) Quoted instructions use the Blender Python API with a 300k context window and no Tripo/Hunyuan mesh import. — evidence: "This is a fully generated mesh - no 3D model such as  Tripo or Hunyuan was used. Fully coded by Opus." [author-thread]
+- `x-2086537093120164177#c3` (counter-claim, demonstrated) leftover13 t.co for the jeep demo loops to the same X status. Neighbor in-bank Blender MCP article (Claude Desktop + Blender 4.2+, cube→red-sphere live check, 3,924 chars) is an agent-in-DCC loop — not this Opus 5 recursive bpy / 300k-context vehicle. On-thread denial of Tripo/Hunyuan import still stands. Do not collapse with blender-mcp or leftover9 covers.step W16. — evidence: "leftover13 tco-jeep loops to x.com/startracker/status/2086537093120164177. blender-mcp NOTES article 2083925419800002560 3924 chars. leftover14 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
+**Tools.** [blender-mcp](../../tools/blender-mcp.md)
 **Links.** —
 **Related items.** [github-scottstts-threejs-awesome-graphics-agent-skills](../github-scottstts-threejs-awesome-graphics-agent-skills/card.md), [github-mengto-complete-shelf](../github-mengto-complete-shelf/card.md), [x-2086599657925329347](../x-2086599657925329347/card.md), [x-2057113327508345047](../x-2057113327508345047/card.md)
 **Media.**

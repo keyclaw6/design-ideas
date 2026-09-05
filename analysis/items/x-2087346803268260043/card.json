@@ -28,7 +28,7 @@
     "cursor",
     "claude-code"
   ],
-  "summary": "Aaron Villalpando shares a one-line style constraint—Google developer-docs dead prose, no aphorisms—that rewrites marketing-flourish docs into plain functional section titles and scope statements, shown on a BAML Studio diff.",
+  "summary": "Aaron Villalpando shares a one-line style constraint\u2014Google developer-docs dead prose, no aphorisms\u2014that rewrites marketing-flourish docs into plain functional section titles and scope statements, shown on a BAML Studio diff.",
   "question_it_answers": "What short prompt forces agent-written docs into Google developer-docs plain prose?",
   "claims": [
     {
@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2087346803268260043#c3",
+      "text": "The one-line \u201cGoogle dev docs / dead prose\u201d constraint points at the public style guide already fetched on the sibling card: developers.google.com/style 200 / 79,827 B (title About this guide | Google developer documentation style guide; nav Voice and tone, Active voice, Jargon, Anthropomorphism). This is a public writing guide, not an installable skill pack. Tweet BAML Studio rewrite stays a prompt demo.",
+      "kind": "availability",
+      "evidence": "GET 200 https://developers.google.com/style 79827 B. leftover-2026-09-05.json; sibling x-2089457435459404093#c2. leftover14 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/avoid-ai-writing.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -62,7 +72,7 @@
     "canonical": "https://x.com/aaronvi/status/2087346803268260043",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://developers.google.com/style",
     "other": [],
     "related_items": [
       "github-google-labs-code-design-md",

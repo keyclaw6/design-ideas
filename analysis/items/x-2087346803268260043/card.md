@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2087346803268260043#c1` (opinion, stated) Author claims slop writing is mostly solved by asking for Google dev docs style dead prose. — evidence: "Slop writing is mostly solved" [post]
 - `x-2087346803268260043#c2` (recipe, demonstrated) Exact constraint: make it like google dev docs style with more dead prose and no aphorisms or flourishes. — evidence: "Can you make it like google dev docs style. More dead prose. No aphorisms, no flourishes. Simple." [post]
+- `x-2087346803268260043#c3` (availability, demonstrated) The one-line “Google dev docs / dead prose” constraint points at the public style guide already fetched on the sibling card: developers.google.com/style 200 / 79,827 B (title About this guide | Google developer documentation style guide; nav Voice and tone, Active voice, Jargon, Anthropomorphism). This is a public writing guide, not an installable skill pack. Tweet BAML Studio rewrite stays a prompt demo. — evidence: "GET 200 https://developers.google.com/style 79827 B. leftover-2026-09-05.json; sibling x-2089457435459404093#c2. leftover14 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md)
 **Tools.** —
-**Links.** —
+**Links.** product (https://developers.google.com/style)
 **Related items.** [github-google-labs-code-design-md](../github-google-labs-code-design-md/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-leonxlnx-taste-skill](../github-leonxlnx-taste-skill/card.md), [x-2085006701984698712](../x-2085006701984698712/card.md)
 **Media.**
 `raw/items/x-2087346803268260043/media/media_0.jpg` (image, carries_technique=true) — Side-by-side doc diff: marketing headings like Start here count everything become plain Start here and Two layers of records in Google dev-docs tone.

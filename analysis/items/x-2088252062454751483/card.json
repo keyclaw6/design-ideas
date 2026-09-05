@@ -21,7 +21,7 @@
     "cursor",
     "openscad"
   ],
-  "summary": "Anaïs Betts describes designing a custom homelab server rack with OpenSCAD, Cursor plan mode, and Matt Pocock's grill-me skill, then exporting STLs to Bambu Studio for printing.",
+  "summary": "Ana\u00efs Betts describes designing a custom homelab server rack with OpenSCAD, Cursor plan mode, and Matt Pocock's grill-me skill, then exporting STLs to Bambu Studio for printing.",
   "question_it_answers": "What is the shortest Cursor-native workflow for a parametric 3D-printed rack from a parts list?",
   "claims": [
     {
@@ -31,6 +31,16 @@
       "evidence": "OpenSCAD + Cursor + grill-me is incredible! I just made a custom homelab server device rack",
       "evidence_source": "post",
       "evidence_ref": null,
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2088252062454751483#c2",
+      "text": "OpenSCAD first-party: openscad.org 200 / 8,719 B (The Programmers Solid 3D CAD Modeller). GitHub openscad/openscad 10,133\u2605 license NOASSERTION. Reply t.co/yIPMiN9j4k is the official grill-me SKILL.md (157 B alias \u2192 grilling). Neighbor reply t.co/NOGx8QjLUO is nurb.dev 29,103 B (Ordinary Systems LLC; \u201cdescribe the part, print the part\u201d; install.sh). Official repo Shpigford/nurb 501\u2605 license NOASSERTION / page copy FSL-1.1-MIT \u2014 do not collapse those, and do not collapse nurb with the OpenSCAD rack. Printable-rack claim stays tweet-only. Do not invent openscad.md or nurb.md.",
+      "kind": "availability",
+      "evidence": "openscad.org 8719 B; openscad/openscad 10133\u2605 NOASSERTION; nurb.dev 29103 B; Shpigford/nurb 501\u2605. leftover14 + leftover14b-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/text-to-cad.md",
       "confidence": "demonstrated",
       "subject": "ai-cad-hardware"
     }
@@ -50,8 +60,12 @@
     "canonical": null,
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://openscad.org/",
+    "other": [
+      "https://github.com/openscad/openscad",
+      "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md",
+      "https://nurb.dev/"
+    ],
     "related_items": [
       "x-2088260067204137135",
       "x-2088277946918142211",
@@ -101,7 +115,7 @@
   "url": "https://x.com/anaisbetts/status/2088252062454751483",
   "title": "OpenSCAD homelab rack via Cursor plan mode and grill-me skill",
   "author": {
-    "name": "Anaïs Betts",
+    "name": "Ana\u00efs Betts",
     "handle": "anaisbetts",
     "url": "https://x.com/anaisbetts"
   }

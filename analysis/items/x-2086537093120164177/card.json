@@ -53,12 +53,24 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2086537093120164177#c3",
+      "text": "leftover13 t.co for the jeep demo loops to the same X status. Neighbor in-bank Blender MCP article (Claude Desktop + Blender 4.2+, cube\u2192red-sphere live check, 3,924 chars) is an agent-in-DCC loop \u2014 not this Opus 5 recursive bpy / 300k-context vehicle. On-thread denial of Tripo/Hunyuan import still stands. Do not collapse with blender-mcp or leftover9 covers.step W16.",
+      "kind": "counter-claim",
+      "evidence": "leftover13 tco-jeep loops to x.com/startracker/status/2086537093120164177. blender-mcp NOTES article 2083925419800002560 3924 chars. leftover14 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blender-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "blender-mcp"
+  ],
   "links": {
     "canonical": null,
     "repo": null,

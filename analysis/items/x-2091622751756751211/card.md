@@ -10,10 +10,11 @@
 
 **Claims.**
 - `x-2091622751756751211#c1` (opinion, stated) AI coding models can create videos with a beautifully imperfect aesthetic. — evidence: "You can also make beautifully imperfect videos with AI coding models" [post]
+- `x-2091622751756751211#c2` (counter-claim, demonstrated) Tweet names no renderer. Neighbor in-bank Remotion first-party (leftover6) is remotion.dev 113,524 B / remotion-dev/remotion 58,331★ license NOASSERTION (homepage footer 57K — do not collapse) with Creators $25/mo per seat. Do not treat the imperfect-handcrafted aesthetic as a Remotion pricing or Agent Skills receipt. — evidence: "remotion NOTES leftover6: remotion.dev 113524 B; GH 58331★ NOASSERTION. This tweet has no product host. leftover14 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [remotion-code-video](../../techniques/remotion-code-video.md)
-**Tools.** —
+**Tools.** [remotion](../../tools/remotion.md)
 **Links.** —
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md)
 **Media.** —

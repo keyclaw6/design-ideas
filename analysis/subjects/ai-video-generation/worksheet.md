@@ -41,7 +41,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 ## ai-video-generation — do not treat as load-bearing
 
 - Secondary blockout items (cafe Seedance, Unreal MCP, CozyClay, 3D Director) — wrong subject.
-- “AI coding models make imperfect handcrafted motion” — that argument belongs with Remotion / html-video.
+- “AI coding models make imperfect handcrafted motion” — that argument belongs with Remotion / html-video. leftover14 attach: tweet names no renderer; Remotion first-party stays leftover6 **113,524 B** / **58,331★** ([x-2091622751756751211#c2](../../items/x-2091622751756751211/card.md)).
 - Unlimited H3 on Runway / Magnific trial windows — quota copy, expires. leftover12 Runway terms are **Hailuo 3.0** / **7 days** / MCP+Agent excluded, not MiniMax H3 ([minimax-h3](../../tools/minimax-h3.md); [x-2090098441200517416#c2](../../items/x-2090098441200517416/card.md)).
 
 ## ai-video-generation — next capture work

@@ -36,7 +36,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 - Complete Shelf “single file” — `index.html` is 2,233,796 bytes uncompressed / 1,574,186 gzip, plus jsDelivr Three r165 ≈1.64 MB. See [complete-shelf](../../tools/complete-shelf.md). CPU rAF on SwiftShader: mean **102.49 ms** (~9.76 fps, n=20). GPU frame time still unknown.
 - scroll-world “no cuts, scrubbed to scroll” — skill README. Portable engine is **28,697 + 2,713 = 31,410** bytes ([scroll-world-skill](../../tools/scroll-world-skill.md)). Need one *generated* site under a 3 MB JS budget.
 - Graphics skills produce valid R3F vs screenshot-alike HTML — README (2026-09-04) is **vanilla Three + TSL/WebGPU examples**, no R3F. Still need to open one example and diff the scene graph. See [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md).
-- Gemini Antigravity Bugatti in ~4 minutes — demo clock, no repo.
+- Gemini Antigravity Bugatti in ~4 minutes — demo clock. Official `www.antigravity.google` **136,935 B** names 2.0 / CLI / Extensions / IDE / SDK and a Gemini 3.7 Flash blog (**105,119 B**). Bugatti / W16 / Three.js / 4 min **absent**. leftover9 `covers.step` is text-to-cad, not this scene ([x-2088240171565412733#c3](../../items/x-2088240171565412733/card.md)).
 - GetLayers MCP “assembles a whole site” — marketing; no recorded assembly log.
 - vgpu “built for coding agents” — announcement thread, 71 replies / 1 captured. Docs are live at **vgpu.sh** (**247,177 B**; CLI / skill / MCP). Repo `vercel-labs/vgpu` MIT **1,628★**.
 
@@ -58,3 +58,4 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 7. vgpu docs + MIT repo are now on [x-2093012548031254932](../../items/x-2093012548031254932/card.md). Stale `thread-failed` tag dropped (`thread-partial` 71/1). Remaining: more than the one captured Vercel reply.
 8. VanhDesign leftover has no public host this pass: `vanh.design` / `.com` / `.io` NXDOMAIN; GitHub user `VanhDesign` **0** repos ([webgpu](../../tools/webgpu.md); [x-2091748299975880994#c3](../../items/x-2091748299975880994/card.md)). 201 KB HTML stays tweet-only.
 9. MengTo “60 Three.js components” leftover is not a counted MengTo/Skills inventory ([mengto-skills](../../tools/mengto-skills.md); [x-2091571624390881664#c2](../../items/x-2091571624390881664/card.md)).
+10. leftover14 Antigravity homepage + 3.7 Flash blog are on [threejs-awesome-graphics-agent-skills](../../tools/threejs-awesome-graphics-agent-skills.md). Jeep leftover is bpy / 300k-context, not blender-mcp ([x-2086537093120164177#c3](../../items/x-2086537093120164177/card.md)).

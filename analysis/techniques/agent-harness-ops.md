@@ -33,4 +33,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-05 capture — leftover12 Pocock skill + fini GitHub.** `/improve-codebase-architecture` first-party is aihero.dev **368,578 B** (survey report, no code change) on [x-2086838432102228008](../items/x-2086838432102228008/card.md). fini github t.co → `0xf1n1` **0** public repos; X article **2091852239996334081** logged-out **404** ([x-2094110975045554191](../items/x-2094110975045554191/card.md)). Receipt `leftover12-2026-09-05.json`.
 
 **2026-09-05 capture — leftover13 HQFlow neighbor (no hqflow.md).** Reply on the canvas-worker leftover → `hqflow.vercel.app` **15,455 B**; repo `WinterArc21/HQFlow` MIT **21★**. Local-first `npx hqflow init`. Do not collapse with the author’s in-chat canvas worker ([x-2088590355440476343](../items/x-2088590355440476343/card.md)). Receipt `leftover13-2026-09-05.json`.
+
+**2026-09-05 leftover14 — Draxul neighbor (no draxul.md).** FleetingBits reply t.co → `cmaughan/Draxul` **67★** / 3 forks / license null. City-as-code Vulkan/Metal console shell. Do not collapse with the inspectable-dots codebase diagram ([x-2088016749849682120](../items/x-2088016749849682120/card.md)). Receipt `leftover14-2026-09-05.json` + `leftover14b-2026-09-05.json`.
 <!-- NOTES:END -->

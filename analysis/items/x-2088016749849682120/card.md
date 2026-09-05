@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2088016749849682120#c1` (capability, demonstrated) Claude can render a codebase as a visual diagram with moving data snippets the author can inspect while discussing the code. — evidence: "the moving dots are data snippets that i can inspect" [post]
+- `x-2088016749849682120#c2` (counter-claim, demonstrated) Reply t.co/Lr58xVpQrt resolves to github.com/cmaughan/Draxul (481,898 B GH page). API: 67★ / 3 forks / license null. Description: Dark Factory agentic project; universal console shell; city-as-code; Vulkan and Metal. Neighbor OSS graphics shell — do not collapse with FleetingBits’ inspectable-dots codebase diagram. Other leftover thread t.co (iRf19az0E7, RlQNWV9VfL, 86vU29ZHve) loop to X statuses. Do not invent draxul.md. — evidence: "t.co/Lr58xVpQrt → cmaughan/Draxul 67★ leftover14-2026-09-05.json + leftover14b." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** —
+**Links.** https://github.com/cmaughan/Draxul
 **Related items.** [github-cathrynlavery-diagram-design](../github-cathrynlavery-diagram-design/card.md), [x-2087329201451855933](../x-2087329201451855933/card.md), [github-antvis-infographic](../github-antvis-infographic/card.md), [web-flint-chart](../web-flint-chart/card.md)
 **Media.**
 `raw/items/x-2088016749849682120/media/media_0.jpg` (image, carries_technique=true) — Isometric rivers-of-empire system map with labeled evolution-loop blocks, pan/zoom controls, and a documentation sidebar.

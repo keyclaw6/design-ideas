@@ -27,7 +27,7 @@
   ],
   "artifact_type": "opinion",
   "platforms": [],
-  "summary": "kickingkeys argues AI coding models can produce beautifully imperfect videos — positioning code-rendered motion as an alternative to polished generative video models for certain aesthetics.",
+  "summary": "kickingkeys argues AI coding models can produce beautifully imperfect videos \u2014 positioning code-rendered motion as an alternative to polished generative video models for certain aesthetics.",
   "question_it_answers": "Can AI coding models produce video with an intentionally imperfect handmade look?",
   "claims": [
     {
@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2091622751756751211#c2",
+      "text": "Tweet names no renderer. Neighbor in-bank Remotion first-party (leftover6) is remotion.dev 113,524 B / remotion-dev/remotion 58,331\u2605 license NOASSERTION (homepage footer 57K \u2014 do not collapse) with Creators $25/mo per seat. Do not treat the imperfect-handcrafted aesthetic as a Remotion pricing or Agent Skills receipt.",
+      "kind": "counter-claim",
+      "evidence": "remotion NOTES leftover6: remotion.dev 113524 B; GH 58331\u2605 NOASSERTION. This tweet has no product host. leftover14 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/remotion.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
@@ -46,7 +56,9 @@
   "techniques": [
     "remotion-code-video"
   ],
-  "tools": [],
+  "tools": [
+    "remotion"
+  ],
   "links": {
     "canonical": "https://x.com/kickingkeys/status/2091622751756751211",
     "repo": null,

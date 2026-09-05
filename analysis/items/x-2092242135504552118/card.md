@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2092242135504552118#c1` (result, stated) One bee image produced a high-quality 3D model with good topology. — evidence: "Just ONE image of a robotic bee and somehow got this incredibly gooood 3D model with great topology." [post]
 - `x-2092242135504552118#c2` (recipe, stated) The author says no prompt, rework, or retries were needed. — evidence: "No prompt. No rework. No retries. Nothing else." [post]
+- `x-2092242135504552118#c3` (counter-claim, demonstrated) Bee leftover names no product. leftover13 t.co loops to the same X status. Must-read Hyper3D WorldGen is a different one-photo path: official /workspace/worldgen is an 11,026 B login SPA with no public mesh download; marketing home is Rodin. Do not invent Meshy/Tripo/WorldGen as the bee tool. — evidence: "leftover13 tco-bee loops to same tweet. hyper3d-worldgen NOTES: /workspace/worldgen 11026 B login SPA. leftover14 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

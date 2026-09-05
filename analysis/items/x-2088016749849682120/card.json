@@ -41,6 +41,16 @@
       "evidence_ref": "post.md",
       "confidence": "demonstrated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "x-2088016749849682120#c2",
+      "text": "Reply t.co/Lr58xVpQrt resolves to github.com/cmaughan/Draxul (481,898 B GH page). API: 67\u2605 / 3 forks / license null. Description: Dark Factory agentic project; universal console shell; city-as-code; Vulkan and Metal. Neighbor OSS graphics shell \u2014 do not collapse with FleetingBits\u2019 inspectable-dots codebase diagram. Other leftover thread t.co (iRf19az0E7, RlQNWV9VfL, 86vU29ZHve) loop to X statuses. Do not invent draxul.md.",
+      "kind": "counter-claim",
+      "evidence": "t.co/Lr58xVpQrt \u2192 cmaughan/Draxul 67\u2605 leftover14-2026-09-05.json + leftover14b.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/agent-harness-ops.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": null,
@@ -52,7 +62,9 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/cmaughan/Draxul"
+    ],
     "related_items": [
       "github-cathrynlavery-diagram-design",
       "x-2087329201451855933",
