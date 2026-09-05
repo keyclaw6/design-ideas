@@ -10,10 +10,11 @@
 
 **Claims.**
 - `x-2090837707069014224#c1` (result, stated) LinkedIn may strip clickbait or paywall chrome when the request uses Claude-User. — evidence: "Some sites like LinkedIn even remove their click-bait/paywall garbage if you're Claude-User" [post]
+- `x-2090837707069014224#c2` (counter-claim, demonstrated) Neighbor in-bank Obscura is an Apache-2.0 Rust headless browser (v0.2.1; fetch CLI + CDP serve). TinyShelf CDP loaded RSS ~71.4 MB. That is an agent browser, not publisher User-Agent negotiation (Claude-User / GPTBot vs Chrome). The attached site×bot table stays screenshot-only. Do not collapse the two. — evidence: "obscura NOTES v0.2.1 fetch/CDP. This leftover is publisher UA HTML variance. leftover16 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
+**Tools.** [obscura](../../tools/obscura.md)
 **Links.** —
 **Related items.** [github-h4ckf0r0day-obscura](../github-h4ckf0r0day-obscura/card.md), [web-cloudflare-kitesurf](../web-cloudflare-kitesurf/card.md), [web-obscura-sh](../web-obscura-sh/card.md), [web-crowdreply](../web-crowdreply/card.md)
 **Media.**

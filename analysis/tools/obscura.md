@@ -15,4 +15,6 @@
 **2026-09-04 capture — fetch CLI on tinyshelf (not serve).** `./obscura fetch https://www.tinyshelf.co/ --eval 'document.title + "|" + document.body.innerText.length' --screenshot analysis/_work/captures/obscura-tinyshelf.png` exit 0. Title **TinyShelf**; body text length **13,883**; PNG **73,559** B; captureState view **1280×720**, `scrollHeight` **3158**. This is the fetch CLI, not a CDP page-loaded serve session. Do not invent tinyshelf page-loaded RSS from this command.
 
 **2026-09-04 capture — tinyshelf page-loaded serve RSS via CDP.** Fresh `./obscura serve --port 19255 --workers 1`. Idle VmRSS **25,108 KB** ×3. `Target.createTarget({url:"https://www.tinyshelf.co/"})` + attach + `Runtime.evaluate`: `title=TinyShelf`, `url=https://www.tinyshelf.co/`, `bodyLen=13883`, `scrollHeight=3158`, `clientHeight=720`, `ready=complete`. Loaded VmRSS **73,080 KB** ×3 (~71.4 MB); **20** threads. Bank `analysis/_work/captures/obscura-tinyshelf-cdp.json`. Heavier than example.com **37,856 KB**. Still one process. Do not collapse with README “30 MB”, idle ~25 MB, example.com 37.0 MB, or the fetch-CLI PNG.
+
+**2026-09-05 leftover16 attach.** Publisher UA leftover ([x-2090837707069014224](../items/x-2090837707069014224/card.md)) is site×bot HTML variance (Claude-User / GPTBot), not this headless agent browser.
 <!-- NOTES:END -->

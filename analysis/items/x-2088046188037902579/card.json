@@ -49,6 +49,16 @@
       "evidence_ref": "media/media_0.jpg",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2088046188037902579#c3",
+      "text": "Neighbor in-bank treg.to/llms.txt is a metered tool-catalog file (lead 2,600+ across 60+ providers; later 2,800+ / 60; README 2,896 / 60; homepage hero 2,630 / 47). That is not this leftover\u2019s hidden 9px llms.txt anchor nudge. 10/10 model-fetch and GPT-5.5-once stay screenshot-only. Do not collapse the two.",
+      "kind": "counter-claim",
+      "evidence": "treg NOTES: treg.to/llms.txt 2600+/60+ vs README 2896/60 vs hero 2630/47. This card is a hidden-anchor browse test. leftover16 attach.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/treg.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,
@@ -57,7 +67,9 @@
     "geo-prompt-testing",
     "geo-prompt-testing"
   ],
-  "tools": [],
+  "tools": [
+    "treg"
+  ],
   "links": {
     "canonical": "https://x.com/KingBootoshi/status/2088046188037902579",
     "repo": null,

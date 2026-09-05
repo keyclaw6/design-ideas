@@ -11,10 +11,11 @@
 **Claims.**
 - `x-2088046188037902579#c1` (result, stated) A tiny llms.txt anchor with an LLM-directed title attribute made every tested model fetch the file in 10/10 runs. — evidence: "Every single model hit the llms.txt file in all 10 runs." [media]
 - `x-2088046188037902579#c2` (result, stated) Only GPT-5.5 initially checked llms.txt proactively and only once before the nudge was added. — evidence: "Initially, only openai's gpt-5.5 knew to proactively check for a llms.txt and only did so once" [media]
+- `x-2088046188037902579#c3` (counter-claim, demonstrated) Neighbor in-bank treg.to/llms.txt is a metered tool-catalog file (lead 2,600+ across 60+ providers; later 2,800+ / 60; README 2,896 / 60; homepage hero 2,630 / 47). That is not this leftover’s hidden 9px llms.txt anchor nudge. 10/10 model-fetch and GPT-5.5-once stay screenshot-only. Do not collapse the two. — evidence: "treg NOTES: treg.to/llms.txt 2600+/60+ vs README 2896/60 vs hero 2630/47. This card is a hidden-anchor browse test. leftover16 attach." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [geo-prompt-testing](../../techniques/geo-prompt-testing.md), [geo-prompt-testing](../../techniques/geo-prompt-testing.md)
-**Tools.** —
+**Tools.** [treg](../../tools/treg.md)
 **Links.** —
 **Related items.** [web-crowdreply](../web-crowdreply/card.md), [github-iannuttall-seo](../github-iannuttall-seo/card.md), [web-nqz-ai-search-prompt-generator](../web-nqz-ai-search-prompt-generator/card.md), [web-seowins-io](../web-seowins-io/card.md), [web-known-agency](../web-known-agency/card.md)
 **Media.**
