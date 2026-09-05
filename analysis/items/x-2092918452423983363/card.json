@@ -99,6 +99,16 @@
       "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2092918452423983363#c8",
+      "text": "leftover21 remaining Slite names are now first-party products, not the tweet map. slite.com/slite-agent 536,317 B: 20+ connected tools, human-approval drafts, MCP. getnao/sylph 195\u2605 license null: git-repo company brain (domains/skills/agents/self-improving loop). pletor.ai/blog/\u2026/meet-brain 119,137 B is brand-memory for creative production (Brain beta). None carry Gorgias 12,000 markdown nodes. Do not invent sylph.md / pletor.md.",
+      "kind": "availability",
+      "evidence": "leftover21-2026-09-05.json slite-agent 536317 B; gh-sylph 195; pletor-brain 119137 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/filesystem-context-memory.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -123,7 +133,10 @@
       "https://mem0.ai",
       "https://www.letta.com",
       "https://www.getzep.com",
-      "https://www.gorgias.com"
+      "https://www.gorgias.com",
+      "https://slite.com/slite-agent",
+      "https://github.com/getnao/sylph",
+      "https://www.pletor.ai/blog/meet-brain-persistent-brand-memory-for-ai-creative-production"
     ],
     "related_items": [
       "x-2086920236079681607",

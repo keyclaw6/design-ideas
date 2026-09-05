@@ -57,7 +57,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 ## serp-ai-visibility — next capture work
 
 1. CrowdReply homepage is live (**1,136,240 B**; quote-only “#1”). Marketplace **40,000+** publishers / **5,000+** brands. `/docs/mcp` names OAuth + **58** snake_case tool ids (not the 18-row marketing table). Features “4% on Perplexity” is a cross-model gap. X article **2094451432208711681** body is now on [crowdreply-mcp](../../tools/crowdreply-mcp.md) (4%→40% / 11 weeks + 847 / 85). Remaining: a keyed MCP session.
-2. leftover19: `fixmebot.com` **328,304 B** — **600,000+** / **90+** langs / **€4.99–€29.99**; writing assistant, not GSC proof ([x-2094770895021572502#c9](../../items/x-2094770895021572502/card.md)). Other Shimanski hosts already on the card. GSC **1.01M / 16.3K** still tweet-screenshot only. Thread still 26/3.
+2. leftover21: GSC t.co loops to sibling tweet `2094338304070004768` (`#c10`). leftover19 FixMeBot is a writing assistant, not GSC proof. **1.01M / 16.3K** still tweet-screenshot only.
 3. TinyShots listing is live on TinyShelf (`/tools/tinyshots` **7,594 B**). Product page **$39** early-bird / **97** spots / then **$49** ([tinyshots](../../tools/tinyshots.md)). DR 11→46 still tweet-only — need Ahrefs/Moz.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
 5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing. Sami’s 15 named directories this pass: SaaSHub / SourceForge / Indie Hackers / Wellfound **200**; six hosts **403**; StackShare **429** — do not hammer ([x-2094684433546985907#c4](../../items/x-2094684433546985907/card.md)). DR tiers and 48-hour approval stay tweet-only.

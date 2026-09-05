@@ -119,6 +119,16 @@
       "evidence_ref": "analysis/techniques/serp-keyword-research.md",
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c10",
+      "text": "leftover21: quoted t.co/PoWaCmXdsQ resolves to x.com/a_shimanski/status/2094338304070004768 \u2014 the same 1.01m impressions / 16.3k clicks screenshot tweet. Not a GSC export or Bing Webmaster CSV. GSC integers stay tweet-screenshot only.",
+      "kind": "counter-claim",
+      "evidence": "leftover21 tco-gsc final x.com/a_shimanski/status/2094338304070004768 179175 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/serp-keyword-research.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],

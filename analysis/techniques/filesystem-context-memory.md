@@ -28,4 +28,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-05 ebook re-read.** Same `/ebooks/company-brain` **200 / 50,779 B**. Visible sentence now counted: “we surveyed **149** teams and interviewed **10+** Company Brain builders.” Form still firstName/lastName/email/companyWebsite. Architecture names still absent. **149** is on this gated landing, not the announcing blog. Receipt `analysis/_work/captures/mustread-2026-09-05.json`.
 
 **2026-09-05 leftover20 — named vendors (no new tool files).** mem0.ai **733,509 B** / `mem0ai/mem0` Apache-2.0 **64,715★**. letta.com **22,739 B** / `letta-ai/letta` Apache-2.0 **24,621★**. getzep.com **250,777 B** / `getzep/graphiti` Apache-2.0 **30,599★**. gorgias.com **289,647 B** ecommerce AI; `/cortex` **404**. Visible text has no **12,000** markdown nodes and no nine-architecture map. Receipt `leftover20-2026-09-05.json`.
+
+**2026-09-05 leftover21 — remaining Slite names (no sylph.md / pletor.md).** `slite.com/slite-agent` **536,317 B**: **20+** tools, human-approval drafts, MCP. `getnao/sylph` **195★** license null: git-repo company brain. Pletor Brain blog **119,137 B** is brand-memory for creative production, not Gorgias 12,000. Receipt `leftover21-2026-09-05.json`.
 <!-- NOTES:END -->

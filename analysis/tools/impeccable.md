@@ -42,4 +42,6 @@ CLI help confirms `--viewport WxH` (default 1280x800) and that advisories never 
 **2026-09-05 capture — skill-v4.2.0 is later than the 4.1 must-read card.** `GET …/releases/tags/skill-v4.2.0` **200**, published **2026-09-04T20:28:37Z**, name *Skill 4.2.0*. Notes: static binary / no Node; hook **10.6 ms** vs Node **46.9 ms**; CLI **110** files **132 ms** vs **282 ms**; replay **830** commands / **16,058** function calls. Tags also list skill-v4.1.3 / 4.1.2 / 4.1.1 after 4.1.0. Do not treat this card as 4.2.
 
 **2026-09-05 leftover19.** `impeccable.style` **200 / 109,943 B** markets **61** checks / **23** commands / **177** worlds and `npx impeccable install`. Homepage does not name 4.1 vs 4.2.0.
+
+**2026-09-05 leftover21.** `skill-v4.1.0` release JSON published **2026-08-14**. Notes: roll argues with itself; full-fidelity comps; safer/bolder steer. Do not collapse with **4.2.0**.
 <!-- NOTES:END -->

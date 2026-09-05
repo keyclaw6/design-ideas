@@ -24,4 +24,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-05 capture — Shimanski named hosts re-fetched.** `shimanski.dev` **200 / 67,867 B**: counters **15+** years / **8** products / **2** SaaS / **6** browser tools & games; named AI Edit, FixMeBot, Post Formatter, Blurr. `postformatter.com` **200 / 433,543 B**: LinkedIn Post Formatter Chrome extension, **30+** Unicode fonts. `blurr.ing` **200 / 323,939 B**: free blur Chrome extension. `unicodegames.com` **200 / 129,009 B**: **21** games, no sign-up. GSC **1.01M / 16.3K** still tweet-screenshot only. Receipt `analysis/_work/captures/2026-09-05-shimanski-live.json`.
 
 **2026-09-05 leftover19.** `fixmebot.com` **200 / 328,304 B**: **600,000+** / **90+** languages / **10** tools; Free **10,000** characters; paid **€4.99–€29.99/mo**. Writing assistant, not GSC proof. Do not invent `fixmebot.md`.
+
+**2026-09-05 leftover21.** `t.co/PoWaCmXdsQ` loops to sibling tweet `2094338304070004768` (same 1.01m / 16.3k screenshot). Not a GSC export.
 <!-- NOTES:END -->

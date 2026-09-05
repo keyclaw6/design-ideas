@@ -83,7 +83,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2091150763418620133#c1` | FreeToken serves Qwen3.6-35B at 39.3 tokens per second on an 8GB GPU by exploiting MoE sparsity. | stated | [FreeToken MoE inference engine: PCIe/…](../../items/x-2091150763418620133/card.md) |
 | `x-2091150763418620133#c2` | The engine profiles PCIe and CPU bandwidth once per machine and splits each step's expert misses proportionally betwe… | stated | [FreeToken MoE inference engine: PCIe/…](../../items/x-2091150763418620133/card.md) |
 
-Full set: claims.jsonl (31 rows)
+Full set: claims.jsonl (32 rows)
 
 ## local-inference-models — comparison axes
 

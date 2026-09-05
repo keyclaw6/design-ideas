@@ -13,4 +13,6 @@
 Neighbor (parked; no starborn.md): 2026-09-05 `https://www.starbornai.com/` GET 200 / **90,168 B**. H1 Add $15K–$50K MRR in 90 days using LinkedIn alone. First-party: write posts, run DMs, book 20–30 qualified sales calls. Marketing outcome copy, not a ledger. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 
 **2026-09-05 homepage re-read for the CEO launch card.** Same `https://gojiberry.ai/` **1,154,716 B**. ICP filtering + Email waterfall (15+ providers) + CRM/API/MCP named. **Grok** string absent. 13-agent tree stays tweet/repo.
+
+**2026-09-05 leftover21.** Root `t.co/s0za9kxTZC` loops to the same X status. Still no filled ICP for 97/1.
 <!-- NOTES:END -->

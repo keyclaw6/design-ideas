@@ -93,6 +93,16 @@
       "evidence_ref": "analysis/tools/impeccable.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2088254428730085690#c7",
+      "text": "leftover21: GitHub skill-v4.1.0 release JSON published 2026-08-14. Notes: roll argues with itself; full-fidelity comps replace sketches; safer/bolder steer; IMPECCABLE'S PICK. Do not collapse this 4.1.0 body with skill-v4.2.0 (2026-09-04) already on #c5. Homepage still does not name the tags.",
+      "kind": "availability",
+      "evidence": "leftover21 impeccable-410 tag skill-v4.1.0 published 2026-08-14T04:31:52Z.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -107,7 +117,8 @@
     "paper": null,
     "product": "http://impeccable.style",
     "other": [
-      "https://impeccable.style"
+      "https://impeccable.style",
+      "https://github.com/pbakaus/impeccable/releases/tag/skill-v4.1.0"
     ],
     "related_items": [
       "github-pbakaus-impeccable",

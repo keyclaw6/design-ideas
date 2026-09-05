@@ -110,6 +110,16 @@
       "evidence_ref": "analysis/tools/openviking.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2091169290661838965#c9",
+      "text": "leftover21: volcengine/OpenViking README 16,499 B first-party LoCoMo 80\u201383% vs 24\u201357% native memory; input tokens drop 34.3\u201391.0% (the 91% reply). docs/en/guides/01-configuration 381,283 B: VLM providers OpenAI / Volcengine / Kimi / GLM / OpenAI Codex; if VLM is not configured, L0/L1 generate from content directly (less accurate). Server config names vlm object for summaries. Local ov abstract still not ready without a keyed VLM.",
+      "kind": "benchmark",
+      "evidence": "leftover21 ov-readme 16499 B; ov-guide-config 381283 B; ov-server-config 141639 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openviking.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -140,7 +150,9 @@
     "paper": null,
     "product": null,
     "other": [
-      "https://docs.openviking.ai"
+      "https://docs.openviking.ai",
+      "https://docs.openviking.ai/en/guides/01-configuration",
+      "https://docs.openviking.ai/en/configuration/01-server"
     ],
     "related_items": [
       "x-2087143369181114868",

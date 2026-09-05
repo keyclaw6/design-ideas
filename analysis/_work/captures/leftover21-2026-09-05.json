@@ -1,0 +1,213 @@
+{
+  "fetched_at": "2026-09-05T08:50:00Z",
+  "pages": {
+    "gh-gbrain-evals": {
+      "url": "https://api.github.com/repos/garrytan/gbrain-evals",
+      "final": "https://api.github.com/repos/garrytan/gbrain-evals",
+      "status": 200,
+      "bytes": 5273,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover21-2026-09-05/gh-gbrain-evals.json",
+      "json_summary": {
+        "full_name": "garrytan/gbrain-evals",
+        "stars": 413,
+        "license": "MIT",
+        "description": "",
+        "tag_name": null,
+        "name": "gbrain-evals",
+        "body": ""
+      }
+    },
+    "gbrain-evals-readme": {
+      "url": "https://raw.githubusercontent.com/garrytan/gbrain-evals/main/README.md",
+      "final": "https://raw.githubusercontent.com/garrytan/gbrain-evals/main/README.md",
+      "status": 200,
+      "bytes": 22081,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 21694
+    },
+    "flashml": {
+      "url": "https://flashml.ai/",
+      "final": "https://www.flashml.ai/",
+      "status": 200,
+      "bytes": 39649,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "FreeToken \u2014 Bring Frontier to Edge | FlashML",
+      "visible_len": 123
+    },
+    "freetoken-readme": {
+      "url": "https://raw.githubusercontent.com/FlashML-org/FreeToken/main/README.md",
+      "final": "https://raw.githubusercontent.com/FlashML-org/FreeToken/main/README.md",
+      "status": 200,
+      "bytes": 4821,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 3736
+    },
+    "gh-freetoken": {
+      "url": "https://api.github.com/repos/FlashML-org/FreeToken",
+      "final": "https://api.github.com/repos/FlashML-org/FreeToken",
+      "status": 200,
+      "bytes": 5546,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover21-2026-09-05/gh-freetoken.json",
+      "json_summary": {
+        "full_name": "FlashML-org/FreeToken",
+        "stars": 11665,
+        "license": "Apache-2.0",
+        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "tag_name": null,
+        "name": "FreeToken",
+        "body": ""
+      }
+    },
+    "ov-readme": {
+      "url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README.md",
+      "final": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README.md",
+      "status": 200,
+      "bytes": 16499,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 13857
+    },
+    "ov-llms": {
+      "url": "https://docs.openviking.ai/llms.txt",
+      "final": "https://docs.openviking.ai/llms.txt",
+      "status": 200,
+      "bytes": 15494,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 14390
+    },
+    "slite-agent": {
+      "url": "https://slite.com/slite-agent",
+      "final": "https://slite.com/slite-agent",
+      "status": 200,
+      "bytes": 536317,
+      "ctype": "text/html;charset=utf-8",
+      "error": null,
+      "title": "Slite Agent \u2014 Your AI agent for trusted company knowledge",
+      "visible_len": 7235
+    },
+    "slite-agent-help": {
+      "url": "https://slite.com/help/TvEOZjLtSgTmA8/Slite-AI-Agent",
+      "final": "https://slite.com/help/TvEOZjLtSgTmA8/Slite-AI-Agent",
+      "status": 200,
+      "bytes": 274885,
+      "ctype": "text/html;charset=utf-8",
+      "error": null,
+      "title": "Slite (AI) Agent | Slite Help Center",
+      "visible_len": 2082
+    },
+    "gh-sylph": {
+      "url": "https://api.github.com/repos/getnao/sylph",
+      "final": "https://api.github.com/repos/getnao/sylph",
+      "status": 200,
+      "bytes": 5925,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover21-2026-09-05/gh-sylph.json",
+      "json_summary": {
+        "full_name": "getnao/sylph",
+        "stars": 195,
+        "license": null,
+        "description": "The open-source company brain. Run your entire company with AI agents, skills, and a self-improving context.",
+        "tag_name": null,
+        "name": "sylph",
+        "body": ""
+      }
+    },
+    "sylph-readme": {
+      "url": "https://raw.githubusercontent.com/getnao/sylph/main/README.md",
+      "final": "https://raw.githubusercontent.com/getnao/sylph/main/README.md",
+      "status": 200,
+      "bytes": 7266,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 6828
+    },
+    "pletor-home": {
+      "url": "https://www.pletor.ai/",
+      "final": "https://www.pletor.ai/",
+      "status": 200,
+      "bytes": 1040570,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Pletor: AI Creative Infrastructure for Marketing Teams",
+      "visible_len": 5348
+    },
+    "pletor-brain": {
+      "url": "https://www.pletor.ai/blog/meet-brain-persistent-brand-memory-for-ai-creative-production",
+      "final": "https://www.pletor.ai/blog/meet-brain-persistent-brand-memory-for-ai-creative-production",
+      "status": 200,
+      "bytes": 119137,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Meet Brain: persistent brand memory for AI creative production | Pletor AI",
+      "visible_len": 3144
+    },
+    "impeccable-410": {
+      "url": "https://api.github.com/repos/pbakaus/impeccable/releases/tags/skill-v4.1.0",
+      "final": "https://api.github.com/repos/pbakaus/impeccable/releases/tags/skill-v4.1.0",
+      "status": 200,
+      "bytes": 7365,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover21-2026-09-05/impeccable-410.json",
+      "json_summary": {
+        "full_name": "Skill 4.1.0",
+        "stars": null,
+        "license": null,
+        "description": "",
+        "tag_name": "skill-v4.1.0",
+        "name": "Skill 4.1.0",
+        "body": "- **The roll argues with itself, in front of you.** Every dealt world now carries a verdict, and the direction you are handed has already taken what the losing worlds did better. You choose from a hand that has been fought over.\n\n- **What you approve looks like a page.** Full-fidelity comps replaced the old sketches, which came back too rough to decide from. Generation costs the same at any fidelity, so the draft quality was buying nothing.\n\n- **Steer the next hand instead of re-rolling blind.** Safer and bolder aim the roll along the familiar-to-bold axis, and IMPECCABLE'S PICK shows the model's own favourite when the dice chose otherwise.\n\n- **The deck reads as a gradient of standing.** Contenders, then the category standard, then the demoted row last. Stacked raise callouts became a com"
+      }
+    },
+    "tco-gsc": {
+      "url": "https://t.co/PoWaCmXdsQ",
+      "final": "https://x.com/a_shimanski/status/2094338304070004768",
+      "status": 200,
+      "bytes": 179175,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Artyom Shimanski on X: \"1.01m impressions, 16.3k clicks \ud83e\udd2f \n\nSEO does nothing, does nothing, does nothing, then does everything \ud83d\udcc8\" / X",
+      "visible_len": 1069
+    },
+    "tco-goji": {
+      "url": "https://t.co/s0za9kxTZC",
+      "final": "https://x.com/pierreeliottlal/status/2094326291906310180",
+      "status": 200,
+      "bytes": 193330,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Pierre-Eliott Lallemant on X: \"GrokBot booked a demo with a 50-person company in less than 24 hours.\n\nOn a Friday night.\n\nHere\u2019s the exact setup:\n\n\u2192 I asked GrokBot to define a very specific ICP: job titles, company types, keywords, competitors, funding signals, etc.\n\n\u2192 Connected it to the @gojiber\u2026 / X",
+      "visible_len": 5068
+    },
+    "ov-server-config": {
+      "url": "https://docs.openviking.ai/en/configuration/01-server",
+      "final": "https://docs.openviking.ai/en/configuration/01-server",
+      "status": 200,
+      "bytes": 141639,
+      "title": "Server Configuration | OpenViking",
+      "visible_len": 15315
+    },
+    "ov-guide-config": {
+      "url": "https://docs.openviking.ai/en/guides/01-configuration",
+      "final": "https://docs.openviking.ai/en/guides/01-configuration",
+      "status": 200,
+      "bytes": 381283,
+      "title": "Configuration | OpenViking",
+      "visible_len": 75357
+    }
+  }
+}

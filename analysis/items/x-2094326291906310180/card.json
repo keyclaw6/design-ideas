@@ -52,6 +52,16 @@
       "evidence_ref": "analysis/tools/gojiberryai.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094326291906310180#c3",
+      "text": "leftover21: root t.co/s0za9kxTZC loops to this same X status. No first-party filled ICP for the 97/1 Friday-night run. Template fields stay on gojiberryai NOTES. Do not invent a filled ICP.",
+      "kind": "availability",
+      "evidence": "leftover21 tco-goji final x.com/pierreeliottlal/status/2094326291906310180 193330 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],

@@ -16,6 +16,7 @@
 15+ replied  
 1 demo booked" [post]
 - `x-2094326291906310180#c2` (recipe, demonstrated) Sales OS ships a blank icp-context.template.md (product, ICP, voice, send policy); default mode is propose-don't-send. The 97/1 run has no filled copy in this bank. — evidence: "README First five minutes + skills/sales-os/icp-context.template.md (1023 bytes): Mode: propose (default) | autonomous; no filled ICP for the 97/1 tweet." [note]
+- `x-2094326291906310180#c3` (availability, demonstrated) leftover21: root t.co/s0za9kxTZC loops to this same X status. No first-party filled ICP for the 97/1 Friday-night run. Template fields stay on gojiberryai NOTES. Do not invent a filled ICP. — evidence: "leftover21 tco-goji final x.com/pierreeliottlal/status/2094326291906310180 193330 B." [note]
 **Numbers.** prospects contacted: 97 prospects (post); connection acceptances: 33 accepts (post); replies: 15+ replies (post); demos booked: 1 demo (post)
 **Recipe.** —
 **Techniques.** [agent-browser-isolation](../../techniques/agent-browser-isolation.md), [agent-browser-isolation](../../techniques/agent-browser-isolation.md)
