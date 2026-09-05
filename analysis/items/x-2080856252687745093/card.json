@@ -80,10 +80,37 @@
       "evidence_ref": "analysis/techniques/autoresearch-loop.md",
       "confidence": "demonstrated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2080856252687745093#c6",
+      "text": "Reply 2081160818394034487 (@papersdatacode) names Arbor (arXiv:2606.11926) as a hypothesis-tree autoresearch loop and proposes embedding edges so sibling branches can share lessons sideways. Thread is now captured_full (4/4).",
+      "kind": "opinion",
+      "evidence": "fxtwitter reply text: it runs the whole loop as a hypothesis tree. Insights only flow up the lineage to ancestors, so sibling branches never share.",
+      "evidence_source": "reply",
+      "evidence_ref": "thread.json",
+      "confidence": "stated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2080856252687745093#c7",
+      "text": "Arbor paper Toward Generalist Autonomous Research via Hypothesis-Tree Refinement (arXiv:2606.11926): coordinator + executors + HTR tree. Best held-out on all six Autonomous Optimization tasks; more than 2.5x average relative held-out gain vs Codex and Claude Code. MLE-Bench Lite 86.36% Any Medal with GPT-5.5. Abs 44,678 B; ar5iv 645,538 B.",
+      "kind": "benchmark",
+      "evidence": "GET https://arxiv.org/abs/2606.11926 200 44678 B. Abstract: best held-out result on all six tasks; more than 2.5x … Codex and Claude Code; 86.36% Any Medal with GPT-5.5.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/autoresearch-loop.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Arbor MLE-Bench Lite Any Medal",
+      "value": "86.36",
+      "unit": "percent",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "autoresearch-loop"
   ],
@@ -91,11 +118,12 @@
   "links": {
     "canonical": "https://autoresearch.aman.ai",
     "repo": "https://github.com/karpathy/autoresearch",
-    "paper": null,
+    "paper": "https://arxiv.org/abs/2606.11926",
     "product": "https://aman.ai/primers/ai/autoresearch-and-metaharness/",
     "other": [
       "https://aman.ai/primers/ai/autoresearch-and-metaharness/",
-      "https://aman.ai/"
+      "https://aman.ai/",
+      "https://arxiv.org/abs/2606.11926"
     ],
     "related_items": [
       "x-2074912810803560497",
@@ -123,7 +151,7 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
+  "readiness": "ready",
   "gaps": [],
   "judge_hints": {
     "compare_with": [

@@ -2,7 +2,7 @@
 
 `x-2093305736717545869` · x · demo-video · en · [source](https://x.com/irinatoxi/status/2093305736717545869) · [raw](../../../raw/items/x-2093305736717545869/)
 **Author:** irinatoxi (@irinatoxi) · **Published:** — · **Captured:** 2026-09-04T06:53:00Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [ai-cad-hardware](../../subjects/ai-cad-hardware/brief.md) · **Also:** — · **Roles:** example, technique · **Platforms:** fusion, mcp
 
 **Summary.** Demo of an AI-built Autodesk Fusion assembly via MCP stacking concentric rings, shafts, and dense central mechanisms; author argues weird multi-part geometry is a better CAD agent benchmark than another gear because alignment holds under rotation.
@@ -13,7 +13,8 @@
 - `x-2093305736717545869#c2` (capability, demonstrated) fusion-cad-mcp export() documents step and f3d among eight formats; a silent fail can return ok with bytes_written 0. No ring file was written here. — evidence: "tools.md export formats: stl, 3mf, step, iges, obj, f3d, sat, smt. Check bytes_written. This host has no Fusion seat." [note]
 - `x-2093305736717545869#c3` (capability, demonstrated) Quoted tweet t.co/1UznDisZmz 301s to X article 2089992746178150400, titled GPT + Autodesk Fusion MCP: The AI That Can Build and Edit Real CAD Models. fxtwitter article payload is 76 blocks / 14,743 chars. Codex config shown: [mcp_servers.fusion] url = "http://127.0.0.1:27182/mcp". — evidence: "fxtwitter tweet 2089997971089703423 article.id 2089992746178150400. First sentence: Most AI-generated 3D demos become much less impressive once you ask what actually exists behind the final image. MCP URL in entityMap markdown." [note]
 - `x-2093305736717545869#c4` (opinion, demonstrated) The article argues Fusion MCP is not text-to-3D: GPT can operate a live Fusion session (sketches, history, parameters, scripts) but still lacks engineering judgment and can make incorrect edits as fast as useful ones. It does not include a STEP/F3D of the concentric-ring assembly. — evidence: "Article H2s: This is not another text-to-3D generator; It still does not know whether the design is good; Direct control also makes mistakes faster. No ring/STEP filename in the 14,743-char body." [note]
-**Numbers.** —
+- `x-2093305736717545869#c5` (availability, demonstrated) The concentric-ring stress-test is an X amplify video 15.866 s at 2452×1080. No STEP/F3D of the ring assembly in this bank. Thread status is empty (0 replies reported). — evidence: "GET https://api.fxtwitter.com/irinatoxi/status/2093305736717545869. video duration 15.866 width 2452 height 1080. replies 0." [note]
+**Numbers.** Fusion rings demo duration: 15.866 seconds (note)
 **Recipe.** —
 **Techniques.** [cad-agent-assembly](../../techniques/cad-agent-assembly.md), [text-to-cad](../../techniques/text-to-cad.md)
 **Tools.** [autodesk-fusion](../../tools/autodesk-fusion.md)

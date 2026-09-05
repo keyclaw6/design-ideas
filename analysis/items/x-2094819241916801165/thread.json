@@ -188,6 +188,13 @@
       "target": "https://api.fxtwitter.com/abxxai/status/2094819241916801165",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-05T00:50:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/abxxai/status/2094819241916801165",
+      "outcome": "ok",
+      "note": "amplify video 10.08 s / 1920x1080; replies 57"
     }
   ],
   "raw_payloads": [

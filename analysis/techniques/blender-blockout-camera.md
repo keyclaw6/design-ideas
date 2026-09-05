@@ -25,4 +25,6 @@ Score items that use this method on the owner brief's comparison axes. Do not tr
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
 **2026-09-04 capture — npaka CLI vs MCP note.** `GET https://note.com/npaka/n/n7f7531e7b9ed` **200 / 356,114 B** (2026-09-03). Title **AIでBlenderを操作する方法 - CLIとMCPの使い分け**. CLI generates Blender Python and runs from the command line (`blender scene.blend --background --python script.py`). MCP attaches to a running Blender and inspects state. CLI = batch/auto; MCP = dialogue. Combine: CLI base scene → MCP tweak → CLI batch export. Names Codex and Claude Code. Receipt `npaka-blender-cli-mcp-2026-09-04.json`.
+
+**2026-09-05 capture — cafe Seedance + Blender MCP article.** Must-read [x-2087565352372723955](../items/x-2087565352372723955/card.md) is now `ready` (thread `empty`). Quoted article body is on [blender-mcp](../tools/blender-mcp.md) (3,924 chars). Root video **46.733 s** / 1920×1080. The article is a Blender-MCP operating loop (campsite + angel physics), not the Seedance camera-export recipe. Do not collapse the two. Cafe `.blend` still absent.
 <!-- NOTES:END -->

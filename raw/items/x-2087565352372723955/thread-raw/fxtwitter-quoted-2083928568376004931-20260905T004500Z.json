@@ -1,0 +1,707 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/abyssallD/status/2083928568376004931",
+    "id": "2083928568376004931",
+    "text": "",
+    "raw_text": {
+      "text": "https://t.co/CkeSmOx8X3",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "facets": []
+    },
+    "author": {
+      "screen_name": "abyssallD",
+      "url": "https://x.com/abyssallD",
+      "id": "1660252577718497283",
+      "followers": 407,
+      "following": 100,
+      "likes": 785,
+      "media_count": 190,
+      "name": "Abyssal",
+      "description": "ai era || ai –  is a tool for creating crazy things || DM open",
+      "raw_description": {
+        "text": "ai era || ai –  is a tool for creating crazy things || DM open",
+        "facets": []
+      },
+      "location": "",
+      "banner_url": "https://pbs.twimg.com/profile_banners/1660252577718497283/1782083174",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2077350743648993280/5oo8zzzP_200x200.jpg",
+      "joined": "Sun May 21 11:54:04 +0000 2023",
+      "protected": false,
+      "website": null,
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 8,
+    "likes": 24,
+    "bookmarks": 63,
+    "quotes": 1,
+    "created_at": "Sun Aug 02 14:51:02 +0000 2026",
+    "created_timestamp": 1785682262,
+    "possibly_sensitive": false,
+    "views": 44478,
+    "is_note_tweet": false,
+    "community_note": null,
+    "lang": null,
+    "replying_to": null,
+    "replying_to_status": null,
+    "source": "Twitter Web App",
+    "article": {
+      "created_at": "2026-08-02T14:51:02.000Z",
+      "modified_at": "2026-08-06T23:41:08.000Z",
+      "id": "2083925419800002560",
+      "title": "Claude + Blender MCP: When AI Starts Controlling the Real Tool",
+      "preview_text": "Most people still treat AI in 3D as a generator of pretty pictures.\nThat is the narrowest possible reading of what is happening.\nWhen Claude is connected to Blender through MCP, it does not produce a",
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHOuhJ0kWIAAKAAIXCmbsTFZwAwAA",
+        "media_id": "2083936442690969600",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 81.69,
+                "rgb": {
+                  "blue": 252,
+                  "green": 252,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 6.4,
+                "rgb": {
+                  "blue": 57,
+                  "green": 59,
+                  "red": 59
+                }
+              },
+              {
+                "percentage": 2.88,
+                "rgb": {
+                  "blue": 13,
+                  "green": 63,
+                  "red": 72
+                }
+              },
+              {
+                "percentage": 1.27,
+                "rgb": {
+                  "blue": 154,
+                  "green": 178,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 0.8,
+                "rgb": {
+                  "blue": 30,
+                  "green": 85,
+                  "red": 132
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HOuhJ0kWIAAL9jt.jpg",
+          "original_img_width": 1983
+        },
+        "media_key": "3_2083936442690969600"
+      },
+      "content": {
+        "blocks": [
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "48v0i",
+            "text": "Most people still treat AI in 3D as a generator of pretty pictures.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3e6fs",
+            "text": "That is the narrowest possible reading of what is happening.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "e3qgp",
+            "text": "When Claude is connected to Blender through MCP, it does not produce a final image and disappear. It enters the actual software. It creates editable objects, assigns materials, places lights, moves cameras, runs physics simulations, and then looks at the result through the viewport. When something is wrong, it does not start over — it corrects the real scene.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "frd5p",
+            "text": "The barrier was never imagination. It was the interface.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "a6acg",
+            "text": "What the bridge actually does",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "3ga22",
+            "text": "Blender MCP gives Claude direct access to the application. It can create and delete objects, control cameras and lights, apply materials, execute Python, and — most importantly — receive visual feedback from the viewport.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "cchcu",
+            "text": "This feedback loop is the real difference. A script can run without errors and still produce a broken image. Once Claude can see the viewport, the success condition changes from “the code executed” to “the result is closer to what was asked.”",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "chgkq",
+            "text": "How to connect and verify",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5jr0o",
+            "text": "Requirements:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "ddr79",
+            "text": "Claude Desktop",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fo5fp",
+            "text": "Blender 4.2 or newer (5.1+ recommended)",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "92ati",
+            "text": "In Claude Desktop go to Customize → Connectors → search for Blender → Add.",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {
+              "urls": [
+                {
+                  "fromIndex": 36,
+                  "text": "blender.org/lab/mcp-server",
+                  "toIndex": 62
+                }
+              ]
+            },
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1f71t",
+            "text": "Install the official MCP addon from blender.org/lab/mcp-server (drag the install link twice).",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "rd0c",
+            "text": "In Blender press N, open the BlenderMCP panel, and click Start MCP Server.",
+            "type": "ordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "et5l8",
+            "text": "Quick test: Ask Claude: “Are you connected to Blender? Delete the default cube and create a red metallic sphere in the center of the scene.”",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "38khq",
+            "text": "If the cube disappears and a red sphere appears — the connection is live.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fu9nh",
+            "text": "Building a full scene from conversation",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "atqh1",
+            "text": "This example shows Claude constructing a complete low-poly campsite diorama using only natural language.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "etdrt",
+            "text": "The process is sequential:",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2p091",
+            "text": "Start with a single object",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8fbjd",
+            "text": "Establish ground and lighting early",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aqulp",
+            "text": "Scale complexity step by step",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f83lr",
+            "text": "Introduce a reference image",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "60par",
+            "text": "Iterate until composition, materials and framing align with the direction",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 0,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "d1mge",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "9gr9k",
+            "text": "Every visible problem — objects buried in the ground, incorrect materials, bad camera angle — is fixed with short corrections. Claude diagnoses the issue from the viewport and edits the actual scene.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "2kt4d",
+            "text": "The final result remains a fully editable Blender file.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1mpi0",
+            "text": "Complex character animation through conversation",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "fdorh",
+            "text": "A more advanced case: a detailed angel character with large wings is put through a full physics sequence.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [
+              {
+                "key": 1,
+                "length": 1,
+                "offset": 0
+              }
+            ],
+            "inlineStyleRanges": [],
+            "key": "2gefk",
+            "text": " ",
+            "type": "atomic"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "d2sn5",
+            "text": "The animation moves through four stages",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "49nnq",
+            "text": "Clean hover pose",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "uvrk",
+            "text": "Physics-based scattering of body parts",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "963l4",
+            "text": "Spiral upward motion",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "4uuqn",
+            "text": "Controlled reassembly with a final spin",
+            "type": "unordered-list-item"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "bggmv",
+            "text": "Claude handles rigid body separation, simulation, keyframing, camera work, and collision cleanup. When the motion looks wrong, it can render verification frames, analyze them, and correct timing or trajectories.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "7t13o",
+            "text": "This is no longer generating an animation. It is directing an agent inside professional software.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "en35l",
+            "text": "Where the human remains necessary",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "66vik",
+            "text": "Claude is effective at collapsing the early, repetitive part of the pipeline and reducing visible mistakes. It is far less reliable when the problem becomes subjective — weak composition, lack of weight in motion, or a scene that is technically correct but visually generic.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "5u9su",
+            "text": "High-end sculpting, complex rigging, final look-dev, and the last 20% of quality still belong to the person who can tell the difference between “finished” and “good.”",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "8d4ig",
+            "text": "The real shift",
+            "type": "header-two"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "aujmt",
+            "text": "We are moving from AI that produces images to AI that operates the tools professionals already use.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "f68qj",
+            "text": "The value is not that Claude can build a campsite or animate an angel on its own. The value is that the blank viewport is no longer the starting point. You can begin with direction instead of interface knowledge, get an editable first version in front of you, and spend your time judging the result rather than searching for the right panel.",
+            "type": "unstyled"
+          },
+          {
+            "data": {},
+            "entityRanges": [],
+            "inlineStyleRanges": [],
+            "key": "1odtk",
+            "text": "Claude can now operate Blender. Someone still has to decide when the result is actually worth keeping.",
+            "type": "unstyled"
+          }
+        ],
+        "entityMap": [
+          {
+            "key": "0",
+            "value": {
+              "data": {
+                "entityKey": "d8ee12db-3dd5-46d7-a68a-9a3b146423ac",
+                "mediaItems": [
+                  {
+                    "localMediaId": "7",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2085510869669105664"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          },
+          {
+            "key": "1",
+            "value": {
+              "data": {
+                "entityKey": "5c2bb81b-c7ad-440a-ae5c-c072cd52d400",
+                "mediaItems": [
+                  {
+                    "localMediaId": "9",
+                    "mediaCategory": "AmplifyVideo",
+                    "mediaId": "2085511325564674048"
+                  }
+                ]
+              },
+              "mutability": "Immutable",
+              "type": "MEDIA"
+            }
+          }
+        ]
+      },
+      "media_entities": [
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHPE5FiHX0AAKAAIAAAAAAAAAAAAA",
+          "media_id": "2085510869669105664",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 67968,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 97.68,
+                    "rgb": {
+                      "blue": 40,
+                      "green": 40,
+                      "red": 40
+                    }
+                  },
+                  {
+                    "percentage": 0.85,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 86,
+                      "red": 66
+                    }
+                  },
+                  {
+                    "percentage": 0.75,
+                    "rgb": {
+                      "blue": 97,
+                      "green": 97,
+                      "red": 98
+                    }
+                  },
+                  {
+                    "percentage": 0.29,
+                    "rgb": {
+                      "blue": 169,
+                      "green": 98,
+                      "red": 67
+                    }
+                  },
+                  {
+                    "percentage": 0.13,
+                    "rgb": {
+                      "blue": 37,
+                      "green": 43,
+                      "red": 79
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 1080,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2085510869669105664/img/DcVyncEmZzEysxd9.jpg",
+              "original_img_width": 1920
+            },
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2085510869669105664/pl/60Y5KdpofSRYi2te.m3u8?tag=29"
+              },
+              {
+                "bit_rate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085510869669105664/vid/avc1/1920x1080/QiSwFQdG83Z9v-mg.mp4?tag=29"
+              },
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085510869669105664/vid/avc1/480x270/3xis45KroEwE4sG5.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085510869669105664/vid/avc1/1280x720/PjDDe3irIs-KFUtI.mp4?tag=29"
+              },
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085510869669105664/vid/avc1/640x360/8dGqjRtevcY0Yfml.mp4?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2085510869669105664"
+        },
+        {
+          "id": "QXBpTWVkaWE6DAAECgABHPE5gEdWIAAKAAIAAAAAAAAAAAAA",
+          "media_id": "2085511325564674048",
+          "media_info": {
+            "__typename": "ApiVideo",
+            "aspect_ratio": {
+              "denominator": 9,
+              "numerator": 16
+            },
+            "duration_millis": 37300,
+            "preview_image": {
+              "color_info": {
+                "palette": [
+                  {
+                    "percentage": 80.64,
+                    "rgb": {
+                      "blue": 23,
+                      "green": 23,
+                      "red": 23
+                    }
+                  },
+                  {
+                    "percentage": 13.63,
+                    "rgb": {
+                      "blue": 126,
+                      "green": 115,
+                      "red": 106
+                    }
+                  },
+                  {
+                    "percentage": 4.71,
+                    "rgb": {
+                      "blue": 210,
+                      "green": 229,
+                      "red": 239
+                    }
+                  },
+                  {
+                    "percentage": 0.25,
+                    "rgb": {
+                      "blue": 105,
+                      "green": 116,
+                      "red": 154
+                    }
+                  }
+                ]
+              },
+              "original_img_height": 1080,
+              "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2085511325564674048/img/on-4YesV-XNw5qw1.jpg",
+              "original_img_width": 1920
+            },
+            "variants": [
+              {
+                "bit_rate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085511325564674048/vid/avc1/640x360/u0-t-Lo2QrH02qX0.mp4?tag=29"
+              },
+              {
+                "bit_rate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085511325564674048/vid/avc1/1280x720/7M4eGlpwM3MqXHkn.mp4?tag=29"
+              },
+              {
+                "bit_rate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085511325564674048/vid/avc1/480x270/H97EC0nDMehFp3U3.mp4?tag=29"
+              },
+              {
+                "bit_rate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2085511325564674048/vid/avc1/1920x1080/dbqGl6-xJ02VtOBk.mp4?tag=29"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2085511325564674048/pl/7MA8VWXQhlaRqdoa.m3u8?tag=29"
+              }
+            ]
+          },
+          "media_key": "13_2085511325564674048"
+        }
+      ]
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

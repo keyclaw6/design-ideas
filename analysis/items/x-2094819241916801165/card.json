@@ -52,6 +52,16 @@
       "evidence_ref": "analysis/tools/seedance.md",
       "confidence": "demonstrated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2094819241916801165#c3",
+      "text": "The root demo is an X amplify video 10.08 s at 1920×1080. Official Seedance 2.5 copy still does not claim identity lock. Thread stays captured_partial (1/57).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/abxxai/status/2094819241916801165. video duration 10.08 width 1920 height 1080. replies 57.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seedance.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": [
@@ -59,7 +69,14 @@
     "Repeat for second character reference still",
     "Attach locked stills to Seedance 2.5 with a single-scene cinematic prompt"
   ],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Face-swap recipe demo duration",
+      "value": "10.08",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "agent-video-editing",
     "seedance-motion-reference"

@@ -10,10 +10,10 @@
       "text": "🧪 [𝐏𝐫𝐢𝐦𝐞𝐫] 𝐀𝐮𝐭𝐨𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐇𝐚𝐫𝐧𝐞𝐬𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 • https://t.co/kmaz5D2ish\n\n- I believe autoresearch matters because it turns manual experimentation into a continuous loop where agents propose changes, run experiments, evaluate results, and https://t.co/s1KipCwkdO",
       "in_reply_to": null,
       "metrics": {
-        "likes": 162,
+        "likes": 164,
         "replies": 4,
         "reposts": 26,
-        "views": 9256,
+        "views": 9269,
         "quotes": 0
       },
       "urls": [
@@ -31,10 +31,27 @@
         "likes": 2,
         "replies": 0,
         "reposts": 0,
-        "views": 163,
+        "views": 164,
         "quotes": 0
       },
       "urls": []
+    },
+    {
+      "id": "2081160818394034487",
+      "author_handle": null,
+      "created_at": "2026-07-25T23:32:59Z",
+      "text": "@i_amanchadha Lately in autoresearch, the one that stood out to me is Arbor (https://t.co/1mE4Jq8svJ), it runs the whole loop as a hypothesis tree. One thing I'd like to try: their insights only flow up the lineage to ancestors, so sibling branches never share, they get compared but not",
+      "in_reply_to": null,
+      "metrics": {
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "views": 112,
+        "quotes": 0
+      },
+      "urls": [
+        "https://t.co/1mE4Jq8svJ"
+      ]
     },
     {
       "id": "2081118930223898641",
@@ -46,22 +63,7 @@
         "likes": 1,
         "replies": 0,
         "reposts": 0,
-        "views": 98,
-        "quotes": 0
-      },
-      "urls": []
-    },
-    {
-      "id": "2081109456117522633",
-      "author_handle": null,
-      "created_at": "2026-07-25T20:08:54Z",
-      "text": "@i_amanchadha Cool concept but does the agent loop actually beat a human checking reply data? What are the numbers?",
-      "in_reply_to": null,
-      "metrics": {
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "views": 3,
+        "views": 99,
         "quotes": 0
       },
       "urls": []
@@ -70,13 +72,13 @@
   "unique_ids": [
     "2080856252687745093",
     "2080922653569823077",
-    "2081109456117522633",
-    "2081118930223898641"
+    "2081118930223898641",
+    "2081160818394034487"
   ],
   "item_id": "x-2080856252687745093",
   "handle": "i_amanchadha",
   "http_status": 200,
   "url": "https://x.com/i_amanchadha/status/2080856252687745093",
-  "html_bytes": 220269,
-  "raw_path": "raw/items/x-2080856252687745093/thread-raw/x-web-dom-20260904T175300Z.html"
+  "html_bytes": 239364,
+  "raw_path": "raw/items/x-2080856252687745093/thread-raw/x-web-dom-20260905T003901Z.html"
 }

@@ -40,10 +40,27 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2093915384944414827#c2",
+      "text": "The walkthrough is an X amplify video 533.524 s (~8.89 min) at 1920×1080. Two replies remain unfetched; thread status stays failed.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/himanshubuildss/status/2093915384944414827. video duration 533.524 width 1920 height 1080. replies 2.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/parallax-scroll-landing.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Parallax finance walkthrough duration",
+      "value": "533.524",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "parallax-scroll-landing"
   ],

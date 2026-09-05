@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T00:45:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/tamrrat/status/2093051654937423887",
+  "text": "Introducing Mint Studio →  Full 3D camera control for video generation right in your browser!\n\nNo Blender required!",
+  "replies": 2,
+  "quotes": 4,
+  "video": {
+    "duration_s": 23.041,
+    "width": 3840,
+    "height": 2160
+  }
+}

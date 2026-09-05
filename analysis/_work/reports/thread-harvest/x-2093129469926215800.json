@@ -13,7 +13,7 @@
         "likes": 69,
         "replies": 5,
         "reposts": 3,
-        "views": 9126,
+        "views": 9139,
         "quotes": 1
       },
       "urls": [
@@ -30,7 +30,7 @@
         "likes": 3,
         "replies": 0,
         "reposts": 0,
-        "views": 510,
+        "views": 512,
         "quotes": 0
       },
       "urls": [
@@ -62,6 +62,6 @@
   "handle": "JakeFromHeyGen",
   "http_status": 200,
   "url": "https://x.com/JakeFromHeyGen/status/2093129469926215800",
-  "html_bytes": 210305,
-  "raw_path": "raw/items/x-2093129469926215800/thread-raw/x-web-dom-20260904T175325Z.html"
+  "html_bytes": 210306,
+  "raw_path": "raw/items/x-2093129469926215800/thread-raw/x-web-dom-20260905T003901Z.html"
 }

@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T00:45:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/abyssallD/status/2087565352372723955",
+  "text": "BLENDER + SEEDANCE = FULL CAMERA CONTROL\n\nClaude Opus 5 builds a simple 3D mockup of the cafe in Blender.\n\nBasic blocks for furniture.\nSimple character shapes.\nExact camera path animated inside the real .blend file\n\nThat 3D camera move becomes the reference for Seedance.\n\nResult:\n> Perfect starting frame match\n> Smooth continuous push through the window\n> Full control over composition and timing\n> Works with both Seedance 2.0 and 2.5\n\nYou’re no longer guessing the camera.\nYou’re driving it.",
+  "replies": 0,
+  "quotes": 3,
+  "video": {
+    "duration_s": 46.733,
+    "width": 1920,
+    "height": 1080
+  }
+}

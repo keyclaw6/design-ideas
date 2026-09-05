@@ -1,7 +1,7 @@
 # Thread — Parallax finance landing workflow with Claude Code and ChatGPT (x-2093915384944414827)
 
 **Status:** failed · **Author thread:** unknown · **Replies reported:** 2 · **Captured:** 0 · **Relevant:** 0 · **Unfetched:** 2 · **Truncated:** False
-**Fetch log:** x-web-dom→error (2026-09-04T17:54:20Z); fxtwitter-api→error (2026-09-04T17:54:20Z)
+**Fetch log:** x-web-dom→error (2026-09-04T17:54:20Z); fxtwitter-api→error (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-05T00:45:00Z)
 **Raw payloads:** `raw/items/x-2093915384944414827/thread-raw/x-web-dom-20260904T175329Z.html`
 
 **Author continuation (0 posts).**

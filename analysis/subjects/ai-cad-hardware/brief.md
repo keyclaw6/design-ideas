@@ -98,8 +98,9 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2092106682302140648#c1` | AI automated schematic design finishes in one hour what takes a skilled engineer half a day. | stated | [SipeedLab claim — AI schematic design…](../../items/x-2092106682302140648/card.md) |
 | `x-2093020107509514674#c1` | A custom KiCad plus OpenEMS harness can check signal integrity of a PCB design before fabrication. | demonstrated | [KiCad + OpenEMS harness flags PCB sig…](../../items/x-2093020107509514674/card.md) |
 | `x-2093305736717545869#c3` | Quoted Fusion X article documents Codex MCP at 127.0.0.1:27182/mcp (14,743-char fxtwitter body). | demonstrated | [Fusion MCP stress-test: weird concent…](../../items/x-2093305736717545869/card.md) |
+| `x-2093305736717545869#c5` | Rings stress-test is an X amplify video 15.866 s at 2452×1080; no STEP/F3D in this bank. | demonstrated | [Fusion MCP stress-test: weird concent…](../../items/x-2093305736717545869/card.md) |
 
-Full set: claims.jsonl (31 rows)
+Full set: claims.jsonl (32 rows)
 
 ## ai-cad-hardware — comparison axes
 
@@ -139,7 +140,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## ai-cad-hardware — gaps and open questions
 
-Primary readiness: ready=2, ready-with-gaps=15. Gap tags: linked-page-unfetched=3, media-undescribed=2, thread-partial=2, thread-failed=1.
+Primary readiness: ready=3, ready-with-gaps=14. Gap tags: linked-page-unfetched=3, media-undescribed=2, thread-partial=1, thread-failed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

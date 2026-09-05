@@ -14,7 +14,8 @@
 - ローカル処理
 - GPU不要" [post]
 - `x-2095136786095951924#c3` (counter-claim, stated) Watertight printable meshes are not guaranteed and commercial use needs another license. — evidence: "自動で印刷可能なwatertight meshになる保証はなく、商用利用には別途ライセンスが必要" [post]
-**Numbers.** —
+- `x-2095136786095951924#c4` (availability, demonstrated) The JP launch clip is an X amplify video 16.24 s at 1148×652. Thread status stays failed (1 reply unfetched). Watertight is still not guaranteed; commercial use still needs a separate license. — evidence: "GET https://api.fxtwitter.com/NarenBao/status/2095136786095951924. video duration 16.24 width 1148 height 652. replies 1." [note]
+**Numbers.** Splat2Mesh JP demo duration: 16.24 seconds (note)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [splat2mesh](../../tools/splat2mesh.md)

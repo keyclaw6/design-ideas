@@ -110,6 +110,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `note-blender-minimax-h3-video-generation#c3` | Tight interior camera moves need depth-video conditioning such as Wan 2.2 VACE rather than prompt-only commercial mod… | stated | [BESS flythrough research — Blender MC…](../../items/note-blender-minimax-h3-video-generation/card.md) |
 | `x-2065843739340509693#c1` | The attached clip shows Blender Python driving rigid-body animation in a live viewport. | demonstrated | [Codex driving Blender rigid-body demo…](../../items/x-2065843739340509693/card.md) |
 | `x-2087565352372723955#c1` | Author keys an animated camera inside Blender on blockout geometry and feeds that move to Seedance 2.0/2.5 for starti… | stated | [Blender blockout camera path fed to S…](../../items/x-2087565352372723955/card.md) |
+| `x-2087565352372723955#c2` | Quoted Blender MCP X article 2083925419800002560 is 44 blocks / 3,924 chars (cube→red-sphere live check). | demonstrated | [Blender blockout camera path fed to S…](../../items/x-2087565352372723955/card.md) |
 | `x-2091497597743612379#c1` | Claude Opus 5 through the Higgsfield plugin generates terrain, lake, mountains, trees, paths, lighting, and camera in… | stated | [Higgsfield + Claude Opus 5 builds ani…](../../items/x-2091497597743612379/card.md) |
 | `x-2091497597743612379#c2` | A follow-on prompt uses Meshy 6 to generate a rigged low-poly adventurer and animate walking in the same Blender scene. | stated | [Higgsfield + Claude Opus 5 builds ani…](../../items/x-2091497597743612379/card.md) |
 | `x-2091577179914338583#c2` | CozyClay is an open-source previs tool to build the scene before turning it into video. | stated | [CozyClay open-source previs before pr…](../../items/x-2091577179914338583/card.md) |
@@ -122,7 +123,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2092255768770920506#c1` | Workflow covers prompt blockout, camera move animation, manual adjustment, and fast reblocking. | stated | [Higgsfield in Blender: prompt blockou…](../../items/x-2092255768770920506/card.md) |
 | `x-2092255768770920506#c2` | Feature ships via Higgsfield MCP or Supercomputer. | stated | [Higgsfield in Blender: prompt blockou…](../../items/x-2092255768770920506/card.md) |
 
-Full set: claims.jsonl (43 rows)
+Full set: claims.jsonl (47 rows)
 
 ## blockout-to-video-flythrough — comparison axes
 
@@ -167,7 +168,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## blockout-to-video-flythrough — gaps and open questions
 
-Primary readiness: ready=5, ready-with-gaps=18. Gap tags: thread-partial=8, linked-page-unfetched=4, media-undescribed=1, thread-failed=1, translation-needed=1.
+Primary readiness: ready=6, ready-with-gaps=17. Gap tags: thread-partial=7, linked-page-unfetched=4, media-undescribed=1, thread-failed=1, translation-needed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2094769581965369822#c1` (capability, stated) LightFuse is presented as the first framework for relightable multi-scan interactive Gaussian reconstruction with explicit material–illumination decomposition. — evidence: "the first framework for relightable multi-scan interactive Gaussian reconstruction with explicit material–illumination decomposition." [post]
 - `x-2094769581965369822#c2` (benchmark, stated) Staged inverse rendering surpasses the strongest baseline by +9.74 dB PSNR and +0.121 SSIM on average across synthetic scenes. — evidence: "surpassing the strongest baseline by +9.74 dB PSNR and +0.121 SSIM on average." [post]
+- `x-2094769581965369822#c3` (availability, demonstrated) The attached demo is an X amplify video 33 s at 1280×720. Thread status stays failed (1 reply unfetched). — evidence: "GET https://api.fxtwitter.com/janusch_patas/status/2094769581965369822. video duration 33 width 1280 height 720. replies 1." [note]
 **Numbers.** PSNR gain vs baseline: 9.74 dB (post); SSIM gain vs baseline: 0.121  (post)
 **Recipe.** —
 **Techniques.** [splat-pipeline](../../techniques/splat-pipeline.md), [splat-pipeline](../../techniques/splat-pipeline.md)

@@ -1,0 +1,100 @@
+{
+  "code": 200,
+  "message": "OK",
+  "tweet": {
+    "url": "https://x.com/papersdatacode/status/2081160818394034487",
+    "id": "2081160818394034487",
+    "text": "Lately in autoresearch, the one that stood out to me is Arbor (http://arxiv.org/abs/2606.11926), it runs the whole loop as a hypothesis tree. One thing I'd like to try: their insights only flow up the lineage to ancestors, so sibling branches never share, they get compared but not stitched together. If we add embedding-based edges over the hypothesis descriptions, related nodes in different branches could trade lessons sideways, not just upward. Would be interesting to measure how much it actually helps. recommend",
+    "raw_text": {
+      "text": "Lately in autoresearch, the one that stood out to me is Arbor (https://t.co/rJxl8oORyf), it runs the whole loop as a hypothesis tree. One thing I'd like to try: their insights only flow up the lineage to ancestors, so sibling branches never share, they get compared but not stitched together. If we add embedding-based edges over the hypothesis descriptions, related nodes in different branches could trade lessons sideways, not just upward. Would be interesting to measure how much it actually helps. recommend",
+      "display_text_range": [
+        0,
+        511
+      ],
+      "facets": [
+        {
+          "type": "url",
+          "indices": [
+            63,
+            86
+          ],
+          "original": "https://t.co/rJxl8oORyf",
+          "replacement": "http://arxiv.org/abs/2606.11926",
+          "display": "arxiv.org/abs/2606.11926"
+        }
+      ]
+    },
+    "author": {
+      "screen_name": "papersdatacode",
+      "url": "https://x.com/papersdatacode",
+      "id": "2048565203659280384",
+      "followers": 18,
+      "following": 2,
+      "likes": 91,
+      "media_count": 117,
+      "name": "Papers.Data.Code",
+      "description": "Only meaningful ML signals. Papers, repos & datasets. Selected, not collected. Highlights, trends & TL;DRs. 📄💻📊 → http://t.me/papersdatacode",
+      "raw_description": {
+        "text": "Only meaningful ML signals. Papers, repos & datasets. Selected, not collected. Highlights, trends & TL;DRs. 📄💻📊 → https://t.co/nGRf9ZTJks",
+        "facets": [
+          {
+            "type": "url",
+            "indices": [
+              114,
+              137
+            ],
+            "original": "https://t.co/nGRf9ZTJks",
+            "replacement": "http://t.me/papersdatacode",
+            "display": "t.me/papersdatacode"
+          }
+        ]
+      },
+      "location": "",
+      "banner_url": "",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2049624885761052672/TG_V7OG2_200x200.jpg",
+      "joined": "Mon Apr 27 00:50:04 +0000 2026",
+      "protected": false,
+      "website": {
+        "url": "http://t.me/papersdatacode",
+        "display_url": "t.me/papersdatacode"
+      },
+      "verification": {
+        "verified": true,
+        "verified_at": null,
+        "type": "individual"
+      },
+      "avatar_color": null
+    },
+    "replies": 0,
+    "retweets": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "quotes": 0,
+    "created_at": "Sat Jul 25 23:32:59 +0000 2026",
+    "created_timestamp": 1785022379,
+    "possibly_sensitive": false,
+    "views": 112,
+    "is_note_tweet": true,
+    "community_note": null,
+    "lang": "en",
+    "replying_to": "i_amanchadha",
+    "replying_to_status": "2080856252687745093",
+    "source": "Twitter Web App",
+    "card": {
+      "url": "https://t.co/1mE4Jq8svJ",
+      "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
+      "description": "Scientific progress depends on a repeated loop of exploration, experimentation, and abstraction. Researchers test candidate directions, interpret the evidence, and carry the resulting lessons into...",
+      "domain": "arxiv.org",
+      "image": {
+        "width": 420,
+        "height": 420,
+        "url": "https://pbs.twimg.com/card_img/2092080193665921024/lYI0hUfD?format=jpg&name=420x420_2",
+        "alt": "arXiv logo"
+      }
+    },
+    "twitter_card": "tweet",
+    "color": null,
+    "provider": "twitter",
+    "reposted_by": null
+  }
+}

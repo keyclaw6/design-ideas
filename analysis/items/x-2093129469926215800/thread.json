@@ -84,11 +84,26 @@
       "target": "https://api.fxtwitter.com/JakeFromHeyGen/status/2093129558883209348",
       "outcome": "ok",
       "note": "quoted tweet text is the GitHub launches URL; 4 of 5 replies still unfetched"
+    },
+    {
+      "at": "2026-09-05T00:50:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/JakeFromHeyGen/status/2093129469926215800",
+      "outcome": "ok",
+      "note": "amplify video 54.366 s / 3004x1240; replies 5; fxtwitter quote _adishj/2093109977821159692"
+    },
+    {
+      "at": "2026-09-05T00:39:01Z",
+      "method": "x-web-dom",
+      "target": "https://x.com/JakeFromHeyGen/status/2093129469926215800",
+      "outcome": "ok",
+      "note": "html_bytes=210306 tweets=3; still 1 of 5 replies"
     }
   ],
   "raw_payloads": [
     "raw/items/x-2093129469926215800/thread-raw/x-web-dom-20260904T175325Z.html",
-    "raw/items/x-2093129469926215800/thread-raw/fxtwitter-quoted-2093129558883209348-20260904T224549Z.json"
+    "raw/items/x-2093129469926215800/thread-raw/fxtwitter-quoted-2093129558883209348-20260904T224549Z.json",
+    "raw/items/x-2093129469926215800/thread-raw/x-web-dom-20260905T003901Z.html"
   ],
   "worker": "threads-script",
   "written_at": "2026-09-04T17:54:20Z"

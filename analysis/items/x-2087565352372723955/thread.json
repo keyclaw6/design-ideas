@@ -47,10 +47,25 @@
       "target": "https://api.fxtwitter.com/abyssallD/status/2087565352372723955",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-05T00:45:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/abyssallD/status/2087565352372723955",
+      "outcome": "ok",
+      "note": "amplify video 46.733 s / 1920x1080; replies 0"
+    },
+    {
+      "at": "2026-09-05T00:45:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/abyssallD/status/2083928568376004931",
+      "outcome": "ok",
+      "note": "article 2083925419800002560 title Claude + Blender MCP; 44 blocks / 3924 body chars"
     }
   ],
   "raw_payloads": [
-    "raw/items/x-2087565352372723955/thread-raw/x-web-dom-20260904T175305Z.html"
+    "raw/items/x-2087565352372723955/thread-raw/x-web-dom-20260904T175305Z.html",
+    "raw/items/x-2087565352372723955/thread-raw/fxtwitter-quoted-2083928568376004931-20260905T004500Z.json"
   ],
   "worker": "threads-script",
   "written_at": "2026-09-04T17:54:20Z"

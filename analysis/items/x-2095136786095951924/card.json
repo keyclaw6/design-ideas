@@ -58,10 +58,27 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2095136786095951924#c4",
+      "text": "The JP launch clip is an X amplify video 16.24 s at 1148×652. Thread status stays failed (1 reply unfetched). Watertight is still not guaranteed; commercial use still needs a separate license.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/NarenBao/status/2095136786095951924. video duration 16.24 width 1148 height 652. replies 1.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Splat2Mesh JP demo duration",
+      "value": "16.24",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [
     "splat2mesh"

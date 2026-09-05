@@ -31,7 +31,7 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 
 ## ai-cad-hardware — claims that need a receipt
 
-- Fusion rings “stay aligned” — must-read demo; need a STEP/F3D, not a video. Wrapper `export` can emit `step` / `f3d` ([autodesk-fusion](../../tools/autodesk-fusion.md)) but this host has no Fusion seat.
+- Fusion rings “stay aligned” — must-read demo; need a STEP/F3D, not a video. Wrapper `export` can emit `step` / `f3d` ([autodesk-fusion](../../tools/autodesk-fusion.md)) but this host has no Fusion seat. Root amplify video is **15.866 s** / 2452×1080. Card is now `ready` (thread `empty`).
 - Autorouter 1 minute / two layers vs four — one author’s board; no gerbers in this bank.
 - OpenEMS harness “flags SI issues” — need one before/after plot.
 - CadX / Smith / Fable W16 “one-shot manufacturable” — trailers. Do not send to a shop.
@@ -46,7 +46,7 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 
 ## ai-cad-hardware — next capture work
 
-1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools and `export` formats (`step`, `f3d`, …) are on [autodesk-fusion](../../tools/autodesk-fusion.md). Quoted X article **2089992746178150400** (title *GPT + Autodesk Fusion MCP…*; 14,743 chars via fxtwitter) documents Codex `127.0.0.1:27182/mcp` and argues MCP is not text-to-3D. Remaining: a STEP/F3D of the ring assembly (article has none; this host has no Fusion seat).
+1. Fusion official MCP vs `fusion-cad-mcp` 75/74 tools and `export` formats (`step`, `f3d`, …) are on [autodesk-fusion](../../tools/autodesk-fusion.md). Quoted X article **2089992746178150400** (title *GPT + Autodesk Fusion MCP…*; 14,743 chars via fxtwitter) documents Codex `127.0.0.1:27182/mcp` and argues MCP is not text-to-3D. Rings card is `ready` (thread `empty`; video **15.866 s**). Remaining: a STEP/F3D of the ring assembly (article has none; this host has no Fusion seat).
 2. Keep PCB items (autoroute, OpenEMS, Fields Studio) in a separate shortlist from CadX demos.
 3. text-to-cad repo + docs are on [text-to-cad](../../tools/text-to-cad.md). Remaining: a generated STEP from `models/w16` on this host (no CAD seat required if cadgen runs; not exercised).
 4. Do not expand keyboard coverage beyond boards already in the roster.

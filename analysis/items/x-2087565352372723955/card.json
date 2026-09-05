@@ -42,6 +42,36 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2087565352372723955#c2",
+      "text": "Quoted tweet 2083928568376004931 carries X article 2083925419800002560, titled Claude + Blender MCP: When AI Starts Controlling the Real Tool. fxtwitter article payload is 44 blocks / 42 nonempty / 3,924 chars.",
+      "kind": "capability",
+      "evidence": "GET https://api.fxtwitter.com/abyssallD/status/2083928568376004931. article.id 2083925419800002560. First sentence: Most people still treat AI in 3D as a generator of pretty pictures.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blender-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2087565352372723955#c3",
+      "text": "Article requirements: Claude Desktop + Blender 4.2+ (5.1+ recommended). Live check: delete the default cube and create a red metallic sphere. Sequential campsite recipe plus a four-stage angel animation (hover, scatter, spiral, reassembly). The result stays an editable .blend; high-end sculpting, rigging, and look-dev stay human.",
+      "kind": "recipe",
+      "evidence": "How to connect and verify / Building a full scene from conversation / Complex character animation through conversation / Where the human remains necessary. No cafe .blend filename in the 3,924-char body.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blender-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2087565352372723955#c4",
+      "text": "The cafe flythrough is an X amplify video 46.733 s at 1920×1080. No separate .blend or Seedance project file in this bank. Thread status is empty (0 replies reported).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/abyssallD/status/2087565352372723955. video duration 46.733 width 1920 height 1080. replies 0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seedance.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [
@@ -49,7 +79,20 @@
     "Animate CineCamera path inside the .blend file",
     "Export camera motion as Seedance 2.0/2.5 reference"
   ],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Cafe flythrough duration",
+      "value": "46.733",
+      "unit": "seconds",
+      "source": "note"
+    },
+    {
+      "label": "Quoted Blender MCP article body",
+      "value": "3924",
+      "unit": "chars",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "blender-blockout-camera",
     "seedance-motion-reference"
@@ -63,7 +106,10 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://x.com/i/article/2083925419800002560",
+      "https://x.com/abyssallD/status/2083928568376004931"
+    ],
     "related_items": [
       "note-blender-minimax-h3-video-generation",
       "web-fal-ai"
@@ -82,10 +128,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "thread-partial"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "note-blender-minimax-h3-video-generation",

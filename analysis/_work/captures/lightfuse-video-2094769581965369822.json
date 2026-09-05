@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T00:45:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/janusch_patas/status/2094769581965369822",
+  "text": "LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing\n\nContributions:\n1. We present LightFuse, to our knowledge the first framework for relightable multi-scan interactive Gaussian reconstruction with explicit material–illumination decomposition.\n\n2. We propose ray-tracing-oriented geometry optimization with coverage, scale, depth, and normal regularization to improve surface consistency under multi-state joint supervision.\n\n3. We develop staged inverse rendering to separate shared material from state-specific environment illumination. The resulting physically consistent relighting achieves state-of-the-art quality across synthetic scenes, surpassing the strongest baseline by +9.74 dB PSNR and +0.121 SSIM on average.",
+  "replies": 1,
+  "quotes": 0,
+  "video": {
+    "duration_s": 33,
+    "width": 1280,
+    "height": 720
+  }
+}

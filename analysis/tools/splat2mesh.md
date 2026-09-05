@@ -13,7 +13,7 @@ Product page: Windows 11; import 3DGS PLY; export OBJ / GLB; download gated on a
 
 EULA (Arcana Mfg. Co., Ltd., effective 2026-08-21, v1.0): free for personal / hobby / learning / educational / non-commercial research; companies may use it only for limited evaluation. Commercial/business use — including company R&D, prototyping, manufacturing, paid conversion/print services, or using converted data in a product — needs a separate commercial license. Revenue is not the test.
 
-JP launch tweet og:description (`x-2095136786095951924` retry): local processing, GPU not required, and a caveat that it does **not** automatically produce a printable watertight mesh. Thread replies still uncaptured (`failed`).
+JP launch tweet og:description (`x-2095136786095951924` retry): local processing, GPU not required, and a caveat that it does **not** automatically produce a printable watertight mesh. Thread replies still uncaptured (`failed`). Root amplify video is **16.24 s** / 1148×652 (`analysis/_work/captures/splat2mesh-jp-video-2095136786095951924.json`).
 
 No conversion of `sample.ply` was run in this environment (Windows installer; this host is Linux).
 <!-- NOTES:END -->

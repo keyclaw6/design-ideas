@@ -59,10 +59,27 @@
       "evidence_ref": "analysis/tools/mint-studio.md",
       "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093051654937423887#c4",
+      "text": "The announcement clip is an X amplify video 23.041 s at 3840×2160. Thread status stays failed (2 replies unfetched).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/tamrrat/status/2093051654937423887. video duration 23.041 width 3840 height 2160. replies 2.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mint-studio.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Mint Studio demo duration",
+      "value": "23.041",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [
     "mint-studio"

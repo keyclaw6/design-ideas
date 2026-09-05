@@ -145,10 +145,11 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2074912810803560497#c2` | Live GPU Mode API ranks sankalp1999 26th at 3916.103 µs (submission_id 796445), not the blog's 12th / 1,805 µs. | demonstrated | [Codex auto-research loop: 212× faster…](../../items/x-2074912810803560497/card.md) |
 | `x-2080856252687745093#c1` | Autoresearch turns manual experimentation into a continuous propose-run-evaluate-learn loop. | stated | [Aman Chadha autoresearch and Meta-Har…](../../items/x-2080856252687745093/card.md) |
 | `x-2080856252687745093#c2` | Meta-Harness extends search to prompts, retrieval, memory, tools, state, parsers, and control flow. | stated | [Aman Chadha autoresearch and Meta-Har…](../../items/x-2080856252687745093/card.md) |
+| `x-2080856252687745093#c7` | Arbor (arXiv:2606.11926) reports best held-out on six AO tasks, >2.5× gain vs Codex/Claude Code, 86.36% MLE-Bench Lite Any Medal. | demonstrated | [Aman Chadha autoresearch and Meta-Har…](../../items/x-2080856252687745093/card.md) |
 | `x-2082316720086405524#c1` | Author disables all agent permission checks and skips auto-review, treating the machine as an employee laptop not a p… | stated | [Kun Chen YOLO-agent ops: disposable N…](../../items/x-2082316720086405524/card.md) |
 | `x-2082316720086405524#c2` | Recovery path is nix-darwin plus home-manager dotfiles: wipe, clone, rebuild in minutes. | stated | [Kun Chen YOLO-agent ops: disposable N…](../../items/x-2082316720086405524/card.md) |
 
-Full set: claims.jsonl (73 rows)
+Full set: claims.jsonl (75 rows)
 
 ## agent-harness-loops — comparison axes
 
@@ -162,7 +163,7 @@ Criteria only. No ranking language. A later judge scores each shortlisted item o
 
 ## agent-harness-loops — thread coverage
 
-X items in primary roster: 32. captured_full=1, captured_partial=28, empty=2, failed=1.
+X items in primary roster: 32. captured_full=2, captured_partial=27, empty=2, failed=1.
 Logged-out x.com HTML was the working conversation source. Guest GraphQL TweetDetail 404'd; fxtwitter gives counts, not replies.
 Partial threads still have the first visible replies and any author continuation that rendered. Treat missing replies as unknown, not as 'no one answered'.
 
@@ -171,7 +172,7 @@ Partial threads still have the first visible replies and any author continuation
 | [x-2032330665081839791](../../items/x-2032330665081839791/thread.md) | captured_partial | 79 | 1 | 1 |
 | [x-2032671842230501729](../../items/x-2032671842230501729/thread.md) | captured_partial | 158 | 2 | 2 |
 | [x-2074912810803560497](../../items/x-2074912810803560497/thread.md) | captured_partial | 22 | 1 | 1 |
-| [x-2080856252687745093](../../items/x-2080856252687745093/thread.md) | captured_partial | 4 | 3 | 2 |
+| [x-2080856252687745093](../../items/x-2080856252687745093/thread.md) | captured_full | 4 | 4 | 3 |
 | [x-2082316720086405524](../../items/x-2082316720086405524/thread.md) | captured_partial | 41 | 3 | 3 |
 | [x-2086790895538700379](../../items/x-2086790895538700379/thread.md) | captured_partial | 8 | 1 | 0 |
 | [x-2086838432102228008](../../items/x-2086838432102228008/thread.md) | captured_partial | 78 | 1 | 0 |
@@ -197,7 +198,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## agent-harness-loops — gaps and open questions
 
-Primary readiness: ready=6, ready-with-gaps=29. Gap tags: thread-partial=9, linked-page-unfetched=2, thread-failed=1.
+Primary readiness: ready=7, ready-with-gaps=28. Gap tags: thread-partial=8, linked-page-unfetched=2, thread-failed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

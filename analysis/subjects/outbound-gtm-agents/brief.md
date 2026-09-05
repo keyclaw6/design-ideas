@@ -106,7 +106,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2094326291906310180#c1` | Within 24 hours the GrokBot plus Gojiberry MCP stack contacted 97 prospects, saw 33 acceptances, 15+ replies, and boo… | stated | [GojiberryAI MCP plus GrokBot: 97 pros…](../../items/x-2094326291906310180/card.md) |
 | `x-2094740953554932149#c1` | treg people-search charges $0.0089 per lead with no subscriptions. | stated | [treg people-search: metered GTM enric…](../../items/x-2094740953554932149/card.md) |
 
-Full set: claims.jsonl (31 rows)
+Full set: claims.jsonl (32 rows)
 
 ## outbound-gtm-agents — comparison axes
 

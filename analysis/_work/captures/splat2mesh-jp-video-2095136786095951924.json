@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T00:45:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/NarenBao/status/2095136786095951924",
+  "text": "3DGSは見た目がリアルでも「面」を持たず、Blender編集や3Dプリントにそのまま使いにくい。\n\n- 長野の@ArcanaMfg製作所がSplat2Meshを公開\n- 対応PLYからポリゴンMeshを生成し、OBJ／GLBへ出力\n- Windows 11\n- ローカル処理\n- GPU不要\n\n3DGSを既存の3D制作工程へつなぐ橋になりそう。\nただし自動で印刷可能なwatertight meshになる保証はなく、商用利用には別途ライセンスが必要。\n\n#3DGS #GaussianSplatting #3DPrinting",
+  "replies": 1,
+  "quotes": 0,
+  "video": {
+    "duration_s": 16.24,
+    "width": 1148,
+    "height": 652
+  }
+}

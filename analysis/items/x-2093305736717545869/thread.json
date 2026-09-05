@@ -69,6 +69,13 @@
       "target": "https://api.fxtwitter.com/irinatoxi/status/2089997971089703423",
       "outcome": "ok",
       "note": "article 2089992746178150400 title GPT + Autodesk Fusion MCP; 76 blocks / 14743 body chars; MCP 127.0.0.1:27182/mcp"
+    },
+    {
+      "at": "2026-09-05T00:45:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/irinatoxi/status/2093305736717545869",
+      "outcome": "ok",
+      "note": "amplify video 15.866 s / 2452x1080; replies 0"
     }
   ],
   "raw_payloads": [

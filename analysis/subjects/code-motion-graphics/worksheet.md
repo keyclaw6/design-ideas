@@ -47,5 +47,5 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 ## code-motion-graphics — next capture work
 
 1. Local html-video smoke of `frame-data-chart-nyt` is now in the bank: `analysis/_work/captures/html-video-smoke/output-2026-09-04_22-12-31.mp4` (**241,922** B, 4.75 s, 1920×1080/60). Earlier `/tmp` smoke was 226,463 B / 4.77 s. Path + ffprobe on [html-video](../../tools/html-video.md).
-2. HeyGen quoted tweet is `heygen-com/hyperframes-launches` (not missing). Counts + LFS + NOTICE on [hyperframes](../../tools/hyperframes.md). Remaining: the other **4** replies into `thread-raw/` (status stays `captured_partial` until then).
+2. HeyGen quoted tweet is `heygen-com/hyperframes-launches` (not missing). Counts + LFS + NOTICE on [hyperframes](../../tools/hyperframes.md). Root video **54.366 s** / 3004×1240. Remaining: the other **4** replies into `thread-raw/` (status stays `captured_partial` until then).
 3. loopany reddit-karma prompt body is on [loop-library](../../tools/loop-library.md). Headlong cloc 1.98 (**9,912 code**) is on [headlong](../../tools/headlong.md).

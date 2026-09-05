@@ -1,7 +1,7 @@
 # Thread — GPT Image 2 face-swap stills plus Seedance 2.5 for realistic character video (x-2094819241916801165)
 
 **Status:** captured_partial · **Author thread:** none · **Replies reported:** 57 · **Captured:** 1 · **Relevant:** 1 · **Unfetched:** 56 · **Truncated:** False
-**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z)
+**Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-05T00:50:00Z)
 **Raw payloads:** `raw/items/x-2094819241916801165/thread-raw/x-web-dom-20260904T175334Z.html`
 
 **Author continuation (0 posts).**

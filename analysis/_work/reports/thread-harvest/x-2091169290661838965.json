@@ -13,7 +13,7 @@
         "likes": 115,
         "replies": 4,
         "reposts": 19,
-        "views": 20558,
+        "views": 20559,
         "quotes": 1
       },
       "urls": [
@@ -30,7 +30,7 @@
         "likes": null,
         "replies": null,
         "reposts": null,
-        "views": 36158,
+        "views": 36162,
         "quotes": null
       },
       "urls": [
@@ -80,6 +80,6 @@
   "handle": "defileo",
   "http_status": 200,
   "url": "https://x.com/defileo/status/2091169290661838965",
-  "html_bytes": 224300,
-  "raw_path": "raw/items/x-2091169290661838965/thread-raw/x-web-dom-20260904T175316Z.html"
+  "html_bytes": 224299,
+  "raw_path": "raw/items/x-2091169290661838965/thread-raw/x-web-dom-20260905T003901Z.html"
 }

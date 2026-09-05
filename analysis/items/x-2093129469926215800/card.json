@@ -48,10 +48,27 @@
       "evidence_ref": "analysis/tools/hyperframes.md",
       "confidence": "demonstrated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2093129469926215800#c3",
+      "text": "The launch clip is an X amplify video 54.366 s at 3004×1240. Root quote on fxtwitter is _adishj/2093109977821159692 (“Motion mogs”), not the GitHub tweet. GitHub quote remains 2093129558883209348. Four of five replies are still unfetched.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/JakeFromHeyGen/status/2093129469926215800. video duration 54.366 width 3004 height 1240. replies 5. quote 2093109977821159692.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/hyperframes.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "HeyGen launch clip duration",
+      "value": "54.366",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [
     "hyperframes"

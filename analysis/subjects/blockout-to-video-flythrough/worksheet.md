@@ -33,7 +33,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 
 - Mint Studio “browser 3D camera for video” — thread failed. “Live now here!” `t.co/kfmFB5sFWU` → **mint.gg**. That site is a 3D-asset + MCP pipeline, not a documented camera-path exporter ([mint-studio](../../tools/mint-studio.md)).
 - npaka CLI vs MCP note is live ([blender-blockout-camera](../../techniques/blender-blockout-camera.md)): CLI = `blender … --background --python`; MCP = running-Blender dialogue. Combine CLI → MCP → CLI.
-- Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read). Official Seedance 2.0 page claims image/audio/video reference including camera movement ([seedance](../../tools/seedance.md)); the cafe `.blend` is still not in this bank.
+- Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read). Official Seedance 2.0 page claims image/audio/video reference including camera movement ([seedance](../../tools/seedance.md)); the cafe `.blend` is still not in this bank. Quoted Blender MCP article **2083925419800002560** is now in-bank (**3,924** chars): cube→red-sphere live check + campsite/angel recipes ([blender-mcp](../../tools/blender-mcp.md)). That article is an operating loop, not the Seedance export. Root video **46.733 s** / 1920×1080. Card is now `ready` (thread `empty`).
 - MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage.
 - CozyClay $17/30s miss — useful cost signal. **MCP verified** on this host: **25** tools (`load_motion` is the extra vs README 24), 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip. AGPL-3.0 ([cozyclay](../../tools/cozyclay.md)).
 - Unreal MCP shot — Level Sequence exists in the demo; whether it then hits Seedance/H3 is not in the card.
@@ -47,7 +47,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 
 ## blockout-to-video-flythrough — next capture work
 
-1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file).
+1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file). Cafe card is `ready`; remaining gap is the `.blend` file and a same-blockout Seedance vs 3D Director pass, not thread capture.
 2. CozyClay `mcp` verify (25 tools, 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip) is on [cozyclay](../../tools/cozyclay.md). Stock `verify:capture` timed out at 5 s. With SwiftShader flags + 30 s timeout it passed: **640×360** PNG, **230,400** non-black pixels, five on-camera views, cube occluder 0→7168. Banked `analysis/_work/captures/cozyclay-capture/artifact-640x360.png` (**93,730** B). Remaining: a GPU (non-SwiftShader) capture, and the same-blockout Seedance vs 3D Director pass.
 3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
 4. Intangible homepage is live (**130,479 B**, MCP Beta, no Blender string). Mint “Live now” t.co → mint.gg. Remaining: a downloadable camera-path from either host.

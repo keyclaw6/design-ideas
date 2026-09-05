@@ -48,6 +48,6 @@ Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-209
 ## gaussian-splatting — next capture work
 
 1. EULA + sample.ply URL are on the tool page. Remaining: run the Windows app on `sample.ply` and record wall-clock + whether the OBJ is watertight.
-2. LightFuse paper/project page are on the splat-pipeline NOTES. Remaining: replies on X, and a code/weights drop if one appears. Splat2Mesh JP replies still 0 tweet nodes.
+2. LightFuse paper/project page are on the splat-pipeline NOTES. Root video **33 s** / 1280×720. Remaining: replies on X, and a code/weights drop if one appears. Splat2Mesh JP replies still 0 tweet nodes; JP launch clip is **16.24 s** / 1148×652.
 3. IZUTSUYA converter page is summarized on [splat-pipeline](../../techniques/splat-pipeline.md) (500 MB, 5 free calc/month, AI paid, OBJ calc-only). Remaining: convert `sample.ply` and check whether the STL is manifold.
 4. Decide ArtiFixer: phone capture vs research scan. Nothing in this bank tests a handheld video.

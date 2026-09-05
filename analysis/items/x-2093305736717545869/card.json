@@ -70,10 +70,27 @@
       "evidence_ref": "analysis/tools/autodesk-fusion.md",
       "confidence": "demonstrated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2093305736717545869#c5",
+      "text": "The concentric-ring stress-test is an X amplify video 15.866 s at 2452×1080. No STEP/F3D of the ring assembly in this bank. Thread status is empty (0 replies reported).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/irinatoxi/status/2093305736717545869. video duration 15.866 width 2452 height 1080. replies 0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/autodesk-fusion.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Fusion rings demo duration",
+      "value": "15.866",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "cad-agent-assembly",
     "text-to-cad"
@@ -115,10 +132,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "thread-partial"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "x-2095193896687177873"

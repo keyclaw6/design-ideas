@@ -10,7 +10,8 @@
 
 **Claims.**
 - `x-2093915384944414827#c1` (capability, stated) The author claims an ultra-premium interactive finance site can be built in minutes with Claude Code and ChatGPT. — evidence: "Watch how to build this parallax scroll Next.js application in minutes using Claude Code and ChatGPT." [post]
-**Numbers.** —
+- `x-2093915384944414827#c2` (availability, demonstrated) The walkthrough is an X amplify video 533.524 s (~8.89 min) at 1920×1080. Two replies remain unfetched; thread status stays failed. — evidence: "GET https://api.fxtwitter.com/himanshubuildss/status/2093915384944414827. video duration 533.524 width 1920 height 1080. replies 2." [note]
+**Numbers.** Parallax finance walkthrough duration: 533.524 seconds (note)
 **Recipe.** —
 **Techniques.** [parallax-scroll-landing](../../techniques/parallax-scroll-landing.md)
 **Tools.** [claude-code](../../tools/claude-code.md), [chatgpt](../../tools/chatgpt.md)

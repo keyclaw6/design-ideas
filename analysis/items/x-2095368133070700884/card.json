@@ -38,10 +38,27 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "x-2095368133070700884#c2",
+      "text": "The teaser is an X amplify video 4.783 s at 3014×2160. Tweet says Prompt with a down-arrow; the prompt body is still missing. Thread status stays failed (1 reply unfetched).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/_heyfaisal/status/2095368133070700884. video duration 4.783 width 3014 height 2160. replies 1. text includes Prompt.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gpt-5-6-sol.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Sol demo duration",
+      "value": "4.783",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "prompt-to-html-landing"
   ],
@@ -80,7 +97,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-partial"
+    "thread-failed"
   ],
   "judge_hints": {
     "compare_with": [

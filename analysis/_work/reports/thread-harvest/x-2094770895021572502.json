@@ -13,7 +13,7 @@
         "likes": 188,
         "replies": 26,
         "reposts": 4,
-        "views": 21915,
+        "views": 21961,
         "quotes": 0
       },
       "urls": []
@@ -28,7 +28,7 @@
         "likes": null,
         "replies": null,
         "reposts": null,
-        "views": 32537,
+        "views": 32595,
         "quotes": null
       },
       "urls": [
@@ -94,6 +94,6 @@
   "handle": "a_shimanski",
   "http_status": 200,
   "url": "https://x.com/a_shimanski/status/2094770895021572502",
-  "html_bytes": 230965,
-  "raw_path": "raw/items/x-2094770895021572502/thread-raw/x-web-dom-20260904T175334Z.html"
+  "html_bytes": 230961,
+  "raw_path": "raw/items/x-2094770895021572502/thread-raw/x-web-dom-20260905T003901Z.html"
 }

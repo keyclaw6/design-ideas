@@ -47,6 +47,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094769581965369822#c3",
+      "text": "The attached demo is an X amplify video 33 s at 1280×720. Thread status stays failed (1 reply unfetched).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/janusch_patas/status/2094769581965369822. video duration 33 width 1280 height 720. replies 1.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/splat-pipeline.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": null,
