@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2093481253043380418#c3",
+      "text": "No first-party YouTube-pipeline host this pass. calliope.so **10,169 B** is Calliope AI - Your Decision Intelligence (wrong product). calliope.ai Cloudflare **403**. app.calliope.ai 302s to Auth0 (calliopeai.us). calliope.video / calliopelabs.com NXDOMAIN. Thread is captured_full (3/3); tweet idea→script→2D→VO stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "GET calliope.so 10169 B Decision Intelligence. calliope.ai 403. leftover6-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/calliope.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
@@ -86,10 +96,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "thread-partial"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,

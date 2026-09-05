@@ -34,6 +34,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2093421870951387625#c2",
+      "text": "Quoted t.co/9FOIQmC9DK → https://superhivemarket.com/products/bqr-boolean-quad-ready/?ref=8235. SuperHive Cloudflare **403** this pass — do not hammer. blendermarket.com/products/bqr 301s to the same SuperHive host (also 403). No first-party quad-after-boolean body in this bank.",
+      "kind": "availability",
+      "evidence": "GET t.co/9FOIQmC9DK final superhivemarket.com/products/bqr-boolean-quad-ready 403. leftover6-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/bqr-blender-addon.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "numbers": [],
@@ -47,7 +57,7 @@
     "canonical": "https://x.com/3DxDEV7/status/2093421870951387625",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://superhivemarket.com/products/bqr-boolean-quad-ready/",
     "other": [],
     "related_items": []
   },

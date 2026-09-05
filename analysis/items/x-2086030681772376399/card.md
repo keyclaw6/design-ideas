@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2086030681772376399#c1` (capability, stated) Claude Opus 5 plus Remotion is claimed to generate motion design, demos, and animations from a single prompt. — evidence: "Claude Opus 5 + Remotion can now generate videos. It can do motion design, demos and animations from a single prompt..." [post]
-**Numbers.** —
+- `x-2086030681772376399#c2` (pricing, demonstrated) remotion.dev **113,524 B**: Make videos programmatically with React; Agent Skills named; `npx create-video@latest`. GitHub remotion-dev/remotion **58,331★** / license **NOASSERTION** (homepage footer 57K — do not collapse). Pricing first-party: orgs ≤3 Free; Company 4+; Automators **$0.01/render** / **$100/mo** min; Creators **$25/mo per seat**; Enterprise from **$500/mo**. Footer: 5M+ installs/mo, 35 templates, 10K+ Discord, 300+ contributors. — evidence: "GET remotion.dev 113524 B; api.github.com/repos/remotion-dev/remotion 58331 stars. leftover6-2026-09-05/remotion-visible.txt" [note]
+**Numbers.** GitHub stars: 58331  (note); creator seat: 25 USD per month (note); automator minimum: 100 USD per month (note)
 **Recipe.** —
 **Techniques.** [remotion-code-video](../../techniques/remotion-code-video.md)
 **Tools.** [remotion](../../tools/remotion.md)
-**Links.** —
+**Links.** repo (https://github.com/remotion-dev/remotion), product (https://www.remotion.dev/)
 **Related items.** [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [x-2095204640690147487](../x-2095204640690147487/card.md), [x-2094164487381414344](../x-2094164487381414344/card.md)
 **Media.**
 `raw/items/x-2086030681772376399/media/media_0.jpg` (video, carries_technique=true) — Attached vertical demo reel showing code-rendered motion graphics output from a Claude Opus 5 plus Remotion workflow.

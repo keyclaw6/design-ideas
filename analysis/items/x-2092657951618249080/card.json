@@ -39,17 +39,29 @@
       "evidence_ref": "raw/items/x-2092657951618249080/post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2092657951618249080#c2",
+      "text": "Same first-party homepage as the sibling Intangible card: GET https://www.intangible.ai/ **200 / 130,479 B**. Title Intangible · For creatives who direct the real world. Nav: Build 3D sets / Compose cameras & animation / Visualize renders / **MCP Beta**. Quotes No prompt roulette. HTML has no Blender string. Camera-parenting recipe and a public camera-path file format stay tweet-only.",
+      "kind": "capability",
+      "evidence": "analysis/_work/captures/intangible-ai-2026-09-04.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/intangible-ai.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "intangible-ai"
+  ],
   "links": {
     "canonical": "https://x.com/intangibleai/status/2092657951618249080",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://intangible.ai",
     "other": [],
     "related_items": []
   },

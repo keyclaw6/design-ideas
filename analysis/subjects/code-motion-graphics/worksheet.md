@@ -20,13 +20,13 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 | video-shotcraft | high | Remotion | README 157 cards / 214 styles | high (Claude Code) | n/a |
 | Claude Motion Prompt | high | HTML player + MP4 | beat sheet | high | n/a |
 | Claude motion graphics 2.0 | mid (script is source) | their renderer | script lines | high | n/a (ships audio) |
-| Glif skill | unknown (hosted) | Glif | style presets | mid | n/a |
+| Glif skill | unknown (hosted) | Glif chat card `explainer-motion-graphics-video` live | style presets | mid | n/a |
 | LottieFiles | mid (library + Copilot) | Lottie/dotLottie | 800k+ library stated | mid | n/a |
 | animos | low (templates) | raster MP4/WebM | 25 templates | low | n/a |
 | AE → H3 | low (AE is source) | AE + H3 | comps | human | high |
-| CoAnimator + Fable | mid | their 3D scene | unknown | claimed editable | n/a |
+| CoAnimator + Fable | mid | desktop WebGL (local GPU); unlimited local MP4 | unknown | claimed editable; Claude Code / Codex / Antigravity / OpenClaw named | n/a |
 | MiniMax M3 logo-to-film | unknown | model | none | low | this *is* the model |
-| Opus 5 + Remotion reaction | unknown | Remotion | none | claimed | n/a |
+| Opus 5 + Remotion reaction | unknown | Remotion (React; Agent Skills named) | none | claimed | n/a |
 
 ## code-motion-graphics — claims that need a receipt
 
@@ -51,3 +51,5 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 3. loopany reddit-karma prompt body is on [loop-library](../../tools/loop-library.md). Headlong cloc 1.98 (**9,912 code**) is on [headlong](../../tools/headlong.md).
 4. AE→H3 Japanese handoff ([x-2092040265234260091](../../items/x-2092040265234260091/card.md)) is an X video **7.061 s** / 1232×1276. Recipe already English. Stale `thread-failed` dropped; thread is `captured_partial` 13/1.
 5. Motion Prompt Google Doc is now first-party ([x-2088155107544191339#c3](../../items/x-2088155107544191339/card.md); [claude-motion-prompt](../../tools/claude-motion-prompt.md)): 4–7 beats; `.mp4` + `.html`; 15–20 s / ~600 frames / 5–15 min; Opus 5. Install is a sent `.skill` file, not a public repo.
+6. Remotion homepage + GitHub are first-party ([remotion](../../tools/remotion.md)): **58,331★** / license NOASSERTION; Creators **$25/mo/seat**; Automators **$0.01/render** / **$100/mo** min ([x-2086030681772376399#c2](../../items/x-2086030681772376399/card.md)).
+7. CoAnimator product page **165,040 B** ([coanimator](../../tools/coanimator.md)): local unlimited MP4; free 720p watermark; Lottie not shipped. Glif t.co → explainer-motion-graphics card ([glif](../../tools/glif.md)).

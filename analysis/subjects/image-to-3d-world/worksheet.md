@@ -17,7 +17,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 |---|---|---|---|---|---|
 | Hyper3D WorldGen | single photo | claimed interactive/physics world | unknown | unknown (research + product) | unknown (Yingmu / SIGGRAPH 2025) |
 | Atlas + spark.js | single photo (Marble) | navigable splat; mesh is a paid export | collider 100–200k / HQ 600k–1M | three.js / spark.js + GLB | World Labs; Free cannot export |
-| Atlas 3D AI | text sentence | Unreal ride-through; Blender staging claimed | unknown | Blender + Unreal (promo) | product; no license text in capture |
+| Atlas 3D AI | text sentence (tweet) | Unreal ride-through; Blender staging claimed | unknown | Blender + Unreal (promo) | atlas3d.ai is a *different* mapping company — do not collapse |
 | Lumera | single image | claimed separate meshes + movable lights | claimed object-split | UE5 / Blender | code/weights “coming soon” |
 | Lucida | indoor video | claimed scene-graph + Seed3D meshes | unknown | unknown | ByteDance research |
 | Top3D (Hitem3D/Meshy/Tripo) | image/text (arena live **143,839 B**; also Hunyuan / Hyper3D / Rodin / Trellis + ELO) | mesh, not a world | arena-dependent | typical DCC export | vendor TOS |
@@ -32,12 +32,13 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 ## image-to-3d-world — claims that need a receipt
 
 - Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; `/worldgen` 404; `/workspace/worldgen` is an **11,026**-byte login SPA with no public mesh download — now on card `#c4` ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). CAST paper tables now quoted there (CLIP 85.77 / 3D-Front CD-S 0.052). Still no engine file.
-- Atlas 3D AI “one sentence → Unreal ride” — 35 replies / 3 captured; the ride may be video, not an `.uproject`.
+- Atlas 3D AI “one sentence → Unreal ride” — 35 replies / 3 captured; the ride may be video, not an `.uproject`. Live `atlas3d.ai` **26,323 B** is Atlas Spatial Intelligence (cm-level maps / ROS2 / Cesium) — counter-claim on [atlas-3d-ai](../../tools/atlas-3d-ai.md).
+- BQR “clean quads after boolean” — t.co → SuperHive `bqr-boolean-quad-ready` Cloudflare **403** — do not hammer ([bqr-blender-addon](../../tools/bqr-blender-addon.md)).
 - Lumera object-split meshes + HDR lights — project page is a 1 KB JS shell; weights/code still missing.
 - Lucida parse/generate/place + GizmoAct — **abs + project page first-party** ([image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md)): R2S-Scene AP **0.592** vs Boxer **0.351**; ADD-SB@0.05 **83.4%** on CA-1M; F-Score **0.924**. Seed3D 2.0 stays tweet-only. Card is now `ready`. No weights zip.
 - Needle 3.2M→3k in 3s with “superb normals” — demo numbers, tool not shipping in this capture.
 - Bee topology with “no prompt, no retries” — tool unnamed; cannot reproduce.
-- kokraf four-view projection is the only `demonstrated` claim (media + repo). Use it as the texture-path reference.
+- kokraf four-view projection remains the texture-path `demonstrated` reference (media + repo). Atlas 3D AI and BQR leftovers now have first-party host receipts, not a runnable mesh.
 
 ## image-to-3d-world — do not treat as load-bearing
 

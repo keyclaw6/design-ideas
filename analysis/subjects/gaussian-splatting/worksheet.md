@@ -17,7 +17,7 @@ LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-20905892936770235
 |---|---|---|---|---|---|
 | LichtFeld Studio | video / images (implied) | train-centric | splat; feeds Splat2Mesh in the print demo | local GPU (4090 cited) | if capture is sparse → ArtiFixer |
 | Splat.js | images in-browser + SfM | train in-tab | web splat | local browser | unknown on phone video |
-| SuperSplat | existing splat | brush select | editor | local / web | n/a |
+| SuperSplat | existing splat | brush select (tweet; not on README/homepage) | editor (OSS MIT **9,947★**; live superspl.at/editor) | local / web | n/a |
 | SplatPaint | splat *or* image/logo/model | paint, sculpt, relight, FX | browser scene | hosted sandbox | n/a |
 | Spatial Studio | splat capture | camera path | 4K video | in-browser | n/a (leaves splat-land) |
 | Splat2Mesh (Arcana) | 3DGS PLY | none | OBJ/GLB; print via Mimaki demo | local CPU, no GPU claimed | mesh quality unknown |
@@ -53,3 +53,4 @@ Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-209
 4. Decide ArtiFixer: phone capture vs research scan. Nothing in this bank tests a handheld video.
 5. Splat.js is `arrival-space/splat.js` MIT **116★** — in-browser WebGPU trainer + JS SfM; live `arrival.space/splat-js` ([x-2090839282831270173#c2](../../items/x-2090839282831270173/card.md); [splat-js](../../tools/splat-js.md)). Do not collapse with GaussianSplats3D or the 2D SplatJS engine.
 6. LichtFeld Studio repo is GPL-3.0 **3,656★** ([x-2091899114153754949#c2](../../items/x-2091899114153754949/card.md)). Tweet 5M / 30k / 4090 stays tweet-only. lichtfeld.io **403** — do not hammer.
+7. SuperSplat is first-party on [supersplat](../../tools/supersplat.md): MIT **9,947★**; live `superspl.at` **177,574 B** (Explore / Editor / Convert). Brush selection stays tweet-only ([x-2093397098544648516#c3](../../items/x-2093397098544648516/card.md)).

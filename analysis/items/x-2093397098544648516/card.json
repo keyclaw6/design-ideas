@@ -48,10 +48,33 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2093397098544648516#c3",
+      "text": "playcanvas/supersplat is MIT **9,947★** / 1,120 forks (API 2026-09-05). README: free OSS browser editor for inspect/edit/optimize/publish; live https://superspl.at/editor; Node 20.19+ for local `npm run develop`. Homepage superspl.at **177,574 B** title SuperSplat - The Home for 3D Gaussian Splatting; nav Explore / Editor / Convert; Publishing API + CC 4.0 free downloads named. Brush selection string is absent from README and homepage HTML this pass.",
+      "kind": "availability",
+      "evidence": "GET api.github.com/repos/playcanvas/supersplat 9947 stars MIT. README 3197 B. superspl.at 177574 B. leftover6-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/supersplat.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "9947",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "homepage bytes",
+      "value": "177574",
+      "unit": "bytes",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "splat-pipeline"
   ],
@@ -60,9 +83,9 @@
   ],
   "links": {
     "canonical": null,
-    "repo": null,
+    "repo": "https://github.com/playcanvas/supersplat",
     "paper": null,
-    "product": null,
+    "product": "https://superspl.at/editor",
     "other": [],
     "related_items": [
       "x-2094929928865341832",

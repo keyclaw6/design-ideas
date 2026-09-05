@@ -19,7 +19,7 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 | Flint | JS: VL / ECharts / Chart.js / Plotly / Excel. Hosted MCP render enum: VL / ECharts / Chart.js | **11** theme preset files; ThemeSpec → Vega-Lite | IL + hosted MCP **6** tools (v0.5.1) | high (same spec compiled VL+ECharts here) | n/a |
 | Mono Charts | React components | Amicro look | kit | data props implied | unknown |
 | archify | animated architecture | unknown | skill | “verifiable” claimed | n/a |
-| system-atlas | isometric map | one data file | skill | bound to that file | n/a |
+| system-atlas | isometric map (`atlas.html`) + generated `SYSTEM.md` | one `data.mjs` | skill (`npx skills add inkboard/system-atlas`; MIT **392★**) | bound to that file | n/a |
 | FleetingBits | explorable diagram | unknown | technique | inspectable dots claimed | n/a |
 | canvas worker | in-chat canvas | unknown | harness add-on | unknown | n/a |
 | iCraft | 3D network (GitHub **1,535★ / 128** forks; icraft.design live) | product look | editor (Free/Pro/Enterprise named) | static-ish | n/a |
@@ -48,3 +48,4 @@ Owner aliases: infographics, diagrams, charts. A diagram that only illustrates a
 1. AntV SSR fixture + Diagram Design architecture HTML token notes are on the tool pages. Remaining: a *fresh* agent-emitted SVG (not the repo fixture) if someone reruns the skill.
 2. Flint `assemblePlotly` (1 scatter trace) and hosted `render_chart` vegalite **SVG 17,393 B / PNG 23,944 B** are on [flint-chart-mcp](../../tools/flint-chart-mcp.md). `render_chart` still has no Plotly/Excel backend.
 3. Carousel studio is live (screenshot → pan → numbered frames; MCP named). 2026-09-05 OSS hunt still empty (card `#c4`): `dashboardstack.sh` is a different Nuxt/Next framework; org repos `[]`; dennis 26 public repos have no studio name. Remaining: the promised OSS repo.
+4. system-atlas is first-party on [system-atlas](../../tools/system-atlas.md): MIT **392★**; `data.mjs` → `atlas.html` + `SYSTEM.md`; chapters ≤3 new structures ([x-2091559663833924082#c3](../../items/x-2091559663833924082/card.md)).

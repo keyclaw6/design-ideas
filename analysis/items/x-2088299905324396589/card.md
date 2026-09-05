@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2088299905324396589#c1` (capability, stated) Atlas builds concept art, 3D assets, a Blender staging pass, and an Unreal ride-through scene from one sentence prompt. — evidence: "Concept art, 3D assets, a staging pass in Blender, an Unreal scene you can ride through." [post]
 - `x-2088299905324396589#c2` (capability, stated) Atlas keeps the world on one canvas so the look stays consistent from first image to engine. — evidence: "One canvas, so the world keeps one look from first image to engine." [post]
+- `x-2088299905324396589#c3` (counter-claim, demonstrated) atlas3d.ai **26,323 B** is Atlas Spatial Intelligence Inc. (centimeter-level 3D maps, ROS2 / WebGL / Cesium / Unreal GIS tiles, NVIDIA Inception). HTML has no one-sentence / concept-art / Blender staging / ride-through strings. Do not collapse the @Atlas3DAI tweet with this mapping company. Tweet Unreal ride stays tweet-only. — evidence: "GET www.atlas3d.ai 26323 B Atlas Spatial Intelligence. leftover6-2026-09-05/atlas3d-visible.txt" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md), [worldgen-to-video](../../techniques/worldgen-to-video.md)
 **Tools.** [atlas-3d-ai](../../tools/atlas-3d-ai.md)
-**Links.** —
+**Links.** https://www.atlas3d.ai/
 **Related items.** [x-2094864872853119216](../x-2094864872853119216/card.md), [x-2087905319255257296](../x-2087905319255257296/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md), [github-nv-tlabs-ArtiFixer](../github-nv-tlabs-ArtiFixer/card.md)
 **Media.**
 `raw/items/x-2088299905324396589/media/media_0.jpg` (video, carries_technique=true) — Promo clip of a Highlands bike scene progressing from concept art through 3D assets into a Blender staging pass and Unreal ride-through.

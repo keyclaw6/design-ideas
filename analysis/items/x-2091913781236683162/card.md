@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091913781236683162#c1` (capability, stated) Magnific 3D Motion lets you generate a 3D space and control camera motion around it. — evidence: "Generate an entire 3D space, control the camera motion around it." [post]
 - `x-2091913781236683162#c2` (recipe, stated) Exported 3D motion from Magnific can be used as a reference for Seedance 2.5 to recreate movement in a new scene. — evidence: "Export the 3D motion and use it as a reference for Seedance 2.5!" [post]
+- `x-2091913781236683162#c3` (counter-claim, demonstrated) magnific.ai / magnific.com/3d-motion /app/3d-motion all **403** this pass (security filter) — do not hammer. Prior leftover homepage magnific.ai **603,673 B** (Title Magnific formerly Freepik) lists Minimax; strings H3 / 480p / 5 seconds / 3D Motion / Seedance are absent. Tweet export-to-Seedance-2.5 stays tweet-only. — evidence: "GET magnific.com/3d-motion 403. Prior leftover-2026-09-05 magnific 603673 B. leftover6-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md), [seedance-motion-reference](../../techniques/seedance-motion-reference.md)

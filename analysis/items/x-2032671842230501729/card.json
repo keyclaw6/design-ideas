@@ -60,6 +60,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2032671842230501729#c4",
+      "text": "Install t.co → https://agents.hyper.space/api/install (**5,803 B**, title Hyperspace Agent). Site t.co → https://agents.hyper.space/ (same 5,803 B shell). Agents t.co → github.com/hyperspaceai/agi MIT **2,038★**; description P2P gossip / browser or CLI; homepage agents.hyper.space. clawhub.ai/hyperspace **404**. Do not collapse with hyperspace.ai (All-in-one AI Tool, **446,595 B**) or hyperspace.so (shape light, **327,746 B**). Tweet 237 agents / 14,832 experiments absent from the 5,803 B shell.",
+      "kind": "availability",
+      "evidence": "GET api.github.com/repos/hyperspaceai/agi 2038 stars MIT. agents.hyper.space 5803 B. leftover6-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/hyperspace.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,
@@ -75,6 +85,12 @@
       "value": "14832",
       "unit": null,
       "source": "post"
+    },
+    {
+      "label": "GitHub stars",
+      "value": "2038",
+      "unit": null,
+      "source": "note"
     }
   ],
   "techniques": [
@@ -87,9 +103,9 @@
   ],
   "links": {
     "canonical": "https://x.com/varun_mathur/status/2032671842230501729",
-    "repo": null,
+    "repo": "https://github.com/hyperspaceai/agi",
     "paper": null,
-    "product": null,
+    "product": "https://agents.hyper.space/",
     "other": [],
     "related_items": [
       "x-2032330665081839791",

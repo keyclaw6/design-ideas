@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2095214420398121034#c3",
+      "text": "mapsdata.ai **55,354 B** / pricing **46,936 B**. Title Google Maps Scraper with Verified Emails. First-party monthly: Starter **$19** / **$1.90 per 1,000** / 10k leads / 10k per search; Pro **$49** / **$0.98 per 1,000** / 50k / 50k per search; Scale **$99** / **$0.33 per 1,000** / 300k / **100,000 per search**. Annual SAVE 20%: $15 / $39 / $79 ($1.50 / $0.78 / $0.26 per 1k). Hero “as low as $3.30 per 10,000” is Scale annual math. **500 free leads a month** (refills; no card). Allowance counts only leads with an email. Tweet $0.33–$0.98 is Scale monthly + Pro monthly, not a single plan. US/CA/UK/AU. Product of Hiive Arts.",
+      "kind": "pricing",
+      "evidence": "GET mapsdata.ai 55354 B; /pricing 46936 B. leftover6-2026-09-05/mapsdata-pricing-visible.txt",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mapsdata.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],
@@ -76,16 +86,50 @@
       "value": "500",
       "unit": "leads",
       "source": "post"
+    },
+    {
+      "label": "Scale monthly per 1000",
+      "value": "0.33",
+      "unit": "USD per 1000 leads",
+      "source": "note"
+    },
+    {
+      "label": "Pro monthly per 1000",
+      "value": "0.98",
+      "unit": "USD per 1000 leads",
+      "source": "note"
+    },
+    {
+      "label": "Starter monthly per 1000",
+      "value": "1.90",
+      "unit": "USD per 1000 leads",
+      "source": "note"
+    },
+    {
+      "label": "free leads per month",
+      "value": "500",
+      "unit": "leads",
+      "source": "note"
+    },
+    {
+      "label": "Scale max per search",
+      "value": "100000",
+      "unit": "leads",
+      "source": "note"
     }
   ],
   "techniques": [],
-  "tools": [],
+  "tools": [
+    "mapsdata"
+  ],
   "links": {
     "canonical": null,
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://mapsdata.ai/",
+    "other": [
+      "https://mapsdata.ai/pricing"
+    ],
     "related_items": [
       "x-2094927852399624557",
       "web-treg-people-search"

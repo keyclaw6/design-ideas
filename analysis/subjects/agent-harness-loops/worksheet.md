@@ -22,7 +22,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Control Plane X artic
 | session-migrate | n/a (converter; MIT **82★**; description **18** harnesses) | n/a | n/a | high (this *is* migrate) | n/a |
 | Chadha primer | essay + site | n/a | primer on evals | n/a | research swarm |
 | Codex 212× QR | example write-up | unknown | GPU Mode task | unknown | search loop |
-| Hyperspace / Autoquant | claimed swarm | unknown | backtests claimed | DAG claimed | multi |
+| Hyperspace / Autoquant | claimed swarm; live shell `agents.hyper.space` **5,803 B**; repo `hyperspaceai/agi` MIT **2,038★** | unknown | backtests claimed | DAG claimed | multi |
 | is-agentic 100/100 | high (external scorer; live featured **100/100** on is-agentic.com) | n/a | high (the scorer) | loop until pass | single |
 | Kun Chen YOLO + Nix | technique | high (disposable machine) | none | n/a | single |
 | fini 24k actions | warning | high (shared profile) | none | n/a | six bots, one login |
@@ -36,7 +36,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Control Plane X artic
 ## agent-harness-loops — claims that need a receipt
 
 - Codex “212×” QR kernel — **blog says 232×** (419,000 µs → 1,805 µs), 12th of 183, GPU Mode `qr_v2` compact-Householder QR ([codex](../../tools/codex.md)). Tweet number is stale.
-- Autoquant 135 agents / four-layer pipeline — architecture claim.
+- Autoquant 135 agents / four-layer pipeline — architecture claim. Hyperspace v3 237 / 14,832 is tweet-only; first-party is `hyperspaceai/agi` MIT **2,038★** + a **5,803 B** agents.hyper.space shell. Do not collapse with hyperspace.ai / hyperspace.so ([hyperspace](../../tools/hyperspace.md)).
 - fini 23,999 actions in 20 minutes — warning anecdote; useful as a blast-radius story, not a benchmark.
 - Anthropic cost $0.29 → 90% less — raw notebook now first-party: **$0.2906/task** print + “roughly 90% under the Opus baseline” ([claude-agent-sdk](../../tools/claude-agent-sdk.md)). Still not a re-run on this host.
 - Headlong “<10K LOC” — **README now says ~11K** (cloc, capped 11.5K). Local `wc -l` is **12,133 + 1,814 = 13,947**. cloc 1.98 on the same dirs is **9,912 code** / 2,600 comment / 1,351 blank. Do not collapse the three integers. Blog 9.9K / tweet <10K are stale. Persistent-agency + $1–2/hr idle cost are first-party ([headlong](../../tools/headlong.md)).

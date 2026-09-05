@@ -21,8 +21,8 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 | Kitesurf | runnable (Workers beta) | Workers isolation | CF account | page fetch on CF | agent-first browser |
 | KERNEL + CA bundle | hosted browsers | mid (cloud + your proxy) | CA install at create | via your proxy | browser |
 | aimock | mock stack | n/a (localhost) | none | mocks search | HTTP mocks |
-| OmniParser | parser | n/a | n/a | n/a | computer-use (clicks) |
-| free search pitch | unknown endpoint | unknown | unknown | claimed | HTTP |
+| OmniParser | parser (microsoft/OmniParser CC-BY-4.0 **25,370★**; API SPDX ≠ README MIT badge) | n/a | n/a | n/a | computer-use (clicks); OmniTool Win11 VM named |
+| free search pitch | named: monid.ai/blog/tinyfish + tinyfish.ai Search/Fetch **$0** | TinyFish browser/agent are paid | Monid Skill/MCP/CLI | first-party $0 search/fetch; Exa $7 / Tavily $8 / SerpAPI $25 / Brave $5 | HTTP |
 | Rakazo | Grok-Bot alt | sandboxes stated | unknown | n/a | harness, not browser |
 | viral 30MB/85ms tweet | restates Obscura | claimed | n/a | n/a | browser |
 
@@ -31,8 +31,8 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 - treg endpoint count — **README 2,896 / 60**; **homepage hero 2,630 / 47** (same page also says 42). `providers.json` v12 is **104 BYO env-door names**, not the metered catalog. `/tools/` 401. See [treg](../../tools/treg.md).
 - Obscura ~24k stars, sub-50ms boot, 30MB RAM, 85ms loads — marketing + viral restatement; time a session locally.
 - Kitesurf “ported from Obscura” — blog + Browser Run limits + CDP `/devtools` + Dynamic Workers docs fetched ([kitesurf](../../tools/kitesurf.md)). Card `web-cloudflare-kitesurf` linked pages are now in-bank. Cannot yet: video, WebGL, bot-challenge TLS, long authenticated sessions. Free plan: 10 min/day, 3 concurrent, 60s idle.
-- Free search “$0 vs $7/1k” — name the API or drop the claim.
-- OmniParser accuracy on GPT-4o / DeepSeek / Qwen — paper numbers, not in this capture.
+- Free search “$0 vs $7/1k” — first-party on [tiny-fish](../../tools/tiny-fish.md) / [monidhq](../../tools/monidhq.md): TinyFish search/fetch **$0**; tweet $7 matches **Exa only** (Tavily $8 / SerpAPI $25 / Brave $5).
+- OmniParser accuracy on GPT-4o / DeepSeek / Qwen — README claims Screen Spot Pro **39.5%** (V2); paper arXiv 2408.00203. Repo is CC-BY-4.0 **25,370★** (do not collapse with the README MIT badge).
 
 ## mcp-and-agent-browsers — do not treat as load-bearing
 
@@ -45,3 +45,5 @@ Rakazo is an open Grok-Bot on the Pi harness ([x-2087898602890744089](../../item
 2. Obscura 0.2.1 boot: example.com PNG 17,130 B / 1280×720; idle serve RSS ~25 MB; example.com CDP **37,856 KB**; tinyshelf fetch PNG **73,559** B / **13,883** chars / scrollHeight **3158**; tinyshelf CDP loaded **73,080 KB** (~71.4 MB, 20 threads) vs idle **25,108 KB** — [obscura](../../tools/obscura.md). Do not collapse those four RAM/size rows with README “30 MB”. Remaining: a GPU/headed comparison, not another HTML page.
 3. Kitesurf blog, Browser Run limits, CDP `/devtools` endpoints, and Dynamic Workers docs are on [kitesurf](../../tools/kitesurf.md). Remaining: a live Browser Run session (needs a CF token with Browser Rendering - Edit).
 4. KERNEL homepage first-party **<30ms** cold start + “manage proxies” is on [kernel-browser](../../tools/kernel-browser.md). Docs index has no CA-bundle string. Tweet trust-store install stays tweet-only.
+5. Free-search pitch is now first-party: Monid blog + TinyFish homepage ([x-2093050916953903451#c3](../../items/x-2093050916953903451/card.md)). Remaining: a live agent call, not another HTML page.
+6. OmniParser t.co → microsoft/OmniParser; OmniTool model list is on the README ([x-2093153416214114558#c3](../../items/x-2093153416214114558/card.md)). Remaining: a local parse of one screenshot.

@@ -47,6 +47,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2093050916953903451#c3",
+      "text": "t.co/GbQ7lZtot2 → https://monid.ai/blog/tinyfish (**67,350 B**): Search & fetch 100% free via TinyFish; table SerpAPI **$25** / Tavily **$8** / Exa **$7** / Brave **$5** / TinyFish **$0** per 1,000. Tweet “Them: $7 per 1,000” matches Exa only — do not collapse the four paid rows. monid.ai **91,135 B**: 1,700+ tools / 55+ providers; Skill + MCP + CLI; **$0.0013** per call; $1 free credit. tinyfish.ai **364,178 B**: Search and Fetch APIs now free (never draw Wallet); Agent **$0.016/step** / Browser **$0.002/min**; MCP `https://agent.tinyfish.ai/mcp`. Mind2Web **89.9%** is homepage marketing.",
+      "kind": "pricing",
+      "evidence": "GET monid.ai/blog/tinyfish 67350 B; monid.ai 91135 B; tinyfish.ai 364178 B. leftover6-2026-09-05/monid-blog-visible.txt",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tiny-fish.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "recipe_steps": null,
@@ -56,6 +66,24 @@
       "value": "7",
       "unit": "USD per 1000 searches",
       "source": "post"
+    },
+    {
+      "label": "Exa per 1000 cited on Monid blog",
+      "value": "7",
+      "unit": "USD per 1000 searches",
+      "source": "note"
+    },
+    {
+      "label": "TinyFish search/fetch",
+      "value": "0",
+      "unit": "USD per 1000",
+      "source": "note"
+    },
+    {
+      "label": "Monid per call",
+      "value": "0.0013",
+      "unit": "USD",
+      "source": "note"
     }
   ],
   "techniques": [
@@ -69,8 +97,11 @@
     "canonical": "https://x.com/shengkunye/status/2093050916953903451",
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://monid.ai/blog/tinyfish",
+    "other": [
+      "https://www.tinyfish.ai/",
+      "https://monid.ai/"
+    ],
     "related_items": [
       "x-2087898602890744089",
       "x-2093153416214114558"

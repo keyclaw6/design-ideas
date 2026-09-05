@@ -6,7 +6,20 @@
   "duplicate_of": null,
   "secondary_subjects": [],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "25370",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "Screen Spot Pro claimed",
+      "value": "39.5",
+      "unit": "percent",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [],
   "gaps": [],
@@ -62,14 +75,26 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2093153416214114558#c3",
+      "text": "t.co/EVyRdK4iJv → github.com/microsoft/OmniParser. API: CC-BY-4.0 **25,370★** / 2,231 forks (README badge says MIT — do not collapse with the API SPDX). README: screen-parse for GPT-4V grounding; OmniTool Windows 11 VM + OpenAI 4o/o1/o3-mini, DeepSeek R1, Qwen 2.5VL, Anthropic Computer Use; paper arXiv 2408.00203; V2 Screen Spot Pro **39.5%** claimed; Hugging Face microsoft/OmniParser **171,529 B**. icon_detect_v3 MIT YOLOv9; earlier Ultralytics detectors AGPL; captions MIT.",
+      "kind": "capability",
+      "evidence": "GET api.github.com/repos/microsoft/OmniParser 25370 stars CC-BY-4.0. README 5750 B. leftover6-2026-09-05/omniparser-readme.md",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/_work/captures/leftover6-2026-09-05/omniparser-readme.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "links": {
     "canonical": null,
-    "repo": null,
-    "paper": null,
+    "repo": "https://github.com/microsoft/OmniParser",
+    "paper": "https://arxiv.org/abs/2408.00203",
     "product": null,
-    "other": [],
+    "other": [
+      "https://huggingface.co/microsoft/OmniParser"
+    ],
     "related_items": []
   },
   "media": [

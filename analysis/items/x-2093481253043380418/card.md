@@ -2,7 +2,7 @@
 
 `x-2093481253043380418` · x · demo-video · en · [source](https://x.com/CalliopeLabsyt/status/2093481253043380418) · [raw](../../../raw/items/x-2093481253043380418/)
 **Author:** Calliope for YouTube (@CalliopeLabsyt) · **Published:** — · **Captured:** 2026-09-04T06:49:47Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [ai-video-generation](../../subjects/ai-video-generation/brief.md) · **Also:** — · **Roles:** tool, technique · **Platforms:** other
 
 **Summary.** Calliope product demo claiming one idea flows through script, characters, 2D animation, and voiceover into a finished faceless YouTube video without animation experience.
@@ -13,6 +13,7 @@
 - `x-2093481253043380418#c2` (capability, stated) Calliope requires no animation experience—users only supply the idea. — evidence: "No animation experience required.
 
 Just bring the idea." [post]
+- `x-2093481253043380418#c3` (counter-claim, demonstrated) No first-party YouTube-pipeline host this pass. calliope.so **10,169 B** is Calliope AI - Your Decision Intelligence (wrong product). calliope.ai Cloudflare **403**. app.calliope.ai 302s to Auth0 (calliopeai.us). calliope.video / calliopelabs.com NXDOMAIN. Thread is captured_full (3/3); tweet idea→script→2D→VO stays tweet-only. — evidence: "GET calliope.so 10169 B Decision Intelligence. calliope.ai 403. leftover6-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [faceless-video-pipeline](../../techniques/faceless-video-pipeline.md)

@@ -32,7 +32,7 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 - 97 prospects → 1 demo in 24h — must-read; need the ICP definition and whether the demo was booked or held.
 - treg $0.0089 per lead and “1B+ contacts” — now first-party on `/people-search` (**83,902 B**): 1B+ / 60 providers / `people.email.find` from $0.0089. Do not collapse with companies.search Apollo $0.026 ([treg](../../tools/treg.md)). People Search Bench leaderboard (README): Lessie 65.2 / Exa 55.0 / Claude Code 46.0 / Juicebox 45.8 — **treg is not on the table** ([people-search-bench](../../tools/people-search-bench.md)).
 - 10k emails/day via 500 inboxes / 167 domains — capacity formula, not a delivered log.
-- MapsData ~$0.33–$0.98 per 1k leads — promo pricing.
+- MapsData ~$0.33–$0.98 per 1k leads — first-party on `/pricing`: those two numbers are **Scale monthly $0.33** and **Pro monthly $0.98**. Starter is **$1.90/1k**. **500 free leads a month** (refills). 100k per search is Scale only ([mapsdata](../../tools/mapsdata.md)).
 - Nine Grok bots as a “full marketing stack” — same thin bundle already flagged on the SERP worksheet.
 
 ## outbound-gtm-agents — do not treat as load-bearing
@@ -45,4 +45,5 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 
 1. People Search Bench submission path is a CSV PR (`docs/submission_guide.md`, ≤15 hits/query) — [people-search-bench](../../tools/people-search-bench.md). Remaining: actually run treg + one BYO-key provider and store the score table.
 2. Gojiberry **13** agent files + MCP tool map are on [gojiberry-mcp](../../tools/gojiberry-mcp.md). GitHub this pass **96★** MIT. External OpenAPI **32** paths / **100** req/min / Bearer ([x-2095081419202560010#c3](../../items/x-2095081419202560010/card.md)). ICP template fields (product / ICP / voice / send policy; propose default) are on [gojiberryai](../../tools/gojiberryai.md). 97/1 is still tweet + Slack still. Remaining: a filled ICP for that run — do not invent one.
-3. Vacca `linked-page-unfetched` cleared — frontal.so + three case studies + GTM blog are on [clay](../../tools/clay.md). All **25** `/blog` hrefs are now fetched (card `#c5`); none carry 3× deals / 1,000 meetings / 5–11%. Thread stays `captured_partial`. Remaining: a property + date window for those tweet claims. MapsData/Instantly 10k/day stays capacity math.
+3. Vacca `linked-page-unfetched` cleared — frontal.so + three case studies + GTM blog are on [clay](../../tools/clay.md). All **25** `/blog` hrefs are now fetched (card `#c5`); none carry 3× deals / 1,000 meetings / 5–11%. Thread stays `captured_partial`. Remaining: a property + date window for those tweet claims. Instantly 10k/day stays capacity math.
+4. MapsData pricing page is first-party ([x-2095214420398121034#c3](../../items/x-2095214420398121034/card.md); [mapsdata](../../tools/mapsdata.md)). Do not treat tweet $0.33–$0.98 as one plan.

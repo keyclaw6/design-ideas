@@ -38,10 +38,39 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2086030681772376399#c2",
+      "text": "remotion.dev **113,524 B**: Make videos programmatically with React; Agent Skills named; `npx create-video@latest`. GitHub remotion-dev/remotion **58,331★** / license **NOASSERTION** (homepage footer 57K — do not collapse). Pricing first-party: orgs ≤3 Free; Company 4+; Automators **$0.01/render** / **$100/mo** min; Creators **$25/mo per seat**; Enterprise from **$500/mo**. Footer: 5M+ installs/mo, 35 templates, 10K+ Discord, 300+ contributors.",
+      "kind": "pricing",
+      "evidence": "GET remotion.dev 113524 B; api.github.com/repos/remotion-dev/remotion 58331 stars. leftover6-2026-09-05/remotion-visible.txt",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/remotion.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "GitHub stars",
+      "value": "58331",
+      "unit": null,
+      "source": "note"
+    },
+    {
+      "label": "creator seat",
+      "value": "25",
+      "unit": "USD per month",
+      "source": "note"
+    },
+    {
+      "label": "automator minimum",
+      "value": "100",
+      "unit": "USD per month",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "remotion-code-video"
   ],
@@ -50,9 +79,9 @@
   ],
   "links": {
     "canonical": "https://x.com/chddaniel/status/2086030681772376399",
-    "repo": null,
+    "repo": "https://github.com/remotion-dev/remotion",
     "paper": null,
-    "product": null,
+    "product": "https://www.remotion.dev/",
     "other": [],
     "related_items": [
       "github-nexu-io-html-video",

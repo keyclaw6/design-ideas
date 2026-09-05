@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2092657951618249080#c1` (capability, stated) Product lets users place cameras, animate, and parent them to moving objects for angles. — evidence: "Place the cameras, animate, and parent them to moving objects." [post]
+- `x-2092657951618249080#c2` (capability, demonstrated) Same first-party homepage as the sibling Intangible card: GET https://www.intangible.ai/ **200 / 130,479 B**. Title Intangible · For creatives who direct the real world. Nav: Build 3D sets / Compose cameras & animation / Visualize renders / **MCP Beta**. Quotes No prompt roulette. HTML has no Blender string. Camera-parenting recipe and a public camera-path file format stay tweet-only. — evidence: "analysis/_work/captures/intangible-ai-2026-09-04.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
-**Tools.** —
-**Links.** —
+**Tools.** [intangible-ai](../../tools/intangible-ai.md)
+**Links.** product (https://intangible.ai)
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 5 · captured 3 · relevant 2 · author thread: none → [thread.md](thread.md)

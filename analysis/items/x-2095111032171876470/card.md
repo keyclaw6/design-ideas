@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2095111032171876470#c1` (capability, stated) CoAnimator with Claude Fable 5.1 produced a 3D keyboard animation the author says is fully editable by an AI agent. — evidence: "You can edit and customize the whole thing with your AI Agent." [post]
+- `x-2095111032171876470#c2` (capability, demonstrated) coanimator.com **165,040 B**. Title CoAnimator — The Agentic AI Animation Studio. Desktop macOS/Windows/Linux; bring Claude Code / Codex / Antigravity / OpenClaw; unlimited local MP4, no credits. Free tier 720p + Made with CoAnimator watermark; one-off licence unlocks 4K. FAQ: Lottie export not shipped. 3D is WebGL on the local GPU. Lifetime-deal banner present (timer not a dollar amount in this HTML). Compare nav names Remotion / HyperFrames. — evidence: "GET coanimator.com 165040 B. leftover6-2026-09-05/coanimator-visible.txt" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [remotion-code-video](../../techniques/remotion-code-video.md)
 **Tools.** [coanimator](../../tools/coanimator.md), [claude-fable](../../tools/claude-fable.md)
-**Links.** —
+**Links.** product (https://coanimator.com/)
 **Related items.** —
 **Media.**
 `raw/items/x-2095111032171876470/media/media_0.jpg` (video, carries_technique=true) — Attached clip shows a stylized 3D keyboard animation built with CoAnimator and Claude Fable 5.1.

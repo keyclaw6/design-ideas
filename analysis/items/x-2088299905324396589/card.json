@@ -53,6 +53,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2088299905324396589#c3",
+      "text": "atlas3d.ai **26,323 B** is Atlas Spatial Intelligence Inc. (centimeter-level 3D maps, ROS2 / WebGL / Cesium / Unreal GIS tiles, NVIDIA Inception). HTML has no one-sentence / concept-art / Blender staging / ride-through strings. Do not collapse the @Atlas3DAI tweet with this mapping company. Tweet Unreal ride stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "GET www.atlas3d.ai 26323 B Atlas Spatial Intelligence. leftover6-2026-09-05/atlas3d-visible.txt",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/atlas-3d-ai.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": null,
@@ -69,7 +79,9 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://www.atlas3d.ai/"
+    ],
     "related_items": [
       "x-2094864872853119216",
       "x-2087905319255257296",

@@ -10,11 +10,12 @@
 
 **Claims.**
 - `x-2093421870951387625#c1` (capability, stated) Author claims BQR yields clean quad topology with native modifiers after booleans. — evidence: "Clean quad topology with native modifiers" after booleans? That's the holy grail of hard surface workflow! No more messy cleanup!" [post]
+- `x-2093421870951387625#c2` (availability, demonstrated) Quoted t.co/9FOIQmC9DK → https://superhivemarket.com/products/bqr-boolean-quad-ready/?ref=8235. SuperHive Cloudflare **403** this pass — do not hammer. blendermarket.com/products/bqr 301s to the same SuperHive host (also 403). No first-party quad-after-boolean body in this bank. — evidence: "GET t.co/9FOIQmC9DK final superhivemarket.com/products/bqr-boolean-quad-ready 403. leftover6-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [mesh-cleanup-retopo](../../techniques/mesh-cleanup-retopo.md)
 **Tools.** [bqr-blender-addon](../../tools/bqr-blender-addon.md)
-**Links.** —
+**Links.** product (https://superhivemarket.com/products/bqr-boolean-quad-ready/)
 **Related items.** —
 **Media.** —
 **Thread.** captured_partial · reported 3 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)

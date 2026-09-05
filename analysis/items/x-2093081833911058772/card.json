@@ -42,6 +42,16 @@
       "evidence_ref": "raw/items/x-2093081833911058772/post.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2093081833911058772#c2",
+      "text": "t.co/GtQzkyq8cD → https://glif.app/chat/cards/explainer-motion-graphics-video--LjZUBa3F (**298,129 B**, title Explainer Motion Graphics Video). Homepage glif.app **425,182 B**: Glif — AI Image, Video & Audio Generator in One Chat; nav Explore / Pricing / **MCP**. /about **404**.",
+      "kind": "availability",
+      "evidence": "GET glif.app 425182 B; card 298129 B. leftover6-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/glif.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": [],
@@ -55,8 +65,10 @@
     "canonical": "https://x.com/fabianstelzer/status/2093081833911058772",
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
+    "product": "https://glif.app/",
+    "other": [
+      "https://glif.app/chat/cards/explainer-motion-graphics-video--LjZUBa3F"
+    ],
     "related_items": []
   },
   "media": [

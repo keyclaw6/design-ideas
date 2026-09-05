@@ -51,6 +51,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2091913781236683162#c3",
+      "text": "magnific.ai / magnific.com/3d-motion /app/3d-motion all **403** this pass (security filter) — do not hammer. Prior leftover homepage magnific.ai **603,673 B** (Title Magnific formerly Freepik) lists Minimax; strings H3 / 480p / 5 seconds / 3D Motion / Seedance are absent. Tweet export-to-Seedance-2.5 stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "GET magnific.com/3d-motion 403. Prior leftover-2026-09-05 magnific 603673 B. leftover6-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/magnific-3d-motion.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": null,

@@ -26,7 +26,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 | CozyClay | mid (browser previs) | low (previs only) | high (MCP) | high (iterate before pay) | whatever you send next |
 | Mint / Intangible | Intangible live: compose cameras + **MCP Beta**; Mint live URL is **mint.gg** (assets + MCP, not a path exporter) | unknown | Intangible MCP Beta; Mint MCP is asset pipeline | unknown | their renderer |
 | MiniMax 3D Director | high | mid (H3 still drifts) | low | mid | H3 |
-| Magnific 3D Motion | high | high (export → Seedance 2.5) | low | mid | Seedance 2.5 |
+| Magnific 3D Motion | high (tweet) | high (export → Seedance 2.5, tweet) | low | mid | Seedance 2.5; magnific.com/3d-motion **403** this pass |
 | kitchen / alchemist MCP builds | high (Blender world) | n/a (they stop at the scene) | high | unknown | none — these are worlds, not spots |
 
 ## blockout-to-video-flythrough — claims that need a receipt
@@ -50,8 +50,9 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 1. Keep the BESS note and the cafe Seedance card in sync; if the note’s EXR/depth recipe changed, update the note (you own that file). Cafe card is `ready`; remaining gap is the `.blend` file and a same-blockout Seedance vs 3D Director pass, not thread capture.
 2. CozyClay `mcp` verify (25 tools, 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip) is on [cozyclay](../../tools/cozyclay.md). Stock `verify:capture` timed out at 5 s. With SwiftShader flags + 30 s timeout it passed: **640×360** PNG, **230,400** non-black pixels, five on-camera views, cube occluder 0→7168. Banked `analysis/_work/captures/cozyclay-capture/artifact-640x360.png` (**93,730** B). Product page `cozyclay.org` **22,437 B** now on leftover [x-2092009056164872620#c3](../../items/x-2092009056164872620/card.md). Remaining: a GPU (non-SwiftShader) capture, and the same-blockout Seedance vs 3D Director pass.
 3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
-4. Intangible homepage is live (**130,479 B**, MCP Beta, no Blender string). Mint “Live now” t.co → mint.gg. Remaining: a downloadable camera-path from either host.
-5. Do not expand this lane with more model-launch tweets.
-6. adilinthewild “19-minute” Blender-first tutorial is the X amplify video (**1187.497 s**, 3840×2160). Quoted prompts link is a Higgsfield blog **200 / 72,653 B** whose HTML does not repeat the 19-minute string ([higgsfield](../../tools/higgsfield.md)). Thread stays `captured_partial` (71/1).
-7. npaka CLI-vs-MCP note card is now `ready` (thread `empty`; body already on [blender-blockout-camera](../../techniques/blender-blockout-camera.md)).
-8. Higgsfield + Claude Opus 5 in-Blender world-build ([x-2091497597743612379](../../items/x-2091497597743612379/card.md)) is now `ready` (thread `empty`). Root video **49.6 s** / 1440×1080. Remaining: the `.blend` / Meshy project, not thread capture.
+4. Intangible homepage is live (**130,479 B**, MCP Beta, no Blender string) — also on the camera-parenting leftover ([x-2092657951618249080#c2](../../items/x-2092657951618249080/card.md)). Mint “Live now” t.co → mint.gg. Remaining: a downloadable camera-path from either host.
+5. Magnific 3D Motion: magnific.com/3d-motion **403** this pass — do not hammer. Prior leftover homepage has no 3D Motion / Seedance string ([magnific-3d-motion](../../tools/magnific-3d-motion.md)).
+6. Do not expand this lane with more model-launch tweets.
+7. adilinthewild “19-minute” Blender-first tutorial is the X amplify video (**1187.497 s**, 3840×2160). Quoted prompts link is a Higgsfield blog **200 / 72,653 B** whose HTML does not repeat the 19-minute string ([higgsfield](../../tools/higgsfield.md)). Thread stays `captured_partial` (71/1).
+8. npaka CLI-vs-MCP note card is now `ready` (thread `empty`; body already on [blender-blockout-camera](../../techniques/blender-blockout-camera.md)).
+9. Higgsfield + Claude Opus 5 in-Blender world-build ([x-2091497597743612379](../../items/x-2091497597743612379/card.md)) is now `ready` (thread `empty`). Root video **49.6 s** / 1440×1080. Remaining: the `.blend` / Meshy project, not thread capture.

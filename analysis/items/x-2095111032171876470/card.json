@@ -41,6 +41,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2095111032171876470#c2",
+      "text": "coanimator.com **165,040 B**. Title CoAnimator — The Agentic AI Animation Studio. Desktop macOS/Windows/Linux; bring Claude Code / Codex / Antigravity / OpenClaw; unlimited local MP4, no credits. Free tier 720p + Made with CoAnimator watermark; one-off licence unlocks 4K. FAQ: Lottie export not shipped. 3D is WebGL on the local GPU. Lifetime-deal banner present (timer not a dollar amount in this HTML). Compare nav names Remotion / HyperFrames.",
+      "kind": "capability",
+      "evidence": "GET coanimator.com 165040 B. leftover6-2026-09-05/coanimator-visible.txt",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/coanimator.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": null,
@@ -56,7 +66,7 @@
     "canonical": "https://x.com/rege_dev/status/2095111032171876470",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://coanimator.com/",
     "other": [],
     "related_items": []
   },
