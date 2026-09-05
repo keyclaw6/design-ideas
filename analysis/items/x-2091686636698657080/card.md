@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091686636698657080#c1` (availability, stated) Rivet's documentation was exported as an 825-page technical manual PDF. — evidence: "it's something else to see years of work as 825 pages in book form" [post]
 - `x-2091686636698657080#c2` (availability, stated) The manual is publicly linked at assets.rivet.dev/manual/Rivet-Technical-Manual.pdf. — evidence: "for fun: https://assets.rivet.dev/manual/Rivet-Technical-Manual.pdf" [post]
+- `x-2091686636698657080#c3` (counter-claim, demonstrated) assets.rivet.dev/manual/Rivet-Technical-Manual.pdf HEAD/GET 200 / 11,889,432 B application/pdf. pdfinfo: 893 pages, letter, title Rivet Technical Manual — Edition 2026.08 (actors, agentOS, Workflows, Dynamic Apps, Rivet Cloud, Self-Host). Tweet 825 pages is stale vs this file. — evidence: "pdfinfo Pages=893 File size=11889432. Do not collapse 825 / 893." [note]
 **Numbers.** manual page count: 825 pages (post)
 **Recipe.** —
 **Techniques.** —

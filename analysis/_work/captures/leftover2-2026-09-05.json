@@ -1,0 +1,179 @@
+{
+  "fetched_at": "2026-09-05T02:30:00Z",
+  "pages": {
+    "runinfra": {
+      "ok": true,
+      "status": 200,
+      "final": "https://runinfra.ai/inference-api",
+      "bytes": 401869,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://runinfra.ai/inference-api/qwen3-8-2-4t-a95b",
+      "clen": "401869",
+      "title": "Five calls of one agent session, every one routed to the replica that already holds the session",
+      "h1": [
+        "Model Library"
+      ]
+    },
+    "instantly": {
+      "ok": true,
+      "status": 200,
+      "final": "https://instantly.ai",
+      "bytes": 135775,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://instantly.ai",
+      "clen": null,
+      "title": "Sales Engagement and Lead Intelligence | Instantly",
+      "h1": [
+        "Find Clients"
+      ]
+    },
+    "graphed-mcp": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.graphed.com/mcp",
+      "bytes": 40794,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://www.graphed.com/mcp",
+      "clen": null,
+      "title": "Graphed MCP Server — Query your data from any AI assistant",
+      "h1": [
+        "Query your datafrom any harness"
+      ]
+    },
+    "chatgpt-training": {
+      "ok": true,
+      "status": 200,
+      "final": "https://learn.chatgpt.com/training",
+      "bytes": 305746,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://learn.chatgpt.com/training",
+      "clen": "305746",
+      "title": "ChatGPT Training",
+      "h1": [
+        "ChatGPT Training"
+      ]
+    },
+    "amd-dev": {
+      "ok": true,
+      "status": 200,
+      "final": "https://developer.amd.com/ai-developer-program/",
+      "bytes": 108551,
+      "ctype": "text/html",
+      "url": "https://developer.amd.com",
+      "clen": null,
+      "title": "AMD AI Developer Program - AMD Developer Portal",
+      "h1": [
+        "AMD AI Developer Program",
+        "AMD AI Developer Program"
+      ]
+    },
+    "cookbook-dyn": {
+      "ok": true,
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/claude_agent_sdk/08_Dynamic_workflows.ipynb",
+      "bytes": 52675,
+      "ctype": "text/plain; charset=utf-8",
+      "url": "https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/claude_agent_sdk/08_Dynamic_workflows.ipynb",
+      "clen": "52675"
+    },
+    "cookbook-cost": {
+      "ok": true,
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/cost_optimization/cost_optimization.ipynb",
+      "bytes": 1286487,
+      "ctype": "text/plain; charset=utf-8",
+      "url": "https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/cost_optimization/cost_optimization.ipynb",
+      "clen": "1286487"
+    },
+    "pi-shepherdr-readme": {
+      "ok": true,
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/IgorWarzocha/howaboua-pi-stuff/main/packages/pi-shepherdr/README.md",
+      "bytes": 5522,
+      "ctype": "text/plain; charset=utf-8",
+      "url": "https://raw.githubusercontent.com/IgorWarzocha/howaboua-pi-stuff/main/packages/pi-shepherdr/README.md",
+      "clen": "5522"
+    },
+    "pi-codex-readme": {
+      "ok": true,
+      "status": 200,
+      "final": "https://raw.githubusercontent.com/IgorWarzocha/howaboua-pi-stuff/main/packages/pi-codex-conversion/README.md",
+      "bytes": 25659,
+      "ctype": "text/plain; charset=utf-8",
+      "url": "https://raw.githubusercontent.com/IgorWarzocha/howaboua-pi-stuff/main/packages/pi-codex-conversion/README.md",
+      "clen": "25659"
+    },
+    "sesohq": {
+      "ok": true,
+      "status": 200,
+      "final": "https://sesohq.com/",
+      "bytes": 378288,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://www.sesohq.com",
+      "clen": null,
+      "title": "Visa",
+      "h1": [
+        "Sesohq",
+        "Everything Pack"
+      ]
+    },
+    "tapir": {
+      "ok": true,
+      "status": 200,
+      "final": "https://tapir.gg",
+      "bytes": 1459,
+      "ctype": "text/html",
+      "url": "https://tapir.gg",
+      "clen": null,
+      "title": "",
+      "h1": []
+    },
+    "rivet-pdf": {
+      "ok": true,
+      "status": 200,
+      "final": "https://assets.rivet.dev/manual/Rivet-Technical-Manual.pdf",
+      "bytes": 11889432,
+      "ctype": "application/pdf",
+      "url": "https://assets.rivet.dev/manual/Rivet-Technical-Manual.pdf",
+      "clen": "11889432"
+    }
+  },
+  "github": {
+    "rakazo": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/elie222/rakazo",
+      "bytes": 5168,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/elie222/rakazo",
+      "clen": "5168",
+      "stars": 1925,
+      "license": "Apache-2.0",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+    },
+    "dotfiles": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/kunchenguid/dotfiles",
+      "bytes": 5313,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/kunchenguid/dotfiles",
+      "clen": "5313",
+      "stars": 566,
+      "license": "MIT-0",
+      "description": "Kun's dotfiles for agentic engineering"
+    },
+    "ai-design-skills": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/elayadesign/ai-design-skills",
+      "bytes": 5612,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/elayadesign/ai-design-skills",
+      "clen": "5612",
+      "stars": 1731,
+      "license": "MIT",
+      "description": null
+    }
+  }
+}

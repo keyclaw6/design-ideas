@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2088599468698751328#c1` (capability, stated) Mono Charts is a collection of minimal, animated chart components for React, open source under Amicro. — evidence: "A collection of minimal, animated chart components for React." [post]
 - `x-2088599468698751328#c2` (recipe, stated) Charts install with a single CLI command. — evidence: "Now you can add beautiful, interactive charts to your app with a single CLI command." [post]
+- `x-2088599468698751328#c3` (counter-claim, demonstrated) amicro.vercel.app 200 / 4,226 B. Title Amicro — Premium React Micro-transitions & Interaction Components. Title-only SSR. Tweet “Mono Charts” / single CLI command are not in this HTML. — evidence: "GET 200 https://amicro.vercel.app 4226 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

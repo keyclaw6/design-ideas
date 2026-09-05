@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "Raw packages/pi-codex-conversion/README.md 200 / 25,659 B. Install: pi install npm:@howaboua/pi-codex-conversion. Requires Pi 0.84.4+ and Node 22.19+. Points to howaboua.dev essay for token numbers (17 tools without 17 schemas). Matches the tweet extension, not a voice-changelog API dump.",
+      "kind": "recipe",
+      "evidence": "README 25659 B. pi install npm:@howaboua/pi-codex-conversion.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/pi-shepherdr.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2087714580491370655#c3"
     }
   ],
   "recipe_steps": null,

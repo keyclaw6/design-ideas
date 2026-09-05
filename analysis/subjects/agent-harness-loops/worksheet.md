@@ -30,7 +30,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Control Plane X artic
 | Sideshow.sh | visual inspect (live **51,220 B**; “207 Now playing” is a counter) | n/a | n/a | mid | n/a |
 | pi-shepherdr | high (271-token orchestrator) | pane isolation | none | Herdr panes | multi Pi |
 | Ouroboros | high (MIT harness; paper + site) | reviewed commits; Hope live | Terminal-Bench / OSWorld / CL-Bench stated | git + Hope memory | self-modify |
-| Anthropic / Control Plane / MDA | cookbook / X article (no Stanford string; not arXiv 2505.06817) | varies | cookbook has a task; article is a pharma case | folder-as-agent (MDA) | multi (article: one reasoner + fetch sub-agents) |
+| Anthropic / Control Plane / MDA | cookbook / X article (dynamic notebook **52,675 B**: 16 concurrent / **1,000** cap; cost notebook **$0.2906/task** + 90% vs Opus) | varies | cookbook has a task; article is a pharma case | folder-as-agent (MDA) | multi (article: one reasoner + fetch sub-agents) |
 | awesome lists / training hubs | index | n/a | n/a | n/a | n/a |
 
 ## agent-harness-loops — claims that need a receipt
@@ -38,7 +38,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Control Plane X artic
 - Codex “212×” QR kernel — **blog says 232×** (419,000 µs → 1,805 µs), 12th of 183, GPU Mode `qr_v2` compact-Householder QR ([codex](../../tools/codex.md)). Tweet number is stale.
 - Autoquant 135 agents / four-layer pipeline — architecture claim.
 - fini 23,999 actions in 20 minutes — warning anecdote; useful as a blast-radius story, not a benchmark.
-- Anthropic cost $0.29 → 90% less — cookbook; re-run the notebook.
+- Anthropic cost $0.29 → 90% less — raw notebook now first-party: **$0.2906/task** print + “roughly 90% under the Opus baseline” ([claude-agent-sdk](../../tools/claude-agent-sdk.md)). Still not a re-run on this host.
 - Headlong “<10K LOC” — **README now says ~11K** (cloc, capped 11.5K). Local `wc -l` is **12,133 + 1,814 = 13,947**. cloc 1.98 on the same dirs is **9,912 code** / 2,600 comment / 1,351 blank. Do not collapse the three integers. Blog 9.9K / tweet <10K are stale. Persistent-agency + $1–2/hr idle cost are first-party ([headlong](../../tools/headlong.md)).
 - loopany reddit-karma paste prompt lives in `meta.json` `description`; author story −4→92 comment karma / 7 days is first-party, not a bake-off ([loop-library](../../tools/loop-library.md)).
 - Ouroboros first-party this pass: abs **42,948 B** + `/benchmarks` **6,553 B** + `razzant/ouroboros` MIT **1,265★**. TB 2.1 Opus 5 **86.74%** after one reward-hack zero (raw **86.97%**); OSWorld-Verified **90.69%** vs previous public **90.19%**; CL-Bench **0.2301**. Hope **161-day** in the abstract. Do not add $110.6K / 79.7B unless re-fetched from a longer PDF. Ranking language is the paper/site’s. Do not collapse with `Q00/ouroboros` (**5,769★**). Thread stays `failed` ([agent-harness-ops](../../techniques/agent-harness-ops.md)).
@@ -46,7 +46,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Control Plane X artic
 ## agent-harness-loops — do not treat as load-bearing
 
 - Sindresorhus awesome, awesome-llm-apps, Spanish six-repo roundups — indexes.
-- Rivet 825-page PDF and Ondrej setup article — manuals, not a loop you can start tonight.
+- Rivet PDF is live **11,889,432 B / 893 pages** (Edition 2026.08). Tweet **825** is stale ([rivet](../../tools/rivet.md)). Manual, not a loop you can start tonight.
 - Karpathy REASONING paste — prompt wording, not a harness.
 - Secondary design / memory / MCP items — wrong primary.
 

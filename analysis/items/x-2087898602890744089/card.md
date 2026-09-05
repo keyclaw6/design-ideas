@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087898602890744089#c1` (capability, stated) Rakazo supports any LLM via pi harness and any sandbox provider or Docker. — evidence: "- Use any LLM (pi harness)
 - Use any sandbox provider. Or Docker" [post]
+- `x-2087898602890744089#c2` (availability, demonstrated) github.com/elie222/rakazo Apache-2.0, 1,925 stars this pass. Description: Open-source Grok Bot alternative. Choose your own model and sandbox. Root: apps/, packages/, docs/. Matches the tweet OSS Grok Bot, not a hosted SaaS. — evidence: "GitHub API 2026-09-05: 1925 stars Apache-2.0." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

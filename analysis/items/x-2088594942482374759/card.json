@@ -38,6 +38,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "local-inference-models"
+    },
+    {
+      "text": "runinfra.ai/inference-api/qwen3-8-2-4t-a95b 200 / 401,869 B. Visible library lists DeepSeek V4 Flash at $0.13 / $0.01 cached / $0.27 per 1M tokens. Strings 278 / tok/s / BF16 are absent from this HTML. Tweet 278.3 tok/s stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 401869 B. 278 and BF16 absent. $0.13/$0.27 first-party.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/runinfra.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models",
+      "id": "x-2088594942482374759#c2"
     }
   ],
   "recipe_steps": null,

@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087240056037908509#c1` (pricing, stated) AMD Token Factory resets about ten dollars of free usage daily for listed models on developer.amd.com. — evidence: "$10 every day, not once -- the counter resets daily." [post]
 - `x-2087240056037908509#c2` (availability, stated) DeepSeek V4 Flash, Qwen3.6 35B, MiniCPM5, and MiniCPM-V46 are named as zero-cost models on AMD Token Factory. — evidence: "DeepSeek V4 Flash, Qwen3.6 35B, MiniCPM5 and MiniCPM-V46 at zero cost" [post]
+- `x-2087240056037908509#c3` (counter-claim, demonstrated) developer.amd.com 200 / 108,551 B. Title AMD AI Developer Program. First-party: complimentary cloud credits; program is free to join. Strings Token Factory and daily are absent. Tweet daily free inference credits is not on this portal HTML. — evidence: "GET 200 https://developer.amd.com 108551 B. Token Factory absent." [note]
 **Numbers.** daily AMD credit reset: 10 USD (post)
 **Recipe.** —
 **Techniques.** —

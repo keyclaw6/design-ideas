@@ -49,6 +49,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "text": "graphed.com/mcp 200 / 40,794 B. Title Graphed MCP Server — Query your data from any AI assistant. First-party: explore warehouse schema, run SQL, build dashboards from the editor. FDE string absent. Matches a warehouse MCP, not the tweet’s cold-email IQ meme.",
+      "kind": "capability",
+      "evidence": "GET 200 https://www.graphed.com/mcp 40794 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/graphed-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents",
+      "id": "x-2094893065202803014#c3"
     }
   ],
   "recipe_steps": null,

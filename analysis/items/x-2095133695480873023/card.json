@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "learn.chatgpt.com/training 200 / 305,746 B. Title ChatGPT Training. First-party nav: Codex Docs, ChatGPT Plugins, Workspace Agents, Skills, MCP and Connectors. Training hub, not a runnable harness.",
+      "kind": "availability",
+      "evidence": "GET 200 https://learn.chatgpt.com/training 305746 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/chatgpt-training.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2095133695480873023#c2"
     }
   ],
   "recipe_steps": [],

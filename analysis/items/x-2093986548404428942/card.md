@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2093986548404428942#c1` (capability, stated) Thread recommends Eyecannndy for camera techniques and Sesohq for moodboard inspiration. — evidence: "🎥 http://eyecannndy.com — camera techniques" [post]
 - `x-2093986548404428942#c2` (capability, stated) Tapir Convert offers free 2× video upscaling without login. — evidence: "http://tapirconvert.com/video-upscaler — FREE 2× video upscaling, no login" [post]
+- `x-2093986548404428942#c3` (availability, demonstrated) sesohq.com 200 / 378,288 B. Title Sesohq - Graphic Design Assets (Shopify). Moodboards is a footer link, not a filmed moodboard tool. tapir.gg 200 / 1,459 B empty body. eyecannndy.com 403 this catalog. Tweet three filmmaker refs: only Sesohq is a live asset shop. — evidence: "sesohq 378288 B Shopify; tapir 1459 B empty; eyecannndy 403." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

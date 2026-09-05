@@ -71,6 +71,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "text": "github.com/elayadesign/ai-design-skills MIT, 1,731 stars this pass. Root is skills/ plus LICENSE README. Description empty on API. Tweet Seedance 2.5 + Cursor Composer path is not a first-party inventory on this listing.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 1731 stars MIT. Root dirs: skills.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/agentation.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation",
+      "id": "x-2089770081459056765#c3"
     }
   ],
   "links": {

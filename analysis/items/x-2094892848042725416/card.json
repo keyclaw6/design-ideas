@@ -62,6 +62,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "text": "gojiberry.ai 200 / 1,154,716 B. Title Gojiberry AI - Grow your sales with warm leads. First-party: ICP filtering, Email waterfall enrichment (15+ data providers), CRM/API/MCP (HubSpot, Pipedrive, Claude). String Grok is absent. 13-agent tree is tweet/repo, not this homepage.",
+      "kind": "capability",
+      "evidence": "GET 200 https://gojiberry.ai/ 1154716 B. Grok absent.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents",
+      "id": "x-2094892848042725416#c4"
     }
   ],
   "recipe_steps": [],

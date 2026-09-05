@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2095085408208196006#c1` (capability, stated) Author made attached stills with ChatGPT and points to Imageory.in for prompts. — evidence: "Made with @ChatGPT check out https://Imageory.in for prompts" [post]
+- `x-2095085408208196006#c2` (availability, demonstrated) Imageory.in 200 / 167,558 B. Title Imageory — Get images & prompts. Category chips visible (Blue-cosmos, Landscapes, Flowers, Surreal, Gradients…). String ChatGPT is absent. Prompt bodies not in SSR. Marketplace, not a stored-prompt repo. — evidence: "GET 200 https://Imageory.in 167558 B. ChatGPT absent." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

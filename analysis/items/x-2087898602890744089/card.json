@@ -44,6 +44,16 @@
       "evidence_ref": "raw/items/x-2087898602890744089/post.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "text": "github.com/elie222/rakazo Apache-2.0, 1,925 stars this pass. Description: Open-source Grok Bot alternative. Choose your own model and sandbox. Root: apps/, packages/, docs/. Matches the tweet OSS Grok Bot, not a hosted SaaS.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 1925 stars Apache-2.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/graft.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers",
+      "id": "x-2087898602890744089#c2"
     }
   ],
   "recipe_steps": [],

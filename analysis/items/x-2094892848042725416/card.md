@@ -13,6 +13,7 @@
 ┣ 📁 Head of Sales" [post]
 - `x-2094892848042725416#c2` (recipe, stated) Agents hand work along a loop from Signal Hunter through Meeting Qualifier powered by the Gojiberry MCP. — evidence: "All powered by the [@gojiberryai](https://x.com/gojiberryai) MCP." [post]
 - `x-2094892848042725416#c3` (capability, stated) Outreach Operator queues LinkedIn campaigns with zero sent until the user approves. — evidence: "┃ ┗ 📁 0 sent until you say so" [post]
+- `x-2094892848042725416#c4` (capability, demonstrated) gojiberry.ai 200 / 1,154,716 B. Title Gojiberry AI - Grow your sales with warm leads. First-party: ICP filtering, Email waterfall enrichment (15+ data providers), CRM/API/MCP (HubSpot, Pipedrive, Claude). String Grok is absent. 13-agent tree is tweet/repo, not this homepage. — evidence: "GET 200 https://gojiberry.ai/ 1154716 B. Grok absent." [note]
 **Numbers.** launch video duration: 39.9 seconds (media)
 **Recipe.** —
 **Techniques.** [outbound-agent-pipeline](../../techniques/outbound-agent-pipeline.md)

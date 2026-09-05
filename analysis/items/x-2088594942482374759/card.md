@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2088594942482374759#c1` (pricing, stated) RunInfra claims the fastest full-precision V4 Flash inference at 278.3 tok/s with sub-dollar-per-million-token pricing. — evidence: "278.3 tok/s. $0.13/1M input. $0.27/1M output. full BF16" [post]
+- `x-2088594942482374759#c2` (counter-claim, demonstrated) runinfra.ai/inference-api/qwen3-8-2-4t-a95b 200 / 401,869 B. Visible library lists DeepSeek V4 Flash at $0.13 / $0.01 cached / $0.27 per 1M tokens. Strings 278 / tok/s / BF16 are absent from this HTML. Tweet 278.3 tok/s stays tweet-only. — evidence: "GET 200 401869 B. 278 and BF16 absent. $0.13/$0.27 first-party." [note]
 **Numbers.** throughput: 278.3 tok/s (post); input price: 0.13 USD per 1M tokens (post); output price: 0.27 USD per 1M tokens (post)
 **Recipe.** —
 **Techniques.** —

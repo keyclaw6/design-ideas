@@ -100,7 +100,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2093305736717545869#c3` | Quoted Fusion X article documents Codex MCP at 127.0.0.1:27182/mcp (14,743-char fxtwitter body). | demonstrated | [Fusion MCP stress-test: weird concent…](../../items/x-2093305736717545869/card.md) |
 | `x-2093305736717545869#c5` | Rings stress-test is an X amplify video 15.866 s at 2452×1080; no STEP/F3D in this bank. | demonstrated | [Fusion MCP stress-test: weird concent…](../../items/x-2093305736717545869/card.md) |
 
-Full set: claims.jsonl (35 rows)
+Full set: claims.jsonl (37 rows)
 
 ## ai-cad-hardware — comparison axes
 

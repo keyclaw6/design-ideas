@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2089770081459056765#c1` (recipe, stated) Animation is produced in Higgsfield Seedance 2.5 while implementation uses Cursor Composer 2.5. — evidence: "Animated in Higgsfield Seedance 2.5 + Cursor Composer 2.5" [post]
 - `x-2089770081459056765#c2` (capability, stated) The author points to github.com/elayadesign/ai-design-skills as the installable skill pack. — evidence: "AI Skill: https://github.com/elayadesign/ai-design-skills" [post]
+- `x-2089770081459056765#c3` (availability, demonstrated) github.com/elayadesign/ai-design-skills MIT, 1,731 stars this pass. Root is skills/ plus LICENSE README. Description empty on API. Tweet Seedance 2.5 + Cursor Composer path is not a first-party inventory on this listing. — evidence: "GitHub API 2026-09-05: 1731 stars MIT. Root dirs: skills." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [seedance-motion-reference](../../techniques/seedance-motion-reference.md)

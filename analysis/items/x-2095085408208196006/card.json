@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "text": "Imageory.in 200 / 167,558 B. Title Imageory — Get images & prompts. Category chips visible (Blue-cosmos, Landscapes, Flowers, Surreal, Gradients…). String ChatGPT is absent. Prompt bodies not in SSR. Marketplace, not a stored-prompt repo.",
+      "kind": "availability",
+      "evidence": "GET 200 https://Imageory.in 167558 B. ChatGPT absent.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gpt-image-2.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries",
+      "id": "x-2095085408208196006#c2"
     }
   ],
   "recipe_steps": null,

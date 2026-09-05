@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2095133695480873023#c1` (availability, stated) The ChatGPT Training hub offers separate hands-on tracks for general ChatGPT Work and Codex technical work with walkthroughs including plugins and skills. — evidence: "There are many walkthroughs on how to best use it for general or technical work." [post]
+- `x-2095133695480873023#c2` (availability, demonstrated) learn.chatgpt.com/training 200 / 305,746 B. Title ChatGPT Training. First-party nav: Codex Docs, ChatGPT Plugins, Workspace Agents, Skills, MCP and Connectors. Training hub, not a runnable harness. — evidence: "GET 200 https://learn.chatgpt.com/training 305746 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md), [agent-harness-ops](../../techniques/agent-harness-ops.md)

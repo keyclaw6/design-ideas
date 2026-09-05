@@ -12,6 +12,7 @@
 - `x-2091118605392019658#c1` (benchmark, contested) Author cites Karpathy: adding think-step-by-step style reasoning raised math accuracy from 17% to 78%. — evidence: "Adding four words to a prompt took a model's accuracy on math questions from 17% to 78%." [post]
 - `x-2091118605392019658#c2` (recipe, stated) System prompt mandates a REASONING block before nontrivial answers and SCRATCHPAD notes on long tasks. — evidence: "REASONING:
 1. [what's actually being asked]" [post]
+- `x-2091118605392019658#c3` (availability, demonstrated) simplifyingai.co 200 / 695,212 B. Title beehiiv. Hosted newsletter shell, not a first-party REASONING-block spec. Tweet Karpathy-cited system prompt is not extracted from this HTML. — evidence: "GET 200 http://simplifyingai.co 695212 B title beehiiv." [note]
 **Numbers.** cited math accuracy before: 17 percent (post); cited math accuracy after: 78 percent (post)
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md), [agent-harness-ops](../../techniques/agent-harness-ops.md)

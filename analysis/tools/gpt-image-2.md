@@ -17,4 +17,6 @@ Do not collapse these case counts:
 - Tweet “530+” is older marketing.
 
 `style-library.json` lists **22** templates (tweet “20+”): ui-screenshot-system, infographic-engine, scientific-scale-diagram, poster-layout-system, sports-campaign-poster, conceptual-typography-poster, ink-double-exposure-poster, nature-science-poster, product-commerce-visual, personalized-beauty-report, brand-identity-package, brand-touchpoint-board, architecture-space, realistic-photography, street-accident-moment, illustration-art-style, character-design-sheet, 3d-collectible-toy, scene-storytelling, history-classical-themes, document-publishing, concept-product-breakdown. Also 13 categories, 19 style labels, 10 scenes.
+
+Neighbor (parked; no imageory.md): 2026-09-05 `https://Imageory.in` GET 200 / **167,558 B**. Title Imageory — Get images & prompts. Category chips visible. String ChatGPT absent. Prompt bodies not in SSR. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 <!-- NOTES:END -->

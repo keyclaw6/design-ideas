@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2088308976278790258#c1` (result, stated) CadX generated a hexacopter from a text prompt as a greenfield hardware sketch. — evidence: "this hexacopter is what happens when that wall isn't there anymore. Built in https://cadxstduio.in ." [post]
+- `x-2088308976278790258#c2` (counter-claim, demonstrated) cadxstudio.in 200 / 3,111 B. Title CadXStudio | AI Design Engine in the Browser. Title-only SSR shell. Tweet hexacopter demo / cadxstduio.in typo cannot be verified from this HTML. — evidence: "GET 200 https://cadxstudio.in 3111 B. analysis/_work/captures/leftover-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

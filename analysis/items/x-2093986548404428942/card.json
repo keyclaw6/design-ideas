@@ -50,6 +50,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "text": "sesohq.com 200 / 378,288 B. Title Sesohq - Graphic Design Assets (Shopify). Moodboards is a footer link, not a filmed moodboard tool. tapir.gg 200 / 1,459 B empty body. eyecannndy.com 403 this catalog. Tweet three filmmaker refs: only Sesohq is a live asset shop.",
+      "kind": "availability",
+      "evidence": "sesohq 378288 B Shopify; tapir 1459 B empty; eyecannndy 403.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/video-shotcraft.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough",
+      "id": "x-2093986548404428942#c3"
     }
   ],
   "recipe_steps": [],

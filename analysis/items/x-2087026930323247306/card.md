@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2087026930323247306#c1` (recipe, stated) The cookbook lets Claude author the orchestration script instead of a static human-wired graph. — evidence: "Claude writes the orchestration script and spawns up to 1,000 subagents per run" [post]
+- `x-2087026930323247306#c2` (capability, demonstrated) Raw 08_Dynamic_workflows.ipynb 200 / 52,675 B. First-party: runtime keeps up to 16 agents concurrent and caps a run at 1,000 agents. Tweet “spawns 1,000 subagents” is the cap, not a measured 1,000-agent run in this notebook. — evidence: "raw notebook: caps a run at 1,000 agents; up to 16 concurrent." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md)

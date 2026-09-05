@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "local-inference-models"
+    },
+    {
+      "text": "developer.amd.com 200 / 108,551 B. Title AMD AI Developer Program. First-party: complimentary cloud credits; program is free to join. Strings Token Factory and daily are absent. Tweet daily free inference credits is not on this portal HTML.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://developer.amd.com 108551 B. Token Factory absent.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unsloth.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models",
+      "id": "x-2087240056037908509#c3"
     }
   ],
   "recipe_steps": [],

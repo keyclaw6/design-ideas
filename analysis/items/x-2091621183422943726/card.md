@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2091621183422943726#c1` (capability, stated) CadX Studio generated a Stanley cup design in one shot without CAD skills. — evidence: "We asked AI to design one - in one shot, zero CAD skills." [post]
+- `x-2091621183422943726#c2` (counter-claim, demonstrated) cadxstudio.in 200 / 3,111 B title-only SSR. Tweet one-shot Stanley cup product design is not in this HTML. — evidence: "GET 200 https://cadxstudio.in 3111 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

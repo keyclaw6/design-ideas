@@ -51,6 +51,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "simplifyingai.co 200 / 695,212 B. Title beehiiv. Hosted newsletter shell, not a first-party REASONING-block spec. Tweet Karpathy-cited system prompt is not extracted from this HTML.",
+      "kind": "availability",
+      "evidence": "GET 200 http://simplifyingai.co 695212 B title beehiiv.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/is-agentic.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2091118605392019658#c3"
     }
   ],
   "recipe_steps": null,

@@ -48,6 +48,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "Raw cost_optimization.ipynb 200 / 1,286,487 B. First-party printed line: 10/10 correct · 36 turns · $0.2906/task · $2.9063 total. Later prose: roughly 90% under the Opus baseline on cost. Tweet $0.29 / 90% maps to those notebook strings; do not collapse $0.2906 with a different task.",
+      "kind": "benchmark",
+      "evidence": "notebook print: $0.2906/task; prose 90% under Opus baseline.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/claude-agent-sdk.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2089165107364278341#c3"
     }
   ],
   "recipe_steps": null,

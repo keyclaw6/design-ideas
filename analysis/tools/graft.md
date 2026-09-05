@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 Fetched 2026-09-05 GitHub API `NanoNets/Graft` MIT, **5,558** stars. Description: Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent. Root: `src/`, `viewer/`, `docs/`. Tweet “six trending GitHub AI agent repos” is a roundup; Graft is one named repo. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
+
+Neighbor (parked; no rakazo.md): `elie222/rakazo` Apache-2.0, **1,925** stars. Open-source Grok Bot alternative. Root: `apps/`, `packages/`, `docs/`.
 <!-- NOTES:END -->

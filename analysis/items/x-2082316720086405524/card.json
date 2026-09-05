@@ -61,6 +61,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "github.com/kunchenguid/dotfiles MIT-0, 566 stars this pass. Description: Kun's dotfiles for agentic engineering. Root: home/, tests/, configuration.nix, bootstrap.sh, AGENTS.md. Matches disposable-Nix ops notes, not a public secrets dump.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 566 stars MIT-0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/vision-skill.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2082316720086405524#c4"
     }
   ],
   "recipe_steps": null,

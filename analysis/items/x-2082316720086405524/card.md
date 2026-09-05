@@ -12,6 +12,7 @@
 - `x-2082316720086405524#c1` (opinion, stated) Author disables all agent permission checks and skips auto-review, treating the machine as an employee laptop not a personal device. — evidence: "i always disable all permission checks for my agents - i don't even do auto review." [post]
 - `x-2082316720086405524#c2` (recipe, stated) Recovery path is nix-darwin plus home-manager dotfiles: wipe, clone, rebuild in minutes. — evidence: "i use nix-darwin and home-manager to make my entire machine instantly reproducible." [post]
 - `x-2082316720086405524#c3` (recipe, stated) Production secrets stay off disk; AutomicVault gates each secret access while agents run commands freely. — evidence: "every time my agents need to access a secret, they go through me and i can decide whether i allow it or not" [post]
+- `x-2082316720086405524#c4` (availability, demonstrated) github.com/kunchenguid/dotfiles MIT-0, 566 stars this pass. Description: Kun's dotfiles for agentic engineering. Root: home/, tests/, configuration.nix, bootstrap.sh, AGENTS.md. Matches disposable-Nix ops notes, not a public secrets dump. — evidence: "GitHub API 2026-09-05: 566 stars MIT-0." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md), [session-hardening](../../techniques/session-hardening.md)

@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2089165107364278341#c1` (result, stated) Cookbook example agent cost falls about ninety percent from $0.29 per task without dropping accuracy. — evidence: "A real agent goes from $0.29/task down 90% without dropping accuracy" [post]
 - `x-2089165107364278341#c2` (recipe, stated) Model downgrade is the last cost lever, not the first optimization step. — evidence: "And model downgrade is the last lever, not the first" [post]
+- `x-2089165107364278341#c3` (benchmark, demonstrated) Raw cost_optimization.ipynb 200 / 1,286,487 B. First-party printed line: 10/10 correct · 36 turns · $0.2906/task · $2.9063 total. Later prose: roughly 90% under the Opus baseline on cost. Tweet $0.29 / 90% maps to those notebook strings; do not collapse $0.2906 with a different task. — evidence: "notebook print: $0.2906/task; prose 90% under Opus baseline." [note]
 **Numbers.** example agent cost before optimization: 0.29 USD per task (post); claimed cost reduction: 90 percent (post)
 **Recipe.** —
 **Techniques.** —

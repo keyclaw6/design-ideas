@@ -19,7 +19,7 @@ Sol website-prompt teasers and Imageory.in stills are examples without a stored 
 | YouMind Nano Banana skill | Nano Banana Pro / Gemini image | **14,965** unique ids / manifest **15,508** / file-sum **22,466** (11 JSON cats; 7,299 ids in 2+ files) | top-3 + sample images stated | package.json MIT; no LICENSE file |
 | MeiGen | GPT Image, Seedance, Nano Banana, Midjourney | MCP repo `data/trending-prompts.json` **1,446**; **9** named tools | community prompts; homepage live **129,701 B** (SSR shell) | MCP repo MIT; live gallery still uncounted |
 | PRYNE brand template | GPT (implied) | one 16:9 template + fill-in line | demonstrated on-thread | author examples |
-| Imageory.in | ChatGPT | marketplace site | stills only | unknown |
+| Imageory.in | ChatGPT (tweet-only; homepage **167,558 B** has no ChatGPT string) | marketplace site (category chips; no prompt bodies) | stills only | unknown |
 | GPT 5.6 Sol teasers | Sol | prompt **not captured**; quoted marketplace is **sceneai.art** (36 Copy Prompt / 46 previews) | video only | sceneai.art is a UI library, not the Sol text |
 
 ## image-prompt-galleries — claims that need a receipt

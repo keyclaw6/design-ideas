@@ -8,4 +8,6 @@
 
 <!-- NOTES:START -->
 **2026-09-04 capture — named in Frontal Playbook case study.** Playbook outbound stack is Clay enrichment + Instantly campaigns (`https://frontal.so/case-studies/playbook`). Instantly is the sequencer in that write-up, not the source of the Vacca 97/1 or 1,000-meeting tweet numbers.
+
+**2026-09-05 capture — homepage.** `https://instantly.ai` GET 200 / **135,775 B**. Title Sales Engagement and Lead Intelligence. Names AI Sales Agent / AI Reply Agent / AirMail / Inbox Placement / Cold Email Bench Report 2026. Strings **10k / 10,000** emails and dollar prices are absent. Receipt `analysis/_work/captures/leftover2-2026-09-05.json`.
 <!-- NOTES:END -->

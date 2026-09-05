@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "assets.rivet.dev/manual/Rivet-Technical-Manual.pdf HEAD/GET 200 / 11,889,432 B application/pdf. pdfinfo: 893 pages, letter, title Rivet Technical Manual — Edition 2026.08 (actors, agentOS, Workflows, Dynamic Apps, Rivet Cloud, Self-Host). Tweet 825 pages is stale vs this file.",
+      "kind": "counter-claim",
+      "evidence": "pdfinfo Pages=893 File size=11889432. Do not collapse 825 / 893.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/rivet.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2091686636698657080#c3"
     }
   ],
   "recipe_steps": [],

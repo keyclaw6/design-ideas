@@ -11,4 +11,6 @@ Fetched 2026-09-05 `http://is-agentic.com` GET 200 / **85,665 B**. Title Is Agen
 Neighbor (parked; no loopany.md): `https://loopany.ai/templates` GET 200 / **149,545 B**. Category counts: Growth **5**, Business Ops **3**, Codebase Autopilot **5**, CI/Test & Security **3**, Personal **3**, Goal Loops **4**. Free to read; runs on your own machine.
 
 Neighbor (parked; no survey tool page): `https://wkqdzkd.github.io/Awesome-Reliable-Self-Evolving-Agents/` GET 200 / **139,225 B**. **549** manuscript-used works; **5** self-evolution levels; **8** catalog sections; Explore L0–L4. Paper “coming soon.” Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
+
+Neighbor: `http://simplifyingai.co` GET 200 / **695,212 B**, title beehiiv. Newsletter shell, not a REASONING-block spec.
 <!-- NOTES:END -->

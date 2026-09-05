@@ -44,6 +44,16 @@
       "evidence_ref": "comments.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "text": "instantly.ai 200 / 135,775 B. Title Sales Engagement and Lead Intelligence. Names AI Sales Agent / AI Reply Agent / AirMail / Inbox Placement / Cold Email Bench Report 2026. Strings 10k / 10,000 emails and dollar prices are absent. Tweet 10k emails/day formula stays tweet-only.",
+      "kind": "availability",
+      "evidence": "GET 200 https://instantly.ai 135775 B. 10k absent.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/instantly.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents",
+      "id": "x-2094927852399624557#c3"
     }
   ],
   "numbers": [

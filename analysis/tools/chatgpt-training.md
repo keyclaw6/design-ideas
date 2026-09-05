@@ -6,5 +6,5 @@
 - [OpenAI ChatGPT Training hub for Work, Codex, plugins, and skills](../items/x-2095133695480873023/card.md) — reference, tool — agent-harness-loops
 
 <!-- NOTES:START -->
-
+Fetched 2026-09-05 `https://learn.chatgpt.com/training` GET 200 / **305,746 B**. Title ChatGPT Training. Nav: Codex Docs, ChatGPT Plugins, Workspace Agents, Skills, MCP and Connectors. Training hub, not a runnable harness. Receipt `analysis/_work/captures/leftover2-2026-09-05.json`.
 <!-- NOTES:END -->

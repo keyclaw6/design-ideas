@@ -45,6 +45,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "Raw packages/pi-shepherdr/README.md 200 / 5,522 B. First-party: one persistent agent system for ordinary Pi, Code Mode and Notebook Mode; Herdr fleet; routed agents tool. String 271-token is absent. Tweet 271-token orchestrator stays tweet-only.",
+      "kind": "counter-claim",
+      "evidence": "README 5522 B. 271 absent.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/pi-shepherdr.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2087232392209531166#c3"
     }
   ],
   "numbers": [

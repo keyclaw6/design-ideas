@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087714580491370655#c1` (capability, stated) Pi extensions can send natural-language instructions to the active realtime voice assistant via reportRealtimeVoicePrompt with stable ids and active flags. — evidence: "Pi extensions can now send prompts to the active realtime voice assistant. These are instructions, not canned lines" [post]
 - `x-2087714580491370655#c2` (recipe, stated) Install pi-codex-conversion or standalone pi-gippity-control but not both. — evidence: "Codex Conversion already contains GipPity. Pick the full Codex package or standalone GipPity. Do not install both." [post]
+- `x-2087714580491370655#c3` (recipe, demonstrated) Raw packages/pi-codex-conversion/README.md 200 / 25,659 B. Install: pi install npm:@howaboua/pi-codex-conversion. Requires Pi 0.84.4+ and Node 22.19+. Points to howaboua.dev essay for token numbers (17 tools without 17 schemas). Matches the tweet extension, not a voice-changelog API dump. — evidence: "README 25659 B. pi install npm:@howaboua/pi-codex-conversion." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [session-hardening](../../techniques/session-hardening.md), [session-hardening](../../techniques/session-hardening.md)

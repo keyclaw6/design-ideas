@@ -9,4 +9,6 @@
 Fetched 2026-09-05 `https://www.agentation.com/` GET 200 / **64,985 B**. Product is `npm install agentation`: click-to-annotate UI → structured context for Claude Code / Codex. Names MCP, AFS 1.1, Output Schema, webhooks. H1 “Visual feedback. For agents.” Not a curated animated-UI-kit catalog. Tweet “animated UI kits plus Agentation” should not be collapsed into one kit library.
 
 Neighbor (parked; no agenticui.md): `https://agenticui.net/` GET 200 / **139,008 B** (Figma Design System; Purchase CTA). `/showcase` 200 / **79,755 B**, title Built with Agentic UI. Homepage: “production-ready Figma design system for building scalable agentic experiences.” Showcase SSR has **135** “component” strings but no priced catalog in visible HTML. Receipt `analysis/_work/captures/priority7-2026-09-05.json`.
+
+Neighbor (parked; no ai-design-skills.md): `elayadesign/ai-design-skills` MIT, **1,731** stars. Root: `skills/` + LICENSE/README. API description empty.
 <!-- NOTES:END -->

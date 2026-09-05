@@ -51,6 +51,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "text": "cadxstudio.in 200 / 3,111 B title-only SSR. Tweet one-shot Stanley cup product design is not in this HTML.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://cadxstudio.in 3111 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cadxstudio.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware",
+      "id": "x-2091621183422943726#c2"
     }
   ],
   "links": {

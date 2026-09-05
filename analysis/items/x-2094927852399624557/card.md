@@ -16,6 +16,7 @@
 - https://instantly.ai - sequencer
 - https://mapsdata.ai - leads" [post]
 - `x-2094927852399624557#c2` (result, stated) Author reply says MapsData leads work well for businesses under 50 employees. — evidence: "Have sent to millions of leads from there its very good for targeting businesses under 50 employees" [reply]
+- `x-2094927852399624557#c3` (availability, demonstrated) instantly.ai 200 / 135,775 B. Title Sales Engagement and Lead Intelligence. Names AI Sales Agent / AI Reply Agent / AirMail / Inbox Placement / Cold Email Bench Report 2026. Strings 10k / 10,000 emails and dollar prices are absent. Tweet 10k emails/day formula stays tweet-only. — evidence: "GET 200 https://instantly.ai 135775 B. 10k absent." [note]
 **Numbers.** daily send volume cited: 10000 emails/day (post); inboxes cited: 500  (post); domains cited: 167  (post)
 **Recipe.** —
 **Techniques.** [cold-email-sequence](../../techniques/cold-email-sequence.md)

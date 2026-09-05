@@ -39,6 +39,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "text": "cadxstudio.in 200 / 3,111 B. Title CadXStudio | AI Design Engine in the Browser. Title-only SSR shell. Tweet hexacopter demo / cadxstduio.in typo cannot be verified from this HTML.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://cadxstudio.in 3111 B. analysis/_work/captures/leftover-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cadxstudio.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware",
+      "id": "x-2088308976278790258#c2"
     }
   ],
   "recipe_steps": [],

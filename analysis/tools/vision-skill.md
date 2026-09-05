@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 Fetched 2026-09-05 GitHub API `kunchenguid/vision` MIT, **311** stars / **13** forks. Description: mines repo history to draft VISION.md and stress-tests it. Root: `skills/`, `AGENTS.md`, `CLAUDE.md`, `LICENSE`, `README.md`. Matches the tweet skill, not a vision-model pack. Receipt `analysis/_work/captures/priority7-2026-09-05.json`.
+
+Neighbor (same author; no dotfiles.md): `kunchenguid/dotfiles` MIT-0, **566** stars. Root: `home/`, `tests/`, `configuration.nix`, `bootstrap.sh`, `AGENTS.md`.
 <!-- NOTES:END -->

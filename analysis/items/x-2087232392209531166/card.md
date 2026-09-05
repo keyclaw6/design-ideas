@@ -12,6 +12,7 @@
 - `x-2087232392209531166#c1` (capability, stated) Orchestration surface exposes list, start, watch, send, and unwatch with explicit pane placement. — evidence: "list finds agents and workspaces
 - start requires a name and explicit placement: a new workspace, new tab or existing pane" [post]
 - `x-2087232392209531166#c2` (capability, stated) Shepherdr deliberately does not focus, move, stop, or close panes; Herdr owns layout lifecycle. — evidence: "Shepherdr does not focus, move, stop or close panes. Herdr owns the terminals, layout and session lifecycle." [post]
+- `x-2087232392209531166#c3` (counter-claim, demonstrated) Raw packages/pi-shepherdr/README.md 200 / 5,522 B. First-party: one persistent agent system for ordinary Pi, Code Mode and Notebook Mode; Herdr fleet; routed agents tool. String 271-token is absent. Tweet 271-token orchestrator stays tweet-only. — evidence: "README 5522 B. 271 absent." [note]
 **Numbers.** orchestration token budget: 271 tokens (post)
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md), [agent-harness-ops](../../techniques/agent-harness-ops.md)

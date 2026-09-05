@@ -63,6 +63,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "text": "amicro.vercel.app 200 / 4,226 B. Title Amicro — Premium React Micro-transitions & Interaction Components. Title-only SSR. Tweet “Mono Charts” / single CLI command are not in this HTML.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://amicro.vercel.app 4226 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/archify.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams",
+      "id": "x-2088599468698751328#c3"
     }
   ],
   "links": {
