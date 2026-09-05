@@ -53,10 +53,27 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2091497597743612379#c3",
+      "text": "The in-Blender world-build is an X amplify video 49.6 s at 1440×1080. No separate .blend or Meshy project file in this bank. Thread status is empty (0 replies reported).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/abyssallD/status/2091497597743612379. video duration 49.6 width 1440 height 1080. replies 0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/higgsfield.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Higgsfield world demo duration",
+      "value": "49.6",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "blender-blockout-camera"
   ],
@@ -89,10 +106,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "media-undescribed"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "x-2093064017468145963",
@@ -102,5 +117,5 @@
     "why_must_read": "In-Blender agent world-build demo distinct from export-to-video-model pipeline."
   },
   "worker": "cards-07",
-  "written_at": "2026-09-04T18:25:00Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }

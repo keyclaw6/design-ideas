@@ -43,7 +43,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 ## web-3d-scenes — do not treat as load-bearing
 
 - Spline-disrupts-legacy-DCC ([x-2090526692427104508](../../items/x-2090526692427104508/card.md)) — three-reply opinion, captured_full, still one person’s take.
-- RoundtableSpace one-hour course — syllabus tweet, not a scene.
+- RoundtableSpace one-hour course — the taught process is the X amplify video **3596.421 s** / 2216×1440, not a scene or a separate course page ([scroll-driven-3d](../../techniques/scroll-driven-3d.md)). Thread stays 15/3.
 - Secondary splat / LOD / Needle items — they sit here as overlap; judge them in their primary subjects.
 - MengTo “60 new Three.js components” ([x-2091571624390881664](../../items/x-2091571624390881664/card.md)) until the component list is in-repo, not a prompt-axis tweet.
 

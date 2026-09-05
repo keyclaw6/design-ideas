@@ -30,7 +30,7 @@ LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-20905892936770235
 ## gaussian-splatting — claims that need a receipt
 
 - Splat2Mesh “free personal / non-commercial” — **EULA v1.0 (2026-08-21) now fetched**; company R&D/prototyping/print-for-pay is commercial even with no revenue. See [splat2mesh](../../tools/splat2mesh.md).
-- Splat2Mesh “no GPU” — **not on the English product page**. It appears in the JP launch `og:description` (`x-2095136786095951924`). Same og text says the mesh is **not** automatically watertight for print.
+- Splat2Mesh “no GPU” — **not on the English product page** (re-fetched **200 / 73,796 B**). It appears in the JP launch `og:description` (`x-2095136786095951924`). Same og text says the mesh is **not** automatically watertight for print. ymt3d + Arcana launch cards are now `ready` (threads `empty`); 3dnchu write-up **299,442 B**.
 - Timed conversion of the public `sample.ply` (1.5 MB, HTTP 200) — not run (Windows installer; this host is Linux).
 - LichtFeld 5M / 30k / 4090 — one benchmark tweet; no wall-clock, no VRAM, no quality still.
 - Aholo “billion splats in the browser” — secondary citation in a roundup, not a first-party capture.
@@ -49,5 +49,5 @@ Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-209
 
 1. EULA + sample.ply URL are on the tool page. Remaining: run the Windows app on `sample.ply` and record wall-clock + whether the OBJ is watertight.
 2. LightFuse paper/project page are on the splat-pipeline NOTES. Root video **33 s** / 1280×720. Remaining: replies on X, and a code/weights drop if one appears. Splat2Mesh JP replies still 0 tweet nodes; JP launch clip is **16.24 s** / 1148×652.
-3. IZUTSUYA converter page is summarized on [splat-pipeline](../../techniques/splat-pipeline.md) (500 MB, 5 free calc/month, AI paid, OBJ calc-only). Remaining: convert `sample.ply` and check whether the STL is manifold.
+3. IZUTSUYA converter page re-fetched **200 / 76,302 B** and folded onto [x-2095336950890983773](../../items/x-2095336950890983773/card.md) (`ready`, thread `empty`). Extra first-party copy: one free AI trial / account; AI download disclaimer; EU/UK/Korea license bar; `/en/` 404. 3dnchu article **312,202 B**. Remaining: convert `sample.ply` and check whether the STL is manifold.
 4. Decide ArtiFixer: phone capture vs research scan. Nothing in this bank tests a handheld video.

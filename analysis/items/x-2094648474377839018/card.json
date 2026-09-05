@@ -39,12 +39,26 @@
       "evidence_ref": "raw/items/x-2094648474377839018/post.md",
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094648474377839018#c2",
+      "text": "Live EN product page https://arcana-mfg.com/en/splat2mesh/ is 200 / 73,796 B: Windows 11, OBJ/GLB export, Free for Personal & Non-Commercial Use, EULA-gated download, sample.ply. The English page does not say “no GPU.” Thread status is empty (0 replies, 10 quotes). 3dnchu write-up is 200 / 299,442 B.",
+      "kind": "availability",
+      "evidence": "GET https://arcana-mfg.com/en/splat2mesh/ 200 73796 B. Copy: Windows 11 Supported / Free for Personal Non-Commercial Use / Export to widely used 3D formats such as OBJ and GLB.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": [],
   "numbers": [],
-  "techniques": [],
-  "tools": [],
+  "techniques": [
+    "splat-pipeline"
+  ],
+  "tools": [
+    "splat2mesh"
+  ],
   "links": {
     "canonical": "https://x.com/ArcanaMfg/status/2094648474377839018",
     "repo": "https://github.com/ArcanaMfg",
@@ -86,10 +100,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "translation-needed"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "web-arcana-splat2mesh",
@@ -99,5 +111,5 @@
     "why_must_read": "JP launch tweet with quoted demo; product page captured separately."
   },
   "worker": "cards-14",
-  "written_at": "2026-09-04T18:06:32Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }

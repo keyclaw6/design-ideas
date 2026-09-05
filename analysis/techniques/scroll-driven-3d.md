@@ -22,4 +22,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-04 capture — utsubo.com live.** `GET https://www.utsubo.com/` **200 / 72,976 B**. Title **Utsubo - Embark on New Frontiers of Digital Experiences**. Visible copy includes **0% BETTER WITH SPEAKERS ON** and “technology-first creative studio crafting ambitious digital experiences with no technical limits.” Receipt `analysis/_work/captures/utsubo-2026-09-04.json`.
 
 **2026-09-05 capture — Meng To tutorial pointer.** The taught Three.js + Claude Code + Opus 5 process is the X amplify video on `MengTo/2088117711868227765` (**2411.133 s**, 2880×2160), not a separate course page. Parked from `x-2088265078919282836`.
+
+**2026-09-05 capture — RoundtableSpace “1-hour course.”** Root tweet `2086599657925329347` amplify video **3596.421 s** (~59.94 min) / **2216×1440**. No separate course page in this bank. Thread stays `captured_partial` (15/3). Receipt `analysis/_work/captures/roundtable-course-2086599657925329347.json`.
 <!-- NOTES:END -->

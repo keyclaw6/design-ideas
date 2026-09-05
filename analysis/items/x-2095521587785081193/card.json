@@ -49,6 +49,16 @@
       "evidence_ref": "analysis/techniques/faceless-video-pipeline.md",
       "confidence": "demonstrated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2095521587785081193#c3",
+      "text": "The promised “full breakdown” is an X amplify video 106.24 s at 3840×2160. No separate craft write-up URL. Thread stays captured_partial (20/1).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/titouangillet_/status/2095521587785081193. video duration 106.24 width 3840 height 2160. replies 20.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/faceless-video-pipeline.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
@@ -58,6 +68,12 @@
       "value": "4.6",
       "unit": "million",
       "source": "post"
+    },
+    {
+      "label": "Intelligence launch breakdown duration",
+      "value": "106.24",
+      "unit": "seconds",
+      "source": "note"
     }
   ],
   "techniques": [],
@@ -85,7 +101,6 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "media-undescribed",
     "thread-partial"
   ],
   "judge_hints": {
@@ -96,5 +111,5 @@
     "why_must_read": "Breakdown content and video were not fully captured; only headline metrics in post.md."
   },
   "worker": "cards-06",
-  "written_at": "2026-09-04T18:15:17Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }

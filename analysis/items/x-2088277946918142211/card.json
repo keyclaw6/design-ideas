@@ -49,10 +49,27 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2088277946918142211#c3",
+      "text": "The exploded-view demo is an X amplify video 58.616 s at 1920×1080. Quoted tweet 2088278347621040398 is a robot-base planetary-gear prompt. No STEP/export in this bank. Thread stays captured_partial (5/1).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/10_X_eng/status/2088277946918142211. video duration 58.616 width 1920 height 1080. replies 5.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/vibecad.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "VibeCAD demo duration",
+      "value": "58.616",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "text-to-cad",
     "text-to-cad"
@@ -86,7 +103,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "media-undescribed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -94,5 +111,5 @@
     "why_must_read": null
   },
   "worker": "cards-08",
-  "written_at": "2026-09-04T18:05:00Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }

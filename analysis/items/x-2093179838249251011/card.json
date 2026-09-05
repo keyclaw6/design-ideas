@@ -47,6 +47,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2093179838249251011#c3",
+      "text": "The later EN product page (200 / 73,796 B) confirms Windows 11 + OBJ/GLB + personal/non-commercial free under an EULA. Tweet “no GPU” / “basically free for anyone” stay tweet-only versus that page. Thread stays captured_partial (10/3).",
+      "kind": "availability",
+      "evidence": "GET https://arcana-mfg.com/en/splat2mesh/ 200 73796 B. English page has no “GPU” / “no GPU” string.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": null,
@@ -90,7 +100,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "translation-needed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -98,5 +108,5 @@
     "why_must_read": null
   },
   "worker": "cards-19",
-  "written_at": "2026-09-04T18:19:37Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }

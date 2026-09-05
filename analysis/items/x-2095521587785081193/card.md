@@ -2,7 +2,7 @@
 
 `x-2095521587785081193` · x · demo-video · en · [source](https://x.com/titouangillet_/status/2095521587785081193) · [raw](../../../raw/items/x-2095521587785081193/)
 **Author:** Titouan Gillet (@titouangillet_) · **Published:** — · **Captured:** 2026-09-04T06:50:22Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** media-undescribed, thread-partial
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [ai-video-generation](../../subjects/ai-video-generation/brief.md) · **Also:** — · **Roles:** example, claim-source · **Platforms:** other
 
 **Summary.** Titouan Gillet cites a founder-posted launch video that generated over 4.6 million views for Intelligence Co and promises a full breakdown of the craft; attached video exceeds repo size limits locally.
@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2095521587785081193#c1` (result, stated) Referenced launch video generated more than 4.6 million views for Intelligence Co when posted by founder Andrew Pignanelli. — evidence: "this launch video generated 4.6M+ views for @intelligenceco." [post]
 - `x-2095521587785081193#c2` (availability, demonstrated) GET https://intelligence.co 301s to https://www.intelligence.ai/ (200 / 52,359 B). Title Intelligence. Meta quotes The world’s most realistic model evaluations (source ranking language). Page is Design Arena / model-eval leaderboards, not a launch-video craft breakdown. 4.6M views remain tweet-only. — evidence: "analysis/_work/captures/intelligence-ai-2026-09-04.json" [note]
-**Numbers.** launch video views: 4.6 million (post)
+- `x-2095521587785081193#c3` (availability, demonstrated) The promised “full breakdown” is an X amplify video 106.24 s at 3840×2160. No separate craft write-up URL. Thread stays captured_partial (20/1). — evidence: "GET https://api.fxtwitter.com/titouangillet_/status/2095521587785081193. video duration 106.24 width 3840 height 2160. replies 20." [note]
+**Numbers.** launch video views: 4.6 million (post); Intelligence launch breakdown duration: 106.24 seconds (note)
 **Recipe.** —
 **Techniques.** —
 **Tools.** —

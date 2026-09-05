@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T01:20:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/ArcanaMfg/status/2094648474377839018",
+  "text": "3DGSをMeshへ変換するソフトウェア「Splat2Mesh」を本日公開しました！\n3D Gaussian SplattingデータをOBJ / GLB形式へ変換できます。\n個人利用・非商用利用は無料です。\nhttps://arcana-mfg.com/splat2mesh/\nEnglish: https://arcana-mfg.com/en/splat2mesh/\n#Splat2Mesh #3DGS #LichtFeldStudio #3DPrint",
+  "replies": 0,
+  "quotes": 10,
+  "video": {
+    "duration_s": null,
+    "width": null,
+    "height": null
+  }
+}

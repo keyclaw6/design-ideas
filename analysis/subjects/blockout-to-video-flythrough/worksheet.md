@@ -54,3 +54,4 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 5. Do not expand this lane with more model-launch tweets.
 6. adilinthewild “19-minute” Blender-first tutorial is the X amplify video (**1187.497 s**, 3840×2160). Quoted prompts link is a Higgsfield blog **200 / 72,653 B** whose HTML does not repeat the 19-minute string ([higgsfield](../../tools/higgsfield.md)). Thread stays `captured_partial` (71/1).
 7. npaka CLI-vs-MCP note card is now `ready` (thread `empty`; body already on [blender-blockout-camera](../../techniques/blender-blockout-camera.md)).
+8. Higgsfield + Claude Opus 5 in-Blender world-build ([x-2091497597743612379](../../items/x-2091497597743612379/card.md)) is now `ready` (thread `empty`). Root video **49.6 s** / 1440×1080. Remaining: the `.blend` / Meshy project, not thread capture.

@@ -2,7 +2,7 @@
 
 `x-2086599657925329347` · x · course · en · [source](https://x.com/RoundtableSpace/status/2086599657925329347) · [raw](../../../raw/items/x-2086599657925329347/)
 **Author:** RoundtableSpace (@@RoundtableSpace) · **Published:** — · **Captured:** 2026-09-04T06:52:13Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** media-undescribed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [web-3d-scenes](../../subjects/web-3d-scenes/brief.md) · **Also:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Roles:** reference · **Platforms:** claude-code, three-js
 
 **Summary.** RoundtableSpace promotes a free one-hour course on using Claude to build interactive 3D websites and games from scratch, covering a full AI-assisted design workflow. Capture is promotional with course video omitted from git due to size.
@@ -10,7 +10,8 @@
 
 **Claims.**
 - `x-2086599657925329347#c1` (capability, stated) Course covers interactive 3D experiences, games from scratch, and AI design workflow. — evidence: "This free 1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with AI." [post]
-**Numbers.** —
+- `x-2086599657925329347#c2` (availability, demonstrated) The “1-hour course” is an X amplify video 3596.421 s (~59.94 min) at 2216×1440. No separate course page URL in this bank. Thread stays captured_partial (15/3). — evidence: "GET https://api.fxtwitter.com/RoundtableSpace/status/2086599657925329347. video duration 3596.421 width 2216 height 1440. replies 15." [note]
+**Numbers.** Roundtable course duration: 3596.421 seconds (note)
 **Recipe.** —
 **Techniques.** —
 **Tools.** —

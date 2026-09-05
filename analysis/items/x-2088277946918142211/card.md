@@ -2,7 +2,7 @@
 
 `x-2088277946918142211` · x · demo-video · en · [source](https://x.com/10_X_eng/status/2088277946918142211) · [raw](../../../raw/items/x-2088277946918142211/)
 **Author:** RobitOverload (@10_X_eng) · **Published:** — · **Captured:** 2026-09-04T06:49:28Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** media-undescribed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [ai-cad-hardware](../../subjects/ai-cad-hardware/brief.md) · **Also:** — · **Roles:** example, technique · **Platforms:** other
 
 **Summary.** @10_X_eng shows VibeCAD progress on exploded mechanical views and motion simulations, arguing the workflow is becoming usable for verifying assemblies before fabrication.
@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2088277946918142211#c1` (capability, stated) VibeCAD now supports exploded views and simulations of mechanical assemblies. — evidence: "More VibeCAD work on the exploded views and simulations." [post]
 - `x-2088277946918142211#c2` (opinion, stated) The author says the workflow is becoming decent and very usable. — evidence: "I honestly think this is getting to the place where its very decent and very usable." [post]
-**Numbers.** —
+- `x-2088277946918142211#c3` (availability, demonstrated) The exploded-view demo is an X amplify video 58.616 s at 1920×1080. Quoted tweet 2088278347621040398 is a robot-base planetary-gear prompt. No STEP/export in this bank. Thread stays captured_partial (5/1). — evidence: "GET https://api.fxtwitter.com/10_X_eng/status/2088277946918142211. video duration 58.616 width 1920 height 1080. replies 5." [note]
+**Numbers.** VibeCAD demo duration: 58.616 seconds (note)
 **Recipe.** —
 **Techniques.** [text-to-cad](../../techniques/text-to-cad.md), [text-to-cad](../../techniques/text-to-cad.md)
 **Tools.** [vibecad](../../tools/vibecad.md)

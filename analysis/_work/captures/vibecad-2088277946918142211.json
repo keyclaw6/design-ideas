@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T01:20:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/10_X_eng/status/2088277946918142211",
+  "text": "More VibeCAD work on the exploded views and simulations. I honestly think this is getting to the place where its very decent and very usable. \n\nPrompt to make this below.",
+  "replies": 5,
+  "quotes": 1,
+  "video": {
+    "duration_s": 58.616,
+    "width": 1920,
+    "height": 1080
+  }
+}

@@ -41,10 +41,27 @@
       "evidence_ref": "raw/items/x-2086599657925329347/post.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2086599657925329347#c2",
+      "text": "The “1-hour course” is an X amplify video 3596.421 s (~59.94 min) at 2216×1440. No separate course page URL in this bank. Thread stays captured_partial (15/3).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/RoundtableSpace/status/2086599657925329347. video duration 3596.421 width 2216 height 1440. replies 15.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/scroll-driven-3d.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Roundtable course duration",
+      "value": "3596.421",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [],
   "links": {
@@ -75,7 +92,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "media-undescribed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [
@@ -86,5 +103,5 @@
     "why_must_read": null
   },
   "worker": "cards-14",
-  "written_at": "2026-09-04T18:06:32Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }

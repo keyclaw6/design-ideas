@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T01:20:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/ymt3d/status/2094826117056414132",
+  "text": "3D Gaussian SplattingデータをOBJやGLBのポリゴンメッシュへ変換できる無料ソフト！Win\n\nSplat2Mesh \nhttps://3dnchu.com/archives/splat2mesh/ \nby @ArcanaMfg \n\n#3DGS #Splat2Mesh",
+  "replies": 0,
+  "quotes": 3,
+  "video": {
+    "duration_s": 7.36,
+    "width": 718,
+    "height": 396
+  }
+}

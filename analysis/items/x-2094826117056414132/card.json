@@ -39,6 +39,26 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094826117056414132#c3",
+      "text": "The attached demo is an X amplify video 7.36 s at 718×396. Thread status is empty (0 replies reported).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/ymt3d/status/2094826117056414132. video duration 7.36 width 718 height 396. replies 0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2094826117056414132#c4",
+      "text": "3dnchu article https://3dnchu.com/archives/splat2mesh/ is 200 / 299,442 B (posted 2026-09-02). It restates Arcana Windows 11 PLY→OBJ/GLB. Live EN product page https://arcana-mfg.com/en/splat2mesh/ is 200 / 73,796 B: Windows 11, Free for Personal & Non-Commercial Use, EULA-gated download. The English page does not say “no GPU.”",
+      "kind": "availability",
+      "evidence": "GET https://3dnchu.com/archives/splat2mesh/ 200 299442 B. GET https://arcana-mfg.com/en/splat2mesh/ 200 73796 B. Title Splat2Mesh. Copy: Windows 11 Supported / Free for Personal Non-Commercial Use.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat2mesh.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": [],
@@ -56,8 +76,12 @@
       "source": "media"
     }
   ],
-  "techniques": [],
-  "tools": [],
+  "techniques": [
+    "splat-pipeline"
+  ],
+  "tools": [
+    "splat2mesh"
+  ],
   "links": {
     "canonical": null,
     "repo": null,
@@ -83,7 +107,7 @@
     {
       "path": "raw/items/x-2094826117056414132/media/video.mp4",
       "type": "video",
-      "description": null,
+      "description": "7.36 s / 718×396 clip of the Splat2Mesh Windows UI converting a plant splat to a mesh with Quality, Voxel, and Convert controls.",
       "skip_reason": null,
       "carries_technique": true
     }
@@ -99,18 +123,15 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "thread-failed",
-    "translation-needed"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-04",
-  "written_at": "2026-09-04T18:05:00Z",
+  "written_at": "2026-09-05T01:45:00Z",
   "id": "x-2094826117056414132",
   "source_type": "x",
   "url": "https://x.com/ymt3d/status/2094826117056414132",

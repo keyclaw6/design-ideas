@@ -3,7 +3,14 @@
   "duplicate_of": null,
   "secondary_subjects": [],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Motion harness demo duration",
+      "value": "20",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "remotion-code-video"
   ],
@@ -11,8 +18,7 @@
     "remotion-code-video"
   ],
   "gaps": [
-    "thread-partial",
-    "media-undescribed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -20,7 +26,7 @@
     "why_must_read": null
   },
   "worker": "cards-01",
-  "written_at": "2026-09-04T18:10:00Z",
+  "written_at": "2026-09-05T01:45:00Z",
   "id": "x-2091688420695564296",
   "source_type": "x",
   "url": "https://x.com/_adishj/status/2091688420695564296",
@@ -56,6 +62,16 @@
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2091688420695564296#c2",
+      "text": "The Motion harness promo is an X amplify video 20 s at 1920×1080. No repo or recipe file in this tweet. Thread stays captured_partial (5/3).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/_adishj/status/2091688420695564296. video duration 20 width 1920 height 1080. replies 5.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/motion-anything.md",
+      "confidence": "demonstrated",
       "subject": "code-motion-graphics"
     }
   ],

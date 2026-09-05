@@ -42,18 +42,59 @@
     },
     {
       "id": "x-2094961942058418268#c2",
-      "text": "The paper reports scene-level det mAP 0.592 versus Boxer 0.351 on R2S-Scene.",
+      "text": "Project-page table: scene-level detection AP on R2S-Scene is 0.592 (Ours key) versus 0.351 (Boxer all). Tweet 0.592 vs Boxer 0.351 matches this first-party row.",
       "kind": "benchmark",
-      "evidence": "scene-level det mAP 0.592 vs Boxer 0.351 on R2S-Scene",
-      "evidence_source": "linked-page",
-      "evidence_ref": "research.md",
-      "confidence": "stated",
+      "evidence": "GET https://lucida-r2s.github.io/ 200 25570 B. Table: R2S-Scene All objects Ours key 0.592 vs Boxer all 0.351.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/image-to-3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2094961942058418268#c3",
+      "text": "arXiv:2608.30821 abs (200 / 43,008 B, submitted 2026-08-31): Lucida is parse → generate → place. Placement is GizmoAct, a VLM that edits an object gizmo in a closed loop. Abstract integers: mAP +69% vs Boxer on R2S-Scene; ADD-SB@0.05 57.8% → 83.4% on CA-1M; scene F-Score 0.794 (SAM3D) → 0.924. PDF listed 31,154 KB. Seed3D 2.0 is in the JP tweet, not in this abstract.",
+      "kind": "benchmark",
+      "evidence": "GET https://arxiv.org/abs/2608.30821 200 43008 B. Title Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling. Authors Qin et al. ByteDance Seed / PKU / ZJU.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/image-to-3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2094961942058418268#c4",
+      "text": "Project page https://lucida-r2s.github.io/ is 200 / 25,570 B. Parse builds a scene graph (keyframes, masks, partial clouds, 3D boxes). Generate synthesizes an occlusion-free object image then lifts it to an editable mesh. GizmoAct uses up to four views and 12 refinement steps. No weights/repo URL (author user OrangeSodahub only). Thread is captured_full (1/1).",
+      "kind": "availability",
+      "evidence": "GET https://lucida-r2s.github.io/ 200 25570 B. Title Lucida | Composable real-to-sim scene modeling. Interactive preview copy: Could not open the interactive scene.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/image-to-3d-worldgen.md",
+      "confidence": "demonstrated",
       "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
-  "techniques": [],
+  "numbers": [
+    {
+      "label": "R2S-Scene det AP Ours key",
+      "value": "0.592",
+      "unit": "AP",
+      "source": "linked-page"
+    },
+    {
+      "label": "R2S-Scene det AP Boxer all",
+      "value": "0.351",
+      "unit": "AP",
+      "source": "linked-page"
+    },
+    {
+      "label": "CA-1M ADD-SB@0.05",
+      "value": "83.4",
+      "unit": "percent",
+      "source": "linked-page"
+    }
+  ],
+  "techniques": [
+    "image-to-3d-worldgen"
+  ],
   "tools": [],
   "links": {
     "canonical": "https://lucida-r2s.github.io/",
@@ -94,10 +135,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "translation-needed"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "x-2093937170717585657",
@@ -107,5 +146,5 @@
     "why_must_read": "Real-to-sim object meshes from facility walkthrough video, not splat flythroughs."
   },
   "worker": "cards-11",
-  "written_at": "2026-09-04T18:12:00Z"
+  "written_at": "2026-09-05T01:50:00Z"
 }

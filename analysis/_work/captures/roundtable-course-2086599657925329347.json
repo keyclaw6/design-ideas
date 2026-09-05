@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T01:20:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/RoundtableSpace/status/2086599657925329347",
+  "text": "Claude can now build 3D websites and most people still don't know how.\n\nThis free 1-hour course covers interactive 3D experiences, games from scratch and the full design workflow with AI.\n\n",
+  "replies": 15,
+  "quotes": 2,
+  "video": {
+    "duration_s": 3596.421,
+    "width": 2216,
+    "height": 1440
+  }
+}

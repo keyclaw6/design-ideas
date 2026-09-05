@@ -34,7 +34,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 - Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; `/worldgen` 404; `/workspace/worldgen` is an **11,026**-byte login SPA with no public mesh download ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). CAST paper tables now quoted there (CLIP 85.77 / 3D-Front CD-S 0.052). Still no engine file.
 - Atlas 3D AI “one sentence → Unreal ride” — 35 replies / 3 captured; the ride may be video, not an `.uproject`.
 - Lumera object-split meshes + HDR lights — project page is a 1 KB JS shell; weights/code still missing.
-- Lucida parse/generate/place + GizmoAct — **project page fetched** (https://lucida-r2s.github.io/): indoor video, scene graph, Seed3D-class assets, tables on R2S / CA-1M / ADT. No weights zip.
+- Lucida parse/generate/place + GizmoAct — **abs + project page first-party** ([image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md)): R2S-Scene AP **0.592** vs Boxer **0.351**; ADD-SB@0.05 **83.4%** on CA-1M; F-Score **0.924**. Seed3D 2.0 stays tweet-only. Card is now `ready`. No weights zip.
 - Needle 3.2M→3k in 3s with “superb normals” — demo numbers, tool not shipping in this capture.
 - Bee topology with “no prompt, no retries” — tool unnamed; cannot reproduce.
 - kokraf four-view projection is the only `demonstrated` claim (media + repo). Use it as the texture-path reference.
@@ -47,7 +47,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 
 ## image-to-3d-world — next capture work
 
-1. Lumera paper abs + ar5iv are now first-party ([image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md)): **2,513** UE5 projects / **3.73M** components / **63M** instances / **102.6K** lights / **95.1K** views. Still no weights URL. Lucida page still has no weights — only author GitHub user `OrangeSodahub`. Remaining: a logged-in WorldGen export (GLB/USD).
+1. Lumera paper abs + ar5iv are now first-party ([image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md)): **2,513** UE5 projects / **3.73M** components / **63M** instances / **102.6K** lights / **95.1K** views. Still no weights URL. Lucida abs + page are now first-party; card `ready`; still no weights — only author GitHub user `OrangeSodahub`. Remaining: a logged-in WorldGen export (GLB/USD).
 2. World Labs **Marble** docs + public example CDN ([atlas](../../tools/atlas.md)): Free **4** gens / no export; Standard **12** + splat/pano/collider; Pro **25** + HQ mesh; Max **75**. Official rustic-kitchen downloads (no login): collider GLB **2,976,256** B, 500k SPZ **7,582,907** B, pano **3,860,086** B. Remaining: a logged-in export of a *user* world.
 3. kokraf README is a VEF modeler, not a four-view bake skill ([kokraf](../../tools/kokraf.md)). Projection path is still tweet/media-only.
 4. All 14 primaries are `ready-with-gaps`. Raising even three world-gen cards to `ready` unblocks a real bake-off.

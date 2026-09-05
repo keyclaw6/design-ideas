@@ -15,5 +15,7 @@ EULA (Arcana Mfg. Co., Ltd., effective 2026-08-21, v1.0): free for personal / ho
 
 JP launch tweet og:description (`x-2095136786095951924` retry): local processing, GPU not required, and a caveat that it does **not** automatically produce a printable watertight mesh. Thread replies still uncaptured (`failed`). Root amplify video is **16.24 s** / 1148×652 (`analysis/_work/captures/splat2mesh-jp-video-2095136786095951924.json`).
 
+**2026-09-05 re-fetch.** EN product page still **200 / 73,796 B**. 3dnchu write-up `https://3dnchu.com/archives/splat2mesh/` **200 / 299,442 B** (posted 2026-09-02) restates Windows 11 PLY→OBJ/GLB. ymt3d amplify video **7.36 s** / 718×396. Cards `x-2094826117056414132` and `x-2094648474377839018` are now `ready` (threads `empty`). Teaser `x-2093179838249251011` stays `ready-with-gaps` (`captured_partial` 10/3).
+
 No conversion of `sample.ply` was run in this environment (Windows installer; this host is Linux).
 <!-- NOTES:END -->

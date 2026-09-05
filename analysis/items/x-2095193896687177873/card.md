@@ -2,7 +2,7 @@
 
 `x-2095193896687177873` · x · demo-image · en · [source](https://x.com/adamdotnew/status/2095193896687177873) · [raw](../../../raw/items/x-2095193896687177873/)
 **Author:** — (@adamdotnew) · **Published:** — · **Captured:** 2026-09-04T07:01:54Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** media-undescribed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [ai-cad-hardware](../../subjects/ai-cad-hardware/brief.md) · **Also:** — · **Roles:** example, reference · **Platforms:** fusion, claude-code
 
 **Summary.** Adam reports Claude Fable 5.1 at Max effort is the strongest agentic CAD model they have tested, rebuilding an SO-101 gripper around the stock servo and mounting a Pi Camera Module 3 from official STEP inside Fusion via their harness.

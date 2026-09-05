@@ -40,7 +40,7 @@ After Effects rough comps as H3 plates ([x-2092040265234260091](../../items/x-20
 
 ## code-motion-graphics — do not treat as load-bearing
 
-- “every pixel fully editable” harness promo ([x-2091688420695564296](../../items/x-2091688420695564296/card.md)).
+- “every pixel fully editable” harness promo ([x-2091688420695564296](../../items/x-2091688420695564296/card.md)) — X video **20 s** / 1920×1080; editability still tweet-only.
 - OpenDesign as a motion tool — it is a design workspace (secondary).
 - AE→H3 as proof that code motion is dead — it is a conditioner path.
 

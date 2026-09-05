@@ -2,7 +2,7 @@
 
 `x-2091497597743612379` · x · demo-video · en · [source](https://x.com/abyssallD/status/2091497597743612379) · [raw](../../../raw/items/x-2091497597743612379/)
 **Author:** — (@abyssallD) · **Published:** — · **Captured:** 2026-09-04T07:01:49Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** media-undescribed
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [blockout-to-video-flythrough](../../subjects/blockout-to-video-flythrough/brief.md) · **Also:** [web-3d-scenes](../../subjects/web-3d-scenes/brief.md) · **Roles:** example, technique · **Platforms:** blender, higgsfield, claude-code
 
 **Summary.** Demo thread: Higgsfield plugin with Claude Opus 5 builds a full low-poly forest scene inside Blender from prompts—terrain, lake, lighting, camera—then Meshy 6 drops a rigged character and animates a walk without leaving Blender.
@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2091497597743612379#c1` (capability, stated) Claude Opus 5 through the Higgsfield plugin generates terrain, lake, mountains, trees, paths, lighting, and camera into a real .blend file from one prompt. — evidence: "Full forest appears in the real .blend file" [post]
 - `x-2091497597743612379#c2` (recipe, stated) A follow-on prompt uses Meshy 6 to generate a rigged low-poly adventurer and animate walking in the same Blender scene. — evidence: "Meshy 6 generates a low-poly adventurer — rigged and ready. Drops him straight into the scene." [post]
-**Numbers.** —
+- `x-2091497597743612379#c3` (availability, demonstrated) The in-Blender world-build is an X amplify video 49.6 s at 1440×1080. No separate .blend or Meshy project file in this bank. Thread status is empty (0 replies reported). — evidence: "GET https://api.fxtwitter.com/abyssallD/status/2091497597743612379. video duration 49.6 width 1440 height 1080. replies 0." [note]
+**Numbers.** Higgsfield world demo duration: 49.6 seconds (note)
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md)
 **Tools.** [higgsfield](../../tools/higgsfield.md), [meshy](../../tools/meshy.md), [blender](../../tools/blender.md)

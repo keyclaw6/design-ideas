@@ -2,7 +2,7 @@
 
 `x-2091688420695564296` · x · demo-video · en · [source](https://x.com/_adishj/status/2091688420695564296) · [raw](../../../raw/items/x-2091688420695564296/)
 **Author:** Adish Jain (@_adishj) · **Published:** — · **Captured:** 2026-09-04T06:49:33Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial, media-undescribed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [code-motion-graphics](../../subjects/code-motion-graphics/brief.md) · **Also:** — · **Roles:** example · **Platforms:** other
 
 **Summary.** Short promo that a motion piece built with the Motion harness has every pixel fully editable — positioning code-native motion graphics over baked generative video.
@@ -10,7 +10,8 @@
 
 **Claims.**
 - `x-2091688420695564296#c1` (capability, stated) The showcased animation is fully pixel-editable because it was built with the Motion harness. — evidence: "can you believe that every pixel here is fully editable? this was created with the Motion harness" [post]
-**Numbers.** —
+- `x-2091688420695564296#c2` (availability, demonstrated) The Motion harness promo is an X amplify video 20 s at 1920×1080. No repo or recipe file in this tweet. Thread stays captured_partial (5/3). — evidence: "GET https://api.fxtwitter.com/_adishj/status/2091688420695564296. video duration 20 width 1920 height 1080. replies 5." [note]
+**Numbers.** Motion harness demo duration: 20 seconds (note)
 **Recipe.** —
 **Techniques.** [remotion-code-video](../../techniques/remotion-code-video.md)
 **Tools.** [remotion-code-video](../../tools/remotion-code-video.md)

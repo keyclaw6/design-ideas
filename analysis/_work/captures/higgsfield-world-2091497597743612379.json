@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T01:20:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/abyssallD/status/2091497597743612379",
+  "text": "HIGGSFIELD BUILDS A FULL LOW-POLY WORLD INSIDE BLENDER\n\nOne prompt. \nClaude Opus 5 takes control through the Higgsfield plugin\n\n> Terrain\n> Lake\n> Mountains\n> Trees\n> Paths\n> Lighting\n> Camera\n\nFull forest appears in the real .blend file\n\nThen one more prompt.\nMeshy 6 generates a low-poly adventurer — rigged and ready. Drops him straight into the scene.\n\nLast prompt. \nThe character starts walking.\n\nNo leaving Blender.\nNo manual modeling. \nJust Higgsfield running the real scene from empty cube to animated result.",
+  "replies": 0,
+  "quotes": 0,
+  "video": {
+    "duration_s": 49.6,
+    "width": 1440,
+    "height": 1080
+  }
+}

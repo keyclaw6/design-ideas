@@ -40,11 +40,62 @@
       "evidence_ref": "raw/items/x-2095336950890983773/post.md",
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2095336950890983773#c2",
+      "text": "Live converter https://4dgs.jp/ja/3dgs-mesh-converter/ is 200 / 76,302 B. Upload is .ply ≤ 500 MB. Email required. Calc conversion (計算変換) is free 5/month, 1–5 min, “faithful.” High-detail AI conversion (高精細AI変換) needs a paid plan, 2–4 min, AI infill. Downloads: GLB (color/texture), STL (print), OBJ (calc mode only).",
+      "kind": "capability",
+      "evidence": "GET https://4dgs.jp/ja/3dgs-mesh-converter/ 200 76302 B. Visible copy: .ply・500MBまで / 無料・計算変換は毎月5回まで / 所要時間 1〜5分 / プラン契約 必須 / 2〜4分 / GLB（色・テクスチャ付き） STL（3Dプリント用） OBJ（計算変換のみ）.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/splat-pipeline.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2095336950890983773#c3",
+      "text": "Calc options: keep thin points (rails/leaves/ground) and hole-fill (ground/slopes/interiors/statues; bad for rails/grids). AI download disclaimer: not an accurate reproduction; license copy bars EU, UK, and Korea. One free AI trial per account. STL manifold/print check not run. EN path /en/3dgs-mesh-converter/ 404s.",
+      "kind": "availability",
+      "evidence": "Same converter HTML: 細部を残す / 穴埋め優先 / 元データの正確な再現ではありません / EU・英国・韓国では利用できません / 高精細AI変換は1アカウントにつき1回.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/splat-pipeline.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2095336950890983773#c4",
+      "text": "3dnchu article https://3dnchu.com/archives/3dgs-mesh-converter/ is 200 / 312,202 B (posted 2026-08-24, updated 2026-09-03). Title restates browser-only PLY→GLB/STL/OBJ beta. Thread status is empty (0 replies).",
+      "kind": "availability",
+      "evidence": "GET https://3dnchu.com/archives/3dgs-mesh-converter/ 200 312202 B. Title: 3DGS Mesh Converter | 3DGSのPLYデータをブラウザだけでメッシュ化！",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/splat-pipeline.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
-  "techniques": [],
+  "numbers": [
+    {
+      "label": "PLY upload cap",
+      "value": "500",
+      "unit": "MB",
+      "source": "linked-page"
+    },
+    {
+      "label": "Free calc conversions per month",
+      "value": "5",
+      "unit": "jobs",
+      "source": "linked-page"
+    },
+    {
+      "label": "Converter page bytes",
+      "value": "76302",
+      "unit": "bytes",
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "splat-pipeline"
+  ],
   "tools": [],
   "links": {
     "canonical": "https://x.com/ymt3d/status/2095336950890983773",
@@ -77,10 +128,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "translation-needed"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "web-arcana-splat2mesh",
@@ -90,5 +139,5 @@
     "why_must_read": null
   },
   "worker": "cards-14",
-  "written_at": "2026-09-04T18:06:32Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }

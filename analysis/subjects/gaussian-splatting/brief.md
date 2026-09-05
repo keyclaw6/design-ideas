@@ -90,7 +90,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2093397098544648516#c2` | The author compares the feature to something that should have existed years ago. | stated | [SuperSplat brush selection mode prais…](../../items/x-2093397098544648516/card.md) |
 | `x-2093563796237471912#c1` | GaussianGPT generates 3D Gaussian scenes autoregressively with a GPT-style transformer. | stated | [GaussianGPT autoregressive 3D Gaussia…](../../items/x-2093563796237471912/card.md) |
 
-Full set: claims.jsonl (31 rows)
+Full set: claims.jsonl (38 rows)
 
 ## gaussian-splatting — comparison axes
 

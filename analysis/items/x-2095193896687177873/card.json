@@ -103,7 +103,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "media-undescribed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [
@@ -113,5 +113,5 @@
     "why_must_read": "Model benchmark claim for Fusion agentic CAD; demo media not stored in harvest."
   },
   "worker": "cards-07",
-  "written_at": "2026-09-05T00:40:00Z"
+  "written_at": "2026-09-05T01:45:00Z"
 }
