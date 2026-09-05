@@ -93,9 +93,19 @@
     },
     {
       "id": "x-2091169290661838965#c7",
-      "text": "Quoted t.co/BJlCON8mji resolves to https://github.com/volcengine/OpenViking. Live https://openviking.net/studio?ov_entry=ai is a 2,525 B JS shell titled OpenViking Studio — no method text, no viking:// session.",
+      "text": "Quoted t.co/BJlCON8mji resolves to https://github.com/volcengine/OpenViking. Live https://openviking.net/studio?ov_entry=ai is a 2,525 B JS shell titled OpenViking Studio \u2014 no method text, no viking:// session.",
       "kind": "availability",
       "evidence": "t.co title https://github.com/volcengine/OpenViking. GET studio 200 / 2,525 B. analysis/_work/captures/2026-09-05-mustread-pages.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openviking.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2091169290661838965#c8",
+      "text": "leftover19: docs.openviking.ai 200 / 61,649 B is a docs index (Agent Context / Retrieval Architecture / Operations; Apache-2.0 footer). No VLM provider, abstract.md, or 91% token-savings copy on this page. L0 abstracts stay not ready without a VLM, as in the local ov session.",
+      "kind": "availability",
+      "evidence": "leftover19 openviking-docs 61649 B title OpenViking.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/openviking.md",
       "confidence": "demonstrated",
@@ -129,7 +139,9 @@
     "repo": "https://github.com/volcengine/OpenViking",
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://docs.openviking.ai"
+    ],
     "related_items": [
       "x-2087143369181114868",
       "x-2088231655177924993"

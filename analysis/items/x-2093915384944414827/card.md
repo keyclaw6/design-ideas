@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2093915384944414827#c1` (capability, stated) The author claims an ultra-premium interactive finance site can be built in minutes with Claude Code and ChatGPT. — evidence: "Watch how to build this parallax scroll Next.js application in minutes using Claude Code and ChatGPT." [post]
 - `x-2093915384944414827#c2` (availability, demonstrated) The walkthrough is an X amplify video 533.524 s (~8.89 min) at 1920×1080. Two replies remain unfetched; thread status stays failed. — evidence: "GET https://api.fxtwitter.com/himanshubuildss/status/2093915384944414827. video duration 533.524 width 1920 height 1080. replies 2." [note]
+- `x-2093915384944414827#c3` (availability, demonstrated) leftover19: quoted layer-separation t.co/cRrGTKGJwH resolves to remove.bg 200 / 60,038 B (title Remove Background from Image for Free). That is a generic background-remove site, not a custom parallax layer tool. Thread stays failed. Do not invent a remove-bg.md. — evidence: "leftover19 tco-parallax-layers final https://www.remove.bg/ 200 60038 B." [note]
 **Numbers.** Parallax finance walkthrough duration: 533.524 seconds (note)
 **Recipe.** —
 **Techniques.** [parallax-scroll-landing](../../techniques/parallax-scroll-landing.md)
 **Tools.** [claude-code](../../tools/claude-code.md), [chatgpt](../../tools/chatgpt.md)
-**Links.** —
+**Links.** https://www.remove.bg/
 **Related items.** [x-2093767075131220005](../x-2093767075131220005/card.md), [x-2095429087141515616](../x-2095429087141515616/card.md)
 **Media.** —
 **Thread.** failed · reported 2 · captured 0 · relevant 0 · author thread: unknown → [thread.md](thread.md)

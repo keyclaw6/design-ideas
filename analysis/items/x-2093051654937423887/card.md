@@ -13,6 +13,7 @@
 - `x-2093051654937423887#c2` (capability, stated) The announcement explicitly positions Mint Studio as not requiring Blender. — evidence: "No Blender required!" [post]
 - `x-2093051654937423887#c3` (availability, demonstrated) Author quoted tweet Live now here! t.co/kfmFB5sFWU resolves to https://mint.gg/ (200). Other t.co on the quoted tweets resolve back to X statuses. mint.gg remains a 3D-asset + MCP product, not a documented camera-path exporter. — evidence: "analysis/_work/captures/mint-tco-live-2026-09-04.json" [note]
 - `x-2093051654937423887#c4` (availability, demonstrated) The announcement clip is an X amplify video 23.041 s at 3840×2160. Thread status stays failed (2 replies unfetched). — evidence: "GET https://api.fxtwitter.com/tamrrat/status/2093051654937423887. video duration 23.041 width 3840 height 2160. replies 2." [note]
+- `x-2093051654937423887#c5` (counter-claim, demonstrated) leftover19: remaining Mint Studio t.co links all loop to X sibling tweets (render 2093051656426406288, city 2093051658016035321, World Labs 2093051659383390332). No first-party Studio camera-path or city-import docs. mint.gg still has no documented camera exporter. — evidence: "leftover19 tco-mint-render/city/worldlabs final x.com/tamrrat/status/209305165…" [note]
 **Numbers.** Mint Studio demo duration: 23.041 seconds (note)
 **Recipe.** —
 **Techniques.** —

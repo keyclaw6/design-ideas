@@ -1,0 +1,226 @@
+{
+  "fetched_at": "2026-09-05T08:20:00Z",
+  "pages": {
+    "tco-parallax-layers": {
+      "url": "https://t.co/cRrGTKGJwH",
+      "final": "https://www.remove.bg/",
+      "status": 200,
+      "bytes": 60038,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Remove Background from Image for Free \u2013 remove.bg",
+      "visible_len": 3229
+    },
+    "tco-mint-render": {
+      "url": "https://t.co/6lHZu4Hbez",
+      "final": "https://x.com/tamrrat/status/2093051656426406288",
+      "status": 200,
+      "bytes": 195514,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "tamrat on X: \"step 1 - Click and drag models to compose in 3D\nstep 2 - Add camera animation keyframe\nstep 3 - Render as video\" / X",
+      "visible_len": 1205
+    },
+    "tco-mint-city": {
+      "url": "https://t.co/DmLAUd8Ffb",
+      "final": "https://x.com/tamrrat/status/2093051658016035321",
+      "status": 200,
+      "bytes": 195346,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "tamrat on X: \"Mint studio also allows you to import a 3D model of any city in under 10 seconds to use as your scene\" / X",
+      "visible_len": 1185
+    },
+    "tco-mint-worldlabs": {
+      "url": "https://t.co/8SIFIBCs5J",
+      "final": "https://x.com/tamrrat/status/2093051659383390332",
+      "status": 200,
+      "bytes": 191146,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "tamrat on X: \"Mint Studio also supports @theworldlabs generated worlds as your 3D previz environment\" / X",
+      "visible_len": 1150
+    },
+    "tco-sol-reply": {
+      "url": "https://t.co/qlVOgcGt83",
+      "final": "https://sceneai.art/",
+      "status": 200,
+      "bytes": 307798,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "SceneAI: The Best UI Prompt Library on the Internet",
+      "visible_len": 2532
+    },
+    "tco-ouroboros-hf1": {
+      "url": "https://t.co/GgzUrCm5TI",
+      "final": "https://huggingface.co/datasets/razzant/ouroboros-osworld-verified-opus5",
+      "status": 200,
+      "bytes": 628234,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "razzant/ouroboros-osworld-verified-opus5 \u00b7 Datasets at Hugging Face",
+      "visible_len": 27743
+    },
+    "tco-ouroboros-hf2": {
+      "url": "https://t.co/y0r6vqryuD",
+      "final": "https://huggingface.co/datasets/razzant/ouroboros-clbench-traces",
+      "status": 200,
+      "bytes": 256259,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "razzant/ouroboros-clbench-traces \u00b7 Datasets at Hugging Face",
+      "visible_len": 14629
+    },
+    "gh-popcorn-cli": {
+      "url": "https://api.github.com/repos/gpu-mode/popcorn-cli",
+      "final": "https://api.github.com/repos/gpu-mode/popcorn-cli",
+      "status": 200,
+      "bytes": 6205,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover19-2026-09-05/gh-popcorn-cli.json",
+      "json_summary": {
+        "full_name": "gpu-mode/popcorn-cli",
+        "stars": 178,
+        "license": "MIT",
+        "description": "",
+        "default_branch": "main",
+        "total": null
+      }
+    },
+    "gh-popcorn-readme": {
+      "url": "https://raw.githubusercontent.com/gpu-mode/popcorn-cli/main/README.md",
+      "final": "https://raw.githubusercontent.com/gpu-mode/popcorn-cli/main/README.md",
+      "status": 200,
+      "bytes": 12541,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 12245
+    },
+    "gh-ref-kernels": {
+      "url": "https://api.github.com/repos/gpu-mode/reference-kernels",
+      "final": "https://api.github.com/repos/gpu-mode/reference-kernels",
+      "status": 200,
+      "bytes": 6571,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover19-2026-09-05/gh-ref-kernels.json",
+      "json_summary": {
+        "full_name": "gpu-mode/reference-kernels",
+        "stars": 303,
+        "license": "NOASSERTION",
+        "description": "Official Problem Sets / Reference Kernels for the GPU MODE Leaderboard!",
+        "default_branch": "main",
+        "total": null
+      }
+    },
+    "gh-gpt-image2-skill": {
+      "url": "https://api.github.com/repos/wuyoscar/GPT-Image2-Skill",
+      "final": "https://api.github.com/repos/wuyoscar/GPT-Image2-Skill",
+      "status": 200,
+      "bytes": 5817,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover19-2026-09-05/gh-gpt-image2-skill.json",
+      "json_summary": {
+        "full_name": "wuyoscar/GPT-Image2-Skill",
+        "stars": 5153,
+        "license": "MIT",
+        "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+        "default_branch": "main",
+        "total": null
+      }
+    },
+    "gh-gpt-image2-readme": {
+      "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/README.md",
+      "final": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/main/README.md",
+      "status": 200,
+      "bytes": 217956,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 151625
+    },
+    "cast-arxiv-html": {
+      "url": "https://arxiv.org/html/2502.12894",
+      "final": "https://arxiv.org/html/2502.12894",
+      "status": 200,
+      "bytes": 376208,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image",
+      "visible_len": 108189
+    },
+    "designmd-app-library": {
+      "url": "https://designmd.app/library",
+      "final": "https://designmd.app/library",
+      "status": 200,
+      "bytes": 1455593,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "DESIGN.md Library \u2014 561 Design Systems for AI Agents",
+      "visible_len": 112587
+    },
+    "designmd-app-home": {
+      "url": "https://designmd.app/",
+      "final": "https://designmd.app/",
+      "status": 200,
+      "bytes": 75265,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "DESIGN.md \u2014 562 Design System Files for AI Coding Agents",
+      "visible_len": 7356
+    },
+    "openviking-docs": {
+      "url": "https://docs.openviking.ai",
+      "final": "https://docs.openviking.ai",
+      "status": 200,
+      "bytes": 61649,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "OpenViking",
+      "visible_len": 644
+    },
+    "impeccable-style": {
+      "url": "https://impeccable.style",
+      "final": "https://impeccable.style",
+      "status": 200,
+      "bytes": 109943,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Impeccable: The missing design vocabulary for agentsRecommended",
+      "visible_len": 15935
+    },
+    "refero-styles": {
+      "url": "https://styles.refero.design/",
+      "final": "https://styles.refero.design/",
+      "status": 200,
+      "bytes": 103024,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "DESIGN.md Examples for AI Agents | Refero Styles",
+      "visible_len": 1474
+    },
+    "fixmebot": {
+      "url": "https://fixmebot.com",
+      "final": "https://fixmebot.com",
+      "status": 200,
+      "bytes": 328304,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "FixMeBot: AI Writing Assistant for 90+ Languages",
+      "visible_len": 11535
+    },
+    "openai-image-gen": {
+      "url": "https://platform.openai.com/docs/guides/image-generation",
+      "final": "https://developers.openai.com/api/docs/guides/image-generation",
+      "status": 200,
+      "bytes": 1248104,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Image generation | OpenAI API",
+      "visible_len": 106649
+    }
+  }
+}

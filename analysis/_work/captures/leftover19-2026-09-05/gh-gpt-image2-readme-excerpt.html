@@ -1,0 +1,380 @@
+<h1 align="center">GPT Image 2 Prompt Gallery + Agent Skills + CLI</h1>
+<p align="center"><em>OpenAI GPT Image 2 prompt gallery, image prompt library, agent skills, and CLI — curated, copy-paste prompts and runnable examples for skill-capable agents.</em></p>
+
+<p align="center">
+  <a href="README.md"><strong>English</strong></a> · <a href="README.zh.md">中文</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wuyoscar/gpt_image_2_skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/></a>
+  <a href="https://github.com/wuyoscar/gpt_image_2_skill/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
+  <img src="https://img.shields.io/badge/model-gpt--image--2-purple.svg" alt="Model: gpt-image-2"/>
+  <img src="https://img.shields.io/badge/python-%E2%89%A53.11-blue.svg" alt="Python ≥ 3.11"/>
+</p>
+
+<p align="center">
+  <a href="https://oosmetrics.com/repo/wuyoscar/gpt_image_2_skill"><img src="https://img.shields.io/static/v1?label=oosmetrics&message=Top%201%20Agents&color=8AA399" alt="oosmetrics Top 1 in Agents by velocity"/></a>
+  <a href="https://oosmetrics.com/repo/wuyoscar/gpt_image_2_skill"><img src="https://img.shields.io/static/v1?label=oosmetrics&message=Top%201%20LLMs&color=8798B5" alt="oosmetrics Top 1 in LLMs by velocity"/></a>
+  <a href="https://oosmetrics.com/repo/wuyoscar/gpt_image_2_skill"><img src="https://img.shields.io/static/v1?label=oosmetrics&message=Top%201%20CLI&color=A58B9D" alt="oosmetrics Top 1 in CLI by velocity"/></a>
+</p>
+
+<p align="center">
+  <a href="docs/assets/gptimage2skill-banner.png"><img src="docs/assets/gptimage2skill-banner.png" alt="GPTImage2Skill banner" width="100%"/></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+## ✨ At a glance
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Item</th>
+    <th align="left">Value</th>
+  </tr>
+  <tr>
+    <td>Gallery size</td>
+    <td><strong>Small but mighty</strong> · curated for signal, not volume; README shows a selected showcase</td>
+  </tr>
+  <tr>
+    <td>Surfaces</td>
+    <td><strong>2 Agent Skills + CLI</strong> — Claude Code / Codex, OpenClaw, Hermes Agent and other skill-capable agent runtimes</td>
+  </tr>
+  <tr>
+    <td>Last update</td>
+    <td><strong>2026-09-04</strong></td>
+  </tr>
+  <tr>
+    <td>Docs</td>
+    <td><strong>English + 中文</strong></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://starmapper.bruniaux.com/wuyoscar/GPT-Image2-Skill?utm_source=map-embed&utm_medium=readme&utm_campaign=stargazer-map">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://starmapper.bruniaux.com/api/map-image/wuyoscar/GPT-Image2-Skill?theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://starmapper.bruniaux.com/api/map-image/wuyoscar/GPT-Image2-Skill?theme=light" />
+      <img alt="Stargazer map for GPT-Image2-Skill" src="https://starmapper.bruniaux.com/api/map-image/wuyoscar/GPT-Image2-Skill" width="100%" />
+    </picture>
+  </a>
+</p>
+
+
+
+
+---
+
+## 🔎 What is this repo for?
+
+Use this repo as a **GPT Image 2 prompt gallery**, **image prompt library**, **generated-image showcase**, **agent-skill collection**, and **gpt-image-2 CLI**. The selected examples cover research paper figures, posters, UI mockups, game HUDs, anime / manga, photography, typography, maps, tattoo design, and reference-image editing.
+
+> This project is not trying to collect every prompt on the internet. We keep a selected set of examples that show what GPT Image 2 can do and how to use it well. Thanks for all the love this little gallery has received 🫶.
+
+> [!CAUTION]
+> For research figures, treat generated images as references, workflow sketches, or reproducible style targets. We do **not** recommend dropping GPT Image 2 outputs directly into a paper as-is; for academic communication, that can be misleading and is generally bad practice.
+
+---
+
+Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and [SECURITY.md](SECURITY.md).
+
+## 📥 
+
+Choose either skill or install both: `gpt-image` generates and edits images, while `get-prompt-from-image` extracts prompts from reference images.
+
+Before installing, check whether the skill or CLI is already available. Do not reinstall blindly, overwrite an existing skill folder, or create/replace API-key files. Use your runtime's own skill list/status command when available; global/shared installs should be an explicit user choice, not an automatic setup step.
+
+```bash
+command -v gpt-image || true
+command -v uv >/dev/null && uv tool list | grep -E '^gpt-image-cli([[:space:]]|$)' || true
+test -n "${OPENAI_API_KEY:-}" && echo "OPENAI_API_KEY is already set (value hidden)"
+```
+
+<details>
+<summary><strong>Claude Code</strong></summary>
+
+```text
+/plugin marketplace add wuyoscar/gpt_image_2_skill
+/plugin install gpt-image@wuyoscar-skills
+```
+
+</details>
+
+<details>
+<summary><strong>Codex</strong></summary>
+
+Codex ships with built-in skill helpers such as `$skill-installer` and `$skill-creator`.
+Open Codex and invoke the built-in installer with the GitHub skill-folder URL for each skill you want:
+
+```text
+# gpt-image
+$skill-installer
+Install this skill from GitHub:
+https://github.com/wuyoscar/gpt_image_2_skill/tree/main/skills/gpt-image
+
+# get-prompt-from-image
+$skill-installer
+Install this skill from GitHub:
+https://github.com/wuyoscar/gpt_image_2_skill/tree/main/skills/get-prompt-from-image
+```
+
+The installer downloads each GitHub folder and places it under your Codex skills directory, usually:
+
+```bash
+~/.codex/skills/gpt-image
+~/.codex/skills/get-prompt-from-image
+```
+
+Restart Codex after installation so the new skills are loaded.
+
+If you prefer to install both manually, copy their skill folders into Codex's skills directory:
+
+```bash
+git clone https://github.com/wuyoscar/gpt_image_2_skill.git
+cd gpt_image_2_skill
+
+mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
+for skill in gpt-image get-prompt-from-image; do
+  test -e "${CODEX_HOME:-$HOME/.codex}/skills/$skill" && echo "$skill already exists; stop before overwriting" && exit 1
+  cp -R "skills/$skill" "${CODEX_HOME:-$HOME/.codex}/skills/"
+done
+```
+
+</details>
+
+<details>
+<summary><strong>AgentSkills / npx skills</strong></summary>
+
+For runtimes supported by the cross-agent `skills` installer, select either skill or install both together from GitHub:
+
+```bash
+# Change --agent to claude-code, codex, opencode, openclaw, or another supported runtime.
+npx --yes skills@latest add wuyoscar/gpt_image_2_skill \
+  --skill gpt-image \
+  --skill get-prompt-from-image \
+  --agent codex --copy
+```
+
+These examples intentionally avoid `--global`. Add `--global` only when you explicitly want this skill installed into that runtime's global/shared skills directory.
+
+If your runtime is not listed by `skills@latest` yet, use the manual Agent Skill install below.
+
+</details>
+
+<details>
+<summary><strong>Manual agent-skill install</strong></summary>
+
+Set `AGENT_SKILLS_DIR` to the skills directory used by your agent runtime, then symlink one or both skill folders into it.
+
+```bash
+git clone https://github.com/wuyoscar/gpt_image_2_skill.git
+cd gpt_image_2_skill
+
+# Choose the skill directory for your runtime.
+# Examples:
+#   Codex:      ~/.codex/skills
+#   Claude Code / OpenClaw / Hermes Agent / other runtimes: use that runtime's documented skills directory.
+export AGENT_SKILLS_DIR="/path/to/your/agent/skills"
+
+mkdir -p "$AGENT_SKILLS_DIR"
+for skill in gpt-image get-prompt-from-image; do
+  test -e "$AGENT_SKILLS_DIR/$skill" && echo "$skill already exists; stop before overwriting" && exit 1
+  ln -s "$PWD/skills/$skill" "$AGENT_SKILLS_DIR/$skill"
+done
+```
+
+</details>
+
+<details>
+<summary><strong>CLI</strong></summary>
+
+```bash
+uvx --from git+https://github.com/wuyoscar/gpt_image_2_skill gpt-image -p "a cat astronaut"
+
+# or install to PATH if not already installed
+command -v gpt-image >/dev/null || uv tool install git+https://github.com/wuyoscar/gpt_image_2_skill
+gpt-image -p "a cat astronaut"
+```
+
+</details>
+
+<details>
+<summary><strong>Update</strong></summary>
+
+```bash
+# plugin: use Claude Code's update flow
+# codex skill: rerun the installer
+# manual git clone
+cd gpt_image_2_skill && git pull
+
+# CLI
+uv tool upgrade gpt-image-cli
+```
+
+</details>
+
+Reads `OPENAI_API_KEY` from process env, then `.env`, then `~/.env` without overriding an already-set env var.
+
+> **Agent + API-key note.** Codex also has its own built-in image-generation skill, but that path is black-box and cannot be edited here; Codex users can switch to it if they prefer. Thanks to the related issue discussion for the simple safety tip: if you do not want an agent to accidentally use your OpenAI API key, run `unset OPENAI_API_KEY` before invoking the local CLI/skill.
+
+---
+
+## ⚡ Quick Usage & Prompting Fundamentals
+
+### 🆕 Update: Get Prompt from Image
+
+Thanks to [@LunarXuan](https://github.com/LunarXuan) for contributing **Get Prompt from Image**. Give a vision-capable agent an image, and this skill extracts a reusable prompt that you can pass to `gpt-image` or another image-generation tool. Models such as Gemini 3.8 Flash and GPT-5.6 support vision; results vary between runs, but the overall look can often be recreated surprisingly well.
+
+Attach an image and invoke the skill with a slash command, `$get-prompt-from-image`, or plain language:
+
+```text
+/get-prompt-from-image
+Extract a reusable English positive prompt and a targeted negative prompt from this image, then recreate it with gpt-image.
+```
+
+#### Example
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="docs/illustration/get-prompt-from-image-reference.jpg" width="100%" alt="Contributor-provided snowy urban alley reference image"/>
+      <sub>Reference image · Contributor-provided</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="docs/illustration/get-prompt-from-image-result.png" width="100%" alt="ImageGen result generated from the reverse-engineered prompt"/>
+      <sub>Generated result · ImageGen output</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>📝 Extracted prompt used for the generated result</strong></summary>
+
+**Positive Prompt**
+
+~~~text
+A highly polished semi-realistic Japanese narrative illustration rendered in a painterly digital style, using varied brush widths, a combination of hard edges and soft transitions, restrained contour lines, and controlled surface texture. The image should feel like a cold cinematic game-concept artwork. Use a wide 16:9 composition with strong depth in a snowy urban alley, where the snow-covered road narrows toward a distant vanishing point near the center. Place a large fluffy dark blue-gray wolfdog in the left foreground, shown in side profile facing right with its head raised, interacting with a hooded young woman kneeling near the center-right. She crouches in the snow facing left, gently touching the wolfdog’s muzzle or forehead with one gloved hand while the other rests near her knee for balance, creating a restrained and intimate gesture. She wears an oversized pale-gray winter hooded jacket with pointed ear-like details on top, dark gray panels, pockets, straps, and small muted red-orange accents, over black clothing, fitted black pants, and heavy dark boots. Short black or deep-brown hair falls from beneath the hood; her face is partly shadowed as she looks down at the wolfdog with a quiet, tired, yet gentle expression. Render the wolfdog’s fur with layered directional brushstrokes, making the back, neck, and tail thick and voluminous, with cool blue-gray shadows, pale highlights, and a subtle rim light along the silhouette. On the left, include metal fencing, utility boxes, and dense dark shrubs; in the distance, show tall urban buildings, street lamps, utility poles, and a blue-gray sky. On the right, include dark building facades, windows, snow-covered roof edges, evergreen branches, and foreground cardboard boxes and industrial clutter. Any environmental labels should remain blurred graphic marks with no readable text. Let the main light enter from the distant upper-left side of the alley, combining cold blue ambient shadows with warm golden reflections in the distance. Add subtle rim light to the snow, the woman, and the wolfdog, with medium-high contrast and warm orange clothing details acting as focal accents. Snow, slush, and shallow puddles in the foreground should show damp reflections. Use atmospheric perspective to soften distant buildings while keeping the woman and wolfdog clear. Establish depth through foreground, middle ground, background, occlusion, and perspective lines rather than strong blur. The mood is loneliness, trust, and a brief moment of tenderness in a frozen city. Preserve rough painterly strokes, cool-warm contrast, cinematic composition, and refined post-processing. Clearly remain a 2D semi-realistic painterly illustration, not photography, pure flat vector art, or 3D rendering.
+~~~
+
+**Negative Prompt**
+
+~~~text
+photorealistic, 3D render, flat vector style, pure cel shading, watercolor bleed, oil painting impasto, chibi proportions, deformed anatomy, malformed hands, extra limbs, oversized wolf, sunny summer weather, cluttered composition, readable text, watermark
+~~~
+</details>
+
+---
+
+<details>
+<summary><strong>CLI quick usage</strong></summary>
+
+After install, every gallery entry below can be copy-pasted as `gpt-image -p "…"` or requested from any skill-capable agent runtime in natural language, e.g. *"generate the Boston Spring poster from the skill gallery"*.
+
+### Text → image
+
+```bash
+gpt-image -p "a photorealistic convenience store at 10pm" --size 1k --quality high -f store.png
+```
+
+Under the hood: `POST /v1/images/generations` with `model=gpt-image-2`.
+
+### Text + reference image → image (edit)
+
+```bash
+# Single-reference edit / restyle
+gpt-image -p "Make it a winter evening with heavy snowfall" \
+  -i chess.png --quality high -f chess-winter.png
+
+# Multi-reference edit: the edits endpoint accepts multiple input images
+gpt-image -p "Place the dog from image 2 next to the woman in image 1. Match the same lighting, composition, and background. Do not change anything else." \
+  -i woman.png -i dog.png --size portrait --quality medium -f woman-with-dog.png
+
+# Mask-based inpaint: opaque = keep, transparent = regenerate
+gpt-image -p "replace sky with aurora" \
+  -i photo.jpg -m sky_mask.png -f aurora.png
+```
+
+Under the hood: `POST /v1/images/edits` (multipart form), the official endpoint in the OpenAI cookbook. `gpt-image-2` supports `image`, `mask`, `prompt`, `size`, `quality`, `background`, `output_format`, and `n`. Multiple `-i` inputs are supported for multi-reference edits.
+
+### Parameters (complete)
+
+<details>
+<summary><strong>Show full parameter reference</strong></summary>
+
+| Flag | Values | Default | Applies to | Notes |
+|---|---|---|---|---|
+| `-p, --prompt` | str | — required | both | Full prompt text. |
+| `-f, --file` | path | `./fig/YYYY-MM-DD-HH-MM-SS-<slug>.png` | both | Explicit output path. |
+| `-i, --image` | path (repeatable) | — | edits | Presence routes through `/v1/images/edits`. |
+| `-m, --mask` | path (PNG, alpha) | — | edits | Opaque = preserved, transparent = regenerated. Requires `-i`. |
+| `--input-fidelity` | `low` · `high` | — | edits | Supported on `gpt-image-1`/`1.5`. `gpt-image-2` rejects this parameter, so the CLI drops it locally. |
+| `--size` | `1k` · `2k` · `4k` · `portrait` · `landscape` · `square` · `wide` · `tall` · literal `1024x1024` etc. | `1024x1024` | both | Literals must be 16-px multiples, max edge 3840, 3:1 cap, 655k–8.3M total pixels. |
+| `--quality` | `auto` · `low` · `medium` · `high` | `high` | both | This is the practical budget dial: `low` for cheap drafts / large sweeps, `medium` for normal exploration, `high` for final text-heavy or shipping-facing assets. |
+| `-n, --n` | int | 1 | both | Batch generation. `n>1` suffixes filenames `_0`, `_1`, … |
+| `--background` | `auto` · `opaque` | API default | generations | `opaque` disables transparency. |
+| `--moderation` | `auto` · `low` | `low` | generations | `low` is the default here for broader prompt exploration; switch to `auto` if you want the stricter API-side default. |
+| `--format` | `png` · `jpeg` · `webp` | `png` | both | Response encoding. |
+| `--compression` | 0–100 | — | both | JPEG/WebP only. |
+
+</details>
+
+### Budget / quality guide
+
+There is no separate `budget` flag here — use `--quality` as the budget knob.
+
+- `low` = cheap draft / collect / many variants
+- `medium` = normal exploration / style probing
+- `high` = final posters, Chinese text, diagrams, paper figures, banners
+
+If you are generating dozens of candidates, start at `low` and only rerun finalists at `high`.
+
+### From gallery prompt → CLI / SDK
+
+Every entry below ships **just the prompt plus a metadata line** (`"size"` · `"quality"` · source). Assemble the CLI / SDK call the same way every time — worked once here so per-entry code blocks can stay out of your way. Example for a `"portrait"` · `"high"` entry:
+
+```bash
+# CLI
+gpt-image -p "<PROMPT FROM ENTRY>" --size portrait --quality high -f out.png
+```
+
+```python
+# OpenAI SDK — `size` is the literal pixels; the CLI shortcut maps to `1024x1536` for portrait
+from openai import OpenAI
+client = OpenAI()
+result = client.images.generate(
+    model="gpt-image-2",
+    prompt="<PROMPT FROM ENTRY>",
+    size="1024x1536",
+    quality="high",
+)
+```
+
+For reference-based edits, add `-i ref.png` (repeatable) and optionally `-m mask.png` on the CLI, or call `client.images.edit(...)` with `image=[open(p, "rb") for p in refs]`. Everything else stays identical to the generate path.
+
+Exit codes: `0` success · `1` API/refusal error (full response body echoed to stderr) · `2` bad args or missing `OPENAI_API_KEY`.
+
+</details>
+
+### 📖 Prompting Fundamentals
+
+<details>
+<summary><strong>Show prompting notes</strong></summary>
+
+Distilled from OpenAI's [official GPT Image prompting guide](https://github.com/openai/openai-cookbook/blob/main/examples/multimodal/image-gen-models-prompting-guide.ipynb) (also archived locally at [`skills/gpt-image/references/openai-cookbook.md`](skills/gpt-image/references/openai-cookbook.md) — loaded on demand by the skill when you ask about parameter semantics, edits, UI mockups, pitch-deck slides, scientific visuals, virtual try-on, billboard mockups, or translation edits):
+
+1. **Structure, then goal.** Use a consistent order: `background/scene → subject → key details → constraints`, and **state the intended use** (ad, UI mock, infographic) so the model picks the right mode and polish level.
+2. **Any format works; consistency matters more.** Minimal prompts, descriptive paragraphs, JSON-style structures, instruction-style prompts, and tag-based prompts all work. For production, prefer a skimmable template over clever syntax.
+3. **Specificity + quality cues.** Be concrete about materials, shapes, textures, and medium (photo, watercolor, 3D render). Add targeted levers only when they matter: *film grain*, *textured brushstrokes*, *macro detail*. For photorealism, say *"photorealistic"* directly; *"real photograph"*, *"taken on a real camera"*, and *"iPhone photo"* also help.
+4. **Put required text in quotes.** Any text that must appear in the image — slogans, prices, kanji — should be in straight quotes. Do not paraphrase it inside the prompt.
+5. **Choose aspect ratio early.** Decide 1:1 / 3:4 / 4:3 / 9:16 / 16:9 / 3:1 before writing the prompt. Reinforce it in the prompt text, not only with `--size`.
+6. **One hero, supporting cast.** Complex scenes work best when one subject is clearly primary and the rest is framed as supporting detail.
+7. **Use `quality="high"` for in-image text, dense diagrams, small labels, and multi-panel layouts.** Those cases degrade visibly at `medium`.
+
+**The skill ships four local reference surfaces:**
+- [`skills/gpt-image/references/gallery.md`](skills/gpt-image/referenc

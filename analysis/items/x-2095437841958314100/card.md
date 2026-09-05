@@ -13,11 +13,12 @@
 - `x-2095437841958314100#c2` (capability, stated) Physics collisions, mass, and friction are inferred so objects sit and lean realistically. — evidence: "Physics comes built in. It figures out collisions, mass, friction, and how objects actually sit or lean on each other" [post]
 - `x-2095437841958314100#c3` (recipe, stated) Pairing WorldGen with Seedance 2.5 yields cinematic video from the reconstructed 3D scene. — evidence: "pair it with video models like Seedance 2.5, and you get a full pipeline." [post]
 - `x-2095437841958314100#c4` (availability, demonstrated) Logged-out https://hyper3d.ai/workspace/worldgen is a 11,026 B login SPA (data-app-booting, no title/h1, no gltf/usd/export strings). https://hyper3d.ai/ is Rodin (390,840 B). No public user-scene download this pass. — evidence: "GET /workspace/worldgen 200 / 11,026 B; GET https://hyper3d.ai/ 200 / 390,840 B title Hyper3D Rodin. analysis/_work/captures/2026-09-05-mustread-pages.json" [note]
+- `x-2095437841958314100#c5` (benchmark, demonstrated) leftover19 re-fetched CAST HTML arxiv.org/html/2502.12894 200 / 376,208 B (title CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image). Paper tables already quoted on hyper3d-worldgen NOTES (open-vocab CLIP 85.77 / GPT-4 rank 1.125; 3D-Front CD-S 0.052). Logged-out WorldGen stays the 11,026 B login SPA. No public user-scene download. — evidence: "leftover19-2026-09-05.json cast-arxiv-html 376208 B. Tables on analysis/tools/hyper3d-worldgen.md." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md), [worldgen-to-video](../../techniques/worldgen-to-video.md)
 **Tools.** [hyper3d-worldgen](../../tools/hyper3d-worldgen.md), [seedance](../../tools/seedance.md)
-**Links.** product (https://hyper3d.ai/workspace/worldgen), https://hyper3d.ai/
+**Links.** product (https://hyper3d.ai/workspace/worldgen), https://hyper3d.ai/, https://arxiv.org/html/2502.12894
 **Related items.** [x-2093937170717585657](../x-2093937170717585657/card.md), [note-blender-minimax-h3-video-generation](../note-blender-minimax-h3-video-generation/card.md)
 **Media.**
 `raw/items/x-2095437841958314100/media/media_0.jpg` (video, carries_technique=true) — Demo video showing a single input photo transformed into an interactive 3D room scene with separately selectable furniture and props.

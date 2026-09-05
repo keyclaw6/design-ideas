@@ -35,4 +35,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-05 capture — leftover13 HQFlow neighbor (no hqflow.md).** Reply on the canvas-worker leftover → `hqflow.vercel.app` **15,455 B**; repo `WinterArc21/HQFlow` MIT **21★**. Local-first `npx hqflow init`. Do not collapse with the author’s in-chat canvas worker ([x-2088590355440476343](../items/x-2088590355440476343/card.md)). Receipt `leftover13-2026-09-05.json`.
 
 **2026-09-05 leftover14 — Draxul neighbor (no draxul.md).** FleetingBits reply t.co → `cmaughan/Draxul` **67★** / 3 forks / license null. City-as-code Vulkan/Metal console shell. Do not collapse with the inspectable-dots codebase diagram ([x-2088016749849682120](../items/x-2088016749849682120/card.md)). Receipt `leftover14-2026-09-05.json` + `leftover14b-2026-09-05.json`.
+
+**2026-09-05 leftover19 — Ouroboros HF traces.** `t.co/GgzUrCm5TI` → `razzant/ouroboros-osworld-verified-opus5` Apache-2.0, **361** rows / **112 MB**, self-reported **90.69%** (327.39/361). `t.co/y0r6vqryuD` → `razzant/ouroboros-clbench-traces` MIT+Apache-2.0, **6** rows / **840 MB**, self-reported **0.2301** rank 1. Ranking language is the dataset cards’. Receipt `leftover19-2026-09-05.json`.
 <!-- NOTES:END -->

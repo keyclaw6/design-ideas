@@ -13,4 +13,6 @@ https://mint.gg is **AI 3D creation** (models, asset packs, materials, worlds) p
 **2026-09-04 t.co resolve.** Quoted tweet “Live now here!” `https://t.co/kfmFB5sFWU` → **https://mint.gg/** (200). Other t.co on the quoted tweets resolve back to X statuses. Receipt `mint-tco-live-2026-09-04.json`.
 
 **2026-09-05 capture — announcement video.** Root amplify video is **23.041 s** / 3840×2160 (`analysis/_work/captures/mint-video-2093051654937423887.json`). Thread stays `failed` (2 replies). Still no camera-path exporter on mint.gg.
+
+**2026-09-05 leftover19.** Remaining Studio t.co (render / city / World Labs) loop to X sibling tweets. No first-party camera-path docs.
 <!-- NOTES:END -->

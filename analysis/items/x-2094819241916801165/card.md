@@ -14,11 +14,12 @@
 paste this prompt and it swaps your face into the scene, outfit and lighting untouched:" [quoted-post]
 - `x-2094819241916801165#c2` (capability, demonstrated) Official Seedance 2.5 page advertises 30-second clips, reference control, white-model and green-screen editing — not face-swap or identity lock. — evidence: "https://seed.bytedance.com/en/seedance2_5 HTTP 200: up to 30 seconds, extend twice, precise reference control, white-model control, green-screen; no identity/face/character copy." [note]
 - `x-2094819241916801165#c3` (availability, demonstrated) The root demo is an X amplify video 10.08 s at 1920×1080. Official Seedance 2.5 copy still does not claim identity lock. Thread stays captured_partial (1/57). — evidence: "GET https://api.fxtwitter.com/abxxai/status/2094819241916801165. video duration 10.08 width 1920 height 1080. replies 57." [note]
+- `x-2094819241916801165#c4` (capability, demonstrated) leftover19: wuyoscar/GPT-Image2-Skill MIT 5,153★. README (2026-09-04) is a prompt gallery + 2 agent skills + CLI; edits use POST /v1/images/edits with repeatable -i for multi-reference. Official developers.openai.com image-generation guide 200 / 1,248,104 B. Neither page names identity lock. Face-swap stills stay the tweet recipe. — evidence: "leftover19 gh-gpt-image2-skill 5153 MIT; openai-image-gen 1248104 B. README multi-reference edit section." [note]
 **Numbers.** Face-swap recipe demo duration: 10.08 seconds (note)
 **Recipe.** 1. Swap face into reference still with GPT Image 2 using image_1 and image_2 2. Repeat for second character reference still 3. Attach locked stills to Seedance 2.5 with a single-scene cinematic prompt
 **Techniques.** [agent-video-editing](../../techniques/agent-video-editing.md), [seedance-motion-reference](../../techniques/seedance-motion-reference.md)
 **Tools.** [gpt-image-2](../../tools/gpt-image-2.md), [seedance](../../tools/seedance.md)
-**Links.** —
+**Links.** https://github.com/wuyoscar/GPT-Image2-Skill, https://developers.openai.com/api/docs/guides/image-generation
 **Related items.** [x-2092980272819999227](../x-2092980272819999227/card.md), [x-2095482056180638142](../x-2095482056180638142/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 57 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)

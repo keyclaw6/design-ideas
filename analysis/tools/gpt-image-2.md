@@ -19,4 +19,6 @@ Do not collapse these case counts:
 `style-library.json` lists **22** templates (tweet “20+”): ui-screenshot-system, infographic-engine, scientific-scale-diagram, poster-layout-system, sports-campaign-poster, conceptual-typography-poster, ink-double-exposure-poster, nature-science-poster, product-commerce-visual, personalized-beauty-report, brand-identity-package, brand-touchpoint-board, architecture-space, realistic-photography, street-accident-moment, illustration-art-style, character-design-sheet, 3d-collectible-toy, scene-storytelling, history-classical-themes, document-publishing, concept-product-breakdown. Also 13 categories, 19 style labels, 10 scenes.
 
 Neighbor (parked; no imageory.md): 2026-09-05 `https://Imageory.in` GET 200 / **167,558 B**. Title Imageory — Get images & prompts. Category chips visible. String ChatGPT absent. Prompt bodies not in SSR. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
+
+**2026-09-05 leftover19.** Neighbor `wuyoscar/GPT-Image2-Skill` MIT **5,153★**. Gallery + 2 skills + CLI; edits `POST /v1/images/edits` with repeatable `-i`. Official image-generation docs **1,248,104 B**. Neither names identity lock. Do not collapse with `freestylefly/awesome-gpt-image-2` **28,017★**.
 <!-- NOTES:END -->

@@ -3,7 +3,7 @@
   "id": "x-2074912810803560497",
   "source_type": "x",
   "url": "https://x.com/dejavucoder/status/2074912810803560497",
-  "title": "Codex auto-research loop: 212× faster QR kernel on GPU Mode",
+  "title": "Codex auto-research loop: 212\u00d7 faster QR kernel on GPU Mode",
   "author": {
     "name": "Sankalp",
     "handle": "dejavucoder",
@@ -27,12 +27,12 @@
   "platforms": [
     "codex"
   ],
-  "summary": "X post announcing a blog write-up where Codex ran an auto-kernel search on GPU Mode's qr_v2 QR decomposition problem and claims a 212× speedup over baseline through propose-run-keep-winner loops.",
+  "summary": "X post announcing a blog write-up where Codex ran an auto-kernel search on GPU Mode's qr_v2 QR decomposition problem and claims a 212\u00d7 speedup over baseline through propose-run-keep-winner loops.",
   "question_it_answers": "What does a measured Codex autoresearch loop on a fixed GPU kernel benchmark look like?",
   "claims": [
     {
       "id": "x-2074912810803560497#c1",
-      "text": "Author claims Codex auto-kerneling on GPU Mode's qr_v2 problem achieved 212× faster kernel performance over baseline.",
+      "text": "Author claims Codex auto-kerneling on GPU Mode's qr_v2 problem achieved 212\u00d7 faster kernel performance over baseline.",
       "kind": "result",
       "evidence": "how I achieved a 212x faster kernel over baseline with codex in GPU Mode's qr_v2 problem",
       "evidence_source": "post",
@@ -42,7 +42,7 @@
     },
     {
       "id": "x-2074912810803560497#c2",
-      "text": "Live GPU Mode API leaderboard/773 (ended) ranks sankalp1999 26th at 3916.103 µs (submission_id 796445, submission_homura.py, 420 LOC, 86 submissions) — not the blog's contest-time 12th / 1,805 µs. #1 nikhilbarhate99 is 704.865 µs (id 795226).",
+      "text": "Live GPU Mode API leaderboard/773 (ended) ranks sankalp1999 26th at 3916.103 \u00b5s (submission_id 796445, submission_homura.py, 420 LOC, 86 submissions) \u2014 not the blog's contest-time 12th / 1,805 \u00b5s. #1 nikhilbarhate99 is 704.865 \u00b5s (id 795226).",
       "kind": "counter-claim",
       "evidence": "GET https://www.gpumode.com/api/leaderboard/773 200 / 50,694 B. B200 rankings[25]: user_name sankalp1999 rank 26 score 0.003916102791313636 submission_id 796445. HTML /leaderboard/773 is a 1.6 KB SPA stub.",
       "evidence_source": "note",
@@ -62,9 +62,19 @@
     },
     {
       "id": "x-2074912810803560497#c4",
-      "text": "sankalp.bearblog.dev/autoresearch/ re-fetched 200 / 158,069 B (prior pass 403). First-party: 12th of 183; 232× from ~419,000 µs torch.geqrf baseline to 1,805 µs. submit_logs/ is a local workspace folder (“logs provided by the evaluator for each submission”; AGENTS.md: keep logs under submit_logs/). Not a public GitHub tree. popcorn CLI is named as the GPU Mode submit path. Do not collapse tweet 212× / blog 232× / live board 26th 3916.103 µs.",
+      "text": "sankalp.bearblog.dev/autoresearch/ re-fetched 200 / 158,069 B (prior pass 403). First-party: 12th of 183; 232\u00d7 from ~419,000 \u00b5s torch.geqrf baseline to 1,805 \u00b5s. submit_logs/ is a local workspace folder (\u201clogs provided by the evaluator for each submission\u201d; AGENTS.md: keep logs under submit_logs/). Not a public GitHub tree. popcorn CLI is named as the GPU Mode submit path. Do not collapse tweet 212\u00d7 / blog 232\u00d7 / live board 26th 3916.103 \u00b5s.",
       "kind": "result",
-      "evidence": "analysis/_work/captures/sankalp-autoresearch-2026-09-05.json. Quote: I placed 12th out of 183 participants, ending up with a 232x speedup. The 232x number above comes from comparing the rough 419,000 µs baseline to the final 1,805 µs tracked result.",
+      "evidence": "analysis/_work/captures/sankalp-autoresearch-2026-09-05.json. Quote: I placed 12th out of 183 participants, ending up with a 232x speedup. The 232x number above comes from comparing the rough 419,000 \u00b5s baseline to the final 1,805 \u00b5s tracked result.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/codex.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2074912810803560497#c5",
+      "text": "leftover19 GitHub: gpu-mode/popcorn-cli MIT 178\u2605 (Rust). README still names popcorn submit --leaderboard qr_v2 --profile-brev and the qr_v2 starter under gpu-mode/reference-kernels (303\u2605, license NOASSERTION). Nsight hosted profiling writes ncu-details.txt/csv locally. No public submit_logs/ tree. Harbor 796445 / tweet 212\u00d7 vs blog 232\u00d7 vs live 26th 3916.103 \u00b5s stay as already quoted.",
+      "kind": "availability",
+      "evidence": "leftover19-2026-09-05.json gh-popcorn-cli 178 MIT; gh-ref-kernels 303 NOASSERTION; README 12,541 B.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/codex.md",
       "confidence": "demonstrated",
@@ -76,7 +86,7 @@
     {
       "label": "kernel speedup vs baseline",
       "value": "212",
-      "unit": "×",
+      "unit": "\u00d7",
       "source": "post"
     },
     {
@@ -88,7 +98,7 @@
     {
       "label": "live board geomean",
       "value": "3916.103",
-      "unit": "µs",
+      "unit": "\u00b5s",
       "source": "linked-page"
     },
     {
@@ -110,7 +120,10 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://github.com/gpu-mode/popcorn-cli",
+      "https://github.com/gpu-mode/reference-kernels"
+    ],
     "related_items": [
       "x-2080856252687745093",
       "x-2032671842230501729"

@@ -22,4 +22,6 @@ Homepage still advertises **550+** DESIGN.md analyses and “Follows Google’s 
 **2026-09-05 roundup re-fetch (Tran Mau nine).** getdesign.md **200 / 193,240 B** still markets **550+**. neuform.ai **6,499 B** SPA. aura.build **7,737 B** SPA. sokosumi.com/tools/design-md **109,208 B**. open-design.ai **339,680 B**. designmd.me / designmd.supply / typeui.sh still **429** — do not hammer. Receipt `analysis/_work/captures/mustread-2026-09-05.json`.
 
 **2026-09-05 leftover18.** Same 429 re-count on the stub cards: designmd.me **32,188 B** / designmd.supply **32,184 B** (Vercel Security Checkpoint). Neighbor designmd.app this receipt **75,632 B** / **562** files. Do not hammer. Do not collapse 562 with 550+ / 627.
+
+**2026-09-05 leftover19.** designmd.app home **75,265 B / 562**; `/library` **1,455,593 B / 561**. Byte drift vs leftover18 **75,632** — do not collapse. 429 hosts untouched.
 <!-- NOTES:END -->

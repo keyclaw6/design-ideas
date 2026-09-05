@@ -44,7 +44,7 @@
       "id": "x-2094770895021572502#c2",
       "text": "Demand research uses Bing Webmaster Tools keyword research for volume and related terms.",
       "kind": "recipe",
-      "evidence": "Bing Webmaster Tools → Keyword Research. Type a term from your niche, see real volume plus related terms.",
+      "evidence": "Bing Webmaster Tools \u2192 Keyword Research. Type a term from your niche, see real volume plus related terms.",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -54,7 +54,7 @@
       "id": "x-2094770895021572502#c3",
       "text": "Each tool is one page, one job, free, no signup, with six weeks of flat metrics before growth.",
       "kind": "recipe",
-      "evidence": "one page, one tool, one job → free, no signup, works instantly",
+      "evidence": "one page, one tool, one job \u2192 free, no signup, works instantly",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -72,7 +72,7 @@
     },
     {
       "id": "x-2094770895021572502#c5",
-      "text": "https://shimanski.dev GET 200 / 67,867 B. Title Artyom Shimanski – Entrepreneur & Software Developer. Live counters: 15+ years, 8 products shipped, 2 SaaS, 6 browser tools & games. Named products: AI Edit, FixMeBot, Post Formatter, Blurr. This is a personal site, not a one-page one-job tool.",
+      "text": "https://shimanski.dev GET 200 / 67,867 B. Title Artyom Shimanski \u2013 Entrepreneur & Software Developer. Live counters: 15+ years, 8 products shipped, 2 SaaS, 6 browser tools & games. Named products: AI Edit, FixMeBot, Post Formatter, Blurr. This is a personal site, not a one-page one-job tool.",
       "kind": "availability",
       "evidence": "GET 200 / 67,867 B. Counters and product cards on analysis/_work/captures/2026-09-05-shimanski-live.json.",
       "evidence_source": "note",
@@ -102,9 +102,19 @@
     },
     {
       "id": "x-2094770895021572502#c8",
-      "text": "https://unicodegames.com GET 200 / 129,009 B. Title UnicodeGames — Free Browser Games Made of Characters. Live copy: 21 games, no sign-up, no install. Closest of the five URLs to “free, no signup,” but it is an arcade index, not one job.",
+      "text": "https://unicodegames.com GET 200 / 129,009 B. Title UnicodeGames \u2014 Free Browser Games Made of Characters. Live copy: 21 games, no sign-up, no install. Closest of the five URLs to \u201cfree, no signup,\u201d but it is an arcade index, not one job.",
       "kind": "availability",
-      "evidence": "GET 200 / 129,009 B. “21 games · made entirely of characters” on analysis/_work/captures/2026-09-05-shimanski-live.json.",
+      "evidence": "GET 200 / 129,009 B. \u201c21 games \u00b7 made entirely of characters\u201d on analysis/_work/captures/2026-09-05-shimanski-live.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/serp-keyword-research.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094770895021572502#c9",
+      "text": "leftover19: fixmebot.com 200 / 328,304 B. First-party: 600,000+ people / 90+ languages / 10 tools; Free 10,000 characters; paid \u20ac4.99\u2013\u20ac29.99/mo. Built by shimanski.dev; also lists AI Edit, Post Formatter, Blurr. This is a writing assistant, not GSC proof of 1.01M / 16.3K.",
+      "kind": "pricing",
+      "evidence": "leftover19 fixmebot 328304 B. Visible 600,000+ / 90+ / \u20ac4.99 / \u20ac29.99.",
       "evidence_source": "note",
       "evidence_ref": "analysis/techniques/serp-keyword-research.md",
       "confidence": "demonstrated",
@@ -147,7 +157,8 @@
       "http://postformatter.com",
       "http://blurr.ing",
       "http://unicodegames.com",
-      "https://x.com/a_shimanski/status/2094338304070004768"
+      "https://x.com/a_shimanski/status/2094338304070004768",
+      "https://fixmebot.com"
     ],
     "related_items": [
       "web-nqz-ai-search-prompt-generator",

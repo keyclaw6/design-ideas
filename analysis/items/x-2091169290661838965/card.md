@@ -19,11 +19,12 @@
 - `x-2091169290661838965#c5` (result, demonstrated) Local OpenViking 0.4.17.1 on :1933 (dev auth, no VLM) wrote viking://resources/probe/hello.md (32 B) and read it back. GET /health ok; fs/ls of viking:// shows resources+user; MCP initialize 2025-11-25 lists the same 15 tools. — evidence: "analysis/_work/captures/openviking-local-session.json; observer 16 local bge-small-zh calls / 505 tokens. Thread still captured_partial." [note]
 - `x-2091169290661838965#c6` (result, demonstrated) ov CLI with ovcli.conf url http://127.0.0.1:1933 reports health 0.4.17.1 Dev, vikingdb 1 collection / 17 vectors, and reads viking://resources/probe/hello.md. ov abstract still says directory overview is not ready. — evidence: "ov health exit 0; ov status embedding bge-small-zh-v1.5-f16; ov tree hello.md 32 B; ov read returns the probe body. Receipt analysis/_work/captures/openviking-ovcli.json" [note]
 - `x-2091169290661838965#c7` (availability, demonstrated) Quoted t.co/BJlCON8mji resolves to https://github.com/volcengine/OpenViking. Live https://openviking.net/studio?ov_entry=ai is a 2,525 B JS shell titled OpenViking Studio — no method text, no viking:// session. — evidence: "t.co title https://github.com/volcengine/OpenViking. GET studio 200 / 2,525 B. analysis/_work/captures/2026-09-05-mustread-pages.json" [note]
+- `x-2091169290661838965#c8` (availability, demonstrated) leftover19: docs.openviking.ai 200 / 61,649 B is a docs index (Agent Context / Retrieval Architecture / Operations; Apache-2.0 footer). No VLM provider, abstract.md, or 91% token-savings copy on this page. L0 abstracts stay not ready without a VLM, as in the local ov session. — evidence: "leftover19 openviking-docs 61649 B title OpenViking." [note]
 **Numbers.** claimed token reduction: 91 % (reply); documented MCP tools: 15 tools (note)
 **Recipe.** —
 **Techniques.** [filesystem-context-memory](../../techniques/filesystem-context-memory.md), [context-etl](../../techniques/context-etl.md)
 **Tools.** [openviking](../../tools/openviking.md)
-**Links.** repo (https://github.com/volcengine/OpenViking)
+**Links.** repo (https://github.com/volcengine/OpenViking), https://docs.openviking.ai
 **Related items.** [x-2087143369181114868](../x-2087143369181114868/card.md), [x-2088231655177924993](../x-2088231655177924993/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 4 · captured 1 · relevant 0 · author thread: none → [thread.md](thread.md)

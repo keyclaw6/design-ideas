@@ -12,4 +12,6 @@
 **2026-09-05 capture — Sol teaser video.** [x-2095368133070700884](../items/x-2095368133070700884/card.md) root amplify video is **4.783 s** / 3014×2160 (`analysis/_work/captures/sol-demo-video-2095368133070700884.json`). Tweet says “Prompt” with a down-arrow; the prompt body is still missing. Thread stays `failed` (1 reply). Gap tag is now `thread-failed`.
 
 **2026-09-05 capture — Spanish 21-min Sol tutorial.** `alextalksai/2093583622691283018` amplify video **1282.766 s** (~21.38 min) / **3324×2160**, matching “21 minutos.” No separate syllabus URL. Thread stays `captured_partial` (70/2). Card dropped `translation-needed`. Receipt `sol-es-2093583622691283018.json`.
+
+**2026-09-05 leftover19.** Failed-thread reply `t.co/qlVOgcGt83` → `sceneai.art` **200 / 307,798 B** (same host as the sibling leftover). Prompt body still missing.
 <!-- NOTES:END -->

@@ -20,4 +20,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-04 capture — doss.com live.** `GET https://www.doss.com/` **200 / 211,087 B**. Title **DOSS | Adaptive ERP and Operations Cloud**. H1 **The AI-Native Operating System for Consumer Goods**. Product landing, not an illustration kit. Receipt `doss-com-2026-09-04.json`.
 
 **2026-09-05 capture — parallax finance walkthrough video.** [x-2093915384944414827](../items/x-2093915384944414827/card.md) root amplify video is **533.524 s** (~8.89 min) / 1920×1080 (`analysis/_work/captures/parallax-video-2093915384944414827.json`). Thread stays `failed` (2 replies unfetched). Do not treat the clip length as a recipe receipt.
+
+**2026-09-05 leftover19.** Layer-separation `t.co/cRrGTKGJwH` → `remove.bg` **200 / 60,038 B**. Generic bg-remove, not a custom parallax tool. Do not invent `remove-bg.md`.
 <!-- NOTES:END -->

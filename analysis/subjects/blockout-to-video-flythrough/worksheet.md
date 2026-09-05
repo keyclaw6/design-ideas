@@ -31,7 +31,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 
 ## blockout-to-video-flythrough — claims that need a receipt
 
-- Mint Studio “browser 3D camera for video” — thread failed. “Live now here!” `t.co/kfmFB5sFWU` → **mint.gg**. That site is a 3D-asset + MCP pipeline, not a documented camera-path exporter ([mint-studio](../../tools/mint-studio.md)).
+- Mint Studio “browser 3D camera for video” — thread failed. “Live now here!” `t.co/kfmFB5sFWU` → **mint.gg**. leftover19 remaining t.co (render / city / World Labs) loop to X. Still no camera-path exporter ([mint-studio](../../tools/mint-studio.md) `#c5`).
 - npaka CLI vs MCP note is live ([blender-blockout-camera](../../techniques/blender-blockout-camera.md)): CLI = `blender … --background --python`; MCP = running-Blender dialogue. Combine CLI → MCP → CLI.
 - Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read). Official Seedance 2.0 page claims image/audio/video reference including camera movement ([seedance](../../tools/seedance.md)); the cafe `.blend` is still not in this bank. Quoted Blender MCP article **2083925419800002560** is now in-bank (**3,924** chars): cube→red-sphere live check + campsite/angel recipes ([blender-mcp](../../tools/blender-mcp.md)). That article is an operating loop, not the Seedance export. Root video **46.733 s** / 1920×1080. Card is now `ready` (thread `empty`).
 - MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage. Root video **51.478 s** / 1920×1080. Card is now `ready` (thread `empty`).

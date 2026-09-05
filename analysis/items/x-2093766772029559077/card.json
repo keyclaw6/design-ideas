@@ -3,7 +3,7 @@
   "id": "x-2093766772029559077",
   "source_type": "x",
   "url": "https://x.com/Voxyz_ai/status/2093766772029559077",
-  "title": "Refero DESIGN.md library — 2000+ product design languages for agents",
+  "title": "Refero DESIGN.md library \u2014 2000+ product design languages for agents",
   "author": {
     "name": null,
     "handle": "@Voxyz_ai",
@@ -66,7 +66,17 @@
       "id": "x-2093766772029559077#c4",
       "text": "Live paged GET /api/styles (styles[] key) still returns 1,289 unique style ids / 1,241 unique siteNames (20/page through page 64, 10 on page 65, empty page 66). Marketing 2,000+ stays above this public API. Records are gallery JSON, not a DESIGN.md tree.",
       "kind": "counter-claim",
-      "evidence": "pages 1–65; empty page 66 {\"styles\":[],\"nextCursor\":null}. analysis/_work/captures/2026-09-05-refero-recount.json",
+      "evidence": "pages 1\u201365; empty page 66 {\"styles\":[],\"nextCursor\":null}. analysis/_work/captures/2026-09-05-refero-recount.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/styles-refero-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093766772029559077#c5",
+      "text": "leftover19: styles.refero.design 200 / 103,024 B still markets Browse 2,000+ AI-readable design systems. Public API recount on this card stays 1,289 style ids / 1,241 siteNames. Records are JSON designSystem blobs, not DESIGN.md files.",
+      "kind": "counter-claim",
+      "evidence": "leftover19 refero-styles 103024 B title DESIGN.md Examples for AI Agents | Refero Styles.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/styles-refero-design.md",
       "confidence": "demonstrated",
@@ -97,7 +107,9 @@
     "repo": null,
     "paper": null,
     "product": "https://styles.refero.design/",
-    "other": [],
+    "other": [
+      "https://styles.refero.design/"
+    ],
     "related_items": [
       "web-styles-refero-design"
     ]

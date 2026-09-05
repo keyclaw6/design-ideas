@@ -21,4 +21,6 @@ Beta gallery copy: **“Browse 2,000+ AI-readable design systems.”** Refero MC
 **2026-09-04 capture — Notion + Stripe same API.** Same `fullResult.designSystem` shape, still no `.md` file. Notion (`2bf4c61f-…`, notion.so) 68,148 bytes: theme `light`, northStar “warm paper notebook under afternoon sun”, 17 colors (Notion Blue `#0075de`, Paper Warmth `#f6f5f4`), 14 components, typeScale 10, families NotionInter + Lyon Text, customSections Agent Prompt Guide + Decorative Marks System; extractedAt 2026-07-03; elementCount 657. Stripe (`48e5de76-…`) 70,976 bytes: theme `light`, northStar “indigo-ink ledger on frosted glass”, 14 colors (Indigo Ink `#533afd`), 12 components, typeScale 9, family sohne-var 300/400, Agent Prompt Guide only; extractedAt 2026-07-03; elementCount 1599.
 
 **2026-09-04 capture — Sokosumi YAML vs this JSON (same three brands).** Sokosumi published DESIGN.md uses 47 color keys and a Google-style frontmatter. Overlap: Linear surface/Void `#08090a`; Notion primary `#0075de`; Stripe primary `#533afd`. Divergence: Sokosumi Linear `primary` `#e5e5e6` vs this record’s Acid Lime CTA `#e4f222`. Do not treat the two extractors as the same token sheet. Hyperbrowser still 401.
+
+**2026-09-05 leftover19.** `styles.refero.design` **200 / 103,024 B** still markets **2,000+**. API recount stays **1,289 / 1,241**.
 <!-- NOTES:END -->

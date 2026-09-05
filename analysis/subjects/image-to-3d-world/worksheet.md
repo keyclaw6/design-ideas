@@ -31,7 +31,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 
 ## image-to-3d-world — claims that need a receipt
 
-- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; `/worldgen` 404; `/workspace/worldgen` is an **11,026**-byte login SPA with no public mesh download — now on card `#c4` ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). CAST paper tables now quoted there (CLIP 85.77 / 3D-Front CD-S 0.052). Still no engine file.
+- Hyper3D “editable physics world from one photo” — must-read, still a launch thread. Official site is **Rodin**; `/worldgen` 404; `/workspace/worldgen` is an **11,026**-byte login SPA with no public mesh download — now on card `#c4` ([hyper3d-worldgen](../../tools/hyper3d-worldgen.md)). leftover19 CAST HTML **376,208 B**; tables CLIP 85.77 / 3D-Front CD-S 0.052 now on `#c5`. Still no engine file.
 - Atlas 3D AI “one sentence → Unreal ride” — 35 replies / 3 captured; the ride may be video, not an `.uproject`. Live `atlas3d.ai` **26,323 B** is Atlas Spatial Intelligence (cm-level maps / ROS2 / Cesium) — counter-claim on [atlas-3d-ai](../../tools/atlas-3d-ai.md).
 - BQR “clean quads after boolean” — t.co → SuperHive `bqr-boolean-quad-ready` Cloudflare **403** — do not hammer ([bqr-blender-addon](../../tools/bqr-blender-addon.md)).
 - Lumera object-split meshes + HDR lights — project page is a 1 KB JS shell; weights/code still missing.

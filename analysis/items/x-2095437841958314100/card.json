@@ -31,7 +31,7 @@
     "unreal",
     "fal"
   ],
-  "summary": "Announcement thread for Hyper3D WorldGen (Yingmu Technology, CAST/SIGGRAPH 2025): one 2D image becomes an interactive 3D world with per-object meshes, built-in physics, and exports to Blender, Unity, and Unreal — pairable with Seedance for cinematic video on the scene.",
+  "summary": "Announcement thread for Hyper3D WorldGen (Yingmu Technology, CAST/SIGGRAPH 2025): one 2D image becomes an interactive 3D world with per-object meshes, built-in physics, and exports to Blender, Unity, and Unreal \u2014 pairable with Seedance for cinematic video on the scene.",
   "question_it_answers": "How does WorldGen turn a single photo into editable physics-ready 3D scenes for engines?",
   "claims": [
     {
@@ -73,6 +73,16 @@
       "evidence_ref": "analysis/tools/hyper3d-worldgen.md",
       "confidence": "demonstrated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2095437841958314100#c5",
+      "text": "leftover19 re-fetched CAST HTML arxiv.org/html/2502.12894 200 / 376,208 B (title CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image). Paper tables already quoted on hyper3d-worldgen NOTES (open-vocab CLIP 85.77 / GPT-4 rank 1.125; 3D-Front CD-S 0.052). Logged-out WorldGen stays the 11,026 B login SPA. No public user-scene download.",
+      "kind": "benchmark",
+      "evidence": "leftover19-2026-09-05.json cast-arxiv-html 376208 B. Tables on analysis/tools/hyper3d-worldgen.md.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/hyper3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": [],
@@ -91,7 +101,8 @@
     "paper": null,
     "product": "https://hyper3d.ai/workspace/worldgen",
     "other": [
-      "https://hyper3d.ai/"
+      "https://hyper3d.ai/",
+      "https://arxiv.org/html/2502.12894"
     ],
     "related_items": [
       "x-2093937170717585657",

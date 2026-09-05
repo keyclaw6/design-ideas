@@ -1,0 +1,315 @@
+# Popcorn CLI
+
+A command-line interface tool for submitting solutions to the [gpumode.com](https://gpumode.com)
+<img width="1034" alt="Screenshot 2025-06-10 at 11 17 45 AM" src="https://github.com/user-attachments/assets/66414f12-a984-4a3d-b035-d31f8695a54d" />
+
+Tested on linux and mac but should just work on Windows as well.
+
+## New: Nsight Compute Profiling
+
+Profile submissions on the hosted GPU Mode B200 Nsight Compute service.
+See [docs/profiling.md](docs/profiling.md) for a complete copy-paste flow.
+
+Quick QR v2 example:
+
+```bash
+curl -O https://raw.githubusercontent.com/gpu-mode/reference-kernels/main/problems/linalg/qr_v2/submission.py
+export POPCORN_BREV_PROFILER_URL=https://http--brev-profiler-proxy--dxfjds728w5v.code.run
+popcorn submit submission.py --leaderboard qr_v2 --profile-brev --benchmark-index 0 --no-tui
+```
+
+Quick `eigh` dense row example:
+
+```bash
+curl -O https://raw.githubusercontent.com/gpu-mode/reference-kernels/main/problems/linalg/eigh_py/submission.py
+export POPCORN_BREV_PROFILER_URL=https://http--brev-profiler-proxy--dxfjds728w5v.code.run
+popcorn submit submission.py --leaderboard eigh --profile-brev --benchmark-index 3 --no-tui
+```
+
+Quick `cholesky` example:
+
+```bash
+curl -O https://raw.githubusercontent.com/gpu-mode/reference-kernels/main/problems/linalg/cholesky_py/submission.py
+export POPCORN_BREV_PROFILER_URL=https://http--brev-profiler-proxy--dxfjds728w5v.code.run
+popcorn submit submission.py --leaderboard cholesky --profile-brev --benchmark-index 0 --no-tui
+```
+
+The CLI downloads and extracts `ncu-details.txt` and `ncu-details.csv` for
+agent-readable analysis. It also extracts the optional `.ncu-rep` GUI report and
+ends with a macOS command that opens it in Nsight Compute:
+
+```bash
+open -a "NVIDIA Nsight Compute" profile.0-.../profile.ncu-rep
+```
+
+## [NEW] Submit To The Linear Algebra Competition
+
+The first linear algebra problem is batched QR on B200. See the short guide: [docs/linalg-qr-b200.md](docs/linalg-qr-b200.md).
+
+## Installation
+
+### Option 1: One-Line Install (Recommended)
+
+**Linux/macOS/Unix:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/gpu-mode/popcorn-cli/main/install.sh | bash
+```
+
+**Windows (PowerShell):**
+```powershell
+powershell -ExecutionPolicy Bypass -Command "iwr -UseBasicParsing https://raw.githubusercontent.com/gpu-mode/popcorn-cli/main/install.ps1 | iex"
+```
+
+After installation, restart your terminal (or run `source ~/.bashrc` / `source ~/.zshrc`).
+The release binary is named `popcorn-cli`; the one-line installers also add a
+`popcorn` alias, and the examples below use that shorter command.
+
+### Option 2: Manual Installation
+
+1. Open the [releases page](https://github.com/gpu-mode/popcorn-cli/releases)
+2. Pick the version you want, or use the latest release
+3. Download the archive for your platform:
+   - Linux x86_64: `popcorn-cli-linux.tar.gz`
+   - Linux aarch64: `popcorn-cli-linux-aarch64.tar.gz`
+   - macOS Apple Silicon: `popcorn-cli-macos.tar.gz`
+   - Windows x86_64: `popcorn-cli-windows.zip`
+4. Extract the archive, move `popcorn-cli` (`popcorn-cli.exe` on Windows) into
+   a directory on your `PATH`, and run `popcorn-cli --version` to confirm the
+   installed version. The `popcorn` alias is created by the one-line installers;
+   manual installs can use `popcorn-cli` directly.
+
+Older versions are available from the same Releases page by selecting a previous
+tag.
+
+### Option 3: Building from source
+
+1. Download rust `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+2. `cd popcorn-cli && ./build.sh`
+
+### Troubleshooting
+
+**Command not found after installation:**
+- Restart your terminal
+- Check if the install directory is in your PATH:
+  - Linux/macOS: `echo $PATH`
+  - Windows: `echo $env:PATH`
+- Check if POPCORN_API_URL is set to https://site--bot--dxfjds728w5v.code.run
+  - Linux/macOS: `echo $POPCORN_API_URL`
+  - Windows: `echo $env:POPCORN_API_URL`
+
+## Authentication
+
+Since we're effectively giving out GPUs for free we rely on either github or discord authentication to prove that you're a real human before you access our service.
+
+1. Register the CLI (Discord recommended): `popcorn register discord` (or `popcorn register github`)
+2. To ensure the above worked you can run `cat $HOME/.popcorn.yaml` which should print your client ID which is what will be sent to us on every request
+
+Sometimes you'll get an error that you're already authenticated despite being unable to submit in which case you can run `popcorn reregister [discord|github]`.
+
+## Make your first submission
+
+```bash
+wget https://raw.githubusercontent.com/gpu-mode/reference-kernels/refs/heads/main/problems/pmpp_v2/grayscale_py/submission.py
+popcorn-cli submit --gpu A100 --leaderboard grayscale_v2 --mode leaderboard submission.py
+```
+
+We regularly run competitions with clear due dates but for beginners we will always keep open the PMPP_v2 problem set https://github.com/gpu-mode/reference-kernels/tree/main/problems/pmpp_v2
+
+## Commands
+
+### Setup
+
+Bootstrap a project with Popcorn skill scaffolding and a submission template.
+
+```bash
+# Create a project folder with skill scaffolding + submission.py
+popcorn setup
+```
+
+This will create a new folder named after the selected problem (e.g. `softmax/`), containing a `submission.py` template and agent skills in `.claude/skills` and `.codex/skills`. If a folder with that name already exists, a `-N` suffix is appended (e.g. `softmax-1/`).
+
+### Submit
+
+Submit a solution to a leaderboard. Supports both TUI (interactive) and plain modes.
+
+```bash
+# Interactive TUI mode - select leaderboard, GPU, and mode interactively
+popcorn submit solution.py
+
+# Direct submission with all options
+popcorn submit --leaderboard grayscale_v2 --gpu A100 --mode leaderboard solution.py
+
+# Nsight Compute profile on the hosted GPU Mode B200 profiler
+POPCORN_BREV_PROFILER_URL=https://http--brev-profiler-proxy--dxfjds728w5v.code.run popcorn submit --leaderboard qr_v2 --profile-brev solution.py
+
+# Profile one QR v2 benchmark shape
+POPCORN_BREV_PROFILER_URL=https://http--brev-profiler-proxy--dxfjds728w5v.code.run popcorn submit --leaderboard qr_v2 --profile-brev --benchmark-index 0 solution.py
+
+# Profile one eigh benchmark shape
+POPCORN_BREV_PROFILER_URL=https://http--brev-profiler-proxy--dxfjds728w5v.code.run popcorn submit --leaderboard eigh --profile-brev --benchmark-index 3 solution.py
+
+# Plain output mode (no TUI, good for CI/scripts)
+popcorn submit --no-tui --leaderboard grayscale_v2 --gpu A100 --mode test solution.py
+
+# Run the public leaderboard pipeline in your own Modal account
+MODAL_TOKEN_ID=... MODAL_TOKEN_SECRET=... popcorn submit --local --leaderboard eigh --gpu B200 --mode leaderboard solution.py
+
+# Save results to a file
+popcorn submit --output results.json --leaderboard grayscale_v2 --gpu A100 --mode benchmark solution.py
+```
+
+#### Local Modal mode
+
+`--local` runs the public `reference-kernels` task with KernelBot's evaluator
+on a GPU billed to your Modal account. It bypasses Popcorn registration and the
+GPU Mode API, and implies plain (non-TUI) output. The supported Modal GPU names
+are `T4`, `L4`, `L4x4`, `A100`, `H100`, and `B200`; AMD runners are not available
+through Modal.
+
+Install and authenticate Modal first:
+
+```bash
+python3 -m pip install modal
+
+# Either save the token in Modal's local config...
+modal token set
+
+# ...or supply it without changing local config.
+export MODAL_TOKEN_ID=your-token-id
+export MODAL_TOKEN_SECRET=your-token-secret
+```
+
+Then use the normal submission modes:
+
+```bash
+popcorn submit --local --leaderboard eigh --gpu B200 --mode test submission.py
+popcorn submit --local --leaderboard eigh --gpu B200 --mode benchmark submission.py
+popcorn submit --local --leaderboard eigh --gpu B200 --mode leaderboard submission.py
+```
+
+Local `leaderboard` mode runs the same public test, benchmark, and ranked
+evaluation stages and computes the task's ranking score. It does not run GPU
+Mode's private seed, update gpumode.com, or create an official submission. The
+output records the exact `reference-kernels` and KernelBot commits used. Set
+`POPCORN_REFERENCE_KERNELS_REF` or `POPCORN_KERNELBOT_REF` to a branch, tag, or
+commit when you need to pin or test another public revision. By default, the
+runner resolves both `main` branches to immutable commit SHAs on every command;
+if either lookup fails, it stops instead of risking a stale cached image.
+
+**Submission modes:**
+- `test` - Quick test run to check correctness
+- `benchmark` - Benchmark your solution (no leaderboard impact)
+- `leaderboard` - Official ranked submission
+- `profile` - Profile with Nsight Compute (limited availability)
+
+### Submissions
+
+Manage your past submissions.
+
+```bash
+# List your submissions for a leaderboard
+popcorn submissions list --leaderboard grayscale_v2
+
+# Limit number of results
+popcorn submissions list --leaderboard grayscale_v2 --limit 10
+
+# View a specific submission with full code
+popcorn submissions show <ID>
+
+# Delete a submission (with confirmation prompt)
+popcorn submissions delete <ID>
+
+# Delete without confirmation
+popcorn submissions delete <ID> --force
+```
+
+#### Avoid Reward Hacks
+
+If you want to avoid reward hacks, inspect your past submissions and delete any bad ones.
+
+```bash
+# 1. List your submissions and note the ID
+popcorn submissions list --leaderboard grayscale_v2
+
+# 2. Inspect the exact code stored for that submission
+popcorn submissions show 1234
+
+# 3. Delete the submission if you do not want it kept
+popcorn submissions delete 1234
+```
+
+`list` shows the submission `ID`, `show` prints the full submitted code for that `ID`, and `delete` previews the submission before removing it.
+
+### Authentication
+
+Register or re-register your CLI with Discord or GitHub.
+
+```bash
+# Initial registration (Discord recommended)
+popcorn register discord
+popcorn register github
+
+# Re-register if you need to link a new account
+popcorn reregister discord
+popcorn reregister github
+```
+
+### File Directives
+
+You can embed default settings directly in your solution files:
+
+```python
+#!POPCORN leaderboard grayscale_v2
+#!POPCORN gpu A100
+
+def solution():
+    ...
+```
+
+Or C++ style:
+```cpp
+//!POPCORN leaderboard nvidia-matmul
+//!POPCORN gpu H100
+```
+
+When these directives are present, you can submit with just:
+```bash
+popcorn submit solution.py
+```
+
+## Submission Format
+
+Submissions are always a single Python file. If you want to submit native CUDA code, you can use PyTorch's `load_inline` feature (which uses nvcc) or the more experimental [`compile_kernel` API](https://x.com/gaunernst/status/2015242181049745607) for fast compilation. See [this example](https://github.com/gpu-mode/reference-kernels/blob/main/problems/pmpp_v2/vectoradd_py/solutions/correct/submission_cuda_inline.py) for reference.
+
+### Installing Extra Dependencies
+
+If your submission requires a Python package that isn't pre-installed in the runtime environment, you can install it directly in your submission file:
+
+```python
+import subprocess
+import sys
+subprocess.check_call([sys.executable, "-m", "pip", "install", "some_package"])
+```
+
+This runs before the rest of your code executes, so the package will be available for import afterwards.
+
+If you find yourself installing the same package frequently, we're happy to add it to the runtime by default. Open a PR on [gpu-mode/kernelbot](https://github.com/gpu-mode/kernelbot):
+- For Modal-based runners: edit [`src/runners/modal_runner.py`](https://github.com/gpu-mode/kernelbot/blob/main/src/runners/modal_runner.py)
+- For on-prem hardware: look for the Dockerfiles in the same repo
+
+For syntax highlighting of both C++ and Python in your IDE, you can use the [PyTorch Load Inline Highlighter](https://marketplace.visualstudio.com/items?itemName=msaroufim.pytorch-load-inline-highlighter) VS Code extension.
+
+## Reference Kernels
+
+All reference kernels are available at [gpu-mode/reference-kernels](https://github.com/gpu-mode/reference-kernels). Each problem directory contains:
+- `reference.py` - The reference implementation to beat
+- `submission.py` - A sample submission you can use as a starting point
+- `task.yml` - Input shapes and problem configuration
+
+Our entire evaluation infrastructure is open source and you can learn more [here](https://github.com/gpu-mode/kernelbot). Development happens on the [KernelBot discord](https://discord.gg/FjYsdHDv7J)
+
+## Stay Updated
+
+Interested in new kernel competitions? Join [discord.gg/gpumode](https://discord.gg/gpumode) and check out the **#announcements** channel to be notified when new challenges drop.
+
+glhf!

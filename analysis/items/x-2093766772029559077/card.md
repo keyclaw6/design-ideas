@@ -14,11 +14,12 @@
 https://styles.refero.design/" [post]
 - `x-2093766772029559077#c3` (capability, demonstrated) Refero Linear record is a JSON designSystem (16 colors, 12 components, Agent Prompt Guide), not a downloadable DESIGN.md file. — evidence: "GET /api/styles/90ce5883-bb24-4466-93f7-801cd617b0d1 HTTP 200, 81180 bytes; fullResult.designSystem has dos/donts/colors/components/customSections; no .md attachment." [note]
 - `x-2093766772029559077#c4` (counter-claim, demonstrated) Live paged GET /api/styles (styles[] key) still returns 1,289 unique style ids / 1,241 unique siteNames (20/page through page 64, 10 on page 65, empty page 66). Marketing 2,000+ stays above this public API. Records are gallery JSON, not a DESIGN.md tree. — evidence: "pages 1–65; empty page 66 {"styles":[],"nextCursor":null}. analysis/_work/captures/2026-09-05-refero-recount.json" [note]
+- `x-2093766772029559077#c5` (counter-claim, demonstrated) leftover19: styles.refero.design 200 / 103,024 B still markets Browse 2,000+ AI-readable design systems. Public API recount on this card stays 1,289 style ids / 1,241 siteNames. Records are JSON designSystem blobs, not DESIGN.md files. — evidence: "leftover19 refero-styles 103024 B title DESIGN.md Examples for AI Agents | Refero Styles." [note]
 **Numbers.** Linear designSystem HTTP body: 81180 bytes (note); public API unique style ids: 1289  (note)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [styles-refero-design](../../tools/styles-refero-design.md)
-**Links.** product (https://styles.refero.design/)
+**Links.** product (https://styles.refero.design/), https://styles.refero.design/
 **Related items.** [web-styles-refero-design](../web-styles-refero-design/card.md)
 **Media.**
 `raw/items/x-2093766772029559077/media/media_0.jpg` (image, carries_technique=false) — Screen recording demo of browsing Refero DESIGN.md files and applying design tokens (file stored as media_0.jpg but is MP4).

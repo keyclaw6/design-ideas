@@ -103,7 +103,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2093937170717585657#c1` | Lumera rebuilds each object as a separate mesh and recreates lighting as movable engine lights plus an HDR environment. | stated | [Lumera paper: one image to editable U…](../../items/x-2093937170717585657/card.md) |
 | `x-2093937170717585657#c2` | Code and weights are marked as coming soon on the project page linked from the post. | stated | [Lumera paper: one image to editable U…](../../items/x-2093937170717585657/card.md) |
 
-Full set: claims.jsonl (40 rows)
+Full set: claims.jsonl (41 rows)
 
 ## image-to-3d-world — comparison axes
 

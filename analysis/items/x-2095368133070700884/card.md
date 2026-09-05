@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2095368133070700884#c1` (availability, stated) Post advertises a GPT 5.6 Sol prompt with a demo video but does not include the prompt body in the capture. — evidence: "GPT 5.6 Sol" [post]
 - `x-2095368133070700884#c2` (availability, demonstrated) The teaser is an X amplify video 4.783 s at 3014×2160. Tweet says Prompt with a down-arrow; the prompt body is still missing. Thread status stays failed (1 reply unfetched). — evidence: "GET https://api.fxtwitter.com/_heyfaisal/status/2095368133070700884. video duration 4.783 width 3014 height 2160. replies 1. text includes Prompt." [note]
+- `x-2095368133070700884#c3` (availability, demonstrated) leftover19: failed-thread reply t.co/qlVOgcGt83 resolves to sceneai.art 200 / 307,798 B (same host as the sibling teaser leftover). Title SceneAI: The Best UI Prompt Library on the Internet (source ranking language). Sol prompt body still missing. Do not treat this as a second marketplace. — evidence: "leftover19 tco-sol-reply final https://sceneai.art/ 200 307798 B." [note]
 **Numbers.** Sol demo duration: 4.783 seconds (note)
 **Recipe.** —
 **Techniques.** [prompt-to-html-landing](../../techniques/prompt-to-html-landing.md)
 **Tools.** [gpt-5-6-sol](../../tools/gpt-5-6-sol.md)
-**Links.** —
+**Links.** https://sceneai.art/
 **Related items.** [x-2095451624139567162](../x-2095451624139567162/card.md)
 **Media.**
 `raw/items/x-2095368133070700884/media/media_0.mp4` (video, carries_technique=true) — Five-second demo video of a website generated with a GPT 5.6 Sol prompt; prompt text not present in the captured post.

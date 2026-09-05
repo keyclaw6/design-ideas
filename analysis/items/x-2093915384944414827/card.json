@@ -43,9 +43,19 @@
     },
     {
       "id": "x-2093915384944414827#c2",
-      "text": "The walkthrough is an X amplify video 533.524 s (~8.89 min) at 1920×1080. Two replies remain unfetched; thread status stays failed.",
+      "text": "The walkthrough is an X amplify video 533.524 s (~8.89 min) at 1920\u00d71080. Two replies remain unfetched; thread status stays failed.",
       "kind": "availability",
       "evidence": "GET https://api.fxtwitter.com/himanshubuildss/status/2093915384944414827. video duration 533.524 width 1920 height 1080. replies 2.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/parallax-scroll-landing.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2093915384944414827#c3",
+      "text": "leftover19: quoted layer-separation t.co/cRrGTKGJwH resolves to remove.bg 200 / 60,038 B (title Remove Background from Image for Free). That is a generic background-remove site, not a custom parallax layer tool. Thread stays failed. Do not invent a remove-bg.md.",
+      "kind": "availability",
+      "evidence": "leftover19 tco-parallax-layers final https://www.remove.bg/ 200 60038 B.",
       "evidence_source": "note",
       "evidence_ref": "analysis/techniques/parallax-scroll-landing.md",
       "confidence": "demonstrated",
@@ -73,7 +83,9 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://www.remove.bg/"
+    ],
     "related_items": [
       "x-2093767075131220005",
       "x-2095429087141515616"
