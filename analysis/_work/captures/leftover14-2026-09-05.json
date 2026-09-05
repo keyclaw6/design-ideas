@@ -1,0 +1,322 @@
+{
+  "fetched_at": "2026-09-05T07:10:00Z",
+  "pages": {
+    "antigravity-google": {
+      "url": "https://antigravity.google/",
+      "final": "https://antigravity.google/",
+      "status": 200,
+      "bytes": 28747,
+      "ctype": "text/html",
+      "error": null,
+      "title": null,
+      "visible_len": 24824
+    },
+    "antigravity-www": {
+      "url": "https://www.antigravity.google/",
+      "final": "https://www.antigravity.google/",
+      "status": 200,
+      "bytes": 136935,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Google Antigravity",
+      "visible_len": 4587
+    },
+    "antigravity-dev": {
+      "url": "https://developers.google.com/antigravity",
+      "final": "https://developers.google.com/antigravity",
+      "status": 404,
+      "bytes": 45616,
+      "ctype": "text/html; charset=utf-8",
+      "error": "HTTPError 404",
+      "title": "404 \u00a0|\u00a0 Page Not Found \u00a0|\u00a0 Google for Developers",
+      "visible_len": 715
+    },
+    "antigravity-gemini": {
+      "url": "https://gemini.google/overview/antigravity/",
+      "final": "https://gemini.google/overview/antigravity/",
+      "status": 404,
+      "bytes": 3819,
+      "ctype": "text/html; charset=utf-8",
+      "error": "HTTPError 404",
+      "title": "Page not found",
+      "visible_len": 54
+    },
+    "openscad-org": {
+      "url": "https://openscad.org/",
+      "final": "https://openscad.org/",
+      "status": 200,
+      "bytes": 8719,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "OpenSCAD - The Programmers Solid 3D CAD Modeller",
+      "visible_len": 906
+    },
+    "openscad-repo": {
+      "url": "https://api.github.com/repos/openscad/openscad",
+      "final": "https://api.github.com/repos/openscad/openscad",
+      "status": 200,
+      "bytes": 6328,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/openscad-repo.json",
+      "json_summary": {
+        "full_name": "openscad/openscad",
+        "stars": 10133,
+        "forks": 1790,
+        "license": "NOASSERTION",
+        "desc": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
+        "homepage": "https://www.openscad.org",
+        "total": null,
+        "items": null
+      }
+    },
+    "openscad-contents": {
+      "url": "https://api.github.com/repos/openscad/openscad/contents/",
+      "final": "https://api.github.com/repos/openscad/openscad/contents/",
+      "status": 200,
+      "bytes": 34459,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/openscad-contents.json"
+    },
+    "tco-fleeting-hermes": {
+      "url": "https://t.co/iRf19az0E7",
+      "final": "https://x.com/AIImgGeneration/status/2088332814928269640",
+      "status": 200,
+      "bytes": 194395,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "RelicPack on X: \"@fleetingbits Tried to point out hermes on your image and obtained HTML with structure one of my projects! Looks cool but kinda useless as well - some additional thinking required to understand what to show and in which form - AI haven't figure it out from one prompt:\" / X",
+      "visible_len": 1836
+    },
+    "tco-fleeting-game": {
+      "url": "https://t.co/RlQNWV9VfL",
+      "final": "https://x.com/infomiho/status/2088145944185352645",
+      "status": 200,
+      "bytes": 214183,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Mihovil Ilakovac on X: \"@fleetingbits I had some fun and took it a bit too far, made an interactive game\" / X",
+      "visible_len": 1294
+    },
+    "tco-fleeting-miho1": {
+      "url": "https://t.co/Lr58xVpQrt",
+      "final": "https://github.com/cmaughan/Draxul",
+      "status": 200,
+      "bytes": 481898,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "GitHub - cmaughan/Draxul: \ud83e\ude78 A Dark Factory agentic project. A Universal console shell, city-as-code metaphor.  Cross platform Vulkan and Metal, PC & Mac.  Powershell, Neovim GUI RPC, Bash, Zsh; any shell you like, it will host it.  The City is an HDR graphics pipeline. \u00b7 GitHub",
+      "visible_len": 23061
+    },
+    "tco-fleeting-miho2": {
+      "url": "https://t.co/86vU29ZHve",
+      "final": "https://x.com/cmaughan/status/2088102948299485635",
+      "status": 200,
+      "bytes": 151514,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "cmaughan on X: \"@fleetingbits https://t.co/Lr58xVpQrt\nI\u2019ve been playing with this too\u2026\" / X",
+      "visible_len": 928
+    },
+    "tco-grill-me": {
+      "url": "https://t.co/yIPMiN9j4k",
+      "final": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md",
+      "status": 200,
+      "bytes": 234414,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "skills/skills/productivity/grill-me/SKILL.md at main \u00b7 mattpocock/skills \u00b7 GitHub",
+      "visible_len": 3031
+    },
+    "tco-openscad-ankush": {
+      "url": "https://t.co/NOGx8QjLUO",
+      "final": "https://nurb.dev/",
+      "status": 200,
+      "bytes": 29103,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "nurb \u00b7 describe the part, print the part",
+      "visible_len": 4554
+    },
+    "mattpocock-contents": {
+      "url": "https://api.github.com/repos/mattpocock/skills/contents/",
+      "final": "https://api.github.com/repos/mattpocock/skills/contents/",
+      "status": 200,
+      "bytes": 11921,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/mattpocock-contents.json"
+    },
+    "mattpocock-productivity": {
+      "url": "https://api.github.com/repos/mattpocock/skills/contents/productivity",
+      "final": "https://api.github.com/repos/mattpocock/skills/contents/productivity",
+      "status": 404,
+      "bytes": 127,
+      "ctype": "application/json; charset=utf-8",
+      "error": "HTTPError 404",
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/mattpocock-productivity.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "total": null,
+        "items": null
+      }
+    },
+    "gh-search-wayfinder": {
+      "url": "https://api.github.com/search/repositories?q=wayfinder+skill&per_page=5",
+      "final": "https://api.github.com/search/repositories?q=wayfinder+skill&per_page=5",
+      "status": 200,
+      "bytes": 29855,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/gh-search-wayfinder.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "total": 35,
+        "items": [
+          {
+            "full_name": "FeatherHunter/dsh-mattpocock-skills-deck",
+            "stars": 48,
+            "license": "MIT",
+            "desc": "Matt Pocock \u6280\u80fd\u9762\u677f\uff08DSH Deck\uff09\uff1a\u5b89\u88c5\u5373\u81ea\u5e26 25 \u4e2a\u5de5\u7a0b\u4e0e\u6548\u7387\u6280\u80fd\uff08mattpocock/skills v1.2.3\uff1atriage\u3001grilling\u3001wayfinder\u3001handoff \u7b49\uff09\uff0c\u53f3\u4fa7\u9762\u677f\u76f4\u63a5\u8c03\u7528\uff0c\u65e0\u9700\u624b\u52a8\u88c5\u6280\u80fd\u3002\u5f53\u524d\u4e3b\u529b\u652f\u6301 GitHub issue\uff1bMarkdown \u672c\u5730\u6587\u4ef6\u4e3a\u9884\u89c8"
+          },
+          {
+            "full_name": "WayfinderFoundation/wayfinder-openclaw-skill",
+            "stars": 4,
+            "license": null,
+            "desc": ""
+          },
+          {
+            "full_name": "hoklims/codex-wayfinder",
+            "stars": 3,
+            "license": "MIT",
+            "desc": "Codex-led governance skill for manual Claude Code execution handoffs"
+          },
+          {
+            "full_name": "KAIYUANdodo/wayfinder-skills",
+            "stars": 0,
+            "license": null,
+            "desc": "wayfinder skills"
+          },
+          {
+            "full_name": "glitchwerks/claude-wayfinder",
+            "stars": 2,
+            "license": "MIT",
+            "desc": "Deterministic, auditable agent/skill dispatch for Claude Code. A typed seven-decision scoring kernel runs after the router has read the conversation \u2014 post-cogn"
+          }
+        ]
+      }
+    },
+    "gh-search-ask-matt": {
+      "url": "https://api.github.com/search/repositories?q=ask-matt+skill&per_page=5",
+      "final": "https://api.github.com/search/repositories?q=ask-matt+skill&per_page=5",
+      "status": 200,
+      "bytes": 55,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/gh-search-ask-matt.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "total": 0,
+        "items": null
+      }
+    },
+    "gh-search-ponytail": {
+      "url": "https://api.github.com/search/repositories?q=ponytail+skill&per_page=5",
+      "final": "https://api.github.com/search/repositories?q=ponytail+skill&per_page=5",
+      "status": 200,
+      "bytes": 29480,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/gh-search-ponytail.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "total": 67,
+        "items": [
+          {
+            "full_name": "AbdullahHameedKhan/karpathy-ponytail-skills",
+            "stars": 30,
+            "license": null,
+            "desc": "Karpathy's LLM coding guidelines merged with Ponytail's laziness ladder, think before coding, climb the simplicity ladder, touch only what you must."
+          },
+          {
+            "full_name": "gongyijie85/dsh-ponytail",
+            "stars": 9,
+            "license": "MIT",
+            "desc": "Ponytail, lazy senior dev mode, for DeepSeek Harness: 6 skills adapted from DietrichGebert/ponytail (MIT)"
+          },
+          {
+            "full_name": "alonbaron/claude-skills",
+            "stars": 13,
+            "license": "MIT",
+            "desc": "Six Claude Code skills (architect, review-swarm, ask-the-council, prompt-generator, up-to-date, ponytail) bundled as an installable plugin."
+          },
+          {
+            "full_name": "warp-svg/ponytail-gilfoyle",
+            "stars": 7,
+            "license": null,
+            "desc": "A Gilfoyle-voiced reskin of the ponytail agent skill (DietrichGebert/ponytail). Same YAGNI ladder, same safety carve-outs, deadpan contempt for over-engineering"
+          },
+          {
+            "full_name": "kimyoungwopo/frontend-token-trim-skillpack",
+            "stars": 3,
+            "license": "MIT",
+            "desc": "Hermes Agent frontend skillpack: Ponytail + Graphify + Headroom token-trim workflow"
+          }
+        ]
+      }
+    },
+    "gh-search-grilling": {
+      "url": "https://api.github.com/search/repositories?q=grilling+SKILL.md&per_page=5",
+      "final": "https://api.github.com/search/repositories?q=grilling+SKILL.md&per_page=5",
+      "status": 200,
+      "bytes": 12070,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/gh-search-grilling.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "total": 2,
+        "items": [
+          {
+            "full_name": "sukwoo0711-maker/instruction-hygiene",
+            "stars": 0,
+            "license": null,
+            "desc": "Fight context rot in agent instruction files (CLAUDE.md/MEMORY.md/SKILL.md). Cheap deterministic T0 scan first; auto-grill gated behind a hard checklist. Offlin"
+          },
+          {
+            "full_name": "Z1m0n8210/generate-daily-report",
+            "stars": 0,
+            "license": "MIT",
+            "desc": "\u8fd9\u662f\u4e00\u4efd\u9762\u5411 Codex \u7684\u5de5\u4f5c\u65e5\u62a5 Skill\u3002\u5b83\u4ece\u5f53\u524d\u9879\u76ee\u7684 Git \u8bb0\u5f55\u548c\u5de5\u4f5c\u533a\u5dee\u5f02\u4e2d\u6574\u7406\u5f53\u5929\u5de5\u4f5c\uff0c\u518d\u901a\u8fc7\u4e00\u8f6e\u6709\u9488\u5bf9\u6027\u7684 grilling\uff0c\u8ba9\u4f7f\u7528\u8005\u786e\u8ba4\u54ea\u4e9b\u5185\u5bb9\u5e94\u5199\u8fdb\u65e5\u62a5\u3002  \u6267\u884c\u89c4\u5219\u4ee5 SKILL.md \u4e3a\u51c6\uff1b\u672c\u6587\u4ef6\u7528\u4e8e\u8bf4\u660e Skill \u7684\u7528\u9014\u3001\u8bc1\u636e\u8fb9\u754c\u3001\u8f93\u51fa\u683c\u5f0f\u548c\u5305\u5185\u8d44\u6e90\u3002"
+          }
+        ]
+      }
+    }
+  }
+}

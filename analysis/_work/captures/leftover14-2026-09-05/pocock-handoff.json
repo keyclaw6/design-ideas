@@ -1,0 +1,34 @@
+[
+  {
+    "name": "SKILL.md",
+    "path": "skills/productivity/handoff/SKILL.md",
+    "sha": "2eb98a51b97bb5bac461a26ad14828eeac827909",
+    "size": 894,
+    "url": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/handoff/SKILL.md?ref=main",
+    "html_url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md",
+    "git_url": "https://api.github.com/repos/mattpocock/skills/git/blobs/2eb98a51b97bb5bac461a26ad14828eeac827909",
+    "download_url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/handoff/SKILL.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/handoff/SKILL.md?ref=main",
+      "git": "https://api.github.com/repos/mattpocock/skills/git/blobs/2eb98a51b97bb5bac461a26ad14828eeac827909",
+      "html": "https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md"
+    }
+  },
+  {
+    "name": "agents",
+    "path": "skills/productivity/handoff/agents",
+    "sha": "d3633c2ea1653808784e627a98337b6e9c86349d",
+    "size": 0,
+    "url": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/handoff/agents?ref=main",
+    "html_url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff/agents",
+    "git_url": "https://api.github.com/repos/mattpocock/skills/git/trees/d3633c2ea1653808784e627a98337b6e9c86349d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/handoff/agents?ref=main",
+      "git": "https://api.github.com/repos/mattpocock/skills/git/trees/d3633c2ea1653808784e627a98337b6e9c86349d",
+      "html": "https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff/agents"
+    }
+  }
+]

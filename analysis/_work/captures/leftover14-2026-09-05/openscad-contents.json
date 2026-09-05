@@ -1,0 +1,770 @@
+[
+  {
+    "name": ".circleci",
+    "path": ".circleci",
+    "sha": "1df61b98cf8b097987e90b489ad24b3943dc2f51",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.circleci?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/.circleci",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/1df61b98cf8b097987e90b489ad24b3943dc2f51",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.circleci?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/1df61b98cf8b097987e90b489ad24b3943dc2f51",
+      "html": "https://github.com/openscad/openscad/tree/master/.circleci"
+    }
+  },
+  {
+    "name": ".clang-format",
+    "path": ".clang-format",
+    "sha": "55da89bbf92cfde1607a985569f7b1cfc62cd418",
+    "size": 1009,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.clang-format?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/.clang-format",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/55da89bbf92cfde1607a985569f7b1cfc62cd418",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/.clang-format",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.clang-format?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/55da89bbf92cfde1607a985569f7b1cfc62cd418",
+      "html": "https://github.com/openscad/openscad/blob/master/.clang-format"
+    }
+  },
+  {
+    "name": ".clang-tidy",
+    "path": ".clang-tidy",
+    "sha": "36cd03b6e556824cc1ca56b3f64047f176569e98",
+    "size": 1393,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.clang-tidy?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/.clang-tidy",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/36cd03b6e556824cc1ca56b3f64047f176569e98",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/.clang-tidy",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.clang-tidy?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/36cd03b6e556824cc1ca56b3f64047f176569e98",
+      "html": "https://github.com/openscad/openscad/blob/master/.clang-tidy"
+    }
+  },
+  {
+    "name": ".devcontainer",
+    "path": ".devcontainer",
+    "sha": "0f9f585384e84476aff835f5d996acc113771e8a",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.devcontainer?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/.devcontainer",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/0f9f585384e84476aff835f5d996acc113771e8a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.devcontainer?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/0f9f585384e84476aff835f5d996acc113771e8a",
+      "html": "https://github.com/openscad/openscad/tree/master/.devcontainer"
+    }
+  },
+  {
+    "name": ".git-blame-ignore-revs",
+    "path": ".git-blame-ignore-revs",
+    "sha": "e03d22bd3224ede5db6be9921ae711ee2aff6fd5",
+    "size": 745,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.git-blame-ignore-revs?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/.git-blame-ignore-revs",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/e03d22bd3224ede5db6be9921ae711ee2aff6fd5",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/.git-blame-ignore-revs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.git-blame-ignore-revs?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/e03d22bd3224ede5db6be9921ae711ee2aff6fd5",
+      "html": "https://github.com/openscad/openscad/blob/master/.git-blame-ignore-revs"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "77c722700b1f3ecb349601389eee64c4b7ebfe34",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.github?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/.github",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/77c722700b1f3ecb349601389eee64c4b7ebfe34",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/77c722700b1f3ecb349601389eee64c4b7ebfe34",
+      "html": "https://github.com/openscad/openscad/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "0181cd0af5b4b3212cade3eaf97cb5031051c927",
+    "size": 1742,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/0181cd0af5b4b3212cade3eaf97cb5031051c927",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/0181cd0af5b4b3212cade3eaf97cb5031051c927",
+      "html": "https://github.com/openscad/openscad/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".gitmodules",
+    "path": ".gitmodules",
+    "sha": "207ec024e851db8d25ef777770d13e165df8c64b",
+    "size": 630,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.gitmodules?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/.gitmodules",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/207ec024e851db8d25ef777770d13e165df8c64b",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/.gitmodules",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.gitmodules?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/207ec024e851db8d25ef777770d13e165df8c64b",
+      "html": "https://github.com/openscad/openscad/blob/master/.gitmodules"
+    }
+  },
+  {
+    "name": ".pre-commit-config.yaml",
+    "path": ".pre-commit-config.yaml",
+    "sha": "22fb0c51a18d2782df13bada2173be2361b12397",
+    "size": 1500,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.pre-commit-config.yaml?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/.pre-commit-config.yaml",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/22fb0c51a18d2782df13bada2173be2361b12397",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/.pre-commit-config.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.pre-commit-config.yaml?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/22fb0c51a18d2782df13bada2173be2361b12397",
+      "html": "https://github.com/openscad/openscad/blob/master/.pre-commit-config.yaml"
+    }
+  },
+  {
+    "name": ".uncrustify.cfg",
+    "path": ".uncrustify.cfg",
+    "sha": "8c17a0bb511806a957ea820ac875aaddc3aae762",
+    "size": 2347,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/.uncrustify.cfg?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/.uncrustify.cfg",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/8c17a0bb511806a957ea820ac875aaddc3aae762",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/.uncrustify.cfg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/.uncrustify.cfg?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/8c17a0bb511806a957ea820ac875aaddc3aae762",
+      "html": "https://github.com/openscad/openscad/blob/master/.uncrustify.cfg"
+    }
+  },
+  {
+    "name": "CMakeLists.txt",
+    "path": "CMakeLists.txt",
+    "sha": "8dbe2932890dd5d5ce3b28556517620715d7be19",
+    "size": 70830,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/CMakeLists.txt?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/CMakeLists.txt",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/8dbe2932890dd5d5ce3b28556517620715d7be19",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/CMakeLists.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/CMakeLists.txt?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/8dbe2932890dd5d5ce3b28556517620715d7be19",
+      "html": "https://github.com/openscad/openscad/blob/master/CMakeLists.txt"
+    }
+  },
+  {
+    "name": "CMakeSettings.json",
+    "path": "CMakeSettings.json",
+    "sha": "e36ef782780d625c82d3c4a66168b365b6c49ff6",
+    "size": 2175,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/CMakeSettings.json?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/CMakeSettings.json",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/e36ef782780d625c82d3c4a66168b365b6c49ff6",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/CMakeSettings.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/CMakeSettings.json?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/e36ef782780d625c82d3c4a66168b365b6c49ff6",
+      "html": "https://github.com/openscad/openscad/blob/master/CMakeSettings.json"
+    }
+  },
+  {
+    "name": "COPYING",
+    "path": "COPYING",
+    "sha": "627c964a841a48896bf9c779e7b051dd3cbfd2d7",
+    "size": 18382,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/COPYING?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/COPYING",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/627c964a841a48896bf9c779e7b051dd3cbfd2d7",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/COPYING",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/COPYING?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/627c964a841a48896bf9c779e7b051dd3cbfd2d7",
+      "html": "https://github.com/openscad/openscad/blob/master/COPYING"
+    }
+  },
+  {
+    "name": "Doxyfile",
+    "path": "Doxyfile",
+    "sha": "16f38b409656e337ab8d8c46b7cc671173c0b7a7",
+    "size": 128263,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/Doxyfile?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/Doxyfile",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/16f38b409656e337ab8d8c46b7cc671173c0b7a7",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/Doxyfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/Doxyfile?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/16f38b409656e337ab8d8c46b7cc671173c0b7a7",
+      "html": "https://github.com/openscad/openscad/blob/master/Doxyfile"
+    }
+  },
+  {
+    "name": "Info.plist",
+    "path": "Info.plist",
+    "sha": "9fce97066c93d26eab6996b4a25de24bd33acb43",
+    "size": 2716,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/Info.plist?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/Info.plist",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/9fce97066c93d26eab6996b4a25de24bd33acb43",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/Info.plist",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/Info.plist?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/9fce97066c93d26eab6996b4a25de24bd33acb43",
+      "html": "https://github.com/openscad/openscad/blob/master/Info.plist"
+    }
+  },
+  {
+    "name": "Info.plist.in",
+    "path": "Info.plist.in",
+    "sha": "618b4c975e83d26afc15fe98f0c553b05bb14e41",
+    "size": 2552,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/Info.plist.in?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/Info.plist.in",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/618b4c975e83d26afc15fe98f0c553b05bb14e41",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/Info.plist.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/Info.plist.in?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/618b4c975e83d26afc15fe98f0c553b05bb14e41",
+      "html": "https://github.com/openscad/openscad/blob/master/Info.plist.in"
+    }
+  },
+  {
+    "name": "OpenSCAD.sdef",
+    "path": "OpenSCAD.sdef",
+    "sha": "c509cbe7b16e5e930b715e7fb68d7f764a6ca425",
+    "size": 378,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/OpenSCAD.sdef?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/OpenSCAD.sdef",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/c509cbe7b16e5e930b715e7fb68d7f764a6ca425",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/OpenSCAD.sdef",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/OpenSCAD.sdef?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/c509cbe7b16e5e930b715e7fb68d7f764a6ca425",
+      "html": "https://github.com/openscad/openscad/blob/master/OpenSCAD.sdef"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "99ec96ab13dc52f90c878f06ec5c15f23ffd2299",
+    "size": 13836,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/README.md?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/99ec96ab13dc52f90c878f06ec5c15f23ffd2299",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/99ec96ab13dc52f90c878f06ec5c15f23ffd2299",
+      "html": "https://github.com/openscad/openscad/blob/master/README.md"
+    }
+  },
+  {
+    "name": "RELEASE_NOTES.md",
+    "path": "RELEASE_NOTES.md",
+    "sha": "e18a810edfb1b1c084e497796b5de123de86e595",
+    "size": 21976,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/RELEASE_NOTES.md?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/RELEASE_NOTES.md",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/e18a810edfb1b1c084e497796b5de123de86e595",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/RELEASE_NOTES.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/RELEASE_NOTES.md?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/e18a810edfb1b1c084e497796b5de123de86e595",
+      "html": "https://github.com/openscad/openscad/blob/master/RELEASE_NOTES.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "8516daabedae94228c789411b2ebb23aa7943db9",
+    "size": 716,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/SECURITY.md?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/SECURITY.md",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/8516daabedae94228c789411b2ebb23aa7943db9",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/SECURITY.md?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/8516daabedae94228c789411b2ebb23aa7943db9",
+      "html": "https://github.com/openscad/openscad/blob/master/SECURITY.md"
+    }
+  },
+  {
+    "name": "appcast-snapshots.xml.in",
+    "path": "appcast-snapshots.xml.in",
+    "sha": "0447edf47604228d3a3447ecd9b382a4c5e24088",
+    "size": 943,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/appcast-snapshots.xml.in?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/appcast-snapshots.xml.in",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/0447edf47604228d3a3447ecd9b382a4c5e24088",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/appcast-snapshots.xml.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/appcast-snapshots.xml.in?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/0447edf47604228d3a3447ecd9b382a4c5e24088",
+      "html": "https://github.com/openscad/openscad/blob/master/appcast-snapshots.xml.in"
+    }
+  },
+  {
+    "name": "appcast.xml.in",
+    "path": "appcast.xml.in",
+    "sha": "5597aaf3e279cc2277d30152f994914de6092251",
+    "size": 927,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/appcast.xml.in?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/appcast.xml.in",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/5597aaf3e279cc2277d30152f994914de6092251",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/appcast.xml.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/appcast.xml.in?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/5597aaf3e279cc2277d30152f994914de6092251",
+      "html": "https://github.com/openscad/openscad/blob/master/appcast.xml.in"
+    }
+  },
+  {
+    "name": "cmake",
+    "path": "cmake",
+    "sha": "7f9c0665fd8476a85e69eb11458198a99a6e06c7",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/cmake?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/cmake",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/7f9c0665fd8476a85e69eb11458198a99a6e06c7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/cmake?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/7f9c0665fd8476a85e69eb11458198a99a6e06c7",
+      "html": "https://github.com/openscad/openscad/tree/master/cmake"
+    }
+  },
+  {
+    "name": "color-schemes",
+    "path": "color-schemes",
+    "sha": "4d829d5fc42420c1cfbc3abaf19ced896c3c7e1b",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/color-schemes?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/color-schemes",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/4d829d5fc42420c1cfbc3abaf19ced896c3c7e1b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/color-schemes?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/4d829d5fc42420c1cfbc3abaf19ced896c3c7e1b",
+      "html": "https://github.com/openscad/openscad/tree/master/color-schemes"
+    }
+  },
+  {
+    "name": "contrib",
+    "path": "contrib",
+    "sha": "dae9158283241e5ccbb2e640afa2063a34cb2b04",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/contrib?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/contrib",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/dae9158283241e5ccbb2e640afa2063a34cb2b04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/contrib?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/dae9158283241e5ccbb2e640afa2063a34cb2b04",
+      "html": "https://github.com/openscad/openscad/tree/master/contrib"
+    }
+  },
+  {
+    "name": "doc",
+    "path": "doc",
+    "sha": "421388c8c8c2649726708b426c847e3c332da600",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/doc?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/doc",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/421388c8c8c2649726708b426c847e3c332da600",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/doc?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/421388c8c8c2649726708b426c847e3c332da600",
+      "html": "https://github.com/openscad/openscad/tree/master/doc"
+    }
+  },
+  {
+    "name": "dsa_pub.pem",
+    "path": "dsa_pub.pem",
+    "sha": "f0aee275390b666f58289f6ceb0c32455a0aea22",
+    "size": 654,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/dsa_pub.pem?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/dsa_pub.pem",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/f0aee275390b666f58289f6ceb0c32455a0aea22",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/dsa_pub.pem",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/dsa_pub.pem?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/f0aee275390b666f58289f6ceb0c32455a0aea22",
+      "html": "https://github.com/openscad/openscad/blob/master/dsa_pub.pem"
+    }
+  },
+  {
+    "name": "examples",
+    "path": "examples",
+    "sha": "3db02ce8e8c514b9263fa1c6742df817fff79787",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/examples?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/examples",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/3db02ce8e8c514b9263fa1c6742df817fff79787",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/examples?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/3db02ce8e8c514b9263fa1c6742df817fff79787",
+      "html": "https://github.com/openscad/openscad/tree/master/examples"
+    }
+  },
+  {
+    "name": "fonts-osx",
+    "path": "fonts-osx",
+    "sha": "569e908c27e1cc4c037cf28b6365b79d1c79d255",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/fonts-osx?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/fonts-osx",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/569e908c27e1cc4c037cf28b6365b79d1c79d255",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/fonts-osx?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/569e908c27e1cc4c037cf28b6365b79d1c79d255",
+      "html": "https://github.com/openscad/openscad/tree/master/fonts-osx"
+    }
+  },
+  {
+    "name": "fonts",
+    "path": "fonts",
+    "sha": "6600ca64d23ba6183196ae0b13e01a21cc3a2f32",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/fonts?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/fonts",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/6600ca64d23ba6183196ae0b13e01a21cc3a2f32",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/fonts?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/6600ca64d23ba6183196ae0b13e01a21cc3a2f32",
+      "html": "https://github.com/openscad/openscad/tree/master/fonts"
+    }
+  },
+  {
+    "name": "libraries",
+    "path": "libraries",
+    "sha": "0868543815311b5291ed1dbfea04f1cf50f6cd50",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/libraries?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/libraries",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/0868543815311b5291ed1dbfea04f1cf50f6cd50",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/libraries?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/0868543815311b5291ed1dbfea04f1cf50f6cd50",
+      "html": "https://github.com/openscad/openscad/tree/master/libraries"
+    }
+  },
+  {
+    "name": "locale",
+    "path": "locale",
+    "sha": "10412c6254014c47c224640bfd1a6bf44a79751d",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/locale?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/locale",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/10412c6254014c47c224640bfd1a6bf44a79751d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/locale?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/10412c6254014c47c224640bfd1a6bf44a79751d",
+      "html": "https://github.com/openscad/openscad/tree/master/locale"
+    }
+  },
+  {
+    "name": "openscad.appdata.xml.in",
+    "path": "openscad.appdata.xml.in",
+    "sha": "1877f8ad7ae6dea39f6897e62d293e4a365673ea",
+    "size": 3424,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/openscad.appdata.xml.in?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/openscad.appdata.xml.in",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/1877f8ad7ae6dea39f6897e62d293e4a365673ea",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/openscad.appdata.xml.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/openscad.appdata.xml.in?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/1877f8ad7ae6dea39f6897e62d293e4a365673ea",
+      "html": "https://github.com/openscad/openscad/blob/master/openscad.appdata.xml.in"
+    }
+  },
+  {
+    "name": "org.openscad.OpenSCAD.xml",
+    "path": "org.openscad.OpenSCAD.xml",
+    "sha": "9b5d2d2ee2fe954855bc313610ddf371f6a12121",
+    "size": 2429,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/org.openscad.OpenSCAD.xml?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/org.openscad.OpenSCAD.xml",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/9b5d2d2ee2fe954855bc313610ddf371f6a12121",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/org.openscad.OpenSCAD.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/org.openscad.OpenSCAD.xml?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/9b5d2d2ee2fe954855bc313610ddf371f6a12121",
+      "html": "https://github.com/openscad/openscad/blob/master/org.openscad.OpenSCAD.xml"
+    }
+  },
+  {
+    "name": "patches",
+    "path": "patches",
+    "sha": "b01dea518bf3330b2cde6f345dac9b58a3486fd9",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/patches?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/patches",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/b01dea518bf3330b2cde6f345dac9b58a3486fd9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/patches?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/b01dea518bf3330b2cde6f345dac9b58a3486fd9",
+      "html": "https://github.com/openscad/openscad/tree/master/patches"
+    }
+  },
+  {
+    "name": "releases",
+    "path": "releases",
+    "sha": "ac15bd6de824548354af56f4a107ad36373cee4a",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/releases?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/releases",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/ac15bd6de824548354af56f4a107ad36373cee4a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/releases?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/ac15bd6de824548354af56f4a107ad36373cee4a",
+      "html": "https://github.com/openscad/openscad/tree/master/releases"
+    }
+  },
+  {
+    "name": "resources",
+    "path": "resources",
+    "sha": "0de3879bc8a6af8e3f7527dc4555c0aba83243c6",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/resources?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/resources",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/0de3879bc8a6af8e3f7527dc4555c0aba83243c6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/resources?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/0de3879bc8a6af8e3f7527dc4555c0aba83243c6",
+      "html": "https://github.com/openscad/openscad/tree/master/resources"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "0c3179d8af71b921da9d8585efcf42b2c5e24a20",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/scripts?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/scripts",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/0c3179d8af71b921da9d8585efcf42b2c5e24a20",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/scripts?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/0c3179d8af71b921da9d8585efcf42b2c5e24a20",
+      "html": "https://github.com/openscad/openscad/tree/master/scripts"
+    }
+  },
+  {
+    "name": "shaders",
+    "path": "shaders",
+    "sha": "fc42086eec3d847078995a18310cd406838ab2e8",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/shaders?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/shaders",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/fc42086eec3d847078995a18310cd406838ab2e8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/shaders?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/fc42086eec3d847078995a18310cd406838ab2e8",
+      "html": "https://github.com/openscad/openscad/tree/master/shaders"
+    }
+  },
+  {
+    "name": "snap",
+    "path": "snap",
+    "sha": "63de582c6df3abe329899599f50ec2f59e3bf5fb",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/snap?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/snap",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/63de582c6df3abe329899599f50ec2f59e3bf5fb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/snap?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/63de582c6df3abe329899599f50ec2f59e3bf5fb",
+      "html": "https://github.com/openscad/openscad/tree/master/snap"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "ef42ba6c3e32c7224f68ca86b7ea5e7c71d5d570",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/src?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/src",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/ef42ba6c3e32c7224f68ca86b7ea5e7c71d5d570",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/src?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/ef42ba6c3e32c7224f68ca86b7ea5e7c71d5d570",
+      "html": "https://github.com/openscad/openscad/tree/master/src"
+    }
+  },
+  {
+    "name": "submodules",
+    "path": "submodules",
+    "sha": "125f9edb2efecea0b4fd16a3cc02cc4947bc8a74",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/submodules?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/submodules",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/125f9edb2efecea0b4fd16a3cc02cc4947bc8a74",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/submodules?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/125f9edb2efecea0b4fd16a3cc02cc4947bc8a74",
+      "html": "https://github.com/openscad/openscad/tree/master/submodules"
+    }
+  },
+  {
+    "name": "templates",
+    "path": "templates",
+    "sha": "fc101b6b8584f37a22995ce2a504aaa4227fe9d5",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/templates?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/templates",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/fc101b6b8584f37a22995ce2a504aaa4227fe9d5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/templates?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/fc101b6b8584f37a22995ce2a504aaa4227fe9d5",
+      "html": "https://github.com/openscad/openscad/tree/master/templates"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "a8c3e7125fa5ab76da1cee57ce1b52a2b70df205",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/tests?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/tests",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/a8c3e7125fa5ab76da1cee57ce1b52a2b70df205",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/tests?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/a8c3e7125fa5ab76da1cee57ce1b52a2b70df205",
+      "html": "https://github.com/openscad/openscad/tree/master/tests"
+    }
+  },
+  {
+    "name": "valgrind.supp",
+    "path": "valgrind.supp",
+    "sha": "261b977fb146706bdb553341c085eb8153d9b063",
+    "size": 1037,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/valgrind.supp?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/valgrind.supp",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/261b977fb146706bdb553341c085eb8153d9b063",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/valgrind.supp",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/valgrind.supp?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/261b977fb146706bdb553341c085eb8153d9b063",
+      "html": "https://github.com/openscad/openscad/blob/master/valgrind.supp"
+    }
+  },
+  {
+    "name": "vcpkg.json",
+    "path": "vcpkg.json",
+    "sha": "56e6d1356a48047aa3ab618f717ebe3f0e708dbd",
+    "size": 321,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/vcpkg.json?ref=master",
+    "html_url": "https://github.com/openscad/openscad/blob/master/vcpkg.json",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/blobs/56e6d1356a48047aa3ab618f717ebe3f0e708dbd",
+    "download_url": "https://raw.githubusercontent.com/openscad/openscad/master/vcpkg.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/vcpkg.json?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/blobs/56e6d1356a48047aa3ab618f717ebe3f0e708dbd",
+      "html": "https://github.com/openscad/openscad/blob/master/vcpkg.json"
+    }
+  },
+  {
+    "name": "winconsole",
+    "path": "winconsole",
+    "sha": "7ba27d6347b20113c527b4bc7dcdf793d7227b77",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/winconsole?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/winconsole",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/7ba27d6347b20113c527b4bc7dcdf793d7227b77",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/winconsole?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/7ba27d6347b20113c527b4bc7dcdf793d7227b77",
+      "html": "https://github.com/openscad/openscad/tree/master/winconsole"
+    }
+  },
+  {
+    "name": "xcode",
+    "path": "xcode",
+    "sha": "2afc1295ad4082d28f63f002d09615a235c26163",
+    "size": 0,
+    "url": "https://api.github.com/repos/openscad/openscad/contents/xcode?ref=master",
+    "html_url": "https://github.com/openscad/openscad/tree/master/xcode",
+    "git_url": "https://api.github.com/repos/openscad/openscad/git/trees/2afc1295ad4082d28f63f002d09615a235c26163",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/openscad/openscad/contents/xcode?ref=master",
+      "git": "https://api.github.com/repos/openscad/openscad/git/trees/2afc1295ad4082d28f63f002d09615a235c26163",
+      "html": "https://github.com/openscad/openscad/tree/master/xcode"
+    }
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "fetched_at": "2026-09-05T07:15:00Z",
+  "pages": {
+    "draxul-repo": {
+      "url": "https://api.github.com/repos/cmaughan/Draxul",
+      "final": "https://api.github.com/repos/cmaughan/Draxul",
+      "status": 200,
+      "bytes": 5237,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/draxul-repo.json",
+      "json_summary": {
+        "full_name": "cmaughan/Draxul",
+        "stars": 67,
+        "forks": 3,
+        "license": null,
+        "desc": "\ud83e\ude78 A Dark Factory agentic project. A Universal console shell, city-as-code metaphor.  Cross platform Vulkan and Metal, PC & Mac.  Powershell, Neovim GUI RPC, Bash, Zsh; any shell you like, it will host it.  The City is an HDR graphics pipeline.",
+        "homepage": "",
+        "message": null
+      }
+    },
+    "ponytail-repo": {
+      "url": "https://api.github.com/repos/DietrichGebert/ponytail",
+      "final": "https://api.github.com/repos/DietrichGebert/ponytail",
+      "status": 200,
+      "bytes": 5713,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/ponytail-repo.json",
+      "json_summary": {
+        "full_name": "DietrichGebert/ponytail",
+        "stars": 126322,
+        "forks": 6773,
+        "license": "MIT",
+        "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "homepage": "https://ponytail.dev",
+        "message": null
+      }
+    },
+    "pocock-skills-dir": {
+      "url": "https://api.github.com/repos/mattpocock/skills/contents/skills",
+      "final": "https://api.github.com/repos/mattpocock/skills/contents/skills",
+      "status": 200,
+      "bytes": 3499,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/pocock-skills-dir.json",
+      "json_summary": {
+        "count": 5,
+        "names": [
+          "deprecated",
+          "engineering",
+          "in-progress",
+          "misc",
+          "productivity"
+        ]
+      }
+    },
+    "pocock-productivity": {
+      "url": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity",
+      "final": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity",
+      "status": 200,
+      "bytes": 6225,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/pocock-productivity.json",
+      "json_summary": {
+        "count": 8,
+        "names": [
+          "README.md",
+          "grill-me",
+          "grilling",
+          "handoff",
+          "teach",
+          "to-questionnaire",
+          "wait-what",
+          "writing-for-agents"
+        ]
+      }
+    },
+    "pocock-grill-me-raw": {
+      "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grill-me/SKILL.md",
+      "final": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grill-me/SKILL.md",
+      "status": 200,
+      "bytes": 157,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 155,
+      "has": {
+        "bugatti": false,
+        "w16": false,
+        "three.js": false,
+        "4 min": false,
+        "hailuo": false
+      }
+    },
+    "pocock-grilling-raw": {
+      "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grilling/SKILL.md",
+      "final": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grilling/SKILL.md",
+      "status": 200,
+      "bytes": 1987,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 1733,
+      "has": {
+        "bugatti": false,
+        "w16": false,
+        "three.js": false,
+        "4 min": false,
+        "hailuo": false
+      }
+    },
+    "pocock-wayfinder": {
+      "url": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/wayfinder",
+      "final": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/wayfinder",
+      "status": 404,
+      "bytes": 127,
+      "ctype": "application/json; charset=utf-8",
+      "error": "HTTPError 404",
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/pocock-wayfinder.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "message": "Not Found"
+      }
+    },
+    "pocock-handoff": {
+      "url": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/handoff",
+      "final": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/handoff",
+      "status": 200,
+      "bytes": 1673,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/pocock-handoff.json",
+      "json_summary": {
+        "count": 2,
+        "names": [
+          "SKILL.md",
+          "agents"
+        ]
+      }
+    },
+    "pocock-ask-matt": {
+      "url": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/ask-matt",
+      "final": "https://api.github.com/repos/mattpocock/skills/contents/skills/productivity/ask-matt",
+      "status": 404,
+      "bytes": 127,
+      "ctype": "application/json; charset=utf-8",
+      "error": "HTTPError 404",
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/pocock-ask-matt.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "message": "Not Found"
+      }
+    },
+    "antigravity-blog-37": {
+      "url": "https://antigravity.google/blog/gemini-3-7-flash-in-google-antigravity",
+      "final": "https://antigravity.google/blog/gemini-3-7-flash-in-google-antigravity",
+      "status": 200,
+      "bytes": 105119,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Gemini 3.7 Flash in Google Antigravity | Google Antigravity Blog",
+      "visible_len": 3728,
+      "has": {
+        "bugatti": false,
+        "w16": false,
+        "three.js": false,
+        "4 min": false,
+        "hailuo": false
+      }
+    },
+    "antigravity-www-blog-37": {
+      "url": "https://www.antigravity.google/blog/gemini-3-7-flash-in-google-antigravity",
+      "final": "https://www.antigravity.google/blog/gemini-3-7-flash-in-google-antigravity",
+      "status": 200,
+      "bytes": 105119,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Gemini 3.7 Flash in Google Antigravity | Google Antigravity Blog",
+      "visible_len": 3728,
+      "has": {
+        "bugatti": false,
+        "w16": false,
+        "three.js": false,
+        "4 min": false,
+        "hailuo": false
+      }
+    },
+    "antigravity-docs": {
+      "url": "https://antigravity.google/docs",
+      "final": "https://antigravity.google/docs",
+      "status": 200,
+      "bytes": 371,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Redirecting to: /docs/getting-started",
+      "visible_len": 48,
+      "has": {
+        "bugatti": false,
+        "w16": false,
+        "three.js": false,
+        "4 min": false,
+        "hailuo": false
+      }
+    },
+    "nurb-github-search": {
+      "url": "https://api.github.com/search/repositories?q=nurb.dev+OR+nurb+cad&per_page=5",
+      "final": "https://api.github.com/search/repositories?q=nurb.dev+OR+nurb+cad&per_page=5",
+      "status": 200,
+      "bytes": 26824,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover14-2026-09-05/nurb-github-search.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "forks": null,
+        "license": null,
+        "desc": "",
+        "homepage": null,
+        "message": null
+      }
+    }
+  }
+}
