@@ -49,6 +49,16 @@
       "evidence_ref": "analysis/tools/claude-skills-free.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093654908322951447#c3",
+      "text": "leftover22 unused how-to-ai.guide 301s to ruben.substack.com 96,312 B. Title How to AI | Ruben Hassid | Substack. Markets Over 925,000 subscribers. Not a skill-pack host and not claude-skills.free. Eleven named /writer skills stay on the tweet + gated library page.",
+      "kind": "availability",
+      "evidence": "leftover22 how-to-ai 96312 B final ruben.substack.com. Quote: Over 925,000 subscribers.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/claude-skills-free.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -66,7 +76,8 @@
     "paper": null,
     "product": "http://claude-skills.free",
     "other": [
-      "http://how-to-ai.guide"
+      "http://how-to-ai.guide",
+      "https://ruben.substack.com/"
     ],
     "related_items": []
   },

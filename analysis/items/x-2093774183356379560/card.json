@@ -3,7 +3,7 @@
   "id": "x-2093774183356379560",
   "source_type": "x",
   "url": "https://x.com/jonathan_wilke/status/2093774183356379560",
-  "title": "unive.ai shoutout — web design reference from Outbid top 3",
+  "title": "unive.ai shoutout \u2014 web design reference from Outbid top 3",
   "author": {
     "name": null,
     "handle": "jonathan_wilke",
@@ -55,6 +55,16 @@
       "text": "Live unive.ai is 200 / 379,018 B titled Unive - Your AI Admissions Team. og:description is Personalized AI admissions help for essays, scholarships, and university selection. Treat it as an admissions product landing, not a design-system gallery.",
       "kind": "availability",
       "evidence": "GET https://unive.ai/ 200. Title and og:description on analysis/_work/captures/unive-ai-2026-09-04.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/subjects/landing-ui-motion/worksheet.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2093774183356379560#c4",
+      "text": "leftover22 unused outbid.lol is HTTP 429 / 32,182 B Vercel Security Checkpoint. Top-3 listing for unive.ai stays tweet-only. Do not hammer. unive.ai admissions landing already on #c3.",
+      "kind": "availability",
+      "evidence": "leftover22 outbid 429 32182 B title Vercel Security Checkpoint.",
       "evidence_source": "note",
       "evidence_ref": "analysis/subjects/landing-ui-motion/worksheet.md",
       "confidence": "demonstrated",

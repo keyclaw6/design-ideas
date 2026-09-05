@@ -12,4 +12,6 @@ Clone `https://github.com/Vincentwei1021/video-shotcraft.git` (7459 stars). READ
 **2026-09-05 capture — GitHub API.** `Vincentwei1021/video-shotcraft` Apache-2.0, **7,484** stars. API description still says **152** shot recipe cards. Do not collapse 152 / 157 / 214. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 
 Neighbor (filmmaker refs): sesohq.com **378,288 B** Shopify design-asset shop; tapir.gg **1,459 B** empty; eyecannndy.com **403**. Receipt `analysis/_work/captures/leftover2-2026-09-05.json`.
+
+**2026-09-05 leftover22.** Unused `tapirconvert.com/video-upscaler` **403 / 5,513 B** Cloudflare challenge. Different host from tapir.gg. Free 2× no-login stays tweet-only. Do not hammer. Receipt `leftover22-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -11,6 +11,7 @@
 **Claims.**
 - `github-google-labs-code-design-md#c1` (capability, stated) DESIGN.md combines YAML front matter tokens with markdown prose so agents get exact values and application rationale. — evidence: "Tokens give agents exact values; prose tells them why and how to apply them." [linked-page]
 - `github-google-labs-code-design-md#c2` (capability, stated) CLI supports lint for WCAG contrast and token validation plus diff to compare design system versions. — evidence: "CLI: `npx @google/design.md lint DESIGN.md` — WCAG contrast, token validation" [linked-page]
+- `github-google-labs-code-design-md#c3` (availability, demonstrated) leftover22 GitHub API google-labs-code/design.md Apache-2.0 27,737★. Spec + lint/diff CLI claims stay on #c1/#c2 (linked-page). Star count was not previously on-card. — evidence: "leftover22 gh-design-md 27737 Apache-2.0." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md), [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md)

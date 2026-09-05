@@ -28,14 +28,14 @@
   "platforms": [
     "browser"
   ],
-  "summary": "Short X list recommending eyecannndy.com for camera techniques, Sesohq moodboards, and Tapir Convert's free 2× video upscaler as practical AI filmmaker bookmarks.",
+  "summary": "Short X list recommending eyecannndy.com for camera techniques, Sesohq moodboards, and Tapir Convert's free 2\u00d7 video upscaler as practical AI filmmaker bookmarks.",
   "question_it_answers": "Which free sites cover camera technique refs, moodboards, and video upscaling for AI film?",
   "claims": [
     {
       "id": "x-2093986548404428942#c1",
       "text": "Thread recommends Eyecannndy for camera techniques and Sesohq for moodboard inspiration.",
       "kind": "capability",
-      "evidence": "🎥 http://eyecannndy.com — camera techniques",
+      "evidence": "\ud83c\udfa5 http://eyecannndy.com \u2014 camera techniques",
       "evidence_source": "post",
       "evidence_ref": null,
       "confidence": "stated",
@@ -43,9 +43,9 @@
     },
     {
       "id": "x-2093986548404428942#c2",
-      "text": "Tapir Convert offers free 2× video upscaling without login.",
+      "text": "Tapir Convert offers free 2\u00d7 video upscaling without login.",
       "kind": "capability",
-      "evidence": "http://tapirconvert.com/video-upscaler — FREE 2× video upscaling, no login",
+      "evidence": "http://tapirconvert.com/video-upscaler \u2014 FREE 2\u00d7 video upscaling, no login",
       "evidence_source": "post",
       "evidence_ref": null,
       "confidence": "stated",
@@ -60,6 +60,16 @@
       "confidence": "demonstrated",
       "subject": "blockout-to-video-flythrough",
       "id": "x-2093986548404428942#c3"
+    },
+    {
+      "id": "x-2093986548404428942#c4",
+      "text": "leftover22 unused tapirconvert.com/video-upscaler is HTTP 403 / 5,513 B Cloudflare challenge (Just a moment\u2026). Prior leftover tapir.gg 1,459 B empty body is a different host. Free 2\u00d7 no-login stays tweet-only. Do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover22 tapirconvert 403 5513 B. leftover #c3 tapir.gg 1459 B empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/video-shotcraft.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],

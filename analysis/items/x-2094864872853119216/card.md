@@ -14,6 +14,7 @@
 → spark.js  
 → three.js" [post]
 - `x-2094864872853119216#c3` (result, demonstrated) World Labs publishes unauthenticated example exports: rustic-kitchen collider GLB 2,976,256 bytes, 500k SPZ 7,582,907 bytes, and a 3,860,086-byte 360 PNG. — evidence: "GET wlt-ai-cdn.art/example_exports/rustic_kitchen_with_natural_light/{collider.glb,500k.spz,pano.png} HTTP 200; glTF magic / gzip / PNG signatures." [note]
+- `x-2094864872853119216#c4` (capability, demonstrated) leftover22 unused Spark pages: sparkjs.dev 19,204 B MkDocs (formats ply/sogs/spz/splat/ksplat). worldlabs.ai/blog/spark-2.0 770,998 B first-party LoD + .RAD streaming + 16M-splat GPU page table; example spaceship 6M splats; Starspeed 100,000,000+; captured scenes up to 40M; render budget 500K–2.5M. xrarchitect.xyz 2,689 B title Portfolio - Ian Curtis (visible empty). Do not treat Spark as a mesh exporter. — evidence: "leftover22 sparkjs 19204 B; spark-20-blog 770998 B; xrarchitect 2689 B." [note]
 **Numbers.** video views at capture: 19490  (note); rustic-kitchen collider GLB: 2976256 bytes (note); rustic-kitchen 500k SPZ: 7582907 bytes (note)
 **Recipe.** —
 **Techniques.** [image-to-3d-worldgen](../../techniques/image-to-3d-worldgen.md), [splat-pipeline](../../techniques/splat-pipeline.md)

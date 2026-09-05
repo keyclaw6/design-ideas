@@ -47,7 +47,7 @@
       "id": "x-2094864872853119216#c2",
       "text": "Pipeline names atlas (World Labs), spark.js splat renderer, and three.js as the web stack.",
       "kind": "recipe",
-      "evidence": "→ atlas (world labs)  \n→ spark.js  \n→ three.js",
+      "evidence": "\u2192 atlas (world labs)  \n\u2192 spark.js  \n\u2192 three.js",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -60,6 +60,16 @@
       "evidence": "GET wlt-ai-cdn.art/example_exports/rustic_kitchen_with_natural_light/{collider.glb,500k.spz,pano.png} HTTP 200; glTF magic / gzip / PNG signatures.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/atlas.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2094864872853119216#c4",
+      "text": "leftover22 unused Spark pages: sparkjs.dev 19,204 B MkDocs (formats ply/sogs/spz/splat/ksplat). worldlabs.ai/blog/spark-2.0 770,998 B first-party LoD + .RAD streaming + 16M-splat GPU page table; example spaceship 6M splats; Starspeed 100,000,000+; captured scenes up to 40M; render budget 500K\u20132.5M. xrarchitect.xyz 2,689 B title Portfolio - Ian Curtis (visible empty). Do not treat Spark as a mesh exporter.",
+      "kind": "capability",
+      "evidence": "leftover22 sparkjs 19204 B; spark-20-blog 770998 B; xrarchitect 2689 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/spark-js.md",
       "confidence": "demonstrated",
       "subject": "image-to-3d-world"
     }

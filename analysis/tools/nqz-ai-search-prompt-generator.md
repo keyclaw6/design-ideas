@@ -6,5 +6,5 @@
 - [nqz.ai free AI Search Prompt Generator for GEO pre-awareness queries](../items/web-nqz-ai-search-prompt-generator/card.md) — tool, technique — serp-ai-visibility
 
 <!-- NOTES:START -->
-
+**2026-09-05 leftover22.** `https://nqz.ai/ai-search-prompt-generator` GET 200 / **36,810 B**. Title Free AI Search Prompt Generator — ChatGPT & Perplexity Prompts For Your Business | nqzai. First-party: **4** topics × **3** intents; no brand names; **10** generations/hour; no login; Immortal Reality PA LLC. Not a citation tracker. Receipt `leftover22-2026-09-05.json`.
 <!-- NOTES:END -->

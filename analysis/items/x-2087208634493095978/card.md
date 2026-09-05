@@ -12,11 +12,12 @@
 - `x-2087208634493095978#c1` (capability, stated) Memoria versions AI agent memory with snapshots, branches, and merges. — evidence: "Version controls AI agent memory with snapshots, branches, and merges" [post]
 - `x-2087208634493095978#c2` (capability, stated) README positions Memoria as the first git for AI agent memory with zero-copy branching on MatrixOne. — evidence: "The World's First Git for AI Agent Memory" [media]
 - `x-2087208634493095978#c3` (availability, demonstrated) github.com/matrixorigin/Memoria Apache-2.0, 593 stars this pass. Description: Secure memory management for AI Agents. Root dirs include memoria/, sdk/, skills/, plugins/, benchmarks/, docs/. Matches a memory product, not a tweet-only name. — evidence: "GitHub API 2026-09-05: 593 stars Apache-2.0." [note]
+- `x-2087208634493095978#c4` (counter-claim, demonstrated) leftover22 unused arXiv 2604.03927 abs 41,988 B is Version Control System for Data with MatrixOne (cs.DB; Gou/Tian/Wang/Deng/Xu; 5 Apr 2026; PDF 117 KB). First-party: git-like clone/tag/branch/diff/merge/revert on terabyte tables via MatrixOne MVCC. Not an agent-memory paper — do not collapse with tweet/README “World’s First Git for AI Agent Memory” or GH 593★. — evidence: "leftover22 memoria-abs 41988 B. Title: Version Control System for Data with MatrixOne." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [filesystem-context-memory](../../techniques/filesystem-context-memory.md)
 **Tools.** [memoria](../../tools/memoria.md)
-**Links.** repo (https://github.com/matrixorigin/Memoria), paper (https://arxiv.org/abs/2604.03927)
+**Links.** repo (https://github.com/matrixorigin/Memoria), paper (https://arxiv.org/abs/2604.03927), https://arxiv.org/abs/2604.03927
 **Related items.** [x-2087143369181114868](../x-2087143369181114868/card.md), [x-2086920236079681607](../x-2086920236079681607/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
 **Media.**
 `raw/items/x-2087208634493095978/media/media_0.jpg` (image, carries_technique=false) — Memoria README header showing tree logo, v0.4.0 badge, MCP tag, and overview of git-like memory snapshots and semantic search features.

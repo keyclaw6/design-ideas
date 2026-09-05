@@ -69,7 +69,7 @@
       "subject": "infographics-diagrams"
     },
     {
-      "text": "known.agency 200 / 965,519 B. Title known.agency — #1 AI Search Optimization Agency. H1 Search Everywhere Optimisation. First-party: Dominate Google, AI, and Reddit; AI Search Optimization earn citations. Ranking language “#1” is vendor copy. AEO/GEO strings absent; citation is service copy, not a tracker export.",
+      "text": "known.agency 200 / 965,519 B. Title known.agency \u2014 #1 AI Search Optimization Agency. H1 Search Everywhere Optimisation. First-party: Dominate Google, AI, and Reddit; AI Search Optimization earn citations. Ranking language \u201c#1\u201d is vendor copy. AEO/GEO strings absent; citation is service copy, not a tracker export.",
       "kind": "availability",
       "evidence": "GET 200 https://known.agency 965519 B.",
       "evidence_source": "note",
@@ -77,6 +77,16 @@
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility",
       "id": "x-2094771557864292784#c3"
+    },
+    {
+      "id": "x-2094771557864292784#c4",
+      "text": "leftover22 unused nqz.ai/ai-search-prompt-generator 36,810 B. First-party: 4 topics \u00d7 3 intents; no brand names; 10 generations/hour; no login; Immortal Reality PA LLC. Matches the dedicated web card\u2019s stated 4\u00d73 / 10/hour. Not a citation tracker and not Known Agency\u2019s five-layer SEO stack.",
+      "kind": "capability",
+      "evidence": "leftover22 nqz-generator 36810 B. Quote: Limited to 10 generations/hour per visitor.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/nqz-ai-search-prompt-generator.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "links": {

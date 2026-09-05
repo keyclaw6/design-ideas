@@ -9,4 +9,6 @@
 Fetched 2026-09-04 https://sparkjs.dev/
 
 World Labs **Three.js Gaussian splat renderer**. Homepage: integrate splats with other meshes; “fast rendering on all devices”; programmable dynamic splat effects. Formats named: **ply, sogs, spz, splat, ksplat**. Repo https://github.com/sparkjsdev/spark — **MIT**, npm `@sparkjsdev/spark`, `SparkRenderer` + `SplatMesh`. Targets WebGL2 (~98%). Spark 2.0 blog (worldlabs.ai/blog/spark-2.0): LOD that follows gaze, `.RAD` streaming format, virtual splat paging with fixed GPU memory. This is a web viewer/runtime, not a mesh exporter. Marble docs point here for custom web/VR apps.
+
+**2026-09-05 leftover22 re-fetch.** `sparkjs.dev` **19,204 B**. `worldlabs.ai/blog/spark-2.0` **770,998 B**: LoD + `.RAD` + **16M**-splat GPU page table; spaceship **6M**; Starspeed **100,000,000+**; captured scenes up to **40M**; render budget **500K–2.5M**. Neighbor `xrarchitect.xyz` **2,689 B** title Portfolio - Ian Curtis (visible empty). Receipt `leftover22-2026-09-05.json`.
 <!-- NOTES:END -->

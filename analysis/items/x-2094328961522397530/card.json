@@ -52,14 +52,14 @@
       "id": "x-2094328961522397530#c3",
       "text": "A free dofollow backlink requires embedding the TinyShelf badge.",
       "kind": "recipe",
-      "evidence": "You do need to embed our badge to get the dofollow link 🙏",
+      "evidence": "You do need to embed our badge to get the dofollow link \ud83d\ude4f",
       "evidence_source": "quoted-post",
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "serp-ai-visibility"
     },
     {
-      "text": "tinyshelf.co/tools/tinyshots 200 / 7,594 B listing is live (Photo, Video & Audio). tinyshots.app 200 / 70,112 B: $39 early-bird, 97 spots left, then $49; one-time; macOS Sonoma 14+; fully offline. No Ahrefs/Moz DR integer on either page. Tweet DR 11→46 stays tweet-only.",
+      "text": "tinyshelf.co/tools/tinyshots 200 / 7,594 B listing is live (Photo, Video & Audio). tinyshots.app 200 / 70,112 B: $39 early-bird, 97 spots left, then $49; one-time; macOS Sonoma 14+; fully offline. No Ahrefs/Moz DR integer on either page. Tweet DR 11\u219246 stays tweet-only.",
       "kind": "pricing",
       "evidence": "GET 200 tinyshots.app 70112 B $39 / 97 spots / $49. Listing 7594 B. DR absent.",
       "evidence_source": "note",
@@ -67,6 +67,16 @@
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility",
       "id": "x-2094328961522397530#c4"
+    },
+    {
+      "id": "x-2094328961522397530#c5",
+      "text": "leftover22 unused tinylaunch.com/directories 106,620 B. Title List of Product Directories (Free). Live list Showing 15 of 691. Paid 110-directory package $279 one-time; 30,000+ makers; Flashcard Buddy DR 7\u219230 still vendor copy. TinyShots DR 11\u219246 stays tweet-only. Do not collapse TinyLaunch 691-dir list with TinyShelf 122 outgoing dofollow.",
+      "kind": "pricing",
+      "evidence": "leftover22 tinylaunch-dirs 106620 B. Quote: Showing 15 of 691; 110 Directories $279.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/tinyshots.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],

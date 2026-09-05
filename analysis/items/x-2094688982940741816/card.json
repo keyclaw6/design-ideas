@@ -57,6 +57,16 @@
       "evidence_ref": "analysis/tools/seo-skill-cli.md",
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2094688982940741816#c4",
+      "text": "leftover22 unused hridoyreh.com 77,652 B. Title Hridoy Reh - An SEO / AI SEO Specialist. Markets 650M+ visitors / $149M+ revenue / 78+ websites / 200+ people. Names seowins.io (already 403 \u2014 do not hammer). 1,190 Brave sessions / 1.34% stay on the analytics screenshot. Not a GSC export.",
+      "kind": "availability",
+      "evidence": "leftover22 hridoyreh 77652 B. Quote: 650M+ visitors and $149M+ in revenue.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,
@@ -91,7 +101,8 @@
     "paper": null,
     "product": "https://search.brave.com/submit-url",
     "other": [
-      "https://seowins.io/"
+      "https://seowins.io/",
+      "https://hridoyreh.com/"
     ],
     "related_items": [
       "web-brave-submit-url"

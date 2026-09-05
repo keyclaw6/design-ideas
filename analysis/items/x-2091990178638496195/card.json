@@ -30,7 +30,7 @@
   "id": "x-2091990178638496195",
   "source_type": "x",
   "url": "https://x.com/andykonwinski/status/2091990178638496195",
-  "title": "Headlong — open microharness for always-on persistent agents",
+  "title": "Headlong \u2014 open microharness for always-on persistent agents",
   "author": {
     "name": "Andy Konwinski",
     "handle": "andykonwinski",
@@ -52,7 +52,7 @@
   "platforms": [
     "cli"
   ],
-  "summary": "Headlong is an open-source Bash microharness (<10K LOC) where agents generate continuous inner thoughts, accept Slack/Telegram messages as observations, and self-direct fixes — installable via curl from headlong.ai.",
+  "summary": "Headlong is an open-source Bash microharness (<10K LOC) where agents generate continuous inner thoughts, accept Slack/Telegram messages as observations, and self-direct fixes \u2014 installable via curl from headlong.ai.",
   "question_it_answers": "How does a persistent agent harness differ from reactive task-completion loops?",
   "claims": [
     {
@@ -80,6 +80,16 @@
       "text": "cloc 1.98 on Headlong bin/ + thinkers/ reports 9,912 code / 2,600 comment / 1,351 blank (22 files). Do not collapse with README ~11K (capped 11.5K) or wc -l 13,947.",
       "kind": "benchmark",
       "evidence": "cloc 1.98: Bourne Again 9468 + Bourne 376 + MD 65 + JSON 3 = 9912 code. wc -l on the same dirs was 13,947.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/headlong.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2091990178638496195#c4",
+      "text": "leftover22 unused Laude post is first-party 227,836 B (Aug 24, 2026). Official body still says core less than 10K / 9.9K lines in bin/ + thinkers/ \u2014 do not collapse with cloc 9,912 code or wc 13,947 already on #c3. $1\u20132/hour background (GLM or Grok) is first-party. install.sh 25,935 B clones laude-institute/headlong to ~/.headlong/app; BIN_TOOLS 10 + AUX_TOOLS 13; default dash :8080 in Docker path.",
+      "kind": "availability",
+      "evidence": "leftover22 laude-headlong 227836 B; headlong-install 25935 B. Quote: The core of Headlong is currently less than 10K lines of Bash (9.9K lines in bin/ and thinkers/).",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/headlong.md",
       "confidence": "demonstrated",

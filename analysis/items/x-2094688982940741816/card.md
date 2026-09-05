@@ -12,11 +12,12 @@
 - `x-2094688982940741816#c1` (recipe, stated) Brave submit flow is three steps: open search.brave.com/submit-url, enter the URL, and press Submit. — evidence: "Go to search∙brave∙com/submit-url." [quoted-post]
 - `x-2094688982940741816#c2` (result, stated) Analytics screenshot highlights search.brave.com referral at 1,190 sessions (1.34%) on an 88,974-session total. — evidence: "search.brave.com / referral 1,190 (1.34%)" [media]
 - `x-2094688982940741816#c3` (availability, demonstrated) Brave submit-url is HTTP 429 / 73,802 B this bank; seowins.io is HTTP 403. 1,190 sessions / 1.34% of 88,974 stay on the analytics screenshot. Do not hammer either host. — evidence: "mustread-retry.json brave 429; leftover-2026-09-05.json seowins 403. leftover18 attach." [note]
+- `x-2094688982940741816#c4` (availability, demonstrated) leftover22 unused hridoyreh.com 77,652 B. Title Hridoy Reh - An SEO / AI SEO Specialist. Markets 650M+ visitors / $149M+ revenue / 78+ websites / 200+ people. Names seowins.io (already 403 — do not hammer). 1,190 Brave sessions / 1.34% stay on the analytics screenshot. Not a GSC export. — evidence: "leftover22 hridoyreh 77652 B. Quote: 650M+ visitors and $149M+ in revenue." [note]
 **Numbers.** Brave referral sessions: 1190 sessions (media); Brave referral share: 1.34 percent (media); total sessions in table: 88974 sessions (media)
 **Recipe.** —
 **Techniques.** [alternate-engine-indexing](../../techniques/alternate-engine-indexing.md), [alternate-engine-indexing](../../techniques/alternate-engine-indexing.md)
 **Tools.** —
-**Links.** product (https://search.brave.com/submit-url), https://seowins.io/
+**Links.** product (https://search.brave.com/submit-url), https://seowins.io/, https://hridoyreh.com/
 **Related items.** [web-brave-submit-url](../web-brave-submit-url/card.md)
 **Media.**
 `raw/items/x-2094688982940741816/media/photo.jpg` (image, carries_technique=true) — Dark analytics table ranking source/medium rows; search.brave.com/referral shows 1,190 visitors at 1.34% of 88,974 total sessions with a yellow arrow highlight.

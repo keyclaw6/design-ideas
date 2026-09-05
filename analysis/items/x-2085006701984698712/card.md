@@ -14,6 +14,7 @@
 → Leave comments for AI like a Google Doc" [post]
 - `x-2085006701984698712#c2` (capability, stated) Review loop runs locally with no cloud upload. — evidence: "The whole review loop runs locally, so your data is safe and nothing is uploaded to the cloud." [post]
 - `x-2085006701984698712#c3` (availability, demonstrated) github.com/petergyang/human-review MIT, 1,228 stars / 97 forks. Description: visual tool to edit HTML and Markdown and leave comments like a Google Doc. Tree has src/, test/, design-ref/. Matches the local visual-editor skill, not a DESIGN.md library. — evidence: "GitHub API 2026-09-05: 1228 stars license MIT." [note]
+- `x-2085006701984698712#c4` (recipe, demonstrated) leftover22 unused creatoreconomy.so essay is first-party 207,273 B (Aug 05, 2026). Title Use My /Human-Review Skill to Edit HTML and Markdown Files like A Google Doc. Install is a paste into Codex/Claude Code; editor is local server; agent waits in 10-minute windows; HTML edits autosave; Markdown/localhost need Send. Credits Kun/Lavish. Paid upsell is 12+ more skills. Matches local-loop tweet; not a DESIGN.md library. — evidence: "leftover22 creatoreconomy-human-review 207273 B. Quote: Because the whole review loop runs locally, /human-review doesn’t require an account or API key." [note]
 **Numbers.** /no-ai-slop GitHub stars cited: 4000  (post)
 **Recipe.** —
 **Techniques.** [screenshot-verify-loop](../../techniques/screenshot-verify-loop.md), [taste-skill-encoding](../../techniques/taste-skill-encoding.md)

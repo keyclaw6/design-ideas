@@ -95,7 +95,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2091688420695564296#c1` | The showcased animation is fully pixel-editable because it was built with the Motion harness. | stated | [Motion harness demo with fully editab…](../../items/x-2091688420695564296/card.md) |
 | `x-2092040265234260091#c1` | Workflow uses AE rough comps and GPT-generated material images as H3 references for generation and revision loops. | stated | [After Effects rough comps as MiniMax …](../../items/x-2092040265234260091/card.md) |
 
-Full set: claims.jsonl (35 rows)
+Full set: claims.jsonl (36 rows)
 
 ## code-motion-graphics — comparison axes
 

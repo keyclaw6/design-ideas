@@ -1,0 +1,241 @@
+{
+  "fetched_at": "2026-09-05T09:20:00Z",
+  "pages": {
+    "creatoreconomy-human-review": {
+      "url": "https://creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually",
+      "final": "https://creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually",
+      "status": 200,
+      "bytes": 207273,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Use My /Human-Review Skill to Edit HTML and Markdown Files like A Google Doc",
+      "visible_len": 5413
+    },
+    "laude-headlong": {
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "final": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "status": 200,
+      "bytes": 227836,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Headlong: a microharness for persistent agents // Laude",
+      "visible_len": 18737
+    },
+    "headlong-install": {
+      "url": "https://headlong.ai/install.sh",
+      "final": "https://raw.githubusercontent.com/laude-institute/headlong/main/install.sh",
+      "status": 200,
+      "bytes": 25935,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 21354
+    },
+    "sparkjs": {
+      "url": "https://sparkjs.dev",
+      "final": "https://sparkjs.dev",
+      "status": 200,
+      "bytes": 19204,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Home - Spark",
+      "visible_len": 670
+    },
+    "spark-20-blog": {
+      "url": "https://www.worldlabs.ai/blog/spark-2.0",
+      "final": "https://www.worldlabs.ai/blog/spark-2.0",
+      "status": 200,
+      "bytes": 770998,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Streaming 3DGS worlds on the web | World Labs",
+      "visible_len": 31851
+    },
+    "xrarchitect": {
+      "url": "https://xrarchitect.xyz",
+      "final": "https://xrarchitect.xyz",
+      "status": 200,
+      "bytes": 2689,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Portfolio - Ian Curtis",
+      "visible_len": 0
+    },
+    "how-to-ai": {
+      "url": "https://how-to-ai.guide",
+      "final": "https://ruben.substack.com/?no_skip=1&utm_content=apex-pass&showWelcome=true",
+      "status": 200,
+      "bytes": 96312,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "How to AI | Ruben Hassid | Substack",
+      "visible_len": 461
+    },
+    "outbid": {
+      "url": "https://outbid.lol",
+      "final": "https://outbid.lol",
+      "status": 429,
+      "bytes": 32182,
+      "ctype": "text/html; charset=utf-8",
+      "error": "HTTPError 429",
+      "title": "Vercel Security Checkpoint",
+      "visible_len": 140
+    },
+    "tapirconvert": {
+      "url": "https://tapirconvert.com/video-upscaler",
+      "final": "https://tapirconvert.com/video-upscaler",
+      "status": 403,
+      "bytes": 5513,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 403",
+      "title": "Just a moment...",
+      "visible_len": 0
+    },
+    "tco-namethatui": {
+      "url": "https://t.co/KYuOOs0GhP",
+      "final": "https://toolfolio.com/tools/name-that-ui",
+      "status": 200,
+      "bytes": 408882,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Name That UI | Toolfolio",
+      "visible_len": 2185
+    },
+    "keep-md": {
+      "url": "https://keep.md",
+      "final": "https://keep.md",
+      "status": 200,
+      "bytes": 191347,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Keep anything as Markdown for your AI agents",
+      "visible_len": 14106
+    },
+    "ian-is": {
+      "url": "https://ian.is",
+      "final": "https://ian.is",
+      "status": 200,
+      "bytes": 62453,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Ian Nuttall - Marketer, AI Software Engineer and Entrepreneur",
+      "visible_len": 1237
+    },
+    "memoria-abs": {
+      "url": "https://arxiv.org/abs/2604.03927",
+      "final": "https://arxiv.org/abs/2604.03927",
+      "status": 200,
+      "bytes": 41988,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "[2604.03927] Version Control System for Data with MatrixOne",
+      "visible_len": 4713
+    },
+    "pi-gippity-readme": {
+      "url": "https://raw.githubusercontent.com/IgorWarzocha/howaboua-pi-stuff/main/packages/pi-gippity-control/README.md",
+      "final": "https://raw.githubusercontent.com/IgorWarzocha/howaboua-pi-stuff/main/packages/pi-gippity-control/README.md",
+      "status": 200,
+      "bytes": 3878,
+      "ctype": "text/plain; charset=utf-8",
+      "error": null,
+      "title": null,
+      "visible_len": 3808
+    },
+    "gh-bonsai-demo": {
+      "url": "https://api.github.com/repos/PrismML-Eng/Bonsai-demo",
+      "final": "https://api.github.com/repos/PrismML-Eng/Bonsai-demo",
+      "status": 200,
+      "bytes": 6530,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover22-2026-09-05/gh-bonsai-demo.json",
+      "json_summary": {
+        "full_name": "PrismML-Eng/Bonsai-demo",
+        "stars": 2272,
+        "license": "Apache-2.0",
+        "description": "Bonsai Demo",
+        "tag_name": null,
+        "name": "Bonsai-demo",
+        "body": ""
+      }
+    },
+    "gh-design-md": {
+      "url": "https://api.github.com/repos/google-labs-code/design.md",
+      "final": "https://api.github.com/repos/google-labs-code/design.md",
+      "status": 200,
+      "bytes": 7093,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover22-2026-09-05/gh-design-md.json",
+      "json_summary": {
+        "full_name": "google-labs-code/design.md",
+        "stars": 27737,
+        "license": "Apache-2.0",
+        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+        "tag_name": null,
+        "name": "design.md",
+        "body": ""
+      }
+    },
+    "b2bfunnel": {
+      "url": "https://b2bfunnel.co",
+      "final": "https://b2bfunnel.co",
+      "status": 200,
+      "bytes": 71788,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "B2B Funnel | Outbound",
+      "visible_len": 3401
+    },
+    "brasshands-store": {
+      "url": "https://store.brasshands.com/",
+      "final": "https://store.brasshands.com/",
+      "status": 200,
+      "bytes": 351750,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Brass Hands Corp \u2013 Gear for the New Industrial Age",
+      "visible_len": 1017
+    },
+    "hridoyreh": {
+      "url": "https://hridoyreh.com/",
+      "final": "https://hridoyreh.com/",
+      "status": 200,
+      "bytes": 77652,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Hridoy Reh - An SEO / AI SEO Specialist",
+      "visible_len": 777
+    },
+    "tinylaunch-dirs": {
+      "url": "https://www.tinylaunch.com/directories",
+      "final": "https://www.tinylaunch.com/directories",
+      "status": 200,
+      "bytes": 106620,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "List of Product Directories (Free)",
+      "visible_len": 7472
+    },
+    "nqz-generator": {
+      "url": "https://nqz.ai/ai-search-prompt-generator",
+      "final": "https://nqz.ai/ai-search-prompt-generator",
+      "status": 200,
+      "bytes": 36810,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Free AI Search Prompt Generator \u2014 ChatGPT & Perplexity Prompts For Your Business | nqzai",
+      "visible_len": 2704
+    },
+    "hyperframes-dev": {
+      "url": "https://hyperframes.dev",
+      "final": "https://www.hyperframes.dev/",
+      "status": 200,
+      "bytes": 29104,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "HyperFrames",
+      "visible_len": 22
+    }
+  }
+}

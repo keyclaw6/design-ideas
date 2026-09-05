@@ -54,6 +54,16 @@
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents",
       "id": "x-2094927852399624557#c3"
+    },
+    {
+      "id": "x-2094927852399624557#c4",
+      "text": "leftover22 unused b2bfunnel.co 71,788 B is a done-for-you outbound agency (Book 20+ qualified sales calls a month). First-party: 2\u20133K emails/day/client; $3K+ min LTV; $500+/mo retainer floor; 30K+ addressable. Not Instantly 10k/day / 500 inboxes / 167 domains. Do not invent b2bfunnel.md. Instantly 10k stays tweet-only (#c3).",
+      "kind": "counter-claim",
+      "evidence": "leftover22 b2bfunnel 71788 B. Quote: 2\u20133K Emails / day / client.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mapsdata.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "numbers": [
@@ -90,7 +100,8 @@
     "product": "https://instantly.ai",
     "other": [
       "https://mapsdata.ai",
-      "http://b2bfunnel.co"
+      "http://b2bfunnel.co",
+      "https://b2bfunnel.co"
     ],
     "related_items": [
       "github-romangojiberryAI-gojiberryai-sales-os",

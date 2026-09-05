@@ -12,6 +12,7 @@
 - `web-designmd-supply#c1` (capability, unverified) Domain is listed in tranmautritam's DESIGN.md tools cluster as a likely marketplace or supply catalog for DESIGN.md files. — evidence: "Named in tranmautritam's DESIGN.md tools list — likely a marketplace or supply catalog for DESIGN.md files." [linked-page]
 - `web-designmd-supply#c2` (availability, demonstrated) Direct HTTP and jina capture both returned HTTP 429 Vercel Security Checkpoint with no readable body. — evidence: "Blocked behind Vercel Security Checkpoint (HTTP 429). No readable content via HTTP or jina." [linked-page]
 - `web-designmd-supply#c3` (availability, demonstrated) Re-fetch this bank: designmd.supply HTTP 429 / 32,184 B (Vercel Security Checkpoint). Same neighbor designmd.app 200 / 75,632 B / 562 files is a different host. Marketplace features stay unverified. Do not hammer. — evidence: "mustread-retry.json designmd_supply 429 32184 B. leftover18 attach." [note]
+- `web-designmd-supply#c4` (availability, demonstrated) leftover22 unused neighbor github.com/google-labs-code/design.md Apache-2.0 27,737★. Description: format specification for describing a visual identity to coding agents. Not the designmd.supply marketplace (still 429 / 32,184 B — do not hammer). — evidence: "leftover22 gh-design-md 27737 Apache-2.0." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

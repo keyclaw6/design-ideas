@@ -12,6 +12,7 @@
 - `x-2093774183356379560#c1` (availability, stated) unive.ai appeared in today's top three on outbid.lol. — evidence: "Just found https://unive.ai on todays top 3 of https://outbid.lol" [post]
 - `x-2093774183356379560#c2` (opinion, stated) Author calls the unive.ai website a masterclass in web design worth emulating. — evidence: "their website is a masterclass in web design" [post]
 - `x-2093774183356379560#c3` (availability, demonstrated) Live unive.ai is 200 / 379,018 B titled Unive - Your AI Admissions Team. og:description is Personalized AI admissions help for essays, scholarships, and university selection. Treat it as an admissions product landing, not a design-system gallery. — evidence: "GET https://unive.ai/ 200. Title and og:description on analysis/_work/captures/unive-ai-2026-09-04.json." [note]
+- `x-2093774183356379560#c4` (availability, demonstrated) leftover22 unused outbid.lol is HTTP 429 / 32,182 B Vercel Security Checkpoint. Top-3 listing for unive.ai stays tweet-only. Do not hammer. unive.ai admissions landing already on #c3. — evidence: "leftover22 outbid 429 32182 B title Vercel Security Checkpoint." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

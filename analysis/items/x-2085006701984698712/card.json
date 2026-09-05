@@ -55,6 +55,16 @@
       "evidence_ref": "analysis/tools/human-review.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2085006701984698712#c4",
+      "text": "leftover22 unused creatoreconomy.so essay is first-party 207,273 B (Aug 05, 2026). Title Use My /Human-Review Skill to Edit HTML and Markdown Files like A Google Doc. Install is a paste into Codex/Claude Code; editor is local server; agent waits in 10-minute windows; HTML edits autosave; Markdown/localhost need Send. Credits Kun/Lavish. Paid upsell is 12+ more skills. Matches local-loop tweet; not a DESIGN.md library.",
+      "kind": "recipe",
+      "evidence": "leftover22 creatoreconomy-human-review 207273 B. Quote: Because the whole review loop runs locally, /human-review doesn\u2019t require an account or API key.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/human-review.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "numbers": [

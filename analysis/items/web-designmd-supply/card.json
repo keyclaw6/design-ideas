@@ -58,6 +58,16 @@
       "evidence_ref": "analysis/tools/getdesign-md.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "web-designmd-supply#c4",
+      "text": "leftover22 unused neighbor github.com/google-labs-code/design.md Apache-2.0 27,737\u2605. Description: format specification for describing a visual identity to coding agents. Not the designmd.supply marketplace (still 429 / 32,184 B \u2014 do not hammer).",
+      "kind": "availability",
+      "evidence": "leftover22 gh-design-md 27737 Apache-2.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getdesign-md.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

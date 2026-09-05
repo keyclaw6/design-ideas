@@ -13,11 +13,12 @@
 CPU only, no NPU, no GPU." [post]
 - `x-2087962842985058365#c2` (benchmark, stated) The reported speed is almost 3× faster than the llama.cpp reference on that setup. — evidence: "Almost 3x faster than the llama.cpp reference." [post]
 - `x-2087962842985058365#c3` (availability, demonstrated) First-party Bonsai-1.7B weights are on Hugging Face: prism-ml/Bonsai-1.7B-gguf Apache-2.0, 91 likes / 66,378 downloads; unpacked base prism-ml/Bonsai-1.7B-unpacked. README: GGUF Q1_0 0.24 GB (14.2× vs FP16 3.44 GB); 13.9× smaller than FP16; throughput table RTX 4090 674 vs FP16 224 tok/s (3.0×) and M4 Pro 250 vs 65 (3.8×). Android is named as a platform. Tweet 64→90 tok/s CPU-only and “almost 3× llama.cpp” are not on the README or prismml.com (96,797 B; homepage hero is Bonsai 27B 5.9 GB ternary / 3.9 GB 1-bit). Do not collapse those tweet integers with the 4090/M4 table. — evidence: "HF prism-ml/Bonsai-1.7B-gguf apache-2.0 91 likes 66378 dl; README 0.24 GB 674/224 4090 250/65 M4 Pro; prismml.com 96797 B. leftover10-bonsai-detail-2026-09-05.json." [note]
+- `x-2087962842985058365#c4` (availability, demonstrated) leftover22 unused GitHub PrismML-Eng/Bonsai-demo Apache-2.0 2,272★ (description Bonsai Demo). Not the HF 1.7B-gguf weights and not tweet 64→90 Android CPU. Do not invent bonsai.md. — evidence: "leftover22 gh-bonsai-demo 2272 Apache-2.0." [note]
 **Numbers.** decode throughput: 90 tok/s (post); prior decode throughput: 64 tok/s (post)
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** repo (https://github.com/PrismML-Eng/Bonsai-demo), product (https://huggingface.co/prism-ml/Bonsai-1.7B-gguf)
+**Links.** repo (https://github.com/PrismML-Eng/Bonsai-demo), product (https://huggingface.co/prism-ml/Bonsai-1.7B-gguf), https://github.com/PrismML-Eng/Bonsai-demo
 **Related items.** [x-2087562269807030754](../x-2087562269807030754/card.md), [x-2088281537427235320](../x-2088281537427235320/card.md), [x-2087240056037908509](../x-2087240056037908509/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 15 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)

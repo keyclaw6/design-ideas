@@ -59,6 +59,16 @@
       "confidence": "demonstrated",
       "subject": "agent-harness-loops",
       "id": "x-2087714580491370655#c3"
+    },
+    {
+      "id": "x-2087714580491370655#c4",
+      "text": "leftover22 unused pi-gippity-control README 3,878 B. Install pi install npm:@howaboua/pi-gippity-control; Pi 0.84.4+ / Node 22.19+; do not install beside pi-codex-conversion. LAN default port 43120; unauthenticated by design; reportRealtimeVoicePrompt is first-party. Matches tweet extension API; not a voice-changelog dump.",
+      "kind": "recipe",
+      "evidence": "leftover22 pi-gippity-readme 3878 B. Quote: Do not install this alongside @howaboua/pi-codex-conversion.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/pi-shepherdr.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,

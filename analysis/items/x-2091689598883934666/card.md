@@ -11,11 +11,12 @@
 **Claims.**
 - `x-2091689598883934666#c1` (recipe, stated) Naming UI components precisely—e.g., asking for a segmented control instead of buttons—yields the correct pattern on the first try. — evidence: "Nombrar bien el componente cambia el resultado: pedir un segmented control en vez de botones te da el patrón correcto a la primera." [reply]
 - `x-2091689598883934666#c2` (result, demonstrated) toolfolio.link/namet45 301/200 → namethatui.com 602,668 B. Title NameThatUI — What Is This UI Element Called? H1 visual dictionary; 80 H3s this pass (Steps, Avatar Group, Multi-select visible in Newest). Paste-ready agent prompt promised. Not a DESIGN.md pack. — evidence: "GET 200 https://namethatui.com/ 602668 B. h3 count 80. analysis/_work/captures/priority7-2026-09-05/namet45.html" [note]
+- `x-2091689598883934666#c3` (availability, demonstrated) leftover22 unused t.co/KYuOOs0GhP → toolfolio.com/tools/name-that-ui 408,882 B. Listing: UI Visual Dictionary; Freemium; Platforms Web; Last Updated Aug 4, 2026. Product host namethatui.com 602,668 B / 80 H3s already on #c2. Do not collapse Toolfolio listing HTML with the live dictionary. — evidence: "leftover22 tco-namethatui 200 408882 B final toolfolio.com/tools/name-that-ui." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [shadcn-component-kit](../../techniques/shadcn-component-kit.md), [prompt-to-html-landing](../../techniques/prompt-to-html-landing.md)
 **Tools.** [name-that-ui](../../tools/name-that-ui.md)
-**Links.** product (https://toolfolio.link/namet45), https://t.co/KYuOOs0GhP
+**Links.** product (https://toolfolio.link/namet45), https://t.co/KYuOOs0GhP, https://toolfolio.com/tools/name-that-ui
 **Related items.** [web-typeui-sh](../web-typeui-sh/card.md), [web-sceneai-art](../web-sceneai-art/card.md)
 **Media.** —
 **Thread.** captured_partial · reported 6 · captured 1 · relevant 1 · author thread: none → [thread.md](thread.md)

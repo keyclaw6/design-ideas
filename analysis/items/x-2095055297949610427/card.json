@@ -52,7 +52,7 @@
       "subject": "serp-ai-visibility"
     },
     {
-      "text": "seoskill.dev 200 / 120,656 B. Title SEO Skill | Open source SEO audit tool for AI agents. H1 The only SEO skill your agent needs. First-party: npm i -g seo; seo start; local MCP. Homepage HTML does not contain the string “70+”; that count remains on GitHub description (iannuttall/seo Apache-2.0, 463★ this pass).",
+      "text": "seoskill.dev 200 / 120,656 B. Title SEO Skill | Open source SEO audit tool for AI agents. H1 The only SEO skill your agent needs. First-party: npm i -g seo; seo start; local MCP. Homepage HTML does not contain the string \u201c70+\u201d; that count remains on GitHub description (iannuttall/seo Apache-2.0, 463\u2605 this pass).",
       "kind": "capability",
       "evidence": "GET 200 https://seoskill.dev 120656 B. GitHub API 463 stars Apache-2.0. Do not collapse homepage vs README 70+.",
       "evidence_source": "note",
@@ -60,6 +60,16 @@
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility",
       "id": "x-2095055297949610427#c3"
+    },
+    {
+      "id": "x-2095055297949610427#c4",
+      "text": "leftover22 unused keep.md 191,347 B: Starter Free; Personal $10/mo; X bookmark sync $5/mo. MCP https://keep.md/mcp; npm i -g keep. ian.is 62,453 B lists Keep + SEO Skill + Swipe/Caffeine/Natter/Portman/Unclaimed/Mailroom/Clockwork/Barkeep/ilo; 6,809 contributions. seoskill.dev 70+ still GitHub-only (#c3). Do not invent keep.md tool file.",
+      "kind": "pricing",
+      "evidence": "leftover22 keep-md 191347 B; ian-is 62453 B. Quote: Personal $10/month.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],

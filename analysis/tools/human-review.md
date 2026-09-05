@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 Fetched 2026-09-05 GitHub API `petergyang/human-review` MIT, **1,228** stars / **97** forks. Description: visual tool to edit HTML and Markdown and leave comments like a Google Doc. Tree has `src/`, `test/`, `design-ref/`. Matches the local visual-editor skill, not a DESIGN.md library. Receipt `analysis/_work/captures/priority7-2026-09-05.json`.
+
+**2026-09-05 leftover22.** Unused `creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually` **200 / 207,273 B**. First-party: local server; 10-minute wait windows; HTML autosave; Markdown/localhost need Send; credits Kun/Lavish; paid upsell 12+ skills. Receipt `leftover22-2026-09-05.json`.
 <!-- NOTES:END -->

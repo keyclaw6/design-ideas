@@ -17,4 +17,6 @@ Local `seo` CLI + MCP (`seo mcp install`). Audits, Search Console, connected ana
 **2026-09-05 leftover17 — seowins.io 403 (no seowins.md).** Same leftover receipt: `https://seowins.io/` **HTTP 403 Forbidden**. Attached to the Reddit-comment leftover and the $100k AEO leftover so those tweets are not treated as a live SEO Wins export. Do not retry. Sibling [web-seowins-io](../items/web-seowins-io/card.md) still holds the earlier $79 / 150+ linked-page capture.
 
 **2026-09-05 leftover18 — Brave submit-url 429 (no brave-submit-url.md).** `search.brave.com/submit-url` **429 / 73,802 B** (title Brave Search). Help `search.brave.com/help/submit-url` **429 / 2,404 B** (Request refused). Do not hammer. Receipt `2026-09-05-mustread-retry.json`. Attached to [web-brave-submit-url](../items/web-brave-submit-url/card.md) and the two leftover tweets.
+
+**2026-09-05 leftover22 — keep.md / ian.is / hridoyreh (no keep.md).** `keep.md` **191,347 B**: Starter Free / Personal **$10/mo** / X sync **$5/mo**; MCP `https://keep.md/mcp`; `npm i -g keep`. `ian.is` **62,453 B** lists Keep + SEO Skill + nine other small tools; **6,809** contributions. `hridoyreh.com` **77,652 B** markets **650M+ / $149M+** and names seowins.io (already 403). Receipt `leftover22-2026-09-05.json`.
 <!-- NOTES:END -->

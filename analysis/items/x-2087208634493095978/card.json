@@ -3,9 +3,9 @@
   "id": "x-2087208634493095978",
   "source_type": "x",
   "url": "https://x.com/tom_doerr/status/2087208634493095978",
-  "title": "Memoria — git-like snapshots and branches for AI agent memory",
+  "title": "Memoria \u2014 git-like snapshots and branches for AI agent memory",
   "author": {
-    "name": "Tom Dörr",
+    "name": "Tom D\u00f6rr",
     "handle": "tom_doerr",
     "url": "https://x.com/tom_doerr"
   },
@@ -28,7 +28,7 @@
     "mcp",
     "cli"
   ],
-  "summary": "Tom Dörr shares Memoria (matrixorigin/Memoria): a persistent agent memory layer with git-like snapshots, branches, merges, and rollbacks backed by MatrixOne, aimed at auditable long-running agent context.",
+  "summary": "Tom D\u00f6rr shares Memoria (matrixorigin/Memoria): a persistent agent memory layer with git-like snapshots, branches, merges, and rollbacks backed by MatrixOne, aimed at auditable long-running agent context.",
   "question_it_answers": "How can agent memory be version-controlled with branches instead of a single clobbered blob?",
   "claims": [
     {
@@ -60,6 +60,16 @@
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge",
       "id": "x-2087208634493095978#c3"
+    },
+    {
+      "id": "x-2087208634493095978#c4",
+      "text": "leftover22 unused arXiv 2604.03927 abs 41,988 B is Version Control System for Data with MatrixOne (cs.DB; Gou/Tian/Wang/Deng/Xu; 5 Apr 2026; PDF 117 KB). First-party: git-like clone/tag/branch/diff/merge/revert on terabyte tables via MatrixOne MVCC. Not an agent-memory paper \u2014 do not collapse with tweet/README \u201cWorld\u2019s First Git for AI Agent Memory\u201d or GH 593\u2605.",
+      "kind": "counter-claim",
+      "evidence": "leftover22 memoria-abs 41988 B. Title: Version Control System for Data with MatrixOne.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/memoria.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -75,7 +85,9 @@
     "repo": "https://github.com/matrixorigin/Memoria",
     "paper": "https://arxiv.org/abs/2604.03927",
     "product": null,
-    "other": [],
+    "other": [
+      "https://arxiv.org/abs/2604.03927"
+    ],
     "related_items": [
       "x-2087143369181114868",
       "x-2086920236079681607",

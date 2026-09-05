@@ -45,10 +45,20 @@
       "id": "github-google-labs-code-design-md#c2",
       "text": "CLI supports lint for WCAG contrast and token validation plus diff to compare design system versions.",
       "kind": "capability",
-      "evidence": "CLI: `npx @google/design.md lint DESIGN.md` — WCAG contrast, token validation",
+      "evidence": "CLI: `npx @google/design.md lint DESIGN.md` \u2014 WCAG contrast, token validation",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-google-labs-code-design-md#c3",
+      "text": "leftover22 GitHub API google-labs-code/design.md Apache-2.0 27,737\u2605. Spec + lint/diff CLI claims stay on #c1/#c2 (linked-page). Star count was not previously on-card.",
+      "kind": "availability",
+      "evidence": "leftover22 gh-design-md 27737 Apache-2.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getdesign-md.md",
+      "confidence": "demonstrated",
       "subject": "design-agent-skills"
     }
   ],

@@ -50,6 +50,16 @@
       "evidence_ref": "analysis/tools/name-that-ui.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2091689598883934666#c3",
+      "text": "leftover22 unused t.co/KYuOOs0GhP \u2192 toolfolio.com/tools/name-that-ui 408,882 B. Listing: UI Visual Dictionary; Freemium; Platforms Web; Last Updated Aug 4, 2026. Product host namethatui.com 602,668 B / 80 H3s already on #c2. Do not collapse Toolfolio listing HTML with the live dictionary.",
+      "kind": "availability",
+      "evidence": "leftover22 tco-namethatui 200 408882 B final toolfolio.com/tools/name-that-ui.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/name-that-ui.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -67,7 +77,8 @@
     "paper": null,
     "product": "https://toolfolio.link/namet45",
     "other": [
-      "https://t.co/KYuOOs0GhP"
+      "https://t.co/KYuOOs0GhP",
+      "https://toolfolio.com/tools/name-that-ui"
     ],
     "related_items": [
       "web-typeui-sh",

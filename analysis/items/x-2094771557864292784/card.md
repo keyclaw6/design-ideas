@@ -12,6 +12,7 @@
 - `x-2094771557864292784#c1` (opinion, stated) SEO in 2026 includes five outcomes: Google findability, AI Overviews, ChatGPT recommendations, comparison searches, and influencing upstream sites. — evidence: "Today, SEO is also about:" [post]
 - `x-2094771557864292784#c2` (recipe, demonstrated) Infographic layers progress from foundation and market map through owned presence and third-party authority to get recommended on Gemini, AI Overviews, and ChatGPT. — evidence: "Build the foundation" [media]
 - `x-2094771557864292784#c3` (availability, demonstrated) known.agency 200 / 965,519 B. Title known.agency — #1 AI Search Optimization Agency. H1 Search Everywhere Optimisation. First-party: Dominate Google, AI, and Reddit; AI Search Optimization earn citations. Ranking language “#1” is vendor copy. AEO/GEO strings absent; citation is service copy, not a tracker export. — evidence: "GET 200 https://known.agency 965519 B." [note]
+- `x-2094771557864292784#c4` (capability, demonstrated) leftover22 unused nqz.ai/ai-search-prompt-generator 36,810 B. First-party: 4 topics × 3 intents; no brand names; 10 generations/hour; no login; Immortal Reality PA LLC. Matches the dedicated web card’s stated 4×3 / 10/hour. Not a citation tracker and not Known Agency’s five-layer SEO stack. — evidence: "leftover22 nqz-generator 36810 B. Quote: Limited to 10 generations/hour per visitor." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [serp-keyword-research](../../techniques/serp-keyword-research.md)

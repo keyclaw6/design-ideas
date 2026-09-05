@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2095123902947090682#c1` (opinion, stated) The post names Swiss grids, technical systems, industrial typography, and utilitarian interfaces as Neo Industrialism. — evidence: "Swiss grids. Technical systems. Industrial typography. Utilitarian interfaces." [post]
 - `x-2095123902947090682#c2` (availability, demonstrated) brasshands.com 200 / 360,441 B. Title Brass Hands. Visible: The office of Kyle Anthony Miller; Designing for the new industrial age; STATUS DEPLOYED IN SECTOR — AI / Robotics / DEFENSE / INDUSTRY; STORE LIMITED RELEASE [01] RE-IND ISSUE. Tweet “Neo Industrialism Swiss-grid terrain-intel” wording is not in this HTML. — evidence: "GET 200 https://www.brasshands.com/ 360441 B (final brasshands.com). Kyle Anthony Miller / new industrial age." [note]
+- `x-2095123902947090682#c3` (availability, demonstrated) leftover22 unused store.brasshands.com 351,750 B. Title Brass Hands Corp – Gear for the New Industrial Age. Live merch (hoodie Release [01] RE-IND; complimentary US shipping over $100; 10% first-order). Tweet Neo Industrialism Swiss-grid terrain-intel wording is not on the store. Homepage already on #c2. — evidence: "leftover22 brasshands-store 351750 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [ui-motion-physics](../../techniques/ui-motion-physics.md), [ui-motion-physics](../../techniques/ui-motion-physics.md)

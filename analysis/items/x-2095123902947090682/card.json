@@ -42,9 +42,19 @@
     },
     {
       "id": "x-2095123902947090682#c2",
-      "text": "brasshands.com 200 / 360,441 B. Title Brass Hands. Visible: The office of Kyle Anthony Miller; Designing for the new industrial age; STATUS DEPLOYED IN SECTOR — AI / Robotics / DEFENSE / INDUSTRY; STORE LIMITED RELEASE [01] RE-IND ISSUE. Tweet “Neo Industrialism Swiss-grid terrain-intel” wording is not in this HTML.",
+      "text": "brasshands.com 200 / 360,441 B. Title Brass Hands. Visible: The office of Kyle Anthony Miller; Designing for the new industrial age; STATUS DEPLOYED IN SECTOR \u2014 AI / Robotics / DEFENSE / INDUSTRY; STORE LIMITED RELEASE [01] RE-IND ISSUE. Tweet \u201cNeo Industrialism Swiss-grid terrain-intel\u201d wording is not in this HTML.",
       "kind": "availability",
       "evidence": "GET 200 https://www.brasshands.com/ 360441 B (final brasshands.com). Kyle Anthony Miller / new industrial age.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/motionsites-ai.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2095123902947090682#c3",
+      "text": "leftover22 unused store.brasshands.com 351,750 B. Title Brass Hands Corp \u2013 Gear for the New Industrial Age. Live merch (hoodie Release [01] RE-IND; complimentary US shipping over $100; 10% first-order). Tweet Neo Industrialism Swiss-grid terrain-intel wording is not on the store. Homepage already on #c2.",
+      "kind": "availability",
+      "evidence": "leftover22 brasshands-store 351750 B.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/motionsites-ai.md",
       "confidence": "demonstrated",

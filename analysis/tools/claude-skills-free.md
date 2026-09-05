@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 Fetched 2026-09-05 `https://www.claude-skills.free/` GET 200 / **26,999 B**. Title Claude Skill Library. Public page is an email/code gate (“I sent a code… unlock everything”) plus install steps and example command `/grill-me`. Skill list requires JS; no slop-pack inventory in SSR. Do not treat the empty list as zero skills. Receipt `analysis/_work/captures/priority7-2026-09-05.json`.
+
+**2026-09-05 leftover22.** Unused `how-to-ai.guide` 301s to `ruben.substack.com` **96,312 B**. Markets **Over 925,000 subscribers**. Not the skill-pack host. Receipt `leftover22-2026-09-05.json`.
 <!-- NOTES:END -->
