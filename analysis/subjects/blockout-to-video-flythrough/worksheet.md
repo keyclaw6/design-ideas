@@ -52,3 +52,4 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 3. One headed pass: Blender camera → Seedance vs MiniMax 3D Director → H3 on the *same* blockout, so drift is comparable.
 4. Intangible homepage is live (**130,479 B**, MCP Beta, no Blender string). Mint “Live now” t.co → mint.gg. Remaining: a downloadable camera-path from either host.
 5. Do not expand this lane with more model-launch tweets.
+6. adilinthewild “19-minute” Blender-first tutorial is the X amplify video (**1187.497 s**, 3840×2160). Quoted prompts link is a Higgsfield blog **200 / 72,653 B** whose HTML does not repeat the 19-minute string ([higgsfield](../../tools/higgsfield.md)). Thread stays `captured_partial` (71/1).

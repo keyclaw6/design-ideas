@@ -2,7 +2,7 @@
 
 `x-2093020107509514674` · x · demo-image · en · [source](https://x.com/jumarmacato/status/2093020107509514674) · [raw](../../../raw/items/x-2093020107509514674/)
 **Author:** — (@jumarmacato) · **Published:** — · **Captured:** 2026-09-04T07:01:51Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
 **Subject:** [ai-cad-hardware](../../subjects/ai-cad-hardware/brief.md) · **Also:** — · **Roles:** example, technique · **Platforms:** kicad, cli
 
 **Summary.** Author built a fully open-source KiCad plus OpenEMS physical simulation harness to check PCB signal integrity before sending boards to fabrication; it already flagged issues on their design.
@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2093020107509514674#c1` (capability, demonstrated) A custom KiCad plus OpenEMS harness can check signal integrity of a PCB design before fabrication. — evidence: "KiCAD+OpenEMS physical simulation harness so that I can check the signal integrity of my PCB design before shipping it off to the fabs." [post]
 - `x-2093020107509514674#c2` (result, demonstrated) The harness already flagged signal-integrity problems on the author's board. — evidence: "It's already working coz it flagged my board for signal integrity issues" [post]
-**Numbers.** —
+- `x-2093020107509514674#c3` (availability, demonstrated) No public repo or docs URL on the tweet. The artifact is an X amplify video 17.866 s at 1920×1024. Do not treat antmicro/kicad-si-simulation-wrapper as this harness. — evidence: "GET https://api.fxtwitter.com/jumarmacato/status/2093020107509514674. urls: none. video duration 17.866 width 1920 height 1024." [note]
+**Numbers.** KiCad+OpenEMS demo duration: 17.866 seconds (note)
 **Recipe.** —
 **Techniques.** [pcb-autorouting](../../techniques/pcb-autorouting.md)
 **Tools.** [kicad](../../tools/kicad.md), [openems](../../tools/openems.md)

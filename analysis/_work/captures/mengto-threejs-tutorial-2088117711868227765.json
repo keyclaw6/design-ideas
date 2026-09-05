@@ -1,0 +1,17 @@
+{
+  "fetched": "2026-09-05T00:30:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/MengTo/status/2088117711868227765",
+  "tweet_id": "2088117711868227765",
+  "author": "MengTo",
+  "text": "I recorded a 40-min tutorial on how to create three.js landing pages using Claude Code and Opus 5",
+  "video": {
+    "duration_s": 2411.133,
+    "duration_min": 40.18,
+    "width": 2880,
+    "height": 2160
+  },
+  "separate_docs_or_youtube": false,
+  "pointer_item": "x-2088265078919282836",
+  "note": "The linked page is this X amplify video. No YouTube or docs URL on the tweet."
+}

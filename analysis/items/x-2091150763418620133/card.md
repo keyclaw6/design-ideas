@@ -18,7 +18,7 @@
 **Techniques.** [moe-expert-offload](../../techniques/moe-expert-offload.md), [agent-harness-ops](../../techniques/agent-harness-ops.md)
 **Tools.** [freetoken](../../tools/freetoken.md)
 **Links.** repo (https://github.com/FlashML-org/FreeToken), paper (https://arxiv.org/pdf/2608.16157)
-**Related items.** [x-2087240056037908509](../x-2087240056037908509/card.md), [x-2087562269807030754](../x-2087562269807030754/card.md)
+**Related items.** [x-2087240056037908509](../x-2087240056037908509/card.md), [x-2087562269807030754](../x-2087562269807030754/card.md), [x-2090930324817498246](../x-2090930324817498246/card.md)
 **Media.**
 `raw/items/x-2091150763418620133/media/media_0.jpg` (video, carries_technique=false) — Screen recording or animated explainer accompanying the FreeToken throughput and MoE expert-routing narrative in the thread.
 **Thread.** captured_partial · reported 72 · captured 3 · relevant 3 · author thread: none → [thread.md](thread.md)

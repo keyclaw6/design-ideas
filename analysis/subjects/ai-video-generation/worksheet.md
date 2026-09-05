@@ -36,7 +36,7 @@ fal.ai is the API bus ([web-fal-ai](../../items/web-fal-ai/card.md)). Launch-vid
 - 7.5M / 4.6M launch-video views — attributed views, no property export.
 - LightReel 160k daily TikTok — unsupervised stack claim; no account ids. Live site is a UGC researcher (**10,000** TikToks/day, **4,000+** brands); 160k is not on the page ([lightreelai](../../tools/lightreelai.md)).
 - OpenStory / Calliope “finished video from a script” — product demos; no repo run in this bank.
-- H3 audio repair — Japanese field note; need the exact downscale and step counts.
+- H3 audio repair — Japanese field note. Quoted URL is Reddit `1w5zh4z` (www + old both **403**). Amplify video **10.354 s** / 854×472. Downscale / step-count integers still missing ([minimax-h3](../../tools/minimax-h3.md)).
 
 ## ai-video-generation — do not treat as load-bearing
 

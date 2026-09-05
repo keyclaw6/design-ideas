@@ -22,20 +22,18 @@
   ],
   "techniques": [],
   "tools": [],
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-17",
-  "written_at": "2026-09-04T18:04:14Z",
+  "written_at": "2026-09-05T00:40:00Z",
   "id": "x-2090930324817498246",
   "source_type": "x",
   "url": "https://x.com/Hesamation/status/2090930324817498246",
-  "title": "Unnamed Berkeley/MIT inference engine benchmarks vs llama.cpp and Ollama",
+  "title": "Hesamation paraphrases FreeToken as an unnamed Berkeley/MIT engine",
   "author": {
     "name": "Hesamation",
     "handle": "Hesamation",
@@ -53,8 +51,8 @@
   "platforms": [
     "other"
   ],
-  "summary": "Promotional thread claiming UC Berkeley and MIT researchers open-sourced a new inference engine running DeepSeek-V4-Flash 284B at 25 tok/s on an RTX 5090, 1.46× faster than llama.cpp, and up to 3× faster than Ollama on Qwen3.6-35B. No repo URL in the captured post.",
-  "question_it_answers": "What throughput claims were made for the unnamed Berkeley/MIT inference engine?",
+  "summary": "Hesamation paraphrases FreeToken (quoted Andy_ShuoYang / 2090856976880472439) as an unnamed Berkeley/MIT engine. DeepSeek-V4-Flash 284B at 25 tok/s is the top of FreeToken’s 22–25 tok/s 5090 band. MIT is only in this paraphrase. Same engine as must-read x-2091150763418620133.",
+  "question_it_answers": "Which engine is the unnamed Berkeley/MIT inference tweet actually pointing at?",
   "claims": [
     {
       "id": "x-2090930324817498246#c1",
@@ -75,15 +73,39 @@
       "evidence_ref": "post.md",
       "confidence": "unverified",
       "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2090930324817498246#c3",
+      "text": "Quoted tweet 2090856976880472439 is Andy_ShuoYang announcing FreeToken. Same engine as x-2091150763418620133. DeepSeek-V4-Flash 284B → 5090 @ 22–25 tok/s; Hesamation’s 25 tok/s is the top of that band.",
+      "kind": "counter-claim",
+      "evidence": "Andy_ShuoYang: Meet FreeToken. DeepSeek-V4-Flash 284B → RTX 5090 desktop @ 22-25 tok/s. Hesamation quotes the tweet and writes 25 tok/s.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/freetoken.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2090930324817498246#c4",
+      "text": "MIT is only in Hesamation’s paraphrase. FreeToken authors on the paper/NOTES are Berkeley / UT / others. Repo FlashML-org/FreeToken, Apache-2.0.",
+      "kind": "counter-claim",
+      "evidence": "Hesamation: UC Berkeley + MIT researchers. FreeToken NOTES: Authors Berkeley / UT / others (Stoica, Zaharia, Han). Repo Apache-2.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/freetoken.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "links": {
-    "canonical": null,
-    "repo": null,
-    "paper": null,
+    "canonical": "https://x.com/Hesamation/status/2090930324817498246",
+    "repo": "https://github.com/FlashML-org/FreeToken",
+    "paper": "https://arxiv.org/pdf/2608.16157",
     "product": null,
-    "other": [],
-    "related_items": []
+    "other": [
+      "https://x.com/Andy_ShuoYang/status/2090856976880472439"
+    ],
+    "related_items": [
+      "x-2091150763418620133"
+    ]
   },
   "media": [],
   "raw": {

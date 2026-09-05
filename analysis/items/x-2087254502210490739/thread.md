@@ -1,4 +1,4 @@
-# Thread — Stanford Control Plane Pattern: replace brittle multi-agent handoff chains (x-2087254502210490739)
+# Thread — Control Plane Pattern X article: replace brittle multi-agent handoff chains (x-2087254502210490739)
 
 **Status:** captured_partial · **Author thread:** none · **Replies reported:** 30 · **Captured:** 3 · **Relevant:** 0 · **Unfetched:** 27 · **Truncated:** False
 **Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z)

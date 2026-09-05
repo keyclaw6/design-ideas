@@ -1,0 +1,27 @@
+{
+  "fetched": "2026-09-05T00:25:00Z",
+  "method": "fxtwitter-api",
+  "carrier_tweet": "https://api.fxtwitter.com/monokern/status/2087241401649996149",
+  "carrier_author": "monokern",
+  "article_id": "2087107935079940096",
+  "article_url": "https://x.com/i/article/2087107935079940096",
+  "title": "Why Multi-Agent Pipelines Fail for Complex Analytics (And Control Plane Pattern That Replaces Them)",
+  "created_at": "2026-08-11T18:15:03.000Z",
+  "block_count": 83,
+  "nonempty_blocks": 77,
+  "char_count": 15151,
+  "has_stanford": false,
+  "latency_copy": "3-4 weeks of manual analyst iteration down to 20-30 minutes of automated execution",
+  "tweet_latency_copy": "4 weeks down to 30 minutes / ~10x tokens (neviannn paraphrase; not in article body)",
+  "token_10x": false,
+  "pillars": [
+    "Deterministic Signal Queue",
+    "Centralized Reasoning Ownership with Dynamic Sub-Agents",
+    "Knowledge Graph Control Plane"
+  ],
+  "example": "ZS Associates commercial pharma analytics; 18% TRX drop / payer tier",
+  "bounded_loop_turns": "50+",
+  "do_not_collapse": "arXiv 2505.06817 Kandasamy Control Plane as a Tool (May 2025) is a different paper",
+  "text_dump": "/tmp/cp-article.txt",
+  "note": "Logged-out x.com/i/article/2087107935079940096 is 404. Body came from tweet.article on the carrier tweet."
+}

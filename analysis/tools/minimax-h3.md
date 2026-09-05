@@ -8,5 +8,5 @@
 - [ComfyUI workflow: Blender blockout motion with MiniMax H3 environment](../items/x-2092679517588574690/card.md) — technique, example — blockout-to-video-flythrough
 
 <!-- NOTES:START -->
-
+**2026-09-05 capture — H3 audio-repair “URL in reply” is a quoted Reddit post.** `aiaicreate/2095427723858751958` → `https://www.reddit.com/r/StableDiffusion/comments/1w5zh4z/bad_audio_fixed_with_fast_regen_audio/`. `www.reddit.com` and `old.reddit.com` both **HTTP 403**. Root amplify video **10.354 s**, **854×472**. Downscale / step-count integers still missing. Receipt `analysis/_work/captures/h3-audio-repair-2095427702325231977.json`.
 <!-- NOTES:END -->

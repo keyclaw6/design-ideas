@@ -7,7 +7,7 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 1. **Weights + a quant recipe you can download.** Unsloth Qwen3.8-27B Dynamic GGUF ~17GB RAM ([x-2088281537427235320](../../items/x-2088281537427235320/card.md)). Dynamic V3 + 8GB 1-bit path and “+10% vs others” ([x-2090103470015828184](../../items/x-2090103470015828184/card.md)).
 2. **MoE offload / streaming on one box.** Must-read FreeToken PCIe/CPU split + prefill checkpoints ([x-2091150763418620133](../../items/x-2091150763418620133/card.md)). Qwen expert-on-disk 37GB / 40 tok/s ([x-2093429897188299113](../../items/x-2093429897188299113/card.md)). HamsterResearch REAP-288 MLX 4-bit, 180B-class on 39GB ([x-2093160779960774982](../../items/x-2093160779960774982/card.md)).
 3. **On-device demos (treat as research).** Edge8-35B on iPhone 44 tok/s ([x-2087562269807030754](../../items/x-2087562269807030754/card.md)). Bonsai-1.7B 90 tok/s CPU on Android ([x-2087962842985058365](../../items/x-2087962842985058365/card.md)).
-4. **Hosted numbers, not local.** RunInfra BF16 DeepSeek V4 Flash 278 tok/s at $0.13/$0.27 per M ([x-2088594942482374759](../../items/x-2088594942482374759/card.md)). AMD Token Factory daily credits ([x-2087240056037908509](../../items/x-2087240056037908509/card.md)). Unnamed Berkeley/MIT engine vs llama.cpp ([x-2090930324817498246](../../items/x-2090930324817498246/card.md)).
+4. **Hosted numbers, not local.** RunInfra BF16 DeepSeek V4 Flash 278 tok/s at $0.13/$0.27 per M ([x-2088594942482374759](../../items/x-2088594942482374759/card.md)). AMD Token Factory daily credits ([x-2087240056037908509](../../items/x-2087240056037908509/card.md)). Hesamation’s “unnamed Berkeley/MIT engine” is a FreeToken paraphrase ([x-2090930324817498246](../../items/x-2090930324817498246/card.md)).
 
 ## local-inference-models — axis scores
 
@@ -22,7 +22,7 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 | Bonsai-1.7B | announcement | CPU decode | 64→90 tok/s Android | unknown | yes (device) |
 | RunInfra BF16 | hosted | none (full BF16) | 278 tok/s; $0.13/$0.27 | n/a (hosted) | no — this *is* a host |
 | AMD Token Factory | hosted credits | n/a | ~$10/day stated | n/a | no — discount post with a number |
-| Berkeley/MIT engine tweet | unnamed | vs llama.cpp/Ollama | 25? tok/s on 284B stated | unknown | treat as promo until named |
+| Hesamation / FreeToken paraphrase | same engine as must-read FreeToken | vs llama.cpp/Ollama (tweet) | 25 tok/s = top of FreeToken 22–25 band | Apache-2.0 | promo paraphrase; MIT is tweet-only |
 
 ## local-inference-models — claims that need a receipt
 
@@ -31,13 +31,13 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 - 17GB / 8GB / 37GB / 39GB envelopes — restated; time tokens/s on a named GPU/CPU.
 - Edge8 44 tok/s and Bonsai 90 tok/s — device demos, no traces.
 - RunInfra 278 tok/s and AMD ~$10/day — host quotes; re-check the public pricing page.
-- Unnamed Berkeley/MIT engine — do not install from a teaser.
+- Hesamation “unnamed Berkeley/MIT engine” — it is FreeToken. MIT is only in that paraphrase. Install from `FlashML-org/FreeToken`, not from the teaser wording.
 
 ## local-inference-models — do not treat as load-bearing
 
 - AMD daily credits as a “local stack.”
 - Any gateway-only availability tweet already on the noise shelf.
-- Ranking language about engines vs llama.cpp until the repo is named.
+- Ranking language about engines vs llama.cpp on the Hesamation teaser; use the FreeToken paper integers.
 
 ## local-inference-models — next capture work
 

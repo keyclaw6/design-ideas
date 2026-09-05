@@ -50,10 +50,27 @@
       "evidence_ref": "post.md",
       "confidence": "demonstrated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2093020107509514674#c3",
+      "text": "No public repo or docs URL on the tweet. The artifact is an X amplify video 17.866 s at 1920×1024. Do not treat antmicro/kicad-si-simulation-wrapper as this harness.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/jumarmacato/status/2093020107509514674. urls: none. video duration 17.866 width 1920 height 1024.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openems.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "KiCad+OpenEMS demo duration",
+      "value": "17.866",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "pcb-autorouting"
   ],
@@ -84,16 +101,14 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "x-2092106682302140648"
     ],
     "must_read": false,
-    "why_must_read": "Harness repo or scripts not linked in tweet; claim is demonstrated but artifact unpublished."
+    "why_must_read": "Harness repo still unpublished; the only artifact is a 17.866 s X video."
   },
   "worker": "cards-07",
-  "written_at": "2026-09-04T18:25:00Z"
+  "written_at": "2026-09-05T00:40:00Z"
 }

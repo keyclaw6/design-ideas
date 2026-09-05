@@ -28,7 +28,7 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 | recent.design / unive.ai / doss.com | reference feed or one page | varies | look, don’t install | n/a | unknown |
 | TinyShots | polish tool | n/a | macOS + CLI | n/a | n/a (screenshots) |
 | DiceBear | avatar API | n/a | HTTP / SDK | any | n/a |
-| Forja / Hogwarts / Brass Hands teasers | example stills or clips | motion implied | not reusable | unknown | unknown |
+| Forja / Hogwarts / Brass Hands teasers | Forja is a **Framer** template (**$129**, 261,271 B), not a kit; others still teasers | motion implied | Forja = buy + customize in Framer | no (Framer, not shadcn) | Forja title says Responsive; no mobile audit |
 
 ## landing-ui-motion — claims that need a receipt
 
@@ -56,4 +56,4 @@ One X primary is `failed` (see brief thread table). Do not read that silence as 
 2. Pricing receipts are on [cult-ui](../../tools/cult-ui.md) (Cult Pro $129 lifetime; Originkit Free/Pro/Studio yearly; Vengeance no `/pricing`). Live heroes: Cult Pro “Shadcn blocks for marketing.”; Originkit title-only SSR; Vengeance “Next-Gen UI Interactions” / “Ship landing pages at lightspeed”. CSS **bundles** now counted: Originkit 21 `@media` / 11 queries (incl. max-width 1023); Vengeance 35 / 11 (incl. min-width 640–1600). Originkit MCP registry **461**. Cult OSS still 429. Remaining: a controlled same-copy hero built from one kit. Vengeance has no paid pricing column.
 3. Blume homepage first-party copy is on [blume-sidecar](../../tools/blume-sidecar.md). X article `2094493136743473152` body is now on [blume](../../tools/blume.md) via fxtwitter (8,070 chars; four named effects; 7 layers / 6 themes; week-long Codex `/goal`). Logged-out x.com / jina still fail. Card gap stays `thread-partial` (13/3).
 4. Re-fetch the failed landing-ui-motion thread listed in the brief.
-5. AICSS live `/r` is **14 / 10 free / 4 locked** ([aicss](../../tools/aicss.md)). Beautiful UI homepage names **21** components ([shadcn-component-kit](../../techniques/shadcn-component-kit.md)). 23rd.dev docs **10** nav items / GitHub **68★**; `/registry.json` 404. unive.ai is an **admissions** product landing (title Unive - Your AI Admissions Team), not a design-system gallery. doss.com live **211,087 B** ERP landing.
+5. AICSS live `/r` is **14 / 10 free / 4 locked** ([aicss](../../tools/aicss.md)). Beautiful UI homepage names **21** components ([shadcn-component-kit](../../techniques/shadcn-component-kit.md)). 23rd.dev docs **10** nav items / GitHub **68★**; `/registry.json` 404. unive.ai is an **admissions** product landing (title Unive - Your AI Admissions Team), not a design-system gallery. doss.com live **211,087 B** ERP landing. Forja marketplace page is live (**$129** / 261,271 B) — Framer no-code, not a React registry. Thread still `captured_partial` (19/1).

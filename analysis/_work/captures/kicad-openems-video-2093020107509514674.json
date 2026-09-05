@@ -1,0 +1,14 @@
+{
+  "fetched": "2026-09-05T00:30:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/jumarmacato/status/2093020107509514674",
+  "text": "Made a custom fully open-source based KiCAD+OpenEMS physical simulation harness so that I can check the signal integrity of my PCB design before shipping it off to the fabs. It's already working coz it flagged my board for signal integrity issues",
+  "video": {
+    "duration_s": 17.866,
+    "width": 1920,
+    "height": 1024
+  },
+  "public_repo": false,
+  "do_not_collapse": "antmicro/kicad-si-simulation-wrapper is a different unpublished-vs-published neighbor, not this author's harness",
+  "note": "No repo or docs URL on the tweet. The linked artifact is this X amplify video."
+}

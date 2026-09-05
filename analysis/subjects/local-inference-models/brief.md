@@ -78,12 +78,12 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2088594942482374759#c1` | RunInfra claims the fastest full-precision V4 Flash inference at 278.3 tok/s with sub-dollar-per-million-token pricing. | stated | [RunInfra hosts full BF16 DeepSeek V4 …](../../items/x-2088594942482374759/card.md) |
 | `x-2090103470015828184#c1` | Dynamic V3 Qwen3.8-27B GGUFs claim over 10% higher accuracy than other quants on Div-300 and KLD benchmarks. | stated | [Unsloth Dynamic V3 Qwen3.8-27B GGUFs …](../../items/x-2090103470015828184/card.md) |
 | `x-2090103470015828184#c2` | Unsloth also ships 1-bit quants retaining about 77% accuracy runnable on 8GB RAM. | stated | [Unsloth Dynamic V3 Qwen3.8-27B GGUFs …](../../items/x-2090103470015828184/card.md) |
-| `x-2090930324817498246#c1` | The engine runs DeepSeek-V4-Flash 284B at 25 tok/s on an RTX 5090 system. | unverified | [Unnamed Berkeley/MIT inference engine…](../../items/x-2090930324817498246/card.md) |
-| `x-2090930324817498246#c2` | Reported 1.46× faster than llama.cpp on the same test; Ollama cannot serve that model. | unverified | [Unnamed Berkeley/MIT inference engine…](../../items/x-2090930324817498246/card.md) |
+| `x-2090930324817498246#c1` | The engine runs DeepSeek-V4-Flash 284B at 25 tok/s on an RTX 5090 system. | unverified | [Hesamation paraphrases FreeToken as a…](../../items/x-2090930324817498246/card.md) |
+| `x-2090930324817498246#c2` | Reported 1.46× faster than llama.cpp on the same test; Ollama cannot serve that model. | unverified | [Hesamation paraphrases FreeToken as a…](../../items/x-2090930324817498246/card.md) |
 | `x-2091150763418620133#c1` | FreeToken serves Qwen3.6-35B at 39.3 tokens per second on an 8GB GPU by exploiting MoE sparsity. | stated | [FreeToken MoE inference engine: PCIe/…](../../items/x-2091150763418620133/card.md) |
 | `x-2091150763418620133#c2` | The engine profiles PCIe and CPU bandwidth once per machine and splits each step's expert misses proportionally betwe… | stated | [FreeToken MoE inference engine: PCIe/…](../../items/x-2091150763418620133/card.md) |
 
-Full set: claims.jsonl (19 rows)
+Full set: claims.jsonl (22 rows)
 
 ## local-inference-models — comparison axes
 

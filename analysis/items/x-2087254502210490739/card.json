@@ -3,7 +3,7 @@
   "id": "x-2087254502210490739",
   "source_type": "x",
   "url": "https://x.com/neviannn/status/2087254502210490739",
-  "title": "Stanford Control Plane Pattern: replace brittle multi-agent handoff chains",
+  "title": "Control Plane Pattern X article: replace brittle multi-agent handoff chains",
   "author": {
     "name": null,
     "handle": "neviannn",
@@ -29,7 +29,7 @@
   "platforms": [
     "other"
   ],
-  "summary": "Thread summary of a Stanford AI Systems Lab paper arguing multi-agent pipelines rot context at each handoff and proposing a Control Plane Pattern: deterministic signal queues, one centralized reasoning agent, and a knowledge-graph control plane.",
+  "summary": "X article (not a Stanford paper) arguing multi-agent analytics pipelines rot context at each handoff and proposing a Control Plane Pattern: deterministic signal queues, one centralized reasoning agent, and a knowledge-graph control plane. Pharma/ZS Associates example.",
   "question_it_answers": "Why do naive multi-agent specialist chains fail, and what architecture replaces brittle context handoffs?",
   "claims": [
     {
@@ -61,6 +61,36 @@
       "evidence_ref": "post.md",
       "confidence": "unverified",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087254502210490739#c4",
+      "text": "fxtwitter article 2087107935079940096 (carrier monokern/2087241401649996149) is 83 blocks / 77 nonempty / 15,151 chars and has no Stanford string. Latency copy is 3–4 weeks → 20–30 minutes, not the tweet’s 4 weeks → 30 minutes / ~10× tokens.",
+      "kind": "counter-claim",
+      "evidence": "Article title Why Multi-Agent Pipelines Fail for Complex Analytics (And Control Plane Pattern That Replaces Them). has_stanford false. Honest Math: Analyst Latency Reduced from 3-4 weeks … down to 20-30 minutes. No ~10x token sentence.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/agent-harness-ops.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087254502210490739#c5",
+      "text": "Article names three pillars — Deterministic Signal Queue, Centralized Reasoning + dynamic sub-agents, Knowledge Graph Control Plane — plus a ZS Associates pharma TRX/payer-tier example and a 50+ turn bounded graph walk.",
+      "kind": "recipe",
+      "evidence": "Pillar 1 Deterministic Signal Queue; Pillar 2 Centralized Reasoning Ownership with Dynamic Sub-Agents; Pillar 3 Knowledge Graph Control Plane. When ZS Associates originally built an agentic pipeline for commercial pharma analytics. Loop Termination: 50+ execution turns.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/agent-harness-ops.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087254502210490739#c6",
+      "text": "Do not collapse this X article with arXiv 2505.06817 (Kandasamy, Control Plane as a Tool, May 2025) — different paper, different venue.",
+      "kind": "counter-claim",
+      "evidence": "Article created_at 2026-08-11; no arXiv id in the 15,151-char body. 2505.06817 is Kandasamy May 2025.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/agent-harness-ops.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,
@@ -76,10 +106,21 @@
       "value": "10",
       "unit": "x",
       "source": "post"
+    },
+    {
+      "label": "article body chars",
+      "value": "15151",
+      "unit": "chars",
+      "source": "note"
+    },
+    {
+      "label": "article latency copy",
+      "value": "3-4 weeks to 20-30 minutes",
+      "unit": null,
+      "source": "note"
     }
   ],
   "techniques": [
-    "agent-harness-ops",
     "agent-harness-ops"
   ],
   "tools": [],
@@ -88,7 +129,9 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://x.com/i/article/2087107935079940096"
+    ],
     "related_items": [
       "x-2087026930323247306",
       "x-2080856252687745093",
@@ -109,8 +152,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-partial",
-    "linked-page-unfetched"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [
@@ -121,5 +163,5 @@
     "why_must_read": null
   },
   "worker": "cards-12",
-  "written_at": "2026-09-04T18:10:00Z"
+  "written_at": "2026-09-05T00:40:00Z"
 }

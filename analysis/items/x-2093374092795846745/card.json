@@ -39,19 +39,62 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093374092795846745#c2",
+      "text": "The 19-minute tutorial is an X amplify video on the same tweet: 1187.497 s (19.79 min), 3840×2160. No separate YouTube URL.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/adilinthewild/status/2093374092795846745. text Full 19-minute tutorial. video duration 1187.497 width 3840 height 2160.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/higgsfield.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
+    },
+    {
+      "id": "x-2093374092795846745#c3",
+      "text": "Quoted “All the prompts and files” t.co resolves to Higgsfield blog 200 / 72,653 B. Title This Blender + Higgsfield AI Workflow Changes How You Make AI Video. HTML is a community shell; 19-minute / tutorial strings are not in the page.",
+      "kind": "availability",
+      "evidence": "Quoted 2093374875696247056 → https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq → @adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video 200 / 72,653 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/higgsfield.md",
+      "confidence": "demonstrated",
+      "subject": "blockout-to-video-flythrough"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
-  "techniques": [],
-  "tools": [],
+  "numbers": [
+    {
+      "label": "Blender blockout tutorial duration",
+      "value": "1187.497",
+      "unit": "seconds",
+      "source": "note"
+    },
+    {
+      "label": "Higgsfield blog HTML",
+      "value": "72653",
+      "unit": "bytes",
+      "source": "note"
+    }
+  ],
+  "techniques": [
+    "blender-blockout-camera"
+  ],
+  "tools": [
+    "blender",
+    "higgsfield"
+  ],
   "links": {
-    "canonical": null,
+    "canonical": "https://x.com/adilinthewild/status/2093374092795846745",
     "repo": null,
     "paper": null,
-    "product": null,
-    "other": [],
-    "related_items": []
+    "product": "https://higgsfield.ai/@adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video",
+    "other": [
+      "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq"
+    ],
+    "related_items": [
+      "x-2093377271771865267",
+      "x-2092255768770920506"
+    ]
   },
   "media": [],
   "raw": {
@@ -66,14 +109,12 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-05",
-  "written_at": "2026-09-04T18:05:59Z"
+  "written_at": "2026-09-05T00:40:00Z"
 }

@@ -1,0 +1,13 @@
+{
+  "fetched": "2026-09-05T00:30:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/adamdotnew/status/2095193896687177873",
+  "text": "Claude Fable 5.1 is a beast at agentic CAD! At Max effort it's the most capable model we've tested so far. Here, inside Adam's harness in Fusion, it rebuilt the SO-101 gripper around the stock servo and mounted a real Pi Camera Module 3 from the official STEP.",
+  "video": {
+    "duration_s": 7.633,
+    "width": 3396,
+    "height": 2160
+  },
+  "separate_docs_or_step": false,
+  "note": "No Fusion export, STEP, or F3D in this bank. Ranking language is the author's. Linked page is this X amplify video."
+}

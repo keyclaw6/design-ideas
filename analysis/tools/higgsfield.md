@@ -9,5 +9,5 @@
 - [Blender camera lock plus Seedance 2.5 skin via Higgsfield plugin](../items/x-2093377271771865267/card.md) — technique, example — blockout-to-video-flythrough
 
 <!-- NOTES:START -->
-
+**2026-09-05 capture — adilinthewild 19-min Blender blockout tutorial.** Root tweet `2093374092795846745` amplify video **1187.497 s** (19.79 min), **3840×2160**. Quoted `2093374875696247056` “All the prompts and files” → `https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq` → `https://higgsfield.ai/@adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video` **200 / 72,653 B**. Title **This Blender + Higgsfield AI Workflow Changes How You Make AI Video**. No `__NEXT_DATA__`; 19-minute / tutorial strings are not in the HTML. The taught process is the X video. Receipt `analysis/_work/captures/adil-blender-tutorial-2093374092795846745.json`.
 <!-- NOTES:END -->

@@ -49,21 +49,42 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2095427702325231977#c3",
+      "text": "Quoted t.co resolves to reddit.com/r/StableDiffusion/comments/1w5zh4z/bad_audio_fixed_with_fast_regen_audio/. www and old.reddit both HTTP 403. Amplify video on the root tweet is 10.354 s at 854×472. Downscale/step integers still missing.",
+      "kind": "availability",
+      "evidence": "Quoted 2095427723858751958 text is the Reddit URL. urllib www + old.reddit → HTTP 403 Blocked. fxtwitter root video duration 10.354 width 854 height 472.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "H3 audio-repair demo duration",
+      "value": "10.354",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "faceless-video-pipeline",
     "agent-video-editing"
   ],
-  "tools": [],
+  "tools": [
+    "minimax-h3"
+  ],
   "links": {
     "canonical": "https://x.com/aiaicreate/status/2095427702325231977",
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://www.reddit.com/r/StableDiffusion/comments/1w5zh4z/bad_audio_fixed_with_fast_regen_audio/"
+    ],
     "related_items": []
   },
   "media": [],
@@ -78,14 +99,12 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-18",
-  "written_at": "2026-09-04T18:25:52Z"
+  "written_at": "2026-09-05T00:40:00Z"
 }

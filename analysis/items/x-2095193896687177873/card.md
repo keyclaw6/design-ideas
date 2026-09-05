@@ -2,7 +2,7 @@
 
 `x-2095193896687177873` · x · demo-image · en · [source](https://x.com/adamdotnew/status/2095193896687177873) · [raw](../../../raw/items/x-2095193896687177873/)
 **Author:** — (@adamdotnew) · **Published:** — · **Captured:** 2026-09-04T07:01:54Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** media-undescribed, linked-page-unfetched
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** media-undescribed
 **Subject:** [ai-cad-hardware](../../subjects/ai-cad-hardware/brief.md) · **Also:** — · **Roles:** example, reference · **Platforms:** fusion, claude-code
 
 **Summary.** Adam reports Claude Fable 5.1 at Max effort is the strongest agentic CAD model they have tested, rebuilding an SO-101 gripper around the stock servo and mounting a Pi Camera Module 3 from official STEP inside Fusion via their harness.
@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2095193896687177873#c1` (benchmark, stated) At Max effort Claude Fable 5.1 is described as the most capable agentic CAD model the author has tested so far. — evidence: "At Max effort it's the most capable model we've tested so far." [post]
 - `x-2095193896687177873#c2` (result, stated) Inside Fusion the model rebuilt the SO-101 gripper around the stock servo and mounted a Pi Camera Module 3 from official STEP. — evidence: "it rebuilt the SO-101 gripper around the stock servo and mounted a real Pi Camera Module 3 from the official STEP." [post]
-**Numbers.** —
+- `x-2095193896687177873#c3` (availability, demonstrated) The demo is an X amplify video 7.633 s at 3396×2160. No separate Fusion export, STEP, or F3D in this bank. Ranking language (“most capable”) is the author’s. — evidence: "GET https://api.fxtwitter.com/adamdotnew/status/2095193896687177873. video duration 7.633 width 3396 height 2160. urls: none." [note]
+**Numbers.** Fusion Fable demo duration: 7.633 seconds (note)
 **Recipe.** —
 **Techniques.** [cad-agent-assembly](../../techniques/cad-agent-assembly.md)
 **Tools.** [claude-fable](../../tools/claude-fable.md), [fusion](../../tools/fusion.md)

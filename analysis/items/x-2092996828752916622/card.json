@@ -36,17 +36,50 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2092996828752916622#c2",
+      "text": "Framer Marketplace lists Forja at $129 (Buy for $129; JSON price 129). GET 200 / 261,271 B. Title Forja: Responsive AI Website Template by Miguel Queirós. Meta: Template for AI agents & agencies.",
+      "kind": "pricing",
+      "evidence": "GET https://www.framer.com/marketplace/templates/forja/ 200 / 261,271 B. Buy for $129. meta description Template for AI agents & agencies. Quoted t.co on 2092996963138449599.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/shadcn-component-kit.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2092996828752916622#c3",
+      "text": "Forja is a Framer no-code marketplace template, not a shadcn/React kit. HTML includes AI agencies, agent studios, automation, and Framer Template strings.",
+      "kind": "availability",
+      "evidence": "og:description customize it in Framer's no-code website builder. phrases_present AI agencies / agent studios / automation / Framer Template / no-code.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/shadcn-component-kit.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Framer Marketplace price",
+      "value": "129",
+      "unit": "USD",
+      "source": "note"
+    },
+    {
+      "label": "Forja marketplace HTML",
+      "value": "261271",
+      "unit": "bytes",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [],
   "links": {
     "canonical": "https://x.com/DopeOblivion/status/2092996828752916622",
     "repo": null,
     "paper": null,
-    "product": null,
+    "product": "https://www.framer.com/marketplace/templates/forja/",
     "other": [],
     "related_items": []
   },
@@ -62,14 +95,12 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [],
     "must_read": false,
     "why_must_read": null
   },
   "worker": "cards-03",
-  "written_at": "2026-09-04T18:06:28Z"
+  "written_at": "2026-09-05T00:40:00Z"
 }

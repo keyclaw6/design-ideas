@@ -9,7 +9,7 @@
 - [Anthropic Dynamic Workflows cookbook — Claude spawns 1,000 subagents](../items/x-2087026930323247306/card.md) — reference, technique — agent-harness-loops
 - [pi-shepherdr: 271-token Pi orchestrator for Herdr multi-agent panes](../items/x-2087232392209531166/card.md) — tool, technique — agent-harness-loops
 - [Sentrux Rust binary scores codebase architecture for agent sessions](../items/x-2087239769877295158/card.md) — tool, technique — agent-memory-knowledge
-- [Stanford Control Plane Pattern: replace brittle multi-agent handoff chains](../items/x-2087254502210490739/card.md) — reference, technique — agent-harness-loops
+- [Control Plane Pattern X article: replace brittle multi-agent handoff chains](../items/x-2087254502210490739/card.md) — reference, technique — agent-harness-loops
 - [LangChain managed deep agent folder architecture (MDA)](../items/x-2088345102540587356/card.md) — reference, technique — agent-harness-loops
 - [Harness canvas worker draws architecture diagrams in chat](../items/x-2088590355440476343/card.md) — technique, example — infographics-diagrams
 - [Karpathy-cited REASONING block system prompt for step-by-step answers](../items/x-2091118605392019658/card.md) — technique, reference — agent-harness-loops
@@ -25,4 +25,6 @@ Harness, control plane, folder-as-agent, and multi-agent ops that a later judge 
 Owner subject: `agent-harness-loops`. Referenced by 16 item(s): x-2032671842230501729, x-2082316720086405524, x-2086838432102228008, x-2087026930323247306, x-2087232392209531166, x-2087239769877295158, x-2087254502210490739, x-2088345102540587356….
 Score items that use this method on the owner brief's comparison axes. Do not treat the slug as a product name.
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
+
+**2026-09-05 capture — Control Plane X article (not Stanford).** Carrier `monokern/2087241401649996149` via fxtwitter. Article **2087107935079940096**, title *Why Multi-Agent Pipelines Fail for Complex Analytics (And Control Plane Pattern That Replaces Them)*, created 2026-08-11. **83** blocks / **77** nonempty / **15,151** chars. **No “Stanford” string.** Latency copy is **3–4 weeks → 20–30 minutes**, not the neviannn tweet’s “4 weeks → 30 minutes / ~10× tokens.” Three pillars: Deterministic Signal Queue, Centralized Reasoning + dynamic sub-agents, Knowledge Graph Control Plane. ZS Associates pharma / 18% TRX / payer-tier example. Bounded loop **50+** turns. Do not collapse with arXiv **2505.06817** (Kandasamy, “Control Plane as a Tool”, May 2025). Logged-out `x.com/i/article/…` is 404; body is `tweet.article`. Receipt `analysis/_work/captures/control-plane-x-article-2087107935079940096.json`.
 <!-- NOTES:END -->

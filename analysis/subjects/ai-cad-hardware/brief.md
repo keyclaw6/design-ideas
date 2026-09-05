@@ -99,7 +99,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2093020107509514674#c1` | A custom KiCad plus OpenEMS harness can check signal integrity of a PCB design before fabrication. | demonstrated | [KiCad + OpenEMS harness flags PCB sig…](../../items/x-2093020107509514674/card.md) |
 | `x-2093305736717545869#c3` | Quoted Fusion X article documents Codex MCP at 127.0.0.1:27182/mcp (14,743-char fxtwitter body). | demonstrated | [Fusion MCP stress-test: weird concent…](../../items/x-2093305736717545869/card.md) |
 
-Full set: claims.jsonl (29 rows)
+Full set: claims.jsonl (31 rows)
 
 ## ai-cad-hardware — comparison axes
 

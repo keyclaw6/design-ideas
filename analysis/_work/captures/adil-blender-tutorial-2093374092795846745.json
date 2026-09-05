@@ -1,0 +1,22 @@
+{
+  "fetched": "2026-09-05T00:30:00Z",
+  "root_tweet": "https://api.fxtwitter.com/adilinthewild/status/2093374092795846745",
+  "text": "Stop burning credits on AI videos. Block the scene in Blender first. Full 19-minute tutorial:",
+  "video": {
+    "duration_s": 1187.497,
+    "duration_min": 19.79,
+    "width": 3840,
+    "height": 2160
+  },
+  "quoted_tweet": "2093374875696247056",
+  "quoted_text": "All the prompts and files: https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
+  "higgsfield": {
+    "short": "https://higgsfield.ai/s/blender-plugin-higgsfieldai-lpdrbq",
+    "final": "https://higgsfield.ai/@adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video",
+    "http": 200,
+    "bytes": 72653,
+    "title": "This Blender + Higgsfield AI Workflow Changes How You Make AI Video",
+    "next_data": false,
+    "note": "Community blog shell; 19-minute / tutorial strings not in the HTML. The taught process is the X amplify video."
+  }
+}

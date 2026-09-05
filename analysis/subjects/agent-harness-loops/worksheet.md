@@ -11,7 +11,7 @@ The 35 primaries are mostly essays and pointers. Four *runnable* control planes 
 3. **Permission / blast radius.** Kun Chen disposable Nix + gated secrets ([x-2082316720086405524](../../items/x-2082316720086405524/card.md)). fini “one login, six bots, 24k actions” ([x-2094110975045554191](../../items/x-2094110975045554191/card.md)).
 4. **Observe the session.** Blume Sidecar config-drift watch ([web-blume-codes](../../items/web-blume-codes/card.md)). Sideshow.sh visual inspect ([x-2091622497393225801](../../items/x-2091622497393225801/card.md)). Pi-family extensions (shepherdr, clarify, voice) if the harness is already Pi.
 
-Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plane, LangChain MDA) are references. Use them after a loop exists.
+Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Control Plane X article, LangChain MDA) are references. Use them after a loop exists.
 
 ## agent-harness-loops — axis scores
 
@@ -30,7 +30,7 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 | Sideshow.sh | visual inspect | n/a | n/a | mid | n/a |
 | pi-shepherdr | high (271-token orchestrator) | pane isolation | none | Herdr panes | multi Pi |
 | Ouroboros | high (MIT harness; paper + site) | reviewed commits; Hope live | Terminal-Bench / OSWorld / CL-Bench stated | git + Hope memory | self-modify |
-| Anthropic / Stanford / MDA | cookbook / paper | varies | cookbook has a task | folder-as-agent (MDA) | multi |
+| Anthropic / Control Plane / MDA | cookbook / X article (no Stanford string; not arXiv 2505.06817) | varies | cookbook has a task; article is a pharma case | folder-as-agent (MDA) | multi (article: one reasoner + fetch sub-agents) |
 | awesome lists / training hubs | index | n/a | n/a | n/a | n/a |
 
 ## agent-harness-loops — claims that need a receipt
@@ -56,3 +56,4 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Stanford Control Plan
 2. Headlong cloc 1.98 (**9,912 code**) vs `wc` 13,947 vs README ~11K, and the reddit-karma prompt location, are on the tool NOTES. Remaining: same missing `submit_logs/` tree (API id 796445 is not a log dump).
 3. Chadha primer is live at `https://aman.ai/primers/ai/autoresearch-and-metaharness/` (**308,037** B, 14 H2 / 143 H3). `autoresearch.aman.ai` still times out; `aman.ai/autoresearch` is still **404**. Five-component working definition + Meta-Harness optimize list on [autoresearch-loop](../../techniques/autoresearch-loop.md). Keep fini’s shared-profile warning next to any “six Grok bots” outbound pitch.
 4. Ondrej X article **2094424686499160065** body is on [herdr](../../tools/herdr.md) (14,952 chars; eight H2s; bb/cmux/Herdr/Pi/skills). Cursor “10–15% → 60%” merged-PR share stays the author’s graph. Card gap is now `thread-partial` (51/3), not `linked-page-unfetched`.
+5. Control Plane article **2087107935079940096** is on [agent-harness-ops](../../techniques/agent-harness-ops.md): **15,151** chars / no Stanford / **3–4 weeks → 20–30 minutes** (tweet 4 weeks / ~10× tokens is paraphrase). Do not collapse with Kandasamy arXiv 2505.06817. Card gap stays `thread-partial` (30/3).

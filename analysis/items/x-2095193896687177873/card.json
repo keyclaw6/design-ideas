@@ -50,10 +50,27 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "id": "x-2095193896687177873#c3",
+      "text": "The demo is an X amplify video 7.633 s at 3396×2160. No separate Fusion export, STEP, or F3D in this bank. Ranking language (“most capable”) is the author’s.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/adamdotnew/status/2095193896687177873. video duration 7.633 width 3396 height 2160. urls: none.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/fusion.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Fusion Fable demo duration",
+      "value": "7.633",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "cad-agent-assembly"
   ],
@@ -86,8 +103,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "media-undescribed",
-    "linked-page-unfetched"
+    "media-undescribed"
   ],
   "judge_hints": {
     "compare_with": [
@@ -97,5 +113,5 @@
     "why_must_read": "Model benchmark claim for Fusion agentic CAD; demo media not stored in harvest."
   },
   "worker": "cards-07",
-  "written_at": "2026-09-04T18:25:00Z"
+  "written_at": "2026-09-05T00:40:00Z"
 }

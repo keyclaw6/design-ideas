@@ -1,0 +1,16 @@
+{
+  "fetched": "2026-09-05T00:30:00Z",
+  "method": "fxtwitter-api",
+  "hesamation_tweet": "https://x.com/Hesamation/status/2090930324817498246",
+  "quoted_tweet": "https://api.fxtwitter.com/Andy_ShuoYang/status/2090856976880472439",
+  "quoted_author": "Andy_ShuoYang",
+  "quoted_id": "2090856976880472439",
+  "engine": "FreeToken",
+  "same_as": "x-2091150763418620133",
+  "quoted_text_head": "Meet FreeToken. Qwen3.6 35B → 8GB RTX 4060 laptop @ 39 tok/s. DeepSeek-V4-Flash 284B → RTX 5090 desktop @ 22-25 tok/s. GLM-5.2 753B → RTX PRO 6000 workstation @ 15 tok/s.",
+  "hesamation_25_toks": "top of the quoted 22-25 tok/s band, not a separate measurement",
+  "hesamation_mit": "only in Hesamation paraphrase; FreeToken NOTES authors are Berkeley / UT / others",
+  "repo": "https://github.com/FlashML-org/FreeToken",
+  "license": "Apache-2.0",
+  "do_not_invent": "unnamed Berkeley/MIT engine"
+}

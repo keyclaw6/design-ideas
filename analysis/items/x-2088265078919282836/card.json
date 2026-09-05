@@ -52,10 +52,27 @@
       "evidence_ref": "research.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2088265078919282836#c3",
+      "text": "The taught process is an X amplify video on MengTo/2088117711868227765: 2411.133 s (40.18 min), 2880×2160. No separate docs or YouTube URL on that tweet.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/MengTo/status/2088117711868227765. text: I recorded a 40-min tutorial…. video duration 2411.133 width 2880 height 2160. urls: none.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mengto-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Meng To tutorial duration",
+      "value": "2411.133",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "scroll-driven-3d"
   ],
@@ -68,7 +85,9 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://x.com/MengTo/status/2088117711868227765"
+    ],
     "related_items": [
       "github-mengto-skills",
       "github-mengto-complete-shelf",
@@ -91,17 +110,15 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [
-    "linked-page-unfetched"
-  ],
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "github-mengto-skills",
       "github-oso95-scroll-world"
     ],
     "must_read": false,
-    "why_must_read": "Tweet lacks the tutorial URL; research names the Meng skill stack to install."
+    "why_must_read": "Tweet lacks a docs/YouTube URL; the taught process is the 40.18 min X amplify video."
   },
   "worker": "cards-07",
-  "written_at": "2026-09-04T18:25:00Z"
+  "written_at": "2026-09-05T00:40:00Z"
 }

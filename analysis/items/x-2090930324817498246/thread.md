@@ -1,4 +1,4 @@
-# Thread — Unnamed Berkeley/MIT inference engine benchmarks vs llama.cpp and Ollama (x-2090930324817498246)
+# Thread — Hesamation paraphrases FreeToken as an unnamed Berkeley/MIT engine (x-2090930324817498246)
 
 **Status:** captured_partial · **Author thread:** none · **Replies reported:** 32 · **Captured:** 3 · **Relevant:** 2 · **Unfetched:** 29 · **Truncated:** False
 **Fetch log:** x-web-dom→ok (2026-09-04T17:54:20Z); fxtwitter-api→ok (2026-09-04T17:54:20Z)

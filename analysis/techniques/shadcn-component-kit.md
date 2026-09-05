@@ -16,4 +16,6 @@ Score items that use this method on the owner brief's comparison axes. Do not tr
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
 **2026-09-04 capture — 23rd.dev + Beautiful UI.** 23rd docs **10** named nav items; GitHub **68★ / 0** forks; `/registry.json` 404 ([23rd-dev](../tools/23rd-dev.md)). Beautiful UI live **21** named homepage components; **649,689 B**; `/r` 404. Receipts `23rd-dev-2026-09-04.json`, `beautifului-2026-09-04.json`.
+
+**2026-09-05 capture — Forja is Framer, not shadcn.** `GET https://www.framer.com/marketplace/templates/forja/` **200 / 261,271 B**. Title **Forja: Responsive AI Website Template by Miguel Queirós**. **$129** (`Buy for $129`; JSON `price` 129). Meta **Template for AI agents & agencies**. HTML also has AI agencies / agent studios / automation / no-code. Quoted from DopeOblivion `2092996963138449599`. Do not score it as a React registry kit. Receipt `analysis/_work/captures/forja-framer-2026-09-05.json`.
 <!-- NOTES:END -->

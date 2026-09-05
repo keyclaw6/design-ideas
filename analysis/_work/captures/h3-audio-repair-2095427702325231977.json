@@ -1,0 +1,14 @@
+{
+  "fetched": "2026-09-05T00:30:00Z",
+  "root": "https://api.fxtwitter.com/aiaicreate/status/2095427702325231977",
+  "quoted": "https://api.fxtwitter.com/aiaicreate/status/2095427723858751958",
+  "quoted_url": "https://www.reddit.com/r/StableDiffusion/comments/1w5zh4z/bad_audio_fixed_with_fast_regen_audio/",
+  "reddit_www": "HTTP 403 Blocked",
+  "reddit_old": "HTTP 403 Blocked",
+  "video": {
+    "duration_s": 10.354,
+    "width": 854,
+    "height": 472
+  },
+  "note": "URL-in-reply is the quoted tweet, not a later reply. Reddit body unfetched (403). Downscale/step integers still missing."
+}

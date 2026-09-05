@@ -50,3 +50,4 @@ SipeedLab “one hour vs half day” schematic claim is a vendor clock.
 2. Keep PCB items (autoroute, OpenEMS, Fields Studio) in a separate shortlist from CadX demos.
 3. text-to-cad repo + docs are on [text-to-cad](../../tools/text-to-cad.md). Remaining: a generated STEP from `models/w16` on this host (no CAD seat required if cadgen runs; not exercised).
 4. Do not expand keyboard coverage beyond boards already in the roster.
+5. Fable 5.1 Fusion demo is an X amplify video **7.633 s** / 3396×2160 — no STEP/F3D ([fusion](../../tools/fusion.md)). KiCad+OpenEMS harness has **no public repo**; artifact is a **17.866 s** / 1920×1024 clip ([openems](../../tools/openems.md)). Do not treat `antmicro/kicad-si-simulation-wrapper` as that harness. Both cards stay `ready-with-gaps` (`thread-partial`; Fusion also `media-undescribed`).
