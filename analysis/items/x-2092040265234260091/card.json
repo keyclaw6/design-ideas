@@ -31,6 +31,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "code-motion-graphics"
+    },
+    {
+      "id": "x-2092040265234260091#c2",
+      "text": "The AE→H3 handoff demo is an X amplify video 7.061 s at 1232×1276. Recipe steps (AE rough, GPT materials, H3 reference, revise) are already in English on this card. Thread is captured_partial (13/1), not failed.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/seiiiiiiiiiiru/status/2092040265234260091. video duration 7.061 width 1232 height 1276. replies 13.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
+      "subject": "code-motion-graphics"
     }
   ],
   "recipe_steps": [
@@ -39,7 +49,14 @@
     "Write and refine prompts, then run H3 with AE rough and material references.",
     "Revise AE motion or regenerate materials based on output, looping prompt fixes."
   ],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "AE to H3 demo duration",
+      "value": "7.061",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [],
   "links": {
@@ -67,8 +84,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "thread-failed",
-    "translation-needed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -76,7 +92,7 @@
     "why_must_read": null
   },
   "worker": "cards-04",
-  "written_at": "2026-09-04T18:05:00Z",
+  "written_at": "2026-09-05T02:05:00Z",
   "id": "x-2092040265234260091",
   "source_type": "x",
   "url": "https://x.com/seiiiiiiiiiiru/status/2092040265234260091",

@@ -2,7 +2,7 @@
 
 `x-2091519705911795761` · x · thread · ja · [source](https://x.com/fujiryu00/status/2091519705911795761) · [raw](../../../raw/items/x-2091519705911795761/)
 **Author:** fujiryu00 (@fujiryu00) · **Published:** — · **Captured:** 2026-09-04T07:36:43Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** translation-needed
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [ai-video-generation](../../subjects/ai-video-generation/brief.md) · **Also:** — · **Roles:** example · **Platforms:** other
 
 **Summary.** Japanese post noting MiniMax H3 is free enough to run many parallel video generation trials, with the author offering a tutorial article if interest is high.
@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2091519705911795761#c1` (availability, stated) The author runs parallel MiniMax H3 video tests because the model is free. — evidence: "これ無料だから、同時並行で何個も試しまくれるのが超ありがたい。" [post]
 - `x-2091519705911795761#c2` (capability, stated) The post identifies MiniMax H3 as the model in use. — evidence: "使ってるモデルはMiniMax H3" [post]
-**Numbers.** —
+- `x-2091519705911795761#c3` (availability, demonstrated) The post is an X amplify video 13.723 s at 1108×720. Official Hailuo page https://hailuoai.video/ is 200 / 848,994 B, title MiniMax H3 LIVE NOW. Visible HTML has From /mo and Sign In. The word Free on that page is an image-pack category, not an H3 quota. Tweet 無料 stays tweet-only. Thread stays captured_partial (24/3). — evidence: "GET https://api.fxtwitter.com/fujiryu00/status/2091519705911795761 video 13.723 1108x720. GET https://hailuoai.video/ 200 848994 B." [note]
+**Numbers.** H3 free-tier demo duration: 13.723 seconds (note)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [minimax-h3](../../tools/minimax-h3.md)

@@ -42,6 +42,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2095159781883597031#c2",
+      "text": "Author estimates a manual rebuild would take about 3 person-days (3人日). fxtwitter returns no amplify video for this tweet (still-image post). Thread stays captured_partial (3/2). No .blend in this bank.",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/hayashimon1/status/2095159781883597031. video null. replies 3. Tweet: これを手作業で作れと言われたら、3人日はかかるかな……。",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/image-to-3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": [],
@@ -71,7 +81,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "translation-needed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -79,5 +89,5 @@
     "why_must_read": null
   },
   "worker": "cards-05",
-  "written_at": "2026-09-04T18:05:59Z"
+  "written_at": "2026-09-05T02:05:00Z"
 }

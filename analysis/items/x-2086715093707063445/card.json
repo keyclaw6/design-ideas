@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2086715093707063445#c3",
+      "text": "The four named URLs resolve: impeccable.style 200 / 110,304 B (title Impeccable: The missing design vocabulary for agents); github.com/emilkowalski/skills 200; github.com/Jakubantalik/transitions.dev 200; github.com/greensock/gsap-skills 200. The Chinese sentence is a keep-4-after-trials opinion. Thread stays captured_partial (3/1).",
+      "kind": "availability",
+      "evidence": "GET https://impeccable.style 200 110304 B. GET the three GitHub repos 200. fxtwitter ricouii/2086715093707063445 replies 3, no video.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gsap-skills.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -92,7 +102,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "translation-needed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -100,5 +110,5 @@
     "why_must_read": null
   },
   "worker": "cards-15",
-  "written_at": "2026-09-04T18:15:00Z"
+  "written_at": "2026-09-05T02:05:00Z"
 }

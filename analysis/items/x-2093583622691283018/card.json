@@ -39,10 +39,27 @@
       "evidence_ref": "raw/items/x-2093583622691283018/post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093583622691283018#c2",
+      "text": "The taught tutorial is an X amplify video 1282.766 s (~21.38 min) at 3324×2160, which matches the tweet’s “21 minutos.” No separate syllabus URL. Thread stays captured_partial (70/2).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/alextalksai/status/2093583622691283018. video duration 1282.766 width 3324 height 2160. replies 70.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gpt-5-6-sol.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Spanish Sol tutorial duration",
+      "value": "1282.766",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [],
   "links": {
@@ -67,7 +84,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "translation-needed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -75,5 +92,5 @@
     "why_must_read": null
   },
   "worker": "cards-14",
-  "written_at": "2026-09-04T18:06:32Z"
+  "written_at": "2026-09-05T02:05:00Z"
 }

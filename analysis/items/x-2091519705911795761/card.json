@@ -48,10 +48,27 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2091519705911795761#c3",
+      "text": "The post is an X amplify video 13.723 s at 1108×720. Official Hailuo page https://hailuoai.video/ is 200 / 848,994 B, title MiniMax H3 LIVE NOW. Visible HTML has From /mo and Sign In. The word Free on that page is an image-pack category, not an H3 quota. Tweet 無料 stays tweet-only. Thread stays captured_partial (24/3).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/fujiryu00/status/2091519705911795761 video 13.723 1108x720. GET https://hailuoai.video/ 200 848994 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/minimax-h3.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "H3 free-tier demo duration",
+      "value": "13.723",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [
     "minimax-h3"
@@ -80,7 +97,7 @@
   },
   "readiness": "ready-with-gaps",
   "gaps": [
-    "translation-needed"
+    "thread-partial"
   ],
   "judge_hints": {
     "compare_with": [],
@@ -88,5 +105,5 @@
     "why_must_read": null
   },
   "worker": "cards-08",
-  "written_at": "2026-09-04T18:05:00Z"
+  "written_at": "2026-09-05T02:05:00Z"
 }
