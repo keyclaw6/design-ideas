@@ -7,4 +7,6 @@
 
 <!-- NOTES:START -->
 Fetched 2026-09-05 `https://www.graphed.com/mcp` GET 200 / **40,794 B**. Title Graphed MCP Server — Query your data from any AI assistant. First-party: explore warehouse schema, run SQL, build dashboards from the editor. FDE string absent. Receipt `analysis/_work/captures/leftover2-2026-09-05.json`.
+
+**2026-09-05 leftover23.** Unused `cal.com/team/graphed-com/discovery` **576,201 B** title Graphed Discovery Call. Visible empty (Cal booking SPA). Not the MCP warehouse page. Receipt `leftover23-2026-09-05.json`.
 <!-- NOTES:END -->

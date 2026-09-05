@@ -70,6 +70,16 @@
       "evidence_ref": "analysis/tools/seo-skill-cli.md",
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2095055297949610427#c5",
+      "text": "leftover23 unused npmjs.com/package/seo is HTTP 403 / 5,650 B Cloudflare challenge. Do not hammer. Package version $0.2.40 stays on the earlier linked-page number; seoskill.dev 70+ still GitHub-only (#c3).",
+      "kind": "availability",
+      "evidence": "leftover23 npm-seo 403 5650 B Just a moment.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],

@@ -27,7 +27,7 @@
   "platforms": [
     "other"
   ],
-  "summary": "Cody Schneider's IQ-style thread argues effective cold email is a tight list, short problem-plus-offer copy, volume, and pipeline KPIs—not domain farms, spintax, and nine-step bump sequences.",
+  "summary": "Cody Schneider's IQ-style thread argues effective cold email is a tight list, short problem-plus-offer copy, volume, and pipeline KPIs\u2014not domain farms, spintax, and nine-step bump sequences.",
   "question_it_answers": "What cold-email setup does this meme treat as high-ROI versus midwit infrastructure theater?",
   "claims": [
     {
@@ -51,7 +51,7 @@
       "subject": "outbound-gtm-agents"
     },
     {
-      "text": "graphed.com/mcp 200 / 40,794 B. Title Graphed MCP Server — Query your data from any AI assistant. First-party: explore warehouse schema, run SQL, build dashboards from the editor. FDE string absent. Matches a warehouse MCP, not the tweet’s cold-email IQ meme.",
+      "text": "graphed.com/mcp 200 / 40,794 B. Title Graphed MCP Server \u2014 Query your data from any AI assistant. First-party: explore warehouse schema, run SQL, build dashboards from the editor. FDE string absent. Matches a warehouse MCP, not the tweet\u2019s cold-email IQ meme.",
       "kind": "capability",
       "evidence": "GET 200 https://www.graphed.com/mcp 40794 B.",
       "evidence_source": "note",
@@ -59,6 +59,16 @@
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents",
       "id": "x-2094893065202803014#c3"
+    },
+    {
+      "id": "x-2094893065202803014#c4",
+      "text": "leftover23 unused cal.com/team/graphed-com/discovery 576,201 B. Title Graphed Discovery Call | Graphed. Visible body empty (Cal booking SPA). Not a cold-email IQ playbook and not the Graphed MCP warehouse page already on #c3.",
+      "kind": "availability",
+      "evidence": "leftover23 cal-graphed 576201 B title Graphed Discovery Call. visible_len empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/graphed-mcp.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": null,

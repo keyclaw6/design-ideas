@@ -51,7 +51,7 @@
   "platforms": [
     "other"
   ],
-  "summary": "Hesamation paraphrases FreeToken (quoted Andy_ShuoYang / 2090856976880472439) as an unnamed Berkeley/MIT engine. DeepSeek-V4-Flash 284B at 25 tok/s is the top of FreeToken’s 22–25 tok/s 5090 band. MIT is only in this paraphrase. Same engine as must-read x-2091150763418620133.",
+  "summary": "Hesamation paraphrases FreeToken (quoted Andy_ShuoYang / 2090856976880472439) as an unnamed Berkeley/MIT engine. DeepSeek-V4-Flash 284B at 25 tok/s is the top of FreeToken\u2019s 22\u201325 tok/s 5090 band. MIT is only in this paraphrase. Same engine as must-read x-2091150763418620133.",
   "question_it_answers": "Which engine is the unnamed Berkeley/MIT inference tweet actually pointing at?",
   "claims": [
     {
@@ -66,9 +66,9 @@
     },
     {
       "id": "x-2090930324817498246#c2",
-      "text": "Reported 1.46× faster than llama.cpp on the same test; Ollama cannot serve that model.",
+      "text": "Reported 1.46\u00d7 faster than llama.cpp on the same test; Ollama cannot serve that model.",
       "kind": "benchmark",
-      "evidence": "> 1.46x faster than llama.cpp on the same test. Ollama can’t even serve it",
+      "evidence": "> 1.46x faster than llama.cpp on the same test. Ollama can\u2019t even serve it",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "unverified",
@@ -76,9 +76,9 @@
     },
     {
       "id": "x-2090930324817498246#c3",
-      "text": "Quoted tweet 2090856976880472439 is Andy_ShuoYang announcing FreeToken. Same engine as x-2091150763418620133. DeepSeek-V4-Flash 284B → 5090 @ 22–25 tok/s; Hesamation’s 25 tok/s is the top of that band.",
+      "text": "Quoted tweet 2090856976880472439 is Andy_ShuoYang announcing FreeToken. Same engine as x-2091150763418620133. DeepSeek-V4-Flash 284B \u2192 5090 @ 22\u201325 tok/s; Hesamation\u2019s 25 tok/s is the top of that band.",
       "kind": "counter-claim",
-      "evidence": "Andy_ShuoYang: Meet FreeToken. DeepSeek-V4-Flash 284B → RTX 5090 desktop @ 22-25 tok/s. Hesamation quotes the tweet and writes 25 tok/s.",
+      "evidence": "Andy_ShuoYang: Meet FreeToken. DeepSeek-V4-Flash 284B \u2192 RTX 5090 desktop @ 22-25 tok/s. Hesamation quotes the tweet and writes 25 tok/s.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/freetoken.md",
       "confidence": "demonstrated",
@@ -86,9 +86,19 @@
     },
     {
       "id": "x-2090930324817498246#c4",
-      "text": "MIT is only in Hesamation’s paraphrase. FreeToken authors on the paper/NOTES are Berkeley / UT / others. Repo FlashML-org/FreeToken, Apache-2.0.",
+      "text": "MIT is only in Hesamation\u2019s paraphrase. FreeToken authors on the paper/NOTES are Berkeley / UT / others. Repo FlashML-org/FreeToken, Apache-2.0.",
       "kind": "counter-claim",
       "evidence": "Hesamation: UC Berkeley + MIT researchers. FreeToken NOTES: Authors Berkeley / UT / others (Stoica, Zaharia, Han). Repo Apache-2.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/freetoken.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2090930324817498246#c5",
+      "text": "leftover23 unused arXiv 2608.16157 abs 42,706 B is FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution (Yang et al.; 17 Aug 2026; PDF 1,344 KB). First-party: 20+ MoE; 35B laptop / 284B gaming desktop / 753B GLM-5.2 workstation. MIT is still only in Hesamation\u2019s paraphrase (#c4). GPU profile still not run here.",
+      "kind": "availability",
+      "evidence": "leftover23 freetoken-abs 42706 B. Title matches leftover21 PDF already on the sibling must-read.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/freetoken.md",
       "confidence": "demonstrated",
@@ -101,7 +111,8 @@
     "paper": "https://arxiv.org/pdf/2608.16157",
     "product": null,
     "other": [
-      "https://x.com/Andy_ShuoYang/status/2090856976880472439"
+      "https://x.com/Andy_ShuoYang/status/2090856976880472439",
+      "https://arxiv.org/abs/2608.16157"
     ],
     "related_items": [
       "x-2091150763418620133"

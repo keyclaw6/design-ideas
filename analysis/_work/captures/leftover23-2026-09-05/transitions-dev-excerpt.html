@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+
+  <title>Transitions.dev: UI transitions for AI agents</title>
+  <meta
+    name="description"
+    content="Collection of the most essential UI transitions for web apps. Copy and paste them, or use them with your coding agent via the skill."
+  />
+  <meta
+    name="keywords"
+    content="transitions, CSS transitions, web animations, UI animations, React animations, microinteractions, motion design, frontend, copy paste CSS"
+  />
+  <meta name="author" content="Transitions.dev" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="googlebot" content="index, follow" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="theme-color" content="#fdfdfd" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#070707" media="(prefers-color-scheme: dark)" />
+  <meta name="apple-mobile-web-app-title" content="Transitions.dev" />
+  <meta name="application-name" content="Transitions.dev" />
+
+  <link rel="canonical" href="https://transitions.dev/" />
+  <link rel="alternate" hreflang="en" href="https://transitions.dev/" />
+  <link rel="alternate" hreflang="x-default" href="https://transitions.dev/" />
+
+  <link rel="icon" href="assets/favicon-light-mode.png?v=4" type="image/png" sizes="any" />
+  <link rel="icon" href="assets/favicon-light-mode.png?v=4" media="(prefers-color-scheme: light)" type="image/png" />
+  <link rel="icon" href="assets/favicon-darkmode.png?v=4" media="(prefers-color-scheme: dark)" type="image/png" />
+  <link rel="apple-touch-icon" href="assets/favicon-light-mode.png?v=4" />
+  <link rel="manifest" href="site.webmanifest" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Transitions.dev" />
+  <meta property="og:url" content="https://transitions.dev/" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:title" content="Transitions.dev: UI transitions for AI agents" />
+  <meta property="og:description" content="Collection of the most essential UI transitions for web apps. Copy and paste them, or use them with your coding agent via the skill." />
+  <meta property="og:image" content="https://transitions.dev/assets/og-main.jpg" />
+  <meta property="og:image:secure_url" content="https://transitions.dev/assets/og-main.jpg" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Transitions.dev: UI transitions for AI agents" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Transitions.dev: UI transitions for AI agents" />
+  <meta name="twitter:description" content="Collection of the most essential UI transitions for web apps. Copy and paste them, or use them with your coding agent via the skill." />
+  <meta name="twitter:image" content="https://transitions.dev/assets/og-main.jpg" />
+  <meta name="twitter:image:alt" content="Transitions.dev: UI transitions for AI agents" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    rel="preload"
+    as="style"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto+Mono:wght@400;500&display=swap"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+  <!-- Preload the Saans display face (hero title) so it's fetched before
+       first paint — paired with font-display: optional this removes the
+       fallback→Saans flash/reflow. -->
+  <link
+    rel="preload"
+    as="font"
+    type="font/woff2"
+    href="assets/fonts/Saans-Medium.woff2"
+    crossorigin
+  />
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://transitions.dev/#website",
+          "url": "https://transitions.dev/",
+          "name": "Transitions.dev",
+          "description": "Collection of the most essential UI transitions for web apps. Copy and paste them, or use them with your coding agent via the skill.",
+          "inLanguage": "en"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://transitions.dev/#webpage",
+          "url": "https://transitions.dev/",
+          "name": "Transitions.dev: UI transitions for AI agents",
+          "isPartOf": { "@id": "https://transitions.dev/#website" },
+          "inLanguage": "en",
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://transitions.dev/assets/og-main.jpg",
+            "width": 1200,
+            "height": 630
+          }
+        }
+      ]
+    }
+  </script>
+  <script>
+    // Apply theme before first paint to avoid FOUC: a manually chosen theme,
+    // persisted to localStorage by the toggle (see end of <body>), wins over
+    // system preference so it carries across reloads and other pages.
+    (function () {
+      try {
+        var stored = localStorage.getItem("tdev:theme");
+        var dark = stored
+          ? stored === "dark"
+          : (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+        if (dark) document.documentElement.setAttribute("data-theme", "dark");
+      } catch (e) {}
+    })();
+  </script>
+  <style>
+
+    /* ── iOS double-tap zoom ─────────────────────────────────────────
+       iOS Safari ignores `user-scalable=no` / `maximum-scale=1` in the
+       viewport meta (since iOS 10), and disabling pinch zoom outright
+       would fail WCAG 1.4.4. `touch-action: manipulation` suppresses
+       only the double-tap-to-zoom gesture on the things people tap,
+       leaving pinch zoom fully intact. Declared first in the sheet so
+       prototypes needing a stricter value (`touch-action: none` on the
+       tilt / drag demos) still override it further down. */
+    button,
+    a,
+    label,
+    summary,
+    input,
+    select,
+    [role="button"],
+    [role="switch"],
+    [role="checkbox"],
+    [role="tab"],
+    .card {
+      touch-action: manipulation;
+    }
+    /* ============================================================ */
+    /* Design tokens — light (default) and dark                      */
+    /* ============================================================ */
+    :root {
+      color-scheme: light;
+
+      --bg: #fdfdfd;
+      --text: #0d0d0d;
+      --text-muted: #6c6c6c;
+      --text-subtle: #767676;
+      --text-faint: #8f8f8f;
+      --text-footer-name: #4a4a4a;
+
+      --card-bg: #ffffff;
+      --card-border: rgba(0, 0, 0, 0.06);
+      --card-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.04);
+      /* Horizontal inset for card title block + copy control */
+      --card-pad-x: 20px;
+
+      /* Opaque equivalent of rgba(194, 194, 194, 0.1) over #ffffff
+         (≈ #f9f9f9). Kept opaque on purpose so the stage doesn't pick
+         up the card's hover tint through a translucent fill. */
+      --stage-bg: #f9f9f9;
+      --stage-border: rgba(0, 0, 0, 0.04);
+
+      --chip-bg: #f4f4f4;
+      --chip-bg-hover: #f1f1f1;
+      --chip-bg-pressed: #eae9e9;
+
+      --animate-bg: rgba(243, 243, 243, 0.9);
+      --animate-bg-tint: #bfc0cb;
+      --animate-bg-hover: #eae9e9;
+      --animate-text: #17181c;
+
+      --copy-bg: rgba(255, 255, 255, 0.9);
+      --copy-bg-tint: #bfc0cb;
+      --copy-bg-hover: #f1f1f1;
+      --copy-bg-pressed: #eae9e9;
+
+      --surface-bg: #ffffff;
+      --skeleton: #eeeeef;
+      --muted: #5e6073;
+
+      /* Inner "material" surface (Figma: node 221:2895)
+         used by dropdowns, panels, and resize cards inside demo cards */
+      --material-bg: #ffffff;
+      --material-shadow:
+        0 4px 42px 0 rgba(0, 0, 0, 0.06),
+        0 2px 6px 0 rgba(0, 0, 0, 0.05),
+        0 0 0 1px rgba(0, 0, 0, 0.06);
+
+      --icon-color: #0d0d0d;
+      --icon-color-muted: rgba(13, 13, 13, 0.6);
+
+      --label-mono: #5e6073;
+
+      --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, Helvetica, Arial, sans-serif;
+      --font-mono: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, Monaco,
+        Consolas, monospace;
+
+      /* ========================================================== */
+      /* Prototype transition knobs (copied per prototype)          */
+      /* ========================================================== */
+
+      /* ---- Motion tokens ---------------------------------------- */
+      /* Durations */
+      --duration-stagger:   40ms;   /* per-item stagger offset */
+      --duration-micro:     80ms;   /* tooltip/path delay, shake segment, large stagger */
+      --duration-quick:     150ms;  /* modal/dropdown close, text swap, tooltip appear */
+      --duration-fast:      250ms;  /* icon swap, dropdown/modal open, tabs sliding, page slide */
+      --duration-medium:    350ms;  /* panel close, toast close */
+      --duration-slow:      400ms;  /* panel open, skeleton content reveal, input clear */
+      --duration-very-slow: 500ms;  /* emphasis moments, badge appear, text reveal, success check */
+      /* Easings */
+      --ease-smooth-out:    cubic-bezier(0.22, 1, 0.36, 1);   /* modal/dropdown/panel open + close, page slide, resize, position change */
+      --ease-in-out:        ease-in-out;                      /* icon swap, text swap, text reveal, skeleton reveal */
+      --ease-out:           ease-out;                         /* tooltip open / close */
+      --ease-linear:        linear;                           /* shimmer, skeleton pulse, spinner */
+      --ease-bounce:        cubic-bezier(0.34, 1.36, 0.64, 1);   /* badge pop open */
+      --ease-bounce-strong: cubic-bezier(0.34, 3.85, 0.64, 1);   /* bouncy hover-out (avatar return) */
+      /* Distances */
+      --distance-micro:  4px;   /* text swap */
+      --distance-small:  6px;   /* error shake (small segment) */
+      --distance-base:   8px;   /* badge diagonal reveal, page slide, error shake (large segment) */
+      --distance-medium: 12px;  /* text reveal */
+      --distance-large:  30px;  /* check badge appear */
+      /* Scales */
+      --scale-large:  0.96;   /* modal open / close */
+      --scale-medium: 0.97;   /* dropdown open */
+      --scale-small:  0.98;   /* tooltip open */
+      --scale-tiny:   0.99;   /* dropdown close */
+      /* Blur */
+      --blur-small:  2px;   /* panel reveal, icon swap, text swap, skeleton reveal, number pop-in */
+      --blur-medium: 3px;   /* page slide, text reveal */
+      --blur-large:  8px;   /* success check open */
+
+      /* P1 — Notification badge */
+      --p1-pos-open-dur: 260ms;
+      --p1-scale-open-dur: var(--duration-very-slow);
+      --p1-scale-close-dur: 180ms;
+      --p1-opacity-open-dur: 400ms;
+      --p1-opacity-close-dur: 180ms;
+      --p1-blur: var(--blur-small);
+      --p1-distance-x: -8.2px;
+      --p1-distance-y: 12.4px;
+      --p1-bounce: 1.36;
+      --p1-ease-pos-open: var(--ease-smooth-out);
+      --p1-ease-scale-open: var(--ease-bounce);
+      --p1-ease-close: cubic-bezier(0.4, 0, 0.2, 1);
+
+      /* P2 — Menu dropdown */
+      --p2-open-dur: var(--duration-fast);
+      --p2-close-dur: var(--duration-quick);
+      --p2-pre-scale: var(--scale-medium);
+      --p2-closing-scale: var(--scale-tiny);
+      /* Origin-aware: anchor the scale where the trigger sits so the
+         menu visually "grows" from the trigger (top center = button
+         sits directly above the menu). */
+      --p2-origin: top center;
+      --p2-ease: var(--ease-smooth-out);
+
+      /* P3 — Panel reveal */
+      --p3-open-dur: var(--duration-slow);
+      --p3-close-dur: var(--duration-medium);
+      --p3-panel-height: 187px;
+      /* Movement trajectory = 50% of the panel height. The panel
+         also fades opacity 0 ↔ 1 AND cross-blurs 2px ↔ 0 over the
+         same timing, so the shortened travel still reads as a full
+         open / close. */
+      --p3-translate-y: calc(var(--p3-panel-height) * 0.5);
+      --p3-blur: var(--blur-small);
+      /* Gutter inside clip so box-shadow isn’t cropped.
+         Top needs enough room for the 42px-blur shadow (blur 42 − offset 4 ≈ 38px reach);
+         sides/bottom stay slim so the stack still fits the 260px stage. */
+      /* Clip fills the full 260px stage (top:0, bottom:0) so no bare stage
+         strip shows below the panel when it's open. Top pad still sized so
+         resting panel is pushed below the button and the 38px top-reach drop
+         shadow has room above the panel. */
+      --p3-clip-pad-top: 54px;
+      --p3-clip-pad: 14px;
+      /* Vertical offset when panel is open. Positive = lift the panel
+         higher in the stage; negative = push it lower. */
+      --p3-open-lift: -28px;
+      --p3-ease: var(--ease-smooth-out);
+      /* Figma 213:1375 — Light Mode / Shadow 25.
+         Left/right/bottom of the panel are flush with the stage, where
+         `.card-stage::after` already draws a ring — so we only draw
+         the top edge here, plus the drop shadows. The top hairline is
+         drawn as an *outer* shadow (0 -1px) instead of an inset one so
+         it sits on the stage background (for contrast with other
+         material surfaces like the dropdown / modal rings) rather
+         than over the panel's own white fill where it would be barely
+         visible. */
+      --p3-shadow:
+        0 -1px 0 0 rgba(0, 0, 0, 0.06),
+        0 2px 6px 0 rgba(0, 0, 0, 0.05),
+        0 4px 42px 0 rgba(0, 0, 0, 0.06);
+
+      /* P4 — Card resize */
+      --p4-dur: 300ms;
+      --p4-ease: var(--ease-smooth-out);
+
+      /* P5 — Hamburger ↔ Close */
+      --p5-dur: var(--duration-fast);
+      --p5-blur: var(--blur-small);
+      --p5-start-scale: 0.25;
+      --p5-ease: var(--ease-in-out);
+
+      /* P6 — Text enter/exit */
+      --p6-dur: var(--duration-quick);
+      --p6-enter-delay: 0ms;
+      --p6-translate-y: var(--distance-micro);
+      --p6-blur: var(--blur-small);
+      --p6-ease: var(--ease-in-out);
+
+      /* P7 — Modal open/close */
+      --p7-open-dur: var(--duration-fast);
+      --p7-close-dur: var(--duration-quick);
+      --p7-scale: var(--scale-large);
+      --p7-scale-close: var(--scale-large);
+      --p7-ease: var(--ease-smooth-out);
+
+      /* Detail-modal motion tokens. Defaults to the P7 modal timing
+         so desktop is unchanged. Mobile overrides these to the P3
+         "Panel reveal" timing inside its own @media block, which lets
+         the JS close-timer pick the right wait via getComputedStyle. */
+      --proto-modal-open-dur:  var(--p7-open-dur);
+      --proto-modal-close-dur: var(--p7-close-dur);
+      --proto-modal-ease:      var(--p7-ease);
+
+      /* P8 — Page slide */
+      --p8-slide-dur: var(--duration-fast);
+      --p8-fade-dur: var(--duration-fast);
+      --p8-distance: var(--distance-base);
+      --p8-blur: var(--blur-medium);
+      --p8-stagger: 0ms;
+      --p8-exit-enabled: 1;
+      --p8-slide-ease: var(--ease-smooth-out);
+      --p8-fade-ease: var(--ease-smooth-out);
+
+      /* P9 — Number pop-in */
+      --p9-dur: var(--duration-very-slow);
+      --p9-distance: var(--distance-base);
+      --p9-stagger: 70ms;
+      --p9-blur: var(--blur-small);
+      --p9-bounce: 1.45;
+      --p9-ease: cubic-bezier(0.34, 1.45, 0.64, 1);
+      --p9-dir-x: 0;
+      --p9-dir-y: 1;
+
+      /* P10 — Success check (appear / disappear).
+         Entry composes 5 sub-transitions in parallel (fade, rotate,
+         blur, Y-bob, stroke-draw). Exit deliberately uses only 3
+         (fade, blur, stroke-undraw) so the disappearance reads as a
+         soft fade-away rather than a full reverse of the entrance. */
+      --p10-opacity-dur: var(--duration-very-slow);
+      --p10-rotate-dur: var(--duration-very-slow);
+      --p10-rotate-from: 80deg;
+      --p10-bob-dur:     var(--duration-very-slow);
+      --p10-y-amount:    40px;
+      --p10-blur-dur:    var(--duration-very-slow);
+      --p10-blur-from:   10px;
+      /* Exit uses its own (softer) blur amount so the disappearance
+         reads as a gentle fade rather than a full reverse of entry. */
+      --p10-blur-out-from: 4px;
+      --p10-path-dur:    var(--duration-very-slow);
+      --p10-path-delay:  var(--duration-micro);
+      --p10-out-dur:     var(--duration-very-slow);
+      --p10-ease-out:     var(--ease-smooth-out);
+      --p10-ease-opacity: var(--ease-smooth-out);
+      --p10-ease-rotate:  var(--ease-smooth-out);
+      --p10-ease-bob:     cubic-bezier(0.34, 1.35, 0.64, 1);
+      --p10-ease-path:    var(--ease-smooth-out);
+
+      /* P11 — Avatar group hover spring.
+         Each neighbor at distance d from the hovered avatar lifts by
+         --p11-lift * pow(--p11-falloff, d). Lift uses --p11-ease-in
+         (clean) and the return uses --p11-ease-out (bouncy spring). */
+      --p11-lift:    -4px;
+      --p11-dur:     320ms;
+      --p11-ease-in:  var(--ease-smooth-out);
+      --p11-ease-out: var(--ease-bounce-strong);
+      --p11-scale:   1.05;
+      --p11-falloff: 0.45;
+
+      /* P12 — Input shake on error.
+         Four-phase translateX with a per-segment cubic-bezier per
+         keyframe stop (80 + 80 + 60 + 60 = 280ms total). After the
+         shake we hold --p12-revert-hold then fade border + message
+         back to neutral over --p12-revert-dur. */
+      --p12-shake-distance:  var(--distance-small);
+      --p12-shake-overshoot: 4px;
+      --p12-shake-dur-a:     var(--duration-micro);
+      --p12-shake-dur-b:     60ms;
+      --p12-shake-ease:      var(--ease-smooth-out);
+      --p12-error-border:    #e23014;
+      --p12-error-text:      #d62b11;
+      --p12-revert-hold:     3000ms;
+      --p12-revert-dur:      280ms;
+
+      /* P13 — Input clear with per-word streak.
+         The text mirror flies down + blurs; placeholder mirrors that
+         from above; greyscale-multiply glow ignites under each word. */
+      --p13-clear-dur:       1000ms;
+      --p13-text-out-dur:    var(--duration-slow);
+      --p13-text-in-dur:     var(--duration-slow);
+      --p13-text-out-fly:    var(--distance-medium);
+      --p13-text-in-fly:     var(--distance-medium);
+      --p13-text-out-ease:   var(--ease-smooth-out);
+      --p13-text-in-ease:    var(--ease-smooth-out);
+      --p13-blur:            var(--blur-small);
+      --p13-glow-delay:      50ms;
+      --p13-glow-peak-at:    0.15;
+      --p13-glow-opacity:    0.42;
+      --p13-glow-spread:     1.5;
+
+      /* P14 — Skeleton loader → user row reveal.
+         The skeleton pulses --p14-pulse-count times, then both layers
+         cross-fade with a matching cross-blur over --p14-reveal-dur. */
+      --p14-pulse-dur:       1000ms;
+      --p14-pulse-count:     1;
+      --p14-pulse-min:       0.5;
+      --p14-reveal-dur:      var(--duration-slow);
+      --p14-reveal-blur:     var(--blur-small);
+      --p14-reveal-ease:     var(--ease-in-out);
+      --p14-skeleton-color:  #eeeeee;
+
+      /* P15 — Beautiful shimmer on text.
+         Two-layer construction: base text in --p15-base; a gradient
+         layer masked into the glyphs sweeps across at --p15-dur. */
+      --p15-dur:             2000ms;
+      --p15-base:            #7c7c7c;
+      --p15-highlight:       #0d0d0d;
+      --p15-band:            400%;
+      --p15-ease:            var(--ease-linear);
+
+      /* P16 — Tabs with sliding active indicator.
+         Light spec (Figma): bar #f1f1f1, active pill #fff, active text
+         #0f0f0f, inactive text #0f0f0f @ 0.8 → 1.0 on hover. No
+         border on inactive tabs. */
+      --p16-dur:             var(--duration-fast);
+      --p16-ease:            var(--ease-smooth-out);
+      --p16-text-muted:      rgba(15, 15, 15, 0.8);
+      --p16-text-active:     #0f0f0f;
+      --p16-bar-bg:          #f1f1f1;
+      -

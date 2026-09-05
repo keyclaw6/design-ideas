@@ -1,0 +1,115 @@
+{
+  "fetched_at": "2026-09-05T10:10:00Z",
+  "pages": {
+    "freetoken-abs": {
+      "url": "https://arxiv.org/abs/2608.16157",
+      "final": "https://arxiv.org/abs/2608.16157",
+      "status": 200,
+      "bytes": 42706,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "[2608.16157] FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "visible_len": 4726
+    },
+    "gbrain-abs": {
+      "url": "https://arxiv.org/abs/2604.21284",
+      "final": "https://arxiv.org/abs/2604.21284",
+      "status": 200,
+      "bytes": 43643,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "[2604.21284] Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture",
+      "visible_len": 5247
+    },
+    "treg-abs": {
+      "url": "https://arxiv.org/abs/2603.27476",
+      "final": "https://arxiv.org/abs/2603.27476",
+      "status": 200,
+      "bytes": 43633,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "[2603.27476] PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification",
+      "visible_len": 4862
+    },
+    "dicebear": {
+      "url": "https://www.dicebear.com",
+      "final": "https://www.dicebear.com",
+      "status": 200,
+      "bytes": 127824,
+      "ctype": "text/html",
+      "error": null,
+      "title": "DiceBear | Open Source Avatar Library & API",
+      "visible_len": 7749
+    },
+    "cal-graphed": {
+      "url": "https://cal.com/team/graphed-com/discovery",
+      "final": "https://cal.com/team/graphed-com/discovery",
+      "status": 200,
+      "bytes": 576201,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Graphed Discovery Call | Graphed",
+      "visible_len": 0
+    },
+    "npm-seo": {
+      "url": "https://www.npmjs.com/package/seo",
+      "final": "https://www.npmjs.com/package/seo",
+      "status": 403,
+      "bytes": 5650,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 403",
+      "title": "Just a moment...",
+      "visible_len": 0
+    },
+    "component-gallery": {
+      "url": "https://component.gallery/",
+      "final": "https://component.gallery/",
+      "status": 200,
+      "bytes": 100837,
+      "ctype": "text/html",
+      "error": null,
+      "title": "The Component Gallery",
+      "visible_len": 3088
+    },
+    "orbs": {
+      "url": "https://orbs.jakubantalik.com/",
+      "final": "https://orbs.jakubantalik.com/",
+      "status": 200,
+      "bytes": 9375,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Thinking orbs moved to a new home",
+      "visible_len": 186
+    },
+    "transitions-dev": {
+      "url": "https://transitions.dev/",
+      "final": "https://transitions.dev/",
+      "status": 200,
+      "bytes": 657428,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Transitions.dev: UI transitions for AI agents",
+      "visible_len": 4962
+    },
+    "twentyfirst": {
+      "url": "https://21st.dev/",
+      "final": "https://21st.dev/",
+      "status": 200,
+      "bytes": 188741,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "React Components, Templates & Themes \u2014 12,000+ Crafted UI | 21st | 21st",
+      "visible_len": 5441
+    },
+    "aceternity": {
+      "url": "https://ui.aceternity.com/",
+      "final": "https://ui.aceternity.com/",
+      "status": 200,
+      "bytes": 768064,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Aceternity UI \u2014 React & Tailwind CSS Component Library",
+      "visible_len": 14744
+    }
+  }
+}

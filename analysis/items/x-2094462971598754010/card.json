@@ -74,6 +74,16 @@
       "evidence_ref": "analysis/tools/gbrain-evals.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2094462971598754010#c6",
+      "text": "leftover23 unused arXiv 2604.21284 abs 43,643 B is Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture (Dey/Viradecha; 23 Apr 2026). First-party: MemPalace 47,000\u2605 in two weeks; claimed LongMemEval 96.6% Recall@5; authors attribute it to verbatim storage + ChromaDB all-MiniLM-L6-v2, not the palace metaphor. Mem0 later 93.4%. This is NOT a gbrain paper \u2014 do not collapse 96.6% with tweet 97.6% or official gbrain-evals 93.19%/95.32%.",
+      "kind": "counter-claim",
+      "evidence": "leftover23 gbrain-abs 43643 B. Title: Spatial Metaphors for LLM Memory: A Critical Analysis of the MemPalace Architecture.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gbrain-evals.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "numbers": [
@@ -110,7 +120,8 @@
     "paper": "https://arxiv.org/abs/2604.21284",
     "product": "https://github.com/garrytan/gbrain",
     "other": [
-      "https://github.com/garrytan/gbrain-evals"
+      "https://github.com/garrytan/gbrain-evals",
+      "https://arxiv.org/abs/2604.21284"
     ],
     "related_items": [
       "web-davidgasquez-context-engineering",

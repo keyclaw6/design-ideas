@@ -32,6 +32,10 @@ DEAD = (
     "superhive.com",
     "bqr.gg",
     "cerebras.ai",
+    "outbid.lol",
+    "tapirconvert.com",
+    "npmjs.com",
+    "www.npmjs.com",
 )
 
 SKIP_HOSTS = (

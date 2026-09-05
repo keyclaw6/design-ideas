@@ -13,6 +13,7 @@
 - `x-2094740953554932149#c2` (benchmark, contested) Quoted launch claims #1 on People Search Bench and fully open source with 0% markup. — evidence: "#1 on People Search Bench
 Fully open source, 0% markup" [quoted-post]
 - `x-2094740953554932149#c3` (pricing, demonstrated) treg.to/people-search 200 / 83,902 B. Title Claude for People Search — 1B+ Contacts for Your Agent. First-party: one skill / 1B+ contacts across Apollo, Hunter, Tomba, People Data Labs — 60 providers; pay per answer. people.email.find routed from $0.0089 matches the tweet unit. companies.search ranked examples: Apollo $0.026 · 98%; TheCompaniesAPI $0.004 · 91%. Do not collapse $0.0089 with $0.026. — evidence: "GET 200 https://treg.to/people-search 83902 B. from $0.0089 on people.email.find." [note]
+- `x-2094740953554932149#c4` (benchmark, demonstrated) leftover23 unused arXiv 2603.27476 abs 43,633 B is PeopleSearchBench: Evaluating AI-Powered People Search Platforms (Shi et al.; v3 30 Aug 2026). First-party: 119 multilingual queries; four scenarios (corporate recruiting / B2B sales / expert / influencer); Criteria-Grounded Verification κ=0.84. Evaluates four platforms; does not name treg #1. Tweet #1 on People Search Bench stays contested. — evidence: "leftover23 treg-abs 43633 B. Quote: 119 multilingual queries across four scenarios." [note]
 **Numbers.** people-search price: 0.0089 USD/lead (post); treg GitHub stars: 1020 stars (linked-page)
 **Recipe.** —
 **Techniques.** —

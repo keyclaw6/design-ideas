@@ -12,6 +12,7 @@
 - `x-2094893065202803014#c1` (recipe, stated) High-IQ cold email uses a precise list, short copy, one offer, volume, and meetings KPI. — evidence: "Precise list, short email, one specific offer, high volume, hygiene done once. Measure meetings held and pipeline, nothing above it." [post]
 - `x-2094893065202803014#c2` (counter-claim, stated) Midwit panel lists mailbox farms, warmup, spintax, and nine-step bump sequences as failure mode. — evidence: "40 domains, 120 mailboxes, a rotation schedule, and a spreadsheet tracking mailbox health" [post]
 - `x-2094893065202803014#c3` (capability, demonstrated) graphed.com/mcp 200 / 40,794 B. Title Graphed MCP Server — Query your data from any AI assistant. First-party: explore warehouse schema, run SQL, build dashboards from the editor. FDE string absent. Matches a warehouse MCP, not the tweet’s cold-email IQ meme. — evidence: "GET 200 https://www.graphed.com/mcp 40794 B." [note]
+- `x-2094893065202803014#c4` (availability, demonstrated) leftover23 unused cal.com/team/graphed-com/discovery 576,201 B. Title Graphed Discovery Call | Graphed. Visible body empty (Cal booking SPA). Not a cold-email IQ playbook and not the Graphed MCP warehouse page already on #c3. — evidence: "leftover23 cal-graphed 576201 B title Graphed Discovery Call. visible_len empty." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [cold-email-sequence](../../techniques/cold-email-sequence.md), [outbound-agent-pipeline](../../techniques/outbound-agent-pipeline.md)

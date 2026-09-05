@@ -19,4 +19,6 @@ Paper body (Yang et al., arXiv:2608.16157) **does** carry the tweet-scale number
 **2026-09-05 capture — paper PDF body.** `https://arxiv.org/pdf/2608.16157.pdf` **888,695 B**. `pdftotext -layout` **74,232** chars. Confirmed in the PDF: 8GB RTX 4060 laptop **39.3 tok/s** on a 35B (vs Codex median **33 tok/s**); worst-case TTFT **below 44 s**; RTX 5090 **77–83 tok/s** Qwen3.6 / **22–25 tok/s** DeepSeek-V4-Flash. Abs **42,706 B** still omits those two tweet-scale integers. Extract `analysis/_work/captures/freetoken-arxiv-2608.16157-extract.txt`. Still no `profile` on this host.
 
 **2026-09-05 leftover21.** `flashml.ai` **39,649 B** (www) titles FreeToken — Bring Frontier to Edge. GitHub **11,665★** Apache-2.0. README **4,821 B** still **290B+**; desktop Windows/Linux; `uv pip install "freetoken[accel]"`. No GPU `profile` run this host.
+
+**2026-09-05 leftover23.** Unused abs `arxiv.org/abs/2608.16157` **42,706 B** folded onto the Hesamation leftover. Title matches the leftover21 PDF. MIT still paraphrase-only. Receipt `leftover23-2026-09-05.json`.
 <!-- NOTES:END -->

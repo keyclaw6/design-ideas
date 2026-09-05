@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script>document.documentElement.classList.add('js');</script>  <title>[2608.16157] FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/browse/0.3.4/images/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/browse/0.3.4/images/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/browse/0.3.4/images/icons/favicon-16x16.png">
+  <link rel="manifest" href="/static/browse/0.3.4/images/icons/site.webmanifest">
+  <link rel="mask-icon" href="/static/browse/0.3.4/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/arXiv.css?v=20260318" />
+  <link rel="stylesheet" type="text/css" media="print" href="/static/browse/0.3.4/css/arXiv-print.css?v=20200611" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/browse_search.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/static/base/1.0.1/css/arxiv-header-footer.css?v=20260626" />
+  <script language="javascript" src="/static/browse/0.3.4/js/accordion.js" ></script>
+  <script language="javascript" src="/static/browse/0.3.4/js/optin-modal.js?v=20250819"></script>
+  
+  <link rel="canonical" href="https://arxiv.org/abs/2608.16157"/>
+  <meta name="description" content="Abstract page for arXiv paper 2608.16157: FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution"><meta property="og:type" content="website" />
+<meta property="og:site_name" content="arXiv.org" />
+<meta property="og:title" content="FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution" />
+<meta property="og:url" content="https://arxiv.org/abs/2608.16157v1" />
+<meta property="og:image" content="/static/browse/0.3.4/images/arxiv-logo-fb.png" />
+<meta property="og:image:secure_url" content="/static/browse/0.3.4/images/arxiv-logo-fb.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="700" />
+<meta property="og:image:alt" content="arXiv logo"/>
+<meta property="og:description" content="Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai."/>
+<meta name="twitter:site" content="@arxiv"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="FreeToken: Efficient Edge-Native MoE Serving with..."/>
+<meta name="twitter:description" content="Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a..."/>
+<meta name="twitter:image" content="https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png"/>
+<meta name="twitter:image:alt" content="arXiv logo"/>
+  <link rel="stylesheet" media="screen" type="text/css" href="/static/browse/0.3.4/css/tooltip.css"/><link rel="stylesheet" media="screen" type="text/css" href="https://static.arxiv.org/js/bibex-dev/bibex.css?20200709"/>  <script src="/static/browse/0.3.4/js/mathjaxToggle.min.js" type="text/javascript"></script>  <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  <script src="//cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js" type="text/javascript"></script>
+  <script src="//cdn.jsdelivr.net/npm/dompurify@2.3.5/dist/purify.min.js"></script>
+  <script src="/static/browse/0.3.4/js/toggle-labs.js?20241022" type="text/javascript"></script>
+  <script src="/static/browse/0.3.4/js/cite.js" type="text/javascript"></script><meta name="citation_title" content="FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution" /><meta name="citation_author" content="Yang, Shuo" /><meta name="citation_author" content="Fan, Xiaoze" /><meta name="citation_author" content="Pan, Melissa" /><meta name="citation_author" content="Xi, Haocheng" /><meta name="citation_author" content="Wang, Zhe" /><meta name="citation_author" content="Sun, Shanlin" /><meta name="citation_author" content="Keutzer, Kurt" /><meta name="citation_author" content="Han, Song" /><meta name="citation_author" content="Zaharia, Matei" /><meta name="citation_author" content="Xu, Chenfeng" /><meta name="citation_author" content="Stoica, Ion" /><meta name="citation_date" content="2026/08/17" /><meta name="citation_online_date" content="2026/08/17" /><meta name="citation_pdf_url" content="https://arxiv.org/pdf/2608.16157" /><meta name="citation_arxiv_id" content="2608.16157" /><meta name="citation_abstract" content="Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai." />
+</head>
+
+<body ><div class="flex-wrap-footer">
+    <a href="#content" class="ds-skip-link">Skip to main content</a>
+  
+  
+  
+<header class="ds-site-header">
+  <a aria-hidden="true" tabindex="-1" href="https://arxiv.org/IgnoreMe" class="is-sr-only"></a>
+
+  <a href="https://arxiv.org/" class="ds-site-header-logo" aria-label="archive home">
+    <img src="/static/base/1.0.1/images/arxiv-logo-primary-light.svg" alt="archive">
+  </a>
+
+  <button type="button" id="ds-nav-toggle" class="ds-site-header-nav-toggle"
+    aria-label="Open menu" aria-controls="ds-site-header-nav" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+
+  <nav class="ds-site-header-nav" id="ds-site-header-nav" aria-label="Main navigation"><a id="arxiv-search-toggle" href="https://arxiv.org/search"
+      aria-controls="arxiv-search-overlay" aria-expanded="false">
+      <svg class="ds-nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+        <circle cx="11" cy="11" r="8"/>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      Search
+    </a>
+    <a href="https://arxiv.org/user/create">Submit</a>
+    <a href="https://info.arxiv.org/about/donate.html">Donate</a>
+    <span class="ds-site-header-divider" aria-hidden="true"></span>
+      <a href="https://arxiv.org/login" class="ds-site-header-login">Log in</a>
+  </nav>
+</header>
+
+<div class="arxiv-search-overlay" id="arxiv-search-overlay" hidden>
+  <div class="arxiv-search-panel" role="search">
+    <form method="GET" action="https://arxiv.org/search">
+      <label for="arxiv-search-input" class="is-sr-only">Search arXiv</label>
+      <input type="text" name="query" id="arxiv-search-input" autocomplete="off"
+        placeholder="Search papers by title, author, abstract, or ID...">
+      <input type="hidden" name="searchtype" value="all">
+      <input type="hidden" name="source" value="header">
+    </form>
+    <div class="arxiv-search-hint">
+      Press Enter to search &middot; <a href="https://arxiv.org/search/advanced">Advanced search</a>
+    </div>
+  </div>
+</div>
+    <main>
+      <div id="content">
+<!--
+rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="/abs/2608.16157"
+        dc:identifier="/abs/2608.16157"
+        dc:title="FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution"
+        trackback:ping="/trackback/2608.16157" />
+    </rdf:RDF>
+--><div id="abs-outer">
+
+  <div class="leftcolumn">
+    <div class="subheader">
+      <h1>Computer Science > Distributed, Parallel, and Cluster Computing</h1>
+    </div>
+
+    <div class="header-breadcrumbs-mobile">
+      <strong>arXiv:2608.16157</strong> (cs)
+    </div>
+<link rel="stylesheet" type="text/css" href="/static/base/1.0.1/css/abs.css">
+<div id="content-inner">
+  <div id="abs">
+    <div class="dateline">
+  [Submitted on 17 Aug 2026]</div>
+    <h1 class="title mathjax"><span class="descriptor">Title:</span>FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution</h1>
+    <div class="authors"><span class="descriptor">Authors:</span><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yang,+S" rel="nofollow">Shuo Yang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Fan,+X" rel="nofollow">Xiaoze Fan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pan,+M" rel="nofollow">Melissa Pan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xi,+H" rel="nofollow">Haocheng Xi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wang,+Z" rel="nofollow">Zhe Wang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sun,+S" rel="nofollow">Shanlin Sun</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Keutzer,+K" rel="nofollow">Kurt Keutzer</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Han,+S" rel="nofollow">Song Han</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zaharia,+M" rel="nofollow">Matei Zaharia</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xu,+C" rel="nofollow">Chenfeng Xu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Stoica,+I" rel="nofollow">Ion Stoica</a></div>            <div id="download-button-info" hidden>View a PDF of the paper titled FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution, by Shuo Yang and 10 other authors</div>
+    <a class="mobile-submission-download" href="/pdf/2608.16157">View PDF</a>
+    <a class="mobile-submission-download" href="https://arxiv.org/html/2608.16157v1">HTML (experimental)</a>
+
+
+
+    <blockquote class="abstract mathjax">
+            <span class="descriptor">Abstract:</span>Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at <a href="http://flashml.ai" rel="external noopener nofollow" class="link-external link-http">this http URL</a>.
+    </blockquote>
+
+    <!--CONTEXT-->
+    <div class="metatable">
+      <table summary="Additional metadata"><tr>
+          <td class="tablecell label">Subjects:</td>
+          <td class="tablecell subjects">
+            <span class="primary-subject">Distributed, Parallel, and Cluster Computing (cs.DC)</span></td>
+        </tr><tr>
+          <td class="tablecell label">Cite as:</td>
+          <td class="tablecell arxivid"><span class="arxivid"><a href="https://arxiv.org/abs/2608.16157">arXiv:2608.16157</a> [cs.DC]</span></td>
+        </tr>
+        <tr>
+          <td class="tablecell label">&nbsp;</td>
+          <td class="tablecell arxividv">(or <span class="arxivid">
+              <a href="https://arxiv.org/abs/2608.16157v1">arXiv:2608.16157v1</a> [cs.DC]</span> for this version)
+          </td>
+        </tr>
+        <tr>
+          <td class="tablecell label">&nbsp;</td>
+          <td class="tablecell arxivdoi">              <a href="https://doi.org/10.48550/arXiv.2608.16157"  id="arxiv-doi-link">https://doi.org/10.48550/arXiv.2608.16157</a><div class="button-and-tooltip">
+              <button class="more-info" aria-describedby="more-info-desc-1">
+                <svg height="15" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z" class=""></path></svg>
+                <span class="visually-hidden">Focus to learn more</span>
+              </button>
+              <!-- tooltip description -->
+              <div role="tooltip" id="more-info-desc-1">
+                <span class="left-corner"></span>                  arXiv-issued DOI via DataCite</div>
+            </div>
+          </td>
+        </tr></table>
+    </div>
+  </div>
+</div>
+    <div class="submission-history">
+      <h2>Submission history</h2> From: Shuo Yang [<a href="/show-email/138e081d/2608.16157" rel="nofollow">view email</a>]      <br/>    <strong>[v1]</strong>
+        Mon, 17 Aug 2026 06:22:53 UTC (1,344 KB)<br/>
+</div>
+  </div>
+  <!--end leftcolumn-->
+<div class="extra-services">    <div class="full-text">
+      <a name="other"></a>
+      <span class="descriptor">Full-text links:</span>
+      <h2>Access Paper:</h2>
+      <ul>
+  <div id="download-button-info" hidden>
+View a PDF of the paper titled FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution, by Shuo Yang and 10 other authors</div><li><a href="/pdf/2608.16157" aria-describedby="download-button-info" accesskey="f" class="abs-button download-pdf">View PDF</a></li><li><a href="https://arxiv.org/html/2608.16157v1" class="abs-button" id="latexml-download-link">HTML (experimental)</a></li><li><a href="/src/2608.16157" class="abs-button download-eprint">TeX Source
+ </a></li></ul>
+      <div class="abs-license"><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">view license</a></div>
+    </div>
+    <!--end full-text-->    <div class="browse">
+    <h3 class="browse-context-heading">Current browse context:</h3>
+  <div class="current">cs.DC</div>
+
+  <div class="prevnext">
+<span class="arrow">
+      <a class="abs-button prev-url" href="/prevnext?id=2608.16157&amp;function=prev&amp;context=cs.DC"
+         accesskey="p" title="previous in cs.DC (accesskey p)" rel="nofollow">&lt;&nbsp;prev</a>
+    </span>
+    <span class="is-hidden-mobile">&nbsp; | &nbsp;</span>    <span class="arrow">
+      <a class="abs-button next-url" href="/prevnext?id=2608.16157&amp;function=next&amp;context=cs.DC" accesskey="n"
+         title="next in cs.DC (accesskey n)"  rel="nofollow">next&nbsp;&gt;</a>
+    </span><br/>
+  </div><div class="list">
+    <a class="abs-button abs-button-grey abs-button-small context-new" href="/list/cs.DC/new"  rel="nofollow">new</a>
+    <span class="is-hidden-mobile"> | </span>
+    <a class="abs-button abs-button-grey abs-button-small context-recent" href="/list/cs.DC/recent" rel="nofollow">recent</a>
+    <span class="is-hidden-mobile"> | </span><a class="abs-button abs-button-grey abs-button-small context-id" href="/list/cs.DC/2026-08" rel="nofollow">2026-08</a>
+  </div><div class="abs-switch-cat">
+    Change to browse by:
+    <div class="switch context-change">
+        <a href="/abs/2608.16157?context=cs" rel="nofollow">cs</a><br class="is-hidden-mobile">
+    </div>
+  </div>
+
+    </div>
+      <div class="extra-ref-cite">
+        <h3>References &amp; Citations</h3>
+        <ul>
+          <li><a  class="abs-button abs-button-small cite-ads" href="https://ui.adsabs.harvard.edu/abs/arXiv:2608.16157">NASA ADS</a></li><li><a  class="abs-button abs-button-small cite-google-scholar" href="https://scholar.google.com/scholar_lookup?arxiv_id=2608.16157" target="_blank" rel="noopener">Google Scholar</a></li>
+          <li><a  class="abs-button abs-button-small cite-semantic-scholar" href="https://api.semanticscholar.org/arXiv:2608.16157" target="_blank" rel="noopener">Semantic Scholar</a></li>
+        </ul>
+        <div style="clear:both;"></div>
+      </div>
+
+<div class='extra-ref-cite'>
+    <button type="button" id='bib-cite-trigger' class="bib-cite-button abs-button">export BibTeX citation</button>
+    <span id='bib-cite-loading' hidden='true'>Loading...</span>
+</div>
+
+<div id='bib-cite-modal' class='bib-modal' hidden='true'>
+    <div class='bib-modal-content'>
+        <div class='bib-modal-title'>
+            <h2>BibTeX formatted citation</h2>
+            <button type="button" class='bib-modal-close' aria-label="Close">&times;</button>
+        </div>
+        <div>
+     

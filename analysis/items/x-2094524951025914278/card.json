@@ -31,7 +31,7 @@
     "codex",
     "other"
   ],
-  "summary": "Olav's X article documents four blume.codes effects: seven-layer Codex parallax hero, Turborepo-shared live product demo, scroll-drawn Dicebear vine, and a six-theme flower picker—framed as attention-budget craft for an agent sidecar landing page.",
+  "summary": "Olav's X article documents four blume.codes effects: seven-layer Codex parallax hero, Turborepo-shared live product demo, scroll-drawn Dicebear vine, and a six-theme flower picker\u2014framed as attention-budget craft for an agent sidecar landing page.",
   "question_it_answers": "How did Blume build parallax, live demos, and scroll motion on their agent sidecar landing page?",
   "claims": [
     {
@@ -68,7 +68,7 @@
       "id": "x-2094524951025914278#c4",
       "text": "fxtwitter article 2094493136743473152 is 68 blocks / 8,070 chars titled How We Built a Next-Level Landing Page. It names four elements: parallax hero, interactive product screenshots, journey vine, flower theme picker. Minimum 3 parallax layers; they used 7. Codex is preferred because it can code and generate images (Claude Code + fal.ai is the alternative).",
       "kind": "recipe",
-      "evidence": "See you can spot the four elements… You should have a minimum of 3 layers… we ended up with 7 layers. Why Codex? Because Codex can both code and generate images.",
+      "evidence": "See you can spot the four elements\u2026 You should have a minimum of 3 layers\u2026 we ended up with 7 layers. Why Codex? Because Codex can both code and generate images.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/blume.md",
       "confidence": "demonstrated",
@@ -78,7 +78,17 @@
       "id": "x-2094524951025914278#c5",
       "text": "Article: landing page and Electron app share a Turborepo UI package (mock-data embed). Codex ran a week-long /goal refactor to get there. Six flower themes; Dicebear crowns seeded by the current date; theme also settable from settings inside the app demo. Body does not say nearer layers move faster.",
       "kind": "capability",
-      "evidence": "We have a Turborepo setup… Codex ran a week-long /goal task… One recurring theme in Blume is our 6 flowers… crowns are seeded using the current date.",
+      "evidence": "We have a Turborepo setup\u2026 Codex ran a week-long /goal task\u2026 One recurring theme in Blume is our 6 flowers\u2026 crowns are seeded using the current date.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blume.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094524951025914278#c6",
+      "text": "leftover23 unused dicebear.com 127,824 B. Title DiceBear | Open Source Avatar Library & API. First-party: 61 styles; Star 9.5k; MIT core; HTTP API + JS/PHP/Python/Rust/Go/Dart/C#/CLI; 1B API requests / month. Matches the tweet\u2019s scroll-drawn Dicebear vine as a real avatar library, not a design-system gallery.",
+      "kind": "availability",
+      "evidence": "leftover23 dicebear 127824 B. Quote: 61 avatar styles.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/blume.md",
       "confidence": "demonstrated",

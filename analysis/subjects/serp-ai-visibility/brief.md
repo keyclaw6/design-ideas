@@ -121,7 +121,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `web-tinyshelf#c1` | Every TinyShelf listing is reviewed before it goes live. | stated | [TinyShelf: human-reviewed software di…](../../items/web-tinyshelf/card.md) |
 | `web-tinyshelf#c2` | Submit flow at /submit requires Google OAuth sign-in before a listing can be submitted. | stated | [TinyShelf: human-reviewed software di…](../../items/web-tinyshelf/card.md) |
 
-Full set: claims.jsonl (89 rows)
+Full set: claims.jsonl (90 rows)
 
 ## serp-ai-visibility — comparison axes
 
