@@ -1,0 +1,20 @@
+{
+  "fetched": "2026-09-05T01:05:00Z",
+  "abs": "https://arxiv.org/abs/2607.20889",
+  "abs_http": 200,
+  "abs_bytes": 43789,
+  "ar5iv": "https://ar5iv.labs.arxiv.org/html/2607.20889",
+  "ar5iv_http": 200,
+  "ar5iv_bytes": 506831,
+  "title": "Engine-Native Editable 3D World Reconstruction with Objects and Lighting",
+  "id": "2607.20889v1",
+  "lumera_2k": {
+    "ue5_projects": 2513,
+    "components_m": 3.73,
+    "object_instances_m": 63,
+    "parametric_lights_k": 102.6,
+    "camera_views_k": 95.1
+  },
+  "github_in_html": false,
+  "weights_url": false
+}

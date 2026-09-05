@@ -16,4 +16,6 @@ Score items that use this method on the owner brief's comparison axes. Do not tr
 If a later pass splits this slug, file a registry alias — do not edit cards by hand.
 
 **2026-09-04 capture — Lumera project page re-fetch.** `GET https://haidilao0328.github.io/Lumera/` **200 / 1,087 B**. Title **Lumera | Engine-Native Editable 3D World Reconstruction**. Meta names object instances, meshes, parametric lights, HDR probes from one image. Still a JS shell. Code/weights missing. Receipt `lumera-project-page-2026-09-04.json`.
+
+**2026-09-05 capture — arXiv 2607.20889 first-party.** `GET https://arxiv.org/abs/2607.20889` **200 / 43,789 B**. ar5iv HTML **506,831 B**. Title *Engine-Native Editable 3D World Reconstruction with Objects and Lighting*. Abstract: Lumera-2K from **2,513** UE5 projects; **3.73M** components, **63M** object instances, **102.6K** parametric lights, **95.1K** camera views. Lumera-Box / Lumera-Light adapt a VLM to parse boxes and light tuples. **No GitHub/weights URL** in the HTML (only ar5iv’s own repo). Receipt `analysis/_work/captures/lumera-arxiv-2607.20889.json`.
 <!-- NOTES:END -->
