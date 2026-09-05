@@ -26,6 +26,7 @@ DEAD = (
     "designmd.me",
     "designmd.supply",
     "typeui.com",
+    "typeui.sh",
     "cult-ui.com",
     "search.brave.com",
     "brave.com",
@@ -36,6 +37,8 @@ DEAD = (
     "tapirconvert.com",
     "npmjs.com",
     "www.npmjs.com",
+    "aiautomationsociety.ai",
+    "www.aiautomationsociety.ai",
 )
 
 SKIP_HOSTS = (

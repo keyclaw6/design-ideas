@@ -25,4 +25,6 @@ Neighbor: `https://developer.amd.com` GET 200 / **108,551 B**. Complimentary clo
 Neighbor (parked; no hamster.md): 2026-09-05 HF `sh0wie/Qwen3.8-Flash-Next-REAP-288-MLX-4bit` (not a HamsterResearch org). README table: Base Q4 **512** experts **98 GB** disk / **97 GB** resident / **93.9%** HumanEval; this build **288** experts **68 GB** disk / **68 GB** resident or **39 GB streamed** / **91.5%** HumanEval. String Hamster absent. Do not collapse 39 streamed with 68 resident. Receipt `analysis/_work/captures/mustread-2026-09-05/hf-reap-readme.md`.
 
 **2026-09-05 capture — leftover10 Qwen expert-on-disk.** [x-2093429897188299113](../items/x-2093429897188299113/card.md) tweet **60%** on disk / **37 GB** / **40 tok/s** M4 Max is not the REAP-288 **39 GB streamed / 68 GB resident** table. Do not collapse 37 / 39 / 68.
+
+**2026-09-05 leftover24.** Unused HF API `unsloth/Qwen3.8-27B-GGUF`: **3,514** likes / **9,951,693** downloads. No local load. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

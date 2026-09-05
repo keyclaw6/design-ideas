@@ -6,5 +6,5 @@
 - [Arcana Splat2Mesh: local CPU 3DGS-to-mesh converter launching free](../items/x-2093179838249251011/card.md) — tool, claim-source — gaussian-splatting
 
 <!-- NOTES:START -->
-
+**2026-09-05 leftover24.** Unused English `arcana-mfg.com/en/splat2mesh/` **73,796 B**. PLY in; OBJ/GLB out; Windows 11; personal/non-commercial free; commercial license separate. No watertight claim. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -72,6 +72,16 @@
       "evidence_ref": "analysis/tools/gpt-image-2.md",
       "confidence": "demonstrated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2094819241916801165#c5",
+      "text": "leftover24 unused GitHub wuyoscar/GPT-Image2-Skill is MIT 5,154\u2605 this pass (leftover19 was 5,153\u2605). README still a prompt gallery + skills + CLI. Official Seedance 2.5 and this repo still do not name identity lock.",
+      "kind": "availability",
+      "evidence": "leftover24 gh-gpt-image2-skill 5154 MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gpt-image-2.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": [

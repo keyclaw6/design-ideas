@@ -12,6 +12,7 @@
 - `x-2095078647652917329#c1` (availability, stated) Note-tweet links nine DESIGN.md sources including styles.refero.design, open-design.ai, aura.build, and typeui.sh. — evidence: "http://styles.refero.design" [post]
 - `x-2095078647652917329#c2` (availability, stated) Visible reply adds Sokosumi's free DESIGN.md generator at sokosumi.com/tools/design-md. — evidence: "https://www.sokosumi.com/tools/design-md too ;D" [reply]
 - `x-2095078647652917329#c3` (availability, demonstrated) Nine DESIGN.md hosts this pass: styles.refero.design API 1,289/1,241 (not 2,000+); getdesign.md 200 / 193,240 B still markets 550+ (sitemap union 627); neuform.ai 6,499 B SPA; aura.build 7,737 B SPA; sokosumi.com/tools/design-md 109,208 B generator; open-design.ai 339,680 B. designmd.me / designmd.supply / typeui.sh still 429 — do not hammer. — evidence: "Live GETs 2026-09-05. analysis/_work/captures/mustread-2026-09-05.json" [note]
+- `x-2095078647652917329#c4` (availability, demonstrated) leftover24 unused design-md.hyperbrowser.ai 5,659 B. Title DESIGNMD. Visible body is the boot shell “Booting DESIGNMD” — not a catalog count. Do not collapse with Refero API 1,289/1,241 or getdesign.md 550+/627. typeui.sh / designmd.me / designmd.supply stay 429 — do not hammer. — evidence: "leftover24 hyperbrowser-designmd 5659 B. Quote: Booting DESIGNMD." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

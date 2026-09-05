@@ -21,4 +21,6 @@ Do not collapse these case counts:
 Neighbor (parked; no imageory.md): 2026-09-05 `https://Imageory.in` GET 200 / **167,558 B**. Title Imageory — Get images & prompts. Category chips visible. String ChatGPT absent. Prompt bodies not in SSR. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 
 **2026-09-05 leftover19.** Neighbor `wuyoscar/GPT-Image2-Skill` MIT **5,153★**. Gallery + 2 skills + CLI; edits `POST /v1/images/edits` with repeatable `-i`. Official image-generation docs **1,248,104 B**. Neither names identity lock. Do not collapse with `freestylefly/awesome-gpt-image-2` **28,017★**.
+
+**2026-09-05 leftover24.** Unused GitHub recount `wuyoscar/GPT-Image2-Skill` MIT **5,154★**. Still no identity lock. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

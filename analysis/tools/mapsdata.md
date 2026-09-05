@@ -9,4 +9,6 @@
 **2026-09-05 leftover6.** `https://mapsdata.ai/` **55,354 B**; `/pricing` **46,936 B**. Monthly: Starter **$19 / $1.90 per 1k** (10k leads, 10k per search); Pro **$49 / $0.98 per 1k** (50k / 50k); Scale **$99 / $0.33 per 1k** (300k / **100,000 per search**). Annual SAVE 20%: $15 / $39 / $79 ($1.50 / $0.78 / $0.26 per 1k). Hero “as low as $3.30 per 10,000” is Scale annual. **500 free leads a month** (refills; no card). Allowance counts only leads with an email. US/CA/UK/AU. Product of Hiive Arts. Tweet $0.33–$0.98 is Scale monthly + Pro monthly, not one plan. Receipt `leftover6-2026-09-05/mapsdata-pricing-visible.txt`.
 
 **2026-09-05 leftover22 — b2bfunnel.co (no b2bfunnel.md).** Unused `https://b2bfunnel.co` **71,788 B**. Done-for-you outbound agency: **2–3K** emails/day/client; **$3K+** min LTV; **$500+/mo** retainer floor. Not Instantly **10k/day / 500 inboxes / 167 domains**. Receipt `leftover22-2026-09-05.json`.
+
+**2026-09-05 leftover24.** Unused homepage `mapsdata.ai` **55,354 B** restates **500** free leads/month; **4** countries; **4,000+** categories; **$3.30** per 10,000. Pricing-page leftover6 stays the plan table. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -17,4 +17,6 @@ Paper Table 1 WebArena overall SR / steps (684 tasks; Map excluded): Gemini-2.5-
 **2026-09-04 recapture — paper PDF + live repo.** `GET https://arxiv.org/pdf/2509.25140` **200 / 5,545,249 B**, filename `2509.25140v2.pdf`, **13** pages (`analysis/_work/captures/reasoning-bank-arxiv-2509.25140v2.json`). pdfminer extract confirms Table 1 / Table 2 / MaTTS integers already on this page. GitHub API: Apache-2.0, **561** stars, **66** forks, `description` null, README **5,783** B, disclaimer still “not an officially supported Google product.” OpenReview `forum?id=jL7fwchScm` **307 → /challenge** this pass.
 
 **2026-09-05 leftover20.** GitHub API now **562★** / 66 forks / Apache-2.0. README still **5,783 B**. Guessed `research.google/blog/reasoningbank*` **404**. Do not collapse 562 with 561.
+
+**2026-09-05 leftover24.** Unused abs `arxiv.org/abs/2509.25140` **45,267 B** still ICLR 2026 v2 (16 Mar 2026; PDF **3,953 KB**). OpenReview still gated. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -1,0 +1,357 @@
+{
+  "fetched_at": "2026-09-05T11:00:00Z",
+  "pages": {
+    "gh-popcorn-cli": {
+      "url": "https://api.github.com/repos/gpu-mode/popcorn-cli",
+      "final": "https://api.github.com/repos/gpu-mode/popcorn-cli",
+      "status": 200,
+      "bytes": 6205,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-popcorn-cli.json",
+      "json_summary": {
+        "full_name": "gpu-mode/popcorn-cli",
+        "stars": 178,
+        "license": "MIT",
+        "description": "",
+        "name": "popcorn-cli",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "gh-reference-kernels": {
+      "url": "https://api.github.com/repos/gpu-mode/reference-kernels",
+      "final": "https://api.github.com/repos/gpu-mode/reference-kernels",
+      "status": 200,
+      "bytes": 6571,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-reference-kernels.json",
+      "json_summary": {
+        "full_name": "gpu-mode/reference-kernels",
+        "stars": 303,
+        "license": "NOASSERTION",
+        "description": "Official Problem Sets / Reference Kernels for the GPU MODE Leaderboard!",
+        "name": "reference-kernels",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "reasoningbank-abs": {
+      "url": "https://arxiv.org/abs/2509.25140",
+      "final": "https://arxiv.org/abs/2509.25140",
+      "status": 200,
+      "bytes": 45267,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "[2509.25140] ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+      "visible_len": 5235
+    },
+    "gh-freetoken": {
+      "url": "https://api.github.com/repos/FlashML-org/FreeToken",
+      "final": "https://api.github.com/repos/FlashML-org/FreeToken",
+      "status": 200,
+      "bytes": 5546,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-freetoken.json",
+      "json_summary": {
+        "full_name": "FlashML-org/FreeToken",
+        "stars": 11666,
+        "license": "Apache-2.0",
+        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "name": "FreeToken",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "gh-sylph": {
+      "url": "https://api.github.com/repos/getnao/sylph",
+      "final": "https://api.github.com/repos/getnao/sylph",
+      "status": 200,
+      "bytes": 5925,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-sylph.json",
+      "json_summary": {
+        "full_name": "getnao/sylph",
+        "stars": 195,
+        "license": null,
+        "description": "The open-source company brain. Run your entire company with AI agents, skills, and a self-improving context.",
+        "name": "sylph",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "gh-gojiberry": {
+      "url": "https://api.github.com/repos/romangojiberryAI/gojiberryai-sales-os",
+      "final": "https://api.github.com/repos/romangojiberryAI/gojiberryai-sales-os",
+      "status": 200,
+      "bytes": 6144,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-gojiberry.json",
+      "json_summary": {
+        "full_name": "romangojiberryAI/gojiberryai-sales-os",
+        "stars": 96,
+        "license": "MIT",
+        "description": "GojiberryAI Sales OS: a full AI outbound team for Grok Bot, powered by the GojiberryAI MCP.",
+        "name": "gojiberryai-sales-os",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "gh-gpt-image2-skill": {
+      "url": "https://api.github.com/repos/wuyoscar/GPT-Image2-Skill",
+      "final": "https://api.github.com/repos/wuyoscar/GPT-Image2-Skill",
+      "status": 200,
+      "bytes": 5817,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-gpt-image2-skill.json",
+      "json_summary": {
+        "full_name": "wuyoscar/GPT-Image2-Skill",
+        "stars": 5154,
+        "license": "MIT",
+        "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+        "name": "GPT-Image2-Skill",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "hyperbrowser-designmd": {
+      "url": "https://design-md.hyperbrowser.ai/",
+      "final": "https://design-md.hyperbrowser.ai/",
+      "status": 200,
+      "bytes": 5659,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "DESIGNMD",
+      "visible_len": 16
+    },
+    "gh-mengto-skills": {
+      "url": "https://api.github.com/repos/MengTo/Skills",
+      "final": "https://api.github.com/repos/MengTo/Skills",
+      "status": 200,
+      "bytes": 5000,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-mengto-skills.json",
+      "json_summary": {
+        "full_name": "MengTo/Skills",
+        "stars": 5798,
+        "license": "MIT",
+        "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
+        "name": "Skills",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "obscura-docs": {
+      "url": "https://docs.obscura.sh",
+      "final": "https://docs.obscura.sh",
+      "status": 200,
+      "bytes": 926821,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Introduction | Obscura DocsGitBook AssistantGitBook Assistantarrow-up-right-and-arrow-down-left-from-centerGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook AssistantGitBook Assistant",
+      "visible_len": 2349
+    },
+    "obscura-home": {
+      "url": "https://obscura.sh",
+      "final": "https://obscura.sh",
+      "status": 200,
+      "bytes": 11965,
+      "ctype": "text/html",
+      "error": null,
+      "title": "Obscura \u00b7 Give every agent its own browser",
+      "visible_len": 2868
+    },
+    "originkit": {
+      "url": "https://www.originkit.dev/",
+      "final": "https://www.originkit.dev/",
+      "status": 200,
+      "bytes": 562318,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Originkit \u2014 Free Animated component library for modern websites",
+      "visible_len": 0
+    },
+    "mapsdata": {
+      "url": "https://mapsdata.ai",
+      "final": "https://mapsdata.ai",
+      "status": 200,
+      "bytes": 55354,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Google Maps Scraper with Verified Emails | MapsData",
+      "visible_len": 5523
+    },
+    "nateherk": {
+      "url": "https://www.nateherk.com",
+      "final": "https://www.nateherk.com",
+      "status": 200,
+      "bytes": 42126,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Nate Herk \u00b7 AI automation made easy",
+      "visible_len": 2793
+    },
+    "ai-automation-society": {
+      "url": "https://aiautomationsociety.ai",
+      "final": "https://aiautomationsociety.ai",
+      "status": 403,
+      "bytes": 5456,
+      "ctype": "text/html; charset=UTF-8",
+      "error": "HTTPError 403",
+      "title": "Just a moment...",
+      "visible_len": 0
+    },
+    "gh-treg": {
+      "url": "https://api.github.com/repos/superdesigndev/treg",
+      "final": "https://api.github.com/repos/superdesigndev/treg",
+      "status": 200,
+      "bytes": 6485,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-treg.json",
+      "json_summary": {
+        "full_name": "superdesigndev/treg",
+        "stars": 1190,
+        "license": "NOASSERTION",
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "name": "treg",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "gh-iannuttall-seo": {
+      "url": "https://api.github.com/repos/iannuttall/seo",
+      "final": "https://api.github.com/repos/iannuttall/seo",
+      "status": 200,
+      "bytes": 5305,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-iannuttall-seo.json",
+      "json_summary": {
+        "full_name": "iannuttall/seo",
+        "stars": 463,
+        "license": "Apache-2.0",
+        "description": "The only SEO skill your agent needs. 70+ SEO audit tools through a local CLI and MCP server, using your own crawl, Search Console, and GA4 data.",
+        "name": "seo",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "crowdreply-citation": {
+      "url": "https://crowdreply.io/features/citation-outreach",
+      "final": "https://crowdreply.io/features/citation-outreach",
+      "status": 200,
+      "bytes": 396104,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "Citation Outreach for AI Search Visibility \u2014 CrowdReply",
+      "visible_len": 9400
+    },
+    "gh-ouroboros": {
+      "url": "https://api.github.com/repos/razzant/ouroboros",
+      "final": "https://api.github.com/repos/razzant/ouroboros",
+      "status": 200,
+      "bytes": 5502,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/gh-ouroboros.json",
+      "json_summary": {
+        "full_name": "razzant/ouroboros",
+        "stars": 1265,
+        "license": "MIT",
+        "description": "Ouroboros \u2014 self-creating AI agent. Born Feb 16, 2026.",
+        "name": "ouroboros",
+        "likes": null,
+        "downloads": null
+      }
+    },
+    "hf-ouroboros-osworld": {
+      "url": "https://huggingface.co/api/datasets/razzant/ouroboros-osworld-verified-opus5",
+      "final": "https://huggingface.co/api/datasets/razzant/ouroboros-osworld-verified-opus5",
+      "status": 200,
+      "bytes": 215682,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/hf-ouroboros-osworld.json",
+      "json_summary": {
+        "full_name": "razzant/ouroboros-osworld-verified-opus5",
+        "stars": 1666,
+        "license": null,
+        "description": "\n\t\n\t\t\n\t\n\t\n\t\tOuroboros on OSWorld-Verified: 90.69%, the highest result reported to date\n\t\n\n\nStatus: Self-reported result over all 361 tasks. The official per-task\nscores, prompts, manifests and feasibi",
+        "name": null,
+        "likes": 0,
+        "downloads": 1666
+      }
+    },
+    "hf-ouroboros-clbench": {
+      "url": "https://huggingface.co/api/datasets/razzant/ouroboros-clbench-traces",
+      "final": "https://huggingface.co/api/datasets/razzant/ouroboros-clbench-traces",
+      "status": 200,
+      "bytes": 2737993,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/hf-ouroboros-clbench.json",
+      "json_summary": {
+        "full_name": "razzant/ouroboros-clbench-traces",
+        "stars": 451,
+        "license": null,
+        "description": "\n\t\n\t\t\n\t\n\t\n\t\tOuroboros \u00d7 CL-Bench: full execution traces\n\t\n\n\nStatus: Self-reported result with an open upstream submission. The complete\nrunner traces, runtime logs, evolving memory and score inputs ar",
+        "name": null,
+        "likes": 0,
+        "downloads": 451
+      }
+    },
+    "splat2mesh-arcana": {
+      "url": "https://arcana-mfg.com/en/splat2mesh/",
+      "final": "https://arcana-mfg.com/en/splat2mesh/",
+      "status": 200,
+      "bytes": 73796,
+      "ctype": "text/html; charset=UTF-8",
+      "error": null,
+      "title": "Splat2Mesh",
+      "visible_len": 3308
+    },
+    "hf-unsloth-qwen": {
+      "url": "https://huggingface.co/api/models/unsloth/Qwen3.8-27B-GGUF",
+      "final": "https://huggingface.co/api/models/unsloth/Qwen3.8-27B-GGUF",
+      "status": 200,
+      "bytes": 12926,
+      "ctype": "application/json; charset=utf-8",
+      "error": null,
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/hf-unsloth-qwen.json",
+      "json_summary": {
+        "full_name": "unsloth/Qwen3.8-27B-GGUF",
+        "stars": 3514,
+        "license": null,
+        "description": "",
+        "name": null,
+        "likes": 3514,
+        "downloads": 9951693
+      }
+    },
+    "aidesigner-mcp": {
+      "url": "https://api.aidesigner.ai/api/v1/mcp",
+      "final": "https://api.aidesigner.ai/api/v1/mcp",
+      "status": 401,
+      "bytes": 40,
+      "ctype": "application/json",
+      "error": "HTTPError 401",
+      "saved": "/workspace/analysis/_work/captures/leftover24-2026-09-05/aidesigner-mcp.json",
+      "json_summary": {
+        "full_name": null,
+        "stars": null,
+        "license": null,
+        "description": "",
+        "name": null,
+        "likes": null,
+        "downloads": null
+      }
+    }
+  }
+}

@@ -80,6 +80,16 @@
       "evidence_ref": "analysis/tools/seo-skill-cli.md",
       "confidence": "demonstrated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2095055297949610427#c6",
+      "text": "leftover24 unused GitHub iannuttall/seo is Apache-2.0 463\u2605. Description first-party: 70+ SEO audit tools through a local CLI and MCP. Matches the earlier GitHub-only 70+; seoskill.dev homepage still has no 70+. npmjs.com/package/seo stays 403 \u2014 do not hammer.",
+      "kind": "availability",
+      "evidence": "leftover24 gh-iannuttall-seo 463 Apache-2.0. Quote: 70+ SEO audit tools.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/seo-skill-cli.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": [],
@@ -111,7 +121,8 @@
       "https://www.npmjs.com/package/seo",
       "https://seoskill.dev/.well-known/agent-skills/index.json",
       "https://keep.md",
-      "https://ian.is"
+      "https://ian.is",
+      "https://github.com/iannuttall/seo"
     ],
     "related_items": []
   },

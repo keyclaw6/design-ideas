@@ -119,7 +119,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2086599657925329347#c1` | Course covers interactive 3D experiences, games from scratch, and AI design workflow. | stated | [RoundtableSpace free 1-hour Claude in…](../../items/x-2086599657925329347/card.md) |
 | `x-2088240171565412733#c1` | Gemini 3.7 Flash High in Antigravity produced the scene in roughly four minutes. | stated | [Gemini Antigravity builds photoreal B…](../../items/x-2088240171565412733/card.md) |
 
-Full set: claims.jsonl (43 rows)
+Full set: claims.jsonl (44 rows)
 
 ## web-3d-scenes — comparison axes
 

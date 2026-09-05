@@ -99,6 +99,16 @@
       "evidence_ref": "analysis/tools/people-search-bench.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094740953554932149#c5",
+      "text": "leftover24 unused GitHub superdesigndev/treg is 1,190\u2605 license NOASSERTION. Description: OpenRouter for agent tools. Does not name PeopleSearchBench #1. leftover23 abs integers stay on #c4.",
+      "kind": "availability",
+      "evidence": "leftover24 gh-treg 1190 NOASSERTION.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/treg.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "links": {
@@ -108,7 +118,8 @@
     "product": "https://treg.to/people-search",
     "other": [
       "https://github.com/LessieAI/people-search-bench",
-      "https://arxiv.org/abs/2603.27476"
+      "https://arxiv.org/abs/2603.27476",
+      "https://github.com/superdesigndev/treg"
     ],
     "related_items": [
       "web-treg-people-search",

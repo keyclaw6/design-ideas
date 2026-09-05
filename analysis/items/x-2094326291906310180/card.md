@@ -17,11 +17,12 @@
 1 demo booked" [post]
 - `x-2094326291906310180#c2` (recipe, demonstrated) Sales OS ships a blank icp-context.template.md (product, ICP, voice, send policy); default mode is propose-don't-send. The 97/1 run has no filled copy in this bank. — evidence: "README First five minutes + skills/sales-os/icp-context.template.md (1023 bytes): Mode: propose (default) | autonomous; no filled ICP for the 97/1 tweet." [note]
 - `x-2094326291906310180#c3` (availability, demonstrated) leftover21: root t.co/s0za9kxTZC loops to this same X status. No first-party filled ICP for the 97/1 Friday-night run. Template fields stay on gojiberryai NOTES. Do not invent a filled ICP. — evidence: "leftover21 tco-goji final x.com/pierreeliottlal/status/2094326291906310180 193330 B." [note]
+- `x-2094326291906310180#c4` (availability, demonstrated) leftover24 unused GitHub romangojiberryAI/gojiberryai-sales-os is MIT 96★ this pass. Matches the sibling CEO-launch recount. MCP endpoint unused here stays keyed. Do not invent a filled ICP for the 97/1 run. — evidence: "leftover24 gh-gojiberry 96 MIT." [note]
 **Numbers.** prospects contacted: 97 prospects (post); connection acceptances: 33 accepts (post); replies: 15+ replies (post); demos booked: 1 demo (post)
 **Recipe.** —
 **Techniques.** [agent-browser-isolation](../../techniques/agent-browser-isolation.md), [agent-browser-isolation](../../techniques/agent-browser-isolation.md)
 **Tools.** [gojiberryai](../../tools/gojiberryai.md), [grok-bot](../../tools/grok-bot.md)
-**Links.** repo (https://github.com/romangojiberryAI/gojiberryai-sales-os), product (https://gojiberry.ai/), https://mcp.gojiberry.ai/mcp
+**Links.** repo (https://github.com/romangojiberryAI/gojiberryai-sales-os), product (https://gojiberry.ai/), https://mcp.gojiberry.ai/mcp, https://github.com/romangojiberryAI/gojiberryai-sales-os
 **Related items.** [github-romangojiberryAI-gojiberryai-sales-os](../github-romangojiberryAI-gojiberryai-sales-os/card.md), [x-2094892848042725416](../x-2094892848042725416/card.md)
 **Media.**
 `raw/items/x-2094326291906310180/media/photo.jpg` (image, carries_technique=false) — Slack Calendly-via-Zapier notification showing a new demo booked on 2026-08-31 at 18:00 UTC with America/Chicago timezone and a CIO role answer field partially visible.

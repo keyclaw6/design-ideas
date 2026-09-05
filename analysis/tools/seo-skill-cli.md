@@ -21,4 +21,6 @@ Local `seo` CLI + MCP (`seo mcp install`). Audits, Search Console, connected ana
 **2026-09-05 leftover22 — keep.md / ian.is / hridoyreh (no keep.md).** `keep.md` **191,347 B**: Starter Free / Personal **$10/mo** / X sync **$5/mo**; MCP `https://keep.md/mcp`; `npm i -g keep`. `ian.is` **62,453 B** lists Keep + SEO Skill + nine other small tools; **6,809** contributions. `hridoyreh.com` **77,652 B** markets **650M+ / $149M+** and names seowins.io (already 403). Receipt `leftover22-2026-09-05.json`.
 
 **2026-09-05 leftover23.** Unused `npmjs.com/package/seo` **403 / 5,650 B** Cloudflare — do not hammer. Receipt `leftover23-2026-09-05.json`.
+
+**2026-09-05 leftover24.** Unused GitHub `iannuttall/seo` Apache-2.0 **463★** first-party **70+** SEO audit tools. Homepage still has no 70+. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -22,4 +22,6 @@ Catalog dump still needs a token (`treg catalog` / `/call/…`). $1.00 free prep
 **2026-09-05 capture — people-search page.** `https://treg.to/people-search` GET 200 / **83,902 B**. Title Claude for People Search — 1B+ Contacts for Your Agent. First-party: one skill / 1B+ contacts across Apollo, Hunter, Tomba, People Data Labs — **60** providers; pay per answer. `people.email.find` routed **from $0.0089**. `companies.search` ranked examples: Apollo **$0.026 · 98%**; TheCompaniesAPI **$0.004 · 91%**. Do not collapse $0.0089 with $0.026. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 
 **2026-09-05 leftover16 attach.** Hidden-anchor leftover ([x-2088046188037902579](../items/x-2088046188037902579/card.md)) is a 9px `llms.txt` browse nudge (10/10 screenshot-only). Do not collapse with this catalog `llms.txt`.
+
+**2026-09-05 leftover24.** Unused GitHub `superdesigndev/treg` **1,190★** NOASSERTION. Does not name PeopleSearchBench #1. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

@@ -68,6 +68,16 @@
       "evidence_ref": "analysis/tools/agentation.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089263766428950683#c5",
+      "text": "leftover24 unused originkit.dev 562,318 B. Title Originkit \u2014 Free Animated component library for modern websites. Visible body empty (SSR shell). Pricing/CSS-bundle integers stay on cult-ui NOTES. leftover23 kit leftovers already on #c4.",
+      "kind": "availability",
+      "evidence": "leftover24 originkit 562318 B title Originkit. visible_len empty.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cult-ui.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,

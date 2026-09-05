@@ -21,4 +21,6 @@ Paper body (Yang et al., arXiv:2608.16157) **does** carry the tweet-scale number
 **2026-09-05 leftover21.** `flashml.ai` **39,649 B** (www) titles FreeToken — Bring Frontier to Edge. GitHub **11,665★** Apache-2.0. README **4,821 B** still **290B+**; desktop Windows/Linux; `uv pip install "freetoken[accel]"`. No GPU `profile` run this host.
 
 **2026-09-05 leftover23.** Unused abs `arxiv.org/abs/2608.16157` **42,706 B** folded onto the Hesamation leftover. Title matches the leftover21 PDF. MIT still paraphrase-only. Receipt `leftover23-2026-09-05.json`.
+
+**2026-09-05 leftover24.** Unused GitHub `FlashML-org/FreeToken` Apache-2.0 **11,666★** (leftover21 was **11,665★**). No GPU `profile`. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

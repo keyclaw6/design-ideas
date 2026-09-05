@@ -79,6 +79,16 @@
       "evidence_ref": "analysis/tools/reasoning-bank.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2087143369181114868#c6",
+      "text": "leftover24 unused arXiv 2509.25140 abs 45,267 B is still ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory (Ouyang et al.; ICLR 2026; v2 16 Mar 2026; PDF 3,953 KB). Abstract names MaTTS and success+failure memory; Table 1 / Table 2 integers stay on earlier notes. OpenReview still gated.",
+      "kind": "availability",
+      "evidence": "leftover24 reasoningbank-abs 45267 B. Title: ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reasoning-bank.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
     }
   ],
   "recipe_steps": [],
@@ -96,7 +106,8 @@
     "paper": "https://arxiv.org/abs/2509.25140",
     "product": null,
     "other": [
-      "https://github.com/google-research/reasoning-bank"
+      "https://github.com/google-research/reasoning-bank",
+      "https://arxiv.org/abs/2509.25140"
     ],
     "related_items": [
       "x-2087208634493095978",

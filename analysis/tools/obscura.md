@@ -17,4 +17,6 @@
 **2026-09-04 capture — tinyshelf page-loaded serve RSS via CDP.** Fresh `./obscura serve --port 19255 --workers 1`. Idle VmRSS **25,108 KB** ×3. `Target.createTarget({url:"https://www.tinyshelf.co/"})` + attach + `Runtime.evaluate`: `title=TinyShelf`, `url=https://www.tinyshelf.co/`, `bodyLen=13883`, `scrollHeight=3158`, `clientHeight=720`, `ready=complete`. Loaded VmRSS **73,080 KB** ×3 (~71.4 MB); **20** threads. Bank `analysis/_work/captures/obscura-tinyshelf-cdp.json`. Heavier than example.com **37,856 KB**. Still one process. Do not collapse with README “30 MB”, idle ~25 MB, example.com 37.0 MB, or the fetch-CLI PNG.
 
 **2026-09-05 leftover16 attach.** Publisher UA leftover ([x-2090837707069014224](../items/x-2090837707069014224/card.md)) is site×bot HTML variance (Claude-User / GPTBot), not this headless agent browser.
+
+**2026-09-05 leftover24.** Unused `obscura.sh` **11,965 B**: Star **16.2k**; **<50ms** session start; **10×** leaner vs Chrome. `docs.obscura.sh` **926,821 B** GitBook SPA. Do not collapse 16.2k with local RSS. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

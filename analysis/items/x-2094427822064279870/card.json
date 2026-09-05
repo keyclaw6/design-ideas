@@ -3,7 +3,7 @@
   "id": "x-2094427822064279870",
   "source_type": "x",
   "url": "https://x.com/0xJokker/status/2094427822064279870",
-  "title": "Viral Obscura tweet — Rust agent browser at 30MB RAM, Puppeteer-compatible",
+  "title": "Viral Obscura tweet \u2014 Rust agent browser at 30MB RAM, Puppeteer-compatible",
   "author": {
     "name": "Jokker",
     "handle": "0xJokker",
@@ -63,9 +63,19 @@
     },
     {
       "id": "x-2094427822064279870#c4",
-      "text": "Local 0.2.1 serve RSS is 25,108 KB idle, 37,856 KB with example.com, and 73,080 KB with tinyshelf.co — above the tweet's 30 MB RAM line. Do not treat 30 MB as a page-loaded session.",
+      "text": "Local 0.2.1 serve RSS is 25,108 KB idle, 37,856 KB with example.com, and 73,080 KB with tinyshelf.co \u2014 above the tweet's 30 MB RAM line. Do not treat 30 MB as a page-loaded session.",
       "kind": "counter-claim",
       "evidence": "Idle 25108 kB; example.com CDP 37856 kB; tinyshelf CDP 73080 kB. README/tweet 30 MB not collapsed. See obscura NOTES.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/obscura.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2094427822064279870#c5",
+      "text": "leftover24 unused obscura.sh 11,965 B titles Obscura \u00b7 Give every agent its own browser. First-party: Star 16.2k; <50ms session start; 10\u00d7 leaner memory vs Chrome; zero-state isolated sessions; CDP/Playwright. docs.obscura.sh 926,821 B is a GitBook SPA. Do not collapse 16.2k with local 0.2.1 RSS 25/37/73 MB or the tweet 30 MB line.",
+      "kind": "capability",
+      "evidence": "leftover24 obscura-home 11965 B. Quote: <50ms Session start time 10\u00d7 leaner Memory vs. Chrome.",
       "evidence_source": "note",
       "evidence_ref": "analysis/tools/obscura.md",
       "confidence": "demonstrated",
@@ -93,7 +103,8 @@
     "paper": null,
     "product": "https://obscura.sh",
     "other": [
-      "https://docs.obscura.sh"
+      "https://docs.obscura.sh",
+      "https://obscura.sh"
     ],
     "related_items": [
       "github-h4ckf0r0day-obscura",

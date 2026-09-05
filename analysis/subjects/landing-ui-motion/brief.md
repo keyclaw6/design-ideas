@@ -145,7 +145,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `web-vengence-ui#c2` | Install command is npx shadcn@latest add @vengeanceui/[component]. | stated | [Vengeance UI: shadcn-registry animate…](../../items/web-vengence-ui/card.md) |
 | `x-2087812720762425743#c1` | Author claims ReactBits Pro components do 90% of motion, structure, and customization work. | stated | [ReactBits Pro: restyle motion primiti…](../../items/x-2087812720762425743/card.md) |
 
-Full set: claims.jsonl (91 rows)
+Full set: claims.jsonl (93 rows)
 
 ## landing-ui-motion — comparison axes
 

@@ -72,6 +72,16 @@
       "evidence_ref": "analysis/tools/fable-5-1.md",
       "confidence": "demonstrated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094978216146452971#c5",
+      "text": "leftover24 unused nateherk.com 42,126 B. First-party: 950,000+ YouTube; 450,000+ AI Automation Society; 3,500+ Society Plus; 60,000+ LinkedIn. aiautomationsociety.ai is HTTP 403 / 5,456 B Cloudflare \u2014 do not hammer. scroll-craft still lives in the tweet replies, not this homepage.",
+      "kind": "availability",
+      "evidence": "leftover24 nateherk 42126 B. Quote: 950,000 + YouTube subscribers 450,000 + AI Automation Society members.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/fable-5-1.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": null,
@@ -111,7 +121,8 @@
     "product": "https://aiautomationsociety.ai",
     "other": [
       "https://x.com/i/article/2094971964163006468",
-      "https://www.nateherk.com"
+      "https://www.nateherk.com",
+      "https://aiautomationsociety.ai"
     ],
     "related_items": [
       "github-nateherkai-scroll-craft"

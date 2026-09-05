@@ -91,6 +91,16 @@
       "evidence_ref": "analysis/tools/freetoken.md",
       "confidence": "demonstrated",
       "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2091150763418620133#c7",
+      "text": "leftover24 unused GitHub FlashML-org/FreeToken is Apache-2.0 11,666\u2605 this pass (leftover21 was 11,665\u2605). Do not collapse. GPU profile still not run here.",
+      "kind": "availability",
+      "evidence": "leftover24 gh-freetoken 11666 Apache-2.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/freetoken.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "recipe_steps": [],

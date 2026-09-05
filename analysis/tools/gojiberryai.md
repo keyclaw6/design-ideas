@@ -14,5 +14,7 @@ Neighbor (parked; no starborn.md): 2026-09-05 `https://www.starbornai.com/` GET 
 
 **2026-09-05 homepage re-read for the CEO launch card.** Same `https://gojiberry.ai/` **1,154,716 B**. ICP filtering + Email waterfall (15+ providers) + CRM/API/MCP named. **Grok** string absent. 13-agent tree stays tweet/repo.
 
+**2026-09-05 leftover24.** Unused GitHub `romangojiberryAI/gojiberryai-sales-os` MIT **96★** on the 97/1 must-read. Still no filled ICP. Receipt `leftover24-2026-09-05.json`.
+
 **2026-09-05 leftover21.** Root `t.co/s0za9kxTZC` loops to the same X status. Still no filled ICP for 97/1.
 <!-- NOTES:END -->

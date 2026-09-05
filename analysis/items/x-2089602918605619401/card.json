@@ -62,6 +62,16 @@
       "evidence_ref": "analysis/tools/sylva.md",
       "confidence": "demonstrated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "x-2089602918605619401#c4",
+      "text": "leftover24 unused GitHub MengTo/Skills is MIT 5,798\u2605. Description: agent skills for designers and builders using Codex, Claude, Cursor. This is not the Sylva moss-instancing repo and not the leftover10 60-component tweet inventory.",
+      "kind": "availability",
+      "evidence": "leftover24 gh-mengto-skills 5798 MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mengto-skills.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": null,

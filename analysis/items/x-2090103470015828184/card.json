@@ -3,7 +3,7 @@
   "id": "x-2090103470015828184",
   "source_type": "x",
   "url": "https://x.com/UnslothAI/status/2090103470015828184",
-  "title": "Unsloth Dynamic V3 Qwen3.8-27B GGUFs — 10% accuracy gain, 8GB 1-bit path",
+  "title": "Unsloth Dynamic V3 Qwen3.8-27B GGUFs \u2014 10% accuracy gain, 8GB 1-bit path",
   "author": {
     "name": "Unsloth AI",
     "handle": "UnslothAI",
@@ -60,6 +60,16 @@
       "confidence": "demonstrated",
       "subject": "local-inference-models",
       "id": "x-2090103470015828184#c3"
+    },
+    {
+      "id": "x-2090103470015828184#c4",
+      "text": "leftover24 unused HF API unsloth/Qwen3.8-27B-GGUF: 3,514 likes / 9,951,693 downloads this pass. File-size envelopes stay on leftover21 NOTES. No local load timing those envelopes.",
+      "kind": "availability",
+      "evidence": "leftover24 hf-unsloth-qwen likes 3514 downloads 9951693.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unsloth.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "recipe_steps": [],
@@ -83,7 +93,9 @@
     "repo": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
     "paper": null,
     "product": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-    "other": [],
+    "other": [
+      "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
+    ],
     "related_items": [
       "x-2088594942482374759",
       "x-2089165107364278341",

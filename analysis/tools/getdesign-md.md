@@ -26,4 +26,6 @@ Homepage still advertises **550+** DESIGN.md analyses and “Follows Google’s 
 **2026-09-05 leftover19.** designmd.app home **75,265 B / 562**; `/library` **1,455,593 B / 561**. Byte drift vs leftover18 **75,632** — do not collapse. 429 hosts untouched.
 
 **2026-09-05 leftover22.** Unused neighbor `google-labs-code/design.md` Apache-2.0 **27,737★**. Spec repo, not the designmd.supply marketplace (still 429). Receipt `leftover22-2026-09-05.json`.
+
+**2026-09-05 leftover24.** Unused `design-md.hyperbrowser.ai` **5,659 B** is a “Booting DESIGNMD” SPA — not a catalog count. Receipt `leftover24-2026-09-05.json`.
 <!-- NOTES:END -->

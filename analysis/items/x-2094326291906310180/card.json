@@ -62,6 +62,16 @@
       "evidence_ref": "analysis/tools/gojiberryai.md",
       "confidence": "demonstrated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094326291906310180#c4",
+      "text": "leftover24 unused GitHub romangojiberryAI/gojiberryai-sales-os is MIT 96\u2605 this pass. Matches the sibling CEO-launch recount. MCP endpoint unused here stays keyed. Do not invent a filled ICP for the 97/1 run.",
+      "kind": "availability",
+      "evidence": "leftover24 gh-gojiberry 96 MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],
@@ -105,7 +115,8 @@
     "paper": null,
     "product": "https://gojiberry.ai/",
     "other": [
-      "https://mcp.gojiberry.ai/mcp"
+      "https://mcp.gojiberry.ai/mcp",
+      "https://github.com/romangojiberryAI/gojiberryai-sales-os"
     ],
     "related_items": [
       "github-romangojiberryAI-gojiberryai-sales-os",

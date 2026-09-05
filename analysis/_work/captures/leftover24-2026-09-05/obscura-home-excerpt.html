@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Obscura · Give every agent its own browser</title>
+<meta name="description" content="Obscura is an open source, headless browser engine for AI agents and web scraping. Spin up a clean, isolated session in milliseconds." />
+<link rel="icon" href="favicon-dark.ico" sizes="32x32" media="(prefers-color-scheme: light)" />
+<link rel="icon" href="favicon-white.ico" sizes="32x32" media="(prefers-color-scheme: dark)" />
+<meta name="theme-color" content="#000000" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="#top" aria-label="Obscura home">
+      <img class="mark" src="assets/logo.svg" alt="" /> Obscura
+    </a>
+    <nav class="nav-links">
+      <a href="#how">How it works</a>
+      <a href="#opensource">Open source</a>
+      <a href="https://docs.obscura.sh/">Docs</a>
+    </nav>
+    <div class="nav-right">
+      <a class="gh-pill" href="#opensource">
+        <svg width="15" height="15" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38v-1.34c-2.23.49-2.7-1.07-2.7-1.07-.36-.93-.89-1.18-.89-1.18-.73-.5.05-.49.05-.49.81.06 1.24.83 1.24.83.71 1.22 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8 8 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
+        <span class="star-text">Star</span>
+        <span class="star" id="starCount">16.2k</span>
+      </a>
+      <a class="btn btn-primary btn-sm" href="https://cal.com/obscura/quick-chat">Book a demo</a>
+    </div>
+    <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false"><span></span></button>
+  </div>
+</header>
+<div class="mnav" id="mnav">
+  <a href="#how">How it works</a>
+  <a href="#opensource">Open source</a>
+  <a href="https://docs.obscura.sh/">Docs</a>
+  <div class="mcta"><a class="btn btn-primary" href="https://cal.com/obscura/quick-chat" style="width:100%;justify-content:center">Book a demo</a></div>
+</div>
+
+<a id="top"></a>
+
+<section class="hero">
+  <video class="hero-video" autoplay muted loop playsinline webkit-playsinline preload="auto" disablepictureinpicture>
+    <source src="assets/hero-bg.mp4" type="video/mp4" />
+  </video>
+  <div class="hero-veil"></div>
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <h1 class="reveal">Give every agent<br />its own browser.</h1>
+      <p class="hero-sub reveal d1">Clean, isolated browser sessions in milliseconds. We run the infrastructure and the automation, sized to your job. Tell us what you need and we deliver the data.</p>
+      <div class="hero-actions reveal d2">
+        <a class="btn btn-primary" href="https://cal.com/obscura/quick-chat">Book a demo</a>
+        <a class="btn btn-ghost" href="#how">See how it works</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="statband">
+  <div class="wrap stats">
+    <div class="stat reveal"><div class="num" data-count="50" data-prefix="&lt;" data-suffix="ms">&lt;50ms</div><div class="lbl">Session start time</div></div>
+    <div class="stat reveal d1"><div class="num" data-count="10" data-suffix="× leaner">10× leaner</div><div class="lbl">Memory vs. Chrome</div></div>
+    <div class="stat reveal d2"><div class="num">Zero state</div><div class="lbl">Fully isolated sessions</div></div>
+  </div>
+</section>
+
+<div class="stack">
+
+  <section class="section stack-panel" id="problem">
+    <div class="panel-body">
+      <div class="section-inner">
+        <div class="sec-head">
+          <h2 class="h-section reveal">Chrome is the bottleneck.</h2>
+          <p class="lead reveal d1">It was built for people browsing one page at a time, not software running thousands of sessions at once. That mismatch shows up as cost, latency, and flaky results.</p>
+        </div>
+        <div class="prob-grid">
+          <div class="prob reveal">
+            <span class="idx">01</span>
+            <h3>Heavy at scale</h3>
+            <p>Every Chrome instance eats memory and CPU. Run thousands of them and your bill climbs fast, all for features no agent ever touches.</p>
+          </div>
+          <div class="prob reveal d1">
+            <span class="idx">02</span>
+            <h3>Slow to start</h3>
+            <p>Cold starts take whole seconds. Multiply that across every task in a pipeline and your throughput grinds to a crawl.</p>
+          </div>
+          <div class="prob reveal d2">
+            <span class="idx">03</span>
+            <h3>State bleeds between tasks</h3>
+            <p>Cookies, logins, and cached data carry over from one run to the next. That leaks data and makes results impossible to reproduce.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section stack-panel" id="engine">
+    <div class="panel-body">
+      <div class="section-inner">
+        <div class="sec-head">
+          <h2 class="h-section reveal">A browser, redefined.</h2>
+          <p class="lead reveal d1">Obscura keeps only what machines need. Faster, cheaper, and safer than Chrome, with none of the rewrites.</p>
+        </div>
+        <div class="feat-grid">
+          <div class="feat reveal">
+            <div class="metric" data-count="50" data-prefix="&lt;" data-suffix="ms">&lt;50ms</div>
+            <h3>Boot on demand</h3>
+            <p>Sessions boot in under 50 milliseconds, not seconds. Spin up when you need them, tear down when you're done.</p>
+          </div>
+          <div class="feat reveal d1">
+            <div class="metric">Zero state</div>
+            <h3>Clean every time</h3>
+            <p>Every session is a fresh sandbox with nothing shared. No leaked cookies, no contamination, fully reproducible runs.</p>
+          </div>
+          <div class="feat reveal">
+            <div class="metric" data-count="10" data-suffix="× leaner">10× leaner</div>
+            <h3>More per machine</h3>
+            <p>A fraction of Chrome's memory footprint, so you pack far more concurrent sessions onto every machine you run.</p>
+          </div>
+          <div class="feat reveal d1">
+            <div class="metric">CDP</div>
+            <h3>Keep your stack</h3>
+            <p>Works with Playwright and the Chrome DevTools Protocol. Point your existing scripts at Obscura and go.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<section class="section" id="how">
+  <div class="section-inner">
+    <div class="sec-head">
+      <h2 class="h-section reveal">From zero to a browser in one call.</h2>
+      <p class="lead reveal d1">Keep the Playwright or Puppeteer code you already have. Point it at Obscura over CDP and connect, drive, and scale, no rewrites.</p>
+    </div>
+    <div class="how">
+      <div class="code-panel reveal">
+        <div class="code-tabs" role="tablist">
+          <button class="code-tab active" data-lang="py" role="tab"><img src="assets/tech/python.png" alt="" />Python</button>
+          <button class="code-tab" data-lang="js" role="tab"><img src="assets/tech/node.png" alt="" />Node.js</button>
+          <button class="code-tab" data-lang="playwright" role="tab"><img src="assets/tech/playwright.png" alt="" />Playwright</button>
+          <button class="code-tab" data-lang="selenium" role="tab"><img src="assets/tech/selenium.png" alt="" />Selenium</button>
+          <button class="code-tab" data-lang="rust" role="tab"><img src="assets/tech/rust.png" alt="" />Rust</button>
+        </div>
+        <div class="code-body" id="codeBody"></div>
+      </div>
+      <div class="steps reveal d1">
+        <div class="step">
+          <span class="sidx">01</span>
+          <div><h3>Connect</h3><p>One API key spins up an isolated browser in milliseconds. No servers to run.</p></div>
+        </div>
+        <div class="step">
+          <span class="sidx">02</span>
+          <div><h3>Drive</h3><p>Navigate, click, type, and extract data with Playwright or CDP. No rewrites.</p></div>
+        </div>
+        <div class="step">
+          <span class="sidx">03</span>
+          <div><h3>Scale</h3><p>Run thousands of sessions in parallel, with capacity sized to the job and operated for you.</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="opensource">
+  <div class="section-inner">
+    <div class="oss oss-single">
+      <div class="reveal">
+        <h2>Run it our way, or yours.</h2>
+        <p>Obscura is open source and fully yours. Use our managed cloud, or self-host the engine in a single Docker container. No lock-in, ever.</p>
+        <div class="oss-actions">
+          <a class="btn btn-primary" href="https://github.com/h4ckf0r0day/obscura">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38v-1.34c-2.23.49-2.7-1.07-2.7-1.07-.36-.93-.89-1.18-.89-1.18-.73-.5.05-.49.05-.49.81.06 1.24.83 1.24.83.71 1.22 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8 8 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
+            View on GitHub
+          </a>
+          <a class="btn btn-ghost" href="https://docs.obscura.sh/">Read the docs</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta" id="cta">
+  <div class="cta-hands"><img src="assets/dot-matrix-hands.png" alt="" /></div>
+  <div class="cta-mask"></div>
+  <div class="cta-inner">
+    <div class="cta-copy">
+      <h2 class="reveal">Give your agents a<br />better browser.</h2>
+      <p class="reveal d1">Book a short call. Tell us the job, and we will show you exactly how Obscura runs it and what it delivers.</p>
+      <div class="cta-actions reveal d2">
+        <a class="btn btn-primary" href="https://cal.com/obscura/quick-chat">Book a demo</a>
+        <a class="btn btn-ghost" href="#how">See how it works</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <a class="brand brand-lg" href="#top"><img class="mark" src="assets/logo.svg" alt="" /> Obscura</a>
+      <p class="tagline">The open source headless browser engine for AI agents and web scraping.</p>
+      <div class="footer-cta"><a class="btn btn-primary btn-sm" href="https://cal.com/obscura/quick-chat">Book a demo</a></div>
+    </div>
+    <pre class="footer-config" aria-label="Footer links"><span class="brace">{</span>
+  <span class="k">copyright</span><span class="p">:</span> <span class="s">"© 2026 Obscura. All rights reserved."</span><span class="p">,</span>
+  <span class="k">github</span><span class="p">:</span> <a class="s lnk" href="https://github.com/h4ckf0r0day/obscura">"/h4ckf0r0day/obscura"</a><span class="p">,</span>
+  <span class="k">docs</span><span class="p">:</span> <a class="s lnk" href="https://docs.obscura.sh/">"docs.obscura.sh"</a><span class="p">,</span>
+  <span class="k">privacyPolicy</span><span class="p">:</span> <a class="s lnk" href="/privacy.html">"/privacy-policy"</a><span class="p">,</span>
+  <span class="k">termsOfService</span><span class="p">:</span> <a class="s lnk" href="/terms.html">"/terms-of-service"</a><span class="p">,</span>
+  <span class="k">contact</span><span class="p">:</span> <a class="s lnk" href="mailto:hello@obscura.sh">"hello@obscura.sh"</a>
+<span class="brace">}</span></pre>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
