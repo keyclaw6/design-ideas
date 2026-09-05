@@ -59,6 +59,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "text": "starbornai.com 200 / 90,168 B. Title/H1 Add $15K–$50K MRR in 90 days using LinkedIn alone. First-party: write posts, run DMs, book 20–30 qualified sales calls. Marketing outcome copy, not a ledger. Tweet three-part viral recipe is not a numbered walkthrough in this HTML.",
+      "kind": "availability",
+      "evidence": "GET 200 https://www.starbornai.com/ 90168 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gojiberryai.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents",
+      "id": "x-2095060844547592437#c4"
     }
   ],
   "recipe_steps": null,

@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "text": "github.com/breferrari/obsidian-mind MIT, 4,599 stars this pass. Description: A self-organizing Obsidian vault that gives AI coding agents persistent memory. Root: brain/, org/, thinking/, work/, ARCHITECTURE.md. Matches the tweet vault, not a generic Obsidian plugin store listing.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 4599 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/obsidian-mind.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge",
+      "id": "x-2088231655177924993#c2"
     }
   ],
   "recipe_steps": [],

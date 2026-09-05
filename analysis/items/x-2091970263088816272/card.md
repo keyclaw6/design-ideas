@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091970263088816272#c1` (capability, stated) session-migrate converts coding agent sessions across Claude Code, Codex, Pi, OpenCode, and other harnesses in one command. — evidence: "a tool for migrating coding agent sessions across Claude Code, Codex, Pi, OpenCode, and more." [post]
 - `x-2091970263088816272#c2` (availability, stated) Source is published at github.com/xhluca/session-migrate. — evidence: "https://github.com/xhluca/session-migrate" [post]
+- `x-2091970263088816272#c3` (availability, demonstrated) github.com/xhluca/session-migrate MIT, 82 stars this pass. Description: Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot…). Root: src/, tests/, docs/, website/. Matches the tweet CLI. — evidence: "GitHub API 2026-09-05: 82 stars MIT. 18 harnesses in description." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [session-hardening](../../techniques/session-hardening.md)

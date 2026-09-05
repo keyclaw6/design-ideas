@@ -28,7 +28,7 @@ Spline as “the likely disruptor” is one opinion tweet ([x-209052669242710450
 | vgpu | n/a (shader lib) | n/a | WebGPU | high (agent-oriented) | vgpu.sh + vercel-labs/vgpu MIT 1,628★ |
 | ORYZO / Utsubo | high | high (studio scroll) | WebGL (implied) | none | studio-grade; no budget numbers |
 | Opus 5 jeep / Antigravity Bugatti | high (demo scene) | pointer / orbit | WebGL | one-off prompt loop | 4 min Antigravity claim; 300k context claim |
-| Spline opinion | unknown | unknown | Spline | none | no numbers |
+| Spline opinion | unknown (product live **180,577 B**; H1 Make anything 3D) | unknown | Spline (browser + AI or direct control) | none | no dollar amounts on homepage |
 
 ## web-3d-scenes — claims that need a receipt
 

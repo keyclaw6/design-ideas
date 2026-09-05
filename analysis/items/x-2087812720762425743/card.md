@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2087812720762425743#c1` (opinion, stated) Author claims ReactBits Pro components do 90% of motion, structure, and customization work. — evidence: "components do 90% of the work: motion, structure, customization. The 10% is where your creativity/taste comes in." [post]
 - `x-2087812720762425743#c2` (recipe, stated) Reframing layout, copy, and colors from one component yields ten distinct page variants. — evidence: "One component, 10 examples." [post]
-**Numbers.** author-stated component share of page work: 90 percent (post)
+- `x-2087812720762425743#c3` (benchmark, demonstrated) pro.reactbits.dev 200 / 419,934 B. Visible totals: 703 assets, 300 App UI blocks, 404 Blocks, 14 Templates, 134 Components. Category rows include Text 10 / Backgrounds 64 / 3D & Shaders 21. Title React Bits Pro | Animated React Components, Blocks & Templates. Free www.reactbits.dev is a 5,779 B SPA stub this pass. Do not collapse 703 / 300 / 404 / 134. — evidence: "GET 200 https://pro.reactbits.dev/ 419934 B. Visible: 703 assets inside; 300 App UI blocks. analysis/_work/captures/priority7-2026-09-05.json" [note]
+**Numbers.** author-stated component share of page work: 90 percent (post); ReactBits Pro assets: 703 assets (note)
 **Recipe.** —
 **Techniques.** [taste-skill-encoding](../../techniques/taste-skill-encoding.md)
 **Tools.** [reactbits-pro](../../tools/reactbits-pro.md)

@@ -26,7 +26,7 @@
   "platforms": [
     "browser"
   ],
-  "summary": "Bookmark thread listing ready-to-use animated UI libraries—originkit, orbs, transitions.dev, 21st.dev, Aceternity, component.gallery—and agentation.com for annotating live UI to guide coding agents.",
+  "summary": "Bookmark thread listing ready-to-use animated UI libraries\u2014originkit, orbs, transitions.dev, 21st.dev, Aceternity, component.gallery\u2014and agentation.com for annotating live UI to guide coding agents.",
   "question_it_answers": "Which UI motion libraries and agent annotation tools should I bookmark for AI-native landing pages?",
   "claims": [
     {
@@ -47,6 +47,16 @@
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089263766428950683#c3",
+      "text": "agentation.com 200 / 64,985 B (www). Product is npm install agentation: click-to-annotate UI \u2192 structured context for Claude Code / Codex. Names MCP, AFS 1.1, Output Schema, webhooks. Not a curated animated-UI-kit catalog. Tweet \u201canimated UI kits plus Agentation\u201d should not be collapsed into one kit library.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://www.agentation.com/ 64985 B. H1 Visual feedback. For agents. npm install agentation.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/agentation.md",
+      "confidence": "demonstrated",
       "subject": "landing-ui-motion"
     }
   ],

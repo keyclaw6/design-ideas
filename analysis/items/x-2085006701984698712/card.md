@@ -13,6 +13,7 @@
 → Resize images
 → Leave comments for AI like a Google Doc" [post]
 - `x-2085006701984698712#c2` (capability, stated) Review loop runs locally with no cloud upload. — evidence: "The whole review loop runs locally, so your data is safe and nothing is uploaded to the cloud." [post]
+- `x-2085006701984698712#c3` (availability, demonstrated) github.com/petergyang/human-review MIT, 1,228 stars / 97 forks. Description: visual tool to edit HTML and Markdown and leave comments like a Google Doc. Tree has src/, test/, design-ref/. Matches the local visual-editor skill, not a DESIGN.md library. — evidence: "GitHub API 2026-09-05: 1228 stars license MIT." [note]
 **Numbers.** /no-ai-slop GitHub stars cited: 4000  (post)
 **Recipe.** —
 **Techniques.** [screenshot-verify-loop](../../techniques/screenshot-verify-loop.md), [taste-skill-encoding](../../techniques/taste-skill-encoding.md)

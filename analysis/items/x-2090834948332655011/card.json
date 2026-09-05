@@ -39,6 +39,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "text": "skills.sh/hardikpandya/stop-slop 200 / 49,361 B. Title hardikpandya/stop-slop — Agent skills. First-party: 1 skill; 13.3K total installs; npx skills add hardikpandya/stop-slop. Tweet “top 10 anti-slop” ranking is not on this pack page — this URL is one skill, not a ten-item bake-off.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://skills.sh/hardikpandya/stop-slop 49361 B. 1 skill 13.3K installs.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills",
+      "id": "x-2090834948332655011#c2"
     }
   ],
   "recipe_steps": [],

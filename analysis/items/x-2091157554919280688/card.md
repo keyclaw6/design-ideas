@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091157554919280688#c1` (benchmark, stated) Graft claims 4x cheaper and 3x faster Claude Code sessions with 60% less time per session. — evidence: "Hace que claude code sea 4 veces mas barato y 3 veces mas rapido, es compatible con cualquier agente 60% menos tiempo por sesión" [post]
 - `x-2091157554919280688#c2` (capability, stated) Codebase-memory MCP advertises 99%+ token reduction by graphing the codebase across 158 languages. — evidence: "reduce tokens mas del 99% y responde en milisegundos" [post]
+- `x-2091157554919280688#c3` (availability, demonstrated) github.com/NanoNets/Graft MIT, 5,558 stars this pass. Description: Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent. Root: src/, viewer/, docs/. Tweet “six trending GitHub AI agent repos” is a roundup; Graft is one named repo, not the six-item list. — evidence: "GitHub API 2026-09-05: 5558 stars MIT." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md)

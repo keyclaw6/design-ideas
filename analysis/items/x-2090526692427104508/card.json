@@ -35,6 +35,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "text": "spline.design 200 / 180,577 B. Title Spline - 3D Design tool in the browser with real-time collaboration. H1 Make anything 3D. First-party: Create 3D with AI or build with direct control; remix a 3D design. Pricing nav present; no dollar amounts in this HTML. Tweet “disrupts big 3d softwares” stays opinion.",
+      "kind": "availability",
+      "evidence": "GET 200 https://spline.design/ 180577 B. analysis/_work/captures/leftover-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/spline.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes",
+      "id": "x-2090526692427104508#c2"
     }
   ],
   "numbers": [],

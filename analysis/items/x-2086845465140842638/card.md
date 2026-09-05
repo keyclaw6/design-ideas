@@ -12,6 +12,7 @@
 - `x-2086845465140842638#c1` (capability, stated) /bro is an installable agent skill that restyles output toward a more human voice with before/after results. — evidence: "/bro is my new favorite skill.
 
 before | after" [post]
+- `x-2086845465140842638#c2` (availability, demonstrated) github.com/luchasarie/bro-skill MIT, 329 stars this pass. Root: SKILL.md, README.md, LICENSE, install.sh, examples/. Description: /bro re-explains the last answer in plain language. Matches a voice-rewrite skill, not a UI kit. — evidence: "GitHub API 2026-09-05: 329 stars MIT. analysis/_work/captures/leftover-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md)

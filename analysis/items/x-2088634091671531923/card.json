@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "github.com/b-nnett/codex-plusplus MIT, 3,752 stars this pass. Description: Codex++ tweak system for the Codex desktop app. Root: tweaks/, packages/, Formula/, install.sh. Matches a desktop tweak pack, not a new harness.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 3752 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/codex-plusplus.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2088634091671531923#c2"
     }
   ],
   "recipe_steps": [],

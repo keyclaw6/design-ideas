@@ -40,6 +40,16 @@
       "evidence_ref": "raw/items/x-2087272209429766596/post.md",
       "confidence": "stated",
       "subject": "ai-cad-hardware"
+    },
+    {
+      "text": "cadxstudio.in 200 / 3,111 B. Title CadXStudio | AI Design Engine in the Browser. Visible text is the title only — SSR shell. Tweet one-prompt bookshelf speaker / STEP export cannot be verified from this HTML.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://cadxstudio.in 3111 B. Title-only SSR.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/cadxstudio.md",
+      "confidence": "demonstrated",
+      "subject": "ai-cad-hardware",
+      "id": "x-2087272209429766596#c2"
     }
   ],
   "recipe_steps": [],

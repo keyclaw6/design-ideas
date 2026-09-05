@@ -74,6 +74,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "text": "github.com/NanoNets/Graft MIT, 5,558 stars this pass. Description: Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent. Root: src/, viewer/, docs/. Tweet “six trending GitHub AI agent repos” is a roundup; Graft is one named repo, not the six-item list.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 5558 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/graft.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2091157554919280688#c3"
     }
   ],
   "links": {

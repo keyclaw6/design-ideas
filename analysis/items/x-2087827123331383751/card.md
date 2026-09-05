@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087827123331383751#c1` (result, stated) Ahrefs audits stopped after two weeks with a no-more-credits message despite an active paid plan. — evidence: "it's be 2 week it stopped to audit my site and say there is no more credits." [post]
 - `x-2087827123331383751#c2` (pricing, stated) Connecting Ahrefs MCP for broken-backlink data cost an extra eighteen dollars and still prompted another upgrade. — evidence: "i had to pay 18$ more to connect MCP to get list of my broken backlink i paid and it asked me again to upgrade more...." [post]
+- `x-2087827123331383751#c3` (capability, demonstrated) openseo.so 200 / 63,307 B. Title OpenSEO - Open Source SEO Platform. First-party: Keyword Research, Rank Tracking, Backlinks, Site Audit, AI Visibility, Prompt Explorer, OpenSEO MCP + Search Console MCP on DataForSEO data. Matches the sibling every-app/open-seo repo, not a closed Ahrefs clone. — evidence: "GET 200 https://openseo.so/ 63307 B. “all on real DataForSEO data.” MCP named." [note]
 **Numbers.** extra MCP connection fee cited: 18 USD (post)
 **Recipe.** —
 **Techniques.** —

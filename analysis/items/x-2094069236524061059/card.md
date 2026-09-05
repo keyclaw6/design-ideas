@@ -16,6 +16,7 @@ Espaciado
 Tipografia
 Motion" [post]
 - `x-2094069236524061059#c2` (recipe, stated) Install command is npx skills add Leonxlnx/taste-skill. — evidence: "npx skills add Leonxlnx/taste-skill" [post]
+- `x-2094069236524061059#c3` (availability, demonstrated) github.com/Leonxlnx/taste-skill MIT, 84,364 stars / 5,773 forks. skills/ has 13 dirs (brandkit, brutalist-skill, gpt-tasteskill, image-to-code-skill, imagegen-frontend-mobile, imagegen-frontend-web, minimalist-skill, output-skill, redesign-skill, soft-skill, stitch-skill, taste-skill-v1, taste-skill) plus llms.txt. Description: stops generic AI UI. Do not collapse with unlazy Depth Tree (same author, different repo). — evidence: "GitHub API 2026-09-05: 84364 stars MIT. contents/skills 13 dirs." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

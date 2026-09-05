@@ -18,4 +18,6 @@ First-party counts **do not agree**. Do not collapse them:
 - `GET https://treg.dev/providers.json` is **404** (HTML 6,888 B). `treg.dev/` homepage still 200 / **599,592** B. Do not treat `treg.dev` as the providers dump host.
 
 Catalog dump still needs a token (`treg catalog` / `/call/…`). $1.00 free prepaid; team keys override catalog keys and are unmetered. AGPL on the homepage. Treat 2,896 as the README integer and 2,630 as the live-hero integer until someone `wc`s a catalog export.
+
+**2026-09-05 capture — people-search page.** `https://treg.to/people-search` GET 200 / **83,902 B**. Title Claude for People Search — 1B+ Contacts for Your Agent. First-party: one skill / 1B+ contacts across Apollo, Hunter, Tomba, People Data Labs — **60** providers; pay per answer. `people.email.find` routed **from $0.0089**. `companies.search` ranked examples: Apollo **$0.026 · 98%**; TheCompaniesAPI **$0.004 · 91%**. Do not collapse $0.0089 with $0.026. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 <!-- NOTES:END -->

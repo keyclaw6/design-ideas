@@ -37,6 +37,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "text": "github.com/luchasarie/bro-skill MIT, 329 stars this pass. Root: SKILL.md, README.md, LICENSE, install.sh, examples/. Description: /bro re-explains the last answer in plain language. Matches a voice-rewrite skill, not a UI kit.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 329 stars MIT. analysis/_work/captures/leftover-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/bro-skill.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills",
+      "id": "x-2086845465140842638#c2"
     }
   ],
   "recipe_steps": null,

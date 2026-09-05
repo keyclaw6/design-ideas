@@ -53,6 +53,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2086801779358875912#c2",
+      "text": "agenticui.net 200 / 139,008 B (Figma Design System; Purchase CTA). /showcase 200 / 79,755 B title Built with Agentic UI. Homepage: “production-ready Figma design system for building scalable agentic experiences.” Showcase SSR has 135 “component” strings but no priced catalog in visible HTML.",
+      "kind": "availability",
+      "evidence": "GET 200 https://agenticui.net/ 139008 B; /showcase 79755 B. analysis/_work/captures/priority7-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/agentation.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "links": {

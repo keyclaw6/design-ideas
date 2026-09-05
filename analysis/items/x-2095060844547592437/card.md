@@ -13,6 +13,7 @@
 - `x-2095060844547592437#c2` (recipe, stated) Hooks should pair a specific numeric result with an unanswered question, e.g. 672 demos in 30 days on LinkedIn. — evidence: ""I booked 672 demos in 30 days using LinkedIn" will always beat "how to get more leads on LinkedIn."" [post]
 - `x-2095060844547592437#c3` (recipe, stated) Distribution uses a one-word CTA under six letters with the link only in comments, never the post body. — evidence: "Keep the CTA to one word under 6 letters
 > Never put a link in the post body, the comment is the distribution mechanism" [post]
+- `x-2095060844547592437#c4` (availability, demonstrated) starbornai.com 200 / 90,168 B. Title/H1 Add $15K–$50K MRR in 90 days using LinkedIn alone. First-party: write posts, run DMs, book 20–30 qualified sales calls. Marketing outcome copy, not a ledger. Tweet three-part viral recipe is not a numbered walkthrough in this HTML. — evidence: "GET 200 https://www.starbornai.com/ 90168 B." [note]
 **Numbers.** client lead-magnet comments in 30 days: 20000 + (post)
 **Recipe.** —
 **Techniques.** [outbound-agent-pipeline](../../techniques/outbound-agent-pipeline.md), [outbound-agent-pipeline](../../techniques/outbound-agent-pipeline.md)

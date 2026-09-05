@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2093013941412852083#c1` (opinion, stated) DataforSEO API plus OpenSEO is a more affordable open-source alternative to SEMrush. — evidence: "DataforSEO API + OpenSEO is a powerful combo &  more affordable for my + my client needs." [post]
 - `x-2093013941412852083#c2` (availability, stated) OpenSEO can be self-hosted for free on Cloudflare Workers plus API usage fees. — evidence: "You can self host for free (+ API usage) on Cloudflare workers." [post]
+- `x-2093013941412852083#c3` (availability, demonstrated) github.com/every-app/open-seo MIT, 17,031 stars this pass. Description: Open source alternative to Semrush and Ahrefs. Sibling of live openseo.so (DataForSEO + MCP). Do not collapse star count with the marketing site byte size. — evidence: "GitHub API 2026-09-05: 17031 stars MIT." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

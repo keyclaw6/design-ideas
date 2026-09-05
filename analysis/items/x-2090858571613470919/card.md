@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2090858571613470919#c1` (result, stated) Team ran is-agentic in a loop against is-agentic.com until reaching a perfect 100/100 score. — evidence: "We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against http://is-agentic.com until it got to 100/100." [post]
+- `x-2090858571613470919#c2` (result, demonstrated) is-agentic.com 200 / 85,665 B. Title Is Agentic: AI Agent Readiness Score. H1 Score how agentic your site is. First-party: npx is-agentic [domain]; Featured scores include is-agentic.com 100/100, vercel.com 89/100, ora.ai 99/100. Tweet 100/100 on their own domain is first-party on the featured list; loop-until-100 remains a tweet method, not a logged run. — evidence: "GET 200 http://is-agentic.com 85665 B. Featured is-agentic.com 100 / 100." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

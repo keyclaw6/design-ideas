@@ -38,7 +38,7 @@
       "id": "x-2094009989220430084#c1",
       "text": "motionsites.ai offers 590+ animation website prompts and templates filterable by tone and mood.",
       "kind": "capability",
-      "evidence": "590+ Al Animation Website Prompts & Templates\n• lter by tone and mood (dark, luxe, technical, brutalist, etc.)",
+      "evidence": "590+ Al Animation Website Prompts & Templates\n\u2022 lter by tone and mood (dark, luxe, technical, brutalist, etc.)",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -48,7 +48,7 @@
       "id": "x-2094009989220430084#c2",
       "text": "Prompts are meant to paste into Claude, Cursor, v0, or other coding models and include interactive 3D scenes.",
       "kind": "recipe",
-      "evidence": "Copy the prompt, paste into Claude, Cursor, v0 or any coding model\n• Interactive 3D scenes",
+      "evidence": "Copy the prompt, paste into Claude, Cursor, v0 or any coding model\n\u2022 Interactive 3D scenes",
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
@@ -62,6 +62,16 @@
       "evidence_source": "post",
       "evidence_ref": "post.md",
       "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2094009989220430084#c4",
+      "text": "motionsites.ai 200 / 56,054 B. Title MotionSites AI \u2014 Official Premium AI Website Prompts. MCP nav + /mcp route live. Homepage SSR lists named sections (Hero/Footer/CTA/Landing) but has no 590 integer. Pricing tease \u201cAgencies Charge $5,000\u201d is marketing, not a catalog count. Tweet 590+ stays tweet-only.",
+      "kind": "availability",
+      "evidence": "GET 200 https://motionsites.ai/ 56054 B. 590 count=0. /mcp in hrefs. analysis/_work/captures/priority7-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/motionsites-ai.md",
+      "confidence": "demonstrated",
       "subject": "design-agent-skills"
     }
   ],

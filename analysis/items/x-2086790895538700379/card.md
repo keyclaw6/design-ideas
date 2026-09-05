@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2086790895538700379#c1` (capability, stated) Library offers production-tested loops with prompts you can paste into your agent, open-sourced at loopany.ai/templates. — evidence: "loops that ACTUALLY worked & deliver results in real world" [post]
+- `x-2086790895538700379#c2` (availability, demonstrated) loopany.ai/templates 200 / 149,545 B. Title Loopany templates — agent loops that actually work. Category counts this pass: Growth 5, Business Ops 3, Codebase Autopilot 5, CI/Test & Security 3, Personal 3, Goal Loops 4 (sum 23 named slots; some labels repeat in SSR). First-party: free to read, runs on your own machine with your own coding agent. Not a hosted harness. — evidence: "GET 200 https://loopany.ai/templates 149545 B. Category integers Growth 5 / Ops 3 / Autopilot 5 / Security 3 / Personal 3 / Loops 4." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

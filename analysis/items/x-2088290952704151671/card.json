@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2088290952704151671#c2",
+      "text": "github.com/mattpocock/skills MIT, 250,466 stars / 21,164 forks this pass. Root contents: 5 dirs (deprecated, engineering, in-progress, misc, productivity). Description: Skills for Real Engineers. Tweet “all 25 skills” is not a root-dir count (root has 5). Do not treat 250k stars as a 25-skill inventory.",
+      "kind": "counter-claim",
+      "evidence": "GitHub API 2026-09-05: 250466 stars MIT. contents/ 5 dirs. engineering/ and productivity/ 404 as path listings this pass.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

@@ -52,10 +52,27 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2089602918605619401#c3",
+      "text": "Live https://mengto.github.io/sylva/ 200 / 161,425 B (title Sylva \u2014 Into the living world). README first-party: up to 250,000 instanced moss blades on desktop (tweet 130k is the lower figure); Three.js r149 vendored; no license for Sylva code. Named first-load sum \u22481.51 MB; HTML+JS only \u22480.96 MB matches tweet \u201c<1 MB code,\u201d not the full page with photos. FPS not measured.",
+      "kind": "counter-claim",
+      "evidence": "analysis/tools/sylva.md NOTES; GET 200 161425 B 2026-09-05. Do not collapse 130k / 250k or 1.51 MB / 0.96 MB.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/sylva.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": null,
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "README moss blades",
+      "value": "250000",
+      "unit": "blades",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "taste-skill-encoding",
     "scroll-driven-3d"

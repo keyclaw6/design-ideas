@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "local-inference-models"
+    },
+    {
+      "text": "unsloth.ai/docs/basics/dynamic-3.0-ggufs 200 / 1,390,164 B. First-party: Qwen3.8-27B Dynamic v3.0 quants deliver >10% top-1% better accuracy at the same size vs every other provider (author claim). Separate sentence: Unsloth GGUFs perform better despite being ~8GB smaller. Do not collapse >10% with ~8GB. No local GPU profile in this bank.",
+      "kind": "benchmark",
+      "evidence": "GET 200 https://unsloth.ai/docs/basics/dynamic-3.0-ggufs 1390164 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/unsloth.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models",
+      "id": "x-2090103470015828184#c3"
     }
   ],
   "recipe_steps": [],

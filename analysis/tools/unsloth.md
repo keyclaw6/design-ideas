@@ -17,4 +17,6 @@ Card YAML: **apache-2.0**, `base_model: Qwen/Qwen3.8-27B`. Tree (HF API `…/tre
 - BF16 split: 49,986,159,616 + 4,671,576,000
 
 README uses ranking language (“>10% … better accuracy”). Quote that as a provider claim; do not restated it as a finding. No local load here.
+
+**2026-09-05 capture — docs page.** `https://unsloth.ai/docs/basics/dynamic-3.0-ggufs` GET 200 / **1,390,164 B**. First-party: Qwen3.8-27B Dynamic v3.0 quants deliver **>10% top-1% better accuracy** at the same size vs every other provider (author claim). Separate sentence: Unsloth GGUFs perform better despite being **~8GB smaller**. Do not collapse >10% with ~8GB. No GPU profile. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 <!-- NOTES:END -->

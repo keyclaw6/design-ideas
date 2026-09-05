@@ -19,15 +19,15 @@ Cookbooks (Anthropic Dynamic Workflows, cost_optimization, Control Plane X artic
 |---|---|---|---|---|---|
 | loop-library | high (23 named prompts on loopany.ai) | local agent; server does not run LLM | “shipped” still marketing | cadence per loop | varies |
 | Headlong | high (README ~11K cap 11.5K; `wc` **13,947**; cloc 1.98 **9,912 code**) | Slack/Telegram in; Docker default | none in card | designed always-on | one mind, many people |
-| session-migrate | n/a (converter) | n/a | n/a | high (this *is* migrate) | n/a |
+| session-migrate | n/a (converter; MIT **82★**; description **18** harnesses) | n/a | n/a | high (this *is* migrate) | n/a |
 | Chadha primer | essay + site | n/a | primer on evals | n/a | research swarm |
 | Codex 212× QR | example write-up | unknown | GPU Mode task | unknown | search loop |
 | Hyperspace / Autoquant | claimed swarm | unknown | backtests claimed | DAG claimed | multi |
-| is-agentic 100/100 | high (external scorer) | n/a | high (the scorer) | loop until pass | single |
+| is-agentic 100/100 | high (external scorer; live featured **100/100** on is-agentic.com) | n/a | high (the scorer) | loop until pass | single |
 | Kun Chen YOLO + Nix | technique | high (disposable machine) | none | n/a | single |
 | fini 24k actions | warning | high (shared profile) | none | n/a | six bots, one login |
 | Blume Sidecar | watcher | n/a | n/a | config files | n/a |
-| Sideshow.sh | visual inspect | n/a | n/a | mid | n/a |
+| Sideshow.sh | visual inspect (live **51,220 B**; “207 Now playing” is a counter) | n/a | n/a | mid | n/a |
 | pi-shepherdr | high (271-token orchestrator) | pane isolation | none | Herdr panes | multi Pi |
 | Ouroboros | high (MIT harness; paper + site) | reviewed commits; Hope live | Terminal-Bench / OSWorld / CL-Bench stated | git + Hope memory | self-modify |
 | Anthropic / Control Plane / MDA | cookbook / X article (no Stanford string; not arXiv 2505.06817) | varies | cookbook has a task; article is a pharma case | folder-as-agent (MDA) | multi (article: one reasoner + fetch sub-agents) |

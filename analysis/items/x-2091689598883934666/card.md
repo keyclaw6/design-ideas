@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2091689598883934666#c1` (recipe, stated) Naming UI components precisely—e.g., asking for a segmented control instead of buttons—yields the correct pattern on the first try. — evidence: "Nombrar bien el componente cambia el resultado: pedir un segmented control en vez de botones te da el patrón correcto a la primera." [reply]
+- `x-2091689598883934666#c2` (result, demonstrated) toolfolio.link/namet45 301/200 → namethatui.com 602,668 B. Title NameThatUI — What Is This UI Element Called? H1 visual dictionary; 80 H3s this pass (Steps, Avatar Group, Multi-select visible in Newest). Paste-ready agent prompt promised. Not a DESIGN.md pack. — evidence: "GET 200 https://namethatui.com/ 602668 B. h3 count 80. analysis/_work/captures/priority7-2026-09-05/namet45.html" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [shadcn-component-kit](../../techniques/shadcn-component-kit.md), [prompt-to-html-landing](../../techniques/prompt-to-html-landing.md)

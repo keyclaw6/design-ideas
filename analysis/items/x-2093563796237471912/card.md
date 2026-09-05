@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093563796237471912#c1` (capability, stated) GaussianGPT generates 3D Gaussian scenes autoregressively with a GPT-style transformer. — evidence: "GaussianGPT generates 3D Gaussian scenes fully autoregressively, token by token using a GPT-style transformer" [post]
+- `x-2093563796237471912#c2` (availability, demonstrated) github.com/nicolasvonluetzow/GaussianGPT MIT, 403 stars / 33 forks. Description: [ECCV'26 Oral] 3D Gaussian scenes completely autoregressively. Repo dirs: conf, data, data_splits, fig, model, scripts, serialization, utils. Weights/checkpoints not confirmed on the API listing. — evidence: "GitHub API 2026-09-05: 403 stars MIT. analysis/_work/captures/priority7-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

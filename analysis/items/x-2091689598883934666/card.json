@@ -33,12 +33,22 @@
   "claims": [
     {
       "id": "x-2091689598883934666#c1",
-      "text": "Naming UI components precisely—e.g., asking for a segmented control instead of buttons—yields the correct pattern on the first try.",
+      "text": "Naming UI components precisely\u2014e.g., asking for a segmented control instead of buttons\u2014yields the correct pattern on the first try.",
       "kind": "recipe",
-      "evidence": "Nombrar bien el componente cambia el resultado: pedir un segmented control en vez de botones te da el patrón correcto a la primera.",
+      "evidence": "Nombrar bien el componente cambia el resultado: pedir un segmented control en vez de botones te da el patr\u00f3n correcto a la primera.",
       "evidence_source": "reply",
       "evidence_ref": "comments.md",
       "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2091689598883934666#c2",
+      "text": "toolfolio.link/namet45 301/200 \u2192 namethatui.com 602,668 B. Title NameThatUI \u2014 What Is This UI Element Called? H1 visual dictionary; 80 H3s this pass (Steps, Avatar Group, Multi-select visible in Newest). Paste-ready agent prompt promised. Not a DESIGN.md pack.",
+      "kind": "result",
+      "evidence": "GET 200 https://namethatui.com/ 602668 B. h3 count 80. analysis/_work/captures/priority7-2026-09-05/namet45.html",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/name-that-ui.md",
+      "confidence": "demonstrated",
       "subject": "design-agent-skills"
     }
   ],

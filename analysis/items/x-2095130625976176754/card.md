@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2095130625976176754#c1` (capability, stated) Topical maps organize hubs and subtopics with internal links so pages do not cannibalize queries. — evidence: "two pages never fight for the same query, internal links are designed from the start" [post]
 - `x-2095130625976176754#c2` (capability, stated) Each planned page includes monthly searches, difficulty, intent, current position, and opportunity score from a live keyword database. — evidence: "Every page comes with its monthly searches, difficulty, intent, your current position, and an opportunity score" [post]
+- `x-2095130625976176754#c3` (pricing, demonstrated) blogr.ai 200 / 314,161 B. Title AI Blogger Tool for SaaS, Ecommerce & Local SEO. Lifetime Deal ladder $199 / $399 / $499 · next batch $799; 3/10 left at this price this pass. Body argues topical authority, not a countable topical-map export. Free tools + Discord named. — evidence: "GET 200 https://blogr.ai/ 314161 B. Lifetime Deal $199 $399 $499 · next batch $799 3 / 10 left." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [serp-keyword-research](../../techniques/serp-keyword-research.md)

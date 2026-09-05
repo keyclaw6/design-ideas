@@ -12,6 +12,7 @@
 - `x-2087905319255257296#c1` (availability, stated) Hitem3D v3.0 preview and Meshy 7 joined the main Top3D.ai arena with matched prompts and settings. — evidence: "Hitem3D v3.0 (Preview) - Main Arena 
 ⚫ Meshy 7 - Main Arena" [post]
 - `x-2087905319255257296#c2` (availability, stated) Tripo P2.0 competes in the low-poly arena track under the same prompt pool. — evidence: "Tripo P2.0 - Low Poly Arena" [post]
+- `x-2087905319255257296#c3` (availability, demonstrated) top3d.ai/arena 200 / 143,839 B. Title 3D AI Arena — Compare AI 3D Generators in Blind Tests. HTML names Hitem3D, Meshy, Tripo, Hunyuan, Hyper3D, Rodin, Trellis plus ELO / Battle mode. Dataset claimed as Stefan 3D AI first-generation official-API plates, not vendor-supplied. Tweet “adds Hitem3D v3, Meshy 7, Tripo P2.0” version suffixes are not all in this HTML. — evidence: "GET 200 https://www.top3d.ai/arena 143839 B. Named models Hitem3D Meshy Tripo Hunyuan Hyper3D Rodin Trellis." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

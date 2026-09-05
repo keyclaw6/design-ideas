@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "text": "github.com/every-app/open-seo MIT, 17,031 stars this pass. Description: Open source alternative to Semrush and Ahrefs. Sibling of live openseo.so (DataForSEO + MCP). Do not collapse star count with the marketing site byte size.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 17031 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openseo-so.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility",
+      "id": "x-2093013941412852083#c3"
     }
   ],
   "recipe_steps": [],

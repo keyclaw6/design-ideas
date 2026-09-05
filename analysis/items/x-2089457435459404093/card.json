@@ -41,6 +41,16 @@
       "evidence_ref": "raw/items/x-2089457435459404093/post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "text": "developers.google.com/style 200 / 79,827 B. Title About this guide | Google developer documentation style guide. First-party nav includes Voice and tone, Active voice, Jargon, Anthropomorphism. This is the public style guide, not an installable skill pack.",
+      "kind": "availability",
+      "evidence": "GET 200 https://developers.google.com/style 79827 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/avoid-ai-writing.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills",
+      "id": "x-2089457435459404093#c2"
     }
   ],
   "recipe_steps": [

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2088231655177924993#c1` (capability, stated) Obsidian Mind is an open-source Obsidian vault that stores projects, decisions, tasks, and notes so coding agents retain context across sessions. — evidence: "Obsidian Mind is an open-source Obsidian vault that gives AI coding agents persistent memory across sessions." [post]
+- `x-2088231655177924993#c2` (availability, demonstrated) github.com/breferrari/obsidian-mind MIT, 4,599 stars this pass. Description: A self-organizing Obsidian vault that gives AI coding agents persistent memory. Root: brain/, org/, thinking/, work/, ARCHITECTURE.md. Matches the tweet vault, not a generic Obsidian plugin store listing. — evidence: "GitHub API 2026-09-05: 4599 stars MIT." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [filesystem-context-memory](../../techniques/filesystem-context-memory.md), [filesystem-context-memory](../../techniques/filesystem-context-memory.md)

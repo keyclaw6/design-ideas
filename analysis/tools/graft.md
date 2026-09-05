@@ -6,5 +6,5 @@
 - [Spanish roundup of six trending GitHub AI agent repos](../items/x-2091157554919280688/card.md) — reference — agent-harness-loops
 
 <!-- NOTES:START -->
-
+Fetched 2026-09-05 GitHub API `NanoNets/Graft` MIT, **5,558** stars. Description: Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent. Root: `src/`, `viewer/`, `docs/`. Tweet “six trending GitHub AI agent repos” is a roundup; Graft is one named repo. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 <!-- NOTES:END -->

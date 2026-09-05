@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "sideshow.sh 200 / 51,220 B. Title sideshow · give your agents a stage. H1 Give your agents a stage. First-party: agents render mockups, diagrams, diffs; Claim your free account. “207 Now playing” is a live counter this pass, not a catalog size.",
+      "kind": "availability",
+      "evidence": "GET 200 http://sideshow.sh 51220 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/sideshow-sh.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2091622497393225801#c2"
     }
   ],
   "recipe_steps": null,

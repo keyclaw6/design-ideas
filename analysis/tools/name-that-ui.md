@@ -6,5 +6,5 @@
 - [Name That UI: visual dictionary of component names and prompts](../items/x-2091689598883934666/card.md) — reference, tool — design-agent-skills
 
 <!-- NOTES:START -->
-
+Fetched 2026-09-05 `toolfolio.link/namet45` 301/200 → `https://namethatui.com/` GET 200 / **602,668 B**. Title NameThatUI — What Is This UI Element Called? H1 visual dictionary; **80** H3s this pass (Steps, Avatar Group, Multi-select visible in Newest). Paste-ready agent prompt promised. Not a DESIGN.md pack. Receipt `analysis/_work/captures/priority7-2026-09-05/namet45.html`.
 <!-- NOTES:END -->

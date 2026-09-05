@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "text": "magnific.ai 200 / 603,673 B. Title Magnific (formerly Freepik) | The AI Creative Platform. Models list includes Minimax (no H3 / 480p / 5-second strings). Tweet MiniMax H3 Max 5s 480p in under 5 seconds is not on this homepage HTML.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 https://magnific.ai 603673 B. H3 and 480 absent.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/magnific.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation",
+      "id": "x-2091957150793023651#c3"
     }
   ],
   "recipe_steps": null,

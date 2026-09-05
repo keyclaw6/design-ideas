@@ -46,6 +46,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2087812720762425743#c3",
+      "text": "pro.reactbits.dev 200 / 419,934 B. Visible totals: 703 assets, 300 App UI blocks, 404 Blocks, 14 Templates, 134 Components. Category rows include Text 10 / Backgrounds 64 / 3D & Shaders 21. Title React Bits Pro | Animated React Components, Blocks & Templates. Free www.reactbits.dev is a 5,779 B SPA stub this pass. Do not collapse 703 / 300 / 404 / 134.",
+      "kind": "benchmark",
+      "evidence": "GET 200 https://pro.reactbits.dev/ 419934 B. Visible: 703 assets inside; 300 App UI blocks. analysis/_work/captures/priority7-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/reactbits-pro.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "numbers": [
@@ -54,6 +64,12 @@
       "value": "90",
       "unit": "percent",
       "source": "post"
+    },
+    {
+      "label": "ReactBits Pro assets",
+      "value": "703",
+      "unit": "assets",
+      "source": "note"
     }
   ],
   "techniques": [

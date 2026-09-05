@@ -25,7 +25,7 @@ LOD / streaming / Aholo ([x-2090589293677023507](../../items/x-20905892936770235
 | ArtiFixer | sparse 3DGRUT / broken scan | diffusion fill | repaired splat/scan | local, heavy weights | this *is* the repair step |
 | Aholo / LOD / SPZ | city-scale splat | view | browser stream | viewer | n/a |
 | LightFuse | multi-scan RGB + masks/depth/normals | rearrange + relight + edit material | research recon (2DGS + one-bounce RT) | research; no public weights | n/a |
-| GaussianGPT | tokens (gen, not capture) | none | generated splat scene | research | n/a |
+| GaussianGPT | tokens (gen, not capture) | none | generated splat scene | research MIT **403★**; ECCV’26 Oral; weights not on API listing | n/a |
 
 ## gaussian-splatting — claims that need a receipt
 
@@ -42,7 +42,7 @@ Two threads in this subject are still `failed` (no reply DOM): LightFuse ([x-209
 ## gaussian-splatting — do not treat as load-bearing
 
 - Four Japanese launch posts that only restated Splat2Mesh v1.0. One product page is enough ([web-arcana-splat2mesh](../../items/web-arcana-splat2mesh/card.md)).
-- GaussianGPT / LightFuse until there is a runnable repo in this bank.
+- GaussianGPT / LightFuse until there is a runnable repo in this bank. GaussianGPT GitHub is live (MIT **403★**, ECCV’26 Oral) but weights/checkpoints were not on the API listing (parked on [splat-js](../../tools/splat-js.md)).
 - Spatial Studio 4K export if the owner’s question is *mesh*, not *video*. Product host is **studio.realhorizons.ai** (8,035 B SPA), not spatial.studio (architecture firm).
 
 ## gaussian-splatting — next capture work

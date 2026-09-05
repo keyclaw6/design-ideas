@@ -28,7 +28,7 @@
   "platforms": [
     "cli"
   ],
-  "summary": "GitHub tool avoid-ai-writing scans text for AI writing patterns and rewrites flagged passages in place—positioned as an anti-slop prose fixer adjacent to SEO content workflows.",
+  "summary": "GitHub tool avoid-ai-writing scans text for AI writing patterns and rewrites flagged passages in place\u2014positioned as an anti-slop prose fixer adjacent to SEO content workflows.",
   "question_it_answers": "What tool flags AI writing tics and rewrites them in place?",
   "claims": [
     {
@@ -39,6 +39,16 @@
       "evidence_source": "post",
       "evidence_ref": null,
       "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2092656414351118647#c2",
+      "text": "github.com/conorbronsdon/avoid-ai-writing MIT, 4,103 stars / 349 forks. Root SKILL.md plus skills/, detector/, corpus/, cursor-rules/, plugins/. Description: audits and rewrites content to remove AI writing patterns. LICENSE + NOTICE.md + PROOF.md present.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 4103 stars MIT. Root files include SKILL.md LICENSE NOTICE.md PROOF.md.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/avoid-ai-writing.md",
+      "confidence": "demonstrated",
       "subject": "design-agent-skills"
     }
   ],

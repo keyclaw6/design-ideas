@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2092656414351118647#c1` (capability, stated) avoid-ai-writing audits text for AI writing patterns and rewrites flagged passages in place. — evidence: "avoid-ai-writing audits text for AI writing patterns and rewrites flagged passages in place." [post]
+- `x-2092656414351118647#c2` (availability, demonstrated) github.com/conorbronsdon/avoid-ai-writing MIT, 4,103 stars / 349 forks. Root SKILL.md plus skills/, detector/, corpus/, cursor-rules/, plugins/. Description: audits and rewrites content to remove AI writing patterns. LICENSE + NOTICE.md + PROOF.md present. — evidence: "GitHub API 2026-09-05: 4103 stars MIT. Root files include SKILL.md LICENSE NOTICE.md PROOF.md." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

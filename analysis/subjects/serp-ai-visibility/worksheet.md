@@ -20,13 +20,13 @@ Scores are `high` / `mid` / `low` / `unknown` against the brief axes. `unknown` 
 | item | time-to-first-index-or-citation | paid API/SaaS | first-party GSC/crawl | AEO/GEO not only SERP | agent-callable | evidence |
 |---|---|---|---|---|---|---|
 | github-iannuttall-seo | mid (audit, not citation) | low (local; Google APIs) | high | low | high (CLI/MCP) | README fetched: `seo` + `seo mcp install` ([seo-skill-cli](../../tools/seo-skill-cli.md)) |
-| OpenSEO + DataforSEO | mid | mid (API usage) | mid | low | mid (Workers + API) | stated |
+| OpenSEO + DataforSEO | mid | mid (API usage) | mid | mid (AI Visibility named) | high (OpenSEO MCP + Search Console MCP) | openseo.so **63,307 B**; DataForSEO first-party ([openseo-so](../../tools/openseo-so.md)) |
 | Brave submit-url | mid (index request only) | low | low | mid (Brave answers) | low (form; CAPTCHA) | stated; form not exercised |
 | TinyShelf | high if badge accepted | low (free + badge) | low | low | low | directory live: 19 cats / ~657 listings (2026-09-04); DR 11→46 still tweet-only |
 | TinyLaunch directories | mid (~10 days) | high | low | low | low | stated DR-band guarantee |
 | Sami 15 directories | mid (48h claim) | low | low | low | low | stated; full sheet DM-gated |
 | free one-page tools (Bing) | low (weeks of flat metrics) | low | mid (Bing WM) | low | mid (you ship HTML) | GSC 1.01M tweet-only; live hosts are ext/platform/arcade |
-| CrowdReply | unknown | high | low | high | high (MCP) | homepage **1,136,240 B**; marketplace **40,000+** publishers / **5,000+** brands; MCP docs **58** snake ids vs **18**-row table; 4%→40% still missing |
+| CrowdReply | unknown | high | low | high | high (MCP) | homepage **1,136,240 B**; marketplace **40,000+** publishers / **5,000+** brands; MCP docs **58** snake ids vs **18**-row table; 4%→40% now in X article body, still not a tracker export |
 | nqz.ai prompt generator | n/a (research aid) | low | low | high | low | stated 4×3 prompts, 10/hour |
 | llms.txt nudge | mid (fetch rate, not rank) | low | n/a | high | low | stated 10/10; screenshot only |
 | press-wire unbranded Qs | mid (weeks) | mid (wire fees) | low | high | low | stated 108 citations / +21% |
@@ -50,6 +50,7 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 
 - Grok “SEO bot / GEO bot” bundle ([x-2095231184531828762](../../items/x-2095231184531828762/card.md)) — capability copy, no audit artifact.
 - SEO Wins $79 lifetime library ([web-seowins-io](../../items/web-seowins-io/card.md)) — paywalled tactics, not a runnable loop.
+- Blogr LTD ladder **$199 / $399 / $499 · next $799** (3/10 left this pass). Topical authority is copy, not a map export ([blogr-ai](../../tools/blogr-ai.md)).
 - Sami “reply LIST” sheet — the 15 names are in the post; the gated sheet is not in this bank.
 - Hasan’s DR 71/75/50/57 workflow ([x-2093713466955649145](../../items/x-2093713466955649145/card.md)) — numbers without URLs or a date window.
 
@@ -60,3 +61,4 @@ The one claim that already has a useful counter-claim: Reddit comment SEO is cap
 3. Save a first-party screenshot of TinyShelf + TinyShots DR if the owner still has Ahrefs access.
 4. Exercise Brave submit-url in a headed browser; this pass got HTTP 429 on the form URL.
 5. TinyShelf homepage listing counts are on [tinyshelf](../../tools/tinyshelf.md). DR receipt still missing.
+6. seoskill.dev is live (**120,656 B**; `npm i -g seo` + MCP). Homepage has **no “70+”**; that count stays on GitHub `iannuttall/seo` Apache-2.0 **463★** ([seo-skill-cli](../../tools/seo-skill-cli.md)).

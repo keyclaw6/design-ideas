@@ -6,5 +6,7 @@
 - [motionsites.ai library of 590+ anti-slop website animation prompts](../items/x-2094009989220430084/card.md) — tool, reference — design-agent-skills
 
 <!-- NOTES:START -->
+Fetched 2026-09-05 `https://motionsites.ai/` GET 200 / **56,054 B**. Title MotionSites AI — Official Premium AI Website Prompts. MCP nav + `/mcp` route live. Homepage SSR lists named sections (Hero/Footer/CTA/Landing) but has **no 590 integer**. Pricing tease “Agencies Charge $5,000” is marketing, not a catalog count. Tweet 590+ stays tweet-only.
 
+Neighbor (parked; no brasshands.md): `https://www.brasshands.com/` GET 200 / **360,441 B**. Title Brass Hands. Visible: The office of Kyle Anthony Miller; Designing for the new industrial age; STATUS DEPLOYED IN SECTOR — AI / Robotics / DEFENSE / INDUSTRY; STORE LIMITED RELEASE [01] RE-IND ISSUE. Tweet “Neo Industrialism Swiss-grid terrain-intel” wording is not in this HTML. Receipt `analysis/_work/captures/priority7-2026-09-05.json`.
 <!-- NOTES:END -->

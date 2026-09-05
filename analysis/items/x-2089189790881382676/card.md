@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2089189790881382676#c1` (recipe, stated) The /vision skill proposes 8–12 borderline features then writes VISION.md. — evidence: "the skill currently looks at what's already been done in the project to build context, and would then propose 8-12 hypothetical borderline feature ideas" [post]
 - `x-2089189790881382676#c2` (opinion, stated) VISION.md sits above plans and code review as the next influence layer for agents. — evidence: "our influence has to go one level up - we need to define the vision." [post]
+- `x-2089189790881382676#c3` (availability, demonstrated) github.com/kunchenguid/vision MIT, 311 stars / 13 forks. Description: mines repo history to draft VISION.md and stress-tests it. Root: skills/, AGENTS.md, CLAUDE.md, LICENSE, README.md. Matches the tweet skill, not a vision-model pack. — evidence: "GitHub API 2026-09-05: 311 stars MIT." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md), [screenshot-verify-loop](../../techniques/screenshot-verify-loop.md)

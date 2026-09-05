@@ -67,6 +67,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "serp-ai-visibility"
+    },
+    {
+      "id": "x-2095130625976176754#c3",
+      "text": "blogr.ai 200 / 314,161 B. Title AI Blogger Tool for SaaS, Ecommerce & Local SEO. Lifetime Deal ladder $199 / $399 / $499 \u00b7 next batch $799; 3/10 left at this price this pass. Body argues topical authority, not a countable topical-map export. Free tools + Discord named.",
+      "kind": "pricing",
+      "evidence": "GET 200 https://blogr.ai/ 314161 B. Lifetime Deal $199 $399 $499 \u00b7 next batch $799 3 / 10 left.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blogr-ai.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "links": {

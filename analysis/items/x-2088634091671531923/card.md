@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2088634091671531923#c1` (availability, stated) codex-plusplus at github.com/b-nnett/codex-plusplus is a community tweak pack for Codex CLI. — evidence: "https://github.com/b-nnett/codex-plusplus" [post]
+- `x-2088634091671531923#c2` (availability, demonstrated) github.com/b-nnett/codex-plusplus MIT, 3,752 stars this pass. Description: Codex++ tweak system for the Codex desktop app. Root: tweaks/, packages/, Formula/, install.sh. Matches a desktop tweak pack, not a new harness. — evidence: "GitHub API 2026-09-05: 3752 stars MIT." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

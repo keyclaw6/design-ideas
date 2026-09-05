@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2086801779358875912#c1` (capability, stated) Agentic UI Showcase is a collection of product interfaces made with Agentic UI. — evidence: "A collection of best product interfaces made with @AgenticUi." [post]
+- `x-2086801779358875912#c2` (availability, demonstrated) agenticui.net 200 / 139,008 B (Figma Design System; Purchase CTA). /showcase 200 / 79,755 B title Built with Agentic UI. Homepage: “production-ready Figma design system for building scalable agentic experiences.” Showcase SSR has 135 “component” strings but no priced catalog in visible HTML. — evidence: "GET 200 https://agenticui.net/ 139008 B; /showcase 79755 B. analysis/_work/captures/priority7-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

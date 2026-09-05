@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2095055297949610427#c1` (capability, stated) Repo markets 70+ SEO audit tools via local CLI and MCP using your own crawl and GSC data. — evidence: "The only SEO skill your agent needs. 70+ SEO audit tools through a local CLI and MCP server, using your own crawl, Search Console, and GA4 data." [media]
 - `x-2095055297949610427#c2` (opinion, stated) Author is leaning toward simpler single-purpose tools instead of one big SEO skill. — evidence: "I still use it a lot but am leaning to simple single-purpose tools for most of my work now." [post]
+- `x-2095055297949610427#c3` (capability, demonstrated) seoskill.dev 200 / 120,656 B. Title SEO Skill | Open source SEO audit tool for AI agents. H1 The only SEO skill your agent needs. First-party: npm i -g seo; seo start; local MCP. Homepage HTML does not contain the string “70+”; that count remains on GitHub description (iannuttall/seo Apache-2.0, 463★ this pass). — evidence: "GET 200 https://seoskill.dev 120656 B. GitHub API 463 stars Apache-2.0. Do not collapse homepage vs README 70+." [note]
 **Numbers.** repo stars: 378  (linked-page); npm version: 0.2.40  (linked-page)
 **Recipe.** —
 **Techniques.** —

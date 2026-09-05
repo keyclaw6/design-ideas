@@ -14,6 +14,7 @@
 - `x-2094009989220430084#c2` (recipe, stated) Prompts are meant to paste into Claude, Cursor, v0, or other coding models and include interactive 3D scenes. — evidence: "Copy the prompt, paste into Claude, Cursor, v0 or any coding model
 • Interactive 3D scenes" [post]
 - `x-2094009989220430084#c3` (capability, stated) Product advertises MCP integration and full source code availability. — evidence: "MCP & Full source code avaliable" [post]
+- `x-2094009989220430084#c4` (availability, demonstrated) motionsites.ai 200 / 56,054 B. Title MotionSites AI — Official Premium AI Website Prompts. MCP nav + /mcp route live. Homepage SSR lists named sections (Hero/Footer/CTA/Landing) but has no 590 integer. Pricing tease “Agencies Charge $5,000” is marketing, not a catalog count. Tweet 590+ stays tweet-only. — evidence: "GET 200 https://motionsites.ai/ 56054 B. 590 count=0. /mcp in hrefs. analysis/_work/captures/priority7-2026-09-05.json" [note]
 **Numbers.** animation website prompts: 590 + (post)
 **Recipe.** —
 **Techniques.** —

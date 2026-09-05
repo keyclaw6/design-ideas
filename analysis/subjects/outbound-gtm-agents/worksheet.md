@@ -17,7 +17,7 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 | item | people-search precision/recall | paid data vendors | agent-runnable vs slideware | channel coverage | eval harness |
 |---|---|---|---|---|---|
 | People Search Bench | designed for it (119 queries) | uses live web, not a vendor score | runnable Python | search only | high |
-| treg people-search | unknown (router, not a model) | high (README 60 / hero 47; $0.0089/lead stated) | high (one token) | enrichment only | none in this bank |
+| treg people-search | unknown (router, not a model) | high (people-search page **60** providers; `people.email.find` **from $0.0089**; companies.search Apollo **$0.026**) | high (one token) | enrichment only | none in this bank |
 | Gojiberry Sales OS | n/a (roles after a list exists) | mid (MCP + LinkedIn) | high (13 markdown agents) | email / LinkedIn / qualify | none; 97/1 is a case study |
 | Instantly + MapsData 10k/day | n/a | high (inboxes + scrape) | mid (formula, you operate it) | email | none |
 | Vacca channel-order | n/a | unknown | playbook, not code | LinkedIn then email | none |
@@ -30,7 +30,7 @@ Graphed is FDE-built marketing agents on a warehouse ([web-graphed](../../items/
 ## outbound-gtm-agents — claims that need a receipt
 
 - 97 prospects → 1 demo in 24h — must-read; need the ICP definition and whether the demo was booked or held.
-- treg $0.0089 per lead and “1B+ contacts” — launch math. People Search Bench leaderboard (README): Lessie 65.2 / Exa 55.0 / Claude Code 46.0 / Juicebox 45.8 — **treg is not on the table** ([people-search-bench](../../tools/people-search-bench.md)).
+- treg $0.0089 per lead and “1B+ contacts” — now first-party on `/people-search` (**83,902 B**): 1B+ / 60 providers / `people.email.find` from $0.0089. Do not collapse with companies.search Apollo $0.026 ([treg](../../tools/treg.md)). People Search Bench leaderboard (README): Lessie 65.2 / Exa 55.0 / Claude Code 46.0 / Juicebox 45.8 — **treg is not on the table** ([people-search-bench](../../tools/people-search-bench.md)).
 - 10k emails/day via 500 inboxes / 167 domains — capacity formula, not a delivered log.
 - MapsData ~$0.33–$0.98 per 1k leads — promo pricing.
 - Nine Grok bots as a “full marketing stack” — same thin bundle already flagged on the SERP worksheet.

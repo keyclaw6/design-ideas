@@ -47,6 +47,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "wkqdzkd.github.io/Awesome-Reliable-Self-Evolving-Agents/ 200 / 139,225 B. Title Diving into Reliable Self-Evolving Agents: A Survey. First-party counters: 549 manuscript-used works; 5 self-evolution levels; 8 catalog sections; Explore L0–L4. Paper “coming soon.” Matches the tweet L0–L4 map.",
+      "kind": "availability",
+      "evidence": "GET 200 survey page 139225 B. 549 works / 5 levels / 8 sections.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/is-agentic.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2087444616832594022#c3"
     }
   ],
   "recipe_steps": null,

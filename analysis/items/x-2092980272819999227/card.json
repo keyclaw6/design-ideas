@@ -40,6 +40,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "text": "github.com/browser-use/video-use MIT, 24,025 stars this pass. Description: Edit videos with coding agents. Root: SKILL.md, helpers/, skills/, tests/. Matches the tweet repo, not a hosted editor.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 24025 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/video-use.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation",
+      "id": "x-2092980272819999227#c2"
     }
   ],
   "recipe_steps": [],

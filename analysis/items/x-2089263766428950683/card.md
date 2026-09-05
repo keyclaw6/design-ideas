@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2089263766428950683#c1` (capability, stated) agentation.com lets you annotate a live UI to guide a coding agent rather than only copying components. — evidence: "http://agentation.com  Annotate your UI. Guide your coding agent" [post]
 - `x-2089263766428950683#c2` (availability, stated) component.gallery aggregates UI patterns from 95 design systems. — evidence: "http://component.gallery  patterns from 95 design systems" [post]
+- `x-2089263766428950683#c3` (counter-claim, demonstrated) agentation.com 200 / 64,985 B (www). Product is npm install agentation: click-to-annotate UI → structured context for Claude Code / Codex. Names MCP, AFS 1.1, Output Schema, webhooks. Not a curated animated-UI-kit catalog. Tweet “animated UI kits plus Agentation” should not be collapsed into one kit library. — evidence: "GET 200 https://www.agentation.com/ 64985 B. H1 Visual feedback. For agents. npm install agentation." [note]
 **Numbers.** design systems on component.gallery: 95  (post)
 **Recipe.** —
 **Techniques.** [shadcn-component-kit](../../techniques/shadcn-component-kit.md)

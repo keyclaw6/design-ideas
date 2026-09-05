@@ -6,5 +6,5 @@
 - [archify trending repo — agent skill for animated architecture diagrams](../items/x-2093309791120543846/card.md) — tool — infographics-diagrams
 
 <!-- NOTES:START -->
-
+Fetched 2026-09-05 GitHub API `tt-a1i/archify` MIT, **48,142** stars. Description: Agent skill for beautiful, verifiable architecture / workflow / sequence / data-flow diagrams. Root has `DESIGN.md` + `PRODUCT.md` + `archify/`. Receipt `analysis/_work/captures/leftover-2026-09-05.json`.
 <!-- NOTES:END -->

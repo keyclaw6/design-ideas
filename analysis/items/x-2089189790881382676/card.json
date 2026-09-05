@@ -35,7 +35,7 @@
   "claims": [
     {
       "id": "x-2089189790881382676#c1",
-      "text": "The /vision skill proposes 8–12 borderline features then writes VISION.md.",
+      "text": "The /vision skill proposes 8\u201312 borderline features then writes VISION.md.",
       "kind": "recipe",
       "evidence": "the skill currently looks at what's already been done in the project to build context, and would then propose 8-12 hypothetical borderline feature ideas",
       "evidence_source": "post",
@@ -51,6 +51,16 @@
       "evidence_source": "post",
       "evidence_ref": null,
       "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2089189790881382676#c3",
+      "text": "github.com/kunchenguid/vision MIT, 311 stars / 13 forks. Description: mines repo history to draft VISION.md and stress-tests it. Root: skills/, AGENTS.md, CLAUDE.md, LICENSE, README.md. Matches the tweet skill, not a vision-model pack.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 311 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/vision-skill.md",
+      "confidence": "demonstrated",
       "subject": "design-agent-skills"
     }
   ],

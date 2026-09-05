@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2094984529853530345#c1` (recipe, stated) Pipeline slices a Gemini-animated video into 300 frames mapped to scroll via Framer Motion. — evidence: "Ezgif to slice the video into 300 sequential frames (30fps)." [author-thread]
 - `x-2094984529853530345#c2` (recipe, stated) Stack uses React, Vite, Tailwind CSS, and Framer Motion with Claude Code orchestrating the frontend. — evidence: "React, Vite, Tailwind CSS, and Framer Motion to tie the 300 frames to the user's scroll position." [author-thread]
-**Numbers.** —
+- `x-2094984529853530345#c3` (pricing, demonstrated) scrolltide.co 200 / 236,160 B. First-party: 61 templates / 61 prompts; 1,100+ builders; Lifetime access $239 one-time. Tweet 300-frame Gemini/Frame pipeline is not on the homepage HTML. Stack named: React Vite Next Tailwind Framer Motion GSAP Three.js WebGL Shaders Lenis. — evidence: "GET 200 https://www.scrolltide.co/ 236160 B. Quotes: Lifetime access — $239 one-time; 61 templates; 1,100+ builders. No 300-frame string." [note]
+**Numbers.** Scrolltide templates: 61 templates (note)
 **Recipe.** 1. Generate UI reference and neural-interface subject with ChatGPT 2. Animate still portrait to video with Google Gemini 3. Slice video to 300 frames at 30fps with Ezgif 4. Have Claude Code write React/Vite frontend binding scroll to frame index
 **Techniques.** —
 **Tools.** —

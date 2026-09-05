@@ -1,0 +1,408 @@
+{
+  "pages": {
+    "motionsites": {
+      "ok": true,
+      "status": 200,
+      "final": "https://motionsites.ai/",
+      "bytes": 56054,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://motionsites.ai/",
+      "title": "MotionSites AI \u2014 Official Premium AI Website Prompts",
+      "h1": [
+        "Unlock your AI Design Unlock your AI Design Superpowers Superpowers Superpowers Superpowers"
+      ]
+    },
+    "agenticui": {
+      "ok": true,
+      "status": 200,
+      "final": "https://agenticui.net/showcase",
+      "bytes": 79755,
+      "ctype": "text/html",
+      "url": "https://agenticui.net/showcase",
+      "title": "Built with Agentic UI",
+      "h1": []
+    },
+    "grainient": {
+      "ok": true,
+      "status": 200,
+      "final": "https://grainient.supply/",
+      "bytes": 758904,
+      "ctype": "text/html",
+      "url": "https://grainient.supply/",
+      "title": "Unlimited Gradients, Animated Gradients and AI-Generated Backgrounds",
+      "h1": [
+        "Discover the Best Gradients on the Internet.",
+        "Gradients Designed to Convert, Impress, and Amaze."
+      ]
+    },
+    "scrolltide": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.scrolltide.co/",
+      "bytes": 236160,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://www.scrolltide.co/",
+      "title": "Scrolltide \u2014 Cinematic website prompts &amp; templates",
+      "h1": [
+        "Ship websites that move like the tide."
+      ]
+    },
+    "brasshands": {
+      "ok": true,
+      "status": 200,
+      "final": "https://brasshands.com/",
+      "bytes": 360441,
+      "ctype": "text/html",
+      "url": "https://www.brasshands.com/",
+      "title": "Brass Hands",
+      "h1": [
+        "The office of",
+        "Kyle Anthony Miller",
+        "The office of"
+      ]
+    },
+    "blogr": {
+      "ok": true,
+      "status": 200,
+      "final": "https://blogr.ai/",
+      "bytes": 314161,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://blogr.ai/",
+      "title": "AI Blogger Tool for SaaS, Ecommerce &amp; Local SEO | Blogr.ai",
+      "h1": [
+        "AI Blogger Tool for SaaS, Ecom &amp; Local SEO"
+      ]
+    },
+    "departuremono": {
+      "ok": true,
+      "status": 200,
+      "final": "https://departuremono.com/",
+      "bytes": 2203,
+      "ctype": "text/html",
+      "url": "https://departuremono.com/",
+      "title": "Departure Mono",
+      "h1": []
+    },
+    "agentation": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.agentation.com/",
+      "bytes": 64985,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://agentation.com/",
+      "title": "Agentation",
+      "h1": [
+        "Visual feedback. For agents."
+      ]
+    },
+    "reactbits_pro": {
+      "ok": true,
+      "status": 200,
+      "final": "https://pro.reactbits.dev/",
+      "bytes": 419934,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://pro.reactbits.dev/",
+      "title": "React Bits Pro | Animated React Components, Blocks &amp; Templates",
+      "h1": [
+        "Impactful UI. Yours forever ."
+      ]
+    },
+    "reactbits": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.reactbits.dev/",
+      "bytes": 5779,
+      "ctype": "text/html",
+      "url": "https://www.reactbits.dev/",
+      "title": "React Bits - Animated UI Components For React",
+      "h1": []
+    },
+    "top3d_arena": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.top3d.ai/arena",
+      "bytes": 143839,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://www.top3d.ai/arena",
+      "title": "3D AI Arena - Compare AI 3D Generators in Blind Tests | Top 3D AI",
+      "h1": [
+        "Find the Best 3D AI Tool for You"
+      ]
+    },
+    "customuse": {
+      "ok": true,
+      "status": 200,
+      "final": "https://customuse.com/",
+      "bytes": 1387033,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://customuse.com/",
+      "title": "Customuse - Create 3D Game Assets with AI in Seconds",
+      "h1": [
+        "Create everything. One workspace.",
+        "Generate 3D"
+      ]
+    },
+    "claude_skills": {
+      "ok": true,
+      "status": 200,
+      "final": "https://www.claude-skills.free/",
+      "bytes": 26999,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://claude-skills.free/",
+      "title": "Claude Skill Library",
+      "h1": [
+        "CLAUDE SKILL LIBRARY"
+      ]
+    },
+    "namet45": {
+      "ok": true,
+      "status": 200,
+      "final": "https://namethatui.com/",
+      "bytes": 602668,
+      "ctype": "text/html",
+      "url": "https://toolfolio.link/namet45",
+      "title": "NameThatUI \u2014 What Is This UI Element Called?",
+      "h1": [
+        "What\u2019s this UI element called ?"
+      ]
+    },
+    "openseo": {
+      "ok": true,
+      "status": 200,
+      "final": "https://openseo.so/",
+      "bytes": 63307,
+      "ctype": "text/html",
+      "url": "https://openseo.so/",
+      "title": "OpenSEO - Open Source SEO Platform",
+      "h1": [
+        "The modern, open source SEO platform."
+      ]
+    },
+    "spline": {
+      "ok": true,
+      "status": 200,
+      "final": "https://spline.design/",
+      "bytes": 180577,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://spline.design/",
+      "title": "",
+      "h1": [
+        "Make anything 3D"
+      ]
+    },
+    "sylva": {
+      "ok": true,
+      "status": 200,
+      "final": "https://mengto.github.io/sylva/",
+      "bytes": 161425,
+      "ctype": "text/html; charset=utf-8",
+      "url": "https://mengto.github.io/sylva/",
+      "title": "Sylva \u2014 Into the living world",
+      "h1": [
+        "Step into the living world"
+      ]
+    },
+    "agenticui_home": {
+      "ok": true,
+      "status": 200,
+      "final": "https://agenticui.net/",
+      "bytes": 139008,
+      "ctype": "text/html",
+      "url": "https://agenticui.net/",
+      "title": "Agentic UI - Figma Design System",
+      "h1": []
+    }
+  },
+  "repos": {
+    "petergyang/human-review": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/petergyang/human-review",
+      "bytes": 6263,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/petergyang/human-review",
+      "title": "",
+      "github": {
+        "full_name": "petergyang/human-review",
+        "stars": 1228,
+        "forks": 97,
+        "license": "MIT",
+        "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+        "homepage": "https://creatoreconomy.so/p/use-my-human-review-skill-to-edit-html-markdown-visually",
+        "default_branch": "main",
+        "size_kb": 2512
+      }
+    },
+    "luchasarie/bro-skill": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/luchasarie/bro-skill",
+      "bytes": 5903,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/luchasarie/bro-skill",
+      "title": "",
+      "github": {
+        "full_name": "luchasarie/bro-skill",
+        "stars": 329,
+        "forks": 8,
+        "license": "MIT",
+        "description": "\ud83e\udd19 /bro \u2014 re-explains the last answer in plain language, for when the reply made you go 'bro what'. One-file skill for Hermes, Claude Code, Codex, and opencode.",
+        "homepage": null,
+        "default_branch": "main",
+        "size_kb": 16
+      }
+    },
+    "mattpocock/skills": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/mattpocock/skills",
+      "bytes": 5737,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/mattpocock/skills",
+      "title": "",
+      "github": {
+        "full_name": "mattpocock/skills",
+        "stars": 250466,
+        "forks": 21164,
+        "license": "MIT",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "homepage": "https://aihero.dev/skills",
+        "default_branch": "main",
+        "size_kb": 1679
+      }
+    },
+    "kunchenguid/vision": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/kunchenguid/vision",
+      "bytes": 5823,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/kunchenguid/vision",
+      "title": "",
+      "github": {
+        "full_name": "kunchenguid/vision",
+        "stars": 311,
+        "forks": 13,
+        "license": "MIT",
+        "description": "Agent skill that mines your repo's history to draft a VISION.md, stress-tests it with hard hypotheticals, and iterates with you on an interactive review board.",
+        "homepage": null,
+        "default_branch": "main",
+        "size_kb": 1212
+      }
+    },
+    "emilkowalski/skills": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/emilkowalski/skills",
+      "bytes": 5813,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/emilkowalski/skills",
+      "title": "",
+      "github": {
+        "full_name": "emilkowalski/skills",
+        "stars": 35418,
+        "forks": 1982,
+        "license": "MIT",
+        "description": "Skills for Designers and Engineers.",
+        "homepage": "https://emilkowal.ski/skill",
+        "default_branch": "main",
+        "size_kb": 120
+      }
+    },
+    "conorbronsdon/avoid-ai-writing": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/conorbronsdon/avoid-ai-writing",
+      "bytes": 6537,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/conorbronsdon/avoid-ai-writing",
+      "title": "",
+      "github": {
+        "full_name": "conorbronsdon/avoid-ai-writing",
+        "stars": 4103,
+        "forks": 349,
+        "license": "MIT",
+        "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+        "homepage": "https://chainofthought.show/go/avoid-ai-writing",
+        "default_branch": "main",
+        "size_kb": 858
+      }
+    },
+    "Leonxlnx/taste-skill": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/Leonxlnx/taste-skill",
+      "bytes": 6032,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/Leonxlnx/taste-skill",
+      "title": "",
+      "github": {
+        "full_name": "Leonxlnx/taste-skill",
+        "stars": 84364,
+        "forks": 5773,
+        "license": "MIT",
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+        "homepage": "https://tasteskill.dev",
+        "default_branch": "main",
+        "size_kb": 33814
+      }
+    },
+    "nicolasvonluetzow/GaussianGPT": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/nicolasvonluetzow/GaussianGPT",
+      "bytes": 6420,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/nicolasvonluetzow/GaussianGPT",
+      "title": "",
+      "github": {
+        "full_name": "nicolasvonluetzow/GaussianGPT",
+        "stars": 403,
+        "forks": 33,
+        "license": "MIT",
+        "description": "[ECCV'26 Oral] Our method creates 3D Gaussian scenes completely autoregressively, allowing for generation, completion, and outpainting with the same model.",
+        "homepage": "https://nicolasvonluetzow.github.io/GaussianGPT/",
+        "default_branch": "main",
+        "size_kb": 35851
+      }
+    },
+    "sengchor/kokraf": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/sengchor/kokraf",
+      "bytes": 5596,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/sengchor/kokraf",
+      "title": "",
+      "github": {
+        "full_name": "sengchor/kokraf",
+        "stars": 565,
+        "forks": 72,
+        "license": "NOASSERTION",
+        "description": "Collaborative 3D Modeling Application on the Web",
+        "homepage": "https://kokraf.com/",
+        "default_branch": "dev",
+        "size_kb": 4602
+      }
+    },
+    "every-app/open-seo": {
+      "ok": true,
+      "status": 200,
+      "final": "https://api.github.com/repos/every-app/open-seo",
+      "bytes": 7057,
+      "ctype": "application/json; charset=utf-8",
+      "url": "https://api.github.com/repos/every-app/open-seo",
+      "title": "",
+      "github": {
+        "full_name": "every-app/open-seo",
+        "stars": 17029,
+        "forks": 2119,
+        "license": "MIT",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "homepage": "https://openseo.so",
+        "default_branch": "main",
+        "size_kb": 22843
+      }
+    }
+  }
+}

@@ -50,6 +50,16 @@
       "evidence_ref": "media/media_0.jpg",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "text": "github.com/matrixorigin/Memoria Apache-2.0, 593 stars this pass. Description: Secure memory management for AI Agents. Root dirs include memoria/, sdk/, skills/, plugins/, benchmarks/, docs/. Matches a memory product, not a tweet-only name.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 593 stars Apache-2.0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/memoria.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge",
+      "id": "x-2087208634493095978#c3"
     }
   ],
   "recipe_steps": [],

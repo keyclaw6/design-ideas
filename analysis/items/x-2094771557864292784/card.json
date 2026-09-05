@@ -67,6 +67,16 @@
       "evidence_ref": "media/photo.jpg",
       "confidence": "demonstrated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "text": "known.agency 200 / 965,519 B. Title known.agency — #1 AI Search Optimization Agency. H1 Search Everywhere Optimisation. First-party: Dominate Google, AI, and Reddit; AI Search Optimization earn citations. Ranking language “#1” is vendor copy. AEO/GEO strings absent; citation is service copy, not a tracker export.",
+      "kind": "availability",
+      "evidence": "GET 200 https://known.agency 965519 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openseo-so.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility",
+      "id": "x-2094771557864292784#c3"
     }
   ],
   "links": {

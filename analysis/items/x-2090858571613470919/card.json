@@ -37,6 +37,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "is-agentic.com 200 / 85,665 B. Title Is Agentic: AI Agent Readiness Score. H1 Score how agentic your site is. First-party: npx is-agentic [domain]; Featured scores include is-agentic.com 100/100, vercel.com 89/100, ora.ai 99/100. Tweet 100/100 on their own domain is first-party on the featured list; loop-until-100 remains a tweet method, not a logged run.",
+      "kind": "result",
+      "evidence": "GET 200 http://is-agentic.com 85665 B. Featured is-agentic.com 100 / 100.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/is-agentic.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2090858571613470919#c2"
     }
   ],
   "recipe_steps": null,

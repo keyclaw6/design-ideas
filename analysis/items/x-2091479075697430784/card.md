@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091479075697430784#c1` (availability, stated) Author is preparing a Dither Animation animated gradients collection to launch on grainient.supply within the week. — evidence: "We are working on the new animated gradients collection “Dither Animation”
 It will be live on http://grainient.supply this week." [post]
+- `x-2091479075697430784#c2` (pricing, demonstrated) grainient.supply 200 / 758,904 B. Visible gradient groups: 375 noisy/grainy, 450 smooth blend, 90 (listed twice in SSR). Pricing copy: Lifetime $759 struck to $299; Yearly Pro $59 / $13/month; Get Pro $149 yearly. Title Unlimited Gradients, Animated Gradients and AI-Generated Backgrounds. Shader tool named. Do not collapse 375 / 450 / 90. — evidence: "GET 200 https://grainient.supply/ 758904 B. ( 375 ) Gradients Noisy / Grainy; ( 450 ) Smooth Blend; Most Popular $759 $299." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

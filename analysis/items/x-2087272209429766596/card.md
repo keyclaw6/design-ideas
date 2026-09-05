@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2087272209429766596#c1` (result, stated) Single prompt produced a parametric bookshelf speaker enclosure claimed manufacturing-ready. — evidence: "CadXStudio generated this  full parametric bookshelf speaker enclosure, walnut legs, perforated steel grille, manufacturing-ready." [post]
+- `x-2087272209429766596#c2` (counter-claim, demonstrated) cadxstudio.in 200 / 3,111 B. Title CadXStudio | AI Design Engine in the Browser. Visible text is the title only — SSR shell. Tweet one-prompt bookshelf speaker / STEP export cannot be verified from this HTML. — evidence: "GET 200 https://cadxstudio.in 3111 B. Title-only SSR." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

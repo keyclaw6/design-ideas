@@ -39,6 +39,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "gaussian-splatting"
+    },
+    {
+      "id": "x-2093563796237471912#c2",
+      "text": "github.com/nicolasvonluetzow/GaussianGPT MIT, 403 stars / 33 forks. Description: [ECCV'26 Oral] 3D Gaussian scenes completely autoregressively. Repo dirs: conf, data, data_splits, fig, model, scripts, serialization, utils. Weights/checkpoints not confirmed on the API listing.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 403 stars MIT. analysis/_work/captures/priority7-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/splat-js.md",
+      "confidence": "demonstrated",
+      "subject": "gaussian-splatting"
     }
   ],
   "recipe_steps": [],

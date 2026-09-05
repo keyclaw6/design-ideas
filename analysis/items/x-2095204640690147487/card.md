@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2095204640690147487#c1` (capability, stated) video-shotcraft generates cinematic product videos via Claude Code and Remotion with 152 shot recipe cards. — evidence: "Generates cinematic product videos with Claude Code and Remotion using 152 shot recipe cards and motion styles." [post]
 - `x-2095204640690147487#c2` (availability, stated) README lists 152 shot recipe cards, 209 styles, and 209 motion previews in a production template. — evidence: "152 shot recipe cards · 209 styles · 209 motion previews · a production-ready template" [media]
+- `x-2095204640690147487#c3` (availability, demonstrated) github.com/Vincentwei1021/video-shotcraft Apache-2.0, 7,484 stars this pass. API description still names 152 shot recipe cards; README/tree already counted 157 cards / 214 styles. Do not collapse 152 / 157 / 214. Root: SKILL.md, gallery/, references/, jianying-export/. — evidence: "GitHub API 2026-09-05: 7484 stars Apache-2.0. Description names 152 shot recipe cards." [note]
 **Numbers.** shot recipe cards: 152  (post); GitHub stars on screenshot: 6600  (media)
 **Recipe.** —
 **Techniques.** [lottie-export](../../techniques/lottie-export.md), [remotion-code-video](../../techniques/remotion-code-video.md)

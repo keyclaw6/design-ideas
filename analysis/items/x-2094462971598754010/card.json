@@ -54,6 +54,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-memory-knowledge"
+    },
+    {
+      "text": "github.com/garrytan/gbrain MIT, 29,591 stars this pass. Description: Garry's Opinionated OpenClaw/Hermes Agent Brain. Root includes evals/, .gbrain-evals/, skills/, plugin/. This is the product repo; gbrain-evals SOTA integers stay on the evals card, not this listing.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 29591 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/gbrain.md",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge",
+      "id": "x-2094462971598754010#c4"
     }
   ],
   "numbers": [

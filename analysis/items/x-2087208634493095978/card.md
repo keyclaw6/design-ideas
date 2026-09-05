@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087208634493095978#c1` (capability, stated) Memoria versions AI agent memory with snapshots, branches, and merges. — evidence: "Version controls AI agent memory with snapshots, branches, and merges" [post]
 - `x-2087208634493095978#c2` (capability, stated) README positions Memoria as the first git for AI agent memory with zero-copy branching on MatrixOne. — evidence: "The World's First Git for AI Agent Memory" [media]
+- `x-2087208634493095978#c3` (availability, demonstrated) github.com/matrixorigin/Memoria Apache-2.0, 593 stars this pass. Description: Secure memory management for AI Agents. Root dirs include memoria/, sdk/, skills/, plugins/, benchmarks/, docs/. Matches a memory product, not a tweet-only name. — evidence: "GitHub API 2026-09-05: 593 stars Apache-2.0." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [filesystem-context-memory](../../techniques/filesystem-context-memory.md)

@@ -20,9 +20,9 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 | Atlas 3D AI | text sentence | Unreal ride-through; Blender staging claimed | unknown | Blender + Unreal (promo) | product; no license text in capture |
 | Lumera | single image | claimed separate meshes + movable lights | claimed object-split | UE5 / Blender | code/weights “coming soon” |
 | Lucida | indoor video | claimed scene-graph + Seed3D meshes | unknown | unknown | ByteDance research |
-| Top3D (Hitem3D/Meshy/Tripo) | image/text (arena) | mesh, not a world | arena-dependent | typical DCC export | vendor TOS |
+| Top3D (Hitem3D/Meshy/Tripo) | image/text (arena live **143,839 B**; also Hunyuan / Hyper3D / Rodin / Trellis + ELO) | mesh, not a world | arena-dependent | typical DCC export | vendor TOS |
 | bee one-shot | single photo | mesh | claimed clean, no retries | unnamed tool | n/a |
-| Customuse | existing AI mesh | cleanup/UV/bake | this *is* the topology step | DCC | SaaS |
+| Customuse | existing AI mesh (homepage **1.36 MB** is generate 3D/image/video; cleanup/UV/bake strings **absent**) | cleanup/UV/bake (tweet-only) | this *is* the topology step (stated) | DCC | SaaS |
 | BQR | boolean hard-surface | quad mesh | claimed clean quads | Blender native modifiers | addon |
 | Needle decimate | high-poly mesh | decimated GL for web | 3.2M→3k in 3s (stated) | three.js | “coming soon” |
 | kokraf | existing three.js mesh | textured mesh | uses existing topo | three.js | MIT-ish repo stated |
@@ -42,7 +42,7 @@ If the output is a *splat*, leave this lane and open [gaussian-splatting/workshe
 ## image-to-3d-world — do not treat as load-bearing
 
 - Photo→Blender “paste” ([x-2095512142766342624](../../items/x-2095512142766342624/card.md)) — 123 replies reported, 1 captured, no steps.
-- Top3D arena additions — useful as a *comparison surface*, not as a pipeline.
+- Top3D arena additions — useful as a *comparison surface*, not as a pipeline. Live HTML names Hitem3D / Meshy / Tripo / Hunyuan / Hyper3D / Rodin / Trellis + ELO; version suffixes (v3 / 7 / P2.0) are not all in the HTML (parked on [meshy](../../tools/meshy.md)).
 - Anything that only shows a flythrough video. That may belong in blockout-to-video.
 
 ## image-to-3d-world — next capture work

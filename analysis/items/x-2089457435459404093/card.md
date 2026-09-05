@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2089457435459404093#c1` (opinion, stated) Author claims Google Developer Docs Style Guide skill beats ASD-STE100 for clarity. — evidence: "I've tried both and this is much better than the ASD-STE100 Simplified Technical English skill" [post]
+- `x-2089457435459404093#c2` (availability, demonstrated) developers.google.com/style 200 / 79,827 B. Title About this guide | Google developer documentation style guide. First-party nav includes Voice and tone, Active voice, Jargon, Anthropomorphism. This is the public style guide, not an installable skill pack. — evidence: "GET 200 https://developers.google.com/style 79827 B." [note]
 **Numbers.** —
 **Recipe.** 1. Point the agent at https://developers.google.com/style 2. Extract voice, heading, and list rules into a skill markdown file 3. Apply the skill on READMEs, docs, and marketing copy outputs
 **Techniques.** —

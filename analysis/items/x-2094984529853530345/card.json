@@ -52,6 +52,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2094984529853530345#c3",
+      "text": "scrolltide.co 200 / 236,160 B. First-party: 61 templates / 61 prompts; 1,100+ builders; Lifetime access $239 one-time. Tweet 300-frame Gemini/Frame pipeline is not on the homepage HTML. Stack named: React Vite Next Tailwind Framer Motion GSAP Three.js WebGL Shaders Lenis.",
+      "kind": "pricing",
+      "evidence": "GET 200 https://www.scrolltide.co/ 236160 B. Quotes: Lifetime access — $239 one-time; 61 templates; 1,100+ builders. No 300-frame string.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/scroll-craft.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
   "recipe_steps": [
@@ -60,7 +70,14 @@
     "Slice video to 300 frames at 30fps with Ezgif",
     "Have Claude Code write React/Vite frontend binding scroll to frame index"
   ],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Scrolltide templates",
+      "value": "61",
+      "unit": "templates",
+      "source": "note"
+    }
+  ],
   "techniques": [],
   "tools": [],
   "links": {

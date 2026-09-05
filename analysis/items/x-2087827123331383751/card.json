@@ -49,6 +49,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2087827123331383751#c3",
+      "text": "openseo.so 200 / 63,307 B. Title OpenSEO - Open Source SEO Platform. First-party: Keyword Research, Rank Tracking, Backlinks, Site Audit, AI Visibility, Prompt Explorer, OpenSEO MCP + Search Console MCP on DataForSEO data. Matches the sibling every-app/open-seo repo, not a closed Ahrefs clone.",
+      "kind": "capability",
+      "evidence": "GET 200 https://openseo.so/ 63307 B. \u201call on real DataForSEO data.\u201d MCP named.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openseo-so.md",
+      "confidence": "demonstrated",
+      "subject": "serp-ai-visibility"
     }
   ],
   "recipe_steps": null,

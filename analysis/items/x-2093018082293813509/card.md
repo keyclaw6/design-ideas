@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2093018082293813509#c1` (capability, stated) Customuse now offers mesh cleanup, UV unwrapping, and texture baking after AI mesh generation. — evidence: "Mesh cleanup, UV unwrapping, and texture baking are live on Customuse." [post]
 - `x-2093018082293813509#c2` (recipe, stated) Pipeline covers generate then clean, unwrap, and bake in one place for production-ready assets. — evidence: "Now: generate → clean → unwrap → bake. All in one place." [post]
+- `x-2093018082293813509#c3` (counter-claim, demonstrated) customuse.com 200 / 1,357,208 B. Title Customuse - Create 3D Game Assets with AI in Seconds. H1 Create 3D assets, images & videos with AI. First-party: one prompt → images, videos, or production-ready 3D; Start for Free; Pricing nav. Tweet strings “mesh cleanup / UV unwrapping / texture baking” are ABSENT from this homepage HTML. Dollar tokens $1–$49 appear but are not a named plan table. — evidence: "GET 200 https://customuse.com 1357208 B. cleanup/unwrap/bake/UV absent. analysis/_work/captures/leftover-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

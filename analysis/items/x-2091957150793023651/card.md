@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091957150793023651#c1` (benchmark, stated) MiniMax H3 Max generates a 5-second 480p clip in under 5 seconds on Magnific. — evidence: "MiniMax H3 Max generates a 5 second clip at 480p in under 5 seconds" [post]
 - `x-2091957150793023651#c2` (availability, stated) Magnific offered unlimited H3 Max generations for three days at launch. — evidence: "Unlimited, for the next 3 days" [post]
+- `x-2091957150793023651#c3` (counter-claim, demonstrated) magnific.ai 200 / 603,673 B. Title Magnific (formerly Freepik) | The AI Creative Platform. Models list includes Minimax (no H3 / 480p / 5-second strings). Tweet MiniMax H3 Max 5s 480p in under 5 seconds is not on this homepage HTML. — evidence: "GET 200 https://magnific.ai 603673 B. H3 and 480 absent." [note]
 **Numbers.** clip duration: 5 seconds (post); resolution: 480p  (post); generation time: 5 seconds (post)
 **Recipe.** —
 **Techniques.** —

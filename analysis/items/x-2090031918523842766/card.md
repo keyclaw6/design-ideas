@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2090031918523842766#c1` (capability, stated) /animate-expo brings gestures, sheets, haptics, and screen transitions to React Native and Expo agents. — evidence: "React Native and Expo: gestures, sheets, haptics, screen transitions, and more." [post]
+- `x-2090031918523842766#c2` (availability, demonstrated) github.com/emilkowalski/skills MIT, 35,418 stars / 1,982 forks this pass. skills/ has 12 dirs: animate-expo, animate, animation-vocabulary, apple-design, ask-sonner, emil-design-eng, find-animation-opportunities, improve-animations, pick-ui-library, prototype, review-animations, write-swift. Tweet /animate-expo is one of twelve, not the whole pack. — evidence: "GitHub API 2026-09-05: stargazers_count 35418 license MIT. contents/skills 12 dirs." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2090834948332655011#c1` (recipe, stated) Thread lists ten ranked anti-slop skills with skills.sh install URLs. — evidence: "Post got a lot of traction, so I made a rank with the anti-slop skills people need to install." [post]
+- `x-2090834948332655011#c2` (counter-claim, demonstrated) skills.sh/hardikpandya/stop-slop 200 / 49,361 B. Title hardikpandya/stop-slop — Agent skills. First-party: 1 skill; 13.3K total installs; npx skills add hardikpandya/stop-slop. Tweet “top 10 anti-slop” ranking is not on this pack page — this URL is one skill, not a ten-item bake-off. — evidence: "GET 200 https://skills.sh/hardikpandya/stop-slop 49361 B. 1 skill 13.3K installs." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2091622497393225801#c1` (capability, stated) Author uses Sideshow.sh to visually understand and interact with agents' work on a weekend project. — evidence: "setting up @bentlegen's http://sideshow.sh to visually understand & interact with my agents' work" [post]
+- `x-2091622497393225801#c2` (availability, demonstrated) sideshow.sh 200 / 51,220 B. Title sideshow · give your agents a stage. H1 Give your agents a stage. First-party: agents render mockups, diagrams, diffs; Claim your free account. “207 Now playing” is a live counter this pass, not a catalog size. — evidence: "GET 200 http://sideshow.sh 51220 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

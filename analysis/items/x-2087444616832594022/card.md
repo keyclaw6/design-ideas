@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087444616832594022#c1` (capability, stated) Survey defines an L0–L4 taxonomy for how far agents may modify prompts, tools, or weights. — evidence: "Defines an L0–L4 taxonomy for self-evolving agents" [post]
 - `x-2087444616832594022#c2` (opinion, stated) Core principle: no update should control the only evidence used to accept itself. — evidence: "One core principle: no update should control the only evidence used to accept itself." [post]
+- `x-2087444616832594022#c3` (availability, demonstrated) wkqdzkd.github.io/Awesome-Reliable-Self-Evolving-Agents/ 200 / 139,225 B. Title Diving into Reliable Self-Evolving Agents: A Survey. First-party counters: 549 manuscript-used works; 5 self-evolution levels; 8 catalog sections; Explore L0–L4. Paper “coming soon.” Matches the tweet L0–L4 map. — evidence: "GET 200 survey page 139225 B. 549 works / 5 levels / 8 sections." [note]
 **Numbers.** works cataloged: 549  (post)
 **Recipe.** —
 **Techniques.** [autoresearch-loop](../../techniques/autoresearch-loop.md)

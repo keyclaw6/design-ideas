@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2088345102540587356#c1` (recipe, stated) MDA maps agent features to a folder tree including skills/, connectors/, and evals/. — evidence: "anatomy of a managed deep agent. https://langch.in/mda" [post]
+- `x-2088345102540587356#c2` (capability, demonstrated) langch.in/mda 200 / 890,993 B. Title Managed Deep Agents - Docs by LangChain. First-party: MDA is the simplest way to build and deploy production agents; example agent is a project folder (Model & configuration, Instructions, Skills, Tools, Middleware, MCP). Matches a hosted deep-agent folder architecture, not a local loop library. — evidence: "GET 200 https://langch.in/mda 890993 B." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [agent-harness-ops](../../techniques/agent-harness-ops.md), [agent-harness-ops](../../techniques/agent-harness-ops.md)

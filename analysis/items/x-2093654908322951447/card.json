@@ -39,6 +39,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093654908322951447#c2",
+      "text": "claude-skills.free 200 / 26,999 B (www.claude-skills.free). Title Claude Skill Library. Public page is an email/code gate (\u201cI sent a code\u2026 unlock everything\u201d) plus install steps and example command /grill-me. Skill list requires JS; no slop-pack inventory in SSR. Do not treat the empty list as zero skills.",
+      "kind": "availability",
+      "evidence": "GET 200 https://www.claude-skills.free/ 26999 B. H1 CLAUDE SKILL LIBRARY. /grill-me named. This page needs JavaScript to list the skills.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/claude-skills-free.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,

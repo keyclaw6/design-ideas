@@ -79,6 +79,16 @@
       "evidence_ref": "post.md",
       "confidence": "contested",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "text": "treg.to/people-search 200 / 83,902 B. Title Claude for People Search — 1B+ Contacts for Your Agent. First-party: one skill / 1B+ contacts across Apollo, Hunter, Tomba, People Data Labs — 60 providers; pay per answer. people.email.find routed from $0.0089 matches the tweet unit. companies.search ranked examples: Apollo $0.026 · 98%; TheCompaniesAPI $0.004 · 91%. Do not collapse $0.0089 with $0.026.",
+      "kind": "pricing",
+      "evidence": "GET 200 https://treg.to/people-search 83902 B. from $0.0089 on people.email.find.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/treg.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents",
+      "id": "x-2094740953554932149#c3"
     }
   ],
   "links": {

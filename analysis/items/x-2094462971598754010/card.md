@@ -12,6 +12,7 @@
 - `x-2094462971598754010#c1` (benchmark, stated) LongMemEval reading memory back scores 97.6% R@5 with no LLM in the retrieval loop. — evidence: "97.6% R@5 with no LLM in the retrieval loop" [media]
 - `x-2094462971598754010#c2` (benchmark, stated) Cat 35 write-path eval reports 88.1% salient content survives into usable pages. — evidence: "88.1% of salient content survives into pages rated 91% usable" [media]
 - `x-2094462971598754010#c3` (capability, stated) Author added evals for memory-save from agent transcript as the best enrichment path. — evidence: "I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain" [post]
+- `x-2094462971598754010#c4` (availability, demonstrated) github.com/garrytan/gbrain MIT, 29,591 stars this pass. Description: Garry's Opinionated OpenClaw/Hermes Agent Brain. Root includes evals/, .gbrain-evals/, skills/, plugin/. This is the product repo; gbrain-evals SOTA integers stay on the evals card, not this listing. — evidence: "GitHub API 2026-09-05: 29591 stars MIT." [note]
 **Numbers.** LongMemEval R@5: 97.6 percent (media); Cat 35 salient content survival: 88.1 percent (media); gbrain-evals repo stars at capture: 406  (note)
 **Recipe.** —
 **Techniques.** [autoresearch-loop](../../techniques/autoresearch-loop.md), [filesystem-context-memory](../../techniques/filesystem-context-memory.md)

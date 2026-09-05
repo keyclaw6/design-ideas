@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2090526692427104508#c1` (opinion, stated) Author states Spline is the most likely disruptor of big traditional 3D software. — evidence: "if anything disrupts the big 3d softwares, it'll be spline" [post]
+- `x-2090526692427104508#c2` (availability, demonstrated) spline.design 200 / 180,577 B. Title Spline - 3D Design tool in the browser with real-time collaboration. H1 Make anything 3D. First-party: Create 3D with AI or build with direct control; remix a 3D design. Pricing nav present; no dollar amounts in this HTML. Tweet “disrupts big 3d softwares” stays opinion. — evidence: "GET 200 https://spline.design/ 180577 B. analysis/_work/captures/leftover-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

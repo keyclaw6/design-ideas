@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2093654908322951447#c1` (capability, stated) Pack includes eleven named skills such as /writer, /editor, /ban-the-AI-words, and /auto-block-banned-words. — evidence: "/ban-the-AI-words" [post]
+- `x-2093654908322951447#c2` (availability, demonstrated) claude-skills.free 200 / 26,999 B (www.claude-skills.free). Title Claude Skill Library. Public page is an email/code gate (“I sent a code… unlock everything”) plus install steps and example command /grill-me. Skill list requires JS; no slop-pack inventory in SSR. Do not treat the empty list as zero skills. — evidence: "GET 200 https://www.claude-skills.free/ 26999 B. H1 CLAUDE SKILL LIBRARY. /grill-me named. This page needs JavaScript to list the skills." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md), [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md)

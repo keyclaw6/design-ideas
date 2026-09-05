@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2088290952704151671#c1` (availability, stated) The repo contains 25 agent skills explained in a single ten-minute overview video. — evidence: "So, here it is. My 25 skills (now @theo-approved), explained in 10 minutes:" [post]
+- `x-2088290952704151671#c2` (counter-claim, demonstrated) github.com/mattpocock/skills MIT, 250,466 stars / 21,164 forks this pass. Root contents: 5 dirs (deprecated, engineering, in-progress, misc, productivity). Description: Skills for Real Engineers. Tweet “all 25 skills” is not a root-dir count (root has 5). Do not treat 250k stars as a 25-skill inventory. — evidence: "GitHub API 2026-09-05: 250466 stars MIT. contents/ 5 dirs. engineering/ and productivity/ 404 as path listings this pass." [note]
 **Numbers.** skills in repo: 25  (post); overview video length: 10 minutes (post)
 **Recipe.** —
 **Techniques.** —

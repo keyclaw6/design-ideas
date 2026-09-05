@@ -46,6 +46,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "text": "github.com/tt-a1i/archify MIT, 48,142 stars this pass. Description: Agent skill for beautiful, verifiable architecture / workflow / sequence / data-flow diagrams. Root has DESIGN.md + PRODUCT.md + archify/. Matches the tweet skill, not a generic mermaid wrapper.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 48142 stars MIT.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/archify.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams",
+      "id": "x-2093309791120543846#c3"
     }
   ],
   "recipe_steps": [],

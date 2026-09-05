@@ -6,5 +6,5 @@
 - [Peter Yang /human-review skill: local visual editor for HTML and Markdown](../items/x-2085006701984698712/card.md) — tool, technique — design-agent-skills
 
 <!-- NOTES:START -->
-
+Fetched 2026-09-05 GitHub API `petergyang/human-review` MIT, **1,228** stars / **97** forks. Description: visual tool to edit HTML and Markdown and leave comments like a Google Doc. Tree has `src/`, `test/`, `design-ref/`. Matches the local visual-editor skill, not a DESIGN.md library. Receipt `analysis/_work/captures/priority7-2026-09-05.json`.
 <!-- NOTES:END -->

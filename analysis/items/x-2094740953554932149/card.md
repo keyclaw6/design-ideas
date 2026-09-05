@@ -12,6 +12,7 @@
 - `x-2094740953554932149#c1` (pricing, stated) treg people-search charges $0.0089 per lead with no subscriptions. — evidence: "Pricing model is quite competitive: no subscriptions, $0.0089 per lead" [post]
 - `x-2094740953554932149#c2` (benchmark, contested) Quoted launch claims #1 on People Search Bench and fully open source with 0% markup. — evidence: "#1 on People Search Bench
 Fully open source, 0% markup" [quoted-post]
+- `x-2094740953554932149#c3` (pricing, demonstrated) treg.to/people-search 200 / 83,902 B. Title Claude for People Search — 1B+ Contacts for Your Agent. First-party: one skill / 1B+ contacts across Apollo, Hunter, Tomba, People Data Labs — 60 providers; pay per answer. people.email.find routed from $0.0089 matches the tweet unit. companies.search ranked examples: Apollo $0.026 · 98%; TheCompaniesAPI $0.004 · 91%. Do not collapse $0.0089 with $0.026. — evidence: "GET 200 https://treg.to/people-search 83902 B. from $0.0089 on people.email.find." [note]
 **Numbers.** people-search price: 0.0089 USD/lead (post); treg GitHub stars: 1020 stars (linked-page)
 **Recipe.** —
 **Techniques.** —

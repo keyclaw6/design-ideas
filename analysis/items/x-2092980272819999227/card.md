@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2092980272819999227#c1` (opinion, stated) Author reports video-use combined with Codex is highly effective for AI-driven video editing. — evidence: "video-use + codex for video editing is mindblowingly good" [post]
+- `x-2092980272819999227#c2` (availability, demonstrated) github.com/browser-use/video-use MIT, 24,025 stars this pass. Description: Edit videos with coding agents. Root: SKILL.md, helpers/, skills/, tests/. Matches the tweet repo, not a hosted editor. — evidence: "GitHub API 2026-09-05: 24025 stars MIT." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [agent-video-editing](../../techniques/agent-video-editing.md)

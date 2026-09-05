@@ -20,7 +20,7 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 | Originkit | kit (homepage RSC **468** unique gallery slugs; MCP registry **461**; marketing said 363+) | mixed (text, bg, galleries) | MCP hello 4 tools (`list_components`…); `/pricing` Free $0 / Pro $79/yr / Studio $179/yr (metered copies) | React / Next | CSS bundle has max-width 1023 + min-width 640–1920 (21 blocks) |
 | Vengeance UI | kit (live **46 / 9 families**; registry.json **132** items) | hover + text motion | MIT registry; `/pricing` and `/pro` 404 | high | CSS bundle has min-width 640–1600 + hover/forced-colors (35 blocks) |
 | 23rd.dev | curated registry (docs **10** named items; GitHub **68★**) | shader / animated bg | shadcn add (React or Svelte 5) | React + Svelte | unknown |
-| ReactBits Pro | kit (paid) | marketing motion | restyle primitives | React | unknown |
+| ReactBits Pro | kit (paid; live **703** assets / **300** App UI / **404** Blocks / **14** Templates / **134** Components) | marketing motion | restyle primitives | React | unknown |
 | AICSS / beautifului | kit (agent UI; Beautiful UI live **21** named components) | micro / streaming | copy-paste | React implied | unknown |
 | Blume.codes article | finished-page breakdown | seven-layer parallax + scroll-drawn | recipe, not a package | Next / Turborepo | unknown |
 | 300-frame scroll-scrub | finished technique | high (300 frames bound to scroll) | ChatGPT + Gemini + Ezgif + Claude | Framer Motion | unknown |
@@ -28,11 +28,15 @@ AICSS / beautifului.dev cover *agent-chat chrome* (thinking, tools, streaming). 
 | recent.design / unive.ai / doss.com | reference feed or one page | varies | look, don’t install | n/a | unknown |
 | TinyShots | polish tool | n/a | macOS + CLI | n/a | n/a (screenshots) |
 | DiceBear | avatar API | n/a | HTTP / SDK | any | n/a |
-| Forja / Hogwarts / Brass Hands teasers | Forja is a **Framer** template (**$129**, 261,271 B), not a kit; others still teasers | motion implied | Forja = buy + customize in Framer | no (Framer, not shadcn) | Forja title says Responsive; no mobile audit |
+| Forja / Hogwarts / Brass Hands teasers | Forja is a **Framer** template (**$129**, 261,271 B), not a kit; Brass Hands live; Departure Mono is a **2,203 B** title-only shell | motion implied | Forja = buy + customize in Framer | no (Framer, not shadcn) | Forja title says Responsive; no mobile audit |
 
 ## landing-ui-motion — claims that need a receipt
 
-- ReactBits Pro does “about 90%” of marketing motion ([x-2087812720762425743](../../items/x-2087812720762425743/card.md)) — author estimate, two-reply thread.
+- ReactBits Pro does “about 90%” of marketing motion ([x-2087812720762425743](../../items/x-2087812720762425743/card.md)) — author estimate, two-reply thread. Live catalog integers are first-party on [reactbits-pro](../../tools/reactbits-pro.md): **703 / 300 / 404 / 14 / 134**. Free `reactbits.dev` is a 5,779 B stub.
+- Scrolltide homepage is a **prompt/template shop** (**61** templates / **$239** lifetime), not the 300-frame Gemini pipeline ([x-2094984529853530345](../../items/x-2094984529853530345/card.md); parked on [scroll-craft](../../tools/scroll-craft.md)).
+- Grainient live groups **375 / 450 / 90** + Lifetime **$759→$299** ([x-2091479075697430784](../../items/x-2091479075697430784/card.md); parked on [reactbits-pro](../../tools/reactbits-pro.md)).
+- Agentation is `npm install agentation` (annotate → agent context), not a kit catalog ([agentation](../../tools/agentation.md)).
+- Brass Hands live office page has no “Neo Industrialism Swiss-grid” string ([x-2095123902947090682](../../items/x-2095123902947090682/card.md); parked on [motionsites-ai](../../tools/motionsites-ai.md)).
 - scroll-craft fingerprint gate — README names the eight grammars and the ≥4-of-6 rule ([scroll-craft](../../tools/scroll-craft.md)). A default-Claude slop fixture (`analysis/_work/captures/default-claude-landing.html`) fires the taste.md refuse list (3-col cards, gradient text, invented stats, AI-purple, em dash, scroll cue, 01/06, dual CTAs) and matches **none** of the eight grammars. Checklist on a fixture, not a headed skill/Playwright run.
 - Fable 5.1 “matches Fable 5 landing quality at lower cost” — 149s walkthrough. X article **2094971964163006468** now in-bank (**9,821** chars): four cost pairs $18.24/$20.22 … $11.18/$17.37. scroll-craft is **not** in that article body ([fable-5-1](../../tools/fable-5-1.md)).
 - 300-frame Gemini → Framer bind — pipeline named; no public repo of the 300 frames.

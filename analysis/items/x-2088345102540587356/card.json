@@ -42,6 +42,16 @@
       "evidence_ref": "raw/items/x-2088345102540587356/post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "langch.in/mda 200 / 890,993 B. Title Managed Deep Agents - Docs by LangChain. First-party: MDA is the simplest way to build and deploy production agents; example agent is a project folder (Model & configuration, Instructions, Skills, Tools, Middleware, MCP). Matches a hosted deep-agent folder architecture, not a local loop library.",
+      "kind": "capability",
+      "evidence": "GET 200 https://langch.in/mda 890993 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/session-migrate.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2088345102540587356#c2"
     }
   ],
   "recipe_steps": [],

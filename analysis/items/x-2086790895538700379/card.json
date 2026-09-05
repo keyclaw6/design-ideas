@@ -41,6 +41,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "loopany.ai/templates 200 / 149,545 B. Title Loopany templates — agent loops that actually work. Category counts this pass: Growth 5, Business Ops 3, Codebase Autopilot 5, CI/Test & Security 3, Personal 3, Goal Loops 4 (sum 23 named slots; some labels repeat in SSR). First-party: free to read, runs on your own machine with your own coding agent. Not a hosted harness.",
+      "kind": "availability",
+      "evidence": "GET 200 https://loopany.ai/templates 149545 B. Category integers Growth 5 / Ops 3 / Autopilot 5 / Security 3 / Personal 3 / Loops 4.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/is-agentic.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2086790895538700379#c2"
     }
   ],
   "recipe_steps": null,

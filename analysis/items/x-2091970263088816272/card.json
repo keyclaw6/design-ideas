@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "text": "github.com/xhluca/session-migrate MIT, 82 stars this pass. Description: Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot…). Root: src/, tests/, docs/, website/. Matches the tweet CLI.",
+      "kind": "availability",
+      "evidence": "GitHub API 2026-09-05: 82 stars MIT. 18 harnesses in description.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/session-migrate.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops",
+      "id": "x-2091970263088816272#c3"
     }
   ],
   "recipe_steps": [],

@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2089618415493218381#c1` (opinion, stated) departuremono.com is presented as an exceptionally crafted font marketing website. — evidence: "The craziest font website ever https://departuremono.com" [post]
+- `x-2089618415493218381#c2` (counter-claim, demonstrated) departuremono.com 200 / 2,203 B. Title Departure Mono. Visible text is the title only — SSR shell, not a captured type-specimen layout. Tweet “craziest font website” cannot be verified from this HTML. — evidence: "GET 200 https://departuremono.com 2203 B. Title-only SSR. analysis/_work/captures/leftover-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
