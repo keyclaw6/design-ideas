@@ -1,0 +1,14 @@
+{
+  "fetched": "2026-09-05T01:10:00Z",
+  "method": "fxtwitter-api",
+  "url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2093053568748319181",
+  "text": "\"Can you actually direct the camera now, or is it still a prompt lottery?\"\n\nMiniMax Design's 3D Director Stage lets you block the scene in actual 3D — place the figure, the walls, the camera path — and generate from that.\n\nWhat I learned: H3 follows your text prompt harder than your camera reference. Stop fighting for frame accuracy and use the stage for what it's good at — composition and space.",
+  "replies": 0,
+  "quotes": 0,
+  "video": {
+    "duration_s": 51.478,
+    "width": 1920,
+    "height": 1080
+  },
+  "urls": null
+}

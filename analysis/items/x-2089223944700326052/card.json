@@ -45,9 +45,36 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089223944700326052#c3",
+      "text": "The breakdown is an X amplify video 44.559 s at 2560×1626. Thread status is empty (0 replies reported).",
+      "kind": "availability",
+      "evidence": "GET https://api.fxtwitter.com/Heylaosan/status/2089223944700326052. video duration 44.559 width 2560 height 1626. replies 0.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/ui-motion-physics.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
+    },
+    {
+      "id": "x-2089223944700326052#c4",
+      "text": "Quoted tweet 2075520890880827512 points at https://inspo-design.pages.dev/ (200 / 10,859 B). Title Inspo.design - 设计与 UX 收藏. H1 设计灵感. Live copy says 0 条内容 in that section. One outbound href: sanhao-design-weekly.pages.dev. GitHub user YousufSoomroDev 404 this pass; the carousel repo is still not in this bank.",
+      "kind": "availability",
+      "evidence": "GET https://inspo-design.pages.dev/ 200 10859 B. analysis/_work/captures/inspo-design-pages-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/ui-motion-physics.md",
+      "confidence": "demonstrated",
+      "subject": "landing-ui-motion"
     }
   ],
-  "numbers": [],
+  "numbers": [
+    {
+      "label": "Carousel breakdown duration",
+      "value": "44.559",
+      "unit": "seconds",
+      "source": "note"
+    }
+  ],
   "techniques": [
     "parallax-scroll-landing",
     "ui-motion-physics"
@@ -58,7 +85,9 @@
     "repo": null,
     "paper": null,
     "product": null,
-    "other": [],
+    "other": [
+      "https://inspo-design.pages.dev/"
+    ],
     "related_items": [
       "github-nateherkai-scroll-craft",
       "github-nexu-io-motion-anything",
@@ -78,10 +107,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "thread-partial"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "schema_version": "1",
   "shelf": null,
   "shelf_reason_code": null,

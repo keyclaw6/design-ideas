@@ -34,7 +34,7 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 - Mint Studio “browser 3D camera for video” — thread failed. “Live now here!” `t.co/kfmFB5sFWU` → **mint.gg**. That site is a 3D-asset + MCP pipeline, not a documented camera-path exporter ([mint-studio](../../tools/mint-studio.md)).
 - npaka CLI vs MCP note is live ([blender-blockout-camera](../../techniques/blender-blockout-camera.md)): CLI = `blender … --background --python`; MCP = running-Blender dialogue. Combine CLI → MCP → CLI.
 - Cafe flythrough: confirm the `.blend` camera, not a prompt-only path, is what Seedance consumed (must-read). Official Seedance 2.0 page claims image/audio/video reference including camera movement ([seedance](../../tools/seedance.md)); the cafe `.blend` is still not in this bank. Quoted Blender MCP article **2083925419800002560** is now in-bank (**3,924** chars): cube→red-sphere live check + campsite/angel recipes ([blender-mcp](../../tools/blender-mcp.md)). That article is an operating loop, not the Seedance export. Root video **46.733 s** / 1920×1080. Card is now `ready` (thread `empty`).
-- MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage.
+- MiniMax 3D Director: author already says H3 still drifts after a blocked camera — treat that as a live limit, not a solved stage. Root video **51.478 s** / 1920×1080. Card is now `ready` (thread `empty`).
 - CozyClay $17/30s miss — useful cost signal. **MCP verified** on this host: **25** tools (`load_motion` is the extra vs README 24), 420 `frame_shot` combos, `render_prompt` seedance_2, `.cclayproject` round-trip. AGPL-3.0 ([cozyclay](../../tools/cozyclay.md)).
 - Unreal MCP shot — Level Sequence exists in the demo; whether it then hits Seedance/H3 is not in the card.
 - GLM kitchen “not a generated video” — adjacent to freedom-modeling; do not file it as a finished spot.
@@ -53,3 +53,4 @@ Block the scene before spending credits ([x-2093374092795846745](../../items/x-2
 4. Intangible homepage is live (**130,479 B**, MCP Beta, no Blender string). Mint “Live now” t.co → mint.gg. Remaining: a downloadable camera-path from either host.
 5. Do not expand this lane with more model-launch tweets.
 6. adilinthewild “19-minute” Blender-first tutorial is the X amplify video (**1187.497 s**, 3840×2160). Quoted prompts link is a Higgsfield blog **200 / 72,653 B** whose HTML does not repeat the 19-minute string ([higgsfield](../../tools/higgsfield.md)). Thread stays `captured_partial` (71/1).
+7. npaka CLI-vs-MCP note card is now `ready` (thread `empty`; body already on [blender-blockout-camera](../../techniques/blender-blockout-camera.md)).

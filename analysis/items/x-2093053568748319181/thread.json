@@ -29,6 +29,13 @@
       "target": "https://api.fxtwitter.com/Stefan_3D_AI/status/2093053568748319181",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-05T01:10:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Stefan_3D_AI/status/2093053568748319181",
+      "outcome": "ok",
+      "note": "amplify video 51.478 s / 1920x1080; replies 0"
     }
   ],
   "raw_payloads": [

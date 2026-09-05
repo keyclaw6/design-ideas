@@ -2,7 +2,7 @@
 
 `x-2095288402606514424` · x · article · ja · [source](https://x.com/npaka123/status/2095288402606514424) · [raw](../../../raw/items/x-2095288402606514424/)
 **Author:** Hidekazu Furukawa (@npaka123) · **Published:** — · **Captured:** 2026-09-04T06:35:54Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [blockout-to-video-flythrough](../../subjects/blockout-to-video-flythrough/brief.md) · **Also:** — · **Roles:** reference · **Platforms:** blender, mcp, claude-code
 
 **Summary.** Japanese npaka note linked from X explaining how to operate Blender with AI, comparing CLI scripting versus MCP approaches for agent-driven 3D workflows.

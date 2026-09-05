@@ -145,7 +145,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `web-vengence-ui#c2` | Install command is npx shadcn@latest add @vengeanceui/[component]. | stated | [Vengeance UI: shadcn-registry animate…](../../items/web-vengence-ui/card.md) |
 | `x-2087812720762425743#c1` | Author claims ReactBits Pro components do 90% of motion, structure, and customization work. | stated | [ReactBits Pro: restyle motion primiti…](../../items/x-2087812720762425743/card.md) |
 
-Full set: claims.jsonl (70 rows)
+Full set: claims.jsonl (72 rows)
 
 ## landing-ui-motion — comparison axes
 
@@ -194,7 +194,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## landing-ui-motion — gaps and open questions
 
-Primary readiness: ready=11, ready-with-gaps=24. Gap tags: thread-partial=8, linked-page-unfetched=6, thread-failed=1.
+Primary readiness: ready=12, ready-with-gaps=23. Gap tags: thread-partial=7, linked-page-unfetched=6, thread-failed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

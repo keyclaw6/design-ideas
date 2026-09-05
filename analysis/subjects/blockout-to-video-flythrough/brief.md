@@ -123,7 +123,7 @@ A claim is a checkable sentence with a quoted evidence span. Confidence `stated`
 | `x-2092255768770920506#c1` | Workflow covers prompt blockout, camera move animation, manual adjustment, and fast reblocking. | stated | [Higgsfield in Blender: prompt blockou…](../../items/x-2092255768770920506/card.md) |
 | `x-2092255768770920506#c2` | Feature ships via Higgsfield MCP or Supercomputer. | stated | [Higgsfield in Blender: prompt blockou…](../../items/x-2092255768770920506/card.md) |
 
-Full set: claims.jsonl (47 rows)
+Full set: claims.jsonl (48 rows)
 
 ## blockout-to-video-flythrough — comparison axes
 
@@ -168,7 +168,7 @@ Partial threads still have the first visible replies and any author continuation
 
 ## blockout-to-video-flythrough — gaps and open questions
 
-Primary readiness: ready=6, ready-with-gaps=17. Gap tags: thread-partial=7, linked-page-unfetched=4, media-undescribed=1, thread-failed=1, translation-needed=1.
+Primary readiness: ready=8, ready-with-gaps=15. Gap tags: thread-partial=5, linked-page-unfetched=4, media-undescribed=1, thread-failed=1, translation-needed=1.
 Common gap: `thread-partial` on X items. Media descriptions were written by card workers; a few videos were stored as misnamed `.jpg` and typed `video`.
 
 Open questions for the later judge:

@@ -2,7 +2,7 @@
 
 `x-2093053568748319181` · x · demo-video · en · [source](https://x.com/Stefan_3D_AI/status/2093053568748319181) · [raw](../../../raw/items/x-2093053568748319181/)
 **Author:** — (@Stefan_3D_AI) · **Published:** — · **Captured:** 2026-09-04T06:52:58Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
+**Disposition:** analyze · **Readiness:** ready · **Gaps:** —
 **Subject:** [blockout-to-video-flythrough](../../subjects/blockout-to-video-flythrough/brief.md) · **Also:** [ai-video-generation](../../subjects/ai-video-generation/brief.md) · **Roles:** technique, example · **Platforms:** other
 
 **Summary.** Practitioner notes on MiniMax Design's 3D Director Stage: block figures, walls, and camera paths in 3D before generating, but H3 still follows text prompts harder than camera references—use the stage for composition, not frame accuracy.
@@ -11,7 +11,8 @@
 **Claims.**
 - `x-2093053568748319181#c1` (capability, stated) MiniMax 3D Director Stage lets you block a scene in 3D—placing figures, walls, and a camera path—before generating video. — evidence: "MiniMax Design's 3D Director Stage lets you block the scene in actual 3D — place the figure, the walls, the camera path — and generate from that." [post]
 - `x-2093053568748319181#c2` (opinion, stated) H3 follows the text prompt harder than the camera reference, so the stage is best for composition and space rather than frame accuracy. — evidence: "H3 follows your text prompt harder than your camera reference. Stop fighting for frame accuracy and use the stage for what it's good at — composition and space." [post]
-**Numbers.** —
+- `x-2093053568748319181#c3` (availability, demonstrated) The Director Stage demo is an X amplify video 51.478 s at 1920×1080. Thread status is empty (0 replies reported). No public camera-path export in this bank. — evidence: "GET https://api.fxtwitter.com/Stefan_3D_AI/status/2093053568748319181. video duration 51.478 width 1920 height 1080. replies 0." [note]
+**Numbers.** 3D Director Stage demo duration: 51.478 seconds (note)
 **Recipe.** —
 **Techniques.** [blender-blockout-camera](../../techniques/blender-blockout-camera.md), [blender-blockout-camera](../../techniques/blender-blockout-camera.md)
 **Tools.** [minimax-3d-director](../../tools/minimax-3d-director.md)

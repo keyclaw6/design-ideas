@@ -79,10 +79,8 @@
     ],
     "legacy_filtered": false
   },
-  "readiness": "ready-with-gaps",
-  "gaps": [
-    "thread-partial"
-  ],
+  "readiness": "ready",
+  "gaps": [],
   "judge_hints": {
     "compare_with": [
       "note-blender-minimax-h3-video-generation"

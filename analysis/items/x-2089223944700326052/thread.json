@@ -48,6 +48,13 @@
       "target": "https://api.fxtwitter.com/Heylaosan/status/2089223944700326052",
       "outcome": "ok",
       "note": "reply count only; never a reply capture"
+    },
+    {
+      "at": "2026-09-05T01:10:00Z",
+      "method": "fxtwitter-api",
+      "target": "https://api.fxtwitter.com/Heylaosan/status/2089223944700326052",
+      "outcome": "ok",
+      "note": "amplify video 44.559 s / 2560x1626; replies 0"
     }
   ],
   "raw_payloads": [
