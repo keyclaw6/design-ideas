@@ -71,6 +71,16 @@
       "evidence_ref": "analysis/tools/freetoken.md",
       "confidence": "demonstrated",
       "subject": "local-inference-models"
+    },
+    {
+      "id": "x-2091150763418620133#c5",
+      "text": "arXiv 2608.16157 PDF (888,695 B; pdftotext 74,232 chars) first-party: 8GB RTX 4060 laptop serves a 35B at 39.3 tok/s (vs Codex median 33 tok/s); worst-case TTFT stays below 44 s while each baseline exceeds 150 s in at least one setting. RTX 5090: 77–83 tok/s on Qwen3.6-35B-A3B and 22–25 tok/s on DeepSeek-V4-Flash (1.5–2.3× named edge engines). Abstract (42,706 B) names 20+ models / 35B laptop / 284B desktop / 753B GLM-5.2 and does not include 39.3 or 44 s.",
+      "kind": "benchmark",
+      "evidence": "On an 8,GB RTX 4060 laptop, it serves a 35B model at 39.3 tok/s, exceeding the 33 tok/s median decode speed of Codex. FreeToken’s worst turn stays below 44 s in every cell. analysis/_work/captures/freetoken-arxiv-2608.16157-extract.txt",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/freetoken.md",
+      "confidence": "demonstrated",
+      "subject": "local-inference-models"
     }
   ],
   "recipe_steps": [],
@@ -92,6 +102,18 @@
       "value": "499",
       "unit": "files",
       "source": "note"
+    },
+    {
+      "label": "paper 4060 laptop 35B decode",
+      "value": "39.3",
+      "unit": "tok/s",
+      "source": "note"
+    },
+    {
+      "label": "paper worst-case TTFT",
+      "value": "44",
+      "unit": "seconds",
+      "source": "note"
     }
   ],
   "techniques": [
@@ -104,9 +126,11 @@
   "links": {
     "canonical": "https://x.com/akshay_pachaar/status/2091150763418620133",
     "repo": "https://github.com/FlashML-org/FreeToken",
-    "paper": "https://arxiv.org/pdf/2608.16157",
+    "paper": "https://arxiv.org/abs/2608.16157",
     "product": null,
-    "other": [],
+    "other": [
+      "https://arxiv.org/pdf/2608.16157"
+    ],
     "related_items": [
       "x-2087240056037908509",
       "x-2087562269807030754",
@@ -131,7 +155,9 @@
     "legacy_filtered": true
   },
   "readiness": "ready-with-gaps",
-  "gaps": [],
+  "gaps": [
+    "thread-partial"
+  ],
   "judge_hints": {
     "compare_with": [
       "x-2087240056037908509",

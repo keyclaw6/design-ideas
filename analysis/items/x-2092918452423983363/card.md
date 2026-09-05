@@ -2,7 +2,7 @@
 
 `x-2092918452423983363` · x · article · en · [source](https://x.com/femke_plantinga/status/2092918452423983363) · [raw](../../../raw/items/x-2092918452423983363/)
 **Author:** femke_plantinga (@femke_plantinga) · **Published:** — · **Captured:** 2026-09-04T08:04:12Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [agent-memory-knowledge](../../subjects/agent-memory-knowledge/brief.md) · **Also:** — · **Roles:** reference, claim-source · **Platforms:** browser
 
 **Summary.** Slite thread and free ebook survey nine company-brain implementations — GBrain, mem0, Letta, Zep/Graphiti, Sylph, DIY git markdown, Pletor, Gorgias Cortex, Slite Agent — arguing each shares four parts: signals, memory, dreaming/pruning, and search/speech.

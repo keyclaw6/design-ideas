@@ -1,0 +1,34 @@
+pdftotext -layout of https://arxiv.org/pdf/2608.16157.pdf (888695 PDF bytes, 73914 text chars)
+
+24:                                             these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming
+25:                                             desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into
+54:                                         for example, activates 6 of 256 routed experts in each of its 43 layers, so only 13B of its 284B parameters
+85:                                        10                    10                   10                            Qwen3.6-35B       DSV4-Flash 284B   GLM-5.2 753B
+95:(594 GB); Qwen3.5-35B stands in for its successor Qwen3.6-35B, which has no arena rating yet. (b) Mean decode
+98:speed of Codex in production traces (33 tok/s (Zhu et al., 2026)); × marks configurations an engine cannot serve.
+154:Qwen3.6-35B-A3B, DeepSeek-V4-Flash, and GLM-5.2; six machines spanning from an 8 GB RTX 4060 laptop
+156:Ollama, KTransformers, and MoE-Infinity. Specifically, on an RTX 5090, FreeToken sustains 77–83 tok/s on
+157:Qwen3.6-35B-A3B and 22–25 tok/s on DeepSeek-V4-Flash, achieving 1.5–2.3x higher decode throughput than
+161:worst-case TTFT below 44 s across every workload, whereas each baseline exceeds 150 s in at least one setting,
+163:throughput by 1.3–2.1x. On an 8,GB RTX 4060 laptop, it serves a 35B model at 39.3 tok/s, exceeding the
+164:33 tok/s median decode speed of Codex. On a 32,GB gaming desktop, it serves a 284B model interactively. On
+165:a single RTX PRO 6000 workstation GPU, it serves the 753B GLM-5.2 at twice the throughput of llama.cpp.
+204:recurrent layers (e.g., gated DeltaNet (Yang et al., 2024b) in Qwen3.6-35B-A3B and Kimi Delta Attention (Kimi
+536:Models.   Two MoE models: DeepSeek-V4-Flash (284B parameters, 13B active) (DeepSeek-AI, 2026), served
+537:from the official checkpoint whose routed experts are natively MXFP4-quantized, and Qwen3.6-35B-A3B (Qwen
+539:NVFP4 release (NVIDIA, 2026b) instead). The cross-hardware study adds GLM-5.2 (Z.ai, 2026) (753B
+578:Decode throughput.    FreeToken sustains 77–83 tok/s on Qwen3.6 and 22–25 tok/s on DSV4-Flash, 1.8–2.3×
+587:the engines more sharply than the means: FreeToken’s worst turn stays below 44 s in every cell, while each
+600:                             Qwen3.6-35B-A3B (BF16)                                            DeepSeek-V4-Flash (MXFP4)
+632:Code+SWE, 4.OpenClaw+Email/Cal) and two models (Qwen3.6-35B-A3B BF16 and DeepSeek-V4-Flash MXFP4).
+655:2.1× on the 5090 desktop, and 1.8× on the RTX 4060 laptop, where the NVFP4 build sustains 39.3 tok/s on
+660:14.9 tok/s against llama.cpp’s 7.3 (2.0×) with bit-identical expert weights and comparable mean TTFT (7.5
+662:753 GB–1.5 TB of host-resident experts against 512 GiB of host memory, and its CPU kernels do not read
+671:                                                                                                         Qwen3.6-35B                        DeepSeek-V4-Flash
+697:Figure 4 (a) Prefill TPS versus prompt length (RTX 5090, Qwen3.6-35B BF16), with and without FreeToken’s pipelined
+757:Figure 5 Coding-agent decode TPS across consumer GPUs (SWE issues via the OpenCode harness), Qwen3.6-35B-A3B.
+759:GLM-5.2 (753B-A40B, NVFP4) on the math workload; Ollama is not run there. × marks configurations an engine
+793:hardware from an 8 GB laptop GPU to a workstation GPU, enabling models from 35B to 753B parameters
+856:NVIDIA.   Qwen3.6-35B-A3B-NVFP4.              NVFP4 model checkpoint,        https://huggingface.co/nvidia/Qwen3.
+857: 6-35B-A3B-NVFP4, 2026b.
+867:Qwen Team. Qwen3.6-35B-A3B. Model checkpoint, https://huggingface.co/Qwen/Qwen3.6-35B-A3B, 2026.

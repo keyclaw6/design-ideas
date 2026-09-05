@@ -57,6 +57,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "x-2094162743985308047#c4",
+      "text": "https://www.frontal.so/blog GET 200 / 52,962 B. Index copy does not contain the tweet’s 3× / 1,000 meetings / 5–11% integers. Visible posts include a 100,000+ LinkedIn DMs piece and Clay-agency roundups — different numbers, still no property + date window for the tweet claims.",
+      "kind": "counter-claim",
+      "evidence": "GET 200 / 52,962 B title Blog: Frontal. No 3x / 1,000 meetings / 5–11 on the index. analysis/_work/captures/2026-09-05-mustread-retry.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/clay.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "recipe_steps": [],
@@ -134,7 +144,9 @@
     "legacy_filtered": true
   },
   "readiness": "ready-with-gaps",
-  "gaps": [],
+  "gaps": [
+    "thread-partial"
+  ],
   "judge_hints": {
     "compare_with": [
       "x-2095060844547592437",

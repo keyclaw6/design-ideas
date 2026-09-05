@@ -1,0 +1,218 @@
+{
+  "brave_submit": {
+    "ok": false,
+    "status": 429,
+    "final": "https://search.brave.com/submit-url",
+    "bytes": 73802,
+    "ctype": "text/html; charset=utf-8",
+    "error": "HTTP Error 429: Too Many Requests",
+    "name": "brave_submit",
+    "url": "https://search.brave.com/submit-url",
+    "title": "Brave Search"
+  },
+  "brave_help": {
+    "ok": false,
+    "status": 429,
+    "final": "https://search.brave.com/help/submit-url",
+    "bytes": 2404,
+    "ctype": "text/html; charset=utf-8",
+    "error": "HTTP Error 429: Too Many Requests",
+    "name": "brave_help",
+    "url": "https://search.brave.com/help/submit-url",
+    "title": "Request refused - Brave Search"
+  },
+  "designmd_me": {
+    "ok": false,
+    "status": 429,
+    "final": "https://designmd.me",
+    "bytes": 32188,
+    "ctype": "text/html; charset=utf-8",
+    "error": "HTTP Error 429: Too Many Requests",
+    "name": "designmd_me",
+    "url": "https://designmd.me",
+    "title": "Vercel Security Checkpoint"
+  },
+  "designmd_supply": {
+    "ok": false,
+    "status": 429,
+    "final": "https://designmd.supply",
+    "bytes": 32184,
+    "ctype": "text/html; charset=utf-8",
+    "error": "HTTP Error 429: Too Many Requests",
+    "name": "designmd_supply",
+    "url": "https://designmd.supply",
+    "title": "Vercel Security Checkpoint"
+  },
+  "typeui": {
+    "ok": false,
+    "status": 429,
+    "final": "https://typeui.sh",
+    "bytes": 32188,
+    "ctype": "text/html; charset=utf-8",
+    "error": "HTTP Error 429: Too Many Requests",
+    "name": "typeui",
+    "url": "https://typeui.sh",
+    "title": "Vercel Security Checkpoint"
+  },
+  "designmd_app": {
+    "ok": true,
+    "status": 200,
+    "final": "https://designmd.app",
+    "bytes": 75632,
+    "ctype": "text/html; charset=utf-8",
+    "name": "designmd_app",
+    "url": "https://designmd.app",
+    "title": "DESIGN.md \u2014 562 Design System Files for AI Coding Agents"
+  },
+  "freetoken_abs": {
+    "ok": true,
+    "status": 200,
+    "final": "https://arxiv.org/abs/2608.16157",
+    "bytes": 42706,
+    "ctype": "text/html; charset=utf-8",
+    "name": "freetoken_abs",
+    "url": "https://arxiv.org/abs/2608.16157",
+    "title": "[2608.16157] FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+    "abstract": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at this http URL ."
+  },
+  "refero_p1": {
+    "ok": true,
+    "status": 200,
+    "final": "https://styles.refero.design/api/styles?page=1",
+    "bytes": 30060,
+    "ctype": "application/json",
+    "name": null,
+    "url": "https://styles.refero.design/api/styles?page=1",
+    "title": null,
+    "keys": [
+      "styles",
+      "nextCursor",
+      "nextPage"
+    ],
+    "tag": null
+  },
+  "refero_p65": {
+    "ok": true,
+    "status": 200,
+    "final": "https://styles.refero.design/api/styles?page=65",
+    "bytes": 12687,
+    "ctype": "application/json",
+    "name": null,
+    "url": "https://styles.refero.design/api/styles?page=65",
+    "title": null,
+    "keys": [
+      "styles",
+      "nextCursor",
+      "nextPage"
+    ],
+    "tag": null
+  },
+  "refero_p66": {
+    "ok": true,
+    "status": 200,
+    "final": "https://styles.refero.design/api/styles?page=66",
+    "bytes": 47,
+    "ctype": "application/json",
+    "name": null,
+    "url": "https://styles.refero.design/api/styles?page=66",
+    "title": null,
+    "keys": [
+      "styles",
+      "nextCursor",
+      "nextPage"
+    ],
+    "tag": null
+  },
+  "impeccable_rel": {
+    "ok": true,
+    "status": 200,
+    "final": "https://api.github.com/repos/pbakaus/impeccable/releases?per_page=5",
+    "bytes": 40988,
+    "ctype": "application/json; charset=utf-8",
+    "name": "impeccable_rel",
+    "url": "https://api.github.com/repos/pbakaus/impeccable/releases?per_page=5",
+    "title": null,
+    "n": 5,
+    "preview": [
+      {
+        "tag": "skill-v4.2.0",
+        "name": "Skill 4.2.0",
+        "published": "2026-09-04T20:28:37Z"
+      },
+      {
+        "tag": "ext-v1.4.0",
+        "name": "Extension 1.4.0",
+        "published": "2026-09-04T20:30:03Z"
+      },
+      {
+        "tag": "engine-v0.1.0",
+        "name": "impeccable engine engine-v0.1.0",
+        "published": "2026-09-04T17:26:05Z"
+      },
+      {
+        "tag": "cli-v4.0.1",
+        "name": "CLI 4.0.1",
+        "published": "2026-09-04T22:00:53Z"
+      },
+      {
+        "tag": "cli-v4.0.0",
+        "name": "CLI 4.0.0",
+        "published": "2026-09-04T20:29:05Z"
+      }
+    ]
+  },
+  "impeccable_latest": {
+    "ok": true,
+    "status": 200,
+    "final": "https://api.github.com/repos/pbakaus/impeccable/releases/latest",
+    "bytes": 2187,
+    "ctype": "application/json; charset=utf-8",
+    "name": "CLI 4.0.1",
+    "url": "https://api.github.com/repos/pbakaus/impeccable/releases/latest",
+    "title": null,
+    "keys": [
+      "url",
+      "assets_url",
+      "upload_url",
+      "html_url",
+      "id",
+      "author",
+      "node_id",
+      "tag_name",
+      "target_commitish",
+      "name",
+      "draft",
+      "immutable",
+      "prerelease",
+      "created_at",
+      "updated_at",
+      "published_at",
+      "assets",
+      "tarball_url",
+      "zipball_url",
+      "body"
+    ],
+    "tag": "cli-v4.0.1"
+  },
+  "cult_oss": {
+    "ok": false,
+    "status": 429,
+    "final": "https://www.cult-ui.com",
+    "bytes": 32177,
+    "ctype": "text/html; charset=utf-8",
+    "error": "HTTP Error 429: Too Many Requests",
+    "name": "cult_oss",
+    "url": "https://www.cult-ui.com",
+    "title": "Vercel Security Checkpoint"
+  },
+  "frontal_blog": {
+    "ok": true,
+    "status": 200,
+    "final": "https://www.frontal.so/blog",
+    "bytes": 52962,
+    "ctype": "text/html",
+    "name": "frontal_blog",
+    "url": "https://www.frontal.so/blog",
+    "title": "Blog: Frontal"
+  }
+}

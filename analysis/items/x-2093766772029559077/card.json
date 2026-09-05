@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/styles-refero-design.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "x-2093766772029559077#c4",
+      "text": "Live paged GET /api/styles (styles[] key) still returns 1,289 unique style ids / 1,241 unique siteNames (20/page through page 64, 10 on page 65, empty page 66). Marketing 2,000+ stays above this public API. Records are gallery JSON, not a DESIGN.md tree.",
+      "kind": "counter-claim",
+      "evidence": "pages 1–65; empty page 66 {\"styles\":[],\"nextCursor\":null}. analysis/_work/captures/2026-09-05-refero-recount.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/styles-refero-design.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -69,6 +79,12 @@
       "label": "Linear designSystem HTTP body",
       "value": "81180",
       "unit": "bytes",
+      "source": "note"
+    },
+    {
+      "label": "public API unique style ids",
+      "value": "1289",
+      "unit": null,
       "source": "note"
     }
   ],
@@ -107,7 +123,9 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [],
+  "gaps": [
+    "thread-partial"
+  ],
   "judge_hints": {
     "compare_with": [
       "web-styles-refero-design",

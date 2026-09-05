@@ -116,7 +116,9 @@
     "legacy_filtered": false
   },
   "readiness": "ready-with-gaps",
-  "gaps": [],
+  "gaps": [
+    "thread-partial"
+  ],
   "judge_hints": {
     "compare_with": [
       "x-2086920236079681607",

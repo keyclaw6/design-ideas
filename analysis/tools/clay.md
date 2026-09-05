@@ -15,4 +15,6 @@ First-party case studies that *are* on frontal.so this pass:
 - Aircall (`/case-studies/aircall`): **3,655 accounts** into a self-refreshing TAM in 6 months; Salesforce · Clay; 501–1,000 employees.
 
 GTM blog (`/blog/go-to-market-strategy-framework-2026`): 100 rules. Aggregated reply-rate copy: “good” 5–10%; average 3.4–5.8%; under-50-recipient campaigns 5.8% vs 1,000+ blasts 2.1%. That is **not** the tweet’s 5–11% signal range. Do not collapse tweet and case-study integers.
+
+**2026-09-05 capture — `/blog` index.** `GET https://www.frontal.so/blog` **200 / 52,962 B**. No 3× / 1,000 meetings / 5–11% on the index. Visible posts include “100,000+ DMs” LinkedIn outreach and Clay-agency roundups. Receipt `analysis/_work/captures/2026-09-05-mustread-retry.json`.
 <!-- NOTES:END -->

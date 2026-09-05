@@ -41,6 +41,6 @@ Later lane. Owner aliases: local LLM, GGUF, FreeToken. Gateway “now live” po
 
 ## local-inference-models — next capture work
 
-1. Paper tok/s/TTFT + clone file count are on the tool NOTES. Remaining: one `profile` on a real GPU (none here).
+1. Paper PDF body is now on the must-read card `#c5` ([freetoken](../../tools/freetoken.md)): **39.3 tok/s** / **<44 s** TTFT / 5090 **77–83** and **22–25**. Abs still omits those two integers. Remaining: one `profile` on a real GPU (none here).
 2. Unsloth `Qwen3.8-27B-GGUF` is **apache-2.0**; Q4_0 file **16.06 GB**; UD-IQ1_S **6.19 GB**. Filenames + sizes on [unsloth](../../tools/unsloth.md). Remaining: a local load timing those envelopes.
 3. Leave Edge8 / Bonsai as device research until weights are linked.

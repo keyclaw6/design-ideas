@@ -2,7 +2,7 @@
 
 `x-2093766772029559077` · x · product · en · [source](https://x.com/Voxyz_ai/status/2093766772029559077) · [raw](../../../raw/items/x-2093766772029559077/)
 **Author:** — (@@Voxyz_ai) · **Published:** — · **Captured:** 2026-09-04T07:52:38Z
-**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** —
+**Disposition:** analyze · **Readiness:** ready-with-gaps · **Gaps:** thread-partial
 **Subject:** [design-agent-skills](../../subjects/design-agent-skills/brief.md) · **Also:** — · **Roles:** tool, reference · **Platforms:** codex, cursor, cli
 
 **Summary.** X post promoting styles.refero.design: over 2000 DESIGN.md files encoding colors, typography, spacing, and component rules from products like Linear and Notion. Agents read a file to align or rebuild UI to a chosen design language.
@@ -13,7 +13,8 @@
 - `x-2093766772029559077#c2` (availability, stated) Free library hosted at styles.refero.design for Codex and Claude Code. — evidence: "The library is currently free to use:
 https://styles.refero.design/" [post]
 - `x-2093766772029559077#c3` (capability, demonstrated) Refero Linear record is a JSON designSystem (16 colors, 12 components, Agent Prompt Guide), not a downloadable DESIGN.md file. — evidence: "GET /api/styles/90ce5883-bb24-4466-93f7-801cd617b0d1 HTTP 200, 81180 bytes; fullResult.designSystem has dos/donts/colors/components/customSections; no .md attachment." [note]
-**Numbers.** Linear designSystem HTTP body: 81180 bytes (note)
+- `x-2093766772029559077#c4` (counter-claim, demonstrated) Live paged GET /api/styles (styles[] key) still returns 1,289 unique style ids / 1,241 unique siteNames (20/page through page 64, 10 on page 65, empty page 66). Marketing 2,000+ stays above this public API. Records are gallery JSON, not a DESIGN.md tree. — evidence: "pages 1–65; empty page 66 {"styles":[],"nextCursor":null}. analysis/_work/captures/2026-09-05-refero-recount.json" [note]
+**Numbers.** Linear designSystem HTTP body: 81180 bytes (note); public API unique style ids: 1289  (note)
 **Recipe.** —
 **Techniques.** —
 **Tools.** [styles-refero-design](../../tools/styles-refero-design.md)
