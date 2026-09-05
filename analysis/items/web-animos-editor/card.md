@@ -11,11 +11,12 @@
 **Claims.**
 - `web-animos-editor#c1` (capability, stated) Editor offers 25 animation templates with in-browser MP4 or WebM export. — evidence: "25 ready-made animation templates — drop in images or videos, tweak, and export MP4/WebM in your browser" [linked-page]
 - `web-animos-editor#c2` (capability, stated) Output is raster video rather than Lottie or CSS animation. — evidence: "Output is raster video, not Lottie/CSS — complementary to LottieFiles and motion-anything." [linked-page]
+- `web-animos-editor#c3` (availability, demonstrated) leftover27 unused animos.app 2,864 B titles animos — Motion templates; visible-text extract is empty (thin client shell). leftover27 does not open the editor or export a template. — evidence: "leftover27 animos 2864 B. Title: animos — Motion templates." [note]
 **Numbers.** motion templates: 25  (linked-page)
 **Recipe.** —
 **Techniques.** [remotion-code-video](../../techniques/remotion-code-video.md)
 **Tools.** [animos-editor](../../tools/animos-editor.md)
-**Links.** product (https://animos.app/editor), https://animos.app/
+**Links.** product (https://animos.app/editor), https://animos.app/, https://animos.app
 **Related items.** [web-lottiefiles](../web-lottiefiles/card.md), [github-nexu-io-html-video](../github-nexu-io-html-video/card.md), [github-nexu-io-motion-anything](../github-nexu-io-motion-anything/card.md), [web-tinyshots](../web-tinyshots/card.md), [web-fal-ai](../web-fal-ai/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1a1a1c" />
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f4f4f2" />
+    <!-- Default to the production root; the router (usePathRoute in App.tsx) rewrites this
+         to the current path on navigation so Google's renderer sees a per-route canonical. -->
+    <link rel="canonical" id="canonical-link" href="https://feralui.dev/" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <title>FeralUI · playful, physics-driven React elements</title>
+    <meta
+      name="description"
+      content="A small library of playful, physics-driven React elements: a ceiling pull-cord with a real Verlet rope, a claw-machine captcha, and more."
+    />
+    <meta name="author" content="Sarthak Navalekar" />
+
+    <!-- Open Graph / Twitter card. This is a client-rendered SPA, so JS-less social crawlers
+         get this static head for every route and preview this one root card until per-route
+         prerendering lands. og:image must be an absolute URL. -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://feralui.dev/" />
+    <meta property="og:title" content="FeralUI · playful, physics-driven React elements" />
+    <meta
+      property="og:description"
+      content="A small library of playful, physics-driven React elements: a ceiling pull-cord with a real Verlet rope, a claw-machine captcha, and more."
+    />
+    <meta property="og:image" content="https://feralui.dev/og-hero.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FeralUI · playful, physics-driven React elements" />
+    <meta
+      name="twitter:description"
+      content="A small library of playful, physics-driven React elements: a ceiling pull-cord with a real Verlet rope, a claw-machine captcha, and more."
+    />
+    <meta name="twitter:image" content="https://feralui.dev/og-hero.png" />
+
+    <!-- Google AdSense -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7193468290380703"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Google tag (gtag.js). Client-side route changes need no extra wiring: navigate() in
+         App.tsx pushes history state, and GA4's Enhanced Measurement tracks page views on
+         browser history events, so each route is counted once. Do not also fire page_view
+         manually from the router or every navigation is counted twice. -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-D27R6HYC89"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-D27R6HYC89');
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Caveat + Quicksand weights here too (not just @600/Inter) so DeskFolio's handwriting/round
+         faces load in parallel at first paint instead of late via deskfolio.css's @import — that late
+         fetch caused a visible reflow when opening the DeskFolio page. The @import stays for the
+         standalone component; once these are cached it's a free hit. -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..500&family=Inter:opsz,wght@14..32,400..900&family=Quicksand:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Structured data: describes the site and enumerates the real components so search
+         engines understand what each route is. Keep in sync with HOME_ENTRIES in App.tsx. -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://feralui.dev/#website",
+            "url": "https://feralui.dev/",
+            "name": "FeralUI",
+            "description": "A small library of playful, physics-driven React elements: a ceiling pull-cord with a real Verlet rope, a claw-machine captcha, and more.",
+            "inLanguage": "en",
+            "author": { "@id": "https://feralui.dev/#author" }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://feralui.dev/#author",
+            "name": "Sarthak Navalekar",
+            "alternateName": "mortspace",
+            "url": "https://github.com/mortspace",
+            "sameAs": [
+              "https://www.linkedin.com/in/sarthak-navalekar/",
+              "https://github.com/mortspace",
+              "https://www.npmjs.com/~moratspace",
+              "https://x.com/SolutionB2u",
+              "https://dribbble.com/Solution-B"
+            ]
+          },
+          {
+            "@type": "ItemList",
+            "name": "FeralUI components",
+            "itemListOrder": "https://schema.org/ItemListUnordered",
+            "itemListElement": [
+              { "@type": "ListItem", "position": 1, "url": "https://feralui.dev/pullcord", "name": "PullCord", "description": "A cloth cord that really hangs. Pull it to switch the lights." },
+              { "@type": "ListItem", "position": 2, "url": "https://feralui.dev/captcha", "name": "ClawCaptcha", "description": "Prove you are human by winning the claw machine." },
+              { "@type": "ListItem", "position": 3, "url": "https://feralui.dev/gradients", "name": "Gradient Builder", "description": "Soft gradients blended from traditional Japanese colours." },
+              { "@type": "ListItem", "position": 4, "url": "https://feralui.dev/scenes", "name": "Screenery", "description": "A shelf of finished app screens, each with a signature move." },
+              { "@type": "ListItem", "position": 5, "url": "https://feralui.dev/deskfolio", "name": "DeskFolio", "description": "A little book that blooms open and turns pages on a spring." },
+              { "@type": "ListItem", "position": 6, "url": "https://feralui.dev/blob", "name": "Blob", "description": "A squishy jelly mascot that reacts inside a log-out modal." },
+              { "@type": "ListItem", "position": 7, "url": "https://feralui.dev/animaps", "name": "AniMaps", "description": "Animated route maps you can export and share." },
+              { "@type": "ListItem", "position": 8, "url": "https://feralui.dev/fur", "name": "Fur", "description": "A pettable coat of fur, painted strand by strand." },
+              { "@type": "ListItem", "position": 9, "url": "https://feralui.dev/vacuum", "name": "Vacuum", "description": "Select a few tiles and a vacuum sucks them up the hose." },
+              { "@type": "ListItem", "position": 10, "url": "https://feralui.dev/crumple", "name": "Crumple", "description": "Notes crumple into paper balls and drop in the basket." },
+              { "@type": "ListItem", "position": 11, "url": "https://feralui.dev/hologram", "name": "Hologram", "description": "A foil Pokemon card that catches the light as you tilt it." },
+              { "@type": "ListItem", "position": 12, "url": "https://feralui.dev/matchday", "name": "Matchday", "description": "Letterboxd for football. Rate matches in half-stars." }
+            ]
+          }
+        ]
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index-C0foc5zL.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BsdsdUnN.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Static content fallback. This is a client-rendered SPA, so crawlers that do not run
+         JavaScript (most AI/LLM crawlers and social link-preview bots) would otherwise see an
+         empty root. This mirrors the home page so they get real, citable text. Keep the list
+         in sync with HOME_ENTRIES in src/App.tsx. -->
+    <noscript>
+      <main>
+        <h1>FeralUI</h1>
+        <p>A small library of playful, physics-driven React elements.</p>
+        <p>
+          FeralUI is a showcase of interactive UI components and experiments: real physics,
+          hand-tuned animation, and a bit of whimsy, built in React and TypeScript.
+          Each component below is a self-contained demo at its own address.
+        </p>
+        <ul>
+          <li><a href="/pullcord"><strong>PullCord</strong></a>: A cloth cord that really hangs. Pull it to switch the lights.</li>
+          <li><a href="/captcha"><strong>ClawCaptcha</strong></a>: Prove you are human by winning the claw machine.</li>
+          <li><a href="/gradients"><strong>Gradient Builder</strong></a>: Soft gradients blended from traditional Japanese colours.</li>
+          <li><a href="/scenes"><strong>Screenery</strong></a>: A shelf of finished app screens, each with a signature move.</li>
+          <li><a href="/deskfolio"><strong>DeskFolio</strong></a>: A little book that blooms open and turns pages on a spring.</li>
+          <li><a href="/blob"><strong>Blob</strong></a>: A squishy jelly mascot that reacts inside a log-out modal.</li>
+          <li><a href="/animaps"><strong>AniMaps</strong></a>: Animated route maps you can export and share.</li>
+          <li><a href="/fur"><strong>Fur</strong></a>: A pettable coat of fur, painted strand by strand.</li>
+          <li><a href="/vacuum"><strong>Vacuum</strong></a>: Select a few tiles and a vacuum sucks them up the hose.</li>
+          <li><a href="/crumple"><strong>Crumple</strong></a>: Notes crumple into paper balls and drop in the basket.</li>
+          <li><a href="/hologram"><strong>Hologram</strong></a>: A foil Pokemon-style card that catches the light as you tilt it.</li>
+          <li><a href="/matchday"><strong>Matchday</strong></a>: Letterboxd for football. Rate matches in half-stars.</li>
+        </ul>
+        <p>Designed and built by <a href="https://github.com/mortspace">mortspace</a>.</p>
+      </main>
+    </noscript>
+  </body>
+</html>

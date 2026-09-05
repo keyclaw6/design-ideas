@@ -13,6 +13,7 @@
 - `github-cathrynlavery-diagram-design#c2` (capability, stated) Diagrams ship as self-contained HTML and SVG with minimal light, dark, and editorial variants. — evidence: "Self-contained HTML + SVG. No shadows, no Mermaid slop." [linked-page]
 - `github-cathrynlavery-diagram-design#c3` (recipe, stated) Install uses the diagram-design plugin marketplace commands. — evidence: "/plugin marketplace add cathrynlavery/diagram-design" [linked-page]
 - `github-cathrynlavery-diagram-design#c4` (benchmark, demonstrated) A 2026-09-04 clone has exactly 39 type-*.md files matching the README type count; example HTML also includes extra stems (beeswarm, ridgeline, slopegraph) that are not extra types. — evidence: "39 files under skills/diagram-design/references/type-*.md; 155 example-*.html including extra stems without type docs" [note]
+- `github-cathrynlavery-diagram-design#c5` (counter-claim, demonstrated) leftover27 unused littlemight.com 61,395 B is Business & life strategies for ambitious millennials — not a diagram-design tool, not Cathryn Lavery's library, and not an infographic renderer. Treat littlemight.com as a leftover host-string collision, not as diagram-design evidence. — evidence: "leftover27 littlemight 61395 B. Quote: Business & life strategies for ambitious millennials." [note]
 **Numbers.** type-*.md files: 39  (note)
 **Recipe.** —
 **Techniques.** [svg-infographic-rendering](../../techniques/svg-infographic-rendering.md), [svg-infographic-rendering](../../techniques/svg-infographic-rendering.md)

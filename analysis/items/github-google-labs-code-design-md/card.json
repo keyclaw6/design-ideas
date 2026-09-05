@@ -60,6 +60,16 @@
       "evidence_ref": "analysis/tools/getdesign-md.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-google-labs-code-design-md#c4",
+      "text": "leftover27 unused stitch.withgoogle.com/docs/design-md/specification 25,497 B titles Stitch - Design with AI. Visible-text extract is empty (client-rendered Stitch docs SPA); the dump does not expose DesignMD spec headings, schema fields, or version integers. Does not close a logged-in Stitch workspace walkthrough.",
+      "kind": "availability",
+      "evidence": "leftover27 stitch-designmd-spec 25497 B. Title: Stitch - Design with AI.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getdesign-md.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -76,7 +86,9 @@
     "repo": "https://github.com/google-labs-code/design.md",
     "paper": null,
     "product": "https://stitch.withgoogle.com/docs/design-md/specification",
-    "other": [],
+    "other": [
+      "https://stitch.withgoogle.com/docs/design-md/specification"
+    ],
     "related_items": [
       "web-getdesign-md",
       "web-sokosumi-design-md",

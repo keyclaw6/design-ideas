@@ -11,11 +11,12 @@
 **Claims.**
 - `web-chatgpt-training#c1` (capability, stated) OpenAI defines plugins as new capabilities and skills as how you want them done. — evidence: "Plugins = new capabilities; skills = how you want them done" [linked-page]
 - `web-chatgpt-training#c2` (availability, stated) Training hub ships two hands-on labs (Work planning, Codex first code change) and six ordered walkthroughs. — evidence: "Hands-on labs ... Walkthroughs (6)" [linked-page]
+- `web-chatgpt-training#c3` (availability, demonstrated) leftover27 unused learn.chatgpt.com/training 305,746 B lists ChatGPT Training walkthroughs for ChatGPT (Work) and Codex. leftover27 does not complete a signed-in training module or export a completion receipt. — evidence: "leftover27 chatgpt-training 305746 B. Work + Codex walkthroughs." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** —
-**Links.** product (https://learn.chatgpt.com/training), https://learn.chatgpt.com/llms.txt, https://learn.chatgpt.com/docs/llms-full.txt, https://learn.chatgpt.com/docs/build-skills.md, https://academy.openai.com/home/events
+**Links.** product (https://learn.chatgpt.com/training), https://learn.chatgpt.com/llms.txt, https://learn.chatgpt.com/docs/llms-full.txt, https://learn.chatgpt.com/docs/build-skills.md, https://academy.openai.com/home/events, https://learn.chatgpt.com/training
 **Related items.** [web-blume-codes](../web-blume-codes/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [web-anthropic-claude-self-service-data](../web-anthropic-claude-self-service-data/card.md), [github-emilkowalski-skills](../github-emilkowalski-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

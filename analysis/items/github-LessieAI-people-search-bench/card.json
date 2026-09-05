@@ -23,7 +23,7 @@
   "id": "github-LessieAI-people-search-bench",
   "source_type": "github",
   "url": "https://github.com/LessieAI/people-search-bench",
-  "title": "People Search Bench — open eval for AI people-search agents",
+  "title": "People Search Bench \u2014 open eval for AI people-search agents",
   "author": {
     "name": "LessieAI",
     "handle": null,
@@ -67,6 +67,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "outbound-gtm-agents"
+    },
+    {
+      "id": "github-LessieAI-people-search-bench#c3",
+      "text": "leftover27 unused lessie.ai 1,469,320 B homepage comparison table claims Lessie 65.2, Exa 55, Claude 46, Juicebox 45.8 on 119 queries. leftover23 already folded arXiv abs/2603.27476 PeopleSearchBench 119 queries / four scenarios / \u03ba=0.84 and does not name treg #1. Do not collapse this homepage 65.2 score with treg #1 or with the abs paper's scenario table. leftover27 does not rerun those 119 queries.",
+      "kind": "benchmark",
+      "evidence": "leftover27 lessie-ai 1469320 B. Homepage 65.2 / Exa 55 / Claude 46 / Juicebox 45.8 on 119 queries.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/lessie.md",
+      "confidence": "demonstrated",
+      "subject": "outbound-gtm-agents"
     }
   ],
   "links": {
@@ -75,7 +85,8 @@
     "paper": "https://arxiv.org/abs/2603.27476",
     "product": "https://lessie.ai",
     "other": [
-      "https://treg.to/people-search"
+      "https://treg.to/people-search",
+      "https://lessie.ai"
     ],
     "related_items": [
       "web-arxiv-2603-27476",

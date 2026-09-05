@@ -47,6 +47,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-feralui-dev#c3",
+      "text": "leftover27 unused feralui.dev 10,527 B titles FeralUI \u00b7 playful, physics-driven React elements; visible-text extract is empty (thin marketing shell). leftover27 does not install the package or render a physics element.",
+      "kind": "availability",
+      "evidence": "leftover27 feralui 10527 B. Title: FeralUI \u00b7 playful, physics-driven React elements.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/feralui.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "numbers": [
@@ -68,7 +78,9 @@
     "repo": "https://github.com/mortspace/feral-blob",
     "paper": null,
     "product": "https://feralui.dev/",
-    "other": [],
+    "other": [
+      "https://feralui.dev"
+    ],
     "related_items": [
       "web-originkit-dev",
       "web-vengence-ui",

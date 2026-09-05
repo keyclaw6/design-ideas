@@ -61,6 +61,16 @@
       "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
       "confidence": "demonstrated",
       "subject": "image-prompt-galleries"
+    },
+    {
+      "id": "github-youmind-openlab-nano-banana-pro-prompts#c4",
+      "text": "leftover27 unused youmind.com/nano-banana-pro-prompts 1,244,866 B titles 10,000+ prompts; footer visible text says TOTAL 15,508. Do not collapse title 10,000+, footer 15,508, and any 30,000+ repo copy into one inventory. leftover27 does not download the prompt set.",
+      "kind": "availability",
+      "evidence": "leftover27 youmind-nano 1244866 B. Title 10000+; footer TOTAL 15508.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/nano-banana-pro-prompts-recommend.md",
+      "confidence": "demonstrated",
+      "subject": "image-prompt-galleries"
     }
   ],
   "recipe_steps": null,
@@ -104,7 +114,8 @@
     "paper": null,
     "product": "https://youmind.com/nano-banana-pro-prompts",
     "other": [
-      "https://clawhub.com/skill/nano-banana-pro-prompts-recommend"
+      "https://clawhub.com/skill/nano-banana-pro-prompts-recommend",
+      "https://youmind.com/nano-banana-pro-prompts"
     ],
     "related_items": [
       "github-wuyoscar-gpt-image2-skill",

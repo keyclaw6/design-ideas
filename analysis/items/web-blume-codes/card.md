@@ -10,11 +10,12 @@
 
 **Claims.**
 - `web-blume-codes#c1` (capability, stated) Sidecar monitors Codex, Claude Code, and Cursor hidden rules/skills/hooks locally. — evidence: "Desktop sidecar that watches multiple agent harnesses (Codex, Claude Code, Cursor), tracks hidden config files (rules, skills, hooks)" [linked-page]
+- `web-blume-codes#c2` (availability, demonstrated) leftover27 unused careers.blume.codes 51,037 B is Teamtailor listing Head of Growth and Founding Engineer and says the company was founded in 2025. leftover27 does not apply or confirm headcount beyond those two open roles. — evidence: "leftover27 blume-careers 51037 B. Head of Growth + Founding Engineer; founded 2025." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** [blume-sidecar](../../tools/blume-sidecar.md)
-**Links.** product (https://blume.codes), https://careers.blume.codes/
+**Links.** product (https://blume.codes), https://careers.blume.codes/, https://careers.blume.codes
 **Related items.** [web-chatgpt-training](../web-chatgpt-training/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md), [github-mengto-skills](../github-mengto-skills/card.md), [web-opale-ui-taste](../web-opale-ui-taste/card.md), [web-davidgasquez-context-engineering](../web-davidgasquez-context-engineering/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: —

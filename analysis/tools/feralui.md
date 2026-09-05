@@ -6,5 +6,5 @@
 - [FeralUI v0.1.1: physically inspired React components that swing and crumple](../items/web-feralui-dev/card.md) — tool, example — web-3d-scenes
 
 <!-- NOTES:START -->
-
+**2026-09-05 leftover27.** Unused `feralui.dev` **10,527 B** titles *FeralUI · playful, physics-driven React elements*. Visible extract empty. Receipt `leftover27-2026-09-05.json`.
 <!-- NOTES:END -->

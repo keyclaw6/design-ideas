@@ -46,6 +46,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-jakubkrehel-skills#c3",
+      "text": "leftover27 unused jakub.kr/skills 235,058 B names better-ui, typography, colors, accessibility, layout, writing, interface-review, explain-interface, break, and variant. interfaces.dev 620,860 B is Design Engineering Magazine. leftover27 does not run those skills against a shared fixture.",
+      "kind": "capability",
+      "evidence": "leftover27 jakub-skills 235058 B; interfaces-dev 620860 B. Named better-* skills.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/better-interface.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "numbers": [
@@ -70,7 +80,9 @@
     "paper": null,
     "product": "https://jakub.kr/skills",
     "other": [
-      "https://interfaces.dev/"
+      "https://interfaces.dev/",
+      "https://jakub.kr/skills",
+      "https://interfaces.dev"
     ],
     "related_items": [
       "github-emilkowalski-skills",

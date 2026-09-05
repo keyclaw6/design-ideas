@@ -51,6 +51,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-leonxlnx-taste-skill#c3",
+      "text": "leftover27 unused tasteskill.dev 255,878 B names Taste Skill v2 as experimental, lists 13 named skills (adapt, animate, compose, critique, extract, overdrive, polish, tautology, typography, on-brand, arrange, clarify, bolder), shows 16 sponsors, and installs via npx skills add Leonxlnx/taste-skill. Does not score those skills against a shared fixture or name a stable v1.",
+      "kind": "capability",
+      "evidence": "leftover27 tasteskill 255878 B. v2 experimental / 13 skills / 16 sponsors.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -68,7 +78,8 @@
     "paper": null,
     "product": "https://tasteskill.dev",
     "other": [
-      "https://github.com/vercel-labs/agent-skills"
+      "https://github.com/vercel-labs/agent-skills",
+      "https://tasteskill.dev"
     ],
     "related_items": [
       "github-emilkowalski-skills",

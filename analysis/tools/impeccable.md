@@ -44,4 +44,6 @@ CLI help confirms `--viewport WxH` (default 1280x800) and that advisories never 
 **2026-09-05 leftover19.** `impeccable.style` **200 / 109,943 B** markets **61** checks / **23** commands / **177** worlds and `npx impeccable install`. Homepage does not name 4.1 vs 4.2.0.
 
 **2026-09-05 leftover21.** `skill-v4.1.0` release JSON published **2026-08-14**. Notes: roll argues with itself; full-fidelity comps; safer/bolder steer. Do not collapse with **4.2.0**.
+
+**2026-09-05 leftover27.** Unused `impeccable.style` **109,943 B** restates **66k+** / **61** / **23** / **177** / `npx impeccable install` / Node **22.12+** — same leftover19 homepage integers, not a new 4.1 inventory. Unused GitHub `skill-v4.2.0` **5,961 B** published **2026-09-04T20:28:37Z** restates leftover05 (static binary; hook **10.6 ms** vs **46.9 ms**; CLI **110** files **132 vs 282 ms**; replay **830** / **16,058**). Do not collapse 4.1 homepage with 4.2.0. Receipt `leftover27-2026-09-05.json`.
 <!-- NOTES:END -->

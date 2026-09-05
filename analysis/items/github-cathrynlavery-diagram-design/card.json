@@ -73,6 +73,16 @@
       "evidence_ref": "analysis/tools/diagram-design.md",
       "confidence": "demonstrated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "github-cathrynlavery-diagram-design#c5",
+      "text": "leftover27 unused littlemight.com 61,395 B is Business & life strategies for ambitious millennials \u2014 not a diagram-design tool, not Cathryn Lavery's library, and not an infographic renderer. Treat littlemight.com as a leftover host-string collision, not as diagram-design evidence.",
+      "kind": "counter-claim",
+      "evidence": "leftover27 littlemight 61395 B. Quote: Business & life strategies for ambitious millennials.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/diagram-design.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": [],

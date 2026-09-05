@@ -103,6 +103,26 @@
       "evidence_ref": "analysis/tools/impeccable.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c8",
+      "text": "leftover27 unused impeccable.style 109,943 B restates Impeccable 4.1 as 66k+ lines, 61 checks, 23 CLI commands, 177 custom ESLint worlds, plus npx impeccable install and Node 22.12+. Those 4.1 homepage integers already sit on leftover19 / must-read NOTES \u2014 leftover27 is a same-day homepage recount, not a new 4.1 inventory. Do not collapse 4.1 homepage copy with GitHub skill 4.2.0.",
+      "kind": "capability",
+      "evidence": "leftover27 impeccable-style 109943 B. 66k / 61 / 23 / 177 / Node 22.12+.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-pbakaus-impeccable#c9",
+      "text": "leftover27 unused GitHub skill-v4.2.0 release JSON 5,961 B names skill 4.2.0 published 2026-09-04T20:28:37Z with a static binary (no Node), hook 10.6 ms vs 46.9 ms, CLI 110 files in 132 ms vs 282 ms, and replay 830 / 16,058. Those 4.2.0 release integers already sit on leftover05 impeccable NOTES. leftover27 is a same-tag API recount on the github-pbakaus-impeccable card. Do not collapse 4.2.0 with the 4.1.0 / 4.1 homepage lane.",
+      "kind": "availability",
+      "evidence": "leftover27 gh-impeccable-420 5961 B. skill-v4.2.0 published 2026-09-04T20:28:37Z.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/impeccable.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": null,
@@ -140,7 +160,9 @@
     "paper": null,
     "product": "https://impeccable.style",
     "other": [
-      "https://github.com/anthropics/skills/tree/main/skills/frontend-design"
+      "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "https://impeccable.style",
+      "https://api.github.com/repos/pbakaus/impeccable/releases/tags/skill-v4.2.0"
     ],
     "related_items": [
       "github-google-labs-code-design-md",

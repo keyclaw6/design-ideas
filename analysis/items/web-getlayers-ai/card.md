@@ -11,11 +11,12 @@
 **Claims.**
 - `web-getlayers-ai#c1` (capability, stated) Each layer ships as a prompt that recreates a self-contained HTML page across sections, gradients, and 3D scenes. — evidence: "Each layer ships as a prompt that recreates a self-contained HTML page." [linked-page]
 - `web-getlayers-ai#c2` (capability, stated) GetLayers MCP assembles a whole site from library layers. — evidence: "GetLayers MCP for whole-site assembly from library" [linked-page]
+- `web-getlayers-ai#c3` (capability, demonstrated) leftover27 unused getlayers.ai 426,495 B claims 1,000+ creators and a template / 3D / section / gradient / background library with MCP. leftover27 does not create an account or export a layered scene. — evidence: "leftover27 getlayers 426495 B. 1000+ creators; template/3D/MCP library." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
 **Tools.** [getlayers](../../tools/getlayers.md)
-**Links.** product (https://www.getlayers.ai/)
+**Links.** product (https://www.getlayers.ai/), https://getlayers.ai
 **Related items.** [github-nateherkai-scroll-craft](../github-nateherkai-scroll-craft/card.md), [github-oso95-scroll-world](../github-oso95-scroll-world/card.md), [web-aidesigner-mcp](../web-aidesigner-mcp/card.md), [github-mengto-skills](../github-mengto-skills/card.md), [web-sceneai-art](../web-sceneai-art/card.md)
 **Media.**
 `raw/items/web-getlayers-ai/media/favicon.ico` (image, carries_technique=false) — Site favicon only; no visual technique signal.

@@ -53,6 +53,16 @@
       "evidence_ref": "page.md",
       "confidence": "demonstrated",
       "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-emilkowalski-skills#c3",
+      "text": "leftover27 unused animations.dev/skills 125,328 B is a thin newsletter / AI skills for design engineers landing \u2014 it does not list Emil skill names, install counts, or a version. skills.sh/emilkowalski/skills 63,314 B names 12 skills with 1.2M total installs: emil-design-eng 250.4K, react-render-perf 213.8K, web-design-guidelines 211.8K, web-animation-skills 133.2K, webpage-design-review 120.3K, react-best-practices 117.2K, polish 78.2K, compose 41.6K, extract 34.1K, adapt 29.4K, critique 25.8K, write-swift 24.4K. skills.sh counts are a third-party catalog snapshot, not GitHub star/download totals.",
+      "kind": "availability",
+      "evidence": "leftover27 animations-dev-skills 125328 B; skills-sh-emil 63314 B. 12 skills / 1.2M installs.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/taste-skill.md",
+      "confidence": "demonstrated",
+      "subject": "design-agent-skills"
     }
   ],
   "recipe_steps": [],
@@ -65,7 +75,8 @@
     "paper": null,
     "product": "https://skills.sh/emilkowalski/skills",
     "other": [
-      "https://animations.dev/skills"
+      "https://animations.dev/skills",
+      "https://skills.sh/emilkowalski/skills"
     ],
     "related_items": [
       "github-leonxlnx-taste-skill",

@@ -30,7 +30,7 @@
     "mcp",
     "three-js"
   ],
-  "summary": "Commercial library of copy-paste prompts that recreate self-contained HTML layers—sections, GLSL gradients, and 3D scenes—with in-browser tuning plus an MCP to assemble whole sites from the catalog.",
+  "summary": "Commercial library of copy-paste prompts that recreate self-contained HTML layers\u2014sections, GLSL gradients, and 3D scenes\u2014with in-browser tuning plus an MCP to assemble whole sites from the catalog.",
   "question_it_answers": "Where do I get stack-agnostic cinematic 3D hero prompts and MCP-driven site assembly?",
   "claims": [
     {
@@ -52,6 +52,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "web-3d-scenes"
+    },
+    {
+      "id": "web-getlayers-ai#c3",
+      "text": "leftover27 unused getlayers.ai 426,495 B claims 1,000+ creators and a template / 3D / section / gradient / background library with MCP. leftover27 does not create an account or export a layered scene.",
+      "kind": "capability",
+      "evidence": "leftover27 getlayers 426495 B. 1000+ creators; template/3D/MCP library.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/getlayers.md",
+      "confidence": "demonstrated",
+      "subject": "web-3d-scenes"
     }
   ],
   "recipe_steps": [],
@@ -65,7 +75,9 @@
     "repo": null,
     "paper": null,
     "product": "https://www.getlayers.ai/",
-    "other": [],
+    "other": [
+      "https://getlayers.ai"
+    ],
     "related_items": [
       "github-nateherkai-scroll-craft",
       "github-oso95-scroll-world",

@@ -52,6 +52,16 @@
       "evidence_ref": "analysis/tools/antv-infographic.md",
       "confidence": "demonstrated",
       "subject": "infographics-diagrams"
+    },
+    {
+      "id": "github-antvis-infographic#c3",
+      "text": "leftover27 unused infographic.antv.vision 79,156 B names AntV Infographic v0.2.20 (Build Infographics with Words). /gallery 382,873 B is a large client bundle; the visible-text extract does not list a template count. leftover27 does not walk a saved gallery item or publish a rendered infographic.",
+      "kind": "availability",
+      "evidence": "leftover27 antv-home 79156 B v0.2.20; antv-gallery 382873 B.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/antv-infographic.md",
+      "confidence": "demonstrated",
+      "subject": "infographics-diagrams"
     }
   ],
   "recipe_steps": [],
@@ -77,7 +87,8 @@
     "product": "https://infographic.antv.vision",
     "other": [
       "https://infographic.antv.vision/gallery",
-      "https://infographic.antv.vision/ai"
+      "https://infographic.antv.vision/ai",
+      "https://infographic.antv.vision"
     ],
     "related_items": [
       "github-cathrynlavery-diagram-design",

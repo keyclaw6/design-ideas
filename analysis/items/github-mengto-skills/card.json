@@ -31,14 +31,14 @@
     "codex",
     "three-js"
   ],
-  "summary": "MIT repo (~5.7k stars) of SKILL.md packs for Codex, Claude, and Cursor: video→HTML super prompts, HTML→interaction prompts, stitched full-page capture, and daily UI inspiration loops for Awwwards-quality sites.",
+  "summary": "MIT repo (~5.7k stars) of SKILL.md packs for Codex, Claude, and Cursor: video\u2192HTML super prompts, HTML\u2192interaction prompts, stitched full-page capture, and daily UI inspiration loops for Awwwards-quality sites.",
   "question_it_answers": "How do I turn a screen recording or live landing page into agent-ready design prompts with Three.js and GSAP skills?",
   "claims": [
     {
       "id": "github-mengto-skills#c1",
       "text": "Video to Super Prompt turns a screen recording into a detailed HTML recreation prompt.",
       "kind": "capability",
-      "evidence": "Video to Super Prompt — screen recording → detailed HTML recreation prompt",
+      "evidence": "Video to Super Prompt \u2014 screen recording \u2192 detailed HTML recreation prompt",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
@@ -48,10 +48,20 @@
       "id": "github-mengto-skills#c2",
       "text": "Stitched Full Page Capture grabs a whole landing page reference, not just the hero.",
       "kind": "capability",
-      "evidence": "Stitched Full Page Capture — full landing page reference, not just hero",
+      "evidence": "Stitched Full Page Capture \u2014 full landing page reference, not just hero",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "design-agent-skills"
+    },
+    {
+      "id": "github-mengto-skills#c3",
+      "text": "leftover27 unused ui-skills.com 211,608 B is a third-party catalog of other authors' skills (ibelick, emilkowalski, jakubkrehel, pbakaus, Leonxlnx, and others) \u2014 not an inventory of MengTo/Skills. Do not treat ui-skills.com counts as MengTo repo stats.",
+      "kind": "availability",
+      "evidence": "leftover27 ui-skills 211608 B. Third-party catalog, not MengTo/Skills.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/mengto-skills.md",
+      "confidence": "demonstrated",
       "subject": "design-agent-skills"
     }
   ],
@@ -78,7 +88,8 @@
     "paper": null,
     "product": "https://ui-skills.com",
     "other": [
-      "https://aura.build"
+      "https://aura.build",
+      "https://ui-skills.com"
     ],
     "related_items": [
       "github-mengto-complete-shelf",

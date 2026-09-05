@@ -12,11 +12,12 @@
 - `github-google-labs-code-design-md#c1` (capability, stated) DESIGN.md combines YAML front matter tokens with markdown prose so agents get exact values and application rationale. — evidence: "Tokens give agents exact values; prose tells them why and how to apply them." [linked-page]
 - `github-google-labs-code-design-md#c2` (capability, stated) CLI supports lint for WCAG contrast and token validation plus diff to compare design system versions. — evidence: "CLI: `npx @google/design.md lint DESIGN.md` — WCAG contrast, token validation" [linked-page]
 - `github-google-labs-code-design-md#c3` (availability, demonstrated) leftover22 GitHub API google-labs-code/design.md Apache-2.0 27,737★. Spec + lint/diff CLI claims stay on #c1/#c2 (linked-page). Star count was not previously on-card. — evidence: "leftover22 gh-design-md 27737 Apache-2.0." [note]
+- `github-google-labs-code-design-md#c4` (availability, demonstrated) leftover27 unused stitch.withgoogle.com/docs/design-md/specification 25,497 B titles Stitch - Design with AI. Visible-text extract is empty (client-rendered Stitch docs SPA); the dump does not expose DesignMD spec headings, schema fields, or version integers. Does not close a logged-in Stitch workspace walkthrough. — evidence: "leftover27 stitch-designmd-spec 25497 B. Title: Stitch - Design with AI." [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** [design-md-contract](../../techniques/design-md-contract.md), [anti-slop-ui-skills](../../techniques/anti-slop-ui-skills.md)
 **Tools.** [google-design-md-cli](../../tools/google-design-md-cli.md)
-**Links.** repo (https://github.com/google-labs-code/design.md), product (https://stitch.withgoogle.com/docs/design-md/specification)
+**Links.** repo (https://github.com/google-labs-code/design.md), product (https://stitch.withgoogle.com/docs/design-md/specification), https://stitch.withgoogle.com/docs/design-md/specification
 **Related items.** [web-getdesign-md](../web-getdesign-md/card.md), [web-sokosumi-design-md](../web-sokosumi-design-md/card.md), [github-pbakaus-impeccable](../github-pbakaus-impeccable/card.md)
 **Media.** —
 **Judge hints.** must_read: False · compare with: [web-getdesign-md](../web-getdesign-md/card.md), [web-designmd-me](../web-designmd-me/card.md)

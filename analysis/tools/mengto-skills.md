@@ -12,4 +12,6 @@
 **2026-09-05 capture — leftover10 60-component tweet is not this repo.** [x-2091571624390881664](../items/x-2091571624390881664/card.md) “60 more three.js components” is not a counted in-repo list on MengTo/Skills (that pack is video→HTML / stitched capture). Do not treat Skills as that inventory.
 
 **2026-09-05 leftover24.** Unused GitHub `MengTo/Skills` MIT **5,798★** folded onto the Sylva leftover. Not the moss-instancing repo. Receipt `leftover24-2026-09-05.json`.
+
+**2026-09-05 leftover27.** Unused `ui-skills.com` **211,608 B** is a third-party catalog of other authors (ibelick / emilkowalski / jakubkrehel / pbakaus / Leonxlnx). Not a MengTo/Skills inventory. Receipt `leftover27-2026-09-05.json`.
 <!-- NOTES:END -->

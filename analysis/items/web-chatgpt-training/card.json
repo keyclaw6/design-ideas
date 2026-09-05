@@ -50,6 +50,16 @@
       "evidence_ref": "page.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "web-chatgpt-training#c3",
+      "text": "leftover27 unused learn.chatgpt.com/training 305,746 B lists ChatGPT Training walkthroughs for ChatGPT (Work) and Codex. leftover27 does not complete a signed-in training module or export a completion receipt.",
+      "kind": "availability",
+      "evidence": "leftover27 chatgpt-training 305746 B. Work + Codex walkthroughs.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/chatgpt-training.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,
@@ -65,7 +75,8 @@
       "https://learn.chatgpt.com/llms.txt",
       "https://learn.chatgpt.com/docs/llms-full.txt",
       "https://learn.chatgpt.com/docs/build-skills.md",
-      "https://academy.openai.com/home/events"
+      "https://academy.openai.com/home/events",
+      "https://learn.chatgpt.com/training"
     ],
     "related_items": [
       "web-blume-codes",

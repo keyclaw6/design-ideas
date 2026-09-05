@@ -40,6 +40,16 @@
       "evidence_ref": "raw/items/web-blume-codes/page.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "web-blume-codes#c2",
+      "text": "leftover27 unused careers.blume.codes 51,037 B is Teamtailor listing Head of Growth and Founding Engineer and says the company was founded in 2025. leftover27 does not apply or confirm headcount beyond those two open roles.",
+      "kind": "availability",
+      "evidence": "leftover27 blume-careers 51037 B. Head of Growth + Founding Engineer; founded 2025.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/blume-sidecar.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": [],
@@ -54,7 +64,8 @@
     "paper": null,
     "product": "https://blume.codes",
     "other": [
-      "https://careers.blume.codes/"
+      "https://careers.blume.codes/",
+      "https://careers.blume.codes"
     ],
     "related_items": [
       "web-chatgpt-training",

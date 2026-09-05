@@ -58,10 +58,20 @@
       "id": "github-nv-tlabs-ArtiFixer#c2",
       "text": "Hugging Face hosts artifixer-14b.pt (~16.9B) and artifixer-1.3b.pt (~1.68B) checkpoints.",
       "kind": "availability",
-      "evidence": "Hugging Face checkpoints — `artifixer-14b.pt` (16.9B) and `artifixer-1.3b.pt` (1.68B)",
+      "evidence": "Hugging Face checkpoints \u2014 `artifixer-14b.pt` (16.9B) and `artifixer-1.3b.pt` (1.68B)",
       "evidence_source": "linked-page",
       "evidence_ref": "page.md",
       "confidence": "stated",
+      "subject": "gaussian-splatting"
+    },
+    {
+      "id": "github-nv-tlabs-ArtiFixer#c3",
+      "text": "leftover27 unused arXiv 2603.00492 abs 44,589 B names ArtiFixer (de Lutio et al.; SIGGRAPH 2026; v2 5 May 2026) and claims 1\u20133 dB PSNR over 3DGS baselines, with PDF artifixer.pdf listed at 91,742 KB. research.nvidia.com/labs/sil/projects/artifixer/ 18,793 B names ArtiFixer / ArtiFixer3D / ArtiFixer3D+ on MipNeRF 360, DL3DV, and Nerfbusters. huggingface.co/api/models/nvidia/ArtiFixer 850,636 B and 65 likes. leftover27 does not download the 91,742 KB PDF or rerun those PSNR tables.",
+      "kind": "benchmark",
+      "evidence": "leftover27 artifixer-abs 44589 B; artifixer-nvidia 18793 B; hf-artifixer 65 likes. 1\u20133 dB PSNR.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/artifixer.md",
+      "confidence": "demonstrated",
       "subject": "gaussian-splatting"
     }
   ],
@@ -71,7 +81,10 @@
     "paper": "https://arxiv.org/abs/2603.00492",
     "product": "https://research.nvidia.com/labs/sil/projects/artifixer/",
     "other": [
-      "https://huggingface.co/nvidia/ArtiFixer"
+      "https://huggingface.co/nvidia/ArtiFixer",
+      "https://arxiv.org/abs/2603.00492",
+      "https://research.nvidia.com/labs/sil/projects/artifixer/",
+      "https://huggingface.co/api/models/nvidia/ArtiFixer"
     ],
     "related_items": [
       "web-arcana-splat2mesh",

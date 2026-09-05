@@ -11,4 +11,6 @@
 **Skills.** Five skill folders: `infographic-creator`, `infographic-item-creator`, `infographic-structure-creator`, `infographic-syntax-creator`, `infographic-template-updater`.
 
 **SVG export sample.** Repo fixture `__tests__/unit/ssr/output/01-basic-list.svg` (4,981 bytes): SVG + `foreignObject` XHTML spans. Fills are hardcoded hex (`#262626`, `#5a5a5a`, `#1783ff`, `#00c9c9`, `#f0884d`) — not CSS variables. Tokens are editable in the template/syntax layer, not as `:root` custom properties on the exported SVG. Live gallery `https://infographic.antv.vision/gallery` HTTP 200 (382,873 bytes) this pass.
+
+**2026-09-05 leftover27.** Unused `infographic.antv.vision` **79,156 B** names AntV Infographic **v0.2.20**. Unused `/gallery` **382,873 B** is a client bundle — visible extract has no template count. Receipt `leftover27-2026-09-05.json`.
 <!-- NOTES:END -->
