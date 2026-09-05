@@ -1,7 +1,7 @@
 # Plan of attack: salvage phone photos → Gaussian splat → minimal mesh
 
 **Date:** 2026-09-05  
-**Status:** inventory + 90s clustering + vision labels (no COLMAP / training yet)  
+**Status:** first folder trained — `Photos-1-001(5).zip` splat + mesh on disk  
 **Adjacent:** [gaussian-splatting](../../catalog/topics/gaussian-splatting.md), [bess-3d-flythrough](../../catalog/topics/bess-3d-flythrough.md), [blender-minimax-h3-video-generation](blender-minimax-h3-video-generation.md)
 
 The cabinet is **reassembled**. These photos are the last capture. Goal: reuse them, get a usable 3DGS if the geometry allows, convert splat → mesh, then **decimate to a minimal mesh**. If SfM cannot lock, skip splat and go photo→mesh or CAD blockout + photo projection.
@@ -28,7 +28,23 @@ Samsung `YYYYMMDD_HHMMSS.jpg` stills (~3 MB, 4000×3000 class). Dates **2026-06-
 
 Local copies (not in git): `/home/kab/.cache/bess-splat-plan/` (zips, extract, 90s JSON, cluster previews).
 
-### Vision-labeled assets (90s gaps + first/mid/last stills)
+Each Drive zip is one scene. Train **one zip at a time**. Do not mix zips. Vision/90s clustering is optional extra; the folders already split the subjects.
+
+### First run — `Photos-1-001(5).zip` (largest, 187 stills)
+
+Assembled open cabinet (Jun 10 morning). No NVIDIA CUDA on this box; used CPU COLMAP + Brush (wgpu / Radeon 8060S).
+
+| Step | Result |
+|---|---|
+| Sequential COLMAP | 26/185 (14%) — fail |
+| Exhaustive COLMAP, looser init | **103/185 (56%)**, 31 866 points — pass |
+| Brush 7 000 steps, max 250 k splats, 1024px | `zip5_7000.ply` 59 MB (hit splat cap) |
+| Splat → occupancy mesh | `zip5_7000.collision.glb` 11 MB (658 k tris) |
+| Decimate | `zip5_7000.mesh-15k.glb` ~28 k faces |
+
+Copies (not in git): `~/Downloads/bess-splat-zip5/` and `/home/kab/.cache/bess-splat-plan/scene-zip5/splat-out/`. Open `zip5_7000.html` for the splat; the collision GLB is a voxel hull, not a pretty as-built surface.
+
+82 frames never registered (close-ups / scale jumps). Quality is a first checkpoint (7 k steps, not 30 k). Next folders if this look is acceptable: zip (2) 109 stills (open LCU), then zip (3) 78 (closed LCU).
 
 Do **not** train all 544 as one scene. Cluster 3 is a 3-frame detail burst of cluster 2 — attach it. Clusters 5 and 6 are the **same Envicool LCU** minutes apart (lid on, then lid off) — train separately first. Cluster 4 is one continuous cabinet walk (no ≥15s gap) with mixed orbit vs connector close-ups.
 
