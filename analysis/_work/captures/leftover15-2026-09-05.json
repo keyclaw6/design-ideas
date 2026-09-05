@@ -1,0 +1,59 @@
+{
+  "fetched_at": "2026-09-05T07:40:00Z",
+  "pages": {
+    "macomber": {
+      "url": "https://www.iandmacomber.com/blog/post-ai-data-stack",
+      "final": "https://www.iandmacomber.com/blog/post-ai-data-stack",
+      "status": 200,
+      "bytes": 67426,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "The Shape and Feel of the Post-AI Data Stack \u2014 Ian Macomber",
+      "visible_len": 26453,
+      "has": {
+        "15000": false,
+        "95%": false,
+        "llms.txt": true,
+        "snowflake": true,
+        "turbopuffer": false,
+        "da vinci": false
+      }
+    },
+    "cerebras": {
+      "url": "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+      "final": "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base",
+      "status": 500,
+      "bytes": 348376,
+      "ctype": "text/html; charset=utf-8",
+      "error": "HTTPError 500",
+      "title": "How Cerebras Built Its Enterprise Knowledge Base",
+      "visible_len": 0,
+      "has": {
+        "15000": false,
+        "95%": false,
+        "llms.txt": false,
+        "snowflake": false,
+        "turbopuffer": false,
+        "da vinci": false
+      }
+    },
+    "anthropic": {
+      "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "final": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "status": 200,
+      "bytes": 565721,
+      "ctype": "text/html; charset=utf-8",
+      "error": null,
+      "title": "How Anthropic enables self-service data analytics with Claude | Claude by Anthropic",
+      "visible_len": 39797,
+      "has": {
+        "15000": false,
+        "95%": true,
+        "llms.txt": false,
+        "snowflake": false,
+        "turbopuffer": false,
+        "da vinci": false
+      }
+    }
+  }
+}
