@@ -12,7 +12,7 @@
 - `x-2095451624139567162#c1` (availability, stated) Quoted follow-up advertises unlimited prompts for AI websites via an external marketplace link. — evidence: "Access this prompt as well as UNLIMITED prompts for stunning AI websites in one click:" [quoted-post]
 - `x-2095451624139567162#c2` (availability, demonstrated) Quoted t.co/l7GTxtJsvg resolves to sceneai.art (200 / 308,165 B). Title SceneAI: The Best UI Prompt Library on the Internet. Meta is landing-section / gradient copy, not a GPT 5.6 Sol prompt dump. — evidence: "Quoted 2095451727088828653 text ends https://sceneai.art/. GET https://sceneai.art/ 200 / 308,165 B. HTML has no GPT 5.6 and no unlimited." [note]
 - `x-2095451624139567162#c3` (capability, demonstrated) Homepage shows 36 Copy Prompt buttons and 46 unique aria-label Preview titles. Sale banner 60% OFF / Get All Access ×9. The Sol prompt body is still not on the page. — evidence: "Copy Prompt count 36. aria-label Preview titles unique 46 (Stories in Light, Neurolink Hero Section, …). GPT 5.6 / unlimited absent." [note]
-**Numbers.** —
+**Numbers.** sceneai.art HTML: 308165 bytes (note); Copy Prompt buttons: 36  (note); unique Preview titles: 46  (note)
 **Recipe.** —
 **Techniques.** [prompt-to-html-landing](../../techniques/prompt-to-html-landing.md)
 **Tools.** [gpt-5-6-sol](../../tools/gpt-5-6-sol.md)
