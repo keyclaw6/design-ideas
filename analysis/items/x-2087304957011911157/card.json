@@ -38,6 +38,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "agent-harness-loops"
+    },
+    {
+      "id": "x-2087304957011911157#c2",
+      "text": "npm registry pi-clarify latest **1.0.1** MIT: “Rewrite rough, plain-language prompts into precise technical prompts before you send them to the Pi coding agent.” GitHub dodo-reach/pi-clarify **175★** MIT. Install path in the tweet (`pi install npm:pi-clarify`) is not re-run here.",
+      "kind": "availability",
+      "evidence": "GET registry.npmjs.org/pi-clarify 5554 B 1.0.1 MIT. api.github.com/repos/dodo-reach/pi-clarify 175 stars. leftover5-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/pi-clarify.md",
+      "confidence": "demonstrated",
+      "subject": "agent-harness-loops"
     }
   ],
   "recipe_steps": null,

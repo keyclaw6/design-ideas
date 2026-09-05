@@ -12,6 +12,7 @@
 - `x-2091927587471712274#c1` (benchmark, stated) Demo reports reducing 3,200,000 triangles to 3,000 in three seconds in-browser with Three.js and Needle Tools. — evidence: "3,200,000 → 3,000 triangles,
 3 SECONDS for the full bake." [post]
 - `x-2091927587471712274#c2` (capability, stated) Author claims superb normals and ambient-occlusion quality from the bake and says the tool is coming soon. — evidence: "Superb normals+ao quality now too... such a great tool to have! Coming soon!" [post]
+- `x-2091927587471712274#c3` (capability, demonstrated) needle.tools 200 / 108,738 B first-party names Needle Mesh Baker: optimize 3D models in the browser — fewer triangles, baked textures, one draw call. Tweet 3,200,000 → 3,000 triangles / 3 seconds and AO quality are absent from that HTML. — evidence: "GET https://needle.tools/ 108738 B title Needle Engine. leftover5-2026-09-05.json" [note]
 **Numbers.** input triangles: 3200000  (post); output triangles: 3000  (post); bake duration: 3 seconds (post)
 **Recipe.** —
 **Techniques.** [mesh-cleanup-retopo](../../techniques/mesh-cleanup-retopo.md)

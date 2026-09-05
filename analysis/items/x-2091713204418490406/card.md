@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2091713204418490406#c1` (capability, stated) OpenStory converts a script into video while maintaining consistent characters, scenes, color, and lighting. — evidence: "让角色、场景、色彩、光线和叙事在每一个镜头中保持一致" [post]
 - `x-2091713204418490406#c2` (capability, stated) It automatically analyzes a script and splits scenes before generation. — evidence: "分析剧本并拆分场景" [post]
+- `x-2091713204418490406#c3` (capability, demonstrated) openstory.so 200 / 270,063 B: “Create 5-minute AI films with consistent characters”; paste a screenplay not a prompt. GitHub openstory-so/openstory MIT **574★** / 80 forks; README first-party script analysis + Fal.ai image gen + image-to-video; Cloudflare Workers deploy button. Fal/Cloudflare strings are on the README, not the marketing HTML. — evidence: "GET openstory.so 270063 B; api.github.com/repos/openstory-so/openstory 574 stars MIT. leftover5-2026-09-05/openstory-readme.md" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

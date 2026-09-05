@@ -11,6 +11,7 @@
 **Claims.**
 - `x-2087555254757757116#c1` (capability, stated) KERNEL browsers support custom proxies with CA bundles passed at proxy creation. — evidence: "KERNEL browsers now support custom proxies with CA bundles." [post]
 - `x-2087555254757757116#c2` (recipe, stated) The supplied CA bundle is installed into the browser trust store automatically. — evidence: "pass your CA bundle in when you create the proxy and it will be installed in the browser's trust store automatically." [post]
+- `x-2087555254757757116#c3` (capability, demonstrated) onkernel.com / kernel.sh homepage 200 / 103,733 B: sandboxed Chromium cold start advertised as <30ms; stealth “manage proxies”; SOC2/HIPAA; GPU acceleration; session MP4s. Docs index 335,184 B names Create/Control/Observe + MCP — strings CA bundle / trust store / custom proxy are absent. Tweet CA-install stays tweet-only. — evidence: "GET https://www.onkernel.com/ 103733 B; /docs 335184 B. leftover5-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —

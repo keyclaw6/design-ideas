@@ -1,0 +1,325 @@
+{
+  "fetched_at": "2026-09-05T03:40:00Z",
+  "pages": {
+    "openstory-ai": {
+      "url": "https://openstory.ai/",
+      "status": null,
+      "bytes": 0,
+      "final": null,
+      "title": null,
+      "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+    },
+    "openstory-dev": {
+      "url": "https://openstory.dev/",
+      "status": null,
+      "bytes": 0,
+      "final": null,
+      "title": null,
+      "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+    },
+    "needle-tools": {
+      "url": "https://needle.tools/",
+      "status": 200,
+      "bytes": 108738,
+      "final": "https://needle.tools/",
+      "title": "Needle Engine \u2014 Ship 3D to the web from Unity, Blender, or code",
+      "error": null
+    },
+    "lichtfeld": {
+      "url": "https://lichtfeld.io/",
+      "status": 403,
+      "bytes": 0,
+      "final": null,
+      "title": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "lichtfeld-studio": {
+      "url": "https://www.lichtfeld.studio/",
+      "status": null,
+      "bytes": 0,
+      "final": null,
+      "title": null,
+      "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>"
+    },
+    "kernel": {
+      "url": "https://www.kernel.sh/",
+      "status": 200,
+      "bytes": 103733,
+      "final": "https://www.kernel.sh/",
+      "title": "KERNEL: browser infrastructure for web agents and automations",
+      "error": null
+    },
+    "usekernel": {
+      "url": "https://www.usekernel.com/",
+      "status": 200,
+      "bytes": 75709,
+      "final": "https://usekernel.com/",
+      "title": "MadSlots Casino UK | Login, Free Spins &amp; No-Deposit Bonus 2026",
+      "error": null
+    },
+    "onkernel": {
+      "url": "https://www.onkernel.com/",
+      "status": 200,
+      "bytes": 103733,
+      "final": "https://www.kernel.sh/",
+      "title": "KERNEL: browser infrastructure for web agents and automations",
+      "error": null
+    },
+    "pi-clarify-npm": {
+      "url": "https://registry.npmjs.org/pi-clarify",
+      "status": 200,
+      "bytes": 5554,
+      "final": "https://registry.npmjs.org/pi-clarify",
+      "title": null,
+      "error": null,
+      "json": {
+        "_id": "pi-clarify",
+        "name": "pi-clarify",
+        "dist-tags": {
+          "latest": "1.0.1"
+        },
+        "versions": {
+          "1.0.1": {
+            "name": "pi-clarify",
+            "version": "1.0.1",
+            "description": "Rewrite rough, plain-language prompts into precise technical prompts before you send them to the Pi coding agent.",
+            "license": "MIT",
+            "type": "module",
+            "author": {
+              "name": "dodo-reach"
+            },
+            "keywords": [
+              "pi-package",
+              "pi-extension",
+              "pi-coding-agent",
+              "prompting",
+              "terminology"
+            ],
+            "engines": {
+              "node": ">=20"
+            },
+            "scripts": {
+              "test": "node --test test/*.test.mjs",
+              "pack:check": "npm pack --dry-run"
+            },
+            "peerDependencies": {
+              "@earendil-works/pi-ai": "*",
+              "@earendil-works/pi-coding-agent": "*",
+              "@earendil-works/pi-tui": "*"
+            },
+            "peerDependenciesMeta": {
+              "@earendil-works/pi-ai": {
+                "optional": true
+              },
+              "@earendil-works/pi-coding-agent": {
+                "optional": true
+              },
+              "@earendil-works/pi-tui": {
+                "optional": true
+              }
+            },
+            "pi": {
+              "extensions": [
+                "./extensions/clarify.ts"
+              ]
+            },
+            "repository": {
+              "type": "git",
+              "url": "git+https://github.com/dodo-reach/pi-clarify.git"
+            },
+            "bugs": {
+              "url": "https://github.com/dodo-reach/pi-clarify/issues"
+            },
+            "homepage": "https://github.com/dodo-reach/pi-clarify#readme",
+            "publishConfig": {
+              "access": "public"
+            },
+            "gitHead": "aa2a7a1fa3446cd2700fcd68e10158b2809b10ac",
+            "_id": "pi-clarify@1.0.1",
+            "_nodeVersion": "22.23.1",
+            "_npmVersion": "12.0.2",
+            "dist": {
+              "integrity": "sha512-Nh00Fo/hEsDt4pEoaP9DCl8x36o9/vZpavRBRtJEYUBrDnrpvYAJaRSzjYfT1b94DoaAIlVtu6LqEHkEtetabg==",
+              "shasum": "f7adb645a1ce6d015d41d620ef75cb4aef1acb5d",
+              "tarball": "https://registry.npmjs.org/pi-clarify/-/pi-clarify-1.0.1.tgz",
+              "fileCount": 5,
+              "unpackedSize": 16188,
+              "signatures": [
+                {
+                  "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                  "sig": "MEUCIBC/elwSV2DckaLGa72ZCK4QJDAz9Rb9xVF+Az5/tDxvAiEAuDMtuSwuQJR1JfyQCx6K0McwCOh/s6XPCQuxaSyOGso="
+                }
+              ]
+            },
+            "_npmUser": {
+              "name": "dodo-reach",
+              "email": "memet.channel@gmail.com"
+            },
+            "directories": {},
+            "maintainers": [
+              {
+                "name": "dodo-reach",
+                "email": "memet.channel@gmail.com"
+              }
+            ],
+            "_npmOperationalInternal": {
+              "host": "s3://npm-registry-packages-npm-production",
+              "tmp": "tmp/pi-clarify_1.0.1_1786485819434_0.34634835332040814"
+            },
+            "_hasShrinkwrap": false
+          }
+        },
+        "time": {
+          "created": "2026-08-11T22:03:39.303Z",
+          "1.0.1": "2026-08-11T22:03:39.603Z",
+          "modified": "2026-08-11T22:03:39.798Z"
+        },
+        "maintainers": [
+          {
+            "name": "dodo-reach",
+            "email": "memet.channel@gmail.com"
+          }
+        ],
+        "description": "Rewrite rough, plain-language prompts into precise technical prompts before you send them to the Pi coding agent.",
+        "homepage": "https://github.com/dodo-reach/pi-clarify#readme",
+        "keywords": [
+          "pi-package",
+          "pi-extension",
+          "pi-coding-agent",
+          "prompting",
+          "terminology"
+        ],
+        "repository": {
+          "type": "git",
+          "url": "git+https://github.com/dodo-reach/pi-clarify.git"
+        },
+        "author": {
+          "name": "dodo-reach"
+        },
+        "bugs": {
+          "url": "https://github.com/dodo-reach/pi-clarify/issues"
+        },
+        "license": "MIT",
+        "readme": "# pi-clarify\n\nA [Pi coding agent](https://pi.dev) extension that rewrites rough, plain-language\nprompts into precise technical prompts **before** you send them to the agent.\n\nUse it when you know what you want, but not the exact term or structure.\n\n## Install\n\n```sh\npi install npm:pi-clarify\n```\n\nAlso valid:\n\n```sh\npi install git:github.com/dodo-reach/pi-clarify\npi install https://github.com/dodo-reach/pi-clarify\npi install /path/to/pi-clarify\npi -e git:github.com/dodo-reach/pi-clarify\n```\n\nAfter install, restart Pi or run `/reload`.\n\n## Usage\n\n```text\n/clarify make the cards not jump when I drag them\n/clarify                          # rewrite current editor text\nmake the cards not jump -clarify  # marker anywhere in the message\n-clarify wait until typing stops before search\n```\n\nThe rewrite is written back through Pi's editor API (`setEditorText`).\nThe coding agent does **not** start until you send the rewritten prompt.\n\n### Model selection\n\nBy default, clarify uses the **current session model**.\n\nPin a different model from your Pi registry:\n\n```text\n/clarify model                      # show effective model\n/clarify model <provider> <model>   # pin a model\n/clarify model reset                # back to the session model\n```\n\nPinned model config is stored under the active agent directory:\n\n```text\n<agent-dir>/clarify.json\n```\n\nExample:\n\n```json\n{\n  \"provider\": \"your-provider\",\n  \"model\": \"your-model-id\"\n}\n```\n\nFor the default Pi agent dir this is usually `~/.pi/agent/clarify.json`.\nThe model must already exist in Pi's model registry, with auth configured.\n\n## Behavior\n\n- Registers `/clarify`\n- Intercepts the `-clarify` marker anywhere in a normal message\n- Runs one model turn to compress long descriptions into standard terms\n- Preserves concrete details: names, paths, numbers, error text, acceptance criteria\n- Keeps the user's language\n- Does not invent scope, stack choices, or extra requirements\n- Returns ready-to-send prompt text only (no quotes, no preamble)\n\n## Package layout\n\n```text\npi-clarify/\n\u251c\u2500\u2500 package.json\n\u251c\u2500\u2500 extensions/\n\u2502   \u2514\u2500\u2500 clarify.ts      # Pi extension entry\n\u251c\u2500\u2500 src/\n\u2502   \u2514\u2500\u2500 marker.ts       # pure marker helpers\n\u251c\u2500\u2500 test/\n\u2502   \u2514\u2500\u2500 marker.test.mjs\n\u251c\u2500\u2500 README.md\n\u2514\u2500\u2500 LICENSE\n```\n\nManifest:\n\n```json\n{\n  \"keywords\": [\"pi-package\"],\n  \"pi\": {\n    \"extensions\": [\"./extensions/clarify.ts\"]\n  }\n}\n```\n\nSee the [Pi packages docs](https://pi.dev/docs/latest/packages).\n\n## Development\n\n```sh\nnpm test\nnpm run pack:check\n```\n\n## Requirements\n\n- Pi coding agent with extension support\n- A configured session model, or a pinned model + API key\n\n## License\n\nMIT\n",
+        "readmeFilename": "README.md",
+        "_rev": "1-eaffedbaef9214fd5947ac8adb48fb47"
+      }
+    },
+    "gh-openstory": {
+      "url": "https://api.github.com/search/repositories?q=openstory+script+video&per_page=5",
+      "status": 200,
+      "bytes": 5308,
+      "final": "https://api.github.com/search/repositories?q=openstory+script+video&per_page=5",
+      "title": null,
+      "error": null,
+      "json": [
+        {
+          "full_name": "openstory-so/skills",
+          "stars": 1,
+          "desc": "Agent skills for OpenStory \u2014 create AI videos from a script via the public HTTP API",
+          "html": "https://github.com/openstory-so/skills",
+          "license": "MIT"
+        }
+      ]
+    },
+    "gh-lichtfeld": {
+      "url": "https://api.github.com/search/repositories?q=LichtFeld+Studio&per_page=5",
+      "status": 200,
+      "bytes": 28339,
+      "final": "https://api.github.com/search/repositories?q=LichtFeld+Studio&per_page=5",
+      "title": null,
+      "error": null,
+      "json": [
+        {
+          "full_name": "MrNeRF/LichtFeld-Studio",
+          "stars": 3656,
+          "desc": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+          "html": "https://github.com/MrNeRF/LichtFeld-Studio",
+          "license": "GPL-3.0"
+        },
+        {
+          "full_name": "MrNeRF/lichtfeld-studio-web",
+          "stars": 22,
+          "desc": "Web Presentation of the Lichtfeld Studio",
+          "html": "https://github.com/MrNeRF/lichtfeld-studio-web",
+          "license": null
+        },
+        {
+          "full_name": "alexmgee/lichtfeld-360-plugin",
+          "stars": 60,
+          "desc": "360\u00b0 Camera Plugin for LichtFeld Studio - a complete pipeline for turning 360 camera capture into splat-ready COLMAP datasets",
+          "html": "https://github.com/alexmgee/lichtfeld-360-plugin",
+          "license": "NOASSERTION"
+        },
+        {
+          "full_name": "shadygm/Lichtfeld-Densification-Plugin",
+          "stars": 85,
+          "desc": "Dense initialization plugin for LichtFeld Studio that converts sparse reconstructions into dense point clouds for improved Gaussian Splatting quality and convergence.",
+          "html": "https://github.com/shadygm/Lichtfeld-Densification-Plugin",
+          "license": "GPL-3.0"
+        },
+        {
+          "full_name": "gradeeterna/metashape_360_lfs",
+          "stars": 90,
+          "desc": "Convert Agisoft Metashape 360 spherical .xml and .ply for LichtFeld Studio",
+          "html": "https://github.com/gradeeterna/metashape_360_lfs",
+          "license": null
+        }
+      ]
+    },
+    "gh-kernel": {
+      "url": "https://api.github.com/search/repositories?q=onkernel&per_page=5",
+      "status": 200,
+      "bytes": 27139,
+      "final": "https://api.github.com/search/repositories?q=onkernel&per_page=5",
+      "title": null,
+      "error": null,
+      "json": [
+        {
+          "full_name": "TheB2D/OnKernelDedalusMCP",
+          "stars": 2,
+          "desc": null,
+          "html": "https://github.com/TheB2D/OnKernelDedalusMCP",
+          "license": null
+        },
+        {
+          "full_name": "aniket-provue/onkernelpoc",
+          "stars": 0,
+          "desc": null,
+          "html": "https://github.com/aniket-provue/onkernelpoc",
+          "license": null
+        },
+        {
+          "full_name": "baimablog/SamsungAtiveOnkernelsu",
+          "stars": 0,
+          "desc": "oneui5.1\u7ed5\u8fc7\u6fc0\u6d3b\u9002\u914dkernelsu",
+          "html": "https://github.com/baimablog/SamsungAtiveOnkernelsu",
+          "license": null
+        },
+        {
+          "full_name": "enskiilda/ai-agent-onkernel",
+          "stars": 0,
+          "desc": null,
+          "html": "https://github.com/enskiilda/ai-agent-onkernel",
+          "license": null
+        },
+        {
+          "full_name": "enskiilda/kernel-main-edited",
+          "stars": 0,
+          "desc": "AI-powered computer use with NVIDIA LLM, OnKernel browser automation, and dynamic workflow management",
+          "html": "https://github.com/enskiilda/kernel-main-edited",
+          "license": null
+        }
+      ]
+    },
+    "gh-needle-decimate": {
+      "url": "https://api.github.com/search/repositories?q=needle+decimate&per_page=5",
+      "status": 200,
+      "bytes": 55,
+      "final": "https://api.github.com/search/repositories?q=needle+decimate&per_page=5",
+      "title": null,
+      "error": null,
+      "json": []
+    }
+  }
+}

@@ -52,6 +52,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "image-to-3d-world"
+    },
+    {
+      "id": "x-2091927587471712274#c3",
+      "text": "needle.tools 200 / 108,738 B first-party names Needle Mesh Baker: optimize 3D models in the browser — fewer triangles, baked textures, one draw call. Tweet 3,200,000 → 3,000 triangles / 3 seconds and AO quality are absent from that HTML.",
+      "kind": "capability",
+      "evidence": "GET https://needle.tools/ 108738 B title Needle Engine. leftover5-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/image-to-3d-worldgen.md",
+      "confidence": "demonstrated",
+      "subject": "image-to-3d-world"
     }
   ],
   "recipe_steps": null,

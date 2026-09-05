@@ -50,6 +50,16 @@
       "evidence_ref": "post.md",
       "confidence": "stated",
       "subject": "mcp-and-agent-browsers"
+    },
+    {
+      "id": "x-2087555254757757116#c3",
+      "text": "onkernel.com / kernel.sh homepage 200 / 103,733 B: sandboxed Chromium cold start advertised as <30ms; stealth “manage proxies”; SOC2/HIPAA; GPU acceleration; session MP4s. Docs index 335,184 B names Create/Control/Observe + MCP — strings CA bundle / trust store / custom proxy are absent. Tweet CA-install stays tweet-only.",
+      "kind": "capability",
+      "evidence": "GET https://www.onkernel.com/ 103733 B; /docs 335184 B. leftover5-2026-09-05.json",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/kernel-browser.md",
+      "confidence": "demonstrated",
+      "subject": "mcp-and-agent-browsers"
     }
   ],
   "recipe_steps": [],

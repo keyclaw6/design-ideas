@@ -24,4 +24,6 @@ If a later pass splits this slug, file a registry alias — do not edit cards by
 **2026-09-05 capture — hayashimon panorama city.** Tweet already EN-glossed on the card. Author estimates **3 person-days** for a manual rebuild. fxtwitter returns **no video** (still-image post). Thread stays `captured_partial` (3/2). Card dropped `translation-needed`. Receipt `hayashimon-2095159781883597031.json`.
 
 **2026-09-05 capture — Marso Studio / I2M.** Quoted `t.co/dPdYG2wjMB` → `https://marso.app` **200 / 180,651 B**. Pricing: Free **$0 / 400** credits; Artist **$29 / 2,400**; Artist Pro **$99 / 9,500**; next listed **40,000**. Page names I2M (API texture set, fine-tuning). Tweet “I2M 1.2” version headline is **not** a homepage H1. Card [x-2095502642218664004](../items/x-2095502642218664004/card.md) gap is now `thread-partial`.
+
+Neighbor (parked; no needle-tools.md): 2026-09-05 `https://needle.tools/` GET 200 / **108,738 B**. First-party Needle Mesh Baker: fewer triangles, baked textures, one draw call. Tweet **3,200,000 → 3,000 / 3 s** and AO quality absent. Receipt `leftover5-2026-09-05.json`.
 <!-- NOTES:END -->

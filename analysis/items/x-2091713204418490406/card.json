@@ -46,6 +46,16 @@
       "evidence_ref": null,
       "confidence": "stated",
       "subject": "ai-video-generation"
+    },
+    {
+      "id": "x-2091713204418490406#c3",
+      "text": "openstory.so 200 / 270,063 B: “Create 5-minute AI films with consistent characters”; paste a screenplay not a prompt. GitHub openstory-so/openstory MIT **574★** / 80 forks; README first-party script analysis + Fal.ai image gen + image-to-video; Cloudflare Workers deploy button. Fal/Cloudflare strings are on the README, not the marketing HTML.",
+      "kind": "capability",
+      "evidence": "GET openstory.so 270063 B; api.github.com/repos/openstory-so/openstory 574 stars MIT. leftover5-2026-09-05/openstory-readme.md",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/tools/openstory.md",
+      "confidence": "demonstrated",
+      "subject": "ai-video-generation"
     }
   ],
   "recipe_steps": [],

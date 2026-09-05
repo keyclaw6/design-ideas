@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2091899114153754949#c1` (benchmark, stated) The capture reports five million Gaussians trained with mrnf for thirty thousand steps on an RTX 4090. — evidence: "5m Gaussians, mrnf, 30k steps on RTX 4090" [post]
+- `x-2091899114153754949#c2` (availability, demonstrated) GitHub MrNeRF/LichtFeld-Studio is GPL-3.0 / **3,656★** / 442 forks. README: train/inspect/edit/automate/export 3DGS from one native app; COLMAP in; Python plugins + MCP. Homepage lichtfeld.io **403** this pass — do not hammer. Tweet 5M Gaussians / mrnf / 30k steps / RTX 4090 is absent from the README. — evidence: "GET api.github.com/repos/MrNeRF/LichtFeld-Studio 3656 stars GPL-3.0. README 8854 B. leftover5-2026-09-05.json" [note]
 **Numbers.** Gaussian count: 5 million (post); training steps: 30000 steps (post)
 **Recipe.** —
 **Techniques.** —

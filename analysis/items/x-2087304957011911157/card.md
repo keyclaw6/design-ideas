@@ -10,6 +10,7 @@
 
 **Claims.**
 - `x-2087304957011911157#c1` (capability, stated) pi-clarify intercepts and rewrites the user message before forwarding it to Pi. — evidence: "it rewrites your prompt before sending, so you spend fewer turns explaining what you meant" [post]
+- `x-2087304957011911157#c2` (availability, demonstrated) npm registry pi-clarify latest **1.0.1** MIT: “Rewrite rough, plain-language prompts into precise technical prompts before you send them to the Pi coding agent.” GitHub dodo-reach/pi-clarify **175★** MIT. Install path in the tweet (`pi install npm:pi-clarify`) is not re-run here. — evidence: "GET registry.npmjs.org/pi-clarify 5554 B 1.0.1 MIT. api.github.com/repos/dodo-reach/pi-clarify 175 stars. leftover5-2026-09-05.json" [note]
 **Numbers.** —
 **Recipe.** —
 **Techniques.** —
