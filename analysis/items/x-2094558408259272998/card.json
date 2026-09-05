@@ -29,7 +29,7 @@
   "platforms": [
     "mcp"
   ],
-  "summary": "Michael Driscoll amplifies Lieberman's AI-native company feature #3—a centralized queryable intelligence layer—with a Da Vinci collage diagram and links to Ramp, Cerebras, and Anthropic data-agent write-ups.",
+  "summary": "Michael Driscoll amplifies Lieberman's AI-native company feature #3\u2014a centralized queryable intelligence layer\u2014with a Da Vinci collage diagram and links to Ramp, Cerebras, and Anthropic data-agent write-ups.",
   "question_it_answers": "How are Ramp, Cerebras, and Anthropic framing the centralized agent intelligence layer?",
   "claims": [
     {
@@ -49,6 +49,16 @@
       "evidence": "DATA AGENT HARNESS: A central hub containing \"Tools (bash, MCPs)\", \"Models (e.g. 5.6 Sol)\", and \"Skills\".",
       "evidence_source": "media",
       "evidence_ref": "media/photo.jpg",
+      "confidence": "demonstrated",
+      "subject": "agent-memory-knowledge"
+    },
+    {
+      "id": "x-2094558408259272998#c3",
+      "text": "Driscoll leftover links three first-party essays. leftover15: iandmacomber.com/blog/post-ai-data-stack 200 / 67,426 B (title The Shape and Feel of the Post-AI Data Stack; per-data-product llms.txt + Snowflake + Ramp Research harness). Turbopuffer and Da Vinci collage strings are absent from that essay. claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude 200 / 565,721 B: 95% of business analytics queries automated via Claude with ~95% aggregate accuracy; skills lift evals above 95%; offline accuracy drifted ~95% \u2192 ~65% in a month. cerebras.ai/blog/how-we-built-our-knowledge-base this pass is HTTP 500 / 348,376 B (title present, visible 0) \u2014 do not retry. The leftover collage is an amplify diagram, not those essay bodies.",
+      "kind": "counter-claim",
+      "evidence": "macomber 67426 B 200; anthropic 565721 B 200 95%/95%; cerebras HTTP 500 348376 B. leftover15-2026-09-05.json.",
+      "evidence_source": "note",
+      "evidence_ref": "analysis/techniques/context-etl.md",
       "confidence": "demonstrated",
       "subject": "agent-memory-knowledge"
     }
