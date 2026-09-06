@@ -1,7 +1,7 @@
 # Plan of attack: salvage phone photos → Gaussian splat → minimal mesh
 
 **Date:** 2026-09-06  
-**Status:** zip5 only — COLMAP 181/185, uncapped 30k splat is needle soup; scale-regularized 80-view orbit train running  
+**Status:** zip5 only — Brush 30k is needle soup; Spirula 80-view 30k (median aniso ~19, PSNR ~26–32) + camera-carved GLB on disk; Gemini grading proofs  
 **Adjacent:** [gaussian-splatting](../../catalog/topics/gaussian-splatting.md), [bess-3d-flythrough](../../catalog/topics/bess-3d-flythrough.md), [blender-minimax-h3-video-generation](blender-minimax-h3-video-generation.md)
 
 The cabinet is **reassembled**. These photos are the last capture. Goal: reuse them, get a usable 3DGS if the geometry allows, convert splat → mesh, then **decimate to a minimal mesh**. If SfM cannot lock, skip splat and go photo→mesh or CAD blockout + photo projection.
