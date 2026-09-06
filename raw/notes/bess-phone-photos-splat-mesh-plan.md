@@ -1,7 +1,7 @@
 # Plan of attack: salvage phone photos → Gaussian splat → minimal mesh
 
 **Date:** 2026-09-06  
-**Status:** zip5 only — Brush 30k is needle soup; Spirula 80-view 30k (median aniso ~19, PSNR ~26–32) + camera-carved GLB on disk; Gemini grading proofs  
+**Status:** zip5 splat-native path **exhausted** without recapture. COLMAP 181/185 was never the bottleneck. Gemini graded Brush and Spirula (with and without MoGe normals) as D/D+ needle soup. Next product path is skip-splat (photogrammetry / CAD + photo).  
 **Adjacent:** [gaussian-splatting](../../catalog/topics/gaussian-splatting.md), [bess-3d-flythrough](../../catalog/topics/bess-3d-flythrough.md), [blender-minimax-h3-video-generation](blender-minimax-h3-video-generation.md)
 
 The cabinet is **reassembled**. These photos are the last capture. Goal: reuse them, get a usable 3DGS if the geometry allows, convert splat → mesh, then **decimate to a minimal mesh**. If SfM cannot lock, skip splat and go photo→mesh or CAD blockout + photo projection.
@@ -45,7 +45,11 @@ Assembled open cabinet (Jun 10 morning). One zip = one scene. No NVIDIA CUDA; CP
 | Drop aniso&lt;8 | 67 k disks — too sparse / ghost |
 | Box crop | Removes some sky floaters; needles remain on the cabinet |
 | Wide-only 102 images, 30 k | `zip5_wide_30000.ply` 818 MB (on disk) |
-| **Now:** 80-image mid-distance orbit + `--scale-loss-weight 1e-4` | tmux `zip5-orbit`, ~20 min |
+| 80-view orbit Brush, scale-loss `1e-4` | Collapsed to 2 Gaussians — killed |
+| 80-view orbit Brush, scale-loss `1e-6` | 5k/10k plys; Gemini **D/D+** |
+| Spirula meshing 30k (floater-suppression strong) | median aniso ~19; Gemini **D/D+**; labels unreadable |
+| Spirula + MoGe normals, 15k | median aniso ~14; Gemini **D** — **splat path exhausted** |
+| Spirula `mesh` (camera carve) | `orbit-mesh.glb` 943k faces / 103k components; normals-run 713k / 64k — still fragmented |
 
 Unregistered 4: `20260610_083105.jpg`, `083304.jpg`, `083309.jpg`, `083429.jpg`. Zip also mixes **Fire COM / connector close-ups** into the same folder; those poison scale.
 
