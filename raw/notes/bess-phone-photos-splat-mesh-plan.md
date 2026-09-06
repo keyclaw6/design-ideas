@@ -1,7 +1,7 @@
 # Plan of attack: salvage phone photos → Gaussian splat → minimal mesh
 
-**Date:** 2026-09-05  
-**Status:** first folder trained — `Photos-1-001(5).zip` splat + mesh on disk  
+**Date:** 2026-09-06  
+**Status:** zip5 only — COLMAP 181/185, uncapped 30k splat is needle soup; scale-regularized 80-view orbit train running  
 **Adjacent:** [gaussian-splatting](../../catalog/topics/gaussian-splatting.md), [bess-3d-flythrough](../../catalog/topics/bess-3d-flythrough.md), [blender-minimax-h3-video-generation](blender-minimax-h3-video-generation.md)
 
 The cabinet is **reassembled**. These photos are the last capture. Goal: reuse them, get a usable 3DGS if the geometry allows, convert splat → mesh, then **decimate to a minimal mesh**. If SfM cannot lock, skip splat and go photo→mesh or CAD blockout + photo projection.
@@ -32,19 +32,28 @@ Each Drive zip is one scene. Train **one zip at a time**. Do not mix zips. Visio
 
 ### First run — `Photos-1-001(5).zip` (largest, 187 stills)
 
-Assembled open cabinet (Jun 10 morning). No NVIDIA CUDA on this box; used CPU COLMAP + Brush (wgpu / Radeon 8060S).
+Assembled open cabinet (Jun 10 morning). One zip = one scene. No NVIDIA CUDA; CPU COLMAP + Brush (wgpu / Radeon 8060S). **Proof is multi-angle splat screenshots, not logs.** Capture is a **front arc (~160°)**, not a 360 orbit — there are no back-hemisphere cameras. Evaluate from training-camera poses.
 
 | Step | Result |
 |---|---|
 | Sequential COLMAP | 26/185 (14%) — fail |
-| Exhaustive COLMAP, looser init | **103/185 (56%)**, 31 866 points — pass |
-| Brush 7 000 steps, max 250 k splats, 1024px | `zip5_7000.ply` 59 MB (hit splat cap) |
-| Splat → occupancy mesh | `zip5_7000.collision.glb` 11 MB (658 k tris) |
-| Decimate | `zip5_7000.mesh-15k.glb` ~28 k faces |
+| Exhaustive COLMAP v2 (extract missing 76 + rematch) | **181/185 (97.8%)**, 54 158 points |
+| Brush 7 k, `--max-splats 250000` | Hit cap; do **not** use this cap |
+| Brush 30 k uncapped, 181 images | `zip5_uncapped_30000.ply` 788 MB, **3.34M** gaussians |
+| Clean (opacity/floaters/cluster) | 980 k gaussians; **median anisotropy ~105** (needles) |
+| Train-cam screenshots (correct COLMAP look-at + FOV) | Still needle soup; module stack / orange HV recognizable, labels not readable |
+| Drop aniso&lt;8 | 67 k disks — too sparse / ghost |
+| Box crop | Removes some sky floaters; needles remain on the cabinet |
+| Wide-only 102 images, 30 k | `zip5_wide_30000.ply` 818 MB (on disk) |
+| **Now:** 80-image mid-distance orbit + `--scale-loss-weight 1e-4` | tmux `zip5-orbit`, ~20 min |
 
-Copies (not in git): `~/Downloads/bess-splat-zip5/` and `/home/kab/.cache/bess-splat-plan/scene-zip5/splat-out/`. Open `zip5_7000.html` for the splat; the collision GLB is a voxel hull, not a pretty as-built surface.
+Unregistered 4: `20260610_083105.jpg`, `083304.jpg`, `083309.jpg`, `083429.jpg`. Zip also mixes **Fire COM / connector close-ups** into the same folder; those poison scale.
 
-82 frames never registered (close-ups / scale jumps). Quality is a first checkpoint (7 k steps, not 30 k). Next folders if this look is acceptable: zip (2) 109 stills (open LCU), then zip (3) 78 (closed LCU).
+Copies (not in git): `~/Downloads/bess-splat-zip5/` (proof webps) and `/home/kab/.cache/bess-splat-plan/scene-zip5/`. Collision GLB is a voxel hull, not a product mesh.
+
+**Honest proof path:** `splat-out/train-camera-jobs.json` (per-camera target = camera center + forward × distance to splat centroid; COLMAP Y-down up). Old 360° orbit webps overstate failure. Even the honest views are not a working splat yet.
+
+CUDA-only (skip here): ArtiFixer, SuGaR, LichtFeld, INRIA 3DGS. IZUTSUYA converter needs email login. Splat2Mesh is Windows + non-commercial.
 
 ### Optional 90s labels (not used for this run)
 
@@ -164,14 +173,15 @@ NeedleTools 3.2M→3k (`x-2091927587471712274`) was “coming soon” at harvest
 
 ---
 
-## 4. Recommended attack order
+## 4. Recommended attack order (zip 5 only until a working splat)
 
-1. ~~Pick largest Drive zip and train one scene~~ **done** (`Photos-1-001(5).zip`).
-2. Look at `zip5_7000.html` / the GLBs. If the splat is usable, continue to 30 k steps or train zip (2). If it is soup, skip-splat that folder and try the closed LCU zip (3) instead.
-3. **If holey but posed:** ArtiFixer is CUDA-only on this harvest — skip here; IZUTSUYA vs Splat2Mesh if a nicer surface mesh is needed than the collision hull.
-4. **Decimate** whatever mesh wins (already did one 15 k pass on zip 5).
+1. ~~Pick largest Drive zip~~ **done.**
+2. ~~Raise COLMAP above 80%~~ **done (181/185).**
+3. ~~Uncapped 30 k Brush~~ **done — visually failed (needles).**
+4. **In flight:** 80-view orbit + scale/opacity loss; then rembg masks + retrain if still soup.
+5. If orbit still soup: skip-splat Path 2 (photo→mesh) or CAD hybrid. Do **not** call the 30k PLY a working splat.
 
-Do **not** train all zips as one scene. Do **not** mix 2025 Woshixing with this dump.
+Do **not** train other zips until zip 5 either works or is abandoned. Do **not** mix 2025 Woshixing with this dump.
 
 ---
 
