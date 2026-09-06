@@ -177,15 +177,15 @@ NeedleTools 3.2M→3k (`x-2091927587471712274`) was “coming soon” at harvest
 
 ---
 
-## 4. Recommended attack order (zip 5 only until a working splat)
+## 4. Recommended attack order (zip 5)
 
 1. ~~Pick largest Drive zip~~ **done.**
 2. ~~Raise COLMAP above 80%~~ **done (181/185).**
-3. ~~Uncapped 30 k Brush~~ **done — visually failed (needles).**
-4. **In flight:** 80-view orbit + scale/opacity loss; then rembg masks + retrain if still soup.
-5. If orbit still soup: skip-splat Path 2 (photo→mesh) or CAD hybrid. Do **not** call the 30k PLY a working splat.
+3. ~~Uncapped 30 k Brush~~ **done — visually failed.**
+4. ~~80-view orbit + Spirula + MoGe normals~~ **done — Gemini D/D+; splat-native exhausted.**
+5. **Next (skip splat):** Path 2 photo→mesh (Meshroom / COLMAP dense) or Path 3 CAD blockout + photo projection. Do **not** start slang-splat, VkSplat, or another Brush run on this zip. Do **not** call any current PLY a working product splat.
 
-Do **not** train other zips until zip 5 either works or is abandoned. Do **not** mix 2025 Woshixing with this dump.
+Do **not** mix 2025 Woshixing with this dump.
 
 ---
 
@@ -200,9 +200,10 @@ Do **not** train other zips until zip 5 either works or is abandoned. Do **not**
 
 ## 6. Open
 
-- Any **failed PLY** from the earlier splat attempt to feed ArtiFixer?
+- **Splat salvage of zip 5 is closed** until recapture (dense transit frames from wide → close-up, and a back hemisphere).
 - Measured cabinet / module dimensions for Path 3?
-- Confirm Splat2Mesh commercial license vs stay on Blender/IZUTSUYA.
-- Optional C4 sub-split (rack orbit vs Envicool bay vs Fire COM) if COLMAP chokes on mixed scale.
+- Skip-splat: Meshroom / COLMAP dense on the existing 181 poses, or CAD + photo projection.
+- Confirm Splat2Mesh commercial license vs stay on Blender (irrelevant until a usable surface exists).
 
-Scout evidence (not in git): `/tmp/bess-splat-plan/scout-*.md`. Cluster JSON + previews: `/home/kab/.cache/bess-splat-plan/`.
+Proof screenshots (not in git): `~/Downloads/bess-splat-zip5/proof-30k-correct-cams/`, `proof-spirula/`, `proof-spirula-normals/`.
+Scout evidence: `/tmp/bess-splat-plan/scout-*.md`. Cluster JSON + previews: `/home/kab/.cache/bess-splat-plan/`.
