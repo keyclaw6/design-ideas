@@ -4,6 +4,234 @@
   "graph": {},
   "nodes": [
     {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_create.py",
+      "source_location": "L40"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_parse",
+      "label": "parse()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "parse()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_create.py",
+      "source_location": "L10"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_items_from",
+      "label": "items_from()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "items_from()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L9"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L36"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_match",
+      "label": "match()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "match()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L30"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_create_identifier",
+      "label": "test_create_identifier()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "test_create_identifier()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L11"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_list",
+      "label": "test_status_list()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "test_status_list()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L26"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_map",
+      "label": "test_status_map()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "test_status_map()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L19"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_fx_fy_cx_cy",
+      "label": "fx_fy_cx_cy()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1131,
+      "community_name": "dump_rgbd.py",
+      "file_type": "code",
+      "norm_label": "fx_fy_cx_cy()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L37"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_load_scale",
+      "label": "load_scale()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1131,
+      "community_name": "dump_rgbd.py",
+      "file_type": "code",
+      "norm_label": "load_scale()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L18"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1131,
+      "community_name": "dump_rgbd.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L52"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_rgb_key",
+      "label": "rgb_key()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1131,
+      "community_name": "dump_rgbd.py",
+      "file_type": "code",
+      "norm_label": "rgb_key()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L30"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_bin",
+      "label": "count_images_bin()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1132,
+      "community_name": "main",
+      "file_type": "code",
+      "norm_label": "count_images_bin()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L10"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_txt",
+      "label": "count_images_txt()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1132,
+      "community_name": "main",
+      "file_type": "code",
+      "norm_label": "count_images_txt()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L16"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1132,
+      "community_name": "main",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L30"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_holdout_selected_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1139,
+      "community_name": "playbook/holdout_selected.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/holdout_selected.py",
+      "source_location": "L9"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_local_tsdf_mesh_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1140,
+      "community_name": "tsdf_mesh.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/local/tsdf_mesh.py",
+      "source_location": "L12"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_c4_gate_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1142,
+      "community_name": "c4_gate.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/c4_gate.py",
+      "source_location": "L10"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_holdout_selected_main",
+      "label": "main()",
+      "_callable": true,
+      "_origin": "ast",
+      "community": 1144,
+      "community_name": "remote/holdout_selected.py",
+      "file_type": "code",
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/holdout_selected.py",
+      "source_location": "L9"
+    },
+    {
       "id": "scripts_rebuild_catalog_load_entries",
       "label": "load_entries()",
       "_callable": true,
@@ -329,7 +557,7 @@
     },
     {
       "id": "skills_x_harvest_clear_skill",
-      "label": "SKILL.md",
+      "label": "x-harvest-clear/SKILL.md",
       "_origin": "ast",
       "community": 0,
       "community_name": "X bookmark/likes harvest-clear",
@@ -339,9 +567,225 @@
         "description": "Harvest X bookmarks and likes into design-ideas raw/items/x-&lt;tweet_id&gt;/, clear platform lists, rebuild catalog. Use when draining X bookmarks/likes, resuming harvest, or verifying empty lists after capture."
       },
       "node_kind": "page",
-      "norm_label": "skill.md",
+      "norm_label": "x-harvest-clear/skill.md",
       "source_file": "skills/x-harvest-clear/SKILL.md",
       "source_location": "L1"
+    },
+    {
+      "id": "agents",
+      "label": "AGENTS.md",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "agents.md",
+      "source_file": "AGENTS.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "agents_agent_query_guide",
+      "label": "Agent query guide",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "agent query guide",
+      "source_file": "AGENTS.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "agents_artifixer_thunder_a100_skill",
+      "label": "ArtiFixer Thunder A100 skill",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "artifixer thunder a100 skill",
+      "source_file": "AGENTS.md",
+      "source_location": "L38"
+    },
+    {
+      "id": "agents_conventions",
+      "label": "Conventions",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "conventions",
+      "source_file": "AGENTS.md",
+      "source_location": "L42"
+    },
+    {
+      "id": "agents_graphify",
+      "label": "Graphify",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "graphify",
+      "source_file": "AGENTS.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "agents_query_order",
+      "label": "Query order",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "query order",
+      "source_file": "AGENTS.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "agents_x_harvest_skill",
+      "label": "X harvest skill",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "x harvest skill",
+      "source_file": "AGENTS.md",
+      "source_location": "L34"
+    },
+    {
+      "id": "catalog_patterns",
+      "label": "patterns.md",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "patterns.md",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_patterns_3d_video_bess_flythrough",
+      "label": "3D / video / BESS flythrough",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "3d / video / bess flythrough",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L33"
+    },
+    {
+      "id": "catalog_patterns_capture_to_world_photo_video_3d",
+      "label": "Capture-to-world (photo/video \u2192 3D)",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "capture-to-world (photo/video \u2192 3d)",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L48"
+    },
+    {
+      "id": "catalog_patterns_data_context_for_agents",
+      "label": "Data & context for agents",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "data & context for agents",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L62"
+    },
+    {
+      "id": "catalog_patterns_design_md_design_skills",
+      "label": "DESIGN.md & design skills",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "design.md & design skills",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L20"
+    },
+    {
+      "id": "catalog_patterns_html_as_video_prompt_to_clip",
+      "label": "HTML-as-video / prompt-to-clip",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "html-as-video / prompt-to-clip",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L42"
+    },
+    {
+      "id": "catalog_patterns_infographics_diagram_as_content",
+      "label": "Infographics & diagram-as-content",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "infographics & diagram-as-content",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L55"
+    },
+    {
+      "id": "catalog_patterns_landing_page_ui_motion_pipelines",
+      "label": "Landing page & UI motion pipelines",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "landing page & ui motion pipelines",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L26"
+    },
+    {
+      "id": "catalog_patterns_mcp_agent_orchestration",
+      "label": "MCP & agent orchestration",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "mcp & agent orchestration",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "catalog_patterns_patterns",
+      "label": "Patterns",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "patterns",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "catalog_patterns_seo_ai_search_visibility",
+      "label": "SEO & AI search visibility",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "seo & ai search visibility",
+      "source_file": "catalog/patterns.md",
+      "source_location": "L5"
     },
     {
       "id": "raw_progress_harvest_loop",
@@ -402,6 +846,54 @@
       "norm_label": "x \u2014 bookmarks + likes",
       "source_file": "raw/_progress/harvest-loop.md",
       "source_location": "L3"
+    },
+    {
+      "id": "readme",
+      "label": "README.md",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "readme.md",
+      "source_file": "README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "readme_current_focus",
+      "label": "Current focus",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "current focus",
+      "source_file": "README.md",
+      "source_location": "L11"
+    },
+    {
+      "id": "readme_design_ideas",
+      "label": "design-ideas",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "design-ideas",
+      "source_file": "README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "readme_layout",
+      "label": "Layout",
+      "_origin": "ast",
+      "community": 0,
+      "community_name": "X bookmark/likes harvest-clear",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "layout",
+      "source_file": "README.md",
+      "source_location": "L16"
     },
     {
       "id": "schema",
@@ -5807,7 +6299,7 @@
       "node_kind": "heading",
       "norm_label": "all items",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L35"
+      "source_location": "L37"
     },
     {
       "id": "catalog_topics_gaussian_splatting_examples",
@@ -5819,7 +6311,7 @@
       "node_kind": "heading",
       "norm_label": "examples",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L30"
+      "source_location": "L32"
     },
     {
       "id": "catalog_topics_gaussian_splatting_gaussian_splatting",
@@ -5855,7 +6347,7 @@
       "node_kind": "heading",
       "norm_label": "techniques",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L23"
+      "source_location": "L24"
     },
     {
       "id": "catalog_topics_gaussian_splatting_tools",
@@ -5867,7 +6359,7 @@
       "node_kind": "heading",
       "norm_label": "tools",
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L18"
+      "source_location": "L19"
     },
     {
       "id": "catalog_topics_video_generation_all_items",
@@ -5978,263 +6470,868 @@
       "source_location": "L7"
     },
     {
-      "id": "agents",
-      "label": "AGENTS.md",
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "label": "00_env.sh",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "agents.md",
-      "source_file": "AGENTS.md",
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "00_env.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
       "source_location": "L1"
     },
     {
-      "id": "agents_agent_query_guide",
-      "label": "Agent query guide",
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_00_env_dry_run",
+      "label": "DRY_RUN",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "agent query guide",
-      "source_file": "AGENTS.md",
-      "source_location": "L1"
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "dry_run",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L40"
     },
     {
-      "id": "agents_conventions",
-      "label": "Conventions",
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_00_env_ensure_ssh_key",
+      "label": "ensure_ssh_key()",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "conventions",
-      "source_file": "AGENTS.md",
-      "source_location": "L38"
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "ensure_ssh_key()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L43"
     },
     {
-      "id": "agents_graphify",
-      "label": "Graphify",
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_00_env_load_env",
+      "label": "load_env()",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "graphify",
-      "source_file": "AGENTS.md",
-      "source_location": "L20"
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "load_env()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L51"
     },
     {
-      "id": "agents_query_order",
-      "label": "Query order",
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_00_env_path",
+      "label": "PATH",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "query order",
-      "source_file": "AGENTS.md",
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "path",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
       "source_location": "L5"
     },
     {
-      "id": "agents_x_harvest_skill",
-      "label": "X harvest skill",
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_00_env_require_auth",
+      "label": "require_auth()",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "x harvest skill",
-      "source_file": "AGENTS.md",
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "require_auth()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L57"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_00_env_sh__entry",
+      "label": "00_env.sh script",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "00_env.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_01_create",
+      "label": "01_create.sh",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "01_create.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_01_create_create_one",
+      "label": "create_one()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "create_one()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L37"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_01_create_install_tnr",
+      "label": "install_tnr()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "install_tnr()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L10"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_01_create_main",
+      "label": "main()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "main()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L60"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_01_create_sh__entry",
+      "label": "01_create.sh script",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "01_create.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_01_create_write_instance_env",
+      "label": "write_instance_env()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "write_instance_env()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L20"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_10_download",
+      "label": "10_download.sh",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "10_download.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/10_download.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_10_download_sh__entry",
+      "label": "10_download.sh script",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "10_download.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/10_download.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_11_wipe",
+      "label": "11_wipe.sh",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "11_wipe.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/11_wipe.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_11_wipe_sh__entry",
+      "label": "11_wipe.sh script",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "11_wipe.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/11_wipe.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_12_mesh_local",
+      "label": "12_mesh_local.sh",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "12_mesh_local.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/12_mesh_local.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_12_mesh_local_sh__entry",
+      "label": "12_mesh_local.sh script",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "12_mesh_local.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/12_mesh_local.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_go",
+      "label": "go.sh",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "go.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_go_on_exit",
+      "label": "on_exit()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "on_exit()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L24"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_go_sh__entry",
+      "label": "go.sh script",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "go.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_go_wipe_instance",
+      "label": "wipe_instance()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "wipe_instance()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L14"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes",
+      "label": "pack_scenes.sh",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "pack_scenes.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes_map_copy",
+      "label": "map_copy()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "map_copy()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh",
+      "source_location": "L21"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes_sh__entry",
+      "label": "pack_scenes.sh script",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "pack_scenes.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "label": "tnr_ssh.sh",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "tnr_ssh.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_add_playbook_key",
+      "label": "add_playbook_key()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "add_playbook_key()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
       "source_location": "L34"
     },
     {
-      "id": "catalog_patterns",
-      "label": "patterns.md",
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_sh__entry",
+      "label": "tnr_ssh.sh script",
       "_origin": "ast",
       "community": 1127,
-      "community_name": "Agent query guide",
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "tnr_ssh.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_ssh",
+      "label": "_ssh()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "_ssh()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L45"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_ssh_remote",
+      "label": "ssh_remote()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "ssh_remote()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L54"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_wait_running",
+      "label": "wait_running()",
+      "_origin": "ast",
+      "community": 1127,
+      "community_name": "00_env.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "wait_running()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L8"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill",
+      "label": "artifixer-thunder-a100/SKILL.md",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "frontmatter": {
+        "name": "artifixer-thunder-a100",
+        "description": "Rent a Thunder Compute A100 80GB, run ArtiFixer 14B + 3DGRUT on BESS phone stills, dump RGB-D, delete the instance, mesh locally. Use after the user has paid on Thunder, or when repeating this splat-to-mesh GPU run. Pipeline is unproven \u2014 update this skill as you go.",
+        "license": "MIT"
+      },
+      "node_kind": "page",
+      "norm_label": "artifixer-thunder-a100/skill.md",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_references_browser",
+      "label": "browser.md",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "page",
-      "norm_label": "patterns.md",
-      "source_file": "catalog/patterns.md",
+      "norm_label": "browser.md",
+      "source_file": "skills/artifixer-thunder-a100/references/browser.md",
       "source_location": "L1"
     },
     {
-      "id": "readme",
-      "label": "README.md",
+      "id": "skills_artifixer_thunder_a100_references_browser_agent_console_path_not_the_human",
+      "label": "Agent console path (not the human)",
       "_origin": "ast",
-      "community": 1127,
-      "community_name": "Agent query guide",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "agent console path (not the human)",
+      "source_file": "skills/artifixer-thunder-a100/references/browser.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_references_decision",
+      "label": "decision.md",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "page",
-      "norm_label": "readme.md",
-      "source_file": "README.md",
+      "norm_label": "decision.md",
+      "source_file": "skills/artifixer-thunder-a100/references/decision.md",
       "source_location": "L1"
     },
     {
-      "id": "readme_current_focus",
-      "label": "Current focus",
+      "id": "skills_artifixer_thunder_a100_references_decision_decision_record_max_quality_splat_mesh",
+      "label": "Decision record \u2014 max-quality splat \u2192 mesh",
       "_origin": "ast",
-      "community": 1127,
-      "community_name": "Agent query guide",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "current focus",
-      "source_file": "README.md",
-      "source_location": "L11"
-    },
-    {
-      "id": "readme_design_ideas",
-      "label": "design-ideas",
-      "_origin": "ast",
-      "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "design-ideas",
-      "source_file": "README.md",
+      "norm_label": "decision record \u2014 max-quality splat \u2192 mesh",
+      "source_file": "skills/artifixer-thunder-a100/references/decision.md",
       "source_location": "L1"
     },
     {
-      "id": "readme_layout",
-      "label": "Layout",
-      "_origin": "ast",
-      "community": 1127,
-      "community_name": "Agent query guide",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "layout",
-      "source_file": "README.md",
-      "source_location": "L16"
-    },
-    {
-      "id": "catalog_patterns_3d_video_bess_flythrough",
-      "label": "3D / video / BESS flythrough",
+      "id": "skills_artifixer_thunder_a100_references_handoff",
+      "label": "handoff.md",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "3d / video / bess flythrough",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L33"
+      "node_kind": "page",
+      "norm_label": "handoff.md",
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L1"
     },
     {
-      "id": "catalog_patterns_capture_to_world_photo_video_3d",
-      "label": "Capture-to-world (photo/video \u2192 3D)",
+      "id": "skills_artifixer_thunder_a100_references_handoff_auth_state_when_this_was_written",
+      "label": "Auth state when this was written",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "capture-to-world (photo/video \u2192 3d)",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L48"
+      "norm_label": "auth state when this was written",
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L27"
     },
     {
-      "id": "catalog_patterns_data_context_for_agents",
-      "label": "Data & context for agents",
+      "id": "skills_artifixer_thunder_a100_references_handoff_cost_estimate_unproven",
+      "label": "Cost (estimate, unproven)",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "data & context for agents",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L62"
+      "norm_label": "cost (estimate, unproven)",
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L31"
     },
     {
-      "id": "catalog_patterns_design_md_design_skills",
-      "label": "DESIGN.md & design skills",
+      "id": "skills_artifixer_thunder_a100_references_handoff_handoff_for_a_successor_agent",
+      "label": "Handoff for a successor agent",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "design.md & design skills",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L20"
+      "norm_label": "handoff for a successor agent",
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L1"
     },
     {
-      "id": "catalog_patterns_html_as_video_prompt_to_clip",
-      "label": "HTML-as-video / prompt-to-clip",
+      "id": "skills_artifixer_thunder_a100_references_handoff_mesh_decision_already_adjudicated",
+      "label": "Mesh decision (already adjudicated)",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "html-as-video / prompt-to-clip",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L42"
+      "norm_label": "mesh decision (already adjudicated)",
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L35"
     },
     {
-      "id": "catalog_patterns_infographics_diagram_as_content",
-      "label": "Infographics & diagram-as-content",
+      "id": "skills_artifixer_thunder_a100_references_handoff_what_is_already_on_disk_this_machine",
+      "label": "What is already on disk (this machine)",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "infographics & diagram-as-content",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L55"
-    },
-    {
-      "id": "catalog_patterns_landing_page_ui_motion_pipelines",
-      "label": "Landing page & UI motion pipelines",
-      "_origin": "ast",
-      "community": 1128,
-      "community_name": "Patterns",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "landing page & ui motion pipelines",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L26"
-    },
-    {
-      "id": "catalog_patterns_mcp_agent_orchestration",
-      "label": "MCP & agent orchestration",
-      "_origin": "ast",
-      "community": 1128,
-      "community_name": "Patterns",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "mcp & agent orchestration",
-      "source_file": "catalog/patterns.md",
+      "norm_label": "what is already on disk (this machine)",
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
       "source_location": "L13"
     },
     {
-      "id": "catalog_patterns_patterns",
-      "label": "Patterns",
+      "id": "skills_artifixer_thunder_a100_references_handoff_what_you_are_being_asked_to_do",
+      "label": "What you are being asked to do",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "patterns",
-      "source_file": "catalog/patterns.md",
+      "norm_label": "what you are being asked to do",
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L5"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_references_human",
+      "label": "human.md",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "human.md",
+      "source_file": "skills/artifixer-thunder-a100/references/human.md",
       "source_location": "L1"
     },
     {
-      "id": "catalog_patterns_seo_ai_search_visibility",
-      "label": "SEO & AI search visibility",
+      "id": "skills_artifixer_thunder_a100_references_human_your_only_job",
+      "label": "Your only job",
       "_origin": "ast",
       "community": 1128,
-      "community_name": "Patterns",
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "seo & ai search visibility",
-      "source_file": "catalog/patterns.md",
-      "source_location": "L5"
+      "norm_label": "your only job",
+      "source_file": "skills/artifixer-thunder-a100/references/human.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_references_learnings",
+      "label": "learnings.md",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "learnings.md",
+      "source_file": "skills/artifixer-thunder-a100/references/learnings.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_references_learnings_live_learnings_fill_this_on_the_first_gpu_run",
+      "label": "Live learnings \u2014 fill this on the first GPU run",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "live learnings \u2014 fill this on the first gpu run",
+      "source_file": "skills/artifixer-thunder-a100/references/learnings.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_references_learnings_still_unknown_strike_out_when_proven",
+      "label": "Still unknown (strike out when proven)",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "still unknown (strike out when proven)",
+      "source_file": "skills/artifixer-thunder-a100/references/learnings.md",
+      "source_location": "L15"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_readme",
+      "label": "playbook/README.md",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "playbook/readme.md",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_readme_playbook_scripts_git_copy",
+      "label": "Playbook scripts (git copy)",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "playbook scripts (git copy)",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/README.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_after_the_run",
+      "label": "After the run",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "after the run",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L142"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "label": "ArtiFixer on Thunder A100 (unproven)",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "artifixer on thunder a100 (unproven)",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L13"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_cli_api_facts_pre_live_verify",
+      "label": "CLI / API facts (pre-live, verify)",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "cli / api facts (pre-live, verify)",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L135"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_graphify",
+      "label": "Graphify",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "graphify",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L149"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_hard_locks_do_not_weaken_unless_the_user_says_so",
+      "label": "Hard locks (do not weaken unless the user says so)",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "hard locks (do not weaken unless the user says so)",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L60"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_human_vs_agent",
+      "label": "Human vs agent",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "human vs agent",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L73"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_objects",
+      "label": "Objects",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "objects",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L119"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_pipeline_order_gpu",
+      "label": "Pipeline order (GPU)",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pipeline order (gpu)",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L102"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_read_first",
+      "label": "Read first",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "read first",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_setup_after_they_have_paid",
+      "label": "Setup after they have paid",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "setup after they have paid",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L81"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_unproven_update_as_you_go",
+      "label": "Unproven \u2014 update as you go",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "unproven \u2014 update as you go",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L39"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_skill_when_to_use",
+      "label": "When to use",
+      "_origin": "ast",
+      "community": 1128,
+      "community_name": "ArtiFixer on Thunder A100 (unproven)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "when to use",
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L19"
     },
     {
       "id": "catalog_topics_bess_3d_flythrough",
       "label": "bess-3d-flythrough.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "bess-3d-flythrough.md",
@@ -6246,7 +7343,7 @@
       "label": "camera-control.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "camera-control.md",
@@ -6258,7 +7355,7 @@
       "label": "gaussian-splatting.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "gaussian-splatting.md",
@@ -6270,7 +7367,7 @@
       "label": "three-js.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "three-js.md",
@@ -6282,7 +7379,7 @@
       "label": "ui-motion.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "ui-motion.md",
@@ -6294,7 +7391,7 @@
       "label": "video-generation.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "video-generation.md",
@@ -6302,11 +7399,35 @@
       "source_location": "L1"
     },
     {
+      "id": "raw_notes_artifixer_gpu_run",
+      "label": "artifixer-gpu-run.md",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "bess-3d-flythrough.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "artifixer-gpu-run.md",
+      "source_file": "raw/notes/artifixer-gpu-run.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "raw_notes_artifixer_gpu_run_artifixer_gpu_run_thunder_compute_max_quality",
+      "label": "ArtiFixer GPU run \u2014 Thunder Compute, max quality",
+      "_origin": "ast",
+      "community": 1129,
+      "community_name": "bess-3d-flythrough.md",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "artifixer gpu run \u2014 thunder compute, max quality",
+      "source_file": "raw/notes/artifixer-gpu-run.md",
+      "source_location": "L1"
+    },
+    {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan",
       "label": "bess-phone-photos-splat-mesh-plan.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "bess-phone-photos-splat-mesh-plan.md",
@@ -6318,7 +7439,7 @@
       "label": "blender-minimax-h3-video-generation.md",
       "_origin": "ast",
       "community": 1129,
-      "community_name": "three-js.md",
+      "community_name": "bess-3d-flythrough.md",
       "file_type": "document",
       "node_kind": "page",
       "norm_label": "blender-minimax-h3-video-generation.md",
@@ -6422,6 +7543,405 @@
       "source_location": "L10"
     },
     {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create",
+      "label": "parse_tnr_create.py",
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "parse_tnr_create.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_create.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status",
+      "label": "parse_tnr_status.py",
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "parse_tnr_status.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "label": "test_tnr_parse.py",
+      "_origin": "ast",
+      "community": 1130,
+      "community_name": "test_tnr_parse.py",
+      "file_type": "code",
+      "norm_label": "test_tnr_parse.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd",
+      "label": "dump_rgbd.py",
+      "_origin": "ast",
+      "community": 1131,
+      "community_name": "dump_rgbd.py",
+      "file_type": "code",
+      "norm_label": "dump_rgbd.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_py_path",
+      "label": "Path",
+      "_origin": "ast",
+      "community": 1131,
+      "community_name": "dump_rgbd.py",
+      "file_type": "code",
+      "norm_label": "path",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
+      "id": "tensor",
+      "label": "Tensor",
+      "_origin": "ast",
+      "community": 1131,
+      "community_name": "dump_rgbd.py",
+      "file_type": "code",
+      "norm_label": "tensor",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg",
+      "label": "colmap_reg.py",
+      "_origin": "ast",
+      "community": 1132,
+      "community_name": "main",
+      "file_type": "code",
+      "norm_label": "colmap_reg.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_py_path",
+      "label": "Path",
+      "_origin": "ast",
+      "community": 1132,
+      "community_name": "main",
+      "file_type": "code",
+      "norm_label": "path",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install",
+      "label": "03_install.sh",
+      "_origin": "ast",
+      "community": 1133,
+      "community_name": "03_install.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "03_install.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install_debian_frontend",
+      "label": "DEBIAN_FRONTEND",
+      "_origin": "ast",
+      "community": 1133,
+      "community_name": "03_install.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "debian_frontend",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh",
+      "source_location": "L9"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install_hf_home",
+      "label": "HF_HOME",
+      "_origin": "ast",
+      "community": 1133,
+      "community_name": "03_install.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "hf_home",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh",
+      "source_location": "L3"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install_sh__entry",
+      "label": "03_install.sh script",
+      "_origin": "ast",
+      "community": 1133,
+      "community_name": "03_install.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "03_install.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer",
+      "label": "07_infer.sh",
+      "_origin": "ast",
+      "community": 1134,
+      "community_name": "07_infer.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "07_infer.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_hf_home",
+      "label": "HF_HOME",
+      "_origin": "ast",
+      "community": 1134,
+      "community_name": "07_infer.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "hf_home",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L4"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_run_infer",
+      "label": "run_infer()",
+      "_origin": "ast",
+      "community": 1134,
+      "community_name": "07_infer.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "norm_label": "run_infer()",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L9"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_sh__entry",
+      "label": "07_infer.sh script",
+      "_origin": "ast",
+      "community": 1134,
+      "community_name": "07_infer.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "07_infer.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_04_weights",
+      "label": "04_weights.sh",
+      "_origin": "ast",
+      "community": 1135,
+      "community_name": "04_weights.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "04_weights.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/04_weights.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_04_weights_hf_home",
+      "label": "HF_HOME",
+      "_origin": "ast",
+      "community": 1135,
+      "community_name": "04_weights.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "hf_home",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/04_weights.sh",
+      "source_location": "L3"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_04_weights_sh__entry",
+      "label": "04_weights.sh script",
+      "_origin": "ast",
+      "community": 1135,
+      "community_name": "04_weights.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "04_weights.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/04_weights.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_05_prepare",
+      "label": "05_prepare.sh",
+      "_origin": "ast",
+      "community": 1136,
+      "community_name": "05_prepare.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "05_prepare.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/05_prepare.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_05_prepare_hf_home",
+      "label": "HF_HOME",
+      "_origin": "ast",
+      "community": 1136,
+      "community_name": "05_prepare.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "hf_home",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/05_prepare.sh",
+      "source_location": "L4"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_05_prepare_sh__entry",
+      "label": "05_prepare.sh script",
+      "_origin": "ast",
+      "community": 1136,
+      "community_name": "05_prepare.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "05_prepare.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/05_prepare.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_06_caption",
+      "label": "06_caption.sh",
+      "_origin": "ast",
+      "community": 1137,
+      "community_name": "06_caption.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "06_caption.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/06_caption.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_06_caption_hf_home",
+      "label": "HF_HOME",
+      "_origin": "ast",
+      "community": 1137,
+      "community_name": "06_caption.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "hf_home",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/06_caption.sh",
+      "source_location": "L6"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_06_caption_sh__entry",
+      "label": "06_caption.sh script",
+      "_origin": "ast",
+      "community": 1137,
+      "community_name": "06_caption.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "06_caption.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/06_caption.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_08_artifixer3d",
+      "label": "08_artifixer3d.sh",
+      "_origin": "ast",
+      "community": 1138,
+      "community_name": "08_artifixer3d.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "08_artifixer3d.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/08_artifixer3d.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_08_artifixer3d_hf_home",
+      "label": "HF_HOME",
+      "_origin": "ast",
+      "community": 1138,
+      "community_name": "08_artifixer3d.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "code"
+      },
+      "norm_label": "hf_home",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/08_artifixer3d.sh",
+      "source_location": "L4"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_08_artifixer3d_sh__entry",
+      "label": "08_artifixer3d.sh script",
+      "_origin": "ast",
+      "community": 1138,
+      "community_name": "08_artifixer3d.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "08_artifixer3d.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/08_artifixer3d.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_holdout_selected",
+      "label": "playbook/holdout_selected.py",
+      "_origin": "ast",
+      "community": 1139,
+      "community_name": "playbook/holdout_selected.py",
+      "file_type": "code",
+      "norm_label": "playbook/holdout_selected.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/holdout_selected.py",
+      "source_location": "L1"
+    },
+    {
       "id": "raw_items_x_2084613319558635940_research",
       "label": "x-2084613319558635940/research.md",
       "_origin": "ast",
@@ -6516,6 +8036,99 @@
       "norm_label": "why saved",
       "source_file": "raw/items/x-2084613319558635940/research.md",
       "source_location": "L11"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_local_tsdf_mesh",
+      "label": "tsdf_mesh.py",
+      "_origin": "ast",
+      "community": 1140,
+      "community_name": "tsdf_mesh.py",
+      "file_type": "code",
+      "norm_label": "tsdf_mesh.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/local/tsdf_mesh.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_09_export",
+      "label": "09_export.sh",
+      "_origin": "ast",
+      "community": 1141,
+      "community_name": "09_export.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "09_export.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/09_export.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_09_export_sh__entry",
+      "label": "09_export.sh script",
+      "_origin": "ast",
+      "community": 1141,
+      "community_name": "09_export.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "09_export.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/09_export.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_c4_gate",
+      "label": "c4_gate.py",
+      "_origin": "ast",
+      "community": 1142,
+      "community_name": "c4_gate.py",
+      "file_type": "code",
+      "norm_label": "c4_gate.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/c4_gate.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_scene",
+      "label": "colmap_scene.sh",
+      "_origin": "ast",
+      "community": 1143,
+      "community_name": "colmap_scene.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "norm_label": "colmap_scene.sh",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_scene.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_scene_sh__entry",
+      "label": "colmap_scene.sh script",
+      "_origin": "ast",
+      "community": 1143,
+      "community_name": "colmap_scene.sh",
+      "file_type": "code",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "norm_label": "colmap_scene.sh script",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_scene.sh",
+      "source_location": "L1"
+    },
+    {
+      "id": "skills_artifixer_thunder_a100_scripts_playbook_remote_holdout_selected",
+      "label": "remote/holdout_selected.py",
+      "_origin": "ast",
+      "community": 1144,
+      "community_name": "remote/holdout_selected.py",
+      "file_type": "code",
+      "norm_label": "remote/holdout_selected.py",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/holdout_selected.py",
+      "source_location": "L1"
     },
     {
       "id": "raw_items_x_2085006701984698712_research",
@@ -29741,28 +31354,28 @@
       "source_location": "L1"
     },
     {
-      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
-      "label": "1. What we actually have (Drive, not Google Photos)",
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
+      "label": "1. What we actually have",
       "_origin": "ast",
       "community": 394,
       "community_name": "3. Methods (from the design-ideas harvest)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "1. what we actually have (drive, not google photos)",
+      "norm_label": "1. what we actually have",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
       "source_location": "L11"
     },
     {
-      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_2_why_prior_gaussian_splats_failed_this_capture_not_the_phone",
-      "label": "2. Why prior Gaussian splats failed (this capture, not \u201cthe phone\u201d)",
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_2_why_prior_gaussian_splats_failed_and_what_this_set_changes",
+      "label": "2. Why prior Gaussian splats failed (and what this set changes)",
       "_origin": "ast",
       "community": 394,
       "community_name": "3. Methods (from the design-ideas harvest)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "2. why prior gaussian splats failed (this capture, not \u201cthe phone\u201d)",
+      "norm_label": "2. why prior gaussian splats failed (and what this set changes)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L49"
+      "source_location": "L97"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
@@ -29774,19 +31387,19 @@
       "node_kind": "heading",
       "norm_label": "3. methods (from the design-ideas harvest)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L65"
+      "source_location": "L107"
     },
     {
-      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_4_recommended_attack_order",
-      "label": "4. Recommended attack order",
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_4_recommended_attack_order_zip_5",
+      "label": "4. Recommended attack order (zip 5)",
       "_origin": "ast",
       "community": 394,
       "community_name": "3. Methods (from the design-ideas harvest)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "4. recommended attack order",
+      "norm_label": "4. recommended attack order (zip 5)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L138"
+      "source_location": "L180"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_5_platform_license_this_linux_worker",
@@ -29798,7 +31411,7 @@
       "node_kind": "heading",
       "norm_label": "5. platform / license (this linux worker)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L153"
+      "source_location": "L192"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_6_open",
@@ -29810,19 +31423,19 @@
       "node_kind": "heading",
       "norm_label": "6. open",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L162"
+      "source_location": "L201"
     },
     {
-      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_a_woshixing_factory_internals_the_splat_candidate",
-      "label": "Dataset A \u2014 Woshixing factory internals (the splat candidate)",
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_a_woshixing_2025_08_06_wrong_set_do_not_train",
+      "label": "Dataset A \u2014 Woshixing 2025-08-06 (wrong set; do not train)",
       "_origin": "ast",
       "community": 394,
       "community_name": "3. Methods (from the design-ideas harvest)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "dataset a \u2014 woshixing factory internals (the splat candidate)",
+      "norm_label": "dataset a \u2014 woshixing 2025-08-06 (wrong set; do not train)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L17"
+      "source_location": "L79"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_b_fat_factory_exterior_not_splat",
@@ -29834,7 +31447,7 @@
       "node_kind": "heading",
       "norm_label": "dataset b \u2014 fat / factory exterior (not splat)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L35"
+      "source_location": "L83"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_c_br\u00e6dstrup_site_same_phone_wrong_subject",
@@ -29846,7 +31459,7 @@
       "node_kind": "heading",
       "norm_label": "dataset c \u2014 br\u00e6dstrup site (same phone, wrong subject)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L39"
+      "source_location": "L87"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_d_marketing_cad_downstream_only",
@@ -29858,7 +31471,7 @@
       "node_kind": "heading",
       "norm_label": "dataset d \u2014 marketing / cad (downstream only)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L43"
+      "source_location": "L91"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_finish_minimal_mesh_always",
@@ -29870,7 +31483,19 @@
       "node_kind": "heading",
       "norm_label": "finish \u2192 minimal mesh (always)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L125"
+      "source_location": "L167"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_first_run_photos_1_001_5_zip_largest_187_stills",
+      "label": "First run \u2014 `Photos-1-001(5).zip` (largest, 187 stills)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "first run \u2014 `photos-1-001(5).zip` (largest, 187 stills)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L33"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_gate_do_this_first_cheap",
@@ -29882,7 +31507,19 @@
       "node_kind": "heading",
       "norm_label": "gate (do this first, cheap)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L67"
+      "source_location": "L109"
+    },
+    {
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_optional_90s_labels_not_used_for_this_run",
+      "label": "Optional 90s labels (not used for this run)",
+      "_origin": "ast",
+      "community": 394,
+      "community_name": "3. Methods (from the design-ideas harvest)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "optional 90s labels (not used for this run)",
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L62"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_1_salvage_3dgs_only_if_the_gate_passes",
@@ -29894,19 +31531,19 @@
       "node_kind": "heading",
       "norm_label": "path 1 \u2014 salvage 3dgs (only if the gate passes)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L79"
+      "source_location": "L121"
     },
     {
-      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_2_skip_splat_photo_mesh_default_for_a1_a3_a4",
-      "label": "Path 2 \u2014 Skip splat, photo \u2192 mesh (default for A1/A3/A4)",
+      "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_2_skip_splat_photo_mesh_default_for_c7_c8_and_any_cluster_that_fails_the_gate",
+      "label": "Path 2 \u2014 Skip splat, photo \u2192 mesh (default for C7/C8 and any cluster that fails the gate)",
       "_origin": "ast",
       "community": 394,
       "community_name": "3. Methods (from the design-ideas harvest)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "path 2 \u2014 skip splat, photo \u2192 mesh (default for a1/a3/a4)",
+      "norm_label": "path 2 \u2014 skip splat, photo \u2192 mesh (default for c7/c8 and any cluster that fails the gate)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L92"
+      "source_location": "L134"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_3_hybrid_cad_truth_photo_projection_accuracy",
@@ -29918,7 +31555,7 @@
       "node_kind": "heading",
       "norm_label": "path 3 \u2014 hybrid cad truth + photo projection (accuracy)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L103"
+      "source_location": "L145"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_path_4_fast_orbit_poc_not_a_product_mesh",
@@ -29930,7 +31567,7 @@
       "node_kind": "heading",
       "norm_label": "path 4 \u2014 fast orbit poc (not a product mesh)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L113"
+      "source_location": "L155"
     },
     {
       "id": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
@@ -29954,7 +31591,7 @@
       "node_kind": "heading",
       "norm_label": "splat \u2192 mesh (if path 1 yields a ply)",
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L117"
+      "source_location": "L159"
     },
     {
       "id": "catalog_topics_infographics_all_items",
@@ -51786,6 +53423,438 @@
       "weight": 1.0
     },
     {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_00_env_require_auth",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_load_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create_create_one",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_write_instance_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_create_one",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_require_auth",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L70",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_install_tnr",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_ensure_ssh_key",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_main",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L81",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_11_wipe_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_load_env",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/11_wipe.sh",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go_on_exit",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_go_wipe_instance",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_go_wipe_instance",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L122",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_require_auth",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L68",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_wait_running",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_add_playbook_key",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_ssh_remote",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes_map_copy",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_parse",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_create.py",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_items_from",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_match",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_sh__entry",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_run_infer",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_py_path",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_txt",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_bin",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_fx_fy_cx_cy",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L115",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_load_scale",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L81",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_main",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_rgb_key",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_create_identifier",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_parse",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_list",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_items_from",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_list",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_match",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_map",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_items_from",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_map",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_match",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_ssh_remote",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_ssh",
+      "relation": "calls",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "call",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L62",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_parse",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_items_from",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_match",
+      "relation": "imports",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
       "source": "scripts_rebuild_catalog_load_item",
       "target": "scripts_rebuild_catalog_py_path",
       "relation": "references",
@@ -51807,6 +53876,54 @@
       "context": "parameter_type",
       "source_file": "scripts/rebuild_catalog.py",
       "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_bin",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_py_path",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_txt",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_py_path",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_load_scale",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_py_path",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "parameter_type",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_rgb_key",
+      "target": "tensor",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "context": "return_type",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L30",
       "weight": 1.0
     },
     {
@@ -51844,13 +53961,24 @@
     },
     {
       "source": "agents_agent_query_guide",
-      "target": "agents_conventions",
+      "target": "agents_artifixer_thunder_a100_skill",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "AGENTS.md",
       "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "agents_agent_query_guide",
+      "target": "agents_conventions",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AGENTS.md",
+      "source_location": "L42",
       "weight": 1.0
     },
     {
@@ -52433,7 +54561,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L18",
+      "source_location": "L19",
       "weight": 1.0
     },
     {
@@ -52444,7 +54572,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L23",
+      "source_location": "L24",
       "weight": 1.0
     },
     {
@@ -52455,7 +54583,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L30",
+      "source_location": "L32",
       "weight": 1.0
     },
     {
@@ -52466,7 +54594,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L35",
+      "source_location": "L37",
       "weight": 1.0
     },
     {
@@ -83985,6 +86113,17 @@
       "weight": 1.0
     },
     {
+      "source": "raw_notes_artifixer_gpu_run",
+      "target": "raw_notes_artifixer_gpu_run_artifixer_gpu_run_thunder_compute_max_quality",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/artifixer-gpu-run.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
       "source": "raw_notes_bess_phone_photos_splat_mesh_plan",
       "target": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
       "relation": "contains",
@@ -83996,91 +86135,69 @@
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_a_woshixing_factory_internals_the_splat_candidate",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_first_run_photos_1_001_5_zip_largest_187_stills",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L17",
+      "source_location": "L33",
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_optional_90s_labels_not_used_for_this_run",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L62",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_a_woshixing_2025_08_06_wrong_set_do_not_train",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L79",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
       "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_b_fat_factory_exterior_not_splat",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L35",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
       "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_c_br\u00e6dstrup_site_same_phone_wrong_subject",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L39",
+      "source_location": "L87",
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
       "target": "raw_notes_bess_phone_photos_splat_mesh_plan_dataset_d_marketing_cad_downstream_only",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L43",
-      "weight": 1.0
-    },
-    {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_3_hybrid_cad_truth_photo_projection_accuracy",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L103",
-      "weight": 1.0
-    },
-    {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_4_fast_orbit_poc_not_a_product_mesh",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L113",
-      "weight": 1.0
-    },
-    {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_splat_mesh_if_path_1_yields_a_ply",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L117",
-      "weight": 1.0
-    },
-    {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_finish_minimal_mesh_always",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L125",
+      "source_location": "L91",
       "weight": 1.0
     },
     {
@@ -84091,7 +86208,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L67",
+      "source_location": "L109",
       "weight": 1.0
     },
     {
@@ -84102,73 +86219,62 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L79",
+      "source_location": "L121",
       "weight": 1.0
     },
     {
       "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_2_skip_splat_photo_mesh_default_for_a1_a3_a4",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_2_skip_splat_photo_mesh_default_for_c7_c8_and_any_cluster_that_fails_the_gate",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L92",
+      "source_location": "L134",
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have_drive_not_google_photos",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_3_hybrid_cad_truth_photo_projection_accuracy",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L11",
+      "source_location": "L145",
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_4_recommended_attack_order",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_path_4_fast_orbit_poc_not_a_product_mesh",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L138",
+      "source_location": "L155",
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_5_platform_license_this_linux_worker",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_splat_mesh_if_path_1_yields_a_ply",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L153",
+      "source_location": "L159",
       "weight": 1.0
     },
     {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_6_open",
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_3_methods_from_the_design_ideas_harvest",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_finish_minimal_mesh_always",
       "relation": "contains",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L162",
-      "weight": 1.0
-    },
-    {
-      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
-      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_2_why_prior_gaussian_splats_failed_this_capture_not_the_phone",
-      "relation": "contains",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L49",
+      "source_location": "L167",
       "weight": 1.0
     },
     {
@@ -84179,7 +86285,62 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
-      "source_location": "L65",
+      "source_location": "L107",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_1_what_we_actually_have",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_4_recommended_attack_order_zip_5",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L180",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_5_platform_license_this_linux_worker",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L192",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_6_open",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L201",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan_plan_of_attack_salvage_phone_photos_gaussian_splat_minimal_mesh",
+      "target": "raw_notes_bess_phone_photos_splat_mesh_plan_2_why_prior_gaussian_splats_failed_and_what_this_set_changes",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L97",
       "weight": 1.0
     },
     {
@@ -85954,6 +88115,655 @@
       "weight": 1.0
     },
     {
+      "source": "skills_artifixer_thunder_a100_references_browser",
+      "target": "skills_artifixer_thunder_a100_references_browser_agent_console_path_not_the_human",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/browser.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_decision",
+      "target": "skills_artifixer_thunder_a100_references_decision_decision_record_max_quality_splat_mesh",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/decision.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_handoff",
+      "target": "skills_artifixer_thunder_a100_references_handoff_handoff_for_a_successor_agent",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_handoff_handoff_for_a_successor_agent",
+      "target": "skills_artifixer_thunder_a100_references_handoff_what_is_already_on_disk_this_machine",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_handoff_handoff_for_a_successor_agent",
+      "target": "skills_artifixer_thunder_a100_references_handoff_auth_state_when_this_was_written",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_handoff_handoff_for_a_successor_agent",
+      "target": "skills_artifixer_thunder_a100_references_handoff_cost_estimate_unproven",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_handoff_handoff_for_a_successor_agent",
+      "target": "skills_artifixer_thunder_a100_references_handoff_mesh_decision_already_adjudicated",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_handoff_handoff_for_a_successor_agent",
+      "target": "skills_artifixer_thunder_a100_references_handoff_what_you_are_being_asked_to_do",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_human",
+      "target": "skills_artifixer_thunder_a100_references_human_your_only_job",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/human.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_learnings",
+      "target": "skills_artifixer_thunder_a100_references_learnings_live_learnings_fill_this_on_the_first_gpu_run",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/learnings.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_references_learnings_live_learnings_fill_this_on_the_first_gpu_run",
+      "target": "skills_artifixer_thunder_a100_references_learnings_still_unknown_strike_out_when_proven",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/learnings.md",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_10_download",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_10_download_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/10_download.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_11_wipe",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_11_wipe_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/11_wipe.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_12_mesh_local",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_12_mesh_local_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/12_mesh_local.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_go_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_holdout_selected",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_holdout_selected_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/holdout_selected.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_local_tsdf_mesh",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_local_tsdf_mesh_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/local/tsdf_mesh.py",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_parse",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_create.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_create_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_create.py",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_match",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_parse_tnr_status_items_from",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_readme",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_readme_playbook_scripts_git_copy",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/README.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_04_weights",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_04_weights_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/04_weights.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_05_prepare",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_05_prepare_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/05_prepare.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_06_caption",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_06_caption_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/06_caption.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_08_artifixer3d",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_08_artifixer3d_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/08_artifixer3d.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_09_export",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_09_export_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/09_export.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_c4_gate",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_c4_gate_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/c4_gate.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_bin",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_count_images_txt",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_reg_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_scene",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_colmap_scene_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_scene.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_load_scale",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_rgb_key",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_fx_fy_cx_cy",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_dump_rgbd_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_holdout_selected",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_holdout_selected_main",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/holdout_selected.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_create_identifier",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_map",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tests_test_tnr_parse_test_status_list",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_sh__entry",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill",
+      "target": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_pipeline_order_gpu",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L102",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_objects",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L119",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_cli_api_facts_pre_live_verify",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L135",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_after_the_run",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L142",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_graphify",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L149",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_when_to_use",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_read_first",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_unproven_update_as_you_go",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_hard_locks_do_not_weaken_unless_the_user_says_so",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_human_vs_agent",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L73",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill_artifixer_on_thunder_a100_unproven",
+      "target": "skills_artifixer_thunder_a100_skill_setup_after_they_have_paid",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L81",
+      "weight": 1.0
+    },
+    {
       "source": "skills_x_harvest_clear_skill",
       "target": "skills_x_harvest_clear_skill_x_bookmark_likes_harvest_clear",
       "relation": "contains",
@@ -86203,6 +89013,270 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "scripts/x_clear_lists.sh",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_dry_run",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_ensure_ssh_key",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_path",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_load_env",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env_require_auth",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_install_tnr",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_write_instance_env",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_create_one",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_01_create_main",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L60",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_go_wipe_instance",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_go_on_exit",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes_map_copy",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install_hf_home",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_03_install_debian_frontend",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_04_weights",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_04_weights_hf_home",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/04_weights.sh",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_05_prepare",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_05_prepare_hf_home",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/05_prepare.sh",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_06_caption",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_06_caption_hf_home",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/06_caption.sh",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_hf_home",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_07_infer_run_infer",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_remote_08_artifixer3d",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_remote_08_artifixer3d_hf_home",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/remote/08_artifixer3d.sh",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_add_playbook_key",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_ssh",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_ssh_remote",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh_wait_running",
+      "relation": "defines",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
       "source_location": "L8",
       "weight": 1.0
     },
@@ -86516,6 +89590,17 @@
     },
     {
       "source": "catalog_topics_bess_3d_flythrough",
+      "target": "raw_notes_artifixer_gpu_run",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/bess-3d-flythrough.md",
+      "source_location": "L43",
+      "weight": 1.0
+    },
+    {
+      "source": "catalog_topics_bess_3d_flythrough",
       "target": "raw_notes_blender_minimax_h3_video_generation",
       "relation": "references",
       "_origin": "ast",
@@ -86610,7 +89695,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
-      "source_location": "L28",
+      "source_location": "L29",
       "weight": 1.0
     },
     {
@@ -86633,6 +89718,17 @@
       "confidence_score": 1.0,
       "source_file": "catalog/topics/gaussian-splatting.md",
       "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "catalog_topics_gaussian_splatting",
+      "target": "raw_notes_artifixer_gpu_run",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "catalog/topics/gaussian-splatting.md",
+      "source_location": "L30",
       "weight": 1.0
     },
     {
@@ -86867,6 +89963,28 @@
       "weight": 1.0
     },
     {
+      "source": "raw_notes_artifixer_gpu_run",
+      "target": "skills_artifixer_thunder_a100_skill",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/artifixer-gpu-run.md",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "raw_notes_bess_phone_photos_splat_mesh_plan",
+      "target": "raw_notes_artifixer_gpu_run",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notes/bess-phone-photos-splat-mesh-plan.md",
+      "source_location": "L203",
+      "weight": 1.0
+    },
+    {
       "source": "raw_notes_bess_phone_photos_splat_mesh_plan",
       "target": "raw_notes_blender_minimax_h3_video_generation",
       "relation": "references",
@@ -86922,6 +90040,72 @@
       "weight": 1.0
     },
     {
+      "source": "skills_artifixer_thunder_a100_references_handoff",
+      "target": "skills_artifixer_thunder_a100_skill",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/references/handoff.md",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_readme",
+      "target": "skills_artifixer_thunder_a100_skill",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/README.md",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill",
+      "target": "skills_artifixer_thunder_a100_references_learnings",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill",
+      "target": "skills_artifixer_thunder_a100_references_decision",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill",
+      "target": "skills_artifixer_thunder_a100_references_human",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_skill",
+      "target": "skills_artifixer_thunder_a100_references_browser",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "skills/artifixer-thunder-a100/SKILL.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
       "source": "skills_x_harvest_clear_skill",
       "target": "raw_progress_harvest_loop",
       "relation": "references",
@@ -86942,8 +90126,104 @@
       "source_file": "skills/x-harvest-clear/SKILL.md",
       "source_location": "L8",
       "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_01_create",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_10_download",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/10_download.sh",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_11_wipe",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/11_wipe.sh",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_12_mesh_local",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/12_mesh_local.sh",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_go",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/go.sh",
+      "source_location": "L70",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_pack_scenes",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "skills_artifixer_thunder_a100_scripts_playbook_tnr_ssh",
+      "target": "skills_artifixer_thunder_a100_scripts_playbook_00_env",
+      "relation": "imports_from",
+      "_origin": "ast",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "context": "import",
+      "source_file": "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh",
+      "source_location": "L6",
+      "weight": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "c532aa50ac464ec5881ce95eca082733837f7cf0"
+  "built_at_commit": "95c31d272c2a8a21de3a6b6951f30fdcd8184c2f"
 }

@@ -200,7 +200,8 @@ Do **not** mix 2025 Woshixing with this dump.
 
 ## 6. Open
 
-- **Splat salvage of zip 5 is closed** until recapture (dense transit frames from wide → close-up, and a back hemisphere).
+- **CUDA hail-mary (2026-09-07):** GPU ArtiFixer/3DGRUT on the existing 181 poses — see [artifixer-gpu-run](artifixer-gpu-run.md). Still will not invent a back hemisphere.
+- **Splat salvage of zip 5 is closed** on CPU/Brush until recapture (dense transit frames from wide → close-up, and a back hemisphere).
 - Measured cabinet / module dimensions for Path 3?
 - Skip-splat: Meshroom / COLMAP dense on the existing 181 poses, or CAD + photo projection.
 - Confirm Splat2Mesh commercial license vs stay on Blender (irrelevant until a usable surface exists).

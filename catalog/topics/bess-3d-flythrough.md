@@ -40,6 +40,7 @@ Query here for “site flythrough landing,” “scan the plant then orbit it,�
 <!-- AUTO:ITEMS -->
 - [ArtiFixer](../../raw/items/github-nv-tlabs-ArtiFixer/) — `github-nv-tlabs-ArtiFixer`
 - [scroll-world](../../raw/items/github-oso95-scroll-world/) — `github-oso95-scroll-world`
+- [ArtiFixer GPU run — takeover from hung Gaussian splat chat](../../raw/notes/artifixer-gpu-run.md) — `note-artifixer-gpu-run`
 - [Plan of attack: salvage phone photos → Gaussian splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan`
 - [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
 - [Splat2Mesh](../../raw/items/web-arcana-splat2mesh/) — `web-arcana-splat2mesh`

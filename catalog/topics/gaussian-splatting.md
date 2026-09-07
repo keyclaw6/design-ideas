@@ -14,6 +14,7 @@ Query here for “fix a thin splat,” “PLY to GLB,” or “one photo to an o
 - **PLY → mesh** — desktop export to OBJ/GLB for Blender / Three.js / print (`web-arcana-splat2mesh`, `x-2094826117056414132`, `x-2094648474377839018`).
 - **One image → world** — Atlas fills gaps; spark.js + three.js present the scene (`x-2094864872853119216`).
 - **Existing phone stills (no recapture)** — per-asset overlap audit, then salvage 3DGS *or* skip-splat mesh + decimate (`note-bess-phone-photos-splat-mesh-plan`).
+- **CUDA ArtiFixer on zip5** — Thunder A100 80GB, 14B + 3DGRUT, skill `artifixer-thunder-a100` (unproven until a live run updates it) (`note-artifixer-gpu-run`).
 
 ## Tools
 
@@ -26,6 +27,7 @@ Query here for “fix a thin splat,” “PLY to GLB,” or “one photo to an o
 - [Splat2Mesh — free Win tool](../../raw/items/x-2094826117056414132/) — `x-2094826117056414132` — cleanup/export before web or DCC; JA launch `x-2094648474377839018`.
 - [Atlas + spark.js + three.js](../../raw/items/x-2094864872853119216/) — `x-2094864872853119216` — World Labs Atlas reconstruction as a three.js scene (also `camera-control`, `video-generation`).
 - [Salvage phone photos → splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan` — Drive `SPLAT images` (544 stills, 8 vision clusters) + COLMAP-gate / skip-splat / CAD-hybrid attack order.
+- [ArtiFixer GPU run](../../raw/notes/artifixer-gpu-run.md) — `note-artifixer-gpu-run` — Thunder A100 80GB, 14B, C4 kill-gate; follow `skills/artifixer-thunder-a100/SKILL.md`.
 
 ## Examples
 
@@ -36,6 +38,7 @@ Query here for “fix a thin splat,” “PLY to GLB,” or “one photo to an o
 
 <!-- AUTO:ITEMS -->
 - [ArtiFixer](../../raw/items/github-nv-tlabs-ArtiFixer/) — `github-nv-tlabs-ArtiFixer`
+- [ArtiFixer GPU run — takeover from hung Gaussian splat chat](../../raw/notes/artifixer-gpu-run.md) — `note-artifixer-gpu-run`
 - [Plan of attack: salvage phone photos → Gaussian splat → minimal mesh](../../raw/notes/bess-phone-photos-splat-mesh-plan.md) — `note-bess-phone-photos-splat-mesh-plan`
 - [Splat2Mesh](../../raw/items/web-arcana-splat2mesh/) — `web-arcana-splat2mesh`
 - [The core claim checks out. For years 3D Gaussian Splatting quality was solid, but huge files, missing streaming/LOD, and](../../raw/items/x-2090589293677023507/) — `x-2090589293677023507`

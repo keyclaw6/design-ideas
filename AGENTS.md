@@ -35,6 +35,10 @@ Wiki index (if present): `graphify-out/wiki/index.md`. Broad review: `graphify-o
 
 When draining X bookmarks/likes into this library, read and follow **`skills/x-harvest-clear/SKILL.md`**. Prefer GraphQL `DeleteBookmark` over UI clicks for unsave.
 
+## ArtiFixer Thunder A100 skill
+
+When renting a Thunder Compute A100 to run ArtiFixer / 3DGRUT on BESS stills (splat → RGB-D dump → local TSDF mesh), read and follow **`skills/artifixer-thunder-a100/SKILL.md`**. The pipeline is unproven; the running agent must update that skill as they learn. Do not use the old RunPod cache under `~/.cache/bess-gpu-rent/`.
+
 ## Conventions
 
 - No judgment ranking — presence in the catalog does not imply recommendation.

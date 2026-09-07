@@ -1,16 +1,16 @@
-# Graph Report - design-ideas  (2026-09-05)
+# Graph Report - design-ideas  (2026-09-07)
 
 ## Corpus Check
-- 1526 files · ~30,046,230 words
+- 1560 files · ~30,053,946 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 4266 nodes · 3241 edges · 1130 communities (372 shown, 756 thin omitted)
-- Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
+- 4389 nodes · 3386 edges · 1145 communities (377 shown, 763 thin omitted)
+- Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 8 edges (avg confidence: 0.5)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `c532aa50`
+- Built from commit: `95c31d27`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -1141,32 +1141,53 @@
 - Gaussian splatting
 - Video generation
 - Catalog
-- Agent query guide
-- Patterns
+- 00_env.sh
+- ArtiFixer on Thunder A100 (unproven)
+- bess-3d-flythrough.md
+- test_tnr_parse.py
+- dump_rgbd.py
+- main
+- 03_install.sh
+- 07_infer.sh
+- 04_weights.sh
+- 05_prepare.sh
+- 06_caption.sh
+- 08_artifixer3d.sh
+- 09_export.sh
+- colmap_scene.sh
 
 ## God Nodes (most connected - your core abstractions)
 1. `LLM + Blender → AI Video: Photoreal BESS Flythrough` - 14 edges
-2. `X bookmark/likes harvest-clear` - 12 edges
-3. `Patterns` - 10 edges
-4. `Orchestration` - 10 edges
-5. `treg (OpenRouter for Tools)` - 9 edges
-6. `main()` - 8 edges
-7. `Obscura (GitHub)` - 8 edges
-8. `AIDesigner MCP` - 8 edges
-9. `Introducing Kitesurf` - 8 edges
-10. `Cult UI` - 8 edges
+2. `ArtiFixer on Thunder A100 (unproven)` - 12 edges
+3. `X bookmark/likes harvest-clear` - 12 edges
+4. `Patterns` - 10 edges
+5. `Orchestration` - 10 edges
+6. `treg (OpenRouter for Tools)` - 9 edges
+7. `main()` - 8 edges
+8. `Obscura (GitHub)` - 8 edges
+9. `AIDesigner MCP` - 8 edges
+10. `Introducing Kitesurf` - 8 edges
 
 ## Surprising Connections (you probably didn't know these)
-- None detected - all connections are within the same source files.
+- `go.sh script` --calls--> `add_playbook_key()`  [EXTRACTED]
+  skills/artifixer-thunder-a100/scripts/playbook/go.sh → skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh
+- `go.sh script` --calls--> `wait_running()`  [EXTRACTED]
+  skills/artifixer-thunder-a100/scripts/playbook/go.sh → skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh
+- `01_create.sh script` --calls--> `ensure_ssh_key()`  [EXTRACTED]
+  skills/artifixer-thunder-a100/scripts/playbook/01_create.sh → skills/artifixer-thunder-a100/scripts/playbook/00_env.sh
+- `11_wipe.sh script` --calls--> `load_env()`  [EXTRACTED]
+  skills/artifixer-thunder-a100/scripts/playbook/11_wipe.sh → skills/artifixer-thunder-a100/scripts/playbook/00_env.sh
+- `main()` --calls--> `require_auth()`  [EXTRACTED]
+  skills/artifixer-thunder-a100/scripts/playbook/01_create.sh → skills/artifixer-thunder-a100/scripts/playbook/00_env.sh
 
 ## Import Cycles
 - None detected.
 
-## Communities (1130 total, 756 thin omitted)
+## Communities (1145 total, 763 thin omitted)
 
 ### Community 0 - "X bookmark/likes harvest-clear"
-Cohesion: 0.08
-Nodes (22): Git, Harvest loop (X + Reddit), Reddit — Saved (`kab264set`), X — Bookmarks + Likes, Catalog, Item folders, Notes (pre-item research), Schema (+14 more)
+Cohesion: 0.04
+Nodes (41): Agent query guide, ArtiFixer Thunder A100 skill, Conventions, Graphify, Query order, X harvest skill, 3D / video / BESS flythrough, Capture-to-world (photo/video → 3D) (+33 more)
 
 ### Community 1 - "LLM + Blender → AI Video: Photoreal BESS Flythrough"
 Cohesion: 0.06
@@ -2589,8 +2610,8 @@ Cohesion: 0.83
 Nodes (3): cdp_url(), connect(), main()
 
 ### Community 394 - "3. Methods (from the design-ideas harvest)"
-Cohesion: 0.11
-Nodes (18): 1. What we actually have (Drive, not Google Photos), 2. Why prior Gaussian splats failed (this capture, not “the phone”), 3. Methods (from the design-ideas harvest), 4. Recommended attack order, 5. Platform / license (this Linux worker), 6. Open, Dataset A — Woshixing factory internals (the splat candidate), Dataset B — FAT / factory exterior (not splat) (+10 more)
+Cohesion: 0.10
+Nodes (20): 1. What we actually have, 2. Why prior Gaussian splats failed (and what this set changes), 3. Methods (from the design-ideas harvest), 4. Recommended attack order (zip 5), 5. Platform / license (this Linux worker), 6. Open, Dataset A — Woshixing 2025-08-06 (wrong set; do not train), Dataset B — FAT / factory exterior (not splat) (+12 more)
 
 ### Community 395 - "Infographics"
 Cohesion: 0.33
@@ -2644,33 +2665,53 @@ Nodes (6): All items, Examples, Pipelines, Techniques, Tools, Video generation
 Cohesion: 0.67
 Nodes (3): Catalog, Query order (agents), Taxonomy
 
-### Community 1127 - "Agent query guide"
-Cohesion: 0.18
-Nodes (8): Agent query guide, Conventions, Graphify, Query order, X harvest skill, Current focus, design-ideas, Layout
+### Community 1127 - "00_env.sh"
+Cohesion: 0.10
+Nodes (24): DRY_RUN, ensure_ssh_key(), load_env(), PATH, require_auth(), 00_env.sh script, create_one(), install_tnr() (+16 more)
 
-### Community 1128 - "Patterns"
-Cohesion: 0.20
-Nodes (10): 3D / video / BESS flythrough, Capture-to-world (photo/video → 3D), Data & context for agents, DESIGN.md & design skills, HTML-as-video / prompt-to-clip, Infographics & diagram-as-content, Landing page & UI motion pipelines, MCP & agent orchestration (+2 more)
+### Community 1128 - "ArtiFixer on Thunder A100 (unproven)"
+Cohesion: 0.06
+Nodes (24): Agent console path (not the human), Decision record — max-quality splat → mesh, Auth state when this was written, Cost (estimate, unproven), Handoff for a successor agent, Mesh decision (already adjudicated), What is already on disk (this machine), What you are being asked to do (+16 more)
+
+### Community 1130 - "test_tnr_parse.py"
+Cohesion: 0.38
+Nodes (8): main(), parse(), items_from(), main(), match(), test_create_identifier(), test_status_list(), test_status_map()
+
+### Community 1131 - "dump_rgbd.py"
+Cohesion: 0.43
+Nodes (6): fx_fy_cx_cy(), load_scale(), main(), Path, rgb_key(), Tensor
+
+### Community 1132 - "main"
+Cohesion: 0.80
+Nodes (4): count_images_bin(), count_images_txt(), main(), Path
+
+### Community 1133 - "03_install.sh"
+Cohesion: 0.50
+Nodes (3): DEBIAN_FRONTEND, HF_HOME, 03_install.sh script
+
+### Community 1134 - "07_infer.sh"
+Cohesion: 0.67
+Nodes (3): HF_HOME, run_infer(), 07_infer.sh script
 
 ## Knowledge Gaps
-- **2691 isolated node(s):** `BU_CDP_URL`, `BU_CDP_URL`, `x_delete_bookmark.sh script`, `Query order`, `Graphify` (+2686 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 3723 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **756 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **2736 isolated node(s):** `BU_CDP_URL`, `BU_CDP_URL`, `x_delete_bookmark.sh script`, `00_env.sh script`, `PATH` (+2731 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 3780 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **763 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `LLM + Blender → AI Video: Photoreal BESS Flythrough` connect `LLM + Blender → AI Video: Photoreal BESS Flythrough` to `three-js.md`?**
-  _High betweenness centrality (0.000) - this node is a cross-community bridge._
+- **Why does `UI Motion` connect `UI Motion` to `bess-3d-flythrough.md`?**
+  _High betweenness centrality (0.001) - this node is a cross-community bridge._
+- **Why does `Camera control` connect `Camera control` to `bess-3d-flythrough.md`?**
+  _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **What connects `BU_CDP_URL`, `BU_CDP_URL`, `x_delete_bookmark.sh script` to the rest of the system?**
-  _2691 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _2736 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `X bookmark/likes harvest-clear` be split into smaller, more focused modules?**
-  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.0425531914893617 - nodes in this community are weakly interconnected._
 - **Should `LLM + Blender → AI Video: Photoreal BESS Flythrough` be split into smaller, more focused modules?**
   _Cohesion score 0.058823529411764705 - nodes in this community are weakly interconnected._
 - **Should `Obscura (GitHub)` be split into smaller, more focused modules?**
   _Cohesion score 0.08695652173913043 - nodes in this community are weakly interconnected._
 - **Should `TinyLaunch Directories` be split into smaller, more focused modules?**
   _Cohesion score 0.09523809523809523 - nodes in this community are weakly interconnected._
-- **Should `3. Methods (from the design-ideas harvest)` be split into smaller, more focused modules?**
-  _Cohesion score 0.1111111111111111 - nodes in this community are weakly interconnected._

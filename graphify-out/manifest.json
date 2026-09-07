@@ -2352,9 +2352,9 @@
     "semantic_hash": ""
   },
   "AGENTS.md": {
-    "mtime": 1788533975.4344008,
-    "seen": 1788533980.5766385,
-    "ast_hash": "5963152a2a272064114c999d638d7222",
+    "mtime": 1788784287.1065855,
+    "seen": 1788784308.3219013,
+    "ast_hash": "6ff8d1770a5b971a693ea7773022c698",
     "semantic_hash": ""
   },
   "README.md": {
@@ -2370,9 +2370,9 @@
     "semantic_hash": ""
   },
   "catalog/index.md": {
-    "mtime": 1788626102.8633354,
-    "seen": 1788626105.8827963,
-    "ast_hash": "fe37588e66079ec29dcec1bdfa000dbc",
+    "mtime": 1788775494.9217765,
+    "seen": 1788778903.2975554,
+    "ast_hash": "b4d30d4e2febfd704e978d393898ac3b",
     "semantic_hash": ""
   },
   "catalog/patterns.md": {
@@ -2382,74 +2382,74 @@
     "semantic_hash": ""
   },
   "catalog/topics/agent-skills.md": {
-    "mtime": 1788626102.8670824,
-    "seen": 1788626105.8827977,
+    "mtime": 1788775494.9247494,
+    "seen": 1788778903.2975583,
     "ast_hash": "42a5c9ecff726716870e071f2c57ff48",
     "semantic_hash": ""
   },
   "catalog/topics/bess-3d-flythrough.md": {
-    "mtime": 1788626102.8651812,
-    "seen": 1788626105.882799,
-    "ast_hash": "94f66a3d62d8641605096f4aa0f70f39",
+    "mtime": 1788775494.9230008,
+    "seen": 1788778903.2975595,
+    "ast_hash": "c336e94153e5360981bdd013a65a5af5",
     "semantic_hash": ""
   },
   "catalog/topics/camera-control.md": {
-    "mtime": 1788626102.8655882,
-    "seen": 1788626105.8827999,
+    "mtime": 1788775494.923282,
+    "seen": 1788778903.297561,
     "ast_hash": "68ca6a2cd5cdfca134bb08ce6ad73309",
     "semantic_hash": ""
   },
   "catalog/topics/design.md": {
-    "mtime": 1788626102.8664052,
-    "seen": 1788626105.8828008,
+    "mtime": 1788775494.9240608,
+    "seen": 1788778903.2975621,
     "ast_hash": "fe96f4eec676527b16145ab293c652bd",
     "semantic_hash": ""
   },
   "catalog/topics/gaussian-splatting.md": {
-    "mtime": 1788626102.8653748,
-    "seen": 1788626105.8828018,
-    "ast_hash": "8d8f6618232bb5655634dfefff10f689",
+    "mtime": 1788784289.8905215,
+    "seen": 1788784308.3219178,
+    "ast_hash": "262bac853a2b8f89ce6775eade91df79",
     "semantic_hash": ""
   },
   "catalog/topics/infographics.md": {
-    "mtime": 1788626102.8677065,
-    "seen": 1788626105.8828027,
+    "mtime": 1788775494.9253333,
+    "seen": 1788778903.2975645,
     "ast_hash": "1c742ae8072b1b285fa5514e42178787",
     "semantic_hash": ""
   },
   "catalog/topics/keyboard-pcb.md": {
-    "mtime": 1788626102.866091,
-    "seen": 1788626105.8828032,
+    "mtime": 1788775494.923777,
+    "seen": 1788778903.2975652,
     "ast_hash": "b9447e2f4bec52e8aeb2155d8cfeb872",
     "semantic_hash": ""
   },
   "catalog/topics/mcp.md": {
-    "mtime": 1788626102.8675346,
-    "seen": 1788626105.882804,
+    "mtime": 1788775494.9252064,
+    "seen": 1788778903.297566,
     "ast_hash": "37a6d75e28ad0107044760fc945e4161",
     "semantic_hash": ""
   },
   "catalog/topics/seo-agents.md": {
-    "mtime": 1788626102.8659637,
-    "seen": 1788626105.882805,
+    "mtime": 1788775494.9236712,
+    "seen": 1788778903.2975667,
     "ast_hash": "96d652dedc84872554f87ae9fc3cae7d",
     "semantic_hash": ""
   },
   "catalog/topics/three-js.md": {
-    "mtime": 1788626102.8657756,
-    "seen": 1788626105.8828058,
+    "mtime": 1788775494.9234865,
+    "seen": 1788778903.2975678,
     "ast_hash": "f9b0c09ef919e345049777eff48bf2ad",
     "semantic_hash": ""
   },
   "catalog/topics/ui-motion.md": {
-    "mtime": 1788626102.8673818,
-    "seen": 1788626105.8828063,
+    "mtime": 1788775494.9250543,
+    "seen": 1788778903.2975686,
     "ast_hash": "edd6045f1513df1d922b4c606d5fa472",
     "semantic_hash": ""
   },
   "catalog/topics/video-generation.md": {
-    "mtime": 1788626102.8666759,
-    "seen": 1788626105.8828073,
+    "mtime": 1788775494.9243364,
+    "seen": 1788778903.2975698,
     "ast_hash": "d7dac737416072cb033b4e66214cb36e",
     "semantic_hash": ""
   },
@@ -10350,8 +10350,8 @@
     "semantic_hash": ""
   },
   "catalog/filtered.md": {
-    "mtime": 1788626102.8647223,
-    "seen": 1788626105.8827953,
+    "mtime": 1788775494.9227226,
+    "seen": 1788778903.2975528,
     "ast_hash": "ec13ef3d539cc51129de8844eddfa0aa",
     "semantic_hash": ""
   },
@@ -10368,9 +10368,213 @@
     "semantic_hash": ""
   },
   "raw/notes/bess-phone-photos-splat-mesh-plan.md": {
-    "mtime": 1788626046.5794444,
-    "seen": 1788626105.883688,
-    "ast_hash": "4cd6c8cff6f937ddcc3de3d9264c278e",
+    "mtime": 1788780739.8400617,
+    "seen": 1788783779.8766446,
+    "ast_hash": "7b6367410db1afc8e9835355bf579ad9",
+    "semantic_hash": ""
+  },
+  "raw/notes/artifixer-gpu-run.meta.json": {
+    "mtime": 1788780739.827062,
+    "seen": 1788783779.8757641,
+    "ast_hash": "3ebf6722b55e0dd6477758802aa79210",
+    "semantic_hash": ""
+  },
+  "raw/notes/artifixer-gpu-run.md": {
+    "mtime": 1788784287.3715794,
+    "seen": 1788784308.3230965,
+    "ast_hash": "6c4997110465ac8aec89b38050618355",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/00_env.sh": {
+    "mtime": 1788784182.0909748,
+    "seen": 1788784308.3218775,
+    "ast_hash": "2c8da6ee7e5235768b5f99bc75a694ab",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/01_create.sh": {
+    "mtime": 1788783744.2194295,
+    "seen": 1788784308.3218799,
+    "ast_hash": "354664d40ea1db98bebff2b930bd30c7",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/10_download.sh": {
+    "mtime": 1788780359.568999,
+    "seen": 1788784308.3218806,
+    "ast_hash": "197249849f2ac085e406cd15442cba4f",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/11_wipe.sh": {
+    "mtime": 1788780278.5087507,
+    "seen": 1788784308.3218815,
+    "ast_hash": "54e1197b3644d27a3866b5cb0a6cf8f3",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/12_mesh_local.sh": {
+    "mtime": 1788780359.5690153,
+    "seen": 1788784308.321883,
+    "ast_hash": "dbe84dd2aa13b245b1abb1d3233d2299",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/go.sh": {
+    "mtime": 1788783744.2194963,
+    "seen": 1788784308.3218842,
+    "ast_hash": "c78e9d8878a14bdd31f1339f3df8f83a",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/holdout_selected.py": {
+    "mtime": 1788780359.568908,
+    "seen": 1788784308.321885,
+    "ast_hash": "210ee522e4b3a68ca4880b5b1ab907bb",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/local/tsdf_mesh.py": {
+    "mtime": 1788780359.5690324,
+    "seen": 1788784308.321886,
+    "ast_hash": "863e9935905d13241c710ea40b2c4ef2",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/pack_scenes.sh": {
+    "mtime": 1788784182.0909748,
+    "seen": 1788784308.3218868,
+    "ast_hash": "6aaf7286cf238027c09cd3e2ad519c72",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_create.py": {
+    "mtime": 1788780249.6535075,
+    "seen": 1788784308.3218877,
+    "ast_hash": "f1798f8bcbd9b73fece999668147488d",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/parse_tnr_status.py": {
+    "mtime": 1788780249.6535316,
+    "seen": 1788784308.321889,
+    "ast_hash": "5240806558ed82a103158d6b5fc70c98",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/03_install.sh": {
+    "mtime": 1788780399.762287,
+    "seen": 1788784308.3218899,
+    "ast_hash": "254e4c6d24e5cead6abf7e060bf992b0",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/04_weights.sh": {
+    "mtime": 1788780399.7623088,
+    "seen": 1788784308.3218906,
+    "ast_hash": "c6df635be3f07a685e52bc143603d9fa",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/05_prepare.sh": {
+    "mtime": 1788780399.7623253,
+    "seen": 1788784308.3218913,
+    "ast_hash": "82e5e8d9944c7dce7360b0ee7dfbe94e",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/06_caption.sh": {
+    "mtime": 1788780399.7623408,
+    "seen": 1788784308.321892,
+    "ast_hash": "bd230fb1ee6a4ca288d3ec8f9a3f6e6f",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/07_infer.sh": {
+    "mtime": 1788783767.4827287,
+    "seen": 1788784308.321893,
+    "ast_hash": "4282aac9d8e6f1ad7a30e3f1013d07ef",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/08_artifixer3d.sh": {
+    "mtime": 1788783777.8846495,
+    "seen": 1788784308.3218937,
+    "ast_hash": "4f037596d4c2d85ad055c266367b8700",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/09_export.sh": {
+    "mtime": 1788780439.4917784,
+    "seen": 1788784308.3218944,
+    "ast_hash": "d29a36828d5d71c8fca9f3ced9c5a6b4",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/c4_gate.py": {
+    "mtime": 1788780439.491795,
+    "seen": 1788784308.3218951,
+    "ast_hash": "62aff5f75533737f7e3b5a44f4aa3777",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_reg.py": {
+    "mtime": 1788780439.4918103,
+    "seen": 1788784308.3218956,
+    "ast_hash": "a74bf7efe10385151553939d5c75daa9",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/colmap_scene.sh": {
+    "mtime": 1788780439.4918244,
+    "seen": 1788784308.321896,
+    "ast_hash": "4784a288422bc5c1c209a5f1d093706a",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/dump_rgbd.py": {
+    "mtime": 1788780472.8026464,
+    "seen": 1788784308.321897,
+    "ast_hash": "cdf092a4dd2708fa998508abc183847a",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/remote/holdout_selected.py": {
+    "mtime": 1788780359.5689514,
+    "seen": 1788784308.321898,
+    "ast_hash": "210ee522e4b3a68ca4880b5b1ab907bb",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/tests/test_tnr_parse.py": {
+    "mtime": 1788780249.6535556,
+    "seen": 1788784308.3218987,
+    "ast_hash": "b1b69216b7c250bdf891ffab291ea227",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/tnr_ssh.sh": {
+    "mtime": 1788780278.5087273,
+    "seen": 1788784308.3218994,
+    "ast_hash": "6652d1bdfa87bd0a1a6a7bb73e0434c3",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/SKILL.md": {
+    "mtime": 1788784259.4845953,
+    "seen": 1788784308.3231003,
+    "ast_hash": "4b0ea2f8ec7ce4f2cc03d24a37619f39",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/references/browser.md": {
+    "mtime": 1788784163.1664014,
+    "seen": 1788784308.3231015,
+    "ast_hash": "b6e4482cafb6ab37e64ff4bf63e73036",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/references/decision.md": {
+    "mtime": 1788784163.1654012,
+    "seen": 1788784308.3231022,
+    "ast_hash": "677d4d469e1abf03448610170933abb6",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/references/handoff.md": {
+    "mtime": 1788784280.985023,
+    "seen": 1788784308.3231032,
+    "ast_hash": "71be85160db94bd367b7f94ee21ce34a",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/references/human.md": {
+    "mtime": 1788784163.1664014,
+    "seen": 1788784308.323104,
+    "ast_hash": "3bcc13a33ff50d2672aae115b3412e9a",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/references/learnings.md": {
+    "mtime": 1788784278.1947157,
+    "seen": 1788784308.3231049,
+    "ast_hash": "a52547a95391788474d0d1d68d06124b",
+    "semantic_hash": ""
+  },
+  "skills/artifixer-thunder-a100/scripts/playbook/README.md": {
+    "mtime": 1788784282.0867004,
+    "seen": 1788784308.3231058,
+    "ast_hash": "996ffff27c716ba5e537b48350e6bb49",
     "semantic_hash": ""
   }
 }
