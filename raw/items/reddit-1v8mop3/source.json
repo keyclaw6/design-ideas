@@ -1,0 +1,35 @@
+{
+  "id": "reddit-1v8mop3",
+  "url": "https://www.reddit.com/r/TextToSpeech/comments/1v8mop3/i_pulled_4700_comments_from_the_accounts_that/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "I pulled 4700 comments from the accounts that keep recommending the same TTS product in this sub.",
+  "authors": [
+    "Own-Charge7127"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://www.reddit.com/r/aitubers/comments/1v978aw/four_accounts_have_spent_three_months_telling/"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1v8mop3",
+    "saved_kind": "post",
+    "post_id": "1v8mop3",
+    "comment_id": null,
+    "subreddit": "TextToSpeech",
+    "flair": null,
+    "posted_at": "2026-07-28T03:39:40+00:00",
+    "score_at_capture": 98,
+    "comment_count_at_capture": 18,
+    "comments_captured_from_api": 17,
+    "thread_comments_returned": 17,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:56:39+00:00"
+  }
+}

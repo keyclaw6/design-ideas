@@ -1,0 +1,40 @@
+{
+  "id": "x-2096917237105885412",
+  "url": "https://x.com/danielkbuilds/status/2096917237105885412",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "Tip for getting pages indexed: Search Console data + AI pattern-find, content quality first",
+  "authors": [
+    "DanielK (@danielkbuilds)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "http://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+    "https://www.bevizio.com/"
+  ],
+  "media": [
+    "media/photo.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096917237105885412",
+    "author_handle": "danielkbuilds",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 16641,
+      "likes": 218,
+      "replies": 16,
+      "retweets": 12,
+      "bookmarks": 418,
+      "quotes": 1
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "http://CountryTaxCalc.com (~$1k/mo). \nhttp://Bevizio.com — is ChatGPT recommending your rival?\nhttp://TheLaunchWall.com 🧱 free launch wall, add yours →.",
+    "posted_at": "Mon Sep 07 11:03:22 +0000 2026",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

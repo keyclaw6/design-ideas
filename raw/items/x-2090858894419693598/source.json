@@ -1,0 +1,27 @@
+{
+  "id": "x-2090858894419693598",
+  "url": "https://x.com/posthog/status/2090858894419693598",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:05:37Z",
+  "title": "Building a semantic layer: What it is and how we did it at PostHog",
+  "authors": [
+    "@posthog"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2090849020659060736"
+  ],
+  "media": [
+    "media/cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2090858894419693598",
+    "author_handle": "posthog",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

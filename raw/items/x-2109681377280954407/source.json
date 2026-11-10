@@ -1,0 +1,75 @@
+{
+  "id": "x-2109681377280954407",
+  "url": "https://x.com/tobiadonadon_/status/2109681377280954407",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "How to Stop Making your Apps Look Like AI Slop 2.0",
+  "authors": [
+    "Tobi (@tobiadonadon_)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2109678443839315971",
+    "https://www.tobiadonadon.com/projects/construct/material/setups/app-designer-pro"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.png",
+    "media/image-03.png",
+    "media/image-04.png",
+    "media/video-01.mp4",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109681377280954407",
+    "author_handle": "tobiadonadon_",
+    "posted_at": "2026-10-12T16:23:30+00:00",
+    "metrics": {
+      "views": 47983,
+      "likes": 174,
+      "replies": 9,
+      "retweets": 13,
+      "bookmarks": 554,
+      "quotes": 2
+    },
+    "articles": [
+      {
+        "kind": "direct",
+        "id": "2109678443839315971",
+        "title": "How to Stop Making your Apps Look Like AI Slop 2.0",
+        "blocks": 43,
+        "quoted_tweet_id": null
+      }
+    ],
+    "reply_records_captured": 12,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUcXeoCWwAA-TqG.jpg",
+      "media/image-02.png": "https://pbs.twimg.com/media/HUcX1OqXoAEige_.png",
+      "media/image-03.png": "https://pbs.twimg.com/media/HUcXvdbWgAAn1hw.png",
+      "media/image-04.png": "https://pbs.twimg.com/media/HUcXyYDWMAAzarU.png",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109978042936287234/vid/avc1/1040x1760/kcjHzlW2EijkCj5j.mp4?tag=29",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110374180395098112/vid/avc1/576x1024/t-hXvst_5sBLVpTc.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110385606014480384/vid/avc1/1920x1080/eKSiyJZ5o7itVk74.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110564564559364096/vid/avc1/1920x1080/0IEKKVE3Qqpc4sEI.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "https://x.com/i/article/2109678443839315971",
+    "fx_raw_text": "https://t.co/lmaUWvP478",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2109978137794883621",
+      "2110375346046746649",
+      "2110385721391366263",
+      "2110564814531797386"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:31.004215+00:00"
+  }
+}

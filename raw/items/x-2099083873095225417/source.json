@@ -1,0 +1,36 @@
+{
+  "id": "x-2099083873095225417",
+  "url": "https://x.com/neropursue/status/2099083873095225417",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:30:16Z",
+  "title": "Some premium free fonts I’ve been loving lately. Save these for your next project ↓",
+  "authors": [
+    "Nero (@neropursue)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/photo_0.jpg",
+    "media/photo_1.jpg",
+    "media/photo_2.jpg",
+    "media/photo_3.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099083873095225417",
+    "author_handle": "neropursue",
+    "migrated_v2": true,
+    "author_name": "Nero",
+    "created_at": "Sun Sep 13 10:32:49 +0000 2026",
+    "likes": 2001,
+    "replies": 18,
+    "retweets": 1789371183,
+    "views": 75314,
+    "bookmarks": 2546,
+    "fetch": "api.fxtwitter.com + agent-browser replies via own tab t7",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "authors": [
+    "@_avichawla"
+  ],
+  "captured_at": "2026-09-21T12:14:45Z",
+  "extra": {
+    "author_handle": "_avichawla",
+    "migrated_v2": true,
+    "tweet_id": "2101966536798040332",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  },
+  "id": "x-2101966536798040332",
+  "media": [
+    "media/video-2101966502954196992-720p.mp4",
+    "media/thumb-2101966502954196992.jpg"
+  ],
+  "related_urls": [
+    "http://github.com/Asymptote-Labs/agent-beacon",
+    "https://x.com/_avichawla/status/2101563610644496464",
+    "https://x.com/i/article/2101408350391136256",
+    "https://jev-use-cases.com",
+    "https://x.com/_avichawla/status/2101968207695540347",
+    "https://x.com/trycaliber/status/2101967378187772181",
+    "https://x.com/An_yhl/status/2102001197305721332",
+    "https://x.com/edjafarov/status/2101989223389655532",
+    "https://x.com/kepochnik/status/2101988251145793776",
+    "https://x.com/ConfusedRari/status/2101991763283947750",
+    "https://x.com/Cyrbuzz123/status/2101980836119908527",
+    "https://x.com/juraj_at_qik/status/2101980677545615787",
+    "https://x.com/salisedesign/status/2102001515225321796",
+    "https://x.com/maheshaipm/status/2101995881415504316",
+    "https://x.com/asaridarr/status/2101998865595465903",
+    "https://x.com/Imfulao/status/2101988392389259547",
+    "https://x.com/asymptotelabs/status/2101967697307111887",
+    "https://x.com/AVojtkov/status/2101971549326557291",
+    "https://x.com/vernons/status/2101987777038676146"
+  ],
+  "source_type": "x",
+  "title": "Another insane Jev use case! Jev is making it dramatically cheaper to evaluate what actually happened inside an agent",
+  "topics": [
+    "agent-skills"
+  ],
+  "unsaved": true,
+  "url": "https://x.com/_avichawla/status/2101966536798040332"
+}

@@ -1,4 +1,4 @@
-# Schema
+# Schema (v2 — single verbatim file, 2026-09-21)
 
 ## Item folders
 
@@ -6,14 +6,35 @@ Each captured bookmark or URL lives under:
 
 ```
 raw/items/<id>/
-├── source.json      # required metadata
-├── page.md          # website/github content (or post.md for X posts)
-├── comments.md      # optional — thread replies, discussion
-├── research.md      # agent synthesis, follow-ups, open questions
-└── media/           # screenshots, downloads, attachments
+├── content.md     # SINGLE readable file — verbatim snapshot, no summary
+├── source.json    # required metadata (machine index for catalog rebuild)
+└── media/         # local images/video/audio, referenced relatively
 ```
 
-Use `post.md` instead of `page.md` when `source_type` is `x` or `reddit`.
+One folder per saved URL. One markdown file per folder. `content.md` holds the
+original link plus the full original post/article as-is, local media embeds,
+author thread/pinned items, and relevant comments from others — verbatim, no
+paraphrase, no synthesis. An agent opens `content.md` and sees what was saved
+without hitting X or the web.
+
+## content.md
+
+Sections in order; omit empty ones, never invent content:
+
+1. `# <title>` (from `source.json` title, verbatim)
+2. `> Source: <url>` + author + posted date + stats-at-capture if known
+   (facts, not synthesis)
+3. `## Post` or `## Article` — full original text, untruncated
+4. `## Media` — local embeds `![](media/...)` (video: `[media/f](media/f)`)
+   + original media URL for provenance
+5. `## Thread` — author self-replies / pinned, verbatim with author + link
+6. `## Comments` — relevant replies verbatim with author + link, no paraphrase
+7. `## Links` — `related_urls` verbatim list
+
+Rules: verbatim only — no summaries, no "what they are doing", no open
+questions. Images/video live in `media/` and are embedded relatively; never
+hotlink-only. Legacy `post.md` / `page.md` / `comments.md` / `research.md`
+were merged into `content.md` and deleted (v2 migration 2026-09-21).
 
 Reddit items use folder id `reddit-<post_id>` (base36 or full id from URL).
 
@@ -47,7 +68,11 @@ Reddit items use folder id `reddit-<post_id>` (base36 or full id from URL).
 
 ## Topics (non-exclusive)
 
-`bess-3d-flythrough`, `gaussian-splatting`, `camera-control`, `three-js`, `seo-agents`, `keyboard-pcb`, `design`, `video-generation`, `agent-skills`, `ui-motion`, `mcp`, `infographics`
+`bess-3d-flythrough`, `gaussian-splatting`, `camera-control`, `three-js`, `seo-agents`, `keyboard-pcb`, `design`, `video-generation`, `agent-skills`, `ui-motion`, `mcp`, `infographics`, `general-reference`
+
+Use `general-reference` for saved material outside the specialist lanes, such as
+desktop utilities, general computing, and personal reference. Keep these captures
+in the catalog; a saved item does not need to fit a design topic to be archived.
 
 ## Notes (pre-item research)
 

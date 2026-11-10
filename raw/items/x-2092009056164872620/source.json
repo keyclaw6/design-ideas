@@ -19,6 +19,7 @@
     "tweet_id": "2092009056164872620",
     "author_handle": "yachimat_manga",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "CozyClay + MCP review; same tool as x-2091577179914338583"
+    "category_note": "CozyClay + MCP review; same tool as x-2091577179914338583",
+    "migrated_v2": true
   }
 }

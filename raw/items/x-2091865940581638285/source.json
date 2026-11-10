@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2091865940581638285",
     "author_handle": "michaelmicasso",
-    "category_note": "Slash-command /have-some-range; media-only"
+    "category_note": "Slash-command /have-some-range; media-only",
+    "migrated_v2": true
   }
 }

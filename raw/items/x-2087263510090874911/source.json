@@ -23,6 +23,7 @@
       "x-2087304957011911157",
       "x-2082316720086405524"
     ],
-    "category_note": "AGENTS.md loads ponytail/grilling/wayfinder/ask-matt; Pi /handoff at 100k context. Taste-as-process."
+    "category_note": "AGENTS.md loads ponytail/grilling/wayfinder/ask-matt; Pi /handoff at 100k context. Taste-as-process.",
+    "migrated_v2": true
   }
 }

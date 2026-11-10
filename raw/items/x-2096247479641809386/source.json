@@ -1,0 +1,36 @@
+{
+  "authors": [
+    "@AdhamDannaway"
+  ],
+  "captured_at": "2026-09-21T12:14:45Z",
+  "extra": {
+    "author_handle": "AdhamDannaway",
+    "migrated_v2": true,
+    "tweet_id": "2096247479641809386",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  },
+  "id": "x-2096247479641809386",
+  "media": [
+    "media/video-2095643867748106240-720p.mp4",
+    "media/thumb-2095643867748106240.jpg"
+  ],
+  "related_urls": [
+    "https://jakub.kr/skills",
+    "https://x.com/AdhamDannaway/status/2096737375649210785",
+    "https://x.com/AdhamDannaway/status/2096838857996267524",
+    "https://x.com/AdhamDannaway/status/2096751042298048899",
+    "https://x.com/siddarthsaha1/status/2096506472343687267",
+    "https://x.com/mullercardenas/status/2096798852770673145",
+    "https://x.com/Swizenfeld/status/2096746585321615647",
+    "https://x.com/Marwan_3atef/status/2096317072582046202"
+  ],
+  "source_type": "x",
+  "title": "🦾 A collection of agent design skills that help with animation, UI polish, accessibility and product writing.",
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "unsaved": true,
+  "url": "https://x.com/AdhamDannaway/status/2096247479641809386"
+}

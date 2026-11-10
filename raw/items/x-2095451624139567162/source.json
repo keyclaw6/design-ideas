@@ -15,6 +15,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095451624139567162",
     "author_handle": "ranakabiria",
     "category_note": "GPT-5.6 Sol website prompt (second author example).",

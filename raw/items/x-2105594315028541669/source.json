@@ -1,0 +1,73 @@
+{
+  "id": "x-2105594315028541669",
+  "url": "https://x.com/kalashvasaniya/status/2105594315028541669",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "never ignore programmatic SEO",
+  "authors": [
+    "Kalash (@kalashvasaniya)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2016405818040844293",
+    "https://github.com/coreyhaines31/marketingskills/blob/main/skills/programmatic-seo/SKILL.md"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/animation-01.mp4",
+    "media/image-03.jpg",
+    "media/animation-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2105594315028541669",
+    "author_handle": "kalashvasaniya",
+    "posted_at": "Thu Oct 01 09:42:59 +0000 2026",
+    "metrics": {
+      "views": 23359,
+      "likes": 213,
+      "replies": 12,
+      "retweets": 15,
+      "bookmarks": 368,
+      "quotes": 0
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2016405818040844293",
+        "title": "programmatic SEO playbook",
+        "blocks": 106,
+        "quoted_tweet_id": "2017089820951269453"
+      }
+    ],
+    "reply_records_captured": 13,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTiRZXrbgAAi2of.jpg?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/G_vIMK3bAAUTiZf.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTntYd2bUAAaA69.mp4",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUmHn30bIAAQOuw.jpg",
+      "media/animation-02.mp4": "https://video.twimg.com/tweet_video/HUmfG_MXUAEuW-Z.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "never ignore programmatic SEO\n\njust started pSEO 6 weeks ago and what a crazy result",
+    "fx_raw_text": "never ignore programmatic SEO\n\njust started pSEO 6 weeks ago and what a crazy result https://t.co/Z13lOg5a40",
+    "quoted_post": {
+      "id": "2017089820951269453",
+      "url": "https://x.com/kalashvasaniya/status/2017089820951269453",
+      "author": "Kalash (@kalashvasaniya)",
+      "text": ""
+    },
+    "unverified_timeline_record_ids": [
+      "2110371582153748942",
+      "2110367059951726694",
+      "2110394684057211287",
+      "2110471378189312039"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:02.493277+00:00"
+  }
+}

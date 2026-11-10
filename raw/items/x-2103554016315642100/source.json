@@ -1,0 +1,117 @@
+{
+  "id": "x-2103554016315642100",
+  "url": "https://x.com/0xCodila/status/2103554016315642100",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Chinese students just found the best way to use JEV for any LLM or AI agent - released a PDF research",
+  "authors": [
+    "codila (@0xCodila)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2077744776565149697",
+    "https://console.typesafe.ai/settings/keys",
+    "https://x.com/fazxes/status/2100300097695232164",
+    "https://console.typesafe.ai/playground",
+    "https://github.com/typesafe-ai/skills",
+    "https://docs.typesafe.ai/patterns/fan-out",
+    "https://github.com/browser-use/jev-ultrafast/blob/main/jev_ultrafast/agent.py",
+    "https://github.com/browser-use/jev-ultrafast",
+    "https://docs.typesafe.ai/confidence",
+    "https://github.com/browser-use/jev-ultrafast/blob/main/docs/performance.md",
+    "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "https://www.python.org/downloads/",
+    "https://docs.typesafe.ai/api",
+    "https://github.com/browser-use/jev-ultrafast/blob/main/jev_ultrafast/model.py",
+    "https://docs.typesafe.ai/sdk/python",
+    "https://docs.typesafe.ai/introduction/quickstart",
+    "https://www.langchain.com/blog/building-a-harness-with-jev",
+    "https://docs.typesafe.ai/models",
+    "https://docs.typesafe.ai/concepts/state",
+    "https://docs.typesafe.ai/sdk/python/usage",
+    "https://docs.typesafe.ai/primitives/choice",
+    "https://substack.com/@0xcodila",
+    "https://docs.typesafe.ai/primitives/noul",
+    "https://x.com/@0xCodila",
+    "https://docs.typesafe.ai/primitives/score"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.jpg",
+    "media/image-07.png",
+    "media/image-08.jpg",
+    "media/image-09.jpg",
+    "media/image-10.jpg",
+    "media/image-11.jpg",
+    "media/image-12.jpg",
+    "media/image-13.png",
+    "media/image-14.jpg",
+    "media/image-15.jpg",
+    "media/image-16.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103554016315642100",
+    "author_handle": "0xCodila",
+    "posted_at": "2026-09-25T18:35:34+00:00",
+    "metrics": {
+      "views": 98148,
+      "likes": 815,
+      "replies": 41,
+      "retweets": 136,
+      "bookmarks": 1497,
+      "quotes": 3
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2077744776565149697",
+        "title": "Jev Engineering: Full 10-Step Roadmap to Set Up and Use a New Brain for AI (from scratch)",
+        "blocks": 138,
+        "quoted_tweet_id": "2100984487802708306"
+      }
+    ],
+    "reply_records_captured": 39,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTFM72eWkAAgYla.jpg?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HSgY7VCXUAAWG9f.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HSgsuSvWMAAUmht.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HSgsVsUW4AALdJK.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HSgrRIYXQAA_qIm.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HSgtVN2XgAEydLO.jpg",
+      "media/image-07.png": "https://pbs.twimg.com/media/HSgs099XgAAw37r.png",
+      "media/image-08.jpg": "https://pbs.twimg.com/media/HSgotROWgAAjE5w.jpg",
+      "media/image-09.jpg": "https://pbs.twimg.com/media/HSgq7fkWMAAagx3.jpg",
+      "media/image-10.jpg": "https://pbs.twimg.com/media/HSgrIJEXYAAfX-k.jpg",
+      "media/image-11.jpg": "https://pbs.twimg.com/media/HSgs9sCXYAEaXNH.jpg",
+      "media/image-12.jpg": "https://pbs.twimg.com/media/HSgtBJgWgAEGBgE.jpg",
+      "media/image-13.png": "https://pbs.twimg.com/media/HSgtEigXYAAwQnH.png",
+      "media/image-14.jpg": "https://pbs.twimg.com/media/HSgsR3ZXIAA9iMp.jpg",
+      "media/image-15.jpg": "https://pbs.twimg.com/media/HSgtO1dWMAAgrsO.jpg",
+      "media/image-16.png": "https://pbs.twimg.com/media/HTHKZQYbAAEhKS6.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Chinese students just found the best way to use JEV for any LLM or AI agent - released a PDF research\n\nthe shift: I pasted it into Claude and GPT - and cut my costs by~63х\n\nhere’s what they found across 44 benchmarks:\n\n1 → 7,193 responses, 10 types of failure. Jev was tested on hallucinations, prompt injections, data leaks, and other AI failures\n\n2 → One simple question worked: 0.886 median AUROC, beating trained baselines on 25 of 31 benchmarks without task-specific training\n\n3 → Context beat clever prompting - give Jev the source or rule it needs to check the answer against\n\n4 → Keep the probability, not just \"yes\" or \"no\" - Fitting a threshold on 10 labeled examples raised median F1 from 0.706 to 0.793\n\n5 → Among the 50% most confident decisions, median accuracy reached 0.933 - send uncertain cases for another review\n\n6 → Jev even helped uncover labeling errors in three benchmarks. Sometimes the test’s \"correct answer\" was the problem\n\n7 → 11.4 questions per call, with 0.31-second median latency - on 19 benchmarks, checking cost $0.30 vs $18.96 with LLM judges - roughly 63× cheaper\n\nthe result: It will made your setup CHEAPER and FASTER than what 95% of people are running\n\nCopy the Jev setup researchers tested across 44 benchmarks - then read the full Jev architecture ↓",
+    "fx_raw_text": "Chinese students just found the best way to use JEV for any LLM or AI agent - released a PDF research\n\nthe shift: I pasted it into Claude and GPT - and cut my costs by~63х\n\nhere’s what they found across 44 benchmarks:\n\n1 → 7,193 responses, 10 types of failure. Jev was tested on hallucinations, prompt injections, data leaks, and other AI failures\n\n2 → One simple question worked: 0.886 median AUROC, beating trained baselines on 25 of 31 benchmarks without task-specific training\n\n3 → Context beat clever prompting - give Jev the source or rule it needs to check the answer against\n\n4 → Keep the probability, not just \"yes\" or \"no\" - Fitting a threshold on 10 labeled examples raised median F1 from 0.706 to 0.793\n\n5 → Among the 50% most confident decisions, median accuracy reached 0.933 - send uncertain cases for another review\n\n6 → Jev even helped uncover labeling errors in three benchmarks. Sometimes the test’s \"correct answer\" was the problem\n\n7 → 11.4 questions per call, with 0.31-second median latency - on 19 benchmarks, checking cost $0.30 vs $18.96 with LLM judges - roughly 63× cheaper\n\nthe result: It will made your setup CHEAPER and FASTER than what 95% of people are running\n\nCopy the Jev setup researchers tested across 44 benchmarks - then read the full Jev architecture ↓",
+    "quoted_post": {
+      "id": "2100984487802708306",
+      "url": "https://x.com/0xCodila/status/2100984487802708306",
+      "author": "codila (@0xCodila)",
+      "text": "Jev is the \"Internet\" moment for the AI industry\n\nIt tells your agents and LLMs what to do next, in milliseconds and at almost zero cost\n\nIf you set it up correctly, you will have the AI engineer’s stack for 2028\n\nIn this article, I show you how https://x.com/i/article/2077744776565149697"
+    },
+    "unverified_timeline_record_ids": [
+      "2099964624648958223",
+      "2068115197718593741",
+      "2103910967461421458"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:53:03.564299+00:00"
+  }
+}

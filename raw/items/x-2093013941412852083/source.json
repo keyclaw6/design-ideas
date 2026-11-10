@@ -18,6 +18,7 @@
     "tweet_id": "2093013941412852083",
     "author_handle": "brendanocwp",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:40:10Z"
+    "unsaved_at": "2026-09-04T06:40:10Z",
+    "migrated_v2": true
   }
 }

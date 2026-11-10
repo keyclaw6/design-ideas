@@ -1,0 +1,44 @@
+{
+  "id": "x-2098004743536750869",
+  "url": "https://x.com/shannholmberg/status/2098004743536750869",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:34:50Z",
+  "title": "https://x.com/i/article/2097715216951750656",
+  "authors": [
+    "@shannholmberg"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2097715216951750656",
+    "https://x.com/i/status/2089089731980406984",
+    "https://x.com/i/status/2068816251229794671",
+    "https://x.com/i/status/2085714361222369608",
+    "https://github.com/mvanhorn/last30days-skill",
+    "https://x.com/i/status/2087539757052285200",
+    "https://x.com/i/status/2094704183345922356",
+    "https://x.com/i/status/2094145545824829841",
+    "https://x.com/i/status/2070153493747495170",
+    "https://x.com/i/status/2091804800757494169"
+  ],
+  "media": [
+    "media/article-0.jpg",
+    "media/article-1.jpg",
+    "media/article-2.jpg",
+    "media/article-3.jpg",
+    "media/article-4.jpg",
+    "media/article-5.jpg",
+    "media/article-6.jpg",
+    "media/article-7.jpg",
+    "media/cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098004743536750869",
+    "author_handle": "shannholmberg",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

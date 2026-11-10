@@ -27,6 +27,7 @@
       "x-2088252062454751483",
       "x-2095548418533798086"
     ],
-    "category_note": "CadXStudio text-to-CAD: parametric bookshelf speaker enclosure from one prompt."
+    "category_note": "CadXStudio text-to-CAD: parametric bookshelf speaker enclosure from one prompt.",
+    "migrated_v2": true
   }
 }

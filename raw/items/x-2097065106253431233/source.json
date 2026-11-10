@@ -1,0 +1,28 @@
+{
+  "id": "x-2097065106253431233",
+  "url": "https://x.com/seveibar/status/2097065106253431233",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:29:07Z",
+  "title": "Instead of letting Astra use KiCad, try asking for tscircuit We've just released the first tscircuit version that",
+  "authors": [
+    "Seve (@seveibar)"
+  ],
+  "topics": [
+    "keyboard-pcb",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/photo_0.jpg",
+    "media/photo_1.jpg",
+    "media/photo_2.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097065106253431233",
+    "author_handle": "seveibar",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "x-2098516802951061604",
+  "url": "https://x.com/michaelgold/status/2098516802951061604",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "You can feed this repo to your agent.. it should be able to figure out the rest. https://github.com/bpy-dev/blender-mcp",
+  "authors": [
+    "Michael Gold (@michaelgold)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/bpy-dev/blender-mcp"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098516802951061604",
+    "author_handle": "michaelgold",
+    "author_name": "Michael Gold",
+    "author_bio": "Investing in open source physical AI",
+    "created_at": "Fri Sep 11 20:59:29 +0000 2026",
+    "stats": {
+      "likes": 32,
+      "reposts": 4,
+      "replies": 1,
+      "views": 3595,
+      "bookmarks": 62,
+      "quotes": 1
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 121,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 3,
+    "replies_thread": 3,
+    "replies_comments": 0,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

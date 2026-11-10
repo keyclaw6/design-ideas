@@ -24,6 +24,7 @@
       "x-2087151807965401320",
       "web-chatgpt-training"
     ],
-    "category_note": "Codex auto-research loop that 212x’d a QR kernel — concrete eval-harness write-up."
+    "category_note": "Codex auto-research loop that 212x\u2019d a QR kernel \u2014 concrete eval-harness write-up.",
+    "migrated_v2": true
   }
 }

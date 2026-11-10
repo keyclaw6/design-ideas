@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2094164487381414344",
     "author_handle": "cy_burns",
-    "category_note": "Claude for motion graphics 2.0: script \u2192 launch video + VO/SFX (credit bait secondary)."
+    "category_note": "Claude for motion graphics 2.0: script → launch video + VO/SFX (credit bait secondary).",
+    "migrated_v2": true
   }
 }

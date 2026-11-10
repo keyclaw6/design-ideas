@@ -1,0 +1,46 @@
+{
+  "id": "x-2097437004204286411",
+  "url": "https://x.com/kylejeong/status/2097437004204286411",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "We just made Astra's computer use 2.5x faster with Stagehand. Astra works by executing code against the a11y tree, we",
+  "authors": [
+    "Kyle Jeong (@kylejeong)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://docs.stagehand.dev"
+  ],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097437004204286411",
+    "author_handle": "kylejeong",
+    "author_name": "Kyle Jeong",
+    "author_bio": "growth engineering @browserbase | also @vestucla @kp_fellows math/cs @ucla",
+    "created_at": "Tue Sep 08 21:28:44 +0000 2026",
+    "likes": 157,
+    "replies": 12,
+    "retweets": 15,
+    "views": 24399,
+    "bookmarks": 178,
+    "quotes": 3,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 273,
+    "replies_added": 1,
+    "replies_thread": 1,
+    "replies_comments": 0,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -15,6 +15,7 @@
     "tweet_id": "2091835143522840732",
     "author_handle": "basit_designs",
     "fetch": "api.fxtwitter.com (retry)",
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

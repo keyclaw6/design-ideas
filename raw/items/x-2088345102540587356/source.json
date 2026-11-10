@@ -29,6 +29,7 @@
       "github-emilkowalski-skills",
       "web-blume-codes"
     ],
-    "category_note": "LangChain MDA: agent-as-folder + MCP/skills/evals"
+    "category_note": "LangChain MDA: agent-as-folder + MCP/skills/evals",
+    "migrated_v2": true
   }
 }

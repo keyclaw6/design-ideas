@@ -1,0 +1,59 @@
+{
+  "id": "x-2106479630026973686",
+  "url": "https://x.com/RhysSullivan/status/2106479630026973686",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "if you want to unhandicap codex computer use (getting 1password to appear, having it not reprompt you for approval when you've already given it) here's a github gist to give to you",
+  "authors": [
+    "Rhys (@RhysSullivan)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://gist.github.com/RhysSullivan/c3962da1768131a572791259d90da7de"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.png",
+    "media/image-05.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106479630026973686",
+    "author_handle": "RhysSullivan",
+    "posted_at": "2026-10-03T20:20:54+00:00",
+    "metrics": {
+      "views": 28747,
+      "likes": 319,
+      "replies": 20,
+      "retweets": 6,
+      "bookmarks": 573,
+      "quotes": 3
+    },
+    "articles": [],
+    "reply_records_captured": 27,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTu7sC4bcAA0OEY.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUoH2yoXoAARpmr.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUoJjt-WQAAaGw-.jpg",
+      "media/image-04.png": "https://pbs.twimg.com/media/HUnthtMbMAAWITt.png",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HUoPE0zWIAAc3aF.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "if you want to unhandicap codex computer use (getting 1password to appear, having it not reprompt you for approval when you've already given it) here's a github gist to give to your agent\n\nyou should only do this if you know what you're doing https://gist.github.com/RhysSullivan/c3962da1768131a572791259d90da7de",
+    "fx_raw_text": "if you want to unhandicap codex computer use (getting 1password to appear, having it not reprompt you for approval when you've already given it) here's a github gist to give to your agent\n\nyou should only do this if you know what you're doing https://t.co/7JAOEp5r3F",
+    "unverified_timeline_record_ids": [
+      "2099964624640598175",
+      "2110496830429839869",
+      "2110509898958008515",
+      "2110484840256819380",
+      "2110516297230336272"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:38.225926+00:00"
+  }
+}

@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2091622751756751211",
     "author_handle": "kickingkeys",
-    "category_note": "HTML/coding-model video; html-video adjacent"
+    "category_note": "HTML/coding-model video; html-video adjacent",
+    "migrated_v2": true
   }
 }

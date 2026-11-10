@@ -19,6 +19,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 380,
     "license": "Apache-2.0",
     "homepage": "https://seoskill.dev",

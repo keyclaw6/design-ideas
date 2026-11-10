@@ -1,0 +1,37 @@
+{
+  "id": "x-2099301416468652506",
+  "url": "https://x.com/yurahulei/status/2099301416468652506",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:30:16Z",
+  "title": "We FINALLY shipped an MCP so your AI Agent can rent 100s of iPhones 🚀 not \"another AI wrapper\" not \"a dashboard you",
+  "authors": [
+    "Yura Hulei (@yurahulei)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "http://minionix.com/apps"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/video_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099301416468652506",
+    "author_handle": "yurahulei",
+    "migrated_v2": true,
+    "author_name": "Yura Hulei",
+    "created_at": "Mon Sep 14 00:57:15 +0000 2026",
+    "likes": 329,
+    "replies": 39,
+    "retweets": 1789374185,
+    "views": 55676,
+    "bookmarks": 664,
+    "fetch": "api.fxtwitter.com + agent-browser replies via own tab t7",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

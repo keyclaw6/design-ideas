@@ -1,0 +1,64 @@
+{
+  "id": "x-2106096193235259564",
+  "url": "https://x.com/seeconvm/status/2106096193235259564",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Opus 5.5 Motion Design: What the Viral 'One-Prompt' Videos Are Hiding",
+  "authors": [
+    "seeco (@seeconvm)"
+  ],
+  "topics": [
+    "agent-skills",
+    "ui-motion",
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2106091215502422016",
+    "https://github.com/JohnHeibel/PDoomVideo",
+    "https://github.com/JohnHeibel/ClaudeAnimationBase"
+  ],
+  "media": [
+    "media/image-01.png",
+    "media/video-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106096193235259564",
+    "author_handle": "seeconvm",
+    "posted_at": "2026-10-02T18:57:16+00:00",
+    "metrics": {
+      "views": 238759,
+      "likes": 261,
+      "replies": 1,
+      "retweets": 26,
+      "bookmarks": 864,
+      "quotes": 8
+    },
+    "articles": [
+      {
+        "kind": "direct",
+        "id": "2106091215502422016",
+        "title": "Opus 5.5 Motion Design: What the Viral 'One-Prompt' Videos Are Hiding",
+        "blocks": 113,
+        "quoted_tweet_id": null
+      }
+    ],
+    "reply_records_captured": 5,
+    "media_source_urls": {
+      "media/image-01.png": "https://pbs.twimg.com/media/HTpW07nXcAA0Gdb.png",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110574146170265601/vid/avc1/1920x1080/4_KgGwheDcyUYmX8.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "https://x.com/i/article/2106091215502422016",
+    "fx_raw_text": "https://t.co/rOlTnskWDn",
+    "unverified_timeline_record_ids": [
+      "2110588384968339519",
+      "2110485812228083745",
+      "2110568117739155490",
+      "2110574266781782453"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

@@ -17,6 +17,7 @@
     "tweet_id": "2093776000781869278",
     "author_handle": "dan__rosenthal",
     "filtered": true,
-    "category_note": "Generic B2B GTM flywheel; out of taxonomy."
+    "category_note": "Generic B2B GTM flywheel; out of taxonomy.",
+    "migrated_v2": true
   }
 }

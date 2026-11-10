@@ -1,0 +1,40 @@
+{
+  "id": "x-2097676816592797816",
+  "url": "https://x.com/MecAgent/status/2097676816592797816",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "GPT-6 Astra on CAD (SolidWorks 2026) with the MecAgent harness",
+  "authors": [
+    "MecAgent (@MecAgent)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097676816592797816",
+    "author_handle": "MecAgent",
+    "author_name": "MecAgent",
+    "author_id": "1895196588672475136",
+    "created_at": "2026-09-09T13:21:40Z",
+    "likes": 1735,
+    "replies": 45,
+    "retweets": 126,
+    "bookmarks": 1120,
+    "quotes": 33,
+    "views": 467462,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "45 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

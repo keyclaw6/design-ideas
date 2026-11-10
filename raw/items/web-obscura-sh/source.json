@@ -22,6 +22,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "tagline": "Give every agent its own browser",
     "fetch": "r.jina.ai homepage + docs.obscura.sh intro",
     "related_items": [

@@ -1,0 +1,66 @@
+{
+  "id": "x-2102833386947793355",
+  "url": "https://x.com/MitchellKeller_/status/2102833386947793355",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "POV: you realize one of the systems behind a $726,000 outbound motion is sitting in this Article for free.",
+  "authors": [
+    "Mitchell Keller (@MitchellKeller_)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2102077615947517955"
+  ],
+  "media": [
+    "media/animation-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102833386947793355",
+    "author_handle": "MitchellKeller_",
+    "posted_at": "2026-09-23T18:52:02+00:00",
+    "metrics": {
+      "views": 2657,
+      "likes": 12,
+      "replies": 2,
+      "retweets": 2,
+      "bookmarks": 25,
+      "quotes": 0
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2102077615947517955",
+        "title": "The Complete Guide To Finding Every Company and Contact in a Market",
+        "blocks": 215,
+        "quoted_tweet_id": "2102077622444494910"
+      }
+    ],
+    "reply_records_captured": 1,
+    "media_source_urls": {
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HS7D0V5bcAAKHW9.mp4",
+      "media/image-01.jpg": "https://pbs.twimg.com/tweet_video_thumb/HS7D0V5bcAAKHW9.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HSwUcoaaEAAWJva.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HSwUczNaEAMsQrN.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HSwUc9IbcAE5y7M.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "POV: you realize one of the systems behind a $726,000 outbound motion is sitting in this Article for free.\n\nI can't believe this is free.",
+    "fx_raw_text": "POV: you realize one of the systems behind a $726,000 outbound motion is sitting in this Article for free.\n\nI can't believe this is free. https://t.co/LiiPbbD1I7",
+    "quoted_post": {
+      "id": "2102077622444494910",
+      "url": "https://x.com/MitchellKeller_/status/2102077622444494910",
+      "author": "Mitchell Keller (@MitchellKeller_)",
+      "text": "https://x.com/i/article/2102077615947517955"
+    },
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:15.740854+00:00"
+  }
+}

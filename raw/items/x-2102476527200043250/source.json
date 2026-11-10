@@ -1,0 +1,64 @@
+{
+  "id": "x-2102476527200043250",
+  "url": "https://x.com/RobHoffman_/status/2102476527200043250",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "founders and marketers: you need an optimized \"about us\" page on your site",
+  "authors": [
+    "Rob Hoffman (@RobHoffman_)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/animation-01.mp4",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/animation-02.mp4",
+    "media/image-05.jpg",
+    "media/video-01.mp4",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102476527200043250",
+    "author_handle": "RobHoffman_",
+    "posted_at": "Tue Sep 22 19:14:00 +0000 2026",
+    "metrics": {
+      "views": 1113008,
+      "likes": 4946,
+      "replies": 130,
+      "retweets": 192,
+      "bookmarks": 18673,
+      "quotes": 43
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HS2U_q_XsAAQlX3.mp4",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HS2M2NfX0AAtotF.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HS2lCjha0AA_Ip0.jpg",
+      "media/animation-02.mp4": "https://video.twimg.com/tweet_video/HS2nsXvWEAAsHJD.mp4",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HS2sSHOaEAAfqSL.jpg",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2102520410663510016/vid/avc1/1080x1920/nexhXN3jkg6YkNHG.mp4?tag=29",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2102487251460481024/vid/avc1/1080x1080/mR8Z5ZtEnVoCkzIl.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "founders and marketers: you need an optimized \"about us\" page on your site\n\ni work with billion dollar tech companies and bootstrapped SaaS. The About Us is one of the first pages we optimize\n\nhere's how (8 points):\n\n(P.S. I explain why this is important at the bottom of the post)\n\nhere's how:\n\n1. start with a clear value prop sentence: \"[COMPANY] is a [CATEGORY] that [DOES XYZ] for [ICP].\"\n\n2. add your core services under a \"what [COMPANY] does\" H2 subheading. Put each service/feature/product in an H3 subheading. Write 2-3 sentences about what you do, and what outcome it produces.\n\n3. next, add a \"what makes [COMPANY] different\" H2 subheading. List about 5 core differentiators in H3 subheadings. Give specific, quantifiable differentiators and call out competitors by name. Example: [COMPANY] offers month-to-month payment terms, whereas options like [COMPETITOR] have mandated 12-month contracts. Again: 2-3 sentences per differentiator.\n\n4. your next H2 should be \"who uses [COMPANY].\" Add bullet points that call out your exact ICP segments. Example: \"B2B SaaS marketing teams at 50 to 200-employees.\"\n\n5. now add a \"the team behind [COMPANY]\" H2 subheading. Include the names of the founders, quick backstories, company origin story, team composition, and links to social pages (especially the founder(s) socials). You only need about 2 sentences per backstory/origin story.\n\n6. add a \"how [COMPANY] works\" section. Include info like communication channels, response times, who on the team customers will work with, turnaround time, and onboarding process.\n\n7. now for the most important section for AI Search: add a \"key facts\" H2. This should be an HTML <table> or <dl> (definition list) so it's crawlable. Include the following rows:\n\nCompany Name\nType\nFounded\nFounder\nHeadquarters\nWebsite\nCore Offering\nPricing\nContract Terms\nServices\nCommunication\nNotable Clients\nCustomers Served\nProjects Delivered\nCompetitors\nSocial\n\n 8. finally, add your FAQ section. Put \"frequently asked questions\" in an H2 subheading with your questions as H3s. Only 2-3 sentences per answer.\n\nHere's why this page is so important:\n1. it helps train AI to talk about your brand accurately\n2. it strengthens the E-E-A-T score of your entire domain\n3. in a world where everything seems fake, make your brand human\n\nshoot me a DM if you want a live demo of the lowest hanging fruit to rank in AI Search (tailored to your specific site)\n\ni hope this helps someone!",
+    "fx_raw_text": "founders and marketers: you need an optimized \"about us\" page on your site\n\ni work with billion dollar tech companies and bootstrapped SaaS. The About Us is one of the first pages we optimize\n\nhere's how (8 points):\n\n(P.S. I explain why this is important at the bottom of the post)\n\nhere's how:\n\n1. start with a clear value prop sentence: \"[COMPANY] is a [CATEGORY] that [DOES XYZ] for [ICP].\"\n\n2. add your core services under a \"what [COMPANY] does\" H2 subheading. Put each service/feature/product in an H3 subheading. Write 2-3 sentences about what you do, and what outcome it produces.\n\n3. next, add a \"what makes [COMPANY] different\" H2 subheading. List about 5 core differentiators in H3 subheadings. Give specific, quantifiable differentiators and call out competitors by name. Example: [COMPANY] offers month-to-month payment terms, whereas options like [COMPETITOR] have mandated 12-month contracts. Again: 2-3 sentences per differentiator.\n\n4. your next H2 should be \"who uses [COMPANY].\" Add bullet points that call out your exact ICP segments. Example: \"B2B SaaS marketing teams at 50 to 200-employees.\"\n\n5. now add a \"the team behind [COMPANY]\" H2 subheading. Include the names of the founders, quick backstories, company origin story, team composition, and links to social pages (especially the founder(s) socials). You only need about 2 sentences per backstory/origin story.\n\n6. add a \"how [COMPANY] works\" section. Include info like communication channels, response times, who on the team customers will work with, turnaround time, and onboarding process.\n\n7. now for the most important section for AI Search: add a \"key facts\" H2. This should be an HTML <table> or <dl> (definition list) so it's crawlable. Include the following rows:\n\nCompany Name\nType\nFounded\nFounder\nHeadquarters\nWebsite\nCore Offering\nPricing\nContract Terms\nServices\nCommunication\nNotable Clients\nCustomers Served\nProjects Delivered\nCompetitors\nSocial\n\n 8. finally, add your FAQ section. Put \"frequently asked questions\" in an H2 subheading with your questions as H3s. Only 2-3 sentences per answer.\n\nHere's why this page is so important:\n1. it helps train AI to talk about your brand accurately\n2. it strengthens the E-E-A-T score of your entire domain\n3. in a world where everything seems fake, make your brand human\n\nshoot me a DM if you want a live demo of the lowest hanging fruit to rank in AI Search (tailored to your specific site)\n\ni hope this helps someone!",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740",
+      "2090814619275436444"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:51:55.927363+00:00"
+  }
+}

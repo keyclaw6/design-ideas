@@ -1,0 +1,54 @@
+{
+  "id": "x-2104562076446588937",
+  "url": "https://x.com/askOkara/status/2104562076446588937",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Our launches have done 100M+ views with no agency and no ad spend",
+  "authors": [
+    "Okara (@askOkara)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2104562076446588937",
+    "author_handle": "askOkara",
+    "posted_at": "2026-09-28T13:21:14+00:00",
+    "metrics": {
+      "views": 7150,
+      "likes": 95,
+      "replies": 7,
+      "retweets": 3,
+      "bookmarks": 122,
+      "quotes": 2
+    },
+    "articles": [],
+    "reply_records_captured": 10,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTToDAnbMAAWokD.jpg?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUmxH1EXsAAXxld.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUmxN20WgAAslAn.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HUmxT7oXgAAM8_I.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Our launches have done 100M+ views with no agency and no ad spend\n\nThis is the playbook we follow every time",
+    "fx_raw_text": "Our launches have done 100M+ views with no agency and no ad spend\n\nThis is the playbook we follow every time https://t.co/e11iLAxuOl",
+    "unverified_timeline_record_ids": [
+      "2110371582153748942",
+      "2110471378189312039",
+      "2110414696037716372",
+      "2110454982357221790"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:53:41.931965+00:00"
+  }
+}

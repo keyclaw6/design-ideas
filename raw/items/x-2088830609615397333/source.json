@@ -24,6 +24,7 @@
       "github-antvis-infographic",
       "web-originkit-dev"
     ],
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

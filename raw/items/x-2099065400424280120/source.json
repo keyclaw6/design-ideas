@@ -1,0 +1,33 @@
+{
+  "id": "x-2099065400424280120",
+  "url": "https://x.com/leto_bao/status/2099065400424280120",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:30:16Z",
+  "title": "把这篇文档扔给 Astra Extra High，让它优化你的 AGENT.MD, Skills, Hooks 以及各种开发规范。 你将获得一个全新的 Astra",
+  "authors": [
+    "Leto Bao (@leto_bao)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099065400424280120",
+    "author_handle": "leto_bao",
+    "migrated_v2": true,
+    "author_name": "Leto Bao",
+    "created_at": "Sun Sep 13 09:19:24 +0000 2026",
+    "likes": 1051,
+    "replies": 32,
+    "retweets": 1789375502,
+    "views": 149928,
+    "bookmarks": 1900,
+    "fetch": "api.fxtwitter.com + agent-browser replies via own tab t7",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -46,6 +46,8 @@ Query here for “turn this still into a clip,” “HTML landing as MP4,” “
 - [ArtiFixer](../../raw/items/github-nv-tlabs-ArtiFixer/) — `github-nv-tlabs-ArtiFixer`
 - [scroll-world](../../raw/items/github-oso95-scroll-world/) — `github-oso95-scroll-world`
 - [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
+- [World Labs introduces their next world model - Atlas](../../raw/items/reddit-1w4ljsx/) — `reddit-1w4ljsx`
+- [Opus 5.5 + Blender won in motion design. Three.js didn't match the quality needed](../../raw/items/reddit-1x4vndw/) — `reddit-1x4vndw`
 - [animos — Motion templates for design showcases](../../raw/items/web-animos-editor/) — `web-animos-editor`
 - [fal — generative media platform for developers](../../raw/items/web-fal-ai/) — `web-fal-ai`
 - [MeiGen — Free GPT Image 2, Nano Banana & Seedance Prompts](../../raw/items/web-meigen-ai/) — `web-meigen-ai`
@@ -98,4 +100,51 @@ Query here for “turn this still into a clip,” “HTML landing as MP4,” “
 - [This is insane: Hyper3D just dropped WorldGen, an AI that turns ONE photo into a full interactive 3D world Yingmu Techno](../../raw/items/x-2095437841958314100/) — `x-2095437841958314100`
 - [MiniMax H3をプロダクトCGのレンダラー的に使うの試してみてる。ローカルで処理できるのはアツいね。 ローカルで方向性が定まってからAPIに投げられるので無駄が少ない。](../../raw/items/x-2095483352375837020/) — `x-2095483352375837020`
 - [this launch video generated 4.6M+ views for @intelligenceco. posted by founder @ndrewpignanelli. full breakdown:](../../raw/items/x-2095521587785081193/) — `x-2095521587785081193`
+- [BREAKING: Astra one shotted this launch video  It might be over for motion graphic designers...](../../raw/items/x-2095921067277656323/) — `x-2095921067277656323`
+- [A two-person AI startup crossed $1 million in annualized revenue two months after launch. The founder just walked](../../raw/items/x-2096224107121516997/) — `x-2096224107121516997`
+- [GPT-6 Astra generated this shoe advert. Using GPT Images 2.0 it was able to generate the initial shoe product, then](../../raw/items/x-2096307244921164232/) — `x-2096307244921164232`
+- [Still the best marketing strategy](../../raw/items/x-2096627986447450257/) — `x-2096627986447450257`
+- [Raylight Capture: free one-click app-to-launch-video, editable mouse paths, Claude edit](../../raw/items/x-2096716016835342588/) — `x-2096716016835342588`
+- [❤️‍🔥 GPT-6 Astra is getting dangerously good I genuinely wasn’t ready for this level of AI Prompt below ↓](../../raw/items/x-2096898563586593055/) — `x-2096898563586593055`
+- [The AI content factory is real — AI UGC at scale (quoted Astra prompts article)](../../raw/items/x-2097002206486483074/) — `x-2097002206486483074`
+- [New video generation acceleration for MiniMax-H3 from the NVIDIA Sol team! Faster than playback, fully open-sourced](../../raw/items/x-2097006566696444363/) — `x-2097006566696444363`
+- [영상 연출 기법 150개를 모아둔 프롬프트 라이브러리 카메라 워크부터 조명, 구도, 장르·스타일까지 영화 촬영·연출 기법 150개를 AI 영상 생성용 프롬프트로 정리해둠 예시 이미지, 영상을 선택하면 기법 설명과](../../raw/items/x-2097191015711121730/) — `x-2097191015711121730`
+- [This is crazy 🤯 I ran GPT-6 ASTRA on VEED’s OpenEdit. It one-shotted its own launch video. Try here:](../../raw/items/x-2097263552000094514/) — `x-2097263552000094514`
+- [GPT-Image 2.5 is good enough to do stop motion animation now!](../../raw/items/x-2097399137142772071/) — `x-2097399137142772071`
+- [Claude skill file for Zack-D style ads + full YouTube tutorial (starpop.ai)](../../raw/items/x-2097691298941505539/) — `x-2097691298941505539`
+- [i finally cracked long-form AI ads with GPT-6 Astra... my setup now produces 5min+ videos on autopilot in 4k 60fps,](../../raw/items/x-2097713112250253528/) — `x-2097713112250253528`
+- [How Apple makes their product videos look expensive (Steal it) — https://t.co/1e96kXOu9u](../../raw/items/x-2098032450731720823/) — `x-2098032450731720823`
+- [ChatGPT can now do motion design in After Effects. Introducing Higgsfield AI Motion Designer. Our ChatGPT plugin](../../raw/items/x-2098409362041753708/) — `x-2098409362041753708`
+- [This ad cost $9 and took 10 minutes to make.](../../raw/items/x-2098516947826585800/) — `x-2098516947826585800`
+- [Today we’re launching Narrative: the AI video editor for the rest of us. This video was made end-to-end in Narrative,](../../raw/items/x-2098829123057541586/) — `x-2098829123057541586`
+- [F*ck it just gonna drop this here Made a Claude/ gpt astral skill that can make you 50 of this in less than 30 minutes](../../raw/items/x-2099114962580853186/) — `x-2099114962580853186`
+- [GPT-6 Astra + After Effects + _____ ..? I'm planning to record my workflows with commentary to build datasets for AI -](../../raw/items/x-2099196134279573697/) — `x-2099196134279573697`
+- [POV: Cinematic Product Demos & Shots built with AI Agents 🎬✨ (sound on 🔈) Added a collection of Ultra Realistic 3D](../../raw/items/x-2099378611979768270/) — `x-2099378611979768270`
+- [Holy crap, who the hell did this?!! Someone open-sourced a UGC video studio and lets you run it on your own computer.](../../raw/items/x-2099526750656933987/) — `x-2099526750656933987`
+- [The ULTIMATE AI UGC Playbook https://x.com/i/article/2099539880711950337](../../raw/items/x-2099604198023426075/) — `x-2099604198023426075`
+- [As an API my model is live on @fal https://fal.ai/models/clarityai/crystal-upscaler](../../raw/items/x-2100110912661471314/) — `x-2100110912661471314`
+- [BREAKING: ChatGPT 6 Astra one-shots motion videos Generated this video in 14 minutes, only did 2 changes.](../../raw/items/x-2100213659981295761/) — `x-2100213659981295761`
+- [This film cost $29,575 and took 10 days to make. AI ≠ Cheap Our Nexus feature will still cost millions next year. But](../../raw/items/x-2100218143625073088/) — `x-2100218143625073088`
+- [Today we're introducing Launchvideo Skills and references that let your agent create tasteful product videos directly](../../raw/items/x-2100267179212235125/) — `x-2100267179212235125`
+- [THIS IS INSANE The team behind browser-use (114,824 stars on GitHub) has just released a free video editor that runs](../../raw/items/x-2100338685333958932/) — `x-2100338685333958932`
+- [Astra is so insanely great at making motion design animations for your product. Here's how we do it: 1. give it access](../../raw/items/x-2100385567381037061/) — `x-2100385567381037061`
+- [Our internal library of video references: [Hooks], [Demo], [Features], [Social proof], etc. After breaking down 63](../../raw/items/x-2100564186614898813/) — `x-2100564186614898813`
+- [0 to 100M views in 7 days: Higgsfield API + mass distribution](../../raw/items/x-2100604018464526426/) — `x-2100604018464526426`
+- [This motion design style is exploding on socials I call this style "ADHD-cut": it triggers your sensors fast & easily -](../../raw/items/x-2100629816407896238/) — `x-2100629816407896238`
+- [Can someone who knows anything about video please explain the breakdown of all the different tools and what the best](../../raw/items/x-2100735825491464278/) — `x-2100735825491464278`
+- [How to make AI video that doesn't look like AI — prompt the mistakes a real person makes](../../raw/items/x-2100964451243712830/) — `x-2100964451243712830`
+- [힉스필드가 Seedance 2.5 프롬프트 작성법과 장르별 예제 10개를 영상과 함께 정리해둠 핵심은 프롬프트를 ‘촬영 지시서’처럼 설계하는 것 전체 스타일 → 장면·인물·장소 → 시작 위치 → 컷별 행동 →](../../raw/items/x-2101262397172494576/) — `x-2101262397172494576`
+- [omg…that i made this with Claude Opus 5.5 and Seedance 2.5](../../raw/items/x-2102775755646337530/) — `x-2102775755646337530`
+- [People are still paying $20+ for AI video tools while this exists.](../../raw/items/x-2103193222029951413/) — `x-2103193222029951413`
+- [This guy broke down the science behind Apple's product videos](../../raw/items/x-2103533757588463990/) — `x-2103533757588463990`
+- [I made a skill if you want to create those nice motion videos too!](../../raw/items/x-2103801891528573089/) — `x-2103801891528573089`
+- [if you wanna master AI content, here’s the playbook:](../../raw/items/x-2103858184414781504/) — `x-2103858184414781504`
+- [Motion Engineering: Build a Video Studio Around Opus 5.5](../../raw/items/x-2105643919119696297/) — `x-2105643919119696297`
+- [Opus 5.5 Motion Design: What the Viral 'One-Prompt' Videos Are Hiding](../../raw/items/x-2106096193235259564/) — `x-2106096193235259564`
+- [this is unreal…](../../raw/items/x-2106379872088055826/) — `x-2106379872088055826`
+- [CLAUDE CODE CAN NOW TURN HIGGSFIELD INTO A ONE-PERSON AI VIDEO STUDIO.](../../raw/items/x-2106636580735619118/) — `x-2106636580735619118`
+- [🚨重磅：我们2000+ Star的开源项目迎来了重大更新：经过多轮迭代，我们用Opus 5.5 新增了9种讲解视频风格，不求多，只求做到极致，经过多次迭代后，今天开源分享给大家，效果可以见视频，感觉任何一周都可以拿去起号了](../../raw/items/x-2107408409859359211/) — `x-2107408409859359211`
+- [want to see how the whole Paper Mono launch video was made?](../../raw/items/x-2108251509830140401/) — `x-2108251509830140401`
+- [These 15 GitHub repos turn your Opus 5.5 into 𝗮𝗻 𝗲𝗻𝘁𝗶𝗿𝗲 𝗺𝗼𝘁𝗶𝗼𝗻 𝘀𝘁𝘂𝗱𝗶𝗼.](../../raw/items/x-2108905392776360333/) — `x-2108905392776360333`
+- [new multi-angle video model just dropped](../../raw/items/x-2108953745468068184/) — `x-2108953745468068184`
 <!-- /AUTO:ITEMS -->

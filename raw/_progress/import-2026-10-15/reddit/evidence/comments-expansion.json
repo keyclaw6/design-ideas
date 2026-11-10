@@ -1,0 +1,58 @@
+{
+  "source": "Reddit comments JSON endpoint, with explicit MoreComments expansion via /api/morechildren.json",
+  "sort": "confidence",
+  "limit": 100,
+  "depth": 10,
+  "posts_with_more_placeholders": [
+    {
+      "post_id": "1x48dxc",
+      "reported_comment_count": 222,
+      "initial_comments": 95,
+      "expanded_comments": 109,
+      "more_rounds": 2,
+      "more_ids_requested": 35,
+      "remaining_more_ids": 0
+    },
+    {
+      "post_id": "1wwi9uz",
+      "reported_comment_count": 177,
+      "initial_comments": 92,
+      "expanded_comments": 73,
+      "more_rounds": 1,
+      "more_ids_requested": 36,
+      "remaining_more_ids": 0
+    },
+    {
+      "post_id": "1wilp6x",
+      "reported_comment_count": 239,
+      "initial_comments": 95,
+      "expanded_comments": 95,
+      "more_rounds": 2,
+      "more_ids_requested": 71,
+      "remaining_more_ids": 0
+    },
+    {
+      "post_id": "1wgu40p",
+      "reported_comment_count": 101,
+      "initial_comments": 90,
+      "expanded_comments": 6,
+      "more_rounds": 1,
+      "more_ids_requested": 5,
+      "remaining_more_ids": 0
+    },
+    {
+      "post_id": "1v8ep5r",
+      "reported_comment_count": 104,
+      "initial_comments": 87,
+      "expanded_comments": 14,
+      "more_rounds": 1,
+      "more_ids_requested": 5,
+      "remaining_more_ids": 0
+    }
+  ],
+  "initial_t1_comments_captured": 1369,
+  "additional_t1_comments_captured": 297,
+  "total_context_comments_captured": 1666,
+  "remaining_more_comment_ids": 0,
+  "note": "Only counts and pagination state are persisted here; comment text is preserved in each item content.md."
+}

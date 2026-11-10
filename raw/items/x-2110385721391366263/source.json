@@ -1,0 +1,53 @@
+{
+  "id": "x-2110385721391366263",
+  "url": "https://x.com/nutlope/status/2110385721391366263",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing Gloss!",
+  "authors": [
+    "Hassan (@nutlope)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110385721391366263",
+    "author_handle": "nutlope",
+    "posted_at": "2026-10-14T15:02:19+00:00",
+    "metrics": {
+      "views": 53091,
+      "likes": 1297,
+      "replies": 54,
+      "retweets": 75,
+      "bookmarks": 1499,
+      "quotes": 16
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110385606014480384/vid/avc1/1280x720/jN8GLQrx4gqjBJtO.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2110385606014480384/img/Izsh3-4wJEFdJjBI.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUmich0WcAAw-sw.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing Gloss!\n\nA beautiful new way to save, read, and interact with articles.\n\n→ Save articles, PDFs, and X bookmarks\n→ Highlight and get instant answers with AI\n→ Build a personal library you'll actually use\n\nFree and open source!",
+    "fx_raw_text": "Introducing Gloss!\n\nA beautiful new way to save, read, and interact with articles.\n\n→ Save articles, PDFs, and X bookmarks\n→ Highlight and get instant answers with AI\n→ Build a personal library you'll actually use\n\nFree and open source! https://t.co/Uc5nU5nLym",
+    "unverified_timeline_record_ids": [
+      "2110396530133799394",
+      "2068115197718593741",
+      "2098481322268504487",
+      "2107881893010297037",
+      "2107910517134086599"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

@@ -16,6 +16,7 @@
   "extra": {
     "tweet_id": "2091957150793023651",
     "author_handle": "magnific",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,37 @@
+{
+  "id": "x-2101275801660662058",
+  "url": "https://x.com/viktoroddy/status/2101275801660662058",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:44:36Z",
+  "title": "GPT-6 Astra is by far the best 3D design model today. & this is THE Complete Tutorial Guide to Design in Codex. FULL",
+  "authors": [
+    "Viktor Oddy (@viktoroddy)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2101275801660662058",
+    "author_handle": "viktoroddy",
+    "migrated_v2": true,
+    "author_name": "Viktor Oddy",
+    "created_at": "2026-09-19T11:42:45Z",
+    "likes": 1829,
+    "replies": 60,
+    "retweets": 196,
+    "bookmarks": 2067,
+    "quotes": 5,
+    "views": 138058,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

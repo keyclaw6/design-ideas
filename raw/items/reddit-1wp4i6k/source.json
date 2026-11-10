@@ -1,0 +1,39 @@
+{
+  "id": "reddit-1wp4i6k",
+  "url": "https://www.reddit.com/r/hermesagent/comments/1wp4i6k/i_built_a_way_for_hermes_to_use_any_website_as_an/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "I built a way for Hermes to use any website as an API WITHOUT browser automation",
+  "authors": [
+    "orthogonal-ghost"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://agent-data.dev"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1wp4i6k",
+    "saved_kind": "post",
+    "post_id": "1wp4i6k",
+    "comment_id": null,
+    "subreddit": "hermesagent",
+    "flair": "Showcase — Projects, tools, builds, demos",
+    "posted_at": "2026-09-24T15:19:34+00:00",
+    "score_at_capture": 168,
+    "comment_count_at_capture": 43,
+    "comments_captured_from_api": 42,
+    "thread_comments_returned": 42,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:20+00:00"
+  }
+}

@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2091748299975880994",
     "author_handle": "VanhDesign",
-    "category_note": "WebGPU page-as-scene, not Three.js; keyboard is the model"
+    "category_note": "WebGPU page-as-scene, not Three.js; keyboard is the model",
+    "migrated_v2": true
   }
 }

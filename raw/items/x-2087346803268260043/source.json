@@ -26,6 +26,7 @@
       "github-leonxlnx-taste-skill",
       "x-2085006701984698712"
     ],
-    "category_note": "Google-dev-docs voice as anti-slop prompt"
+    "category_note": "Google-dev-docs voice as anti-slop prompt",
+    "migrated_v2": true
   }
 }

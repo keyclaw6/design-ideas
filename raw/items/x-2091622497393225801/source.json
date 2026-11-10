@@ -18,6 +18,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2091622497393225801",
-    "author_handle": "fortysevenfx"
+    "author_handle": "fortysevenfx",
+    "migrated_v2": true
   }
 }

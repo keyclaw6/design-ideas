@@ -16,6 +16,7 @@
     "author_handle": "MaxfusionAI",
     "fetch": "api.fxtwitter.com (retry)",
     "filtered": true,
-    "category_note": "Model bake-off screenshot; no artifact"
+    "category_note": "Model bake-off screenshot; no artifact",
+    "migrated_v2": true
   }
 }

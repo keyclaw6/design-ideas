@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2093669411685110141",
     "author_handle": "taher_max_",
-    "category_note": "designengineer.tools curated design/prototype/build resource index."
+    "category_note": "designengineer.tools curated design/prototype/build resource index.",
+    "migrated_v2": true
   }
 }

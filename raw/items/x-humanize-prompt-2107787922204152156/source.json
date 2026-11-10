@@ -1,0 +1,35 @@
+{
+  "id": "x-humanize-prompt-2107787922204152156",
+  "url": "https://x.com/borjafat/status/2107787922204152156",
+  "source_type": "x",
+  "captured_at": "2026-10-12T07:54:27+00:00",
+  "title": "A humanize prompt that actually works",
+  "authors": [
+    "borja"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2107619577928564736",
+    "https://distribb.io/",
+    "https://distribb.io/?utm_source=xarticle-oct7"
+  ],
+  "media": [
+    "media/image-1.jpg",
+    "media/image-2.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107787922204152156",
+    "article_id": "2107619577928564736",
+    "views": 6047,
+    "likes": 43,
+    "replies": 7,
+    "retweets": 4,
+    "fx_text_capture": "Finally crafted a prompt for human-reading content. https://x.com/i/article/2107619577928564736",
+    "fx_raw_text": "Finally crafted a prompt for human-reading content. https://t.co/FqLGPEN27X",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:39.070710+00:00"
+  }
+}

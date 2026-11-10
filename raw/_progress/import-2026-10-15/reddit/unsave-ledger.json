@@ -1,0 +1,328 @@
+{
+  "account": "Strange_Tomatillo335",
+  "started_at": "2026-10-15T10:44:11+00:00",
+  "preflight": {
+    "pages": 1,
+    "entry_count": 38,
+    "terminal_after": null
+  },
+  "items": [
+    {
+      "fullname": "t3_1x3b9aa",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x3b9aa/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x4vndw",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x4vndw/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1wydtmj",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1wydtmj/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x3g6f8",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x3g6f8/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x49qoz",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x49qoz/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x49yi0",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x49yi0/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x1imcb",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x1imcb/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x48dxc",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x48dxc/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x4ab4r",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x4ab4r/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x4cvvw",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x4cvvw/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1x03yw4",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1x03yw4/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1wwi9uz",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1wwi9uz/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1wp4i6k",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1wp4i6k/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1wilp6x",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1wilp6x/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1wgu40p",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1wgu40p/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1wf03hk",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1wf03hk/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1wdk6co",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1wdk6co/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t1_p3g4kte",
+      "kind": "comment",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-p3g4kte/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1w32gzj",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1w32gzj/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1w4ljsx",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1w4ljsx/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1w5dab4",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1w5dab4/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1w37d9y",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1w37d9y/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1vzg2e2",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1vzg2e2/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1w0swod",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1w0swod/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1u13158",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1u13158/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1w0by3s",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1w0by3s/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1vxx51g",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1vxx51g/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1vtuk9s",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1vtuk9s/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1v4e576",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1v4e576/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1vvf7ou",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1vvf7ou/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1vv5wel",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1vv5wel/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1vht9fa",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1vht9fa/source.json",
+      "source_updated": true
+    },
+    {
+      "fullname": "t3_1uxaxg8",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1uxaxg8/source.json",
+      "source_updated": true,
+      "api_receipt_status": 200
+    },
+    {
+      "fullname": "t3_1v8mop3",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1v8mop3/source.json",
+      "source_updated": true,
+      "api_receipt_status": 200
+    },
+    {
+      "fullname": "t3_1v8ep5r",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1v8ep5r/source.json",
+      "source_updated": true,
+      "api_receipt_status": 200
+    },
+    {
+      "fullname": "t3_1uy83bk",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1uy83bk/source.json",
+      "source_updated": true,
+      "api_receipt_status": 200
+    },
+    {
+      "fullname": "t3_1ujr89i",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-1ujr89i/source.json",
+      "source_updated": true,
+      "api_receipt_status": 200
+    },
+    {
+      "fullname": "t3_dhj1z1",
+      "kind": "post",
+      "result": "unsaved",
+      "remote_saved": false,
+      "source_path": "raw/items/reddit-dhj1z1/source.json",
+      "source_updated": true,
+      "api_receipt_status": 200
+    }
+  ],
+  "final_verification": {
+    "pages": 1,
+    "entry_count": 0,
+    "terminal_after": null,
+    "empty": true,
+    "verified_at": "2026-10-15T10:56:39+00:00"
+  }
+}

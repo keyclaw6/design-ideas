@@ -56,6 +56,7 @@ Query here for “agent that can light a mesh,” “WebGL hero that isn’t a G
 - [This is a really useful tutorial if you want to learn how to build more advanced Three.js landing pages with Claude Code](../../raw/items/x-2088265078919282836/) — `x-2088265078919282836`
 - [The bike, the ruins, the ramps, the Highlands sky. All of it started as one sentence typed into Atlas. Concept art, 3D a](../../raw/items/x-2088299905324396589/) — `x-2088299905324396589`
 - [@threejs Awesome Graphics Agent Skills v0.8.0 is out! npx threejs-awesome-graphics-agent-skills@latest install --agent c](../../raw/items/x-2088738850705113398/) — `x-2088738850705113398`
+- [#Threejs Here is how you will create detailed models using ai.  1) You need very good reference images 2) You need to](../../raw/items/x-2089094757750595713/) — `x-2089094757750595713`
 - [Introducing /improve-threejs Turn vibe-slop Three.js prototypes into stunning apps It makes slow, visually buggy games r](../../raw/items/x-2089400082550620636/) — `x-2089400082550620636`
 - [iCraft Editor designs 3D network architecture diagrams with immersive visual effects. https://github.com/gantFDT/icraft](../../raw/items/x-2089570022490263586/) — `x-2089570022490263586`
 - [I open-sourced the Sylva three.js site and the skills behind it. I started with one reference and asked Opus 5 to recrea](../../raw/items/x-2089602918605619401/) — `x-2089602918605619401`
@@ -73,4 +74,17 @@ Query here for “agent that can light a mesh,” “WebGL hero that isn’t a G
 - [I created the world's best library of AI prompts for websites that don’t look like AI slop. 👇 • 590+ Al Animation Websit](../../raw/items/x-2094009989220430084/) — `x-2094009989220430084`
 - [Atlas Fields Studios — EM fields around PCB designs, free](../../raw/items/x-2094840529997410525/) — `x-2094840529997410525`
 - [Atlas + spark.js + three.js scene from one input image](../../raw/items/x-2094864872853119216/) — `x-2094864872853119216`
+- [全网最全的 GPT Astra 提示词和案例，已收录 153 个，每日更新。精选 3D、游戏案例，试了下有些真的能 one shot 直出超炫的效果，3D 创作时代已然来临了！ 立刻复制提示词，玩起来！](../../raw/items/x-2096805641017020530/) — `x-2096805641017020530`
+- [Hitem3D 3.0: image-to-mesh at 2048³ with up to 5M faces, small details stay in geometry](../../raw/items/x-2097724373515772361/) — `x-2097724373515772361`
+- [Engineer a $15,000 premium 3D-driven SaaS hero: React, Three.js/WebGL, Tailwind, Framer Motion](../../raw/items/x-2097912217207517412/) — `x-2097912217207517412`
+- [GPT-6 Astra is a design beast No 3D models used in this demo website I connected LTX API to my coding agent ->](../../raw/items/x-2098464881498370090/) — `x-2098464881498370090`
+- [Bordel, avant sa sortie, je trouvais GPT-5.6 Pro incroyable en 3D… mais maintenant que je le compare à Astra, c’était](../../raw/items/x-2098719191817707762/) — `x-2098719191817707762`
+- [Atlas beta access is rolling out to users, some ideas for API developers - give Astra "eyes" in Blender, let it place](../../raw/items/x-2100349127620235577/) — `x-2100349127620235577`
+- [I used GPT-6 Astra to create a 3D website that pulls apart the brain tech into modeled pieces! we are in a renaissance](../../raw/items/x-2100459591649878516/) — `x-2100459591649878516`
+- [The vgpu skill now helps your agent create better 3D models in Blender, optimized for web](../../raw/items/x-2106051894624047547/) — `x-2106051894624047547`
+- [🍟 Still using Pinterest for design inspo in 2026? These will replace it in 2027. 👇](../../raw/items/x-2108181934669238593/) — `x-2108181934669238593`
+- [Introducing Anatomy](../../raw/items/x-2108948624004526516/) — `x-2108948624004526516`
+- [is it legal?](../../raw/items/x-2109716261160538324/) — `x-2109716261160538324`
+- [Github is hiding the cure for ugly AI-generated websites.](../../raw/items/x-2109944361408659650/) — `x-2109944361408659650`
+- [vgpu 0.6 is out 🔉](../../raw/items/x-2110049100611940501/) — `x-2110049100611940501`
 <!-- /AUTO:ITEMS -->

@@ -1,0 +1,37 @@
+{
+  "id": "x-2095889020203291117",
+  "url": "https://x.com/EXM7777/status/2095889020203291117",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "How to perform advanced research on X: Grok Bot agent + X MCP + Apify CLI, daily brief",
+  "authors": [
+    "Machina (@EXM7777)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "http://machina.fyi"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2095889020203291117",
+    "author_handle": "EXM7777",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 20202,
+      "likes": 279,
+      "replies": 21,
+      "retweets": 6,
+      "bookmarks": 476,
+      "quotes": 1
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "running ai-powered agencies | http://weeklyaiops.com",
+    "posted_at": "Fri Sep 04 14:57:36 +0000 2026",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

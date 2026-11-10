@@ -1,0 +1,47 @@
+{
+  "id": "x-2109501816853467246",
+  "url": "https://x.com/suraj_sharma14/status/2109501816853467246",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "20 things for Speedmaxxing your vibe coded app:",
+  "authors": [
+    "Suraj Sharma (@suraj_sharma14)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109501816853467246",
+    "author_handle": "suraj_sharma14",
+    "posted_at": "2026-10-12T04:30:00+00:00",
+    "metrics": {
+      "views": 32887,
+      "likes": 622,
+      "replies": 24,
+      "retweets": 30,
+      "bookmarks": 1064,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 37,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUaR738XUAA-xyz.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUaR735XEAA6L2r.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "20 things for Speedmaxxing your vibe coded app:\n\n- Measure first: run Lighthouse and PageSpeed on mobile\n- Compress every image to WebP or AVIF\n- Lazy-load images below the fold\n- Serve static files from a CDN\n- Remove packages your AI added but never used\n- Split your JavaScript so pages load only what they need\n- Preload your main font, and use only 1–2 fonts\n- Add database indexes on columns you filter by\n- Fix N+1 queries\n- Paginate lists instead of loading everything\n- Cache API responses that rarely change\n- Stream AI responses instead of waiting for the full answer\n- Show skeletons and loading states, not blank screens\n- Move heavy work to background jobs\n- Put your server close to your users\n- Kill cold starts on your main routes\n- Debounce search inputs\n- Remove third-party scripts you don't need\n- Test on a cheap Android phone on 4G\n- Ask your AI: \"What makes this app slow?\"\n\nUsers don't wait.\nA 1-second delay is a lost signup.\n\nBookmark this + send it to someone shipping this week.",
+    "fx_raw_text": "20 things for Speedmaxxing your vibe coded app:\n\n- Measure first: run Lighthouse and PageSpeed on mobile\n- Compress every image to WebP or AVIF\n- Lazy-load images below the fold\n- Serve static files from a CDN\n- Remove packages your AI added but never used\n- Split your JavaScript so pages load only what they need\n- Preload your main font, and use only 1–2 fonts\n- Add database indexes on columns you filter by\n- Fix N+1 queries\n- Paginate lists instead of loading everything\n- Cache API responses that rarely change\n- Stream AI responses instead of waiting for the full answer\n- Show skeletons and loading states, not blank screens\n- Move heavy work to background jobs\n- Put your server close to your users\n- Kill cold starts on your main routes\n- Debounce search inputs\n- Remove third-party scripts you don't need\n- Test on a cheap Android phone on 4G\n- Ask your AI: \"What makes this app slow?\"\n\nUsers don't wait.\nA 1-second delay is a lost signup.\n\nBookmark this + send it to someone shipping this week.",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:50.820612+00:00"
+  }
+}

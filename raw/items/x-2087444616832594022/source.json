@@ -3,7 +3,7 @@
   "url": "https://x.com/TencentHunyuan/status/2087444616832594022",
   "source_type": "x",
   "captured_at": "2026-09-04T06:52:19Z",
-  "title": "📄New Research on Self-Evolving Agents: When AI agents modify themselves, how do we know they actually got better? We pre",
+  "title": "\ud83d\udcc4New Research on Self-Evolving Agents: When AI agents modify themselves, how do we know they actually got better? We pre",
   "authors": [
     "@TencentHunyuan"
   ],
@@ -26,6 +26,7 @@
       "web-davidgasquez-context-engineering",
       "github-punkpeye-awesome-mcp-servers"
     ],
-    "category_note": "Survey + catalog for reliable self-evolving agents"
+    "category_note": "Survey + catalog for reliable self-evolving agents",
+    "migrated_v2": true
   }
 }

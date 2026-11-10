@@ -1,3 +1,0 @@
-# Comments
-
-Captured via fxtwitter.

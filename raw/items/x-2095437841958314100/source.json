@@ -19,6 +19,7 @@
   ],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095437841958314100",
     "author_handle": "grokkedd",
     "category_note": "Hyper3D WorldGen: one photo \u2192 editable physics 3D world; pair with Seedance.",

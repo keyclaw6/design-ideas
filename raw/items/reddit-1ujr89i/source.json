@@ -1,0 +1,44 @@
+{
+  "id": "reddit-1ujr89i",
+  "url": "https://www.reddit.com/r/OpenSourceAI/comments/1ujr89i/onklaud_5_a_fusion_model_pipeline_matching_fable/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Onklaud 5 : a fusion model pipeline matching Fable 5 at 1/100th the cost. 57% of tasks at $0. Open source.",
+  "authors": [
+    "korro_ai"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/KorroAi/onklaud-5"
+  ],
+  "media": [
+    "media/01-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1ujr89i",
+    "saved_kind": "post",
+    "post_id": "1ujr89i",
+    "comment_id": null,
+    "subreddit": "OpenSourceAI",
+    "flair": null,
+    "posted_at": "2026-06-30T14:45:10+00:00",
+    "score_at_capture": 32,
+    "comment_count_at_capture": 4,
+    "comments_captured_from_api": 4,
+    "thread_comments_returned": 4,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "media_retrieval_variants": [
+      {
+        "source_url": "https://i.redd.it/2rjd49bflfah1",
+        "retrieved_url": "https://i.redd.it/2rjd49bflfah1.png",
+        "note": "The extensionless URL returned 404; the .png variant returned image/png."
+      }
+    ],
+    "unsaved_at": "2026-10-15T10:56:39+00:00"
+  }
+}

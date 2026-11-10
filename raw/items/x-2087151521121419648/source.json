@@ -5,7 +5,7 @@
   "captured_at": "2026-09-04T06:35:35Z",
   "title": "That's the full stack. One package. One port. `npm i @copilotkit/aimock` Docs: http://aimock.copilotkit.dev GitHub: http",
   "authors": [
-    "CopilotKit🪁 (@CopilotKit)"
+    "CopilotKit\ud83e\ude81 (@CopilotKit)"
   ],
   "topics": [
     "agent-skills",
@@ -28,6 +28,7 @@
       "github-punkpeye-awesome-mcp-servers",
       "web-blume-codes"
     ],
-    "category_note": "CopilotKit aimock: one package/port mocks LLM, MCP, A2A, AG-UI, vector DB, search."
+    "category_note": "CopilotKit aimock: one package/port mocks LLM, MCP, A2A, AG-UI, vector DB, search.",
+    "migrated_v2": true
   }
 }

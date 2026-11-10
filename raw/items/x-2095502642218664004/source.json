@@ -14,6 +14,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095502642218664004",
     "author_handle": "marsoapp",
     "category_note": "Marso I2M 1.2: measured PBR (metal/rough/albedo/IOR) from real objects."

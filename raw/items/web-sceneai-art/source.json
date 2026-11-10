@@ -23,6 +23,7 @@
       "web-meigen-ai",
       "github-wuyoscar-gpt-image2-skill"
     ],
-    "category_note": "Copy-paste UI/landing section prompts with save counts."
+    "category_note": "Copy-paste UI/landing section prompts with save counts.",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,30 @@
+{
+  "id": "x-2097263552000094514",
+  "url": "https://x.com/sab8a/status/2097263552000094514",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:29:07Z",
+  "title": "This is crazy 🤯 I ran GPT-6 ASTRA on VEED’s OpenEdit. It one-shotted its own launch video. Try here:",
+  "authors": [
+    "Sabba Keynejad (@sab8a)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://github.com/veedstudio/open-edit",
+    "https://x.com/OpenAI/status/2095595741528125780"
+  ],
+  "media": [
+    "media/quote_0.mp4",
+    "media/quote_0_thumb.jpg",
+    "media/video_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097263552000094514",
+    "author_handle": "sab8a",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

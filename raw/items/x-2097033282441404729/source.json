@@ -1,0 +1,28 @@
+{
+  "id": "x-2097033282441404729",
+  "url": "https://x.com/adafruit/status/2097033282441404729",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:29:07Z",
+  "title": "T3CAD: An agent-driven electronics workspace with KiCad PCB, schematic, Gerber, 3D, library, and more",
+  "authors": [
+    "adafruit industries (@adafruit)"
+  ],
+  "topics": [
+    "keyboard-pcb",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://blog.adafruit.com/2026/09/07/t3cad-an-agent-driven-electronics-workspace-with-kicad-pcb-schematic-gerber-3d-library-and-more/"
+  ],
+  "media": [
+    "media/photo_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097033282441404729",
+    "author_handle": "adafruit",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

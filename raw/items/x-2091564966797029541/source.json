@@ -17,6 +17,7 @@
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
     "unsaved_at": "2026-09-04T06:38:55Z",
     "filtered": true,
-    "category_note": "FreeCAD toponaming PR; not 3D marketing"
+    "category_note": "FreeCAD toponaming PR; not 3D marketing",
+    "migrated_v2": true
   }
 }

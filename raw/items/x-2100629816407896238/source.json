@@ -1,0 +1,38 @@
+{
+  "id": "x-2100629816407896238",
+  "url": "https://x.com/AmirMushich/status/2100629816407896238",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "This motion design style is exploding on socials I call this style \"ADHD-cut\": it triggers your sensors fast & easily -",
+  "authors": [
+    "AmirMušić (@AmirMushich)"
+  ],
+  "topics": [
+    "video-generation",
+    "ui-motion"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100629816407896238",
+    "author_handle": "AmirMushich",
+    "migrated_v2": true,
+    "author_name": "AmirMušić",
+    "created_at": "Thu Sep 17 16:55:50 +0000 2026",
+    "likes": 1157,
+    "replies": 49,
+    "retweets": 70,
+    "bookmarks": 1384,
+    "quotes": 7,
+    "views": 122049,
+    "lang": "en",
+    "source_client": "Twitter for iPhone",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

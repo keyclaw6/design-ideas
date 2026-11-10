@@ -16,6 +16,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "retry": "jina",
     "related_items": [
       "github-google-labs-code-design-md",

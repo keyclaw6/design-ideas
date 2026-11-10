@@ -1,0 +1,26 @@
+{
+  "id": "x-2097072609351405641",
+  "url": "https://x.com/michaelgold/status/2097072609351405641",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:29:07Z",
+  "title": "Some promising early results of my enhanced Blender MCP compared to the standard Blender MCP. It was able to generate",
+  "authors": [
+    "Michael Gold (@michaelgold)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097072609351405641",
+    "author_handle": "michaelgold",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

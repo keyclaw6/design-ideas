@@ -24,6 +24,7 @@
       "github-superdesigndev-treg",
       "github-LessieAI-people-search-bench"
     ],
-    "category_note": "Huge awesome-list of LLM apps (star-ask tweet)"
+    "category_note": "Huge awesome-list of LLM apps (star-ask tweet)",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,37 @@
+{
+  "id": "x-2100611323562233976",
+  "url": "https://x.com/anthonyriera/status/2100611323562233976",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "I quickly added Jev by typesafe to Rankhog. It can detect in less than 5-min opportunities to promote your product on",
+  "authors": [
+    "Anthony Riera (@anthonyriera)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100611323562233976",
+    "author_handle": "anthonyriera",
+    "migrated_v2": true,
+    "author_name": "Anthony Riera",
+    "created_at": "Thu Sep 17 15:42:21 +0000 2026",
+    "likes": 73,
+    "replies": 15,
+    "retweets": 5,
+    "bookmarks": 112,
+    "quotes": 0,
+    "views": 6963,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

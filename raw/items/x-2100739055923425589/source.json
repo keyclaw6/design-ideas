@@ -1,0 +1,42 @@
+{
+  "id": "x-2100739055923425589",
+  "url": "https://x.com/altryne/status/2100739055923425589",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "This is actually insane. This uses @typesafeai Jev model, as a plugin in Claude to review all the un-nesseasary tool",
+  "authors": [
+    "Alex Volkov (@altryne)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/tamaratran/fast-jev-compaction",
+    "https://x.com/tamarajtran/status/2100694549362553153"
+  ],
+  "media": [
+    "media/media_0.png",
+    "media/media_1.png",
+    "media/quoted-media_0.mp4",
+    "media/quoted-thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100739055923425589",
+    "author_handle": "altryne",
+    "migrated_v2": true,
+    "author_name": "Alex Volkov",
+    "created_at": "Fri Sep 18 00:09:55 +0000 2026",
+    "likes": 8403,
+    "replies": 162,
+    "retweets": 461,
+    "bookmarks": 15969,
+    "quotes": 68,
+    "views": 1149377,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

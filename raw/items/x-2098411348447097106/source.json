@@ -1,0 +1,43 @@
+{
+  "id": "x-2098411348447097106",
+  "url": "https://x.com/fivosaresti/status/2098411348447097106",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "Anyone can now send 100,000+ personalized cold emails/mo through a terminal with Claude Code. And it's easier than you",
+  "authors": [
+    "Fivos Aresti (@fivosaresti)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098411348447097106",
+    "author_handle": "fivosaresti",
+    "author_name": "Fivos Aresti",
+    "author_bio": "Co-Founder @ https://t.co/hjbHe3knbV | B2B Growth playbooks using AI",
+    "created_at": "Fri Sep 11 14:00:26 +0000 2026",
+    "stats": {
+      "likes": 30,
+      "reposts": 4,
+      "replies": 9,
+      "views": 2368,
+      "bookmarks": 42,
+      "quotes": 0
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 689,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 3,
+    "replies_thread": 0,
+    "replies_comments": 3,
+    "replies_page_verified": true,
+    "filtered": true,
+    "category_note": "Bulk cold-email via Claude terminal (100k/mo); outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

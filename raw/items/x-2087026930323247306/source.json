@@ -24,6 +24,7 @@
       "x-2087254502210490739",
       "web-anthropic-claude-self-service-data"
     ],
-    "category_note": "Anthropic cookbook: Claude writes an orchestration script and can spawn up to 1,000 subagents."
+    "category_note": "Anthropic cookbook: Claude writes an orchestration script and can spawn up to 1,000 subagents.",
+    "migrated_v2": true
   }
 }

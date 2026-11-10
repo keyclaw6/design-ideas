@@ -1,0 +1,65 @@
+{
+  "id": "x-2109309297612013621",
+  "url": "https://x.com/Frozune/status/2109309297612013621",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "It should be impossible for AI to make a bad UI.",
+  "authors": [
+    "Gavin (@Frozune)"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/gholtzap/lintapple"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/video-03.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109309297612013621",
+    "author_handle": "Frozune",
+    "posted_at": "2026-10-11T15:45:00+00:00",
+    "metrics": {
+      "views": 117220,
+      "likes": 1315,
+      "replies": 29,
+      "retweets": 58,
+      "bookmarks": 2654,
+      "quotes": 9
+    },
+    "articles": [],
+    "reply_records_captured": 44,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2108999775538282496/vid/avc1/1280x720/sFUTgsNLEwKKaPux.mp4?tag=14",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2108999775538282496/img/gqzi-nSFnac1NvlW.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110374180395098112/vid/avc1/576x1024/t-hXvst_5sBLVpTc.mp4?tag=29",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUoH2yoXoAARpmr.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUoJjt-WQAAaGw-.jpg",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110564564559364096/vid/avc1/1920x1080/0IEKKVE3Qqpc4sEI.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "It should be impossible for AI to make a bad UI. \n\nTell your agent today: \"Install and set up https://github.com/gholtzap/lintapple in this project\"",
+    "fx_raw_text": "It should be impossible for AI to make a bad UI. \n\nTell your agent today: \"Install and set up https://t.co/j4fbSSiOga in this project\" https://t.co/2chddW5IHk",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2109558019998535749",
+      "2092706810285490310",
+      "2098108930002211077",
+      "2110375346046746649",
+      "2110509898958008515",
+      "2110460406896746570",
+      "2110564814531797386"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:43.808481+00:00"
+  }
+}

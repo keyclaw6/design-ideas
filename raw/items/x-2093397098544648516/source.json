@@ -19,6 +19,7 @@
     "tweet_id": "2093397098544648516",
     "author_handle": "slimbuck7",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "SuperSplat editor brush-selection mode (PlayCanvas/Snap)."
+    "category_note": "SuperSplat editor brush-selection mode (PlayCanvas/Snap).",
+    "migrated_v2": true
   }
 }

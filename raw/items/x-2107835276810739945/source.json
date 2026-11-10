@@ -1,0 +1,68 @@
+{
+  "id": "x-2107835276810739945",
+  "url": "https://x.com/aymenpursue/status/2107835276810739945",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "7 UI skills every design engineer should know when building with AI agents:",
+  "authors": [
+    "Aymen (@aymenpursue)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://www.ui-skills.com/skills/emilkowalski/emil-design-eng",
+    "https://www.ui-skills.com/skills/jakubkrehel/make-interfaces-feel-better",
+    "https://www.ui-skills.com/skills/microsoft/playwright-cli",
+    "https://www.ui-skills.com/skills/millionco/react-doctor",
+    "https://www.ui-skills.com/skills/ibelick/fixing-accessibility",
+    "https://www.ui-skills.com/skills/raphaelsalaja/12-principles-of-animation",
+    "https://www.ui-skills.com/skills/shadcn-ui/shadcn"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/image-02.jpg",
+    "media/video-03.mp4",
+    "media/video-04.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107835276810739945",
+    "author_handle": "aymenpursue",
+    "posted_at": "2026-10-07T14:07:46+00:00",
+    "metrics": {
+      "views": 15689,
+      "likes": 312,
+      "replies": 2,
+      "retweets": 28,
+      "bookmarks": 530,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 5,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2107834538755756032/vid/avc1/1084x720/ecC1bdDqOSBk3bsh.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2107834538755756032/img/fhO5X9OFbVrmsEOZ.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110455645933568002/vid/avc1/3840x2160/qTEk0TowO2B33sPs.mp4?tag=29",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUoK4fLboAAo1fo.jpg",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110425227935318016/vid/avc1/1920x1080/GX048H4Ly1_HE_Kb.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110359338833580032/vid/avc1/1796x1772/ww4pNM86sMs6wHgw.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "7 UI skills every design engineer should know when building with AI agents:\n\n1-emil-design-eng\nhttps://www.ui-skills.com/skills/emilkowalski/emil-design-eng\n2-make-interfaces-feel-better\nhttps://www.ui-skills.com/skills/jakubkrehel/make-interfaces-feel-better\n3-playwright-cli\nhttps://www.ui-skills.com/skills/microsoft/playwright-cli\n4-react-doctor\nhttps://www.ui-skills.com/skills/millionco/react-doctor\n5-fixing-accessibility\nhttps://www.ui-skills.com/skills/ibelick/fixing-accessibility\n6-12-principles-of-animation\nhttps://www.ui-skills.com/skills/raphaelsalaja/12-principles-of-animation\n7-shadcn\nhttps://www.ui-skills.com/skills/shadcn-ui/shadcn",
+    "fx_raw_text": "7 UI skills every design engineer should know when building with AI agents:\n\n1-emil-design-eng\nhttps://t.co/YiC5AmharM\n2-make-interfaces-feel-better\nhttps://t.co/Dg7feMDBRh\n3-playwright-cli\nhttps://t.co/rxXm0UWD1f\n4-react-doctor\nhttps://t.co/eROkXsTbKy\n5-fixing-accessibility\nhttps://t.co/FNU6xVr8OU\n6-12-principles-of-animation\nhttps://t.co/uvODfg2V59\n7-shadcn\nhttps://t.co/xLvXKVwtwc",
+    "unverified_timeline_record_ids": [
+      "2110456607297749099",
+      "2110512054851526682",
+      "2110425467996209244",
+      "2110359771094368574"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:46.637255+00:00"
+  }
+}

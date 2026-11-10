@@ -1,0 +1,59 @@
+{
+  "id": "x-2102852926121427304",
+  "url": "https://x.com/bertgodel/status/2102852926121427304",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Agents are using legacy Python packages to edit Word, Excel, and PowerPoint files, hitting API gaps, dropping into raw OOXML, and creating silent corruptions.",
+  "authors": [
+    "Daanish Khazi (@bertgodel)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.png",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102852926121427304",
+    "author_handle": "bertgodel",
+    "posted_at": "2026-09-23T20:09:41+00:00",
+    "metrics": {
+      "views": 77302,
+      "likes": 783,
+      "replies": 42,
+      "retweets": 53,
+      "bookmarks": 994,
+      "quotes": 16
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HS7U7G2b0AEb96n.jpg?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HS7U_PFasAA5ns2.jpg?name=orig",
+      "media/image-03.png": "https://pbs.twimg.com/media/HS_dPm9WYAABJXX.png",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HS7-SoCXMAE5bI8.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Agents are using legacy Python packages to edit Word, Excel, and PowerPoint files, hitting API gaps, dropping into raw OOXML, and creating silent corruptions. \n\nWe fix that today with OSS Paper Office:",
+    "fx_raw_text": "Agents are using legacy Python packages to edit Word, Excel, and PowerPoint files, hitting API gaps, dropping into raw OOXML, and creating silent corruptions. \n\nWe fix that today with OSS Paper Office: https://t.co/n6m9Y12eGj",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740",
+      "2090814619275436444",
+      "2095775916869767477"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:20.105644+00:00"
+  }
+}

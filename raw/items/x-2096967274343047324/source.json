@@ -1,0 +1,40 @@
+{
+  "id": "x-2096967274343047324",
+  "url": "https://x.com/LottiSchmitt/status/2096967274343047324",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "We deleted 200 blog posts and Google traffic more than tripled — quality SEO playbook",
+  "authors": [
+    "Charlotte Schmitt (@LottiSchmitt)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://github.com/octolens/seo-page-builder",
+    "https://octolens.com/"
+  ],
+  "media": [
+    "media/photo.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096967274343047324",
+    "author_handle": "LottiSchmitt",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 34973,
+      "likes": 391,
+      "replies": 44,
+      "retweets": 28,
+      "bookmarks": 726,
+      "quotes": 7
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "Co-founder / CEO of Octolens. \n\n🐙 http://octolens.com",
+    "posted_at": "Mon Sep 07 14:22:12 +0000 2026",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

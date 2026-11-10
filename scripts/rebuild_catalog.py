@@ -15,7 +15,7 @@ AUTO_END = "<!-- /AUTO:ITEMS -->"
 SCHEMA_TOPICS = [
     "bess-3d-flythrough", "gaussian-splatting", "camera-control", "three-js",
     "seo-agents", "keyboard-pcb", "design", "video-generation", "agent-skills",
-    "ui-motion", "mcp", "infographics",
+    "ui-motion", "mcp", "infographics", "general-reference",
 ]
 
 
@@ -80,7 +80,7 @@ def write_index(entries):
         topics = ", ".join(e["topics"]) if e["topics"] else ""
         uns = "true" if e["unsaved"] else "false"
         flt = "true" if e["filtered"] else "false"
-        title = e["title"].replace("|", "\\|")
+        title = " ".join(e["title"].splitlines()).replace("|", "\\|")
         lines.append(
             f"| {e['id']} | {title} | {e['source_type']} | {topics} | {flt} | {uns} | {e['path']} |"
         )
@@ -92,7 +92,8 @@ def render_item_list(items: list[dict]) -> str:
     for e in sorted(items, key=lambda x: x["id"]):
         rel = f"../../{e['path']}"
         flt = " *(filtered)*" if e["filtered"] else ""
-        lines.append(f"- [{e['title']}]({rel}) — `{e['id']}`{flt}")
+        title = " ".join(e["title"].splitlines())
+        lines.append(f"- [{title}]({rel}) — `{e['id']}`{flt}")
     return "\n".join(lines) + "\n"
 
 
@@ -142,7 +143,7 @@ def write_filtered(entries):
             reason = json.loads(src.read_text()).get("extra", {}).get("category_note", "")
         if not reason:
             reason = "Filtered noise — see post.md"
-        title = e["title"].replace("|", "\\|")
+        title = " ".join(e["title"].splitlines()).replace("|", "\\|")
         reason = reason.replace("|", "\\|")
         rel = f"../../{e['path']}"
         lines.append(f"| [{e['id']}]({rel}) | {title} | {reason} |")

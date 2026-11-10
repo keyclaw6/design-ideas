@@ -25,6 +25,7 @@
       "web-davidgasquez-context-engineering",
       "web-anthropic-claude-self-service-data",
       "github-punkpeye-awesome-mcp-servers"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

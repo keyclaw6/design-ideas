@@ -1,0 +1,39 @@
+{
+  "id": "x-2100459591649878516",
+  "url": "https://x.com/viktoroddy/status/2100459591649878516",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:52:00Z",
+  "title": "I used GPT-6 Astra to create a 3D website that pulls apart the brain tech into modeled pieces! we are in a renaissance",
+  "authors": [
+    "Viktor Oddy (@viktoroddy)"
+  ],
+  "topics": [
+    "three-js",
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/viktoroddy/status/2100459591649878516/video/1"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/video-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100459591649878516",
+    "author_handle": "viktoroddy",
+    "author_id": "893369654768529408",
+    "author_name": "Viktor Oddy",
+    "created_at": 1789623565,
+    "likes": 262,
+    "replies": 18,
+    "retweets": 11,
+    "bookmarks": 246,
+    "views": 19715,
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

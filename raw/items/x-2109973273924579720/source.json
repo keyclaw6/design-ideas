@@ -1,0 +1,45 @@
+{
+  "id": "x-2109973273924579720",
+  "url": "https://x.com/mattpocockuk/status/2109973273924579720",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Some mistakes you might be making:",
+  "authors": [
+    "Matt Pocock (@mattpocockuk)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109973273924579720",
+    "author_handle": "mattpocockuk",
+    "posted_at": "Tue Oct 13 11:43:24 +0000 2026",
+    "metrics": {
+      "views": 197198,
+      "likes": 3940,
+      "replies": 266,
+      "retweets": 241,
+      "bookmarks": 3380,
+      "quotes": 58
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {},
+    "media_omitted": [],
+    "fx_text_capture": "Some mistakes you might be making:\n\nYour effort level is too high\nYour skills are too long\nYou're not aligning before you start work\nYou're aligning too often, and too hard\nYour automated checks are too lax\nYour custom tooling is too token-inefficient\nYou aren't doing enough automated review\nYou aren't reviewing previous coding sessions (with an agent)\nYou're doing too much human review\nYou aren't vibe coding enough prototypes\nYour agent can't verify its own work\nYou're babysitting the agent too much\nYou've overloaded your global steering files\nYour codebase is hard to navigate\nYou aren't building a shared language\nYour codebase architecture allows bad tests to be written\nYou aren't thinking strategically enough\nYou aren't thinking enough",
+    "fx_raw_text": "Some mistakes you might be making:\n\nYour effort level is too high\nYour skills are too long\nYou're not aligning before you start work\nYou're aligning too often, and too hard\nYour automated checks are too lax\nYour custom tooling is too token-inefficient\nYou aren't doing enough automated review\nYou aren't reviewing previous coding sessions (with an agent)\nYou're doing too much human review\nYou aren't vibe coding enough prototypes\nYour agent can't verify its own work\nYou're babysitting the agent too much\nYou've overloaded your global steering files\nYour codebase is hard to navigate\nYou aren't building a shared language\nYour codebase architecture allows bad tests to be written\nYou aren't thinking strategically enough\nYou aren't thinking enough",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2099919655498383713",
+      "2109987271818744100",
+      "2098108930002194658",
+      "2110018659666051541"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:55.090007+00:00"
+  }
+}

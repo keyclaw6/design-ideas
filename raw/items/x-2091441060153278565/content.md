@@ -1,0 +1,15 @@
+# AI just changed how we create creative logo videos. MiniMax M3 can turn a simple logo into a polished, premium brand fil
+
+> Source: https://x.com/lepadphone/status/2091441060153278565
+> Author: padphone (@lepadphone)
+> Captured: 2026-09-04T06:49:32Z
+
+## Post
+
+AI just changed how we create creative logo videos.
+
+MiniMax M3 can turn a simple logo into a polished, premium brand film with surprisingly little effort.
+
+You don't need professional motion design skills. You might not even need to hire a motion design studio.
+
+This is a completely new workflow for logo motion.

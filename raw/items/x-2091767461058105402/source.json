@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2091767461058105402",
     "author_handle": "DennisAdriaans",
-    "category_note": "Carousel studio; engagement-farm pitch"
+    "category_note": "Carousel studio; engagement-farm pitch",
+    "migrated_v2": true
   }
 }

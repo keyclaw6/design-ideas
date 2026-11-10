@@ -1,0 +1,66 @@
+{
+  "id": "x-2106051894624047547",
+  "url": "https://x.com/matiNotFound/status/2106051894624047547",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "The vgpu skill now helps your agent create better 3D models in Blender, optimized for web",
+  "authors": [
+    "Matias 🧉 (@matiNotFound)"
+  ],
+  "topics": [
+    "agent-skills",
+    "three-js"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106051894624047547",
+    "author_handle": "matiNotFound",
+    "posted_at": "2026-10-02T16:01:14+00:00",
+    "metrics": {
+      "views": 28921,
+      "likes": 698,
+      "replies": 26,
+      "retweets": 34,
+      "bookmarks": 807,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 44,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2106050181330345984/vid/avc1/1264x720/xUZmD2gpZwNbFbfC.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2106050181330345984/img/PyZGqbV-HlKlKfzx.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HTpNmwhX0AA1BYT.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HTo1PX5WgAEWP9K.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110374180395098112/vid/avc1/576x1024/t-hXvst_5sBLVpTc.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110341167745282048/vid/avc1/1920x1080/m0kAWre8eLhiSKiF.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110478642488721409/vid/avc1/1438x1038/dB1MP0fH1Am8GDFv.mp4?tag=29",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2110057828509470720/vid/avc1/1080x1080/I6F_bLTx6RiYciXQ.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "The vgpu skill now helps your agent create better 3D models in Blender, optimized for web\n\nnpx skills add vercel-labs/vgpu",
+    "fx_raw_text": "The vgpu skill now helps your agent create better 3D models in Blender, optimized for web\n\nnpx skills add vercel-labs/vgpu https://t.co/51pPl8qmDT",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2092706810314858684",
+      "2098108930048327740",
+      "2110375346046746649",
+      "2110342352665473156",
+      "2110563791922770264",
+      "2110342713228865764"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:19.158215+00:00"
+  }
+}

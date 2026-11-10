@@ -22,6 +22,7 @@
   ],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 6531,
     "npm": "@antv/infographic",
     "related_items": [

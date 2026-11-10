@@ -1,0 +1,39 @@
+{
+  "id": "x-2097686550234419573",
+  "url": "https://x.com/fivosaresti/status/2097686550234419573",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "6 workflows to master in GTM engineering: inbound, TAM sourcing, enrichment, outbound, signals",
+  "authors": [
+    "Fivos Aresti (@fivosaresti)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097686550234419573",
+    "author_handle": "fivosaresti",
+    "author_name": "Fivos Aresti",
+    "author_id": "1592198362572509184",
+    "created_at": "2026-09-09T14:00:21Z",
+    "likes": 34,
+    "replies": 5,
+    "retweets": 4,
+    "bookmarks": 42,
+    "quotes": 0,
+    "views": 1436,
+    "lang": "en",
+    "source_client": "tweethunter [X]",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "5 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "filtered": true,
+    "category_note": "GTM-engineering workflows post; GTM, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

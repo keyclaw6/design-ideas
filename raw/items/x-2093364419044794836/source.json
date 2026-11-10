@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2093364419044794836",
     "author_handle": "ivanboroja",
-    "category_note": "Site-launch teaser; keep as landing-motion reference (video attached)."
+    "category_note": "Site-launch teaser; keep as landing-motion reference (video attached).",
+    "migrated_v2": true
   }
 }

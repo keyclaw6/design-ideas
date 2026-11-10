@@ -1,0 +1,53 @@
+{
+  "id": "x-2105631054531092960",
+  "url": "https://x.com/trending_repos/status/2105631054531092960",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Trending repository of the month 🏆",
+  "authors": [
+    "Trending GitHub Repositories (@trending_repos)"
+  ],
+  "topics": [
+    "agent-skills",
+    "infographics"
+  ],
+  "related_urls": [
+    "https://github.com/tt-a1i/archify"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/video-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2105631054531092960",
+    "author_handle": "trending_repos",
+    "posted_at": "Thu Oct 01 12:08:58 +0000 2026",
+    "metrics": {
+      "views": 5944,
+      "likes": 60,
+      "replies": 1,
+      "retweets": 5,
+      "bookmarks": 91,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 5,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUk45DIWgAALiP0.jpg",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110423856913506304/vid/avc1/1080x1920/U5g23dtM3P-mbCRT.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Trending repository of the month 🏆\n\narchify\n\nAgent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\n\nLast month: 38,190 ⭐\nTotal: 75,547 ⭐️\nhttps://github.com/tt-a1i/archify",
+    "fx_raw_text": "Trending repository of the month 🏆\n\narchify\n\nAgent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\n\nLast month: 38,190 ⭐\nTotal: 75,547 ⭐️\nhttps://t.co/ggvj9dnSeo",
+    "unverified_timeline_record_ids": [
+      "2110509392726483153",
+      "2110371044666093763",
+      "2110423896923004993",
+      "2110507136082190548"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:05.369293+00:00"
+  }
+}

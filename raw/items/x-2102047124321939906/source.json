@@ -1,0 +1,61 @@
+{
+  "id": "x-2102047124321939906",
+  "url": "https://x.com/chris_nectiv/status/2102047124321939906",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Full article on the Nectiv blog can be found here: https://t.co/vqdTOCApdX",
+  "authors": [
+    "Chris Long (@chris_nectiv)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://nectivdigital.com/blog/the-perfectly-optimized-page-for-aeo-ai-search",
+    "https://x.com/chris_nectiv/status/2102025492840739175"
+  ],
+  "media": [
+    "media/parent-post-image.jpg",
+    "media/nectiv-aeo-infographic.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102047124321939906",
+    "author_handle": "chris_nectiv",
+    "posted_at": "2026-09-21T14:47:43+00:00",
+    "metrics": {
+      "views": 3068,
+      "likes": 20,
+      "replies": 1,
+      "retweets": 1,
+      "bookmarks": 68,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 0,
+    "media_source_urls": {
+      "media/parent-post-image.jpg": "https://pbs.twimg.com/media/HSvlCviWAAEcnG0.jpg?name=orig",
+      "media/nectiv-aeo-infographic.png": "https://firebasestorage.googleapis.com/v0/b/nectiv-website.firebasestorage.app/o/public%2Fmedia%2F1790003380972-Perfectly_Optimized_Page__Revised_.png?alt=media"
+    },
+    "media_omitted": [],
+    "capture_gaps": [
+      "Authenticated X thread request returned HTTP 429; the parent post and linked article were recovered separately, but replies/comments remain unavailable."
+    ],
+    "thread_parent": {
+      "id": "2102025492840739175",
+      "url": "https://x.com/chris_nectiv/status/2102025492840739175",
+      "author": "Chris Long (@chris_nectiv)",
+      "posted_at": "Mon Sep 21 13:21:45 +0000 2026",
+      "text": "The Perfectly Optimized Page For AEO: \n\n- Optimized Title / H1\n- Key Takeaways\n- Structured Content Formats\n- Freshness Updates\n- FAQs"
+    },
+    "external_article": {
+      "url": "https://nectivdigital.com/blog/the-perfectly-optimized-page-for-aeo-ai-search",
+      "title": "The Perfectly Optimized Page For AEO",
+      "capture": "Full Markdown fetched 2026-10-15 from public article; infographic saved locally."
+    },
+    "fx_text_capture": "Full article on the Nectiv blog can be found here: https://nectivdigital.com/blog/the-perfectly-optimized-page-for-aeo-ai-search",
+    "fx_raw_text": "Full article on the Nectiv blog can be found here: https://t.co/vqdTOCApdX",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:51:41.572104+00:00"
+  }
+}

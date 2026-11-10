@@ -1,0 +1,115 @@
+{
+  "verified_at": "2026-10-15T09:06:23+00:00",
+  "method": "ffprobe local MP4 stream inspection; source has_audio values from authenticated Reddit video metadata",
+  "results": [
+    {
+      "fullname": "t3_1x4vndw",
+      "folder": "reddit-1x4vndw",
+      "path": "media/02-reddit-media.mp4",
+      "bytes": 5744652,
+      "source_has_audio": true,
+      "ffprobe_streams": [
+        {
+          "codec_type": "video",
+          "duration_seconds": 39.366667
+        },
+        {
+          "codec_type": "audio",
+          "duration_seconds": 39.381333
+        }
+      ],
+      "verified": true
+    },
+    {
+      "fullname": "t3_1x4cvvw",
+      "folder": "reddit-1x4cvvw",
+      "path": "media/02-reddit-media.mp4",
+      "bytes": 10176867,
+      "source_has_audio": true,
+      "ffprobe_streams": [
+        {
+          "codec_type": "video",
+          "duration_seconds": 60.133333
+        },
+        {
+          "codec_type": "audio",
+          "duration_seconds": 60.096
+        }
+      ],
+      "verified": true
+    },
+    {
+      "fullname": "t3_1w4ljsx",
+      "folder": "reddit-1w4ljsx",
+      "path": "media/02-reddit-media.mp4",
+      "bytes": 20832985,
+      "source_has_audio": true,
+      "ffprobe_streams": [
+        {
+          "codec_type": "video",
+          "duration_seconds": 85.833333
+        },
+        {
+          "codec_type": "audio",
+          "duration_seconds": 85.845333
+        }
+      ],
+      "verified": true
+    },
+    {
+      "fullname": "t3_1v4e576",
+      "folder": "reddit-1v4e576",
+      "path": "media/02-reddit-media.mp4",
+      "bytes": 29090965,
+      "source_has_audio": true,
+      "ffprobe_streams": [
+        {
+          "codec_type": "video",
+          "duration_seconds": 100.066667
+        },
+        {
+          "codec_type": "audio",
+          "duration_seconds": 100.010667
+        }
+      ],
+      "verified": true
+    },
+    {
+      "fullname": "t3_1vvf7ou",
+      "folder": "reddit-1vvf7ou",
+      "path": "media/02-reddit-media.mp4",
+      "bytes": 15057934,
+      "source_has_audio": true,
+      "ffprobe_streams": [
+        {
+          "codec_type": "video",
+          "duration_seconds": 50.6
+        },
+        {
+          "codec_type": "audio",
+          "duration_seconds": 50.533333
+        }
+      ],
+      "verified": true
+    },
+    {
+      "fullname": "t3_1w0by3s",
+      "folder": "reddit-1w0by3s",
+      "path": "media/02-reddit-media.mp4",
+      "bytes": 8215408,
+      "source_has_audio": false,
+      "ffprobe_streams": [
+        {
+          "codec_type": "video",
+          "duration_seconds": 42.333333
+        }
+      ],
+      "verified": true
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "with_audio": 5,
+    "video_only_expected": 1
+  }
+}

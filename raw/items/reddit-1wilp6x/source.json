@@ -1,0 +1,47 @@
+{
+  "id": "reddit-1wilp6x",
+  "url": "https://www.reddit.com/r/pixel_phones/comments/1wilp6x/i_unlocked_pixel_11s_gemini_rambler_ai_writing/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "I unlocked Pixel 11's Gemini Rambler + AI Writing Tools on ANY Android phone — no root",
+  "authors": [
+    "akshayysk"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/Akshayykadam/PixelBoard/issues/3",
+    "https://github.com/Akshayykadam/PixelBoard/issues/5",
+    "https://github.com/Akshayykadam/PixelBoard/issues/4",
+    "https://github.com/Akshayykadam/PixelBoard",
+    "https://github.com/Akshayykadam/PixelBoard/releases/tag/v18.4.1-Stable",
+    "https://github.com/Akshayykadam/PixelBoard/releases/download/v18.4.1-Stable/PixelBoard-18.4.1.apk",
+    "https://raw.githubusercontent.com/Akshayykadam/PixelBoard/main/patches-bundle.json",
+    "https://github.com/PaoloDelCasale"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1wilp6x",
+    "saved_kind": "post",
+    "post_id": "1wilp6x",
+    "comment_id": null,
+    "subreddit": "pixel_phones",
+    "flair": null,
+    "posted_at": "2026-09-17T06:06:05+00:00",
+    "score_at_capture": 349,
+    "comment_count_at_capture": 239,
+    "comments_captured_from_api": 190,
+    "thread_comments_returned": 190,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "comments_expanded_from_morechildren": 95,
+    "more_nodes_remaining": 0,
+    "unsaved_at": "2026-10-15T10:44:21+00:00"
+  }
+}

@@ -22,6 +22,7 @@
       "web-cerebras-knowledge-base",
       "web-davidgasquez-context-engineering"
     ],
-    "category_note": "Hermes ‘life OS’ prompt: markdown KB + memory pointer + capture skills + life tracker."
+    "category_note": "Hermes \u2018life OS\u2019 prompt: markdown KB + memory pointer + capture skills + life tracker.",
+    "migrated_v2": true
   }
 }

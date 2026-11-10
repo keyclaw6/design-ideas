@@ -1,0 +1,37 @@
+{
+  "id": "x-2097762050743091655",
+  "url": "https://x.com/dan__rosenthal/status/2097762050743091655",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "31,000 cold emails a month without spam: 2 mailboxes per domain, 15/day cap, 50 domains",
+  "authors": [
+    "Dan Rosenthal (@dan__rosenthal)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097762050743091655",
+    "author_handle": "dan__rosenthal",
+    "author_name": "Dan Rosenthal",
+    "author_id": "1930755946009305089",
+    "created_at": "2026-09-09T19:00:22Z",
+    "likes": 51,
+    "replies": 16,
+    "retweets": 6,
+    "bookmarks": 73,
+    "quotes": 2,
+    "views": 4438,
+    "lang": "en",
+    "source_client": "tweethunter [X]",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "16 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "filtered": true,
+    "category_note": "Bulk cold-email setup (31k/mo); outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

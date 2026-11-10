@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1vvf7ou",
+  "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vvf7ou/3d_gaussian_splat_from_any_video_including_360/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "3D Gaussian Splat from any Video (Including 360) locally in your machine for free. \nWorks with Intel, AMD, NVIDIA, Apple Silicon (Mac).",
+  "authors": [
+    "ArunKurian"
+  ],
+  "topics": [
+    "gaussian-splatting"
+  ],
+  "related_urls": [
+    "http://airvisstudio.com"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1vvf7ou",
+    "saved_kind": "post",
+    "post_id": "1vvf7ou",
+    "comment_id": null,
+    "subreddit": "GaussianSplatting",
+    "flair": "🧪 I built a thing",
+    "posted_at": "2026-08-22T15:22:14+00:00",
+    "score_at_capture": 799,
+    "comment_count_at_capture": 90,
+    "comments_captured_from_api": 88,
+    "thread_comments_returned": 88,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:33+00:00"
+  }
+}

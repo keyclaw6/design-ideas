@@ -54,4 +54,8 @@ Query here for “agent that draws a diagram,” “chart as a landing block,”
 - [Trending repository of the day 📈 archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-fl](../../raw/items/x-2093309791120543846/) — `x-2093309791120543846`
 - [AI-native company #3: centralized intelligence layer](../../raw/items/x-2094558408259272998/) — `x-2094558408259272998`
 - [5 layers of SEO in 2026 — beyond ranking #1](../../raw/items/x-2094771557864292784/) — `x-2094771557864292784`
+- [Trending repository of the month 🏆](../../raw/items/x-2105631054531092960/) — `x-2105631054531092960`
+- [Diagram Design skill now in 3D.](../../raw/items/x-2107222360155701709/) — `x-2107222360155701709`
+- [Introducing ManimGX, the 3D animation engine for agents.](../../raw/items/x-2109045945149395421/) — `x-2109045945149395421`
+- [Such a good skill for visual explainers. All SVG and animated.](../../raw/items/x-2109182449179836579/) — `x-2109182449179836579`
 <!-- /AUTO:ITEMS -->

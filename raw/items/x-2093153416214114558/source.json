@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2093153416214114558",
     "author_handle": "simplifyinAI",
-    "category_note": "OmniParser: screenshot UI parse so any LLM can click; OmniTool Windows VM."
+    "category_note": "OmniParser: screenshot UI parse so any LLM can click; OmniTool Windows VM.",
+    "migrated_v2": true
   }
 }

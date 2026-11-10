@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2092106682302140648",
     "author_handle": "SipeedLab",
-    "category_note": "AI schematic/hardware, not a keyboard specifically"
+    "category_note": "AI schematic/hardware, not a keyboard specifically",
+    "migrated_v2": true
   }
 }

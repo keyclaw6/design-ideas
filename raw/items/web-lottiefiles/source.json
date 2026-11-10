@@ -17,6 +17,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "tagline": "Great designs come alive with motion",
     "related_items": [
       "github-nexu-io-motion-anything",

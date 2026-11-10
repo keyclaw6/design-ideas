@@ -3,7 +3,7 @@
   "url": "https://x.com/HsanC_/status/2093713466955649145",
   "source_type": "x",
   "captured_at": "2026-09-04T06:50:02Z",
-  "title": "I started using AI agents to build SEO backlinks recently. What used to take me 2\u20133 hours a day manually is now mostly a",
+  "title": "I started using AI agents to build SEO backlinks recently. What used to take me 2–3 hours a day manually is now mostly a",
   "authors": [
     "Hasan Cagli (@HsanC_)"
   ],
@@ -19,6 +19,7 @@
     "author_handle": "HsanC_",
     "fetch": "api.fxtwitter.com (retry)",
     "media_omitted": "exceeds GitHub 100MB limit; kept locally only",
-    "category_note": "AI-agent workflow for SEO backlinks (DR 50\u201375 examples)."
+    "category_note": "AI-agent workflow for SEO backlinks (DR 50–75 examples).",
+    "migrated_v2": true
   }
 }

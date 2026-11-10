@@ -6,7 +6,9 @@ This is **not** a product or public service. It is a structured archive of inter
 
 **Agent entry point:** [catalog/README.md](./catalog/README.md) → topic briefs → [patterns](./catalog/patterns.md) → item captures. See [AGENTS.md](./AGENTS.md).
 
-**Bank stats (2026-09-04):** 387 items + 1 long-form note · 12 topic lanes · 47 filtered (noise) · graphify corpus ~4.2k nodes.
+**Bank stats (2026-10-15):** 791 items + 1 long-form note · 13 topic lanes · 109 historical filtered items.
+
+**Latest import:** [130 X bookmarks + 38 Reddit saves](raw/_progress/import-2026-10-15/README.md), with full Markdown captures, local media, and account/pagination evidence.
 
 ## Current focus
 

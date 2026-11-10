@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1w0by3s",
+  "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w0by3s/open_source_3dgs_training_pipeline_nvidia_amd/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Open Source 3DGS Training Pipeline - NVIDIA / AMD / Intel / Apple, Train 10M SH3 Gaussians in 8GB, 360 Camera Support, Lightning-Fast SfM, Meshing Support - Feedback Welcome",
+  "authors": [
+    "harry7557558"
+  ],
+  "topics": [
+    "gaussian-splatting"
+  ],
+  "related_urls": [
+    "http://github.com/harry7557558/spirula-studio"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1w0by3s",
+    "saved_kind": "post",
+    "post_id": "1w0by3s",
+    "comment_id": null,
+    "subreddit": "GaussianSplatting",
+    "flair": "🧪 I built a thing",
+    "posted_at": "2026-08-28T00:49:21+00:00",
+    "score_at_capture": 230,
+    "comment_count_at_capture": 56,
+    "comments_captured_from_api": 54,
+    "thread_comments_returned": 54,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:30+00:00"
+  }
+}

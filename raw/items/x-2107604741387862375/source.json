@@ -1,0 +1,46 @@
+{
+  "id": "x-2107604741387862375",
+  "url": "https://x.com/openseo_so/status/2107604741387862375",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "We just shipped some major AI Visibility features.",
+  "authors": [
+    "OpenSEO (@openseo_so)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107604741387862375",
+    "author_handle": "openseo_so",
+    "posted_at": "Tue Oct 06 22:51:42 +0000 2026",
+    "metrics": {
+      "views": 42540,
+      "likes": 165,
+      "replies": 21,
+      "retweets": 10,
+      "bookmarks": 284,
+      "quotes": 5
+    },
+    "articles": [],
+    "reply_records_captured": 21,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HT-3SVla4AA-47t.jpg?name=orig"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "We just shipped some major AI Visibility features.\n\nInstead of paying $100+/month, on our $10/month plan you can:\n\n- See how AIs talk about your industry\n- Track responses over time\n- Compare against your competition\n- See which pages get cited\n\nWhat should we add next?",
+    "fx_raw_text": "We just shipped some major AI Visibility features.\n\nInstead of paying $100+/month, on our $10/month plan you can:\n\n- See how AIs talk about your industry\n- Track responses over time\n- Compare against your competition\n- See which pages get cited\n\nWhat should we add next? https://t.co/xLAPUo7XcH",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2092706810293813701"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:32.011625+00:00"
+  }
+}

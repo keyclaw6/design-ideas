@@ -1,0 +1,39 @@
+{
+  "id": "x-2096675504229138541",
+  "url": "https://x.com/bil0090/status/2096675504229138541",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:59:07Z",
+  "title": "Here's how to fix Astra Astra is a GREAT model, the problem is limits, its THIRSTY Here's how to fix it: 1. Go to",
+  "authors": [
+    "Bilal Bakr (@bil0090)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096675504229138541",
+    "author_handle": "bil0090",
+    "author_name": "Bilal Bakr",
+    "author_bio": "16 y/o Software Engineer, @t3dotcodes contributor, & Co-founder @Calendaty. building cool stuff & sharing the journey \ud83d\ude80\ud83d\udcbb",
+    "author_followers": 12285,
+    "author_following": 1746,
+    "created_at": "Sun Sep 06 19:02:49 +0000 2026",
+    "stats": {
+      "likes": 747,
+      "reposts": 45,
+      "replies": 36,
+      "views": 99552,
+      "bookmarks": 1179,
+      "quotes": 8
+    },
+    "fetch": "api.fxtwitter.com (primary: https://api.fxtwitter.com/i/status/2096675504229138541); r.jina.ai comments attempt -> HTTP 403; vxtwitter fallback available",
+    "comments": "none retrievable (jina 403, fx single-tweet only)",
+    "quote_url": null,
+    "unsaved_at": "2026-09-21T12:08:46Z"
+  }
+}

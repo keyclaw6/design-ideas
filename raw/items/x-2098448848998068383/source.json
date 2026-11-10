@@ -1,0 +1,47 @@
+{
+  "id": "x-2098448848998068383",
+  "url": "https://x.com/oliviscusAI/status/2098448848998068383",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "steal Alex Hormozi's $100M playbook for free with this repo right here. Hormozi's own paid AI advisor, ACQ AI, costs",
+  "authors": [
+    "Oliver Prompts (@oliviscusAI)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://github.com/antonio-clicktoclose/hormozi-claude-code-brain.git"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098448848998068383",
+    "author_handle": "oliviscusAI",
+    "author_name": "Oliver Prompts",
+    "author_bio": "Helping you understand AI. Software Engineer. Opinions are personal. DM for collabs.",
+    "created_at": "Fri Sep 11 16:29:27 +0000 2026",
+    "stats": {
+      "likes": 323,
+      "reposts": 21,
+      "replies": 9,
+      "views": 27617,
+      "bookmarks": 873,
+      "quotes": 1
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 543,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 6,
+    "replies_thread": 1,
+    "replies_comments": 5,
+    "replies_page_verified": true,
+    "filtered": true,
+    "category_note": "Hormozi business playbook repo; business, no matching lane.",
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -24,6 +24,7 @@
       "x-2087240056037908509",
       "web-blume-codes"
     ],
-    "category_note": "On-device 35B sparse MoE (iPhone demo, OSS soon)"
+    "category_note": "On-device 35B sparse MoE (iPhone demo, OSS soon)",
+    "migrated_v2": true
   }
 }

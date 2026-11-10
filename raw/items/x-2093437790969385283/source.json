@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2093437790969385283",
     "author_handle": "gregmushen",
-    "category_note": "Production agents: Hermes judgement + slim skills + CLIs + telemetry loop."
+    "category_note": "Production agents: Hermes judgement + slim skills + CLIs + telemetry loop.",
+    "migrated_v2": true
   }
 }

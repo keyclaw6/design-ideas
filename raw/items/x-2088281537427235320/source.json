@@ -27,6 +27,7 @@
       "x-2087962842985058365",
       "x-2087240056037908509"
     ],
-    "category_note": "Qwen3.8-27B Unsloth GGUF (~17GB RAM)"
+    "category_note": "Qwen3.8-27B Unsloth GGUF (~17GB RAM)",
+    "migrated_v2": true
   }
 }

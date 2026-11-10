@@ -25,6 +25,7 @@
       "web-fal-ai",
       "github-nv-tlabs-ArtiFixer"
     ],
-    "category_note": "Blender blockout + Seedance camera-path reference"
+    "category_note": "Blender blockout + Seedance camera-path reference",
+    "migrated_v2": true
   }
 }

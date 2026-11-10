@@ -1,0 +1,60 @@
+{
+  "id": "x-2109719615324496137",
+  "url": "https://x.com/Ga_Vasques/status/2109719615324496137",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "My personal AI agent tier list.",
+  "authors": [
+    "Guilherme Vasques (@Ga_Vasques)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://my-tierroom.party/"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/video-01.mp4",
+    "media/image-02.png",
+    "media/image-03.png",
+    "media/image-04.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109719615324496137",
+    "author_handle": "Ga_Vasques",
+    "posted_at": "2026-10-12T18:55:27+00:00",
+    "metrics": {
+      "views": 188710,
+      "likes": 631,
+      "replies": 110,
+      "retweets": 40,
+      "bookmarks": 948,
+      "quotes": 11
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUc6OKmWIAArtZ0.jpg?name=orig",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109297386300583938/vid/avc1/720x1280/sPcWgWoxXmgbbNcr.mp4?tag=29",
+      "media/image-02.png": "https://pbs.twimg.com/media/HUdiJB3WMAAbgjh.png",
+      "media/image-03.png": "https://pbs.twimg.com/media/HUdiP5hXIAAGQJx.png",
+      "media/image-04.png": "https://pbs.twimg.com/media/HUdipkWX0AAnBBx.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "My personal AI agent tier list.\n\nI think Grok is top-notch, but the model and the subscription price are deal-breakers. The $20 plan doesn't really give you much usage.\n\nMausbot is great, I use it with Claude 5.5, and I’ve been testing Codync; it’s been a pleasant surprise.\n\nVote on the models and create your own tier list.https://my-tierroom.party/\n\nAll have your page, detailed informations. All Day Updated.",
+    "fx_raw_text": "My personal AI agent tier list.\n\nI think Grok is top-notch, but the model and the subscription price are deal-breakers. The $20 plan doesn't really give you much usage.\n\nMausbot is great, I use it with Claude 5.5, and I’ve been testing Codync; it’s been a pleasant surprise.\n\nVote on the models and create your own tier list.https://t.co/hbO7rKvc9b\n\nAll have your page, detailed informations. All Day Updated.",
+    "unverified_timeline_record_ids": [
+      "2105946762640843099",
+      "2109621674752795019",
+      "2110112351550616037",
+      "2108182913590460423",
+      "2104433992019984649",
+      "2108119033937895497"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

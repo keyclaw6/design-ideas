@@ -14,6 +14,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095521587785081193",
     "author_handle": "titouangillet_",
     "fetch": "api.fxtwitter.com (retry)",

@@ -26,6 +26,7 @@
       "x-2087143369181114868",
       "web-davidgasquez-context-engineering"
     ],
-    "category_note": "Obsidian vault as persistent agent memory"
+    "category_note": "Obsidian vault as persistent agent memory",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,41 @@
+{
+  "authors": [
+    "Faisal Ahmed (@_heyfaisal)"
+  ],
+  "captured_at": "2026-09-21T12:33:00Z",
+  "extra": {
+    "author_handle": "_heyfaisal",
+    "author_name": "Faisal Ahmed",
+    "bookmarks": 12,
+    "created_at": "2026-09-18T08:29:42Z",
+    "lang": "en",
+    "likes": 23,
+    "migrated_v2": true,
+    "replies": 1,
+    "retweets": 2,
+    "self_reply_id": "2100864846569103678",
+    "source_client": "Twitter Web App",
+    "tweet_id": "2100864831817683075",
+    "video_duration": 5.038,
+    "views": 1138,
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  },
+  "id": "x-2100864831817683075",
+  "media": [
+    "media/thumb.jpg",
+    "media/video.mp4"
+  ],
+  "related_urls": [
+    "https://sceneai.art/r/faisal-ahmed",
+    "https://x.com/_heyfaisal/status/2100864846569103678"
+  ],
+  "source_type": "x",
+  "title": "Stop wasting hours designing from scratch — SceneAI UI prompt library",
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "unsaved": true,
+  "url": "https://x.com/_heyfaisal/status/2100864831817683075"
+}

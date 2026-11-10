@@ -1,0 +1,45 @@
+{
+  "id": "x-2078703614810550526",
+  "url": "https://x.com/iamtanzil_/status/2078703614810550526",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "Triverra travel landing hero prompt: full-viewport video, glass navbar, dual-arrow CTA reveal",
+  "authors": [
+    "Tanzil Chowdhury (@iamtanzil_)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "http://jiro.build",
+    "https://cdn.jiro.build/Jahid/Random/Triverra/All%20Images/Header%20BG%20travel.mp4",
+    "https://cdn.jiro.build/Jahid/Random/Triverra/All%20SVG/brand%20logo%20triverra.svg",
+    "https://cdn.jiro.build/Jahid/Random/Triverra/All%20SVG/arrow-right.svg",
+    "https://cdn.jiro.build/Jahid/Random/Triverra/All%20SVG/arrow-up-right.svg"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2078703614810550526",
+    "author_handle": "iamtanzil_",
+    "author_name": "Tanzil Chowdhury",
+    "author_id": "3932648176",
+    "created_at": "2026-07-19T04:48:56Z",
+    "likes": 67,
+    "replies": 1,
+    "retweets": 5,
+    "bookmarks": 161,
+    "quotes": 0,
+    "views": 5030,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "1 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "replying_to": "iamtanzil_",
+    "replying_to_status": "2078703609664114773",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

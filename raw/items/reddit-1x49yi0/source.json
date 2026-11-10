@@ -1,0 +1,42 @@
+{
+  "id": "reddit-1x49yi0",
+  "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x49yi0/breakscale_build_a_system_load_it_until_it_breaks/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Breakscale: Build a system, load it until it breaks, and watch why (1.3k stars)",
+  "authors": [
+    "company_url_finder"
+  ],
+  "topics": [
+    "mcp",
+    "design"
+  ],
+  "related_urls": [
+    "https://github.com/xevrion/breakscale",
+    "https://github.com/xevrion",
+    "https://xevrion.dev",
+    "https://best-github-repos.beehiiv.com/subscribe"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x49yi0",
+    "saved_kind": "post",
+    "post_id": "1x49yi0",
+    "comment_id": null,
+    "subreddit": "BestGitHubRepos",
+    "flair": "🛠 Developer tools",
+    "posted_at": "2026-10-12T18:35:24+00:00",
+    "score_at_capture": 130,
+    "comment_count_at_capture": 0,
+    "comments_captured_from_api": 0,
+    "thread_comments_returned": 0,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:15+00:00"
+  }
+}

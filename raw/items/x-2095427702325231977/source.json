@@ -14,6 +14,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095427702325231977",
     "author_handle": "aiaicreate",
     "category_note": "MiniMax H3 audio-repair: low-res video + high-step audio regen, latent shrink (ComfyUI)."

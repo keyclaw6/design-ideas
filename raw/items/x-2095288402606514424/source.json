@@ -16,6 +16,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095288402606514424",
     "author_handle": "npaka123",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",

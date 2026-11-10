@@ -1,0 +1,50 @@
+{
+  "id": "x-2107793469322485839",
+  "url": "https://x.com/neogoose_btw/status/2107793469322485839",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "@ZypherHQ - faster",
+  "authors": [
+    "Dmitriy Kovalenko (@neogoose_btw)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://x.com/neogoose_btw/status/2105321655174406399?s=46",
+    "https://x.com/ZypherHQ/status/2107716963854102841"
+  ],
+  "media": [
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107793469322485839",
+    "author_handle": "neogoose_btw",
+    "posted_at": "2026-10-07T11:21:38+00:00",
+    "metrics": {
+      "views": 3899,
+      "likes": 51,
+      "replies": 2,
+      "retweets": 3,
+      "bookmarks": 48,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 4,
+    "media_source_urls": {
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUEDBI-WwAEbJB_.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "@ZypherHQ - faster\n- no browser\n- no token waste on layouting flexes and grids \n- built-in agentic verification loop for audio, collisions, motion\n\nhttps://x.com/neogoose_btw/status/2105321655174406399?s=46",
+    "fx_raw_text": "@ZypherHQ - faster\n- no browser\n- no token waste on layouting flexes and grids \n- built-in agentic verification loop for audio, collisions, motion\n\nhttps://t.co/lKo990pIOe",
+    "quoted_post": {
+      "id": "2105321655174406399",
+      "url": "https://x.com/neogoose_btw/status/2105321655174406399",
+      "author": "Dmitriy Kovalenko (@neogoose_btw)",
+      "text": "I know it was a rough launch. Many of you have stuck at the various skia or ffmpeg compilation issues or the initial setup just took way too long. So many just gave up. I'm sorry and I've fixed it.\n\nHere's Fifi to tell you more!\n\nP.S. Made by Sol 6.1 obviously in fframes"
+    },
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:41.655627+00:00"
+  }
+}

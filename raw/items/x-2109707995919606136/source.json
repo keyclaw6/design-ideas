@@ -1,0 +1,59 @@
+{
+  "id": "x-2109707995919606136",
+  "url": "https://x.com/observie/status/2109707995919606136",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Tips for agentic CAD: tell your agent to add these checkers and run them after every model update (mine is written in Python using build123d).",
+  "authors": [
+    "David Bar (@observie)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109707995919606136",
+    "author_handle": "observie",
+    "posted_at": "2026-10-12T18:09:17+00:00",
+    "metrics": {
+      "views": 16115,
+      "likes": 363,
+      "replies": 17,
+      "retweets": 30,
+      "bookmarks": 435,
+      "quotes": 3
+    },
+    "articles": [],
+    "reply_records_captured": 17,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109707860686835712/vid/avc1/1280x720/rDiLaQiL6JGeNWYp.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109707860686835712/img/ICfSNroGjOF1OyNf.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUlyR6GW4AAoC2X.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110355949445664768/vid/avc1/1920x1080/VcJs0YpMz6Sp0Zme.mp4?tag=16",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110391573771108352/vid/avc1/1920x1080/_Qmk-fNOYaSg0YdA.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110400521915805698/vid/avc1/1920x1080/Ry5ZvgAI-7DcK1-e.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Tips for agentic CAD: tell your agent to add these checkers and run them after every model update (mine is written in Python using build123d).\n\n1. Spec check: measure the important dimensions of the parts and make sure they reasonably agree with your spec (I maintain a YAML with all high level design/decisions).\n\n2. Motion check: move each joint through its full range in hundreds of positions and make sure no moving part touches another part. Use simple shapes and skip pairs whose bounding boxes do not touch so the check stays fast.\n\n3. Geometry check: find very thin faces, very small faces, very short edges, and walls that are too thin. Make sure a symmetric part is really symmetric. Measure wall thickness by casting rays through the part.\n\n4. Edge check: make sure each edge has a radius. If an edge must stay sharp, write it in a list of permitted sharp edges.\n\n5. Manufacturability check: for machining, make sure a cutting tool can reach all surfaces, find inside corners that are too sharp for the tool, and find walls that are too thin. For printing, measure the minimum wall thickness and the area that needs support. For powder printing, find closed spaces that trap powder.\n\n6. Fastener check: use standard screws and inserts from a library (i use bd_warehouse, the parts library for build123d). Make sure each fastener goes through its hole with clearance, aligns with a threaded hole, and engages the thread to the correct depth.\n\n7. Hole check: make sure each hole has a fastener in it. If a hole has no fastener, write the reason for the hole.\n\n8. Picture check: make pictures and sections of the part after each change. Tell the agent to examine the pictures before it says the work is complete.\n\n9. Accepted problems: give each accepted problem a name and a small area. A large area can hide new problems after the shape changes.\n\n10. Test the checkers: give each checker a part with a known error. Use the checker only after it finds the error.",
+    "fx_raw_text": "Tips for agentic CAD: tell your agent to add these checkers and run them after every model update (mine is written in Python using build123d).\n\n1. Spec check: measure the important dimensions of the parts and make sure they reasonably agree with your spec (I maintain a YAML with all high level design/decisions).\n\n2. Motion check: move each joint through its full range in hundreds of positions and make sure no moving part touches another part. Use simple shapes and skip pairs whose bounding boxes do not touch so the check stays fast.\n\n3. Geometry check: find very thin faces, very small faces, very short edges, and walls that are too thin. Make sure a symmetric part is really symmetric. Measure wall thickness by casting rays through the part.\n\n4. Edge check: make sure each edge has a radius. If an edge must stay sharp, write it in a list of permitted sharp edges.\n\n5. Manufacturability check: for machining, make sure a cutting tool can reach all surfaces, find inside corners that are too sharp for the tool, and find walls that are too thin. For printing, measure the minimum wall thickness and the area that needs support. For powder printing, find closed spaces that trap powder.\n\n6. Fastener check: use standard screws and inserts from a library (i use bd_warehouse, the parts library for build123d). Make sure each fastener goes through its hole with clearance, aligns with a threaded hole, and engages the thread to the correct depth.\n\n7. Hole check: make sure each hole has a fastener in it. If a hole has no fastener, write the reason for the hole.\n\n8. Picture check: make pictures and sections of the part after each change. Tell the agent to examine the pictures before it says the work is complete.\n\n9. Accepted problems: give each accepted problem a name and a small area. A large area can hide new problems after the shape changes.\n\n10. Test the checkers: give each checker a part with a known error. Use the checker only after it finds the error.",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2110356122737475927",
+      "2110395990570086619",
+      "2110399984680210450",
+      "2110402797581533292"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:33.264163+00:00"
+  }
+}

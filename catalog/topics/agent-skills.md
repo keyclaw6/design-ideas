@@ -72,6 +72,17 @@ Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Star
 - [GPT Image 2 Prompt Gallery + Agentic Skill + CLI](../../raw/items/github-wuyoscar-gpt-image2-skill/) — `github-wuyoscar-gpt-image2-skill`
 - [Nano Banana Pro Prompts Recommend Skill](../../raw/items/github-youmind-openlab-nano-banana-pro-prompts/) — `github-youmind-openlab-nano-banana-pro-prompts`
 - [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
+- [Onklaud 5 : a fusion model pipeline matching Fable 5 at 1/100th the cost. 57% of tasks at $0. Open source.](../../raw/items/reddit-1ujr89i/) — `reddit-1ujr89i`
+- [Certainty Psychosis: why Sol goes into validation spirals and destroys your time and tokens.](../../raw/items/reddit-1uxaxg8/) — `reddit-1uxaxg8`
+- [🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want!](../../raw/items/reddit-1uy83bk/) — `reddit-1uy83bk`
+- [AI skill that stops agents from writing patchwork code. Claude's structural-fix rate went from 0% to 56%.](../../raw/items/reddit-1vtuk9s/) — `reddit-1vtuk9s`
+- [I made an universal critical thinking skill](../../raw/items/reddit-1w32gzj/) — `reddit-1w32gzj`
+- [Qwen Open Sources zg Local Search Tool for Code and Docs](../../raw/items/reddit-1w5dab4/) — `reddit-1w5dab4`
+- [Deep Dog 2: I made the fifth best ranked deep research agent and am releasing it completely open source. It is easy to install and runs with a variety of LLM and search engine providers (default is deepseek + exa). It is completely free to use and runs async in python by default.](../../raw/items/reddit-1wf03hk/) — `reddit-1wf03hk`
+- [Anthropic hackathon winner just open-sourced his entire Claude Code setup 🔥](../../raw/items/reddit-1wgu40p/) — `reddit-1wgu40p`
+- [I built a way for Hermes to use any website as an API WITHOUT browser automation](../../raw/items/reddit-1wp4i6k/) — `reddit-1wp4i6k`
+- [What if you could test an idea on thousands of AI agents before trying it in the real world?](../../raw/items/reddit-1x1imcb/) — `reddit-1x1imcb`
+- [Negative Parallelism: The biggest culprit that makes claude "sound like an LLM" (I definitely didn't use Claude to write this)](../../raw/items/reddit-1x3b9aa/) — `reddit-1x3b9aa`
 - [AIDesigner MCP — AI UI design in the editor](../../raw/items/web-aidesigner-mcp/) — `web-aidesigner-mcp`
 - [How Anthropic enables self-service data analytics with Claude](../../raw/items/web-anthropic-claude-self-service-data/) — `web-anthropic-claude-self-service-data`
 - [PeopleSearchBench: Evaluating AI-Powered People Search Platforms](../../raw/items/web-arxiv-2603-27476/) — `web-arxiv-2603-27476`
@@ -107,6 +118,7 @@ Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Star
 - [Autoquant: a distributed quant research lab | v2.6.9 We pointed @karpathy's autoresearch loop at quantitative finance. 1](../../raw/items/x-2032330665081839791/) — `x-2032330665081839791`
 - [Agentic General Intelligence | v3.0.10 We made the Karpathy autoresearch loop generic. Now anyone can propose an optimiz](../../raw/items/x-2032671842230501729/) — `x-2032671842230501729`
 - [codex + blender is insane](../../raw/items/x-2065843739340509693/) — `x-2065843739340509693`
+- [WHAT IF CHATGPT HAD FREE ACCESS TO THE ENTIRE INTERNET? Agent-Reach open-source research](../../raw/items/x-2066063057277583700/) — `x-2066063057277583700`
 - [my latest blog post "auto-research with codex: how I achieved a 212x faster kernel over baseline with codex in GPU Mode'](../../raw/items/x-2074912810803560497/) — `x-2074912810803560497`
 - [🧪 [𝐏𝐫𝐢𝐦𝐞𝐫] 𝐀𝐮𝐭𝐨𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐇𝐚𝐫𝐧𝐞𝐬𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 • http://autoresearch.aman.ai - I believe autoresearch matters because i](../../raw/items/x-2080856252687745093/) — `x-2080856252687745093`
 - [i always disable all permission checks for my agents - i don't even do auto review. many people saw that in my videos an](../../raw/items/x-2082316720086405524/) — `x-2082316720086405524`
@@ -169,6 +181,7 @@ Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Star
 - [🚨 BREAKING: DeepSeek-V4-Flash-0731-Fast⚡️ is live on @vercel AI Gateway! pick @wafer_ai as your provider (ss taken 8.15.](../../raw/items/x-2088695568474546387/) — `x-2088695568474546387`
 - [@threejs Awesome Graphics Agent Skills v0.8.0 is out! npx threejs-awesome-graphics-agent-skills@latest install --agent c](../../raw/items/x-2088738850705113398/) — `x-2088738850705113398`
 - [okay I tested /unlazy more with Opus 5 and I'm ngl it's really good Sol, Fable and I cooked lol try it here! https://git](../../raw/items/x-2088742864310481025/) — `x-2088742864310481025`
+- [#Threejs Here is how you will create detailed models using ai.  1) You need very good reference images 2) You need to](../../raw/items/x-2089094757750595713/) — `x-2089094757750595713`
 - [Anthropic shared a Cost Optimization cookbook worth reviewing (Bookmark this one) A real agent goes from $0.29/task down](../../raw/items/x-2089165107364278341/) — `x-2089165107364278341`
 - [wtf this is sick https://www.aicss.dev/](../../raw/items/x-2089182103153897532/) — `x-2089182103153897532`
 - [i didn't tell anyone about this repo but it kept getting stars 😂 so i guess it's time to share it introducing /vision. i](../../raw/items/x-2089189790881382676/) — `x-2089189790881382676`
@@ -186,6 +199,7 @@ Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Star
 - [Post got a lot of traction, so I made a rank with the anti-slop skills people need to install. 1. stop-slop - @hvpandya ](../../raw/items/x-2090834948332655011/) — `x-2090834948332655011`
 - [UA spoofing is back on baby, for only $0.00 you too can be OpenAI File Downloader, XaiImageApiFetch/1.0 Some sites like ](../../raw/items/x-2090837707069014224/) — `x-2090837707069014224`
 - [This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against http://is-agentic.com until it got to 100/100. It mad](../../raw/items/x-2090858571613470919/) — `x-2090858571613470919`
+- [Building a semantic layer: What it is and how we did it at PostHog](../../raw/items/x-2090858894419693598/) — `x-2090858894419693598`
 - [Adding four words to a prompt took a model's accuracy on math questions from 17% to 78%. That's not made up, it's a real](../../raw/items/x-2091118605392019658/) — `x-2091118605392019658`
 - [You don't know how good this skill is until you try it https://github.com/Leonxlnx/unlazy](../../raw/items/x-2091125349308399923/) — `x-2091125349308399923`
 - [6 repos de AI Agents que estan explotando en github 1. Graft — https://github.com/NanoNets/Graft Hace que claude code se](../../raw/items/x-2091157554919280688/) — `x-2091157554919280688`
@@ -242,12 +256,14 @@ Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Star
 - [GBrain evals — retrieval without LLM-in-loop + memory-save](../../raw/items/x-2094462971598754010/) — `x-2094462971598754010`
 - [Grok Bot as Chief of AI Visibility + CrowdReply MCP](../../raw/items/x-2094553318031024285/) — `x-2094553318031024285`
 - [AI-native company #3: centralized intelligence layer](../../raw/items/x-2094558408259272998/) — `x-2094558408259272998`
+- [done, it's open source now ✅ iOS phone farm - register real iPhones, watch + control them live in the browser, schedule](../../raw/items/x-2094671763020132565/) — `x-2094671763020132565`
 - [treg people-search GTM — $0.0089/lead, quotes Jason Zhou](../../raw/items/x-2094740953554932149/) — `x-2094740953554932149`
 - [Meet investors in waves — venture fundraising FRM](../../raw/items/x-2094820035344621901/) — `x-2094820035344621901`
 - [Open-sourced outbound team — GojiberryAI Sales OS for Grok Bot](../../raw/items/x-2094892848042725416/) — `x-2094892848042725416`
 - [Fable 5.1 website outputs cheaper than Fable 5 — /scroll-craft in replies](../../raw/items/x-2094978216146452971/) — `x-2094978216146452971`
 - [Scroll-animated $5k site without writing CSS — ChatGPT + Gemini + Claude Code](../../raw/items/x-2094984529853530345/) — `x-2094984529853530345`
 - [Ian Nuttall asking if anyone uses his SEO skill/CLI for real work](../../raw/items/x-2095055297949610427/) — `x-2095055297949610427`
+- [19 Skills I Would Install on a Fresh Hermes Setup (15x Powerful Hack)](../../raw/items/x-2095060006127149480/) — `x-2095060006127149480`
 - [Best websites to get DESIGN.md](../../raw/items/x-2095078647652917329/) — `x-2095078647652917329`
 - [Open-sourced outbound team — 13 AI sales agents in Grok Bot + GojiberryAI MCP](../../raw/items/x-2095081419202560010/) — `x-2095081419202560010`
 - [Made with @ChatGPT check out https://Imageory.in for prompts](../../raw/items/x-2095085408208196006/) — `x-2095085408208196006`
@@ -268,4 +284,157 @@ Query here for a skill pack, a DESIGN.md loop, or a knowledge-base pattern. Star
 - [Take a photo of the real world Paste it into Blender 3D](../../raw/items/x-2095512142766342624/) — `x-2095512142766342624`
 - [one of the beautiful things about programmatic CAD and 3D design is more efficient expression: the text-to-cad repo has ](../../raw/items/x-2095548418533798086/) — `x-2095548418533798086`
 - [Claude Fable 5.1 has given me the best website outputs compared to any AI model One-shots - don't need to spend a lot.](../../raw/items/x-2095549461737111905/) — `x-2095549461737111905`
+- [A lot of people are asking how I pulled off these super long-horizon builds with Astra.  Astra is extremely powerful,](../../raw/items/x-2095723177389232540/) — `x-2095723177389232540`
+- [How to perform advanced research on X: Grok Bot agent + X MCP + Apify CLI, daily brief](../../raw/items/x-2095889020203291117/) — `x-2095889020203291117`
+- [BREAKING: Astra one shotted this launch video  It might be over for motion graphic designers...](../../raw/items/x-2095921067277656323/) — `x-2095921067277656323`
+- [IT IS SO OVER HOLY MOLY   GPT-6-Astra + Devin is the ultimate combo.  I used 2 custom skills for the design and THIS](../../raw/items/x-2095977339893039308/) — `x-2095977339893039308`
+- [Finally generated some text that scores 100% human on pangram. Now Qwen3-8B-Base instead of 4B and trained on 4k](../../raw/items/x-2096089511889600731/) — `x-2096089511889600731`
+- [A two-person AI startup crossed $1 million in annualized revenue two months after launch. The founder just walked](../../raw/items/x-2096224107121516997/) — `x-2096224107121516997`
+- [I genuinely don't understand why every business owner isn't doing this yet.  ChatGPT Astra can do SEO like a](../../raw/items/x-2096231419874005474/) — `x-2096231419874005474`
+- [🦾 A collection of agent design skills that help with animation, UI polish, accessibility and product writing.](../../raw/items/x-2096247479641809386/) — `x-2096247479641809386`
+- [介绍"真实 API 计价法"——将你为 AI 订阅所支付的价格和你所真实获得的额度做比较，并以此进行模型的真实计价。以及以此计价法所绘制的帕累托前沿图。 即：订阅价格 / Tokens 额度 在此计价法下，传统的 AI](../../raw/items/x-2096307755481211346/) — `x-2096307755481211346`
+- [send this prompt to GPT-Astra, it might just change your life... https://t.co/WRwY9pkoLd](../../raw/items/x-2096343368121164050/) — `x-2096343368121164050`
+- [我天这些人动作太快了 70个 GPT 6-Astra 使用案例 还带提示词的 直接打开看效果 看提示词 去获得灵感 这个赛道开启了 堪比当年提示词啊 赶快收藏这个网址吧 评论区拿 https://t.co/Q1K5KqtzaE](../../raw/items/x-2096445044643271105/) — `x-2096445044643271105`
+- [GPT-6 Astraを使うなら、 これは絶対に有効化した方がいい。 👇 ~/.codex/config.toml に以下を追加 [features.context_management] experimental_mode = true ](../../raw/items/x-2096492760471683250/) — `x-2096492760471683250`
+- [Let Fable 5.1 cook AI Skill : https://t.co/Gs1RT1BZxi https://t.co/IfBWUPZdL7](../../raw/items/x-2096560314435485736/) — `x-2096560314435485736`
+- [I bet you didn't know that by default Codex only runs max 3 subagents concurrently. That's not ambitious enough for](../../raw/items/x-2096634766883696666/) — `x-2096634766883696666`
+- [Here's how to fix Astra Astra is a GREAT model, the problem is limits, its THIRSTY Here's how to fix it: 1. Go to](../../raw/items/x-2096675504229138541/) — `x-2096675504229138541`
+- [PUEDES USAR GPT-6 ASTRA GRATIS CUANDO LLEGAS AL LÍMITE DE USO Unos desarrolladores han descubierto un método para usar](../../raw/items/x-2096677786601570396/) — `x-2096677786601570396`
+- [100% this This is why we built a WebAssembly- and isolates-based sandbox as a library that's Linux-compatible /](../../raw/items/x-2096704470008889597/) — `x-2096704470008889597`
+- [全网最全的 GPT Astra 提示词和案例，已收录 153 个，每日更新。精选 3D、游戏案例，试了下有些真的能 one shot 直出超炫的效果，3D 创作时代已然来临了！ 立刻复制提示词，玩起来！](../../raw/items/x-2096805641017020530/) — `x-2096805641017020530`
+- [❤️‍🔥 GPT-6 Astra is getting dangerously good I genuinely wasn’t ready for this level of AI Prompt below ↓](../../raw/items/x-2096898563586593055/) — `x-2096898563586593055`
+- [Astra使えないSEOコンサルの方、廃業してください。](../../raw/items/x-2096942556554899512/) — `x-2096942556554899512`
+- [🚨 GOOGLE JUST MADE ANDROID AUTOMATION LOOK INSANE. Google just released ARTEMIS — an AI-powered system that turns plain](../../raw/items/x-2096949449906114798/) — `x-2096949449906114798`
+- [FFmpeg Skill v0.9.2→v0.12.0: 28 tools, pre-checks, track-aware subs, MCP, Claude Code/Cursor](../../raw/items/x-2096964158994755604/) — `x-2096964158994755604`
+- [OPENAI JUST DROPPED THE OFFICIAL GUIDE TO PROMPTING GPT-6 ASTRA This is the most important prompting update for anyone](../../raw/items/x-2096964706099700065/) — `x-2096964706099700065`
+- [T3CAD: An agent-driven electronics workspace with KiCad PCB, schematic, Gerber, 3D, library, and more](../../raw/items/x-2097033282441404729/) — `x-2097033282441404729`
+- [Astra made me money WITHOUT I do anything So I made a fun little experiment & gave Astra a goal to work & try different](../../raw/items/x-2097033944663556573/) — `x-2097033944663556573`
+- [0.9.0 is here, and it brings the most wanted herdr feature: all your machines running herdr, in a single client 🎉](../../raw/items/x-2097048015303229936/) — `x-2097048015303229936`
+- [@mattshumer_ Yup and with the @github connector it can directly do prs I love using pro for bug fixing or starting with](../../raw/items/x-2097051315075452933/) — `x-2097051315075452933`
+- [A few days ago, Anthropic shared this brilliant prompt. I was surprised by how it significantly improved writing with](../../raw/items/x-2097059598960132110/) — `x-2097059598960132110`
+- [Instead of letting Astra use KiCad, try asking for tscircuit We've just released the first tscircuit version that](../../raw/items/x-2097065106253431233/) — `x-2097065106253431233`
+- [GPT-Image2提示词库开源才两天，GitHub星标就冲到了18000，你还没上车？ 工业级的提示词引擎、海量模板持续更新、拿来就能用——现在不存，过两周别人都在刷屏晒效果图了，你只能干瞪眼。 🔗](../../raw/items/x-2097070150390256016/) — `x-2097070150390256016`
+- [Some promising early results of my enhanced Blender MCP compared to the standard Blender MCP. It was able to generate](../../raw/items/x-2097072609351405641/) — `x-2097072609351405641`
+- [Everyone keeps saying Astra's new compaction "saves notes" and "searches messages." But I thought: couldn't it do that](../../raw/items/x-2097288108026826964/) — `x-2097288108026826964`
+- [GPT-6 Astra画FPV无人机飞控PCB板方式对比 1、图一和图二是GPT-6直接使用Codex的Computer Use功能直接自己打开嘉立创EDA在里边画飞控PCB板，没有使用MCP和Skil。](../../raw/items/x-2097294226950148499/) — `x-2097294226950148499`
+- [Supermemory is 1st on every major AI memory benchmark - 95% recall with a 99.4% context reduction at 50ms. Your AI](../../raw/items/x-2097335398536212741/) — `x-2097335398536212741`
+- [GPT-6 Astra cleared all 48 levels of I'm Not a Robot with ego (lite); built-in browser stuck at 15](../../raw/items/x-2097339485734457681/) — `x-2097339485734457681`
+- [automating AI content creation is so fu*king easy here’s how you do it: - write down your manual workflow (with links](../../raw/items/x-2097352345273139604/) — `x-2097352345273139604`
+- [100% freesinin formülünü veriyorum. Seomachine github reposu freecrawler indiriyorsunuz. Sonra gsc connection](../../raw/items/x-2097404800769884469/) — `x-2097404800769884469`
+- [We just made Astra's computer use 2.5x faster with Stagehand. Astra works by executing code against the a11y tree, we](../../raw/items/x-2097437004204286411/) — `x-2097437004204286411`
+- [I ported Impeccable’s engine to Rust. The design hooks that catch AI slop after each edit now run in ~10ms. • ~4×](../../raw/items/x-2097498807542165711/) — `x-2097498807542165711`
+- [Cursor's harness for thousands of coding agents went through four designs Each got better by removing a role: the](../../raw/items/x-2097507847768572367/) — `x-2097507847768572367`
+- [Browser Use Pi: tiny TypeScript web agent — Pi Mono + persistent V8 REPL + raw CDP](../../raw/items/x-2097576334302355854/) — `x-2097576334302355854`
+- [GPT-6 Astra on CAD (SolidWorks 2026) with the MecAgent harness](../../raw/items/x-2097676816592797816/) — `x-2097676816592797816`
+- [Claude skill file for Zack-D style ads + full YouTube tutorial (starpop.ai)](../../raw/items/x-2097691298941505539/) — `x-2097691298941505539`
+- [@Voxyz_ai mine actual project — everything works very well (reply with demo screenshot)](../../raw/items/x-2097837324688146698/) — `x-2097837324688146698`
+- [https://x.com/i/article/2097715216951750656](../../raw/items/x-2098004743536750869/) — `x-2098004743536750869`
+- [Massive new Initial Commit skill drop! An 89-file behemoth! https://initialcommit.co/library/skills/seo Most SEO tools](../../raw/items/x-2098030074683367691/) — `x-2098030074683367691`
+- [MCP & Skills: https://appllama.io https://github.com/Appllama/appllama-skills Prompt: /goal Using Appllama MCP & App](../../raw/items/x-2098140208264851676/) — `x-2098140208264851676`
+- [how to use GPT-6 Astra with Grok Bot to create a $3M/yr GTM team](../../raw/items/x-2098278839206187158/) — `x-2098278839206187158`
+- [GPT-6 Astra is a design beast No 3D models used in this demo website I connected LTX API to my coding agent ->](../../raw/items/x-2098464881498370090/) — `x-2098464881498370090`
+- [we reverse engineered astra's computer use and made it 2x faster.](../../raw/items/x-2098478826464702556/) — `x-2098478826464702556`
+- [You can feed this repo to your agent.. it should be able to figure out the rest. https://github.com/bpy-dev/blender-mcp](../../raw/items/x-2098516802951061604/) — `x-2098516802951061604`
+- [i can’t believe this is free... i spent 15+ hours and $478 in API credits figuring out how to make GPT Image 2.5](../../raw/items/x-2098703746436153568/) — `x-2098703746436153568`
+- [Screenwriting Skills Now Cover Television GitHub: https://github.com/jtydhr88/screenwriting-skills This screenwriting](../../raw/items/x-2098743416125313337/) — `x-2098743416125313337`
+- [🚨UN DESARROLLADOR HA LOGRADO MULTIPLICAR POR 100 EL LÍMITE DE GPT-6 ASTRA SIN COSTE EXTRA Ha creado su propia versión](../../raw/items/x-2098764217947914722/) — `x-2098764217947914722`
+- [Brand design - solved for you (no Astra needed) repeatable workflow: any reference -> AI agent -> brand concept ->](../../raw/items/x-2098787638761136332/) — `x-2098787638761136332`
+- [Introducing Agency. Never prompt again. AI prompts you 🫡 Get 100x more done. Your agent finds useful work. You approve.](../../raw/items/x-2098804076335218805/) — `x-2098804076335218805`
+- [DESIGN.md Websites. 1. https://typeui.sh 2. https://designmd.me 3. https://designmd.supply 4.](../../raw/items/x-2099015197302071364/) — `x-2099015197302071364`
+- [把这篇文档扔给 Astra Extra High，让它优化你的 AGENT.MD, Skills, Hooks 以及各种开发规范。 你将获得一个全新的 Astra](../../raw/items/x-2099065400424280120/) — `x-2099065400424280120`
+- [F*ck it just gonna drop this here Made a Claude/ gpt astral skill that can make you 50 of this in less than 30 minutes](../../raw/items/x-2099114962580853186/) — `x-2099114962580853186`
+- [GPT-6 Astra + After Effects + _____ ..? I'm planning to record my workflows with commentary to build datasets for AI -](../../raw/items/x-2099196134279573697/) — `x-2099196134279573697`
+- [We FINALLY shipped an MCP so your AI Agent can rent 100s of iPhones 🚀 not "another AI wrapper" not "a dashboard you](../../raw/items/x-2099301416468652506/) — `x-2099301416468652506`
+- [ok, 世界上最好的design skill， 就是这个（我这算说个暴论吗？） `https://developer.apple.com/design/`](../../raw/items/x-2099324192235868478/) — `x-2099324192235868478`
+- [Introducing Pion, agents for running fully autonomous companies, any company. We’ve used Pion to run vending machines,](../../raw/items/x-2099547565759062090/) — `x-2099547565759062090`
+- [Agentic coding in 2026](../../raw/items/x-2099647215773901064/) — `x-2099647215773901064`
+- [Fable 5.1 + one prompt, One clean landing page. How will you rate it?](../../raw/items/x-2099830589922910211/) — `x-2099830589922910211`
+- [Introducing Elyx. A better source of truth for design engineers and agents. A place where design means more.](../../raw/items/x-2099844623719932018/) — `x-2099844623719932018`
+- [ESTO ES UNA LOCURA Jack Dorsey (ex-CEO de Twitter) acaba de lanzar gratis un framework completo para crear un negocio](../../raw/items/x-2099852769389604973/) — `x-2099852769389604973`
+- [send this prompt to GPT-Astra, it might just change your life...](../../raw/items/x-2099948431511056875/) — `x-2099948431511056875`
+- [New blog post: we had a million lines of Python to clean up — 1,393 subagents, 19 hours, 34.4% smaller](../../raw/items/x-2099984561451028913/) — `x-2099984561451028913`
+- [🚨This might be the biggest ChatGPT update since it launched, You can now launch multiple agents directly from the](../../raw/items/x-2100055717566644585/) — `x-2100055717566644585`
+- [We open sourced BrowserSkill, a bridge between your agent and your actual browser. most tools give the agent a blank](../../raw/items/x-2100143086429217278/) — `x-2100143086429217278`
+- [I Showed GPT-6 Astra 600,000 Websites and It Became CRACKED at Design. Here's the Full Workflow.](../../raw/items/x-2100211370897920136/) — `x-2100211370897920136`
+- [Today we're introducing Launchvideo Skills and references that let your agent create tasteful product videos directly](../../raw/items/x-2100267179212235125/) — `x-2100267179212235125`
+- [engineering is moving 10x faster. design review hasn't caught up. introducing Impeccable ..for PRs! a design review](../../raw/items/x-2100284971961430019/) — `x-2100284971961430019`
+- [We just killed Monid ourselves. Monid is now open source. The OpenRouter for agent tools. Your agents can now: >](../../raw/items/x-2100330818958975088/) — `x-2100330818958975088`
+- [THIS IS INSANE The team behind browser-use (114,824 stars on GitHub) has just released a free video editor that runs](../../raw/items/x-2100338685333958932/) — `x-2100338685333958932`
+- [Atlas beta access is rolling out to users, some ideas for API developers - give Astra "eyes" in Blender, let it place](../../raw/items/x-2100349127620235577/) — `x-2100349127620235577`
+- [Astra is so insanely great at making motion design animations for your product. Here's how we do it: 1. give it access](../../raw/items/x-2100385567381037061/) — `x-2100385567381037061`
+- [I used GPT-6 Astra to create a 3D website that pulls apart the brain tech into modeled pieces! we are in a renaissance](../../raw/items/x-2100459591649878516/) — `x-2100459591649878516`
+- [Just found Jev. Jev looks at the page, sees the real buttons, and just picks: click this one, type here, scroll, wait,](../../raw/items/x-2100519512730738871/) — `x-2100519512730738871`
+- [I quickly added Jev by typesafe to Rankhog. It can detect in less than 5-min opportunities to promote your product on](../../raw/items/x-2100611323562233976/) — `x-2100611323562233976`
+- [Introducing Astra for Marketing just enter your website into GPT-6 Astra and watch it outrank a company doing $6M/month](../../raw/items/x-2100629367986716804/) — `x-2100629367986716804`
+- [Didn’t expect this many stars. I’ll work through the issues over the next few days. If anything is unstable, please](../../raw/items/x-2100631036560343495/) — `x-2100631036560343495`
+- [We just killed Exa, Tavily and Brave. Your agent can now search & fetch any webpage for 100% FREE. Them: $7 per 1,000](../../raw/items/x-2100705843453079718/) — `x-2100705843453079718`
+- [This is actually insane. This uses @typesafeai Jev model, as a plugin in Claude to review all the un-nesseasary tool](../../raw/items/x-2100739055923425589/) — `x-2100739055923425589`
+- [Introducing TasteCode — open-source ADE with a design agent (Codex, Claude, Grok)](../../raw/items/x-2100842260455981535/) — `x-2100842260455981535`
+- [Stop wasting hours designing from scratch — SceneAI UI prompt library](../../raw/items/x-2100864831817683075/) — `x-2100864831817683075`
+- [Jev has finally unlocked truly sovereign distribution stack: - WDA + iphones + Jev for phone farm - DaVinci MCP + Astra](../../raw/items/x-2101090899652460680/) — `x-2101090899652460680`
+- [GPT-6 Astra is by far the best 3D design model today. & this is THE Complete Tutorial Guide to Design in Codex. FULL](../../raw/items/x-2101275801660662058/) — `x-2101275801660662058`
+- [this is straight f*cking gold 297 pages on building a $100K/month business with zero employees. 8 parts, 40 chapters,](../../raw/items/x-2101564766812786894/) — `x-2101564766812786894`
+- [7 UI skills every design engineer should know when building with AI agents:](../../raw/items/x-2101613613949542838/) — `x-2101613613949542838`
+- [jev can't write a single word. it still killed 90% of my seo costs.](../../raw/items/x-2101623347910148511/) — `x-2101623347910148511`
+- [If I Had to Build My Hermes Setup From Zero Today, I’d Start Here](../../raw/items/x-2101884812189684015/) — `x-2101884812189684015`
+- [Another insane Jev use case! Jev is making it dramatically cheaper to evaluate what actually happened inside an agent](../../raw/items/x-2101966536798040332/) — `x-2101966536798040332`
+- [How to build a signal-based outbound bot with Jev](../../raw/items/x-2102065255694409940/) — `x-2102065255694409940`
+- [지금 전 세계 개발자 커뮤니티가 발칵 뒤집힌 이유.](../../raw/items/x-2102286564521111687/) — `x-2102286564521111687`
+- [Skill for 3d camera + text effect is live!](../../raw/items/x-2102544324445848031/) — `x-2102544324445848031`
+- [Introducing Scrape Anything.](../../raw/items/x-2102598835470246112/) — `x-2102598835470246112`
+- [How to automate SEO with Opus 5.5 (Full Course)](../../raw/items/x-2102758425386172842/) — `x-2102758425386172842`
+- [POV: you realize one of the systems behind a $726,000 outbound motion is sitting in this Article for free.](../../raw/items/x-2102833386947793355/) — `x-2102833386947793355`
+- [Agents are using legacy Python packages to edit Word, Excel, and PowerPoint files, hitting API gaps, dropping into raw OOXML, and creating silent corruptions.](../../raw/items/x-2102852926121427304/) — `x-2102852926121427304`
+- [Trending repository of the day 📈](../../raw/items/x-2103094238430761101/) — `x-2103094238430761101`
+- [Jev Founder, Diogo Almeida, just released a 12-page PDF on how to use Jev with LLMs](../../raw/items/x-2103157617715491278/) — `x-2103157617715491278`
+- [Fuck it, still early but here goes ...](../../raw/items/x-2103469459981619243/) — `x-2103469459981619243`
+- [ESTO ES UNA LOCURA](../../raw/items/x-2103484990352765393/) — `x-2103484990352765393`
+- [We trained a model to predict AI-written blog posts from structural features - and discovered the shape of slop.](../../raw/items/x-2103530162318901673/) — `x-2103530162318901673`
+- [Chinese students just found the best way to use JEV for any LLM or AI agent - released a PDF research](../../raw/items/x-2103554016315642100/) — `x-2103554016315642100`
+- [The Most Valuable GTM Article Ever Written (Part 2)](../../raw/items/x-2103700886186848294/) — `x-2103700886186848294`
+- [Claude Max costs $200/month. this repo lets you run Claude Code for $0 using free model providers.](../../raw/items/x-2103767783141949937/) — `x-2103767783141949937`
+- [I made a skill if you want to create those nice motion videos too!](../../raw/items/x-2103801891528573089/) — `x-2103801891528573089`
+- [Introducing open-slide 2.0 🎉](../../raw/items/x-2103873490730549558/) — `x-2103873490730549558`
+- [My top 3 skill makers:](../../raw/items/x-2105022638368403658/) — `x-2105022638368403658`
+- [Trending repository of the month 🏆](../../raw/items/x-2105631054531092960/) — `x-2105631054531092960`
+- [Motion Engineering: Build a Video Studio Around Opus 5.5](../../raw/items/x-2105643919119696297/) — `x-2105643919119696297`
+- [The vgpu skill now helps your agent create better 3D models in Blender, optimized for web](../../raw/items/x-2106051894624047547/) — `x-2106051894624047547`
+- [1/ We're reimagining what it means for your agents to work with all your computers.](../../raw/items/x-2106057192285548763/) — `x-2106057192285548763`
+- [Opus 5.5 Motion Design: What the Viral 'One-Prompt' Videos Are Hiding](../../raw/items/x-2106096193235259564/) — `x-2106096193235259564`
+- [this is unreal…](../../raw/items/x-2106379872088055826/) — `x-2106379872088055826`
+- [Your AI isn't bad at design. It has just never seen good design.](../../raw/items/x-2106411655055974640/) — `x-2106411655055974640`
+- [if you want to unhandicap codex computer use (getting 1password to appear, having it not reprompt you for approval when you've already given it) here's a github gist to give to you](../../raw/items/x-2106479630026973686/) — `x-2106479630026973686`
+- [CLAUDE CODE CAN NOW TURN HIGGSFIELD INTO A ONE-PERSON AI VIDEO STUDIO.](../../raw/items/x-2106636580735619118/) — `x-2106636580735619118`
+- [Stop using AI for one-off SEO tasks. Build an AI agent that can handle keyword research, competitor analysis, and link building outreach for you.](../../raw/items/x-2107038587866804617/) — `x-2107038587866804617`
+- [Diagram Design skill now in 3D.](../../raw/items/x-2107222360155701709/) — `x-2107222360155701709`
+- [Someone built a growing gallery of motion graphics made with Claude Opus 5.5, each shown alongside the prompt or skill that created it.](../../raw/items/x-2107321323911549277/) — `x-2107321323911549277`
+- [🚨重磅：我们2000+ Star的开源项目迎来了重大更新：经过多轮迭代，我们用Opus 5.5 新增了9种讲解视频风格，不求多，只求做到极致，经过多次迭代后，今天开源分享给大家，效果可以见视频，感觉任何一周都可以拿去起号了](../../raw/items/x-2107408409859359211/) — `x-2107408409859359211`
+- [Semrush charges $139.95/month.](../../raw/items/x-2107414044772880783/) — `x-2107414044772880783`
+- [New skill unlocked: /fluid-functionalism](../../raw/items/x-2107456589951361083/) — `x-2107456589951361083`
+- [You don't need a $2,000/mo agency to run AI SEO on your GitHub repo](../../raw/items/x-2107531750511620469/) — `x-2107531750511620469`
+- [A few people asked how I made the isometric objects and cities, so I packaged it into a Claude skill.](../../raw/items/x-2107794465457139988/) — `x-2107794465457139988`
+- [7 UI skills every design engineer should know when building with AI agents:](../../raw/items/x-2107835276810739945/) — `x-2107835276810739945`
+- [one role that every company needs right now is a marketing engineer](../../raw/items/x-2108112682922705181/) — `x-2108112682922705181`
+- [🍟 Still using Pinterest for design inspo in 2026? These will replace it in 2027. 👇](../../raw/items/x-2108181934669238593/) — `x-2108181934669238593`
+- [These 15 GitHub repos turn your Opus 5.5 into 𝗮𝗻 𝗲𝗻𝘁𝗶𝗿𝗲 𝗺𝗼𝘁𝗶𝗼𝗻 𝘀𝘁𝘂𝗱𝗶𝗼.](../../raw/items/x-2108905392776360333/) — `x-2108905392776360333`
+- [Introducing Anatomy](../../raw/items/x-2108948624004526516/) — `x-2108948624004526516`
+- [Such a good skill for visual explainers. All SVG and animated.](../../raw/items/x-2109182449179836579/) — `x-2109182449179836579`
+- [holyshi free Claude Code setup just dropped 🫣](../../raw/items/x-2109222475305197952/) — `x-2109222475305197952`
+- [It should be impossible for AI to make a bad UI.](../../raw/items/x-2109309297612013621/) — `x-2109309297612013621`
+- [People keep asking how I make my PCBs with Claude Opus 5.5. So here's the whole pipeline in 60 seconds, all real captures.](../../raw/items/x-2109610532365857198/) — `x-2109610532365857198`
+- [I quietly launched something 👀](../../raw/items/x-2109612095763263987/) — `x-2109612095763263987`
+- [Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.](../../raw/items/x-2109671433521815772/) — `x-2109671433521815772`
+- [How to Stop Making your Apps Look Like AI Slop 2.0](../../raw/items/x-2109681377280954407/) — `x-2109681377280954407`
+- [Tips for agentic CAD: tell your agent to add these checkers and run them after every model update (mine is written in Python using build123d).](../../raw/items/x-2109707995919606136/) — `x-2109707995919606136`
+- [is it legal?](../../raw/items/x-2109716261160538324/) — `x-2109716261160538324`
+- [My personal AI agent tier list.](../../raw/items/x-2109719615324496137/) — `x-2109719615324496137`
+- [I STOPPED LETTING CLAUDE MAKE DECISIONS THE DAY I BUILT THIS JEV AGENT FOLDER, AND IT'S STRAIGHT F*CKING GOLD](../../raw/items/x-2109885846862127390/) — `x-2109885846862127390`
+- [part of the reason why we discontinued "Company brain" and some of our personal knowledge stuff was because it was truly shiny object syndrome (on my part)](../../raw/items/x-2109895882573562197/) — `x-2109895882573562197`
+- [Github is hiding the cure for ugly AI-generated websites.](../../raw/items/x-2109944361408659650/) — `x-2109944361408659650`
+- [Some mistakes you might be making:](../../raw/items/x-2109973273924579720/) — `x-2109973273924579720`
+- [Before spending thousands learning marketing through trial and error, send these repos to your agent](../../raw/items/x-2109982484058222929/) — `x-2109982484058222929`
+- [Meet sgrep, a fast, fully local ripgrep extension built to make agents cheaper and more accurate.](../../raw/items/x-2110070862972158174/) — `x-2110070862972158174`
+- [530 people asked for the system prompt I use to run SEO + AEO inside Claude Code and Cursor.](../../raw/items/x-2110180038637408357/) — `x-2110180038637408357`
+- [A few KiCAD <-> LLM PCB layout tips from personal experience.](../../raw/items/x-2110189303418769839/) — `x-2110189303418769839`
+- [A humanize prompt that actually works](../../raw/items/x-humanize-prompt-2107787922204152156/) — `x-humanize-prompt-2107787922204152156`
 <!-- /AUTO:ITEMS -->

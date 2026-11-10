@@ -1,0 +1,42 @@
+{
+  "id": "x-2097404800769884469",
+  "url": "https://x.com/erayusta/status/2097404800769884469",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "100% freesinin formülünü veriyorum. Seomachine github reposu freecrawler indiriyorsunuz. Sonra gsc connection",
+  "authors": [
+    "Eray Usta 👨🏼‍💻 (@erayusta)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097404800769884469",
+    "author_handle": "erayusta",
+    "author_name": "Eray Usta 👨🏼‍💻",
+    "author_bio": "Founder @erusoft\n\n10+ years building software & e-commerce systems\n\nAI • Automation • SaaS • Dad of Nil & İnci",
+    "created_at": "Tue Sep 08 19:20:47 +0000 2026",
+    "likes": 451,
+    "replies": 7,
+    "retweets": 39,
+    "views": 39854,
+    "bookmarks": 1068,
+    "quotes": 0,
+    "lang": "tr",
+    "source_client": "Twitter for iPhone",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 368,
+    "replies_added": 7,
+    "replies_thread": 2,
+    "replies_comments": 5,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

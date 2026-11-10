@@ -26,6 +26,7 @@
       "web-obscura-sh",
       "x-2087263510090874911"
     ],
-    "category_note": "Yolo-mode agents via wipeable Nix machine + gated secrets (AutomicVault). Ops pattern for unattended agents."
+    "category_note": "Yolo-mode agents via wipeable Nix machine + gated secrets (AutomicVault). Ops pattern for unattended agents.",
+    "migrated_v2": true
   }
 }

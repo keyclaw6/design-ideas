@@ -20,10 +20,11 @@
     "tweet_id": "2093377271771865267",
     "author_handle": "abyssallD",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Blender lock camera path \u2192 Seedance 2.5 skin; Higgsfield in Blender.",
+    "category_note": "Blender lock camera path → Seedance 2.5 skin; Higgsfield in Blender.",
     "related_items": [
       "x-2093374092795846745",
       "x-2093663876692754713"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

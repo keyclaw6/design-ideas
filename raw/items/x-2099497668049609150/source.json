@@ -1,0 +1,40 @@
+{
+  "id": "x-2099497668049609150",
+  "url": "https://x.com/MitchellKeller_/status/2099497668049609150",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:30:16Z",
+  "title": "The Ultimate Guide to High-Volume Cold Email Deliverability in 2026",
+  "authors": [
+    "Mitchell Keller (@MitchellKeller_)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/i/article/2099497661728747520",
+    "https://support.google.com/mail/answer/81126",
+    "https://learn.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits",
+    "https://emailguard.io/features/domain-masking-proxy"
+  ],
+  "media": [
+    "media/article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099497668049609150",
+    "author_handle": "MitchellKeller_",
+    "migrated_v2": true,
+    "author_name": "Mitchell Keller",
+    "created_at": "Mon Sep 14 13:57:05 +0000 2026",
+    "likes": 44,
+    "replies": 7,
+    "retweets": 1789394487,
+    "views": 7612,
+    "bookmarks": 108,
+    "fetch": "api.fxtwitter.com + agent-browser replies via own tab t7",
+    "article_id": "2099497661728747520",
+    "article_title": "The Ultimate Guide to High-Volume Cold Email Deliverability in 2026",
+    "filtered": true,
+    "category_note": "Cold-email deliverability guide; outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

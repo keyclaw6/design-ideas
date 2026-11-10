@@ -1,0 +1,29 @@
+{
+  "id": "x-2097294226950148499",
+  "url": "https://x.com/GoGoFly23/status/2097294226950148499",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:05:37Z",
+  "title": "GPT-6 Astra画FPV无人机飞控PCB板方式对比 1、图一和图二是GPT-6直接使用Codex的Computer Use功能直接自己打开嘉立创EDA在里边画飞控PCB板，没有使用MCP和Skil。",
+  "authors": [
+    "@GoGoFly23"
+  ],
+  "topics": [
+    "keyboard-pcb",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg",
+    "media/media_1.png",
+    "media/media_2.jpg",
+    "media/media_3.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097294226950148499",
+    "author_handle": "GoGoFly23",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "x-2098828702922735780",
+  "url": "https://x.com/termsheetinator/status/2098828702922735780",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:11:16Z",
+  "title": "This free AI agent builds a cold email offer for people who know how to do the work, but don't know how to sell it: -",
+  "authors": [
+    "@termsheetinator"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://github.com/termsheetinator/offer-builder"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098828702922735780",
+    "author_handle": "termsheetinator",
+    "migrated_v2": true,
+    "media_omitted": false,
+    "filtered": true,
+    "category_note": "Cold-email offer builder agent; outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

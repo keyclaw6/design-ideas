@@ -1,0 +1,81 @@
+{
+  "id": "x-2106636580735619118",
+  "url": "https://x.com/mikenevermiss/status/2106636580735619118",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "CLAUDE CODE CAN NOW TURN HIGGSFIELD INTO A ONE-PERSON AI VIDEO STUDIO.",
+  "authors": [
+    "MIKE (@mikenevermiss)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills",
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2081846430604668928",
+    "https://higgsfield.ai/mcp",
+    "https://higgsfield.a/cli",
+    "https://www.mindstudio.ai/blog/higgsfield-mcp-claude-creative-marketing-agency"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.jpg",
+    "media/image-07.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106636580735619118",
+    "author_handle": "mikenevermiss",
+    "posted_at": "2026-10-04T06:44:34+00:00",
+    "metrics": {
+      "views": 30667,
+      "likes": 458,
+      "replies": 24,
+      "retweets": 60,
+      "bookmarks": 677,
+      "quotes": 4
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2081846430604668928",
+        "title": "How I would use Higgsfield MCP to make money as a \"solo creator”",
+        "blocks": 70,
+        "quoted_tweet_id": "2106619616092905789"
+      }
+    ],
+    "reply_records_captured": 22,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2106636334748037120/vid/avc1/720x776/EnafGHJm9-G6FQ7N.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2106636334748037120/img/4uMvvjd66UnxoJ8T.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HOQ7C0EWkAAlCJ7.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HOQ8TJeWgAAluD-.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HOQ3awqWIAApdtV.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HOQ2dITW0AA9Z5k.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HOQ9a4EXYAAoDmR.jpg",
+      "media/image-07.jpg": "https://pbs.twimg.com/media/HOQ3-GmWoAAJTaI.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "CLAUDE CODE CAN NOW TURN HIGGSFIELD INTO A ONE-PERSON AI VIDEO STUDIO.\n\ninstall this 19 skills, connect Claude Code to Higgsfield, then tell Claude what you want to create.\n\nrun /ugc-hot-girl and let it create the character, generate the visuals, and produce the Seedance video for you.\n\nClaude controls Higgsfield through Playwright. you just review the output and make changes when needed.\n\nthis is useful if you want to make UGC ads for brands without spending hours doing everything manually.\n\nyou could even turn the workflow into a service and sell the finished content.\n\nif you’re building toward the solo creator income path, save this.\n\nrepo below 👇",
+    "fx_raw_text": "CLAUDE CODE CAN NOW TURN HIGGSFIELD INTO A ONE-PERSON AI VIDEO STUDIO.\n\ninstall this 19 skills, connect Claude Code to Higgsfield, then tell Claude what you want to create.\n\nrun /ugc-hot-girl and let it create the character, generate the visuals, and produce the Seedance video for you.\n\nClaude controls Higgsfield through Playwright. you just review the output and make changes when needed.\n\nthis is useful if you want to make UGC ads for brands without spending hours doing everything manually.\n\nyou could even turn the workflow into a service and sell the finished content.\n\nif you’re building toward the solo creator income path, save this.\n\nrepo below 👇",
+    "quoted_post": {
+      "id": "2106619616092905789",
+      "url": "https://x.com/mikenevermiss/status/2106619616092905789",
+      "author": "MIKE (@mikenevermiss)",
+      "text": "https://x.com/i/article/2081846430604668928"
+    },
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2106776581146661112"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:42.024254+00:00"
+  }
+}

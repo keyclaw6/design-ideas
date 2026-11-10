@@ -1,0 +1,60 @@
+{
+  "id": "x-2106080442004697367",
+  "url": "https://x.com/jaypmo/status/2106080442004697367",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "A lot of folks have asked me: \"why open source your core legal docs -isn't that your IP?\" no. our exceptional lawyers are our IP. our massive deal flow is our IP. our precedent doc",
+  "authors": [
+    "JP Mohler (@jaypmo)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/General-Legal/legal-templates"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106080442004697367",
+    "author_handle": "jaypmo",
+    "posted_at": "2026-10-02T17:54:41+00:00",
+    "metrics": {
+      "views": 88210,
+      "likes": 843,
+      "replies": 12,
+      "retweets": 56,
+      "bookmarks": 1618,
+      "quotes": 8
+    },
+    "articles": [],
+    "reply_records_captured": 17,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUpB-E-aoAAT9lr.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUpB-GXbsAED3TQ.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUmxH1EXsAAXxld.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HUmxN20WgAAslAn.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HUmxT7oXgAAM8_I.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "A lot of folks have asked me: \"why open source your core legal docs -isn't that your IP?\" no. our exceptional lawyers are our IP. our massive deal flow is our IP. our precedent docs r like a programming language: underlying scaffolding to enable the work.\n\nhttps://github.com/General-Legal/legal-templates",
+    "fx_raw_text": "A lot of folks have asked me: \"why open source your core legal docs -isn't that your IP?\" no. our exceptional lawyers are our IP. our massive deal flow is our IP. our precedent docs r like a programming language: underlying scaffolding to enable the work.\n\nhttps://t.co/M2kkHnNiFe",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2106315033781420055",
+      "2110023283169247623",
+      "2110571916973207906",
+      "2110414696037716372",
+      "2110471378189312039"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:27.533326+00:00"
+  }
+}

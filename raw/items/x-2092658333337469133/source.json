@@ -14,6 +14,7 @@
   "extra": {
     "tweet_id": "2092658333337469133",
     "author_handle": "NVIDIAStudio",
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

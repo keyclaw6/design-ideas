@@ -19,6 +19,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "usage_claim": "15000+ internal questions/day; launched ~3 months before post",
     "stack": "Postgres embeddings table + hybrid retrieval",
     "fetch": "r.jina.ai (origin 500 warning; body captured)",

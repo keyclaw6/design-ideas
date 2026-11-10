@@ -1,0 +1,41 @@
+{
+  "id": "x-2096998343004348548",
+  "url": "https://x.com/nifinet/status/2096998343004348548",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "Open-sourcing my GPT-6 Astra outbound bot: 25 signals, drafts, CRM import (comment gpt)",
+  "authors": [
+    "Nicolas Finet (@nifinet)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/i/article/2096684912812380160",
+    "https://x.com/nifinet/status/2096695883077452085",
+    "https://nicolas-finet.com/"
+  ],
+  "media": [
+    "media/quote-article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096998343004348548",
+    "author_handle": "nifinet",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 39535,
+      "likes": 156,
+      "replies": 155,
+      "retweets": 11,
+      "bookmarks": 468,
+      "quotes": 0
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "CEO @sortlist ($1B+ generated for agencies) | http://www.overloop.com (outbound) | http://www.yourmax.ai (intent agent)",
+    "posted_at": "Mon Sep 07 16:25:39 +0000 2026",
+    "filtered": true,
+    "category_note": "Outbound bot open-source (signals/drafts/CRM); outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

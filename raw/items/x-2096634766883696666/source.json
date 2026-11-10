@@ -1,0 +1,39 @@
+{
+  "id": "x-2096634766883696666",
+  "url": "https://x.com/daniel_mac8/status/2096634766883696666",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:59:07Z",
+  "title": "I bet you didn't know that by default Codex only runs max 3 subagents concurrently. That's not ambitious enough for",
+  "authors": [
+    "Dan McAteer (@daniel_mac8)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096634766883696666",
+    "author_handle": "daniel_mac8",
+    "author_name": "Dan McAteer",
+    "author_bio": "I build AI agents for a living and write about it. Writing at http://attentionheads.blog \u00b7 Writing @latentspacepod \u00b7 Agentic Ops @ AnswerRocket",
+    "author_followers": 30537,
+    "author_following": 4644,
+    "created_at": "Sun Sep 06 16:20:56 +0000 2026",
+    "stats": {
+      "likes": 543,
+      "reposts": 36,
+      "replies": 63,
+      "views": 112356,
+      "bookmarks": 819,
+      "quotes": 13
+    },
+    "fetch": "api.fxtwitter.com (primary: https://api.fxtwitter.com/i/status/2096634766883696666); r.jina.ai comments attempt -> HTTP 403; vxtwitter fallback available",
+    "comments": "none retrievable (jina 403, fx single-tweet only)",
+    "quote_url": null,
+    "unsaved_at": "2026-09-21T12:08:46Z"
+  }
+}

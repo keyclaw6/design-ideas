@@ -1,0 +1,42 @@
+{
+  "id": "x-2097002206486483074",
+  "url": "https://x.com/maverickecom/status/2097002206486483074",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "The AI content factory is real — AI UGC at scale (quoted Astra prompts article)",
+  "authors": [
+    "Noah Frydberg | Tiktok Shop For Brands (@maverickecom)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2096928430289797120",
+    "https://x.com/maverickecom/status/2096936545915682962",
+    "http://www.maverickcreative.net"
+  ],
+  "media": [
+    "media/photo.jpg",
+    "media/quote-article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097002206486483074",
+    "author_handle": "maverickecom",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 46663,
+      "likes": 235,
+      "replies": 4,
+      "retweets": 21,
+      "bookmarks": 449,
+      "quotes": 0
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "I scale 8-9 figure ecommerce brands with human & AI affiliates | 1B+ Views, $1M+ Generated, 39K+ Creators Community | Apply to work with me 👇",
+    "posted_at": "Mon Sep 07 16:41:01 +0000 2026",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

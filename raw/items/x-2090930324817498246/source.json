@@ -15,6 +15,7 @@
     "tweet_id": "2090930324817498246",
     "author_handle": "Hesamation",
     "filtered": true,
-    "category_note": "Local LLM inference engine; no matching topic slug"
+    "category_note": "Local LLM inference engine; no matching topic slug",
+    "migrated_v2": true
   }
 }

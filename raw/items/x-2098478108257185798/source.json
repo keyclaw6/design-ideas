@@ -1,0 +1,47 @@
+{
+  "id": "x-2098478108257185798",
+  "url": "https://x.com/dhruvtwt_/status/2098478108257185798",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "An open-source icon library where every glyph comes in five styles: outline, duotone, fill, pixelated, and glass. Link",
+  "authors": [
+    "Dhruv (@dhruvtwt_)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://runeicons.com"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098478108257185798",
+    "author_handle": "dhruvtwt_",
+    "author_name": "Dhruv",
+    "author_bio": "22 // Observer • Figuring जीवन • DM for Collab",
+    "created_at": "Fri Sep 11 18:25:43 +0000 2026",
+    "stats": {
+      "likes": 1523,
+      "reposts": 112,
+      "replies": 26,
+      "views": 145908,
+      "bookmarks": 2303,
+      "quotes": 4
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 143,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 11,
+    "replies_thread": 0,
+    "replies_comments": 11,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

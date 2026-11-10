@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2093051654937423887",
     "author_handle": "tamrrat",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "migrated_v2": true
   }
 }

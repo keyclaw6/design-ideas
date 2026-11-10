@@ -1,0 +1,56 @@
+{
+  "id": "x-2110177534621196646",
+  "url": "https://x.com/tokufxug/status/2110177534621196646",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Prevu3Dが開発するAI Scan-to-CAD：工場の3DスキャンをCADモデルへ",
+  "authors": [
+    "Sadao Tokuyama (@tokufxug)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/animation-01.mp4",
+    "media/video-02.mp4",
+    "media/image-02.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110177534621196646",
+    "author_handle": "tokufxug",
+    "posted_at": "2026-10-14T01:15:04+00:00",
+    "metrics": {
+      "views": 13221,
+      "likes": 270,
+      "replies": 2,
+      "retweets": 23,
+      "bookmarks": 287,
+      "quotes": 2
+    },
+    "articles": [],
+    "reply_records_captured": 6,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110177427293134849/vid/avc1/1138x640/0zQxo7lsCK513LcV.mp4?tag=14",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2110177427293134849/img/4bwJMArRqQydvofa.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUnCri_XcAEGKzc.mp4",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110486515188985856/vid/avc1/1920x1080/5BhPf_Ewo8ud4nTz.mp4?tag=29",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUj1LEYX0AAF3Xy.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Prevu3Dが開発するAI Scan-to-CAD：工場の3DスキャンをCADモデルへ\n\n🔹機械・コンベヤー・安全柵・ロボットなどを3Dジオメトリとして再構成\n🔹生成したCADモデルをNVIDIA Omniverseに取り込み\n🔹RealityConnectで実際の工場環境データと組み合わせる\n\n情報元はリプ欄。",
+    "fx_raw_text": "Prevu3Dが開発するAI Scan-to-CAD：工場の3DスキャンをCADモデルへ\n\n🔹機械・コンベヤー・安全柵・ロボットなどを3Dジオメトリとして再構成\n🔹生成したCADモデルをNVIDIA Omniverseに取り込み\n🔹RealityConnectで実際の工場環境データと組み合わせる\n\n情報元はリプ欄。 https://t.co/bY1KL7wyUG",
+    "unverified_timeline_record_ids": [
+      "2110431963710365927",
+      "2110369589334773769",
+      "2110486827568070785",
+      "2110207210575872061"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

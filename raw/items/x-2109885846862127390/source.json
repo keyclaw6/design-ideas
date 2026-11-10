@@ -1,0 +1,94 @@
+{
+  "id": "x-2109885846862127390",
+  "url": "https://x.com/Mr_Buzzoni/status/2109885846862127390",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "I STOPPED LETTING CLAUDE MAKE DECISIONS THE DAY I BUILT THIS JEV AGENT FOLDER, AND IT'S STRAIGHT F*CKING GOLD",
+  "authors": [
+    "Mr. Buzzoni (@Mr_Buzzoni)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "http://route.py",
+    "http://relevance.py",
+    "http://done.py",
+    "http://risky.py",
+    "http://research.py",
+    "http://writer.py",
+    "http://stop.sh",
+    "https://x.com/i/article/2103682590498533376",
+    "https://t.me/+Wf8q84QkpyJhNjIy",
+    "https://x.com/@polydao",
+    "https://claude.ai/",
+    "https://docs.claude.com/en/docs/claude-code/hooks",
+    "https://docs.typesafe.ai/api",
+    "https://typesafe.ai/"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.png",
+    "media/image-04.jpg",
+    "media/image-05.png",
+    "media/image-06.png",
+    "media/image-07.jpg",
+    "media/image-08.png",
+    "media/image-09.png",
+    "media/image-10.jpg",
+    "media/image-11.png",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109885846862127390",
+    "author_handle": "Mr_Buzzoni",
+    "posted_at": "Tue Oct 13 05:56:00 +0000 2026",
+    "metrics": {
+      "views": 7126,
+      "likes": 160,
+      "replies": 15,
+      "retweets": 17,
+      "bookmarks": 170,
+      "quotes": 0
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2103682590498533376",
+        "title": "Loop Engineering Meets Jev Engineering: How to Cut Your Claude Bill From $765 to $3 a Month",
+        "blocks": 97,
+        "quoted_tweet_id": "2103689373774483815"
+      }
+    ],
+    "reply_records_captured": 10,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109759543462768640/vid/avc1/720x960/gzwRYP9oGhUR6YEw.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109759543462768640/img/SK8NTWJVU2BYSePX.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HTHJWJXXsAAjLSm.jpg",
+      "media/image-03.png": "https://pbs.twimg.com/media/HTHMPS1WUAAO9bU.png",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HTHLZ_aW8AAMF40.jpg",
+      "media/image-05.png": "https://pbs.twimg.com/media/HTHMCnsXYAAR9I2.png",
+      "media/image-06.png": "https://pbs.twimg.com/media/HTHMtlTXUAAE4r9.png",
+      "media/image-07.jpg": "https://pbs.twimg.com/media/HTHKcVjXkAAW4po.jpg",
+      "media/image-08.png": "https://pbs.twimg.com/media/HTHLp3jXAAA7_dq.png",
+      "media/image-09.png": "https://pbs.twimg.com/media/HTHMhy6WMAAq02b.png",
+      "media/image-10.jpg": "https://pbs.twimg.com/media/HTHNOt1WIAE5Wkj.jpg",
+      "media/image-11.png": "https://pbs.twimg.com/media/HTHM5bsW0AAmbl5.png",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2109987133041553409/vid/avc1/1280x720/uAo8TzWKeP_gF_vZ.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "I STOPPED LETTING CLAUDE MAKE DECISIONS THE DAY I BUILT THIS JEV AGENT FOLDER, AND IT'S STRAIGHT F*CKING GOLD\n\nI used to let Claude decide, write and act on every single step\n\n-> now Claude only writes. Jev makes the calls, code does the acting, and every step leaves a receipt\n\nwhat lives in the folder:\n\n• the input\n> AGENTS.md - when to call Jev and when to skip it\n> state/build_state.py - goal, workers, done, missing, constraint. raw evidence, never a summary\n\n• Jev decides (questions/)\n> http://route.py - which model tier takes the task\n> next_worker.py - which worker moves next\n> http://relevance.py - keep or drop each tool output\n> http://done.py - is the goal really met\n> http://risky.py - will this send, pay or delete?\n\n• code acts (rules/)\n> hard_rules.py - stop after ten actions, never publish anything unapproved\n> thresholds.yaml - act only on confident answers. fraud needs 0.95\n\n• Claude writes (workers/)\n> http://research.py - sources and notes\n> http://writer.py - drafts and briefings\n> the one place in the folder where text gets generated\n\n• the proof\n> receipts/decisions.jsonl - options offered, chosen id, re-check, fallback\n> evals/ - dozens of my own labelled traces. thresholds tuned on them, confirmed on held-out\n\n• the guards (hooks/)\n> pre_tool_use.sh - every command checked before it runs\n> http://stop.sh - verifies \"all done\" before the agent can stop\n\n5 questions, one call per turn\n10,000 decisions for $0.42, median 300 ms\n\nan LLM writes, Jev decides, code acts",
+    "fx_raw_text": "I STOPPED LETTING CLAUDE MAKE DECISIONS THE DAY I BUILT THIS JEV AGENT FOLDER, AND IT'S STRAIGHT F*CKING GOLD\n\nI used to let Claude decide, write and act on every single step\n\n-> now Claude only writes. Jev makes the calls, code does the acting, and every step leaves a receipt\n\nwhat lives in the folder:\n\n• the input\n> AGENTS.md - when to call Jev and when to skip it\n> state/build_state.py - goal, workers, done, missing, constraint. raw evidence, never a summary\n\n• Jev decides (questions/)\n> https://t.co/SIhqwoheZP - which model tier takes the task\n> next_worker.py - which worker moves next\n> https://t.co/y6q9a7fv9Y - keep or drop each tool output\n> https://t.co/8LKHJE7ySk - is the goal really met\n> https://t.co/WtQhAqPFSG - will this send, pay or delete?\n\n• code acts (rules/)\n> hard_rules.py - stop after ten actions, never publish anything unapproved\n> thresholds.yaml - act only on confident answers. fraud needs 0.95\n\n• Claude writes (workers/)\n> https://t.co/Pl96LqadxQ - sources and notes\n> https://t.co/4GCndJWKsk - drafts and briefings\n> the one place in the folder where text gets generated\n\n• the proof\n> receipts/decisions.jsonl - options offered, chosen id, re-check, fallback\n> evals/ - dozens of my own labelled traces. thresholds tuned on them, confirmed on held-out\n\n• the guards (hooks/)\n> pre_tool_use.sh - every command checked before it runs\n> https://t.co/UC0IBplGsa - verifies \"all done\" before the agent can stop\n\n5 questions, one call per turn\n10,000 decisions for $0.42, median 300 ms\n\nan LLM writes, Jev decides, code acts",
+    "quoted_post": {
+      "id": "2103689373774483815",
+      "url": "https://x.com/Mr_Buzzoni/status/2103689373774483815",
+      "author": "Mr. Buzzoni (@Mr_Buzzoni)",
+      "text": "https://x.com/i/article/2103682590498533376"
+    },
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:44.947678+00:00"
+  }
+}

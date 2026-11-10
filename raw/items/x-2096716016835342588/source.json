@@ -1,0 +1,38 @@
+{
+  "id": "x-2096716016835342588",
+  "url": "https://x.com/cy_burns/status/2096716016835342588",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "Raylight Capture: free one-click app-to-launch-video, editable mouse paths, Claude edit",
+  "authors": [
+    "cy (@cy_burns)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096716016835342588",
+    "author_handle": "cy_burns",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 49070,
+      "likes": 674,
+      "replies": 148,
+      "retweets": 40,
+      "bookmarks": 983,
+      "quotes": 5
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "Building @raylightapp",
+    "posted_at": "Sun Sep 06 21:43:48 +0000 2026",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

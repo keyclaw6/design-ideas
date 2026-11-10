@@ -30,6 +30,7 @@
       "github-nateherkai-scroll-craft",
       "web-dicebear"
     ],
-    "category_note": "macOS screenshot polish app + CLI for agents."
+    "category_note": "macOS screenshot polish app + CLI for agents.",
+    "migrated_v2": true
   }
 }

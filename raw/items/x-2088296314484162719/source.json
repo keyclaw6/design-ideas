@@ -26,6 +26,7 @@
       "github-punkpeye-awesome-mcp-servers",
       "x-2088252062454751483"
     ],
-    "category_note": "Fusion assembly as MCP-queryable database"
+    "category_note": "Fusion assembly as MCP-queryable database",
+    "migrated_v2": true
   }
 }

@@ -14,6 +14,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095336950890983773",
     "author_handle": "ymt3d",
     "fetch": "api.fxtwitter.com (retry)",

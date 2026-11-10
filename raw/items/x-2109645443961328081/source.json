@@ -1,0 +1,53 @@
+{
+  "id": "x-2109645443961328081",
+  "url": "https://x.com/fivosaresti/status/2109645443961328081",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "The fastest-growing startups have turned the OLD B2B sales funnel → into this flywheel, where every stage feeds the next:",
+  "authors": [
+    "Fivos Aresti (@fivosaresti)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/video-02.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109645443961328081",
+    "author_handle": "fivosaresti",
+    "posted_at": "2026-10-12T14:00:43+00:00",
+    "metrics": {
+      "views": 6751,
+      "likes": 80,
+      "replies": 18,
+      "retweets": 9,
+      "bookmarks": 162,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 11,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110417533664669696/vid/avc1/796x720/gD94p-WcVksKPLyj.mp4?tag=29",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110448576262266880/vid/avc1/1080x1920/CW6w-7OO-POZY2yo.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUnPPJ6WsAAsqk6.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "The fastest-growing startups have turned the OLD B2B sales funnel → into this flywheel, where every stage feeds the next:\n\n1. Traffic\n• Outbound: email, LinkedIn DMs, cold calls, events\n• Content: LinkedIn, X, YouTube, SEO\n• Ads: LinkedIn, Meta, Google, Reddit\n• Partnerships: directories, influencers, integrations, agency programs\n\n2. Lead capture\n• Social followers → LinkedIn\n• Website visitors → Apollo\n• Social signals → Jungler\n• Gated content → Tally\n• Form fills → HubSpot\n• Free trials → Clerk\n\n3. Nurture\n• Digital: newsletter, email flows, retargeting, organic social\n• Website: case studies, demos, free tools, webinars\n• Field: gifts, dinners, partner events, community events\n• All 3 run in parallel, timed to where each account is in the buying cycle\n\n4. Data routing\n• Clay, Claude Code: every lead + touchpoint syncs to the CRM, enriched on the way in\n\n5. Qualification\n• Every lead gets scored Tier 1, 2 or 3\n• Qualified → sequences, a rep + a Slack ping\n• Unqualified → a nurture sequence\n\n6. Conversion\n• Tier 1 → 1:1 manual outreach with Nooks + ABM Ads\n• Tier 2 → Instantly + HeyReach sequences\n• Tier 3 → Instantly bulk sequences\n\n7. Close, retention + expansion\n• 4 pipelines run in parallel: leads, deals, renewals, expansion\n• PostHog track product usage\n• Chili Piper route inbound demos\n• Ergo, Nooks, Qwilr + HubSpot run the deal cycle\n\nThen the stages start feeding each other:\n\n→ People who engaged with a LinkedIn post yesterday get a personalized email today\n→ A post that pulled 100k organic impressions gets a $5k boost and adds another 150k impressions\n→ Ads hit the same accounts as your outreach.",
+    "fx_raw_text": "The fastest-growing startups have turned the OLD B2B sales funnel → into this flywheel, where every stage feeds the next:\n\n1. Traffic\n• Outbound: email, LinkedIn DMs, cold calls, events\n• Content: LinkedIn, X, YouTube, SEO\n• Ads: LinkedIn, Meta, Google, Reddit\n• Partnerships: directories, influencers, integrations, agency programs\n\n2. Lead capture\n• Social followers → LinkedIn\n• Website visitors → Apollo\n• Social signals → Jungler\n• Gated content → Tally\n• Form fills → HubSpot\n• Free trials → Clerk\n\n3. Nurture\n• Digital: newsletter, email flows, retargeting, organic social\n• Website: case studies, demos, free tools, webinars\n• Field: gifts, dinners, partner events, community events\n• All 3 run in parallel, timed to where each account is in the buying cycle\n\n4. Data routing\n• Clay, Claude Code: every lead + touchpoint syncs to the CRM, enriched on the way in\n\n5. Qualification\n• Every lead gets scored Tier 1, 2 or 3\n• Qualified → sequences, a rep + a Slack ping\n• Unqualified → a nurture sequence\n\n6. Conversion\n• Tier 1 → 1:1 manual outreach with Nooks + ABM Ads\n• Tier 2 → Instantly + HeyReach sequences\n• Tier 3 → Instantly bulk sequences\n\n7. Close, retention + expansion\n• 4 pipelines run in parallel: leads, deals, renewals, expansion\n• PostHog track product usage\n• Chili Piper route inbound demos\n• Ergo, Nooks, Qwilr + HubSpot run the deal cycle\n\nThen the stages start feeding each other:\n\n→ People who engaged with a LinkedIn post yesterday get a personalized email today\n→ A post that pulled 100k organic impressions gets a $5k boost and adds another 150k impressions\n→ Ads hit the same accounts as your outreach.",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2110445561426149486",
+      "2110417670524776890",
+      "2110449100608979450",
+      "2110445767215259865"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:21.122450+00:00"
+  }
+}

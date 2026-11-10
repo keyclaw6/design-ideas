@@ -1,0 +1,42 @@
+{
+  "id": "reddit-1x3g6f8",
+  "url": "https://www.reddit.com/r/omarchy/comments/1x3g6f8/i_made_a_plugin_that_expands_text_snippets_as_you/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "I made a plugin that expands text snippets as you type, in any app",
+  "authors": [
+    "Disastrous-Lobster-4"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/MaNi4/omarchy-instant-snippets.git",
+    "https://github.com/MaNi4/omarchy-instant-snippets",
+    "https://plugins.omarchy.org/plugin.html?id=mani4.instant-snippets",
+    "https://www.reddit.com/gallery/1x3g6f8"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png",
+    "media/03-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x3g6f8",
+    "saved_kind": "post",
+    "post_id": "1x3g6f8",
+    "comment_id": null,
+    "subreddit": "omarchy",
+    "flair": "I Made a Thing",
+    "posted_at": "2026-10-11T18:51:11+00:00",
+    "score_at_capture": 5,
+    "comment_count_at_capture": 7,
+    "comments_captured_from_api": 7,
+    "thread_comments_returned": 7,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:14+00:00"
+  }
+}

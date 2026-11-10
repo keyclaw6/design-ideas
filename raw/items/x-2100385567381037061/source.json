@@ -1,0 +1,34 @@
+{
+  "id": "x-2100385567381037061",
+  "url": "https://x.com/nickbaumann_/status/2100385567381037061",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:52:00Z",
+  "title": "Astra is so insanely great at making motion design animations for your product. Here's how we do it: 1. give it access",
+  "authors": [
+    "Nick (@nickbaumann_)"
+  ],
+  "topics": [
+    "video-generation",
+    "ui-motion",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100385567381037061",
+    "author_handle": "nickbaumann_",
+    "author_id": "1674506538336022528",
+    "author_name": "Nick",
+    "created_at": 1789605917,
+    "likes": 399,
+    "replies": 17,
+    "retweets": 14,
+    "bookmarks": 617,
+    "views": 23796,
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

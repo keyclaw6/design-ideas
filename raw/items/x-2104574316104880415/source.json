@@ -1,0 +1,50 @@
+{
+  "id": "x-2104574316104880415",
+  "url": "https://x.com/ConnorShowler/status/2104574316104880415",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Here's a list of literally everything you need to know about SEO:",
+  "authors": [
+    "Connor Showler | SEO & Marketing Master (@ConnorShowler)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2104574316104880415",
+    "author_handle": "ConnorShowler",
+    "posted_at": "2026-09-28T14:09:52+00:00",
+    "metrics": {
+      "views": 36430,
+      "likes": 590,
+      "replies": 39,
+      "retweets": 85,
+      "bookmarks": 1346,
+      "quotes": 6
+    },
+    "articles": [],
+    "reply_records_captured": 30,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTUuRhVXwAEYXHI.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HTWI2HYXwAAAUkD.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTVz0A8XwAAvjJV.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Here's a list of literally everything you need to know about SEO:\n\n1. Technical SEO\n-> Crawlability\n-> Indexability\n-> XML sitemaps\n-> Robots.txt\n-> Canonical tags\n-> Site architecture / URL structure\n-> HTTPS / SSL\n-> Core Web Vitals (LCP, INP, CLS)\n-> Page speed optimization\n-> Mobile-friendliness / responsive design\n-> Structured data / schema markup (JSON-LD)\n-> Hreflang / international targeting\n-> Pagination handling\n-> JavaScript rendering / SSR vs CSR\n-> Duplicate content management\n-> Redirect management (301, 302, chains)\n-> HTTP status codes / error handling (404, 5xx)\n-> Log file analysis\n-> Crawl budget optimization\n-> Faceted navigation control\n-> CDN / hosting performance\n-> Image optimization (compression, WebP, lazy loading)\n-> Orphan page detection\n\n2. On-Page SEO\n-> Title tags\n-> Meta descriptions\n-> Header hierarchy (H1–H6)\n-> Keyword placement / density\n-> Content optimization\n-> Internal linking\n-> Anchor text optimization\n-> Image alt text\n-> URL slugs\n-> Content freshness / updating\n-> Semantic HTML\n-> Featured snippet optimization\n-> Table of contents / jump links\n-> Outbound linking strategy\n-> Content depth / comprehensiveness\n-> Readability\n\n3. Off-Page SEO\n-> Link building\n-> Digital PR\n-> Guest posting\n-> Broken link building\n-> Sneaky backlinks\n-> HARO / journalist outreach\n-> Unlinked brand mention reclamation\n-> Tiered link building\n-> Link buying / selling\n-> Social syndication\n-> Backlink profile analysis\n-> Spam link discovery\n-> Anchor text distribution\n-> Link velocity\n-> Brand mentions / citations\n-> Influencer collaboration\n-> Podcast / interview placements\n-> Resource page links\n-> Private blog networks\n-> Skyscraper technique\n\n4. Keyword Research\n-> Search intent classification (informational, navigational, commercial, transactional)\n-> Search volume analysis\n-> Keyword difficulty scoring\n-> Long-tail keywords\n-> Semantic / LSI keywords\n-> Keyword clustering / topic grouping\n-> Competitor keyword gap analysis\n-> Seasonal / trending keywords\n-> Question-based keywords (PAA mining)\n-> Zero-volume keywords\n-> Keyword cannibalization detection\n-> SERP feature analysis per keyword\n\n5. Content Strategy\n-> Topical authority building\n-> Content hubs / pillar pages / clusters\n-> Editorial calendars\n-> Content gap analysis\n-> Content pruning / consolidation\n-> Content refreshing\n-> Content formats (guides, listicles, comparisons, tools)\n-> Programmatic SEO\n-> User-generated content\n-> Author bios / entity building\n-> Information gain / original data\n-> Content briefs / SOP creation\n-> Newsjacking\n\n6. Local SEO\n-> Google Business Profile optimization\n-> NAP consistency (Name, Address, Phone)\n-> Local citations / directories\n-> Review generation & management\n-> Local link building\n-> Location pages / service area pages\n-> Local pack / map pack ranking\n-> Geo-targeted content\n-> Local schema markup\n-> Proximity / relevance / prominence signals\n\n7. GEO / AI Search Optimization\n-> LLM citation optimization (ChatGPT, Claude, Perplexity, Gemini)\n-> AI Overviews optimization\n-> Consensus manufacturing\n-> Parasite SEO\n-> Entity optimization / knowledge graph presence\n-> Structured, extractable content formatting\n-> Brand mention frequency across the web\n-> llms.txt\n-> Statistics / quotable data inclusion\n-> Wikipedia / Wikidata presence\n-> Reddit / forum visibility (LLM training sources)\n-> Answer-first content structure\n\n8. E-commerce SEO\n-> Product page optimization\n-> Collection page optimization\n-> Product schema (price, reviews, availability)\n-> Faceted navigation SEO\n-> Out-of-stock page handling\n-> Product review optimization\n-> Merchant Center / Google Shopping feed\n-> Duplicate product description handling\n-> Internal search optimization\n-> Competitor data extraction\n\n9. SERP Features\n-> Featured snippets\n-> People Also Ask\n-> Knowledge panels\n-> Image packs\n-> Video carousels\n-> Sitelinks\n-> FAQ / How-to rich results\n-> Review stars\n-> Top stories\n-> Local pack",
+    "fx_raw_text": "Here's a list of literally everything you need to know about SEO:\n\n1. Technical SEO\n-> Crawlability\n-> Indexability\n-> XML sitemaps\n-> Robots.txt\n-> Canonical tags\n-> Site architecture / URL structure\n-> HTTPS / SSL\n-> Core Web Vitals (LCP, INP, CLS)\n-> Page speed optimization\n-> Mobile-friendliness / responsive design\n-> Structured data / schema markup (JSON-LD)\n-> Hreflang / international targeting\n-> Pagination handling\n-> JavaScript rendering / SSR vs CSR\n-> Duplicate content management\n-> Redirect management (301, 302, chains)\n-> HTTP status codes / error handling (404, 5xx)\n-> Log file analysis\n-> Crawl budget optimization\n-> Faceted navigation control\n-> CDN / hosting performance\n-> Image optimization (compression, WebP, lazy loading)\n-> Orphan page detection\n\n2. On-Page SEO\n-> Title tags\n-> Meta descriptions\n-> Header hierarchy (H1–H6)\n-> Keyword placement / density\n-> Content optimization\n-> Internal linking\n-> Anchor text optimization\n-> Image alt text\n-> URL slugs\n-> Content freshness / updating\n-> Semantic HTML\n-> Featured snippet optimization\n-> Table of contents / jump links\n-> Outbound linking strategy\n-> Content depth / comprehensiveness\n-> Readability\n\n3. Off-Page SEO\n-> Link building\n-> Digital PR\n-> Guest posting\n-> Broken link building\n-> Sneaky backlinks\n-> HARO / journalist outreach\n-> Unlinked brand mention reclamation\n-> Tiered link building\n-> Link buying / selling\n-> Social syndication\n-> Backlink profile analysis\n-> Spam link discovery\n-> Anchor text distribution\n-> Link velocity\n-> Brand mentions / citations\n-> Influencer collaboration\n-> Podcast / interview placements\n-> Resource page links\n-> Private blog networks\n-> Skyscraper technique\n\n4. Keyword Research\n-> Search intent classification (informational, navigational, commercial, transactional)\n-> Search volume analysis\n-> Keyword difficulty scoring\n-> Long-tail keywords\n-> Semantic / LSI keywords\n-> Keyword clustering / topic grouping\n-> Competitor keyword gap analysis\n-> Seasonal / trending keywords\n-> Question-based keywords (PAA mining)\n-> Zero-volume keywords\n-> Keyword cannibalization detection\n-> SERP feature analysis per keyword\n\n5. Content Strategy\n-> Topical authority building\n-> Content hubs / pillar pages / clusters\n-> Editorial calendars\n-> Content gap analysis\n-> Content pruning / consolidation\n-> Content refreshing\n-> Content formats (guides, listicles, comparisons, tools)\n-> Programmatic SEO\n-> User-generated content\n-> Author bios / entity building\n-> Information gain / original data\n-> Content briefs / SOP creation\n-> Newsjacking\n\n6. Local SEO\n-> Google Business Profile optimization\n-> NAP consistency (Name, Address, Phone)\n-> Local citations / directories\n-> Review generation & management\n-> Local link building\n-> Location pages / service area pages\n-> Local pack / map pack ranking\n-> Geo-targeted content\n-> Local schema markup\n-> Proximity / relevance / prominence signals\n\n7. GEO / AI Search Optimization\n-> LLM citation optimization (ChatGPT, Claude, Perplexity, Gemini)\n-> AI Overviews optimization\n-> Consensus manufacturing\n-> Parasite SEO\n-> Entity optimization / knowledge graph presence\n-> Structured, extractable content formatting\n-> Brand mention frequency across the web\n-> llms.txt\n-> Statistics / quotable data inclusion\n-> Wikipedia / Wikidata presence\n-> Reddit / forum visibility (LLM training sources)\n-> Answer-first content structure\n\n8. E-commerce SEO\n-> Product page optimization\n-> Collection page optimization\n-> Product schema (price, reviews, availability)\n-> Faceted navigation SEO\n-> Out-of-stock page handling\n-> Product review optimization\n-> Merchant Center / Google Shopping feed\n-> Duplicate product description handling\n-> Internal search optimization\n-> Competitor data extraction\n\n9. SERP Features\n-> Featured snippets\n-> People Also Ask\n-> Knowledge panels\n-> Image packs\n-> Video carousels\n-> Sitelinks\n-> FAQ / How-to rich results\n-> Review stars\n-> Top stories\n-> Local pack",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2099964624699261349"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:53:45.763049+00:00"
+  }
+}

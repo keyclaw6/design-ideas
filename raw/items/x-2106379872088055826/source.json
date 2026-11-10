@@ -1,0 +1,100 @@
+{
+  "id": "x-2106379872088055826",
+  "url": "https://x.com/0xMovez/status/2106379872088055826",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "this is unreal…",
+  "authors": [
+    "Movez (@0xMovez)"
+  ],
+  "topics": [
+    "agent-skills",
+    "ui-motion",
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2104196832637210624",
+    "https://movez.substack.com/"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.png",
+    "media/image-04.png",
+    "media/image-05.png",
+    "media/image-06.png",
+    "media/image-07.png",
+    "media/image-08.png",
+    "media/image-09.png",
+    "media/image-10.png",
+    "media/image-11.png",
+    "media/image-12.png",
+    "media/image-13.png",
+    "media/image-14.png",
+    "media/image-15.png",
+    "media/image-16.png",
+    "media/animation-01.mp4",
+    "media/video-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106379872088055826",
+    "author_handle": "0xMovez",
+    "posted_at": "2026-10-03T13:44:30+00:00",
+    "metrics": {
+      "views": 97382,
+      "likes": 912,
+      "replies": 30,
+      "retweets": 77,
+      "bookmarks": 2119,
+      "quotes": 5
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2104196832637210624",
+        "title": "How to build motion design studio with Opus 5.5 ( Full-course ) ",
+        "blocks": 230,
+        "quoted_tweet_id": "2104216919033192746"
+      }
+    ],
+    "reply_records_captured": 22,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTtdU9nXoAA2tA6.jpg?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HTOuGahXEAEryHt.jpg",
+      "media/image-03.png": "https://pbs.twimg.com/media/HTOeqeQWwAEjlq7.png",
+      "media/image-04.png": "https://pbs.twimg.com/media/HTOoLAPW0AA_pFU.png",
+      "media/image-05.png": "https://pbs.twimg.com/media/HTOh8wpXQAAR5wU.png",
+      "media/image-06.png": "https://pbs.twimg.com/media/HTOp2EfXsAAkeF-.png",
+      "media/image-07.png": "https://pbs.twimg.com/media/HTOi1VyWAAA5XaP.png",
+      "media/image-08.png": "https://pbs.twimg.com/media/HTOfyu6WEAIvt7h.png",
+      "media/image-09.png": "https://pbs.twimg.com/media/HTOpFvCXAAAxG2u.png",
+      "media/image-10.png": "https://pbs.twimg.com/media/HTOljbuWQAAn_sR.png",
+      "media/image-11.png": "https://pbs.twimg.com/media/HTOoxaBXQAAO7pu.png",
+      "media/image-12.png": "https://pbs.twimg.com/media/HTOdW0kW4AEzPtU.png",
+      "media/image-13.png": "https://pbs.twimg.com/media/HTOkUz-W4AAaItz.png",
+      "media/image-14.png": "https://pbs.twimg.com/media/HTOeQEGXoAAi6MW.png",
+      "media/image-15.png": "https://pbs.twimg.com/media/HTOi9f0W0AEOxkr.png",
+      "media/image-16.png": "https://pbs.twimg.com/media/HTOmSUNWIAAuTXY.png",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTv342YasAEHmW5.mp4",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2106515406483603456/vid/avc1/1280x720/SgcLx0zmlQYnnNwf.mp4?tag=14"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "this is unreal…\n\nI just found Anthropic’s Opus 5.5 prompting blueprint for motion design, and it’s insane…\n\n17-page PDF with prompt techniques, motion & audio design workflows, and director prompts.\n\nuploaded it to Claude and created CLAUDE.md with it - it’s a totally different level of motion graphics now.\n\nsend this PDF + the article below to Claude and turn it into an AAA motion graphics studio.",
+    "fx_raw_text": "this is unreal…\n\nI just found Anthropic’s Opus 5.5 prompting blueprint for motion design, and it’s insane…\n\n17-page PDF with prompt techniques, motion & audio design workflows, and director prompts.\n\nuploaded it to Claude and created CLAUDE.md with it - it’s a totally different level of motion graphics now.\n\nsend this PDF + the article below to Claude and turn it into an AAA motion graphics studio.",
+    "quoted_post": {
+      "id": "2104216919033192746",
+      "url": "https://x.com/0xMovez/status/2104216919033192746",
+      "author": "Movez (@0xMovez)",
+      "text": "https://x.com/i/article/2104196832637210624"
+    },
+    "unverified_timeline_record_ids": [
+      "2092706810314858684",
+      "2110445970504974443",
+      "2068115197718593741"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:30.972639+00:00"
+  }
+}

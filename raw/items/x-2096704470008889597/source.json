@@ -1,0 +1,42 @@
+{
+  "id": "x-2096704470008889597",
+  "url": "https://x.com/NathanFlurry/status/2096704470008889597",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:59:07Z",
+  "title": "100% this This is why we built a WebAssembly- and isolates-based sandbox as a library that's Linux-compatible /",
+  "authors": [
+    "Nathan Flurry \ud83d\udd29 (@NathanFlurry)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/rivet-dev/agentos",
+    "https://x.com/ritakozlov/status/2096298097038987404"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096704470008889597",
+    "author_handle": "NathanFlurry",
+    "author_name": "Nathan Flurry \ud83d\udd29",
+    "author_bio": "The actor guy. DMs open.\n\nFounder @rivet_dev (YC W23 & Speedrun)\n\nhttps://git.new/rivet + https://git.new/agent-os",
+    "author_followers": 8627,
+    "author_following": 2788,
+    "created_at": "Sun Sep 06 20:57:55 +0000 2026",
+    "stats": {
+      "likes": 565,
+      "reposts": 29,
+      "replies": 15,
+      "views": 48481,
+      "bookmarks": 565,
+      "quotes": 2
+    },
+    "fetch": "api.fxtwitter.com (primary: https://api.fxtwitter.com/i/status/2096704470008889597); r.jina.ai comments attempt -> HTTP 403; vxtwitter fallback available",
+    "comments": "none retrievable (jina 403, fx single-tweet only)",
+    "quote_url": "https://x.com/ritakozlov/status/2096298097038987404",
+    "unsaved_at": "2026-09-21T12:08:48Z"
+  }
+}

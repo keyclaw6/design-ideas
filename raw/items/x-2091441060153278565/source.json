@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2091441060153278565",
     "author_handle": "lepadphone",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "migrated_v2": true
   }
 }

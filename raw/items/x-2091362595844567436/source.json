@@ -15,6 +15,7 @@
     "tweet_id": "2091362595844567436",
     "author_handle": "jakedahn",
     "filtered": true,
-    "category_note": "Historical cursor.so Wayback; no technique"
+    "category_note": "Historical cursor.so Wayback; no technique",
+    "migrated_v2": true
   }
 }

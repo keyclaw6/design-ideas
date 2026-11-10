@@ -58,6 +58,7 @@ Query this lane for “scroll-animated landing,” “parallax from generated la
 - [OpenDesign](../../raw/items/github-nexu-io-open-design/) — `github-nexu-io-open-design`
 - [scroll-world](../../raw/items/github-oso95-scroll-world/) — `github-oso95-scroll-world`
 - [Impeccable](../../raw/items/github-pbakaus-impeccable/) — `github-pbakaus-impeccable`
+- [Opus 5.5 + Blender won in motion design. Three.js didn't match the quality needed](../../raw/items/reddit-1x4vndw/) — `reddit-1x4vndw`
 - [animos — Motion templates for design showcases](../../raw/items/web-animos-editor/) — `web-animos-editor`
 - [Ballon Bleu de Cartier watch CRWSBB0049](../../raw/items/web-cartier-ballon-bleu/) — `web-cartier-ballon-bleu`
 - [Cult UI](../../raw/items/web-cult-ui/) — `web-cult-ui`
@@ -109,4 +110,25 @@ Query this lane for “scroll-animated landing,” “parallax from generated la
 - [Hero section design. built by Custom Skills + My Video Tool + Cursor + Client design md file and Some Creativity](../../raw/items/x-2095207624396652956/) — `x-2095207624396652956`
 - [Premium design isn’t just about looking good—it’s about making your brand feel valuable before a customer even interacts](../../raw/items/x-2095429087141515616/) — `x-2095429087141515616`
 - [Claude Fable 5.1 has given me the best website outputs compared to any AI model One-shots - don't need to spend a lot.](../../raw/items/x-2095549461737111905/) — `x-2095549461737111905`
+- [How the fuck did I not know about http://transitions.dev 🤯 So many nice small animations that just make your UI feel](../../raw/items/x-2098801944756154391/) — `x-2098801944756154391`
+- [Astra is so insanely great at making motion design animations for your product. Here's how we do it: 1. give it access](../../raw/items/x-2100385567381037061/) — `x-2100385567381037061`
+- [This motion design style is exploding on socials I call this style "ADHD-cut": it triggers your sensors fast & easily -](../../raw/items/x-2100629816407896238/) — `x-2100629816407896238`
+- [Skill for 3d camera + text effect is live!](../../raw/items/x-2102544324445848031/) — `x-2102544324445848031`
+- [This guy broke down the science behind Apple's product videos](../../raw/items/x-2103533757588463990/) — `x-2103533757588463990`
+- [I made a skill if you want to create those nice motion videos too!](../../raw/items/x-2103801891528573089/) — `x-2103801891528573089`
+- [Motion Engineering: Build a Video Studio Around Opus 5.5](../../raw/items/x-2105643919119696297/) — `x-2105643919119696297`
+- [this micro transitions website is goated man https://t.co/kgtLAWN1ZV with over 2.5k stars https://t.co/wQxHdSr0YW](../../raw/items/x-2106009509311516843/) — `x-2106009509311516843`
+- [Opus 5.5 Motion Design: What the Viral 'One-Prompt' Videos Are Hiding](../../raw/items/x-2106096193235259564/) — `x-2106096193235259564`
+- [this is unreal…](../../raw/items/x-2106379872088055826/) — `x-2106379872088055826`
+- [Your AI isn't bad at design. It has just never seen good design.](../../raw/items/x-2106411655055974640/) — `x-2106411655055974640`
+- [Someone built a growing gallery of motion graphics made with Claude Opus 5.5, each shown alongside the prompt or skill that created it.](../../raw/items/x-2107321323911549277/) — `x-2107321323911549277`
+- [🚨重磅：我们2000+ Star的开源项目迎来了重大更新：经过多轮迭代，我们用Opus 5.5 新增了9种讲解视频风格，不求多，只求做到极致，经过多次迭代后，今天开源分享给大家，效果可以见视频，感觉任何一周都可以拿去起号了](../../raw/items/x-2107408409859359211/) — `x-2107408409859359211`
+- [7 UI skills every design engineer should know when building with AI agents:](../../raw/items/x-2107835276810739945/) — `x-2107835276810739945`
+- [🍟 Still using Pinterest for design inspo in 2026? These will replace it in 2027. 👇](../../raw/items/x-2108181934669238593/) — `x-2108181934669238593`
+- [want to see how the whole Paper Mono launch video was made?](../../raw/items/x-2108251509830140401/) — `x-2108251509830140401`
+- [These 15 GitHub repos turn your Opus 5.5 into 𝗮𝗻 𝗲𝗻𝘁𝗶𝗿𝗲 𝗺𝗼𝘁𝗶𝗼𝗻 𝘀𝘁𝘂𝗱𝗶𝗼.](../../raw/items/x-2108905392776360333/) — `x-2108905392776360333`
+- [Introducing ManimGX, the 3D animation engine for agents.](../../raw/items/x-2109045945149395421/) — `x-2109045945149395421`
+- [Such a good skill for visual explainers. All SVG and animated.](../../raw/items/x-2109182449179836579/) — `x-2109182449179836579`
+- [Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.](../../raw/items/x-2109671433521815772/) — `x-2109671433521815772`
+- [Github is hiding the cure for ugly AI-generated websites.](../../raw/items/x-2109944361408659650/) — `x-2109944361408659650`
 <!-- /AUTO:ITEMS -->

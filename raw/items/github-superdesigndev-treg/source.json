@@ -22,6 +22,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 1020,
     "license": "Other (AGPL noted on site)",
     "homepage": "https://treg.to",

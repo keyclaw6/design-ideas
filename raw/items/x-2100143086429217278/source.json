@@ -1,0 +1,35 @@
+{
+  "id": "x-2100143086429217278",
+  "url": "https://x.com/TencentAI_News/status/2100143086429217278",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:52:00Z",
+  "title": "We open sourced BrowserSkill, a bridge between your agent and your actual browser. most tools give the agent a blank",
+  "authors": [
+    "Tencent AI (@TencentAI_News)"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "http://github.com/Tencent/BrowserSkill"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100143086429217278",
+    "author_handle": "TencentAI_News",
+    "author_id": "2000391102923481088",
+    "author_name": "Tencent AI",
+    "created_at": 1789548105,
+    "likes": 2709,
+    "replies": 134,
+    "retweets": 322,
+    "bookmarks": 3521,
+    "views": 361482,
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

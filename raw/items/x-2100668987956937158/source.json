@@ -1,0 +1,38 @@
+{
+  "id": "x-2100668987956937158",
+  "url": "https://x.com/everestchris6/status/2100668987956937158",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "how to sell info products (FULL GUIDE)",
+  "authors": [
+    "Chris (@everestchris6)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/i/article/2100668981837451264"
+  ],
+  "media": [
+    "media/article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100668987956937158",
+    "author_handle": "everestchris6",
+    "migrated_v2": true,
+    "author_name": "Chris",
+    "created_at": "Thu Sep 17 19:31:29 +0000 2026",
+    "likes": 137,
+    "replies": 1,
+    "retweets": 13,
+    "bookmarks": 426,
+    "quotes": 1,
+    "views": 84392,
+    "lang": null,
+    "source_client": "Typefully",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "filtered": true,
+    "category_note": "Info-products sales guide; GTM, out of taxonomy.",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

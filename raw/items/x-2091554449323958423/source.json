@@ -15,6 +15,7 @@
     "tweet_id": "2091554449323958423",
     "author_handle": "TheZachMueller",
     "filtered": true,
-    "category_note": "Local GPU VRAM nerd thread"
+    "category_note": "Local GPU VRAM nerd thread",
+    "migrated_v2": true
   }
 }

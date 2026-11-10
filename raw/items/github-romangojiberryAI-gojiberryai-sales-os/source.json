@@ -19,6 +19,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "github": "romangojiberryAI/gojiberryai-sales-os",
     "description": "GojiberryAI Sales OS: a full AI outbound team for Grok Bot, powered by the GojiberryAI MCP.",
     "stargazer_count": 69,

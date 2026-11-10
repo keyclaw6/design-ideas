@@ -3,7 +3,7 @@
   "url": "https://x.com/intangibleai/status/2093380307735232543",
   "source_type": "x",
   "captured_at": "2026-09-04T06:54:33Z",
-  "title": "THIS IS REVOLUTIONARY 3D Camera Control \u2192 AI Rendered Video ALL in your BROWSER NO BLENDER. NO PROMPT ROULETTE.",
+  "title": "THIS IS REVOLUTIONARY 3D Camera Control → AI Rendered Video ALL in your BROWSER NO BLENDER. NO PROMPT ROULETTE.",
   "authors": [
     "@intangibleai"
   ],
@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2093380307735232543",
     "author_handle": "intangibleai",
-    "category_note": "intangible.ai: browser 3D camera control \u2192 AI-rendered video, no Blender."
+    "category_note": "intangible.ai: browser 3D camera control → AI-rendered video, no Blender.",
+    "migrated_v2": true
   }
 }

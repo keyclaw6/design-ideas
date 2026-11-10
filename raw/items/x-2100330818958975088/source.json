@@ -1,0 +1,38 @@
+{
+  "id": "x-2100330818958975088",
+  "url": "https://x.com/shengkunye/status/2100330818958975088",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:29:16Z",
+  "title": "We just killed Monid ourselves. Monid is now open source. The OpenRouter for agent tools. Your agents can now: >",
+  "authors": [
+    "Shengkun Ye (@shengkunye)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100330818958975088",
+    "author_handle": "shengkunye",
+    "migrated_v2": true,
+    "author_name": "Shengkun Ye",
+    "created_at": "Wed Sep 16 21:07:44 +0000 2026",
+    "likes": 933,
+    "replies": 109,
+    "retweets": 61,
+    "bookmarks": 1138,
+    "quotes": 17,
+    "views": 75241,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

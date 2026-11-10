@@ -27,6 +27,7 @@
       "web-blume-codes",
       "x-2087304957011911157"
     ],
-    "category_note": "Pi realtime voice + extension announcement API"
+    "category_note": "Pi realtime voice + extension announcement API",
+    "migrated_v2": true
   }
 }

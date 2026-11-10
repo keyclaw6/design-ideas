@@ -19,6 +19,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2091571624390881664",
-    "author_handle": "MengTo"
+    "author_handle": "MengTo",
+    "migrated_v2": true
   }
 }

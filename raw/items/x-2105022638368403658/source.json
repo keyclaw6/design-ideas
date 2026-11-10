@@ -1,0 +1,49 @@
+{
+  "id": "x-2105022638368403658",
+  "url": "https://x.com/mattpocockuk/status/2105022638368403658",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "My top 3 skill makers:",
+  "authors": [
+    "Matt Pocock (@mattpocockuk)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2105022638368403658",
+    "author_handle": "mattpocockuk",
+    "posted_at": "Tue Sep 29 19:51:21 +0000 2026",
+    "metrics": {
+      "views": 726860,
+      "likes": 7530,
+      "replies": 114,
+      "retweets": 394,
+      "bookmarks": 9918,
+      "quotes": 35
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTdrdMRWMAAzukH.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "My top 3 skill makers:\n\n- @poteto \n- @dexhorthy\n- @emilkowalski\n\nAlways learn a ton from reading their skills.",
+    "fx_raw_text": "My top 3 skill makers:\n\n- @poteto \n- @dexhorthy\n- @emilkowalski\n\nAlways learn a ton from reading their skills.",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2098108930027331836",
+      "2110445970504974443",
+      "2105043204810928251",
+      "2098108930002211077"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:53:52.928025+00:00"
+  }
+}

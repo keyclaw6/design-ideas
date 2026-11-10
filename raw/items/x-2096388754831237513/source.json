@@ -1,0 +1,45 @@
+{
+  "id": "x-2096388754831237513",
+  "url": "https://x.com/DinScales26/status/2096388754831237513",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "LinkedIn sender fleet: you need a FLEET of sender accounts, not DMs from one account",
+  "authors": [
+    "Din (@DinScales26)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/DinScales26/status/2096306903416521206",
+    "https://x.com/i/article/2095955475623718914"
+  ],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096388754831237513",
+    "author_handle": "DinScales26",
+    "author_name": "Din",
+    "author_id": "2000257900099297281",
+    "created_at": "2026-09-06T00:03:22Z",
+    "likes": 38,
+    "replies": 0,
+    "retweets": 4,
+    "bookmarks": 60,
+    "quotes": 0,
+    "views": 7654,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "0 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "quoted_tweet_id": "2096306903416521206",
+    "quoted_author_handle": "DinScales26",
+    "filtered": true,
+    "category_note": "LinkedIn sender-fleet outbound playbook; outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

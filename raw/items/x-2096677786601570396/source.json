@@ -1,0 +1,41 @@
+{
+  "id": "x-2096677786601570396",
+  "url": "https://x.com/angeldot_/status/2096677786601570396",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:59:07Z",
+  "title": "PUEDES USAR GPT-6 ASTRA GRATIS CUANDO LLEGAS AL L\u00cdMITE DE USO Unos desarrolladores han descubierto un m\u00e9todo para usar",
+  "authors": [
+    "angel (@angeldot_)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/S0N_IA/status/2096673944548065591"
+  ],
+  "media": [
+    "media/media_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096677786601570396",
+    "author_handle": "angeldot_",
+    "author_name": "angel",
+    "author_bio": "i talk about AI & tech. \ud83d\udce9 angel@aiscwork.com",
+    "author_followers": 102890,
+    "author_following": 1441,
+    "created_at": "Sun Sep 06 19:11:53 +0000 2026",
+    "stats": {
+      "likes": 3013,
+      "reposts": 242,
+      "replies": 101,
+      "views": 563588,
+      "bookmarks": 4337,
+      "quotes": 10
+    },
+    "fetch": "api.fxtwitter.com (primary: https://api.fxtwitter.com/i/status/2096677786601570396); r.jina.ai comments attempt -> HTTP 403; vxtwitter fallback available",
+    "comments": "none retrievable (jina 403, fx single-tweet only)",
+    "quote_url": "https://x.com/S0N_IA/status/2096673944548065591",
+    "unsaved_at": "2026-09-21T12:08:47Z"
+  }
+}

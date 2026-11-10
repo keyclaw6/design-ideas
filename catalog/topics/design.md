@@ -68,6 +68,10 @@ Query here for brand tokens, landing-page direction, checklist QA, or “make it
 - [awesome](../../raw/items/github-sindresorhus-awesome/) — `github-sindresorhus-awesome`
 - [GPT Image 2 Prompt Gallery + Agentic Skill + CLI](../../raw/items/github-wuyoscar-gpt-image2-skill/) — `github-wuyoscar-gpt-image2-skill`
 - [Nano Banana Pro Prompts Recommend Skill](../../raw/items/github-youmind-openlab-nano-banana-pro-prompts/) — `github-youmind-openlab-nano-banana-pro-prompts`
+- [How we built the Grace Cathedral browser experience](../../raw/items/reddit-1v4e576/) — `reddit-1v4e576`
+- [We built an MCP server for CAD](../../raw/items/reddit-1w37d9y/) — `reddit-1w37d9y`
+- [Breakscale: Build a system, load it until it breaks, and watch why (1.3k stars)](../../raw/items/reddit-1x49yi0/) — `reddit-1x49yi0`
+- [Opus 5.5 + Blender won in motion design. Three.js didn't match the quality needed](../../raw/items/reddit-1x4vndw/) — `reddit-1x4vndw`
 - [AIDesigner MCP — AI UI design in the editor](../../raw/items/web-aidesigner-mcp/) — `web-aidesigner-mcp`
 - [animos — Motion templates for design showcases](../../raw/items/web-animos-editor/) — `web-animos-editor`
 - [Aura — AI Website Builder](../../raw/items/web-aura-build/) — `web-aura-build`
@@ -97,7 +101,9 @@ Query here for brand tokens, landing-page direction, checklist QA, or “make it
 - [typeui.sh](../../raw/items/web-typeui-sh/) — `web-typeui-sh`
 - [Utsubo](../../raw/items/web-utsubo/) — `web-utsubo`
 - [Vengeance UI](../../raw/items/web-vengence-ui/) — `web-vengence-ui`
+- [🚨 Someone reverse-engineered the design systems of Apple, Spotify, Airbnb, and 30+ billion-dollar companies. Packed](../../raw/items/x-2040339518822432893/) — `x-2040339518822432893`
 - [I'm working on a one-click AI-generated texturing feature for 3D models. I render the model from four sides and project ](../../raw/items/x-2057113327508345047/) — `x-2057113327508345047`
+- [Triverra travel landing hero prompt: full-viewport video, glass navbar, dual-arrow CTA reveal](../../raw/items/x-2078703614810550526/) — `x-2078703614810550526`
 - [My last open-source skill, /no-ai-slop, clearly hit a nerve with 4K GitHub stars. Today, I’m introducing /human-review, ](../../raw/items/x-2085006701984698712/) — `x-2085006701984698712`
 - [Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) 🚀 I finally figured out ho](../../raw/items/x-2086537093120164177/) — `x-2086537093120164177`
 - [Claude can now build 3D websites and most people still don't know how. This free 1-hour course covers interactive 3D exp](../../raw/items/x-2086599657925329347/) — `x-2086599657925329347`
@@ -187,4 +193,69 @@ Query here for brand tokens, landing-page direction, checklist QA, or “make it
 - [Fabel 5.1 cooked it. Try the prompt yourself👇](../../raw/items/x-2095482056180638142/) — `x-2095482056180638142`
 - [I2M 1.2 is Live! 🎉 ✅ Improved Metallics ✅ Improved Roughness ✅ Improved Albedo ✅ Improved Index of Refraction Other gene](../../raw/items/x-2095502642218664004/) — `x-2095502642218664004`
 - [Claude Fable 5.1 has given me the best website outputs compared to any AI model One-shots - don't need to spend a lot.](../../raw/items/x-2095549461737111905/) — `x-2095549461737111905`
+- [IT IS SO OVER HOLY MOLY   GPT-6-Astra + Devin is the ultimate combo.  I used 2 custom skills for the design and THIS](../../raw/items/x-2095977339893039308/) — `x-2095977339893039308`
+- [🦾 A collection of agent design skills that help with animation, UI polish, accessibility and product writing.](../../raw/items/x-2096247479641809386/) — `x-2096247479641809386`
+- [GPT-6 Astra generated this shoe advert. Using GPT Images 2.0 it was able to generate the initial shoe product, then](../../raw/items/x-2096307244921164232/) — `x-2096307244921164232`
+- [Let Fable 5.1 cook AI Skill : https://t.co/Gs1RT1BZxi https://t.co/IfBWUPZdL7](../../raw/items/x-2096560314435485736/) — `x-2096560314435485736`
+- [Here’s THE new viral format on LinkedIn 👇 You already know lead magnet posts with the CTA written directly on the image.](../../raw/items/x-2096569903885005118/) — `x-2096569903885005118`
+- [A cool hero section — design prompt giveaway (jirobuild) with demo video](../../raw/items/x-2096818874117390383/) — `x-2096818874117390383`
+- [GPT-Image2提示词库开源才两天，GitHub星标就冲到了18000，你还没上车？ 工业级的提示词引擎、海量模板持续更新、拿来就能用——现在不存，过两周别人都在刷屏晒效果图了，你只能干瞪眼。 🔗](../../raw/items/x-2097070150390256016/) — `x-2097070150390256016`
+- [Comparing GPT-Image 2.0 to GPT-Image 2.5 Sharing the prompt: "Create a continuous 6-second split-screen animation from](../../raw/items/x-2097486959296057609/) — `x-2097486959296057609`
+- [I ported Impeccable’s engine to Rust. The design hooks that catch AI slop after each edit now run in ~10ms. • ~4×](../../raw/items/x-2097498807542165711/) — `x-2097498807542165711`
+- [ChatGPT Image 2.5 is crazy for storytelling.. it turns any idea into detailed storyboard with cast design.. then use](../../raw/items/x-2097519538632024103/) — `x-2097519538632024103`
+- [👀 GPT Images 2.5 + 6 Astra are REALLY Good One-shot anything.](../../raw/items/x-2097603265563099593/) — `x-2097603265563099593`
+- [GPT 6 Astra + GPT Image 2.5 = Insane result](../../raw/items/x-2097656569651679248/) — `x-2097656569651679248`
+- [Engineer a $15,000 premium 3D-driven SaaS hero: React, Three.js/WebGL, Tailwind, Framer Motion](../../raw/items/x-2097912217207517412/) — `x-2097912217207517412`
+- [How to Master ChatGPT Images 2.5 (Full Course)](../../raw/items/x-2098055179761525165/) — `x-2098055179761525165`
+- [Introducing http://Bencho.dev A library of interactive UI blocks you can explore, tune, bench, and take into your own](../../raw/items/x-2098081594255061219/) — `x-2098081594255061219`
+- [RIP CREATIVE STRATEGISTS GPT-IMAGE-2.5 + GPT-6 ASTRA Both dropped in the same week. Together they cover the entire](../../raw/items/x-2098112484552929671/) — `x-2098112484552929671`
+- [4700 word labor of love. I've seen all the patterns and heard every story about in-house brand/creative studio teams.](../../raw/items/x-2098386367898079729/) — `x-2098386367898079729`
+- [GPT-6 Astra is a design beast No 3D models used in this demo website I connected LTX API to my coding agent ->](../../raw/items/x-2098464881498370090/) — `x-2098464881498370090`
+- [An open-source icon library where every glyph comes in five styles: outline, duotone, fill, pixelated, and glass. Link](../../raw/items/x-2098478108257185798/) — `x-2098478108257185798`
+- [i can’t believe this is free... i spent 15+ hours and $478 in API credits figuring out how to make GPT Image 2.5](../../raw/items/x-2098703746436153568/) — `x-2098703746436153568`
+- [Brand design - solved for you (no Astra needed) repeatable workflow: any reference -> AI agent -> brand concept ->](../../raw/items/x-2098787638761136332/) — `x-2098787638761136332`
+- [How the fuck did I not know about http://transitions.dev 🤯 So many nice small animations that just make your UI feel](../../raw/items/x-2098801944756154391/) — `x-2098801944756154391`
+- [DESIGN.md Websites. 1. https://typeui.sh 2. https://designmd.me 3. https://designmd.supply 4.](../../raw/items/x-2099015197302071364/) — `x-2099015197302071364`
+- [vibe coders are seriously sleeping on this 😳 Free frontend UI inspiration you can use as a reference for your next](../../raw/items/x-2099061468771848625/) — `x-2099061468771848625`
+- [Some premium free fonts I’ve been loving lately. Save these for your next project ↓](../../raw/items/x-2099083873095225417/) — `x-2099083873095225417`
+- [Another Hero section is designed! Built with Custom Skills + my video tool + Cursor + the client's design.md file + a](../../raw/items/x-2099178055201935475/) — `x-2099178055201935475`
+- [ok, 世界上最好的design skill， 就是这个（我这算说个暴论吗？） `https://developer.apple.com/design/`](../../raw/items/x-2099324192235868478/) — `x-2099324192235868478`
+- [Logo and brand identity for an operations firm](../../raw/items/x-2099534277025136843/) — `x-2099534277025136843`
+- [imagine still sending brand guidelines as a pdf 😂 we build clients a password protected brand portal. they log in,](../../raw/items/x-2099554173809233936/) — `x-2099554173809233936`
+- [Fable 5.1 + one prompt, One clean landing page. How will you rate it?](../../raw/items/x-2099830589922910211/) — `x-2099830589922910211`
+- [Introducing Elyx. A better source of truth for design engineers and agents. A place where design means more.](../../raw/items/x-2099844623719932018/) — `x-2099844623719932018`
+- [Another day, another hero section Try the prompt yourself👇](../../raw/items/x-2100078745608761837/) — `x-2100078745608761837`
+- [How To Write, Build, And Deploy Beautiful Landing Pages With AI (Without An Ounce Of AI Slop)](../../raw/items/x-2100205836677079183/) — `x-2100205836677079183`
+- [I Showed GPT-6 Astra 600,000 Websites and It Became CRACKED at Design. Here's the Full Workflow.](../../raw/items/x-2100211370897920136/) — `x-2100211370897920136`
+- [engineering is moving 10x faster. design review hasn't caught up. introducing Impeccable ..for PRs! a design review](../../raw/items/x-2100284971961430019/) — `x-2100284971961430019`
+- [Introducing Arrow 2 Our latest and most advanced models for generating precise, editable vector graphics. Higher](../../raw/items/x-2100295136261349802/) — `x-2100295136261349802`
+- [This is why I joined Quiver. We just launched the biggest jump in vector generation that I’ve seen yet. Give it a try!](../../raw/items/x-2100300118809354742/) — `x-2100300118809354742`
+- [I used GPT-6 Astra to create a 3D website that pulls apart the brain tech into modeled pieces! we are in a renaissance](../../raw/items/x-2100459591649878516/) — `x-2100459591649878516`
+- [Dickie Bush: a landing page has two main jobs — what to say and how to present it](../../raw/items/x-2100653530176430270/) — `x-2100653530176430270`
+- [Introducing TasteCode — open-source ADE with a design agent (Codex, Claude, Grok)](../../raw/items/x-2100842260455981535/) — `x-2100842260455981535`
+- [Stop wasting hours designing from scratch — SceneAI UI prompt library](../../raw/items/x-2100864831817683075/) — `x-2100864831817683075`
+- [7 UI skills every design engineer should know when building with AI agents:](../../raw/items/x-2101613613949542838/) — `x-2101613613949542838`
+- [McKinsey wrote a whole report about the AI-native marketing team. most good research gets consumed once and then](../../raw/items/x-2101675727473025297/) — `x-2101675727473025297`
+- [This guy broke down the science behind Apple's product videos](../../raw/items/x-2103533757588463990/) — `x-2103533757588463990`
+- [🔴 TU PAGINA WEB HECHA CON IA DA ASCO](../../raw/items/x-2103795257154687192/) — `x-2103795257154687192`
+- [Introducing open-slide 2.0 🎉](../../raw/items/x-2103873490730549558/) — `x-2103873490730549558`
+- [Introducing pdfcn](../../raw/items/x-2104840500847263794/) — `x-2104840500847263794`
+- [Designers who think they won't get replaced: go run Claude Opus 5.5.](../../raw/items/x-2105281624460157100/) — `x-2105281624460157100`
+- [Enterprise features section design. ✨ https://t.co/S7p6nonaLc](../../raw/items/x-2105326479441788943/) — `x-2105326479441788943`
+- [Your AI isn't bad at design. It has just never seen good design.](../../raw/items/x-2106411655055974640/) — `x-2106411655055974640`
+- [✨ Go-to brand design resources 👇](../../raw/items/x-2106740370415473027/) — `x-2106740370415473027`
+- [Diagram Design skill now in 3D.](../../raw/items/x-2107222360155701709/) — `x-2107222360155701709`
+- [New skill unlocked: /fluid-functionalism](../../raw/items/x-2107456589951361083/) — `x-2107456589951361083`
+- [A few people asked how I made the isometric objects and cities, so I packaged it into a Claude skill.](../../raw/items/x-2107794465457139988/) — `x-2107794465457139988`
+- [7 UI skills every design engineer should know when building with AI agents:](../../raw/items/x-2107835276810739945/) — `x-2107835276810739945`
+- [🍟 Still using Pinterest for design inspo in 2026? These will replace it in 2027. 👇](../../raw/items/x-2108181934669238593/) — `x-2108181934669238593`
+- [Built an entire airport in isometric design.](../../raw/items/x-2109263628306383016/) — `x-2109263628306383016`
+- [It should be impossible for AI to make a bad UI.](../../raw/items/x-2109309297612013621/) — `x-2109309297612013621`
+- [How to make QR code concept https://t.co/7rczv4yohM](../../raw/items/x-2109424625742713341/) — `x-2109424625742713341`
+- [If you are building websites with AI,](../../raw/items/x-2109624423255048225/) — `x-2109624423255048225`
+- [Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.](../../raw/items/x-2109671433521815772/) — `x-2109671433521815772`
+- [How to Stop Making your Apps Look Like AI Slop 2.0](../../raw/items/x-2109681377280954407/) — `x-2109681377280954407`
+- [地図情報から漫画背景を作成できるツールを作成しました。地名や座標を入力すれば地球のどこでも再現可能です。無料で使えるので、ぜひ使ってみてください！](../../raw/items/x-2109834006703292423/) — `x-2109834006703292423`
+- [Github is hiding the cure for ugly AI-generated websites.](../../raw/items/x-2109944361408659650/) — `x-2109944361408659650`
+- [These designs got over 50k views in ~2 days.](../../raw/items/x-2110059026818212244/) — `x-2110059026818212244`
 <!-- /AUTO:ITEMS -->

@@ -1,0 +1,39 @@
+{
+  "id": "x-2096089511889600731",
+  "url": "https://x.com/NavinFS/status/2096089511889600731",
+  "source_type": "x",
+  "captured_at": "2026-09-21T10:00:39Z",
+  "title": "Finally generated some text that scores 100% human on pangram. Now Qwen3-8B-Base instead of 4B and trained on 4k",
+  "authors": [
+    "@NavinFS"
+  ],
+  "topics": [
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096089511889600731",
+    "author_handle": "NavinFS",
+    "author_name": "NavinF",
+    "author_bio": "http://github.com/NavinF\nPython/C++/Java",
+    "created_at": "Sat Sep 05 04:14:17 +0000 2026",
+    "created_timestamp": 1788581657,
+    "likes": 857,
+    "retweets": 23,
+    "replies": 30,
+    "views": 43520,
+    "bookmarks": 471,
+    "quotes": 11,
+    "lang": "en",
+    "possibly_sensitive": false,
+    "quoted": "",
+    "capture_method": "fxtwitter",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T12:08:34Z"
+  }
+}

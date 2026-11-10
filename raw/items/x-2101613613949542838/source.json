@@ -1,0 +1,46 @@
+{
+  "id": "x-2101613613949542838",
+  "url": "https://x.com/neropursue/status/2101613613949542838",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:44:36Z",
+  "title": "7 UI skills every design engineer should know when building with AI agents:",
+  "authors": [
+    "Nero (@neropursue)"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.ui-skills.com/skills/emilkowalski/emil-design-eng",
+    "https://www.ui-skills.com/skills/jakubkrehel/make-interfaces-feel-better",
+    "https://www.ui-skills.com/skills/microsoft/playwright-cli",
+    "https://www.ui-skills.com/skills/millionco/react-doctor",
+    "https://www.ui-skills.com/skills/ibelick/fixing-accessibility",
+    "https://www.ui-skills.com/skills/raphaelsalaja/12-principles-of-animation",
+    "https://www.ui-skills.com/skills/shadcn-ui/shadcn"
+  ],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2101613613949542838",
+    "author_handle": "neropursue",
+    "migrated_v2": true,
+    "author_name": "Nero",
+    "created_at": "2026-09-20T10:05:06Z",
+    "likes": 905,
+    "replies": 26,
+    "retweets": 114,
+    "bookmarks": 1312,
+    "quotes": 3,
+    "views": 38378,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -17,6 +17,7 @@
     "tweet_id": "2092996828752916622",
     "author_handle": "DopeOblivion",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Agency/automation landing template (Forja)"
+    "category_note": "Agency/automation landing template (Forja)",
+    "migrated_v2": true
   }
 }

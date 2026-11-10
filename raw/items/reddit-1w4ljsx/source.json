@@ -1,0 +1,37 @@
+{
+  "id": "reddit-1w4ljsx",
+  "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w4ljsx/world_labs_introduces_their_next_world_model_atlas/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "World Labs introduces their next world model - Atlas",
+  "authors": [
+    "chronoz99"
+  ],
+  "topics": [
+    "gaussian-splatting",
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1w4ljsx",
+    "saved_kind": "post",
+    "post_id": "1w4ljsx",
+    "comment_id": null,
+    "subreddit": "GaussianSplatting",
+    "flair": "🔍 Discovery",
+    "posted_at": "2026-09-01T19:03:21+00:00",
+    "score_at_capture": 367,
+    "comment_count_at_capture": 20,
+    "comments_captured_from_api": 19,
+    "thread_comments_returned": 19,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:25+00:00"
+  }
+}

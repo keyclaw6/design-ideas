@@ -3,7 +3,7 @@
   "url": "https://x.com/lisaknowsai/status/2094061655990702150",
   "source_type": "x",
   "captured_at": "2026-09-04T07:36:47Z",
-  "title": "\ud83d\udea8 ADI\u00d3S A LA EDICI\u00d3N DE VIDEO Alguien acaba de crear una herramienta de edici\u00f3n de video gratuita para Claude Code... y ",
+  "title": "🚨 ADIÓS A LA EDICIÓN DE VIDEO Alguien acaba de crear una herramienta de edición de video gratuita para Claude Code... y ",
   "authors": [
     "@lisaknowsai"
   ],
@@ -22,6 +22,7 @@
     "category_note": "browser-use/video-use: Claude Code auto-edit (cut, captions, grade, render).",
     "related_items": [
       "x-2092980272819999227"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

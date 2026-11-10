@@ -1,0 +1,41 @@
+{
+  "id": "x-2101564766812786894",
+  "url": "https://x.com/polydao/status/2101564766812786894",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:44:36Z",
+  "title": "this is straight f*cking gold 297 pages on building a $100K/month business with zero employees. 8 parts, 40 chapters,",
+  "authors": [
+    "Mr. Buzzoni (@polydao)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/polydao/status/2100541964747747661",
+    "https://x.com/i/article/2100348544183869440"
+  ],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg",
+    "media/quoted-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2101564766812786894",
+    "author_handle": "polydao",
+    "migrated_v2": true,
+    "author_name": "Mr. Buzzoni",
+    "created_at": "2026-09-20T06:51:00Z",
+    "likes": 245,
+    "replies": 17,
+    "retweets": 34,
+    "bookmarks": 360,
+    "quotes": 1,
+    "views": 21269,
+    "lang": "en",
+    "source_client": "Twitter Web Client",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -3,7 +3,7 @@
   "url": "https://x.com/alaymanguy/status/2087656088124719304",
   "source_type": "x",
   "captured_at": "2026-09-04T07:32:02Z",
-  "title": "Introducing pdfcn 📄 by @shadcnlabs > Built on Takumi by @kanewang_ and Forme > Zero config, one command setup. > @shadcn",
+  "title": "Introducing pdfcn \ud83d\udcc4 by @shadcnlabs > Built on Takumi by @kanewang_ and Forme > Zero config, one command setup. > @shadcn",
   "authors": [
     "@alaymanguy"
   ],
@@ -24,6 +24,7 @@
       "github-google-labs-code-design-md",
       "github-emilkowalski-skills"
     ],
-    "category_note": "shadcn-compatible OSS PDF component kit"
+    "category_note": "shadcn-compatible OSS PDF component kit",
+    "migrated_v2": true
   }
 }

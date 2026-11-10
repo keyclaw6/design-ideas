@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2093937170717585657",
     "author_handle": "Stefan_3D_AI",
-    "category_note": "Lumera: one image \u2192 editable UE5/Blender meshes + engine lights."
+    "category_note": "Lumera: one image → editable UE5/Blender meshes + engine lights.",
+    "migrated_v2": true
   }
 }

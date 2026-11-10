@@ -20,6 +20,7 @@ Presence in the catalog is not a recommendation. Topics are tags, not a hierarch
 | [camera-control.md](topics/camera-control.md) | `camera-control` | Camera paths, Blender MCP flythrough, depth passes, cinematic motion reference |
 | [keyboard-pcb.md](topics/keyboard-pcb.md) | `keyboard-pcb` | Ergonomic keyboards, PCB, split keyboards, hardware (later focus) |
 | [infographics.md](topics/infographics.md) | `infographics` | Data viz, diagram design, AntV, chart-as-content |
+| [general-reference.md](topics/general-reference.md) | `general-reference` | Desktop utilities, general computing, and personal saved references outside the specialist lanes |
 
 Full table of every entry: [index.md](index.md). Filtered noise: [filtered.md](filtered.md). Cross-lane recipes: [patterns.md](patterns.md). Topic briefs: [topics/](topics/). Long-form notes: [../raw/notes/](../raw/notes/) (use `*.meta.json` for topics). Schema: [`SCHEMA.md`](../SCHEMA.md). Completion plan: [PLAN.md](PLAN.md).
 
@@ -32,9 +33,9 @@ Full table of every entry: [index.md](index.md). Filtered noise: [filtered.md](f
 5. **[patterns.md](patterns.md)** — pipelines that cross slugs, with item ids.
 6. **Item folder** `raw/items/<id>/` (or `raw/notes/` for unsplit notes), in this order:
    - `source.json` — metadata, URL, topics, `related_items`
-   - `page.md` or `post.md` — primary capture
-   - `comments.md` — optional thread
-   - `research.md` — **optional**; write or read only when the post is thin, ambiguous, or needs cross-links. Skip when `post.md` / the repo speaks for itself. No minimum length.
-   - `media/` — screenshots, attachments
+   - `content.md` — the whole capture, verbatim (post/article + local media
+     embeds + thread + relevant comments). No `research.md`: read the capture,
+     not a summary.
+   - `media/` — images/video/audio referenced from `content.md`
 
 Graphify (`graphify query` / `explain` / `path`) before broad file search. After catalog or `raw/` edits: `graphify update .`.

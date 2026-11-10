@@ -1,0 +1,54 @@
+{
+  "id": "x-2110070862972158174",
+  "url": "https://x.com/getcontextdev/status/2110070862972158174",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Meet sgrep, a fast, fully local ripgrep extension built to make agents cheaper and more accurate.",
+  "authors": [
+    "Context.dev (@getcontextdev)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110070862972158174",
+    "author_handle": "getcontextdev",
+    "posted_at": "Tue Oct 13 18:11:11 +0000 2026",
+    "metrics": {
+      "views": 79155,
+      "likes": 556,
+      "replies": 34,
+      "retweets": 29,
+      "bookmarks": 780,
+      "quotes": 14
+    },
+    "articles": [],
+    "reply_records_captured": 35,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110070817480740864/vid/avc1/1280x720/RBDmlxFVWvrvo0V6.mp4?tag=16",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2110070817480740864/img/UyJWsuMRvMtYF1d0.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUnnSujWwAADD0-.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2071850142970380288/vid/avc1/720x720/yNxa0Asr76cYcEyL.mp4?tag=14"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Meet sgrep, a fast, fully local ripgrep extension built to make agents cheaper and more accurate.\n\non our SWE-bench Verified eval, sgrep reduced LLM API cost by 21.3% versus ripgrep, solving 70 of 100 attempts versus 68.",
+    "fx_raw_text": "Meet sgrep, a fast, fully local ripgrep extension built to make agents cheaper and more accurate.\n\non our SWE-bench Verified eval, sgrep reduced LLM API cost by 21.3% versus ripgrep, solving 70 of 100 attempts versus 68. https://t.co/b5HDbaZzC0",
+    "unverified_timeline_record_ids": [
+      "2099964624648958223",
+      "2068115197718593741",
+      "2091679500094275968",
+      "2080545464298897709"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

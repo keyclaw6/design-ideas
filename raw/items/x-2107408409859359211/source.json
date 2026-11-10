@@ -1,0 +1,51 @@
+{
+  "id": "x-2107408409859359211",
+  "url": "https://x.com/LufzzLiz/status/2107408409859359211",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "🚨重磅：我们2000+ Star的开源项目迎来了重大更新：经过多轮迭代，我们用Opus 5.5 新增了9种讲解视频风格，不求多，只求做到极致，经过多次迭代后，今天开源分享给大家，效果可以见视频，感觉任何一周都可以拿去起号了",
+  "authors": [
+    "岚叔 (@LufzzLiz)"
+  ],
+  "topics": [
+    "agent-skills",
+    "ui-motion",
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107408409859359211",
+    "author_handle": "LufzzLiz",
+    "posted_at": "Tue Oct 06 09:51:33 +0000 2026",
+    "metrics": {
+      "views": 69791,
+      "likes": 984,
+      "replies": 47,
+      "retweets": 164,
+      "bookmarks": 1487,
+      "quotes": 16
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2107404354714222592/vid/avc1/1280x720/pgjcVf5IaKjmo5KN.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2107404354714222592/img/iR2GjC2WeIoHZS2L.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "🚨重磅：我们2000+ Star的开源项目迎来了重大更新：经过多轮迭代，我们用Opus 5.5 新增了9种讲解视频风格，不求多，只求做到极致，经过多次迭代后，今天开源分享给大家，效果可以见视频，感觉任何一周都可以拿去起号了\n看看大家更喜欢哪一种，或者有推荐的风格也可以发给我\n\n测试发现用我们的skill模版，即使是用codex也开始可以产出类似的效果\n\n使用流程也很简单：\n1️⃣ 拉取最新的代码\n2️⃣ 在 harness （claude 的模型最佳）使用该skill 完成关于【任意主题】的动画讲解，风格使用【v1 设计师】风格\n3️⃣ 配音（可选），使用相关TTS模型完成配音\n4️⃣ 生成数字人口播视频（可选），如果想加数字人，就用我们上面的配音驱动+ 你的数字人图片 生成最终视频。然后让claude 完美融合视频即可\n\n开源地址见评论👇",
+    "fx_raw_text": "🚨重磅：我们2000+ Star的开源项目迎来了重大更新：经过多轮迭代，我们用Opus 5.5 新增了9种讲解视频风格，不求多，只求做到极致，经过多次迭代后，今天开源分享给大家，效果可以见视频，感觉任何一周都可以拿去起号了\n看看大家更喜欢哪一种，或者有推荐的风格也可以发给我\n\n测试发现用我们的skill模版，即使是用codex也开始可以产出类似的效果\n\n使用流程也很简单：\n1️⃣ 拉取最新的代码\n2️⃣ 在 harness （claude 的模型最佳）使用该skill 完成关于【任意主题】的动画讲解，风格使用【v1 设计师】风格\n3️⃣ 配音（可选），使用相关TTS模型完成配音\n4️⃣ 生成数字人口播视频（可选），如果想加数字人，就用我们上面的配音驱动+ 你的数字人图片 生成最终视频。然后让claude 完美融合视频即可\n\n开源地址见评论👇",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2098108930002211077",
+      "2092706810314858684"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:11.506563+00:00"
+  }
+}

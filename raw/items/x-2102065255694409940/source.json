@@ -1,0 +1,85 @@
+{
+  "id": "x-2102065255694409940",
+  "url": "https://x.com/nifinet/status/2102065255694409940",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "How to build a signal-based outbound bot with Jev",
+  "authors": [
+    "Nicolas Finet (@nifinet)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2102060087456268288",
+    "https://yourmax.ai/",
+    "http://yourmax.ai/"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.jpg",
+    "media/image-07.jpg",
+    "media/image-08.jpg",
+    "media/image-09.jpg",
+    "media/image-10.jpg",
+    "media/image-11.jpg",
+    "media/image-12.jpg",
+    "media/image-13.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102065255694409940",
+    "author_handle": "nifinet",
+    "posted_at": "2026-09-21T15:59:46+00:00",
+    "metrics": {
+      "views": 16812,
+      "likes": 153,
+      "replies": 18,
+      "retweets": 16,
+      "bookmarks": 300,
+      "quotes": 3
+    },
+    "articles": [
+      {
+        "kind": "direct",
+        "id": "2102060087456268288",
+        "title": "How to build a signal-based outbound bot with Jev",
+        "blocks": 137,
+        "quoted_tweet_id": null
+      }
+    ],
+    "reply_records_captured": 19,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HSwI_zwaQAA9uYF.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HSwII62bUAAIIej.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HSwHa8pa4AAMnzL.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HSwF3LbbQAA_b6-.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HSwExndb0AAPNtC.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HSwIZHxaoAAwJwW.jpg",
+      "media/image-07.jpg": "https://pbs.twimg.com/media/HSwFI31aQAAkFMF.jpg",
+      "media/image-08.jpg": "https://pbs.twimg.com/media/HSwH0d0aUAAg9PU.jpg",
+      "media/image-09.jpg": "https://pbs.twimg.com/media/HSwIvVTa4AEjdFF.jpg",
+      "media/image-10.jpg": "https://pbs.twimg.com/media/HUaH2V3boAEyIh6.jpg",
+      "media/image-11.jpg": "https://pbs.twimg.com/media/HUmxH1EXsAAXxld.jpg",
+      "media/image-12.jpg": "https://pbs.twimg.com/media/HUmxN20WgAAslAn.jpg",
+      "media/image-13.jpg": "https://pbs.twimg.com/media/HUmxT7oXgAAM8_I.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "https://x.com/i/article/2102060087456268288",
+    "fx_raw_text": "https://t.co/v6lYNTslZw",
+    "unverified_timeline_record_ids": [
+      "2110377588975943987",
+      "2110414696037716372",
+      "2110255627704455591",
+      "2110333297536672226"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:51:44.110695+00:00"
+  }
+}

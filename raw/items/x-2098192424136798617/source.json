@@ -1,0 +1,30 @@
+{
+  "id": "x-2098192424136798617",
+  "url": "https://x.com/adriablancafort/status/2098192424136798617",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:34:50Z",
+  "title": "It's actually quite good! And $0.05/min is a quite competitive pricing (~2x-5x cheaper compared to most voice agent",
+  "authors": [
+    "@adriablancafort"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/OpenAIDevs/status/2098099269551149398"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg",
+    "media/quoted-video.mp4",
+    "media/quoted-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098192424136798617",
+    "author_handle": "adriablancafort",
+    "migrated_v2": true,
+    "filtered": true,
+    "category_note": "Voice-agent pricing note; voice infra, no matching lane.",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

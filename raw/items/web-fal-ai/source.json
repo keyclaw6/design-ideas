@@ -22,6 +22,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "developer_count": "1,500,000+",
     "model_count": "1,000+",
     "fetch": "r.jina.ai/https landing + /docs/documentation (overview only); first http:// attempt 429",

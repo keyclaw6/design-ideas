@@ -25,6 +25,7 @@
       "x-2087263510090874911",
       "web-blume-codes"
     ],
-    "category_note": "pi-shepherdr: 271-token master Pi orchestrates other Pi agents via Herdr panes."
+    "category_note": "pi-shepherdr: 271-token master Pi orchestrates other Pi agents via Herdr panes.",
+    "migrated_v2": true
   }
 }

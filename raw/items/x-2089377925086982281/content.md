@@ -1,0 +1,11 @@
+# Cold calling is the necessary evil when founding a startup. To make it easier we build a cold calling tool for ourselves
+
+> Source: https://x.com/tjrfinn/status/2089377925086982281
+> Author: @tjrfinn
+> Captured: 2026-09-04T07:01:47Z
+
+## Post
+
+Cold calling is the necessary evil when founding a startup. To make it easier we build a cold calling tool for ourselves with Luo
+
+It works so well that we decided to share it. Give it a try and tell me what you think.

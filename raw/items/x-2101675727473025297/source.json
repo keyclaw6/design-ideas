@@ -1,0 +1,37 @@
+{
+  "id": "x-2101675727473025297",
+  "url": "https://x.com/VibeMarketer_/status/2101675727473025297",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:29:16Z",
+  "title": "McKinsey wrote a whole report about the AI-native marketing team. most good research gets consumed once and then",
+  "authors": [
+    "J.B. (@VibeMarketer_)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2101675727473025297",
+    "author_handle": "VibeMarketer_",
+    "migrated_v2": true,
+    "author_name": "J.B.",
+    "created_at": "Sun Sep 20 14:11:55 +0000 2026",
+    "likes": 169,
+    "replies": 41,
+    "retweets": 62,
+    "bookmarks": 52,
+    "quotes": 0,
+    "views": 12252,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

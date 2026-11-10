@@ -1,0 +1,41 @@
+{
+  "id": "x-2097453174734963024",
+  "url": "https://x.com/illyism/status/2097453174734963024",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "How to rank #1 on Google without writing blog posts: 1️⃣ Build a free embeddable widget 2️⃣ Put a tiny \"powered by\"",
+  "authors": [
+    "ILIAS ISM (@illyism)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097453174734963024",
+    "author_handle": "illyism",
+    "author_name": "ILIAS ISM",
+    "author_bio": "🎨 http://GenPPT.com $10K/m\n🔗 http://LinkDR.com\n🛰️ http://AISEOTracker.com\n✨ http://MagicSpace.Agency\n🔥 http://SEORoast.com\n⭐ http://Awesome.tools\n😜 http://MagicMeme.com\n🖼️ http://Headshot-Generator.ai\n\n+9 http://il.ly",
+    "created_at": "Tue Sep 08 22:33:00 +0000 2026",
+    "likes": 183,
+    "replies": 15,
+    "retweets": 13,
+    "views": 23271,
+    "bookmarks": 421,
+    "quotes": 1,
+    "lang": "en",
+    "source_client": "Twitter Web Client",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 315,
+    "replies_added": 10,
+    "replies_thread": 1,
+    "replies_comments": 9,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

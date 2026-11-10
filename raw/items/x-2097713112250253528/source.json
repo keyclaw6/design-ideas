@@ -1,0 +1,44 @@
+{
+  "id": "x-2097713112250253528",
+  "url": "https://x.com/EXM7777/status/2097713112250253528",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "i finally cracked long-form AI ads with GPT-6 Astra... my setup now produces 5min+ videos on autopilot in 4k 60fps,",
+  "authors": [
+    "Machina (@EXM7777)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097713112250253528",
+    "author_handle": "EXM7777",
+    "author_name": "Machina",
+    "author_bio": "running ai-powered agencies | http://weeklyaiops.com",
+    "created_at": "Wed Sep 09 15:45:54 +0000 2026",
+    "likes": 1442,
+    "replies": 42,
+    "retweets": 139,
+    "views": 160326,
+    "bookmarks": 2916,
+    "quotes": 8,
+    "lang": "en",
+    "source_client": "Typefully",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 753,
+    "replies_added": 5,
+    "replies_thread": 1,
+    "replies_comments": 4,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

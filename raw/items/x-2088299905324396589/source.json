@@ -28,6 +28,7 @@
       "note-blender-minimax-h3-video-generation",
       "github-nv-tlabs-ArtiFixer"
     ],
-    "category_note": "Atlas: sentence → Blender/Unreal consistent world"
+    "category_note": "Atlas: sentence → Blender/Unreal consistent world",
+    "migrated_v2": true
   }
 }

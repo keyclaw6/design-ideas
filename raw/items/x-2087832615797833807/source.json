@@ -27,6 +27,7 @@
       "web-cult-ui",
       "github-emilkowalski-skills"
     ],
-    "category_note": "AI-native UI kit (chat, tools, diffs, approvals)"
+    "category_note": "AI-native UI kit (chat, tools, diffs, approvals)",
+    "migrated_v2": true
   }
 }

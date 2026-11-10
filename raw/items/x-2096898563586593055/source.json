@@ -1,0 +1,40 @@
+{
+  "id": "x-2096898563586593055",
+  "url": "https://x.com/ahmedscen/status/2096898563586593055",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:59:07Z",
+  "title": "\u2764\ufe0f\u200d\ud83d\udd25 GPT-6 Astra is getting dangerously good I genuinely wasn\u2019t ready for this level of AI Prompt below \u2193",
+  "authors": [
+    "Ahmed (@ahmedscen)"
+  ],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096898563586593055",
+    "author_handle": "ahmedscen",
+    "author_name": "Ahmed",
+    "author_bio": "| Maker of https://sceneai.art/ \u2764\ufe0f\n| Grab AI Prompts & Websites",
+    "author_followers": 14571,
+    "author_following": 961,
+    "created_at": "Mon Sep 07 09:49:10 +0000 2026",
+    "stats": {
+      "likes": 423,
+      "reposts": 26,
+      "replies": 11,
+      "views": 34868,
+      "bookmarks": 539,
+      "quotes": 2
+    },
+    "fetch": "api.fxtwitter.com (primary: https://api.fxtwitter.com/i/status/2096898563586593055); r.jina.ai comments attempt -> HTTP 403; vxtwitter fallback available",
+    "comments": "none retrievable (jina 403, fx single-tweet only)",
+    "quote_url": null,
+    "unsaved_at": "2026-09-21T12:08:51Z"
+  }
+}

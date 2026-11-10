@@ -1,0 +1,60 @@
+{
+  "id": "x-2098032450731720823",
+  "url": "https://x.com/leomeethewoo/status/2098032450731720823",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "How Apple makes their product videos look expensive (Steal it) — https://t.co/1e96kXOu9u",
+  "authors": [
+    "leo (@leomeethewoo)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2097951598844813312"
+  ],
+  "media": [
+    "media/media_0.jpg",
+    "media/media_1.mp4",
+    "media/media_2.jpg",
+    "media/media_3.mp4",
+    "media/media_4.jpg",
+    "media/media_5.jpg",
+    "media/media_6.mp4",
+    "media/media_7.jpg",
+    "media/media_8.mp4",
+    "media/media_9.jpg",
+    "media/media_10.mp4",
+    "media/media_11.jpg",
+    "media/media_12.mp4",
+    "media/media_13.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098032450731720823",
+    "author_handle": "leomeethewoo",
+    "author_name": "leo",
+    "author_bio": "Building @IntentlyBiz → Product Videos for Fintech\n\nTrusted by @jito @fomo & 30+ companies",
+    "created_at": "Thu Sep 10 12:54:50 +0000 2026",
+    "stats": {
+      "likes": 1879,
+      "reposts": 176,
+      "replies": 24,
+      "views": 1458638,
+      "bookmarks": 5940,
+      "quotes": 23
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 2190,
+    "article_id": "2097951598844813312",
+    "article_title": "How Apple makes their product videos look expensive (Steal it)",
+    "replies_added": 11,
+    "replies_thread": 0,
+    "replies_comments": 11,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

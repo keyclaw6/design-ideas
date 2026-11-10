@@ -5,7 +5,7 @@
   "captured_at": "2026-09-04T06:49:24Z",
   "title": "Version controls AI agent memory with snapshots, branches, and merges https://github.com/matrixorigin/Memoria",
   "authors": [
-    "Tom Dörr (@tom_doerr)"
+    "Tom D\u00f6rr (@tom_doerr)"
   ],
   "topics": [
     "agent-skills"
@@ -27,6 +27,7 @@
       "web-cerebras-knowledge-base",
       "web-davidgasquez-context-engineering"
     ],
-    "category_note": "Memoria: git-like snapshots/branches/merges for agent memory."
+    "category_note": "Memoria: git-like snapshots/branches/merges for agent memory.",
+    "migrated_v2": true
   }
 }

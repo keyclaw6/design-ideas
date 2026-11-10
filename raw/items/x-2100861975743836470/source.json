@@ -1,0 +1,50 @@
+{
+  "authors": [
+    "TeddyCEO (@TeddyinMedia)"
+  ],
+  "captured_at": "2026-09-21T12:33:00Z",
+  "extra": {
+    "author_handle": "TeddyinMedia",
+    "author_name": "TeddyCEO",
+    "bookmarks": 58,
+    "comments_note": "8 replies counted; 1 high-signal reply visible, rest login-walled.",
+    "created_at": "2026-09-18T08:18:21Z",
+    "lang": "en",
+    "likes": 48,
+    "migrated_v2": true,
+    "replies": 8,
+    "retweets": 4,
+    "source_client": "Twitter Web App",
+    "tweet_id": "2100861975743836470",
+    "video_duration": 13.0,
+    "views": 2981,
+    "filtered": true,
+    "category_note": "Traffic-automation repo roundup (bots, cold-email scraping); growth-spam adjacent, out of taxonomy.",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  },
+  "id": "x-2100861975743836470",
+  "media": [
+    "media/thumb.jpg",
+    "media/video.mp4"
+  ],
+  "related_urls": [
+    "http://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "http://github.com/mehdreaming/tiktok-to-pinterest",
+    "http://github.com/pinterest/pinterest-python-sdk",
+    "http://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
+    "http://github.com/harry0703/MoneyPrinterTurbo",
+    "http://github.com/Hao0321/claude-skill-social-post",
+    "http://github.com/meet447/Reddit-Copilot",
+    "http://github.com/nirholas/XActions",
+    "http://github.com/dancolta/x-engage",
+    "http://github.com/sergebulaev/instagram-skills",
+    "http://github.com/sergebulaev/facebook-skills",
+    "http://github.com/dreammis/social-auto-upload"
+  ],
+  "source_type": "x",
+  "title": "GitHub is full of tools for getting traffic — open-source repos worth digging into",
+  "topics": [],
+  "unsaved": true,
+  "url": "https://x.com/TeddyinMedia/status/2100861975743836470"
+}

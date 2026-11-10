@@ -1,0 +1,75 @@
+{
+  "id": "x-2101884812189684015",
+  "url": "https://x.com/HermesWatcher/status/2101884812189684015",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "If I Had to Build My Hermes Setup From Zero Today, I’d Start Here",
+  "authors": [
+    "Hermes Release Watch (@HermesWatcher)"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2101881415273164800",
+    "https://hermes-agent.nousresearch.com/docs/user-guide/features/plugins",
+    "https://hermes-agent.nousresearch.com/docs/user-guide/features/cron",
+    "https://hermes-agent.nousresearch.com/docs/reference/skills-catalog",
+    "https://hermes-agent.nousresearch.com/docs/user-guide/features/fallback-providers/",
+    "https://hermes-agent.nousresearch.com/docs/user-guide/profiles/",
+    "https://hermes-agent.nousresearch.com/docs/user-guide/features/context-files",
+    "https://hermes-agent.nousresearch.com/docs/user-guide/features/mcp",
+    "https://hermes-agent.nousresearch.com/docs/user-guide/features/memory-providers"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2101884812189684015",
+    "author_handle": "HermesWatcher",
+    "posted_at": "2026-09-21T04:02:45+00:00",
+    "metrics": {
+      "views": 146974,
+      "likes": 574,
+      "replies": 18,
+      "retweets": 48,
+      "bookmarks": 1425,
+      "quotes": 7
+    },
+    "articles": [
+      {
+        "kind": "direct",
+        "id": "2101881415273164800",
+        "title": "If I Had to Build My Hermes Setup From Zero Today, I’d Start Here",
+        "blocks": 333,
+        "quoted_tweet_id": null
+      }
+    ],
+    "reply_records_captured": 19,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HStk51qa4AAsOzc.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HStioiyasAAyzo6.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HStizNEbsAA_gyF.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HSti8tybcAAJh97.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HStjF2CaQAAkoMy.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "https://x.com/i/article/2101881415273164800",
+    "fx_raw_text": "https://t.co/7l76mMK2Qi",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2101988176776548443"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:51:38.309047+00:00"
+  }
+}

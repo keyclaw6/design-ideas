@@ -1,0 +1,39 @@
+{
+  "id": "reddit-1uy83bk",
+  "url": "https://www.reddit.com/r/OpenSourceAI/comments/1uy83bk/new_release_of_android_remote_control_mcp_is_out/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want!",
+  "authors": [
+    "daniele_dll"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.9.0",
+    "http://claude.ai/"
+  ],
+  "media": [
+    "media/01-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1uy83bk",
+    "saved_kind": "post",
+    "post_id": "1uy83bk",
+    "comment_id": null,
+    "subreddit": "OpenSourceAI",
+    "flair": null,
+    "posted_at": "2026-07-16T16:40:42+00:00",
+    "score_at_capture": 3,
+    "comment_count_at_capture": 1,
+    "comments_captured_from_api": 1,
+    "thread_comments_returned": 1,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:56:39+00:00"
+  }
+}

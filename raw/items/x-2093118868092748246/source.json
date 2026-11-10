@@ -17,6 +17,7 @@
     "tweet_id": "2093118868092748246",
     "author_handle": "CalliopeLabsyt",
     "fetch": "api.fxtwitter.com (retry)",
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

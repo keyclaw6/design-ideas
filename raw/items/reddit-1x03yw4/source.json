@@ -1,0 +1,42 @@
+{
+  "id": "reddit-1x03yw4",
+  "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x03yw4/freellmapi_34_free_llm_providers_635_free_model/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "FreeLLMAPI: 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint. (31k stars)",
+  "authors": [
+    "company_url_finder"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "http://localhost:3001",
+    "https://github.com/tashfeenahmed/freellmapi",
+    "https://github.com/tashfeenahmed",
+    "https://tashfeen.me",
+    "https://best-github-repos.beehiiv.com/subscribe"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x03yw4",
+    "saved_kind": "post",
+    "post_id": "1x03yw4",
+    "comment_id": null,
+    "subreddit": "BestGitHubRepos",
+    "flair": "🤖 AI repositories",
+    "posted_at": "2026-10-07T18:16:39+00:00",
+    "score_at_capture": 582,
+    "comment_count_at_capture": 19,
+    "comments_captured_from_api": 16,
+    "thread_comments_returned": 16,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:18+00:00"
+  }
+}

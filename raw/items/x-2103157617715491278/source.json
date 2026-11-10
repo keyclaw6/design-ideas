@@ -1,0 +1,81 @@
+{
+  "id": "x-2103157617715491278",
+  "url": "https://x.com/0xwhrrari/status/2103157617715491278",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Jev Founder, Diogo Almeida, just released a 12-page PDF on how to use Jev with LLMs",
+  "authors": [
+    "rari (@0xwhrrari)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2101963175180582912",
+    "https://x.com/@0xwhrrari",
+    "https://whrrari.substack.com/subscribe?next=https%3A%2F%2Fsubstack.com%2F%40whrrari%2Fnotes&utm_source=profile-page&utm_medium=web&utm_campaign=substack_profile&just_signed_up=true",
+    "https://t.me/+qqS3Qn-x1305ZmUy"
+  ],
+  "media": [
+    "media/image-01.png",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.jpg",
+    "media/animation-01.mp4",
+    "media/video-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103157617715491278",
+    "author_handle": "0xwhrrari",
+    "posted_at": "Thu Sep 24 16:20:25 +0000 2026",
+    "metrics": {
+      "views": 345552,
+      "likes": 2280,
+      "replies": 63,
+      "retweets": 304,
+      "bookmarks": 4721,
+      "quotes": 25
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2101963175180582912",
+        "title": "Jev Engineering: Stop Using LLMs for Every Decision",
+        "blocks": 389,
+        "quoted_tweet_id": "2102020016539324501"
+      }
+    ],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.png": "https://pbs.twimg.com/media/HS_jpUUW8AAOsx3.png?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HSus9ooXIAAeQoV.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HSuuQMoX0AAeQAM.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HSuwaWOXgAAcF7R.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HSuww4RXYAEw6iU.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HTGroafacAAzi0Q.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTJRBuQXcAA1axV.mp4",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2103233862515953664/vid/avc1/1080x1080/3q06Lbez7GvtfyBM.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Jev Founder, Diogo Almeida, just released a 12-page PDF on how to use Jev with LLMs\n\nIt is more useful than most paid AI courses:\n\nthis is a 10-step blueprint on how to build a faster, cheaper and more controllable AI system around Claude, Codex, Grok or any other LLM:\n\nstep 1 → split the responsibilities: the LLM generates, Jev makes bounded semantic decisions and deterministic code keeps authority\n\nstep 2 → build the state: give Jev the current request, relevant evidence, policy and proposed action instead of sending the entire conversation\n\nstep 3 → choose the right primitive: Choice selects a route, Score evaluates an ordered rubric and Noul returns the probability that a statement is true\n\nstep 4 → replace giant evaluation prompts with atomic questions: intent, urgency, evidence, risk and scope become separate typed decisions\n\nstep 5 → put Jev before the LLM: select the context, tools, provider and workflow before paying for an expensive generative call\n\nstep 6 → give the LLM a bounded job: once Jev selects the route, the model receives only the instructions, files and tools required for that branch\n\nstep 7 → put Jev after the LLM: check whether the result answers the request, uses sufficient evidence and stays inside the permitted scope\n\nstep 8 → route by confidence: high-confidence low-risk cases proceed automatically, uncertain cases request more context and consequential actions go to review\n\nstep 9 → batch independent decisions: ask multiple Choice, Score and Noul questions over one shared state instead of creating another LLM call for every judgment\n\nstep 10 → record the complete decision receipt: state version, question, probabilities, selected route, model, latency, outcome and human override\n\nmost AI courses teach you how to write a bigger prompt\n\nthis 12-page guide teaches you how to build the control system around every prompt\n\nthe result: smaller contexts, fewer unnecessary LLM calls, safer tool execution and decisions you can actually inspect, test and improve\n\nSend this PDF and the original Jev article to Claude Code or Codex and start rebuilding one expensive LLM decision at a time ↓",
+    "fx_raw_text": "Jev Founder, Diogo Almeida, just released a 12-page PDF on how to use Jev with LLMs\n\nIt is more useful than most paid AI courses:\n\nthis is a 10-step blueprint on how to build a faster, cheaper and more controllable AI system around Claude, Codex, Grok or any other LLM:\n\nstep 1 → split the responsibilities: the LLM generates, Jev makes bounded semantic decisions and deterministic code keeps authority\n\nstep 2 → build the state: give Jev the current request, relevant evidence, policy and proposed action instead of sending the entire conversation\n\nstep 3 → choose the right primitive: Choice selects a route, Score evaluates an ordered rubric and Noul returns the probability that a statement is true\n\nstep 4 → replace giant evaluation prompts with atomic questions: intent, urgency, evidence, risk and scope become separate typed decisions\n\nstep 5 → put Jev before the LLM: select the context, tools, provider and workflow before paying for an expensive generative call\n\nstep 6 → give the LLM a bounded job: once Jev selects the route, the model receives only the instructions, files and tools required for that branch\n\nstep 7 → put Jev after the LLM: check whether the result answers the request, uses sufficient evidence and stays inside the permitted scope\n\nstep 8 → route by confidence: high-confidence low-risk cases proceed automatically, uncertain cases request more context and consequential actions go to review\n\nstep 9 → batch independent decisions: ask multiple Choice, Score and Noul questions over one shared state instead of creating another LLM call for every judgment\n\nstep 10 → record the complete decision receipt: state version, question, probabilities, selected route, model, latency, outcome and human override\n\nmost AI courses teach you how to write a bigger prompt\n\nthis 12-page guide teaches you how to build the control system around every prompt\n\nthe result: smaller contexts, fewer unnecessary LLM calls, safer tool execution and decisions you can actually inspect, test and improve\n\nSend this PDF and the original Jev article to Claude Code or Codex and start rebuilding one expensive LLM decision at a time ↓",
+    "quoted_post": {
+      "id": "2102020016539324501",
+      "url": "https://x.com/0xwhrrari/status/2102020016539324501",
+      "author": "rari (@0xwhrrari)",
+      "text": "Most AI agents waste tokens on decisions that never needed text\n\nJev turns routing, scoring, and verification into a fast decision layer\n\nI broke down the architecture most agent builders are still missing ↓ https://x.com/i/article/2101963175180582912"
+    },
+    "unverified_timeline_record_ids": [
+      "2099964624644776310",
+      "2103165993971564662",
+      "2068115197718593741",
+      "2110445970504974443"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:31.386970+00:00"
+  }
+}

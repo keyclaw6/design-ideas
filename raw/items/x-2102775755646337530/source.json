@@ -1,0 +1,65 @@
+{
+  "id": "x-2102775755646337530",
+  "url": "https://x.com/abxxai/status/2102775755646337530",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "omg…that i made this with Claude Opus 5.5 and Seedance 2.5",
+  "authors": [
+    "Abdul Shakoor (@abxxai)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/animation-01.mp4",
+    "media/image-05.jpg",
+    "media/image-06.jpg",
+    "media/image-07.png",
+    "media/image-08.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102775755646337530",
+    "author_handle": "abxxai",
+    "posted_at": "2026-09-23T15:03:02+00:00",
+    "metrics": {
+      "views": 267197,
+      "likes": 1691,
+      "replies": 98,
+      "retweets": 124,
+      "bookmarks": 3926,
+      "quotes": 9
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2102775711664893952/vid/avc1/1280x720/dLEIO5A7eVSoXOAo.mp4?tag=16",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2102775711664893952/img/X9WoHPsndM8Da-oV.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HS6PccwaYAAVZuC.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HS6PdX6bkAAaFAV.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HS6lb-saAAA_oaX.mp4",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HS6RudGXkAAw2E-.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HS8makDXwAEc0H-.jpg",
+      "media/image-07.png": "https://pbs.twimg.com/media/HS7YEUbWYAAWHeg.png",
+      "media/image-08.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "omg…that i made this with Claude Opus 5.5 and Seedance 2.5\n\nnobody is teaching you the actual workflow behind these AI realistic videos.. so here it is,\n\nfull breakdown, every prompt included 👇",
+    "fx_raw_text": "omg…that i made this with Claude Opus 5.5 and Seedance 2.5\n\nnobody is teaching you the actual workflow behind these AI realistic videos.. so here it is,\n\nfull breakdown, every prompt included 👇 https://t.co/RUN4HPoHkE",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:13.449173+00:00"
+  }
+}

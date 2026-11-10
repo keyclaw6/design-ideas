@@ -16,6 +16,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2094377838774472944",
     "author_handle": "ShreyashT25",
     "category_note": "Spatial Studio: splat capture then in-browser camera animation + 4K export."

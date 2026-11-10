@@ -1,0 +1,53 @@
+{
+  "id": "x-2102286564521111687",
+  "url": "https://x.com/Dontgiveup_26/status/2102286564521111687",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "지금 전 세계 개발자 커뮤니티가 발칵 뒤집힌 이유.",
+  "authors": [
+    "돈벌고영 (@Dontgiveup_26)"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102286564521111687",
+    "author_handle": "Dontgiveup_26",
+    "posted_at": "Tue Sep 22 06:39:10 +0000 2026",
+    "metrics": {
+      "views": 537991,
+      "likes": 3993,
+      "replies": 21,
+      "retweets": 442,
+      "bookmarks": 6367,
+      "quotes": 55
+    },
+    "articles": [],
+    "reply_records_captured": 22,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HSzSSnaa4AAbZIm.jpg?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "지금 전 세계 개발자 커뮤니티가 발칵 뒤집힌 이유.\n\nPlaywright 쓰던 사람들이 단체로 갈아탈 수밖에 없게 만든 오픈소스 'Stagehand v4'가 나옴.\n\n최근 화제인 Jev까지 붙으면서 LLM 호출 97% 삭감, 속도 11배 폭증.\n\n반복 실행 비용이 '0원'으로 수렴해버리는 미친 자동화의 비밀 👇 (타래)",
+    "fx_raw_text": "지금 전 세계 개발자 커뮤니티가 발칵 뒤집힌 이유.\n\nPlaywright 쓰던 사람들이 단체로 갈아탈 수밖에 없게 만든 오픈소스 'Stagehand v4'가 나옴.\n\n최근 화제인 Jev까지 붙으면서 LLM 호출 97% 삭감, 속도 11배 폭증.\n\n반복 실행 비용이 '0원'으로 수렴해버리는 미친 자동화의 비밀 👇 (타래) https://t.co/ExvxxgWmsM",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2103212352506040551",
+      "2108255434125840740"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:51:47.425417+00:00"
+  }
+}

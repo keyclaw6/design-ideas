@@ -1,0 +1,51 @@
+{
+  "id": "x-2109612095763263987",
+  "url": "https://x.com/SimonHoiberg/status/2109612095763263987",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "I quietly launched something 👀",
+  "authors": [
+    "Simon Høiberg (@SimonHoiberg)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109612095763263987",
+    "author_handle": "SimonHoiberg",
+    "posted_at": "2026-10-12T11:48:12+00:00",
+    "metrics": {
+      "views": 11089,
+      "likes": 115,
+      "replies": 50,
+      "retweets": 12,
+      "bookmarks": 129,
+      "quotes": 2
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/ext_tw_video/2109612072346451968/pu/vid/avc1/1280x720/HYYAHI_Rb86xU_PJ.mp4?tag=12",
+      "media/image-01.jpg": "https://pbs.twimg.com/ext_tw_video_thumb/2109612072346451968/pu/img/P1mOdtYGy7ZVXZ-h.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUbbTSYboAAH640.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUbf2Z-aIAAErMz.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "I quietly launched something 👀 \nAnd it changes EVERYTHING.\n\nThe best part?\n\n...SLOP!\n\nI can't fking take this AI slop writing anymore.\n\nSo we just open-sourced our internal list of AI slop writing patterns that we use in FeedHive, for YouTube script writing, and much more.\n\n+120 patterns (and the list is growing).\nMost comprehensive list on the internet.\n\nAvailable on GitHub (including Claude skill).\nAnd a tool you can use for free.\n\nSee links below 👇\n\n...let's face it, we're all using AI to write now. At least, let's teach it how to not write total slop.",
+    "fx_raw_text": "I quietly launched something 👀 \nAnd it changes EVERYTHING.\n\nThe best part?\n\n...SLOP!\n\nI can't fking take this AI slop writing anymore.\n\nSo we just open-sourced our internal list of AI slop writing patterns that we use in FeedHive, for YouTube script writing, and much more.\n\n+120 patterns (and the list is growing).\nMost comprehensive list on the internet.\n\nAvailable on GitHub (including Claude skill).\nAnd a tool you can use for free.\n\nSee links below 👇\n\n...let's face it, we're all using AI to write now. At least, let's teach it how to not write total slop.",
+    "unverified_timeline_record_ids": [
+      "2092706810310619298"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:07.524295+00:00"
+  }
+}

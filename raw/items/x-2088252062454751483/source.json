@@ -28,6 +28,7 @@
       "x-2088277946918142211",
       "x-2088308976278790258"
     ],
-    "category_note": "grill-me + OpenSCAD + Bambu for parametric racks"
+    "category_note": "grill-me + OpenSCAD + Bambu for parametric racks",
+    "migrated_v2": true
   }
 }

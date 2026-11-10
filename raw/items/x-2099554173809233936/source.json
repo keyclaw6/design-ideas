@@ -1,0 +1,36 @@
+{
+  "id": "x-2099554173809233936",
+  "url": "https://x.com/marcelkargul/status/2099554173809233936",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:37:09Z",
+  "title": "imagine still sending brand guidelines as a pdf 😂 we build clients a password protected brand portal. they log in,",
+  "authors": [
+    "Marcel (@marcelkargul)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://x.com/rubenhume/status/2099534277025136843",
+    "http://kargul.studio"
+  ],
+  "media": [
+    "media/media_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099554173809233936",
+    "author_handle": "marcelkargul",
+    "migrated_v2": true,
+    "created_at": "2026-09-14T17:41:37Z",
+    "likes": 975,
+    "replies": 34,
+    "retweets": 41,
+    "bookmarks": 1343,
+    "quotes": 5,
+    "views": 115098,
+    "fetch": "api.fxtwitter.com + agent-browser bridge replies",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

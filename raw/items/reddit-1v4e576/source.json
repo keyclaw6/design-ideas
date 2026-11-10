@@ -1,0 +1,42 @@
+{
+  "id": "reddit-1v4e576",
+  "url": "https://www.reddit.com/r/GaussianSplatting/comments/1v4e576/how_we_built_the_grace_cathedral_browser/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "How we built the Grace Cathedral browser experience",
+  "authors": [
+    "MayorOfMonkeys"
+  ],
+  "topics": [
+    "gaussian-splatting",
+    "design"
+  ],
+  "related_urls": [
+    "https://vincentwoo.com/3d/grace_cathedral/",
+    "https://www.linkedin.com/in/dhutchence/",
+    "https://github.com/playcanvas/engine",
+    "https://blog.playcanvas.com/building-the-grace-cathedral-experience"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1v4e576",
+    "saved_kind": "post",
+    "post_id": "1v4e576",
+    "comment_id": null,
+    "subreddit": "GaussianSplatting",
+    "flair": "🧪 I built a thing",
+    "posted_at": "2026-07-23T13:36:05+00:00",
+    "score_at_capture": 368,
+    "comment_count_at_capture": 14,
+    "comments_captured_from_api": 14,
+    "thread_comments_returned": 14,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:32+00:00"
+  }
+}

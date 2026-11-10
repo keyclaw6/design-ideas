@@ -1,0 +1,43 @@
+{
+  "id": "reddit-1w37d9y",
+  "url": "https://www.reddit.com/r/mcp/comments/1w37d9y/we_built_an_mcp_server_for_cad/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "We built an MCP server for CAD",
+  "authors": [
+    "ricwo"
+  ],
+  "topics": [
+    "mcp",
+    "design"
+  ],
+  "related_urls": [
+    "http://studio.cogram.com/skill.md",
+    "https://studio.cogram.com/view/shr\\_1agb21nd4",
+    "https://studio.cogram.com/view/shr_1agb21nd4",
+    "https://studio.cogram.com/view/shr\\_3tm32c64y",
+    "https://studio.cogram.com/view/shr_3tm32c64y"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1w37d9y",
+    "saved_kind": "post",
+    "post_id": "1w37d9y",
+    "comment_id": null,
+    "subreddit": "mcp",
+    "flair": null,
+    "posted_at": "2026-08-31T08:12:24+00:00",
+    "score_at_capture": 102,
+    "comment_count_at_capture": 18,
+    "comments_captured_from_api": 16,
+    "thread_comments_returned": 16,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:27+00:00"
+  }
+}

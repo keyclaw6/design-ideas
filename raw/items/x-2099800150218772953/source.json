@@ -1,0 +1,36 @@
+{
+  "id": "x-2099800150218772953",
+  "url": "https://x.com/denicmarko/status/2099800150218772953",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:37:09Z",
+  "title": "This is my website. Guess the stack.",
+  "authors": [
+    "Marko Denic (@denicmarko)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://markodenic.tech/",
+    "http://activebuilders.dev"
+  ],
+  "media": [
+    "media/media_0.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099800150218772953",
+    "author_handle": "denicmarko",
+    "migrated_v2": true,
+    "created_at": "2026-09-15T09:59:02Z",
+    "likes": 847,
+    "replies": 371,
+    "retweets": 9,
+    "bookmarks": 284,
+    "quotes": 12,
+    "views": 141085,
+    "fetch": "api.fxtwitter.com + agent-browser bridge replies",
+    "filtered": true,
+    "category_note": "'Guess the stack' engagement game; no artifact captured.",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

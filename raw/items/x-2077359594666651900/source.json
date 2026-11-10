@@ -3,7 +3,7 @@
   "url": "https://x.com/AiandTechHub/status/2077359594666651900",
   "source_type": "x",
   "captured_at": "2026-09-04T06:49:23Z",
-  "title": "A man spends 50 years teaching at MIT. He knows his time is running out. So he records one last lecture — everything he ",
+  "title": "A man spends 50 years teaching at MIT. He knows his time is running out. So he records one last lecture \u2014 everything he ",
   "authors": [
     "Raja Chichulkar (@AiandTechHub)"
   ],
@@ -20,7 +20,8 @@
       "x-2080856252687745093",
       "web-chatgpt-training"
     ],
-    "category_note": "Engagement-bait ‘last MIT lecture’ with no URL or technique.",
-    "filtered": true
+    "category_note": "Engagement-bait \u2018last MIT lecture\u2019 with no URL or technique.",
+    "filtered": true,
+    "migrated_v2": true
   }
 }

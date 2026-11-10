@@ -1,0 +1,27 @@
+{
+  "id": "x-2099984561451028913",
+  "url": "https://x.com/NousResearch/status/2099984561451028913",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:28:31Z",
+  "title": "New blog post: we had a million lines of Python to clean up — 1,393 subagents, 19 hours, 34.4% smaller",
+  "authors": [
+    "Nous Research (@NousResearch)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://nousresearch.com/refactoring-hermes-with-1393-agents"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099984561451028913",
+    "author_handle": "NousResearch",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

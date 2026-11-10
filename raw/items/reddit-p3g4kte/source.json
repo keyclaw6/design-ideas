@@ -1,0 +1,39 @@
+{
+  "id": "reddit-p3g4kte",
+  "url": "https://www.reddit.com/r/homelab/comments/1vn6mlo/cheap_kvm_options/p3g4kte/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Cheap KVM options",
+  "authors": [
+    "_moldu",
+    "n_dion"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://www.reddit.com/r/homelab/comments/1vn6mlo/cheap_kvm_options/"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t1_p3g4kte",
+    "saved_kind": "comment",
+    "post_id": "1vn6mlo",
+    "comment_id": "p3g4kte",
+    "subreddit": "homelab",
+    "flair": "Discussion",
+    "posted_at": "2026-08-13T10:11:43+00:00",
+    "score_at_capture": 3,
+    "comment_count_at_capture": 26,
+    "comments_captured_from_api": 23,
+    "thread_comments_returned": 23,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "parent_post_author": "_moldu",
+    "saved_comment_author": "n_dion",
+    "saved_comment_posted_at": "2026-08-13T14:09:17+00:00",
+    "unsaved_at": "2026-10-15T10:44:24+00:00"
+  }
+}

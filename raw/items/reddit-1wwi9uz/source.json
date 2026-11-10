@@ -1,0 +1,40 @@
+{
+  "id": "reddit-1wwi9uz",
+  "url": "https://www.reddit.com/r/CloudFlare/comments/1wwi9uz/you_can_now_host_unlimited_custom_domain_emails/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "You can now host unlimited custom domain emails for free",
+  "authors": [
+    "hieunc"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/hieunc229/mailflare"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1wwi9uz",
+    "saved_kind": "post",
+    "post_id": "1wwi9uz",
+    "comment_id": null,
+    "subreddit": "CloudFlare",
+    "flair": "Community",
+    "posted_at": "2026-10-03T08:42:40+00:00",
+    "score_at_capture": 1376,
+    "comment_count_at_capture": 177,
+    "comments_captured_from_api": 165,
+    "thread_comments_returned": 165,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "comments_expanded_from_morechildren": 73,
+    "more_nodes_remaining": 0,
+    "unsaved_at": "2026-10-15T10:44:19+00:00"
+  }
+}

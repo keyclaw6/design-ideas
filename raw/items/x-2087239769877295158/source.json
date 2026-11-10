@@ -23,6 +23,7 @@
       "github-google-labs-code-design-md",
       "web-davidgasquez-context-engineering"
     ],
-    "category_note": "Sentrux: Rust binary, plugin languages, live treemap + one quality score for agents."
+    "category_note": "Sentrux: Rust binary, plugin languages, live treemap + one quality score for agents.",
+    "migrated_v2": true
   }
 }

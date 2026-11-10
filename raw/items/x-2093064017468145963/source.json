@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2093064017468145963",
     "author_handle": "abyssallD",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,49 @@
+{
+  "id": "x-2109646772347777364",
+  "url": "https://x.com/jakezward/status/2109646772347777364",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "2,400 people bookmarked this, so I turned the entire process into a one-page SOP.",
+  "authors": [
+    "Jake Ward (@jakezward)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "http://Mentions.so"
+  ],
+  "media": [
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109646772347777364",
+    "author_handle": "jakezward",
+    "posted_at": "2026-10-12T14:06:00+00:00",
+    "metrics": {
+      "views": 11608,
+      "likes": 129,
+      "replies": 22,
+      "retweets": 13,
+      "bookmarks": 319,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 9,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUbWeLZXUAEWeuB.jpg?name=orig"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "2,400 people bookmarked this, so I turned the entire process into a one-page SOP.\n\nHere's my 6-step process (and prompts) for ranking in Google's AI Overviews:\n\n1. Pick one search you actually want to win\n\nIdeally a buying-intent query that already triggers an AI Overview.\n\n2. Track how Google answers it\n\nCollect the AI Overview over 7+ days.\n\nYou can do this in 2 ways:\n\nFREE\n\nSearch it manually every day and save:\n\n- The full answer\n- Citations\n- Date\n\nPAID\n\nAdd the prompt to a tool like http://Mentions.so and automatically track the answers + citations over time.\n\n3. Find what keeps showing up\n\nPaste all the answers into ChatGPT or Claude and add the following prompt:\n\n--\n\nAnalyse these Google AI Overview answers and find the patterns that appear across them.\n\nIdentify:\n\n- Recurring claims\n- Repeated entities\n- Common sources\n- Common answer formats\n- Repeated information/order\n- Major differences\n\nFor each pattern, show how often it appears (e.g. 8/10 answers).\n\nThen summarise the most consistent patterns Google seems to favour.\n\n--\n\nYou’re basically building a picture of what Google consistently includes for that search.\n\n4. Find what Google is rewarding\n\nNow study the pages that get cited most frequently by using the following prompt:\n\n--\n\nAnalyse these pages that Google cites in the AI Overview and tell me what they have in common.\n\n[paste URLs]\n\nFocus on:\n\n- How quickly they answer the question\n- Topics and entities they cover\n- How they structure the information\n- What evidence, data or examples they include\n- Whether they use lists, tables, comparisons or steps\n- What gaps or differences exist between them\n\nThen summarise:\n\n1. The main patterns across the cited pages\n2. What Google seems to be rewarding\n3. What a better page should include to compete\n\n--\n\nYou want to understand both what they have in common AND what’s missing.\n\n5. Build something better\n\nUse everything you found to create or improve your page.\n\n- Cover the important topics\n- Include the important entities\n- Use the right format\n- Answer questions immediately\n- Make the information incredibly clear\n\nThen give Google something NEW to cite:\n\n- Original data\n- First-hand experience\n- Better examples\n- New statistics\n- Better comparisons\n- Useful tables\n- Questions nobody else answered\n\nDon’t just copy what’s already winning, use it as the baseline and then make yours better.\n\n6. Publish and track\n\nMonitor the same search over time.\n\n- Does your page start appearing?\n- Which sections seem to perform?\n- What sources keep winning?\n- What changes in the AI Overview?\n\nThen use what you learn to keep improving the page.",
+    "fx_raw_text": "2,400 people bookmarked this, so I turned the entire process into a one-page SOP.\n\nHere's my 6-step process (and prompts) for ranking in Google's AI Overviews:\n\n1. Pick one search you actually want to win\n\nIdeally a buying-intent query that already triggers an AI Overview.\n\n2. Track how Google answers it\n\nCollect the AI Overview over 7+ days.\n\nYou can do this in 2 ways:\n\nFREE\n\nSearch it manually every day and save:\n\n- The full answer\n- Citations\n- Date\n\nPAID\n\nAdd the prompt to a tool like https://t.co/IbVSm7Cw9R and automatically track the answers + citations over time.\n\n3. Find what keeps showing up\n\nPaste all the answers into ChatGPT or Claude and add the following prompt:\n\n--\n\nAnalyse these Google AI Overview answers and find the patterns that appear across them.\n\nIdentify:\n\n- Recurring claims\n- Repeated entities\n- Common sources\n- Common answer formats\n- Repeated information/order\n- Major differences\n\nFor each pattern, show how often it appears (e.g. 8/10 answers).\n\nThen summarise the most consistent patterns Google seems to favour.\n\n--\n\nYou’re basically building a picture of what Google consistently includes for that search.\n\n4. Find what Google is rewarding\n\nNow study the pages that get cited most frequently by using the following prompt:\n\n--\n\nAnalyse these pages that Google cites in the AI Overview and tell me what they have in common.\n\n[paste URLs]\n\nFocus on:\n\n- How quickly they answer the question\n- Topics and entities they cover\n- How they structure the information\n- What evidence, data or examples they include\n- Whether they use lists, tables, comparisons or steps\n- What gaps or differences exist between them\n\nThen summarise:\n\n1. The main patterns across the cited pages\n2. What Google seems to be rewarding\n3. What a better page should include to compete\n\n--\n\nYou want to understand both what they have in common AND what’s missing.\n\n5. Build something better\n\nUse everything you found to create or improve your page.\n\n- Cover the important topics\n- Include the important entities\n- Use the right format\n- Answer questions immediately\n- Make the information incredibly clear\n\nThen give Google something NEW to cite:\n\n- Original data\n- First-hand experience\n- Better examples\n- New statistics\n- Better comparisons\n- Useful tables\n- Questions nobody else answered\n\nDon’t just copy what’s already winning, use it as the baseline and then make yours better.\n\n6. Publish and track\n\nMonitor the same search over time.\n\n- Does your page start appearing?\n- Which sections seem to perform?\n- What sources keep winning?\n- What changes in the AI Overview?\n\nThen use what you learn to keep improving the page.",
+    "quoted_post": {
+      "id": "2107453596107219294",
+      "url": "https://x.com/jakezward/status/2107453596107219294",
+      "author": "Jake Ward (@jakezward)",
+      "text": "I’m begging you:\n\n- Pick ONE Google AI Overview\n- Track how it changes over 7 days\n- Find the patterns with AI\n- Reverse engineer the citations\n- Build your page around the findings\n\nI’ve used this process to rank in 1,000s of AI Overviews.\n\nHere’s how it works:"
+    },
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:25.347414+00:00"
+  }
+}

@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2091934379648110784",
     "author_handle": "ImranUxi",
-    "category_note": "X pointer to styles.refero.design; primary web-styles-refero-design"
+    "category_note": "X pointer to styles.refero.design; primary web-styles-refero-design",
+    "migrated_v2": true
   }
 }

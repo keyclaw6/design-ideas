@@ -1,0 +1,36 @@
+{
+  "id": "x-2096492760471683250",
+  "url": "https://x.com/codexneo4/status/2096492760471683250",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:58:12Z",
+  "title": "GPT-6 Astra\u3092\u4f7f\u3046\u306a\u3089\u3001 \u3053\u308c\u306f\u7d76\u5bfe\u306b\u6709\u52b9\u5316\u3057\u305f\u65b9\u304c\u3044\u3044\u3002 \ud83d\udc47 ~/.codex/config.toml \u306b\u4ee5\u4e0b\u3092\u8ffd\u52a0 [features.context_management] experimental_mode = true ",
+  "authors": [
+    "@codexneo4"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096492760471683250",
+    "author_handle": "codexneo4",
+    "author_name": "Codex\u7814\u7a76\u30e9\u30dc",
+    "author_bio": "Codex\u306b\u3064\u3044\u306624\u6642\u9593\u7814\u7a76\u4e2d\n\u4e0a\u5834\u4f01\u696dAI\u30b7\u30b9\u30c6\u30e0\u30bf\u30a4\u30a2\u30c3\u30d7\u4f01\u753b\u53c2\u753b\nAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u00d7Codex\u74b0\u5883\u69cb\u7bc9\u4e2d",
+    "created_at": "Sun Sep 06 06:56:39 +0000 2026",
+    "created_timestamp": 1788677799,
+    "likes": 2184,
+    "retweets": 193,
+    "replies": 11,
+    "views": 290947,
+    "bookmarks": 3393,
+    "quotes": 13,
+    "lang": "ja",
+    "possibly_sensitive": null,
+    "quoted": "",
+    "capture_method": "fxtwitter",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T12:08:41Z"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "x-2109424625742713341",
+  "url": "https://x.com/SolutionB2u/status/2109424625742713341",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "How to make QR code concept https://t.co/7rczv4yohM",
+  "authors": [
+    "Solutionb (@SolutionB2u)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/animation-01.mp4",
+    "media/animation-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109424625742713341",
+    "author_handle": "SolutionB2u",
+    "posted_at": "2026-10-11T23:23:16+00:00",
+    "metrics": {
+      "views": 215049,
+      "likes": 4391,
+      "replies": 53,
+      "retweets": 241,
+      "bookmarks": 2508,
+      "quotes": 26
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109421796604735490/vid/avc1/720x1280/nejXWoQcD1_WylR_.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109421796604735490/img/Lm50pe4J_AokuOu-.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUZymSIbgAA7URP.mp4",
+      "media/animation-02.mp4": "https://video.twimg.com/tweet_video/HUbiWcMXsAAn41t.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "How to make QR code concept",
+    "fx_raw_text": "How to make QR code concept https://t.co/7rczv4yohM",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2098108930002133419",
+      "2109622359007088957"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:47.448151+00:00"
+  }
+}

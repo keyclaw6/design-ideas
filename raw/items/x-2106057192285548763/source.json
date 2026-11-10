@@ -1,0 +1,66 @@
+{
+  "id": "x-2106057192285548763",
+  "url": "https://x.com/trycua/status/2106057192285548763",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "1/ We're reimagining what it means for your agents to work with all your computers.",
+  "authors": [
+    "Cua (@trycua)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://spaces.cua.ai"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4",
+    "media/video-06.mp4",
+    "media/image-02.jpg",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106057192285548763",
+    "author_handle": "trycua",
+    "posted_at": "2026-10-02T16:22:17+00:00",
+    "metrics": {
+      "views": 486842,
+      "likes": 2531,
+      "replies": 126,
+      "retweets": 180,
+      "bookmarks": 3902,
+      "quotes": 85
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2106055991124963328/vid/avc1/1280x720/5MKL09Wx1i6AJMc3.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2106055991124963328/img/G9tOs714LAdeUlo-.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2106049028974575616/vid/avc1/1080x1350/zG4yw549dpFrZqcX.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2106049130199977984/vid/avc1/1080x1350/ZmXn9GelP92of7fv.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2106049239054753794/vid/avc1/1920x1080/AD4juLKJa-pHG6hJ.mp4?tag=29",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2106049331119767552/vid/avc1/1920x1080/n_pxDz70ctX8huq9.mp4?tag=29",
+      "media/video-06.mp4": "https://video.twimg.com/amplify_video/2106049415194595329/vid/avc1/720x900/1k9b7DHhnMccGDa8.mp4?tag=29",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HTpBTIqXgAAhYdN.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTpjD3NXwAA3NWk.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "1/ We're reimagining what it means for your agents to work with all your computers.\n\nToday we're excited to share Cua Spaces, built on Cua Driver and our virtualization stack, rolling out on macOS today.\n\nDownload it now, it's free and source-available: https://spaces.cua.ai",
+    "fx_raw_text": "1/ We're reimagining what it means for your agents to work with all your computers.\n\nToday we're excited to share Cua Spaces, built on Cua Driver and our virtualization stack, rolling out on macOS today.\n\nDownload it now, it's free and source-available: https://t.co/hynYqez0f7",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2110445970504974443",
+      "2098108930002133419",
+      "2092706810285490310"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:23.001521+00:00"
+  }
+}

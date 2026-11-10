@@ -1,0 +1,90 @@
+{
+  "id": "x-2109716261160538324",
+  "url": "https://x.com/Mnilax/status/2109716261160538324",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "is it legal?",
+  "authors": [
+    "Mnimiy (@Mnilax)"
+  ],
+  "topics": [
+    "agent-skills",
+    "mcp",
+    "three-js",
+    "gaussian-splatting"
+  ],
+  "related_urls": [
+    "https://github.com/microsoft/TRELLIS.2",
+    "http://github.com/microsoft/TRELLIS.2",
+    "http://github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
+    "http://github.com/Stability-AI/stable-fast-3d",
+    "http://github.com/meshy-dev/meshy-mcp-server",
+    "http://github.com/ahujasid/mcp-for-blender",
+    "http://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "http://github.com/playcanvas/supersplat",
+    "http://github.com/NVIDIA-Omniverse/kit-usd-agents",
+    "http://github.com/CoplayDev/unity-mcp",
+    "http://github.com/hi-godot/godot-ai",
+    "http://github.com/flopperam/unreal-engine-mcp",
+    "http://github.com/playcanvas/editor-mcp-server",
+    "http://github.com/mrdoob/three.js",
+    "http://github.com/pmndrs/react-three-fiber",
+    "http://github.com/CloudAI-X/threejs-skills",
+    "http://github.com/AbubakrChan/product-launch-motion",
+    "http://github.com/charlie947/motion-graphics-skills",
+    "http://github.com/howseen-ai/claude-motion-design",
+    "http://github.com/nateherkai/hyperframes-student-kit",
+    "http://github.com/Barty-Bart/motion-graphics",
+    "http://github.com/cth9191/animate",
+    "http://github.com/whaleyxbt/claude-motion",
+    "http://github.com/haidrrrry/claude-remotion-skill",
+    "http://github.com/motiondivision/motion",
+    "http://github.com/199-biotechnologies/motion-dev-animations-skill",
+    "http://github.com/heygen-com/hyperframes",
+    "http://github.com/remotion-dev/remotion",
+    "http://github.com/remotion-dev/skills",
+    "http://github.com/greensock/gsap-skills",
+    "http://github.com/LottieFiles/motion-design-skill"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109716261160538324",
+    "author_handle": "Mnilax",
+    "posted_at": "2026-10-12T18:42:07+00:00",
+    "metrics": {
+      "views": 193708,
+      "likes": 891,
+      "replies": 18,
+      "retweets": 90,
+      "bookmarks": 2027,
+      "quotes": 7
+    },
+    "articles": [],
+    "reply_records_captured": 20,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109714871826702336/vid/avc1/720x1280/oho22mMSyj8UY9et.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109714871826702336/img/6DS5SlfAyKFz3EVI.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "is it legal?\n\nNVIDIA and Microsoft just open-sourced the pieces of a full 3D studio for Opus 5.5\n\n15 github repos, sorted by what you want to make:\n\nGENERATE 3D ASSETS\n\n01. TRELLIS.2 by Microsoft:\nhttp://github.com/microsoft/TRELLIS.2\n-> one image in, a fully textured 3D asset out, about 3 seconds on an H100\n\n02. Hunyuan3D-2.1 by Tencent:\nhttp://github.com/Tencent-Hunyuan/Hunyuan3D-2.1\n-> production-ready 3D assets with PBR textures\n\n03. stable-fast-3d by Stability AI:\nhttp://github.com/Stability-AI/stable-fast-3d\n-> one photo to a clean UV-unwrapped mesh, built for speed\n\n04. meshy-mcp-server by Meshy:\nhttp://github.com/meshy-dev/meshy-mcp-server\n-> text or image to 3D, then remesh, retexture, rig and animate from your agent\n\nBUILD SCENES AND WORLDS\n\n05. mcp-for-blender:\nhttp://github.com/ahujasid/mcp-for-blender\n-> prompt-driven modeling, scene building and edits in a live Blender\n\n06. HY-World-2.0 by Tencent:\nhttp://github.com/Tencent-Hunyuan/HY-World-2.0\n-> text or a single image to a navigable 3D world\n\n07. supersplat by PlayCanvas:\nhttp://github.com/playcanvas/supersplat\n-> inspect, edit, optimize and publish 3D Gaussian splats in the browser\n\n08. kit-usd-agents by NVIDIA:\nhttp://github.com/NVIDIA-Omniverse/kit-usd-agents\n-> edit Omniverse USD scenes in plain English, plus MCP servers for Kit and Isaac Sim\n\nMAKE A GAME\n\n09. unity-mcp:\nhttp://github.com/CoplayDev/unity-mcp\n-> run the Unity Editor in plain English: scenes, C# scripts, assets, tests, builds\n\n10. godot-ai:\nhttp://github.com/hi-godot/godot-ai\n-> 46 tools for a live Godot editor: scenes, scripts, signals, UI, particles\n\n11. unreal-engine-mcp:\nhttp://github.com/flopperam/unreal-engine-mcp\n-> drive a live Unreal Editor: actors, world building, Blueprints\n\n3D ON THE WEB\n\n12. editor-mcp-server by PlayCanvas:\nhttp://github.com/playcanvas/editor-mcp-server\n-> your agent builds PlayCanvas scenes and checks they actually run\n\n13. three.js:\nhttp://github.com/mrdoob/three.js\n-> the JavaScript 3D library itself, 115k stars on GitHub\n\n14. react-three-fiber:\nhttp://github.com/pmndrs/react-three-fiber\n-> build three.js scenes as reusable React components\n\n15. threejs-skills:\nhttp://github.com/CloudAI-X/threejs-skills\n-> 10 three.js skills for Claude Code, from shaders to post-processing\n\na full 3D pipeline, and every piece of it lives on github",
+    "fx_raw_text": "is it legal?\n\nNVIDIA and Microsoft just open-sourced the pieces of a full 3D studio for Opus 5.5\n\n15 github repos, sorted by what you want to make:\n\nGENERATE 3D ASSETS\n\n01. TRELLIS.2 by Microsoft:\nhttps://t.co/xIEfhcb8uF\n-> one image in, a fully textured 3D asset out, about 3 seconds on an H100\n\n02. Hunyuan3D-2.1 by Tencent:\nhttps://t.co/HhRu7hYP9k\n-> production-ready 3D assets with PBR textures\n\n03. stable-fast-3d by Stability AI:\nhttps://t.co/KD6DNWrndc\n-> one photo to a clean UV-unwrapped mesh, built for speed\n\n04. meshy-mcp-server by Meshy:\nhttps://t.co/g7IvpGY7Xv\n-> text or image to 3D, then remesh, retexture, rig and animate from your agent\n\nBUILD SCENES AND WORLDS\n\n05. mcp-for-blender:\nhttps://t.co/ojhMbppSRp\n-> prompt-driven modeling, scene building and edits in a live Blender\n\n06. HY-World-2.0 by Tencent:\nhttps://t.co/pZgRpZ3ZKg\n-> text or a single image to a navigable 3D world\n\n07. supersplat by PlayCanvas:\nhttps://t.co/k4MD9aHvec\n-> inspect, edit, optimize and publish 3D Gaussian splats in the browser\n\n08. kit-usd-agents by NVIDIA:\nhttps://t.co/d1FpRtAxmN\n-> edit Omniverse USD scenes in plain English, plus MCP servers for Kit and Isaac Sim\n\nMAKE A GAME\n\n09. unity-mcp:\nhttps://t.co/okOfixxJBv\n-> run the Unity Editor in plain English: scenes, C# scripts, assets, tests, builds\n\n10. godot-ai:\nhttps://t.co/sDjnlKlbfA\n-> 46 tools for a live Godot editor: scenes, scripts, signals, UI, particles\n\n11. unreal-engine-mcp:\nhttps://t.co/5l2dDCrCkJ\n-> drive a live Unreal Editor: actors, world building, Blueprints\n\n3D ON THE WEB\n\n12. editor-mcp-server by PlayCanvas:\nhttps://t.co/fyG5FfVaZl\n-> your agent builds PlayCanvas scenes and checks they actually run\n\n13. three.js:\nhttps://t.co/ZOfnN7cRJK\n-> the JavaScript 3D library itself, 115k stars on GitHub\n\n14. react-three-fiber:\nhttps://t.co/vE5khKQiLI\n-> build three.js scenes as reusable React components\n\n15. threejs-skills:\nhttps://t.co/xx4JzZbns2\n-> 10 three.js skills for Claude Code, from shaders to post-processing\n\na full 3D pipeline, and every piece of it lives on github",
+    "quoted_post": {
+      "id": "2109314840057565345",
+      "url": "https://x.com/Mnilax/status/2109314840057565345",
+      "author": "Mnimiy (@Mnilax)",
+      "text": "it's absolutely gold\n\nex-Figma Design Lead dropped a list of 15 github repos that turn Opus 5.5 into a full motion design studio\n\nSHIP A LAUNCH VIDEO\n\n01. product-launch-motion:\nhttp://github.com/AbubakrChan/product-launch-motion\n-> point it at your product, get script, voiceover, camera moves and film grade\n\n02. motion-graphics-skills:\nhttp://github.com/charlie947/motion-graphics-skills\n-> 15 skills for launch videos, animated charts and reels, zero After Effects\n\n03. claude-motion-design:\nhttp://github.com/howseen-ai/claude-motion-design\n-> every cut lands on the beat, its demo film took 5 iterations on Opus 5.5\n\nEDIT YOUR OWN FOOTAGE\n\n04. hyperframes-student-kit:\nhttp://github.com/nateherkai/hyperframes-student-kit\n-> drop in your footage, it cuts dead air and mistakes, then adds motion graphics\n\n05. motion-graphics:\nhttp://github.com/Barty-Bart/motion-graphics\n-> motion B-roll timed to your words, and it cuts you out of the background\n\nMAKE ANIMATED SHORTS\n\n06. animate:\nhttp://github.com/cth9191/animate\n-> explainers in 7 styles, cut paper to riso to pixel art, storyboard first\n\n07. claude-motion:\nhttp://github.com/whaleyxbt/claude-motion\n-> teaches Claude taste, makes it check its own frames, adds a sound engine\n\n08. claude-remotion-skill:\nhttp://github.com/haidrrrry/claude-remotion-skill\n-> fixes the flat fades and stiff motion most AI videos ship with\n\nANIMATE YOUR SITE\n\n09. motion:\nhttp://github.com/motiondivision/motion\n-> buttons, cards and page transitions for React, Vue and plain JS\n\n10. motion-dev-animations-skill:\nhttp://github.com/199-biotechnologies/motion-dev-animations-skill\n-> one sentence and Claude Code animates your site\n\nOFFICIAL BUILDING BLOCKS\n\n11. hyperframes:\nhttp://github.com/heygen-com/hyperframes\n-> your agent writes HTML, HyperFrames renders it as video\n\n12. remotion:\nhttp://github.com/remotion-dev/remotion\n-> turn an idea into a video straight from your coding agent\n\n13. remotion skills:\nhttp://github.com/remotion-dev/skills\n-> Remotion's official best practices for Claude Code, Codex and Cursor\n\n14. gsap-skills:\nhttp://github.com/greensock/gsap-skills\n-> official GSAP skills, the engine under the launch and editing kits above\n\n15. motion-design-skill by LottieFiles:\nhttp://github.com/LottieFiles/motion-design-skill\n-> Disney's 12 animation principles, rewritten for AI agents\n\nthe map picks your first install in 3 questions"
+    },
+    "unverified_timeline_record_ids": [
+      "2109727089599340560",
+      "2072319807165542839",
+      "2092265878276427952"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:37.828931+00:00"
+  }
+}

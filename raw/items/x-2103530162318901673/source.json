@@ -1,0 +1,60 @@
+{
+  "id": "x-2103530162318901673",
+  "url": "https://x.com/jochenmadler/status/2103530162318901673",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "We trained a model to predict AI-written blog posts from structural features - and discovered the shape of slop.",
+  "authors": [
+    "Jochen Madler (@jochenmadler)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://arxiv.org/abs/2609.15369"
+  ],
+  "media": [
+    "media/image-01.png",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103530162318901673",
+    "author_handle": "jochenmadler",
+    "posted_at": "2026-09-25T17:00:47+00:00",
+    "metrics": {
+      "views": 502450,
+      "likes": 5477,
+      "replies": 164,
+      "retweets": 410,
+      "bookmarks": 4002,
+      "quotes": 104
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.png": "https://pbs.twimg.com/media/HTE9Y9BWQAAWBGK.png?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HTGShR2WoAAwU32.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTISJgfacAAZ3qy.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "We trained a model to predict AI-written blog posts from structural features - and discovered the shape of slop.\n\nOn posts it had never seen, it told AI and human apart with 98% accuracy, getting only 19 of 1,740 wrong.\n\nPaper and code: https://arxiv.org/abs/2609.15369",
+    "fx_raw_text": "We trained a model to predict AI-written blog posts from structural features - and discovered the shape of slop.\n\nOn posts it had never seen, it told AI and human apart with 98% accuracy, getting only 19 of 1,740 wrong.\n\nPaper and code: https://t.co/knexA6QVyE https://t.co/SH9i9fSRyv",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740",
+      "2103679292236517652",
+      "2090814619275436444",
+      "2095775916869767477"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:52.384617+00:00"
+  }
+}

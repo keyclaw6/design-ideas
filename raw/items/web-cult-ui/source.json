@@ -24,6 +24,7 @@
   ],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "retry": "jina",
     "error": "Vercel Security Checkpoint 429 on r.jina.ai; content from GitHub README via gh",
     "github": "nolly-studio/cult-ui",

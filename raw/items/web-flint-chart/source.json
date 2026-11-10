@@ -22,6 +22,7 @@
   ],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "version_note": "Flint 0.5.1 \u2014 visual themes for Plotly, Vega-Lite Calendar Heatmap",
     "related_items": [
       "github-antvis-infographic",

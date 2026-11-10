@@ -1,0 +1,36 @@
+{
+  "id": "x-2099534827208986739",
+  "url": "https://x.com/samigrows/status/2099534827208986739",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:37:09Z",
+  "title": "You're losing traffic and don't know why. 😩 It gets worse: Competitors keep outranking you Every \"SEO tip\" article says",
+  "authors": [
+    "Sami | SEO AI (@samigrows)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://chatseo.app/?ref=muhammadsami",
+    "https://x.com/samigrows/status/2099524324218765775"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099534827208986739",
+    "author_handle": "samigrows",
+    "migrated_v2": true,
+    "created_at": "2026-09-14T16:24:44Z",
+    "likes": 6,
+    "replies": 2,
+    "retweets": 0,
+    "bookmarks": 6,
+    "quotes": 0,
+    "views": 1138,
+    "fetch": "api.fxtwitter.com + agent-browser bridge replies",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -27,6 +27,7 @@
   ],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "unsaved_at": "2026-09-02T17:31:57Z",
     "unsaved_via": "cursor-ide-browser bookmarks pane JS click",
     "tweet_id": "2094961942058418268",

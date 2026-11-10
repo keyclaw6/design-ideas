@@ -27,6 +27,7 @@
       "x-2088016749849682120",
       "x-2088590355440476343"
     ],
-    "category_note": "Mermaid→SVG/ASCII agent skill, no DOM"
+    "category_note": "Mermaid\u2192SVG/ASCII agent skill, no DOM",
+    "migrated_v2": true
   }
 }

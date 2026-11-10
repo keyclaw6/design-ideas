@@ -1,0 +1,59 @@
+{
+  "id": "x-2109671433521815772",
+  "url": "https://x.com/Jakubantalik/status/2109671433521815772",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.",
+  "authors": [
+    "Jakub Antalik (@Jakubantalik)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://transitions.dev"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109671433521815772",
+    "author_handle": "Jakubantalik",
+    "posted_at": "2026-10-12T15:44:00+00:00",
+    "metrics": {
+      "views": 178704,
+      "likes": 3992,
+      "replies": 69,
+      "retweets": 202,
+      "bookmarks": 5545,
+      "quotes": 30
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109652229980315648/vid/avc1/1066x720/BIsgKP3t0sQc3oOY.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109652229980315648/img/KFUUdBAT-dZlfP2g.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2109680986246008832/vid/avc1/2000x1500/ymp_zetRnNspcll9.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110131194218115073/vid/avc1/2560x1920/uKUjycoqvqSnXa3N.mp4?tag=29",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUe07l2asAAgSJe.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.\n\nThese UI examples are built with https://transitions.dev UI Agent.",
+    "fx_raw_text": "Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.\n\nThese UI examples are built with https://t.co/eSmFziLSx9 UI Agent. https://t.co/O9plXI6Vev",
+    "unverified_timeline_record_ids": [
+      "2098108930002133419",
+      "2068115197718593741",
+      "2099964624766730251"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:28.468000+00:00"
+  }
+}

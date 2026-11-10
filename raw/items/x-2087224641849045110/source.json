@@ -19,7 +19,8 @@
       "web-obscura-sh",
       "web-cloudflare-kitesurf"
     ],
-    "category_note": "Empty Stagehanddev capture — no text, no media. Filter.",
-    "filtered": true
+    "category_note": "Empty Stagehanddev capture \u2014 no text, no media. Filter.",
+    "filtered": true,
+    "migrated_v2": true
   }
 }

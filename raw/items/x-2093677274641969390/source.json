@@ -17,6 +17,7 @@
     "tweet_id": "2093677274641969390",
     "author_handle": "imryven",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Self-maintaining knowledge compiler (RAW/WIKI/CLAUDE.md + ingest/write/review automations)."
+    "category_note": "Self-maintaining knowledge compiler (RAW/WIKI/CLAUDE.md + ingest/write/review automations).",
+    "migrated_v2": true
   }
 }

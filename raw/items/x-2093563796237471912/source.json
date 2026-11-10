@@ -19,6 +19,7 @@
     "tweet_id": "2093563796237471912",
     "author_handle": "rsasaki0109",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "GaussianGPT: autoregressive 3DGS scene generation (ECCV 2026)."
+    "category_note": "GaussianGPT: autoregressive 3DGS scene generation (ECCV 2026).",
+    "migrated_v2": true
   }
 }

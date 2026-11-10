@@ -15,6 +15,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 5056,
     "forks": 437,
     "license": "MIT",

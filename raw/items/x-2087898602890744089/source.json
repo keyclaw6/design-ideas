@@ -28,6 +28,7 @@
       "web-blume-codes",
       "github-punkpeye-awesome-mcp-servers"
     ],
-    "category_note": "OSS Grok Bot alternative on pi harness"
+    "category_note": "OSS Grok Bot alternative on pi harness",
+    "migrated_v2": true
   }
 }

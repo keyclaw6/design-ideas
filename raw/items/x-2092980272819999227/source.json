@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2092980272819999227",
     "author_handle": "jacob_posel",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "migrated_v2": true
   }
 }

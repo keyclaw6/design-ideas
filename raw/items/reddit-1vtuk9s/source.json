@@ -1,0 +1,39 @@
+{
+  "id": "reddit-1vtuk9s",
+  "url": "https://www.reddit.com/r/claudeskills/comments/1vtuk9s/ai_skill_that_stops_agents_from_writing_patchwork/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "AI skill that stops agents from writing patchwork code. Claude's structural-fix rate went from 0% to 56%.",
+  "authors": [
+    "Greatermoose"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "http://SKILL.md",
+    "https://github.com/Avtr99/antidote"
+  ],
+  "media": [
+    "media/01-reddit-media.jpeg",
+    "media/02-reddit-media.jpeg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1vtuk9s",
+    "saved_kind": "post",
+    "post_id": "1vtuk9s",
+    "comment_id": null,
+    "subreddit": "claudeskills",
+    "flair": "Skill Share",
+    "posted_at": "2026-08-20T20:10:08+00:00",
+    "score_at_capture": 64,
+    "comment_count_at_capture": 2,
+    "comments_captured_from_api": 2,
+    "thread_comments_returned": 2,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:31+00:00"
+  }
+}

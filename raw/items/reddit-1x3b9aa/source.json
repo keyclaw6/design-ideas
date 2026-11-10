@@ -1,0 +1,35 @@
+{
+  "id": "reddit-1x3b9aa",
+  "url": "https://www.reddit.com/r/ClaudeCode/comments/1x3b9aa/negative_parallelism_the_biggest_culprit_that/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Negative Parallelism: The biggest culprit that makes claude \"sound like an LLM\" (I definitely didn't use Claude to write this)",
+  "authors": [
+    "out-of-phase"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://billion-dollar-company.vercel.app"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x3b9aa",
+    "saved_kind": "post",
+    "post_id": "1x3b9aa",
+    "comment_id": null,
+    "subreddit": "ClaudeCode",
+    "flair": "Humor",
+    "posted_at": "2026-10-11T15:36:49+00:00",
+    "score_at_capture": 141,
+    "comment_count_at_capture": 22,
+    "comments_captured_from_api": 21,
+    "thread_comments_returned": 21,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:12+00:00"
+  }
+}

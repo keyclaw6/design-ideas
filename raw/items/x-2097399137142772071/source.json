@@ -1,0 +1,44 @@
+{
+  "id": "x-2097399137142772071",
+  "url": "https://x.com/charlierguo/status/2097399137142772071",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "GPT-Image 2.5 is good enough to do stop motion animation now!",
+  "authors": [
+    "Charlie Guo (@charlierguo)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097399137142772071",
+    "author_handle": "charlierguo",
+    "author_name": "Charlie Guo",
+    "author_bio": "Developer Experience @OpenAI. Author of Artificial Ignorance, opinions are my own.",
+    "created_at": "Tue Sep 08 18:58:16 +0000 2026",
+    "likes": 7021,
+    "replies": 203,
+    "retweets": 312,
+    "views": 1022291,
+    "bookmarks": 2668,
+    "quotes": 127,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 61,
+    "replies_added": 12,
+    "replies_thread": 0,
+    "replies_comments": 12,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

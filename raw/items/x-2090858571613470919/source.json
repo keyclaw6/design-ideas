@@ -16,6 +16,7 @@
   "extra": {
     "tweet_id": "2090858571613470919",
     "author_handle": "rauchg",
-    "category_note": "is-agentic.com scoring loop, not a skill pack"
+    "category_note": "is-agentic.com scoring loop, not a skill pack",
+    "migrated_v2": true
   }
 }

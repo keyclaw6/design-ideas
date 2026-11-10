@@ -21,6 +21,7 @@
     "category_note": "Follow-up Qwen expert-on-disk streaming; same unrelated ML-infra lane as x-2093160779960774982.",
     "related_items": [
       "x-2093160779960774982"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,59 @@
+{
+  "id": "x-2103801891528573089",
+  "url": "https://x.com/anthonyriera/status/2103801891528573089",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "I made a skill if you want to create those nice motion videos too!",
+  "authors": [
+    "Anthony Riera (@anthonyriera)"
+  ],
+  "topics": [
+    "agent-skills",
+    "ui-motion",
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://github.com/Rieranthony/product-film-skill/tree/main",
+    "https://rankhog.com"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103801891528573089",
+    "author_handle": "anthonyriera",
+    "posted_at": "2026-09-26T11:00:32+00:00",
+    "metrics": {
+      "views": 170156,
+      "likes": 1564,
+      "replies": 19,
+      "retweets": 91,
+      "bookmarks": 3283,
+      "quotes": 3
+    },
+    "articles": [],
+    "reply_records_captured": 25,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2104184598045556737/vid/avc1/1080x1920/EP71IJxxyeoeZsIE.mp4?tag=29",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2104045043463901184/vid/avc1/1280x720/ry2U63aDGykU3hzW.mp4?tag=14"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "I made a skill if you want to create those nice motion videos too!\n\nhttps://github.com/Rieranthony/product-film-skill/tree/main\n\nEnjoy",
+    "fx_raw_text": "I made a skill if you want to create those nice motion videos too!\n\nhttps://t.co/uli68sox69\n\nEnjoy",
+    "quoted_post": {
+      "id": "2103784508860305566",
+      "url": "https://x.com/anthonyriera/status/2103784508860305566",
+      "author": "Anthony Riera (@anthonyriera)",
+      "text": "WTF Opus 5.5 is actually insane for product launch videos! 💀\n\nI would have paid $2000+ to have something like this... it was one prompt + 6 iterations to get there.\n\nWill use it on https://rankhog.com landing page!"
+    },
+    "unverified_timeline_record_ids": [
+      "2098108930073465308",
+      "2068115197718593741"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:53:21.639316+00:00"
+  }
+}

@@ -18,6 +18,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "fetch": "r.jina.ai; page may require CAPTCHA for interactive submit",
     "fetch_note": "Static shell captured; form interaction not exercised",
     "related_items": [

@@ -1,0 +1,40 @@
+{
+  "id": "x-2066063057277583700",
+  "url": "https://x.com/RodmanAi/status/2066063057277583700",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "WHAT IF CHATGPT HAD FREE ACCESS TO THE ENTIRE INTERNET? Agent-Reach open-source research",
+  "authors": [
+    "Leonard Rodman (@RodmanAi)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg",
+    "media/media_1.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2066063057277583700",
+    "author_handle": "RodmanAi",
+    "author_name": "Leonard Rodman",
+    "author_id": "1676317602941894657",
+    "created_at": "2026-06-14T07:39:53Z",
+    "likes": 170,
+    "replies": 25,
+    "retweets": 41,
+    "bookmarks": 251,
+    "quotes": 1,
+    "views": 20694,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "25 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

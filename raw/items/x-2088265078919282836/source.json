@@ -26,6 +26,7 @@
       "github-nateherkai-scroll-craft",
       "github-scottstts-threejs-awesome-graphics-agent-skills"
     ],
-    "category_note": "Meng To: Three.js landings with Claude Code + Opus 5"
+    "category_note": "Meng To: Three.js landings with Claude Code + Opus 5",
+    "migrated_v2": true
   }
 }

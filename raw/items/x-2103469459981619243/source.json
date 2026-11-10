@@ -1,0 +1,48 @@
+{
+  "id": "x-2103469459981619243",
+  "url": "https://x.com/samuelcolvin/status/2103469459981619243",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Fuck it, still early but here goes ...",
+  "authors": [
+    "Samuel Colvin (@samuelcolvin)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://pydantic.dev/docs/monty/get-started/"
+  ],
+  "media": [
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103469459981619243",
+    "author_handle": "samuelcolvin",
+    "posted_at": "2026-09-25T12:59:34+00:00",
+    "metrics": {
+      "views": 57041,
+      "likes": 786,
+      "replies": 61,
+      "retweets": 71,
+      "bookmarks": 648,
+      "quotes": 15
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTOn7LwbQAII9hQ.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Fuck it, still early but here goes ...\n\nWe've just released Monty v1 - a Python sandbox that starts in 1 millisecond, not 1.5 seconds.\n\nI just ran 10k sandboxed scripts in 674ms, something that would take a cloud sandbox > 3 hours.\n\nThis removes the biggest drawback of letting agents write code. The future is fast.\n\nEven better, it's open source, you can install it from PyPI, npm or Crates now.\n\nServiced platform coming soon. Please get in touch if you want to be a design partner!\n\nWho should try it?\n\n⚡ if you care about startup time, use Monty\n⚡ if you care about long-lived sessions, use Monty - Monty can be dumped and resumed at any external function call\n⚡ if you care about accessing functions in the agent/host, use Monty - Monty makes it trivial to expose local functions into the sandbox\n⚡ if you care about scale, use Monty - Monty workers use as little as 2MB of memory, meaning you can run thousands of concurrent sandboxes on a single machine\n⚡ if you care about security, use Monty - we've run 3 rounds of bounty program and thousands of researchers have tried to break into our sandbox, meaning it should be secure to run untrusted code\n\nWho should avoid it?\n\n🚫 if you like to take a coffee break while waiting for sandboxes to start, DO NOT use Monty\n🚫 if you enjoy the challenge of routing API requests from sandboxes through your corporate network to access state in your agent without exposing secrets to the sandbox, DO NOT use Monty\n🚫 if your agent really needs to install packages from PyPI, Monty won't help you yet (spoiler: it probably doesn't)\n\nhttps://pydantic.dev/docs/monty/get-started/",
+    "fx_raw_text": "Fuck it, still early but here goes ...\n\nWe've just released Monty v1 - a Python sandbox that starts in 1 millisecond, not 1.5 seconds.\n\nI just ran 10k sandboxed scripts in 674ms, something that would take a cloud sandbox > 3 hours.\n\nThis removes the biggest drawback of letting agents write code. The future is fast.\n\nEven better, it's open source, you can install it from PyPI, npm or Crates now.\n\nServiced platform coming soon. Please get in touch if you want to be a design partner!\n\nWho should try it?\n\n⚡ if you care about startup time, use Monty\n⚡ if you care about long-lived sessions, use Monty - Monty can be dumped and resumed at any external function call\n⚡ if you care about accessing functions in the agent/host, use Monty - Monty makes it trivial to expose local functions into the sandbox\n⚡ if you care about scale, use Monty - Monty workers use as little as 2MB of memory, meaning you can run thousands of concurrent sandboxes on a single machine\n⚡ if you care about security, use Monty - we've run 3 rounds of bounty program and thousands of researchers have tried to break into our sandbox, meaning it should be secure to run untrusted code\n\nWho should avoid it?\n\n🚫 if you like to take a coffee break while waiting for sandboxes to start, DO NOT use Monty\n🚫 if you enjoy the challenge of routing API requests from sandboxes through your corporate network to access state in your agent without exposing secrets to the sandbox, DO NOT use Monty\n🚫 if your agent really needs to install packages from PyPI, Monty won't help you yet (spoiler: it probably doesn't)\n\nhttps://t.co/avO8TWY5gJ",
+    "unverified_timeline_record_ids": [
+      "2103570709096358346",
+      "2103482590128718043"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:44.781361+00:00"
+  }
+}

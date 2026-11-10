@@ -21,6 +21,7 @@
   "unsaved": false,
   "extra": {
     "tweet_id": "2092890365930131920",
-    "author_handle": "LexnLin"
+    "author_handle": "LexnLin",
+    "migrated_v2": true
   }
 }

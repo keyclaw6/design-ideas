@@ -1,0 +1,23 @@
+{
+  "account": "Strange_Tomatillo335",
+  "source": "GET /user/Strange_Tomatillo335/saved.json?limit=100&raw_json=1",
+  "fetched_at": "2026-10-15T08:52:06.907299+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "page": 1,
+      "count": 38,
+      "first_fullname": "t3_1x4vndw",
+      "last_fullname": "t3_dhj1z1",
+      "after": null
+    }
+  ],
+  "total_entries": 38,
+  "types": {
+    "posts": 37,
+    "comments": 1
+  },
+  "terminal_after": null,
+  "exhausted": true,
+  "note": "Only sanitized pagination evidence; no cookies or API response headers."
+}

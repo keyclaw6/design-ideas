@@ -17,6 +17,7 @@
     "tweet_id": "2093654908322951447",
     "author_handle": "rubenhassid",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Claude writing/anti-slop skill pack (writer, editor, ban-AI-words, etc.)."
+    "category_note": "Claude writing/anti-slop skill pack (writer, editor, ban-AI-words, etc.).",
+    "migrated_v2": true
   }
 }

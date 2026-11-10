@@ -20,6 +20,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 132,
     "license": "MIT",
     "language": "Python",

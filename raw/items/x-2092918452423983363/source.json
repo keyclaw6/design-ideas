@@ -17,6 +17,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2092918452423983363",
-    "author_handle": "femke_plantinga"
+    "author_handle": "femke_plantinga",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,55 @@
+{
+  "id": "x-2110339846963355891",
+  "url": "https://x.com/mmmutantQ/status/2110339846963355891",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing Zap!",
+  "authors": [
+    "Yejun Jang (@mmmutantQ)"
+  ],
+  "topics": [
+    "keyboard-pcb"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110339846963355891",
+    "author_handle": "mmmutantQ",
+    "posted_at": "2026-10-14T12:00:02+00:00",
+    "metrics": {
+      "views": 16753,
+      "likes": 508,
+      "replies": 27,
+      "retweets": 29,
+      "bookmarks": 450,
+      "quotes": 2
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110289281503899648/vid/avc1/720x720/3FPrpXZe7lrm4HOf.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2110289281503899648/img/TLWEye3aIRgAkgjT.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUnzN9Ea4AASFBD.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUor0HVbMAA15BU.jpg",
+      "media/image-04.png": "https://pbs.twimg.com/media/HUmLeKqXYAAbC5g.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing Zap!\n\nZap! is an lightning-fast autorouter built to take down AI PCB dev cycle from days to minutes.\n\nAfter parting ways with my co-founder @MrPorkchop720 the company was met with a crisis of having to deliver AnchorCam Stereo (our main product) with no hardware engineers.\n\nI searched all over SF, Shenzhen, and Seoul but could not find engineering firms that could deliver production quality egocentric cameras that meets our exact specifications. I was afraid to tell to the customers about this situation - all I could do in the meanwhile was assemble off-the-shelf boards from partnering companies.\n\nBut now with Zap! I can iterate on the boards myself without hand-routing - after Zap! is done the AI agents are usually able to fix the remaining issues through finishing touches. I actively use it to get AnchorCam Stereo production ready, and hope it enables many more to aim for larger problems that can only be solved through new hardware.\n\nYou can compare Zap!'s performance with other popular routers in the link - it does really well.\n\nI am also working on an automated placer, so stay tuned for the next launch. I'll let you know when AnchorCam Stereo becomes available. To those who ordered and are still waiting, I greatly appreciate your patience and will get back to you as soon as we get our first fully working samples.\n\nAlthough Alex left the company, we remain good friends - he will be launching something exciting soon too, so shoutout to him @MrPorkchop720 \n\n- Yejun",
+    "fx_raw_text": "Introducing Zap!\n\nZap! is an lightning-fast autorouter built to take down AI PCB dev cycle from days to minutes.\n\nAfter parting ways with my co-founder @MrPorkchop720 the company was met with a crisis of having to deliver AnchorCam Stereo (our main product) with no hardware engineers.\n\nI searched all over SF, Shenzhen, and Seoul but could not find engineering firms that could deliver production quality egocentric cameras that meets our exact specifications. I was afraid to tell to the customers about this situation - all I could do in the meanwhile was assemble off-the-shelf boards from partnering companies.\n\nBut now with Zap! I can iterate on the boards myself without hand-routing - after Zap! is done the AI agents are usually able to fix the remaining issues through finishing touches. I actively use it to get AnchorCam Stereo production ready, and hope it enables many more to aim for larger problems that can only be solved through new hardware.\n\nYou can compare Zap!'s performance with other popular routers in the link - it does really well.\n\nI am also working on an automated placer, so stay tuned for the next launch. I'll let you know when AnchorCam Stereo becomes available. To those who ordered and are still waiting, I greatly appreciate your patience and will get back to you as soon as we get our first fully working samples.\n\nAlthough Alex left the company, we remain good friends - he will be launching something exciting soon too, so shoutout to him @MrPorkchop720 \n\n- Yejun",
+    "unverified_timeline_record_ids": [
+      "2091679500094275968",
+      "2098108930002194658",
+      "2098481322268504487"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

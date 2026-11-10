@@ -18,6 +18,7 @@
     "tweet_id": "2093050916953903451",
     "author_handle": "shengkunye",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Free agent web search/fetch vs Exa/Tavily"
+    "category_note": "Free agent web search/fetch vs Exa/Tavily",
+    "migrated_v2": true
   }
 }

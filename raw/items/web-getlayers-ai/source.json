@@ -20,6 +20,7 @@
   ],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "tagline": "AI-native library of templates",
     "related_items": [
       "github-nateherkai-scroll-craft",

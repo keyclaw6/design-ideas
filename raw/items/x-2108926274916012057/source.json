@@ -1,0 +1,52 @@
+{
+  "id": "x-2108926274916012057",
+  "url": "https://x.com/TheMaran/status/2108926274916012057",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "how to claim $4000 credits for $0",
+  "authors": [
+    "Maran (@TheMaran)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://cloud.google.com/startup/pre-funded",
+    "https://aws.amazon.com/startups/credits",
+    "https://deepgram.com/startup-program"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2108926274916012057",
+    "author_handle": "TheMaran",
+    "posted_at": "2026-10-10T14:23:00+00:00",
+    "metrics": {
+      "views": 127316,
+      "likes": 1529,
+      "replies": 47,
+      "retweets": 132,
+      "bookmarks": 4010,
+      "quotes": 4
+    },
+    "articles": [],
+    "reply_records_captured": 39,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUS4xLCaYAAxQYR.jpg",
+      "media/image-02.png": "https://pbs.twimg.com/media/HUSz3LmXgAAUl5x.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "how to claim $4000 credits for $0\n\ngmail gets rejected they want your own domain and matching work email\n\ndomain is ~$10. email is free. one site, three more applications\n\n> buy the domain + get the email\n\n- grab a .com on cloudflare domains (~$10)\n- turn on whois privacy\n- set up free email (zoho free works)\n- add mx/spf/dkim\n- create you@yourdomain.com\n- make a simple 1 page site that loads and explains what you actually build\n\n> google cloud start tier = $2,000\n\n> go to: https://cloud.google.com/startup/pre-funded\n\n- founded in last 24 months\n- working mvp + clear business model\n- planning to seek vc\n- website domain, email domain, and billing account email must all match\n- have your 18 character billing account id ready\n- 12 months. a few business days (longer if manual)\n\n> aws activate founders = $1,000 (select up to $5k)\n\n> go to: https://aws.amazon.com/startups/credits\n\n- self funded, pre series b, founded last 10 years\n- make a builder id with your professional email\n- link an aws account on the paid plan (free tier doesn’t qualify)\n- they ask about product, funding stage, company profile\n- 5 - 10 business days\n\n> deepgram = $1,000 starter (up to $100k possible)\n\n> go to: https://deepgram.com/startup-program\n\n- live or launching within 6 months\n- make a deepgram account first\n- keep your project id handy\n- ~1 week review, then 24 - 48 hrs to land\n- 12 months\n\n> extra ones worth stacking\n\n- azure self serve: $1k now + $4k after business verification (new azure account)\n- cloudflare for startups: bootstrapped tier still exists (~$5–10k range)\n- oracle for startups: $500 + 70% off for 2 years\n- claude for startups: open to bootstrapped, but the free team + $1k credits are currently over capacity\n\n> things you need to know\n\n- 2k + 1k + 1k = $4k base. azure can push it higher\n- google is discretionary. no agencies, consultancies, personal blogs, crypto mining, or token projects against local rules\n- aws: count on the $1k. the extra up to $5k is select only\n- credits expire. google + deepgram are 12 months. aws dates show in billing\n\n> what not to do\n\n- don’t apply from gmail or free email\n- don’t fake a company or park a domain with no site\n- don’t apply as an agency, dev shop, or consultancy\n- apply != approved. these are for real products, build real products\n\none domain. matching work email. working site. stack the rest\n\nbookmark this. terms change often. read each page before you apply. good luck.",
+    "fx_raw_text": "how to claim $4000 credits for $0\n\ngmail gets rejected they want your own domain and matching work email\n\ndomain is ~$10. email is free. one site, three more applications\n\n> buy the domain + get the email\n\n- grab a .com on cloudflare domains (~$10)\n- turn on whois privacy\n- set up free email (zoho free works)\n- add mx/spf/dkim\n- create you@yourdomain.com\n- make a simple 1 page site that loads and explains what you actually build\n\n> google cloud start tier = $2,000\n\n> go to: https://t.co/mIIkxXBQXS\n\n- founded in last 24 months\n- working mvp + clear business model\n- planning to seek vc\n- website domain, email domain, and billing account email must all match\n- have your 18 character billing account id ready\n- 12 months. a few business days (longer if manual)\n\n> aws activate founders = $1,000 (select up to $5k)\n\n> go to: https://t.co/5vxGaHJCcG\n\n- self funded, pre series b, founded last 10 years\n- make a builder id with your professional email\n- link an aws account on the paid plan (free tier doesn’t qualify)\n- they ask about product, funding stage, company profile\n- 5 - 10 business days\n\n> deepgram = $1,000 starter (up to $100k possible)\n\n> go to: https://t.co/r682B4cXWo\n\n- live or launching within 6 months\n- make a deepgram account first\n- keep your project id handy\n- ~1 week review, then 24 - 48 hrs to land\n- 12 months\n\n> extra ones worth stacking\n\n- azure self serve: $1k now + $4k after business verification (new azure account)\n- cloudflare for startups: bootstrapped tier still exists (~$5–10k range)\n- oracle for startups: $500 + 70% off for 2 years\n- claude for startups: open to bootstrapped, but the free team + $1k credits are currently over capacity\n\n> things you need to know\n\n- 2k + 1k + 1k = $4k base. azure can push it higher\n- google is discretionary. no agencies, consultancies, personal blogs, crypto mining, or token projects against local rules\n- aws: count on the $1k. the extra up to $5k is select only\n- credits expire. google + deepgram are 12 months. aws dates show in billing\n\n> what not to do\n\n- don’t apply from gmail or free email\n- don’t fake a company or park a domain with no site\n- don’t apply as an agency, dev shop, or consultancy\n- apply != approved. these are for real products, build real products\n\none domain. matching work email. working site. stack the rest\n\nbookmark this. terms change often. read each page before you apply. good luck.",
+    "unverified_timeline_record_ids": [
+      "2099964624644776310",
+      "2068115197718593741"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:10.802708+00:00"
+  }
+}

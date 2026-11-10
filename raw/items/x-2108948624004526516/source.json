@@ -1,0 +1,52 @@
+{
+  "id": "x-2108948624004526516",
+  "url": "https://x.com/wheresryan22/status/2108948624004526516",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing Anatomy",
+  "authors": [
+    "R (@wheresryan22)"
+  ],
+  "topics": [
+    "agent-skills",
+    "three-js"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2108948624004526516",
+    "author_handle": "wheresryan22",
+    "posted_at": "2026-10-10T15:51:48+00:00",
+    "metrics": {
+      "views": 2359866,
+      "likes": 16928,
+      "replies": 403,
+      "retweets": 1471,
+      "bookmarks": 25398,
+      "quotes": 593
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2108946813889675264/vid/avc1/1280x720/s8E3oD1tagLTWe5V.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2108946813889675264/img/_dWHpXtU83mCMxS7.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2108972180046336001/vid/avc1/1822x974/YbTLmZrsOtF1rbcl.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing Anatomy\n\nDescribe a machine in one line. Claude brings it to life.\n\n- Interactive isometric wireframes you can rotate, inspect and explore\n- WebGL shaders for fire, water, plasma and more\n- Real 3D motion, with individual parts that rotate and move\n\nInstall it as an agent skill. Fully open source.",
+    "fx_raw_text": "Introducing Anatomy\n\nDescribe a machine in one line. Claude brings it to life.\n\n- Interactive isometric wireframes you can rotate, inspect and explore\n- WebGL shaders for fire, water, plasma and more\n- Real 3D motion, with individual parts that rotate and move\n\nInstall it as an agent skill. Fully open source.",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2092706810323243495",
+      "2098108930027331836"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:14.550049+00:00"
+  }
+}

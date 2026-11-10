@@ -1,0 +1,78 @@
+{
+  "id": "x-2107321323911549277",
+  "url": "https://x.com/aymenpursue/status/2107321323911549277",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Someone built a growing gallery of motion graphics made with Claude Opus 5.5, each shown alongside the prompt or skill that created it.",
+  "authors": [
+    "Aymen (@aymenpursue)"
+  ],
+  "topics": [
+    "agent-skills",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://prompt-motion.com"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.jpg",
+    "media/image-07.jpg",
+    "media/video-03.mp4",
+    "media/image-08.jpg",
+    "media/image-09.jpg",
+    "media/image-10.jpg",
+    "media/image-11.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107321323911549277",
+    "author_handle": "aymenpursue",
+    "posted_at": "Tue Oct 06 04:05:30 +0000 2026",
+    "metrics": {
+      "views": 29281,
+      "likes": 356,
+      "replies": 12,
+      "retweets": 29,
+      "bookmarks": 553,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 15,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2107320831101554688/vid/avc1/1088x720/WU5tQ0NjKD1dHAmp.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2107320831101554688/img/qR9y_AT5NVKMjK9L.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2107668080260423680/vid/avc1/1080x1350/8HcfTYbQy2XE_Hcd.mp4?tag=29",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HT9wd97WYAAG4hE.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HT9wQsfbIAAjzle.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HUlUtL6XMAE4B3r.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HUlUtLoWsAAz5xN.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HUlUtLrXYAAblHc.jpg",
+      "media/image-07.jpg": "https://pbs.twimg.com/media/HUlUtLyXIAA1Gxc.jpg",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110479510605115392/vid/avc1/1678x1080/XBTkkLNIcBcLdzjC.mp4?tag=16",
+      "media/image-08.jpg": "https://pbs.twimg.com/media/HUmtY8BbkAAFNoZ.jpg",
+      "media/image-09.jpg": "https://pbs.twimg.com/media/HUmf8VJWYAARPlE.jpg",
+      "media/image-10.jpg": "https://pbs.twimg.com/media/HUmf8VCW4AAKWt8.jpg",
+      "media/image-11.jpg": "https://pbs.twimg.com/media/HUmf8VXW4AEBFNb.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Someone built a growing gallery of motion graphics made with Claude Opus 5.5, each shown alongside the prompt or skill that created it.\n\n226 examples + the prompts behind them 👀\n\nhttps://prompt-motion.com",
+    "fx_raw_text": "Someone built a growing gallery of motion graphics made with Claude Opus 5.5, each shown alongside the prompt or skill that created it.\n\n226 examples + the prompts behind them 👀\n\nhttps://t.co/5eFiPHZ7As https://t.co/xiTfXNBzsc",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2110311051657187825",
+      "2110479557937840344",
+      "2110408550845702320",
+      "2110393766754341153"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:06.541131+00:00"
+  }
+}

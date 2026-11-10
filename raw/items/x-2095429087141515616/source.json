@@ -17,6 +17,7 @@
   ],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095429087141515616",
     "author_handle": "AltamashAyazz",
     "fetch": "api.fxtwitter.com (retry)",

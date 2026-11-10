@@ -30,6 +30,7 @@
       "github-emilkowalski-skills",
       "web-lottiefiles"
     ],
-    "category_note": "Claude skill: code-native promo films (mp4+HTML)"
+    "category_note": "Claude skill: code-native promo films (mp4+HTML)",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "x-2097920782823305690",
+  "url": "https://x.com/tom_doerr/status/2097920782823305690",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:34:50Z",
+  "title": "Extracts business names, addresses, websites, contact details, and reviews from Google Maps listings and exports the",
+  "authors": [
+    "@tom_doerr"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://github.com/zohaibbashir/Google-Maps-Scrapper"
+  ],
+  "media": [
+    "media/photo.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097920782823305690",
+    "author_handle": "tom_doerr",
+    "migrated_v2": true,
+    "filtered": true,
+    "category_note": "Google-Maps lead scraping HowTo; outbound infra, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

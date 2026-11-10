@@ -16,6 +16,7 @@
   "extra": {
     "tweet_id": "2091169290661838965",
     "author_handle": "defileo",
-    "category_note": "Memory/RAG/skills stack; comments capture empty"
+    "category_note": "Memory/RAG/skills stack; comments capture empty",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,62 @@
+{
+  "id": "x-2107761959009718673",
+  "url": "https://x.com/wildmindai/status/2107761959009718673",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "DistScene- turns a single image into an editable 3D scene.",
+  "authors": [
+    "Wildminder (@wildmindai)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://coolbeam.github.io/DistScene/"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107761959009718673",
+    "author_handle": "wildmindai",
+    "posted_at": "2026-10-07T09:16:26+00:00",
+    "metrics": {
+      "views": 47546,
+      "likes": 1122,
+      "replies": 13,
+      "retweets": 125,
+      "bookmarks": 1337,
+      "quotes": 4
+    },
+    "articles": [],
+    "reply_records_captured": 19,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2107761523728814080/vid/avc1/1024x576/DH4EUyE2BF15mHyr.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2107761523728814080/img/HxRgv-Bvp8FTS2CD.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110341167745282048/vid/avc1/1920x1080/m0kAWre8eLhiSKiF.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110341696881840128/vid/avc1/1200x760/XMO3ArIm1bTXD73I.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110423186038992896/vid/avc1/1920x1080/VnC5Vj_T41mcV-J4.mp4?tag=29",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2110335544299536384/vid/avc1/2160x2612/Vr77m6EYhaRkcjX3.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "DistScene-  turns a single image into an editable 3D scene.\n\nUses sparse voxels, sparse DiT flow-matching models + LoRA. Based on TRELLIS.2\nobject-centric refinement restores details\n\nhttps://coolbeam.github.io/DistScene/",
+    "fx_raw_text": "DistScene-  turns a single image into an editable 3D scene.\n\nUses sparse voxels, sparse DiT flow-matching models + LoRA. Based on TRELLIS.2\nobject-centric refinement restores details\n\nhttps://t.co/6xMvPPamNE https://t.co/bnWCYEWCOd",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2092706810285490310",
+      "2110342352665473156",
+      "2110343012421181485",
+      "2110423274413056230",
+      "2110335677032432086"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:34.701053+00:00"
+  }
+}

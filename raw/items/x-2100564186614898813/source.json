@@ -1,0 +1,37 @@
+{
+  "id": "x-2100564186614898813",
+  "url": "https://x.com/hlibtrazanov/status/2100564186614898813",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:52:00Z",
+  "title": "Our internal library of video references: [Hooks], [Demo], [Features], [Social proof], etc. After breaking down 63",
+  "authors": [
+    "Hlib Trazanov (@hlibtrazanov)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/hlibtrazanov/status/2100564186614898813/photo/1"
+  ],
+  "media": [
+    "media/anim.mp4",
+    "media/anim-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100564186614898813",
+    "author_handle": "hlibtrazanov",
+    "author_id": "1962477627324973056",
+    "author_name": "Hlib Trazanov",
+    "created_at": 1789648503,
+    "likes": 416,
+    "replies": 487,
+    "retweets": 11,
+    "bookmarks": 563,
+    "views": 23052,
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

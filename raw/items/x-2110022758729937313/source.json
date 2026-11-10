@@ -1,0 +1,61 @@
+{
+  "id": "x-2110022758729937313",
+  "url": "https://x.com/0xca0a/status/2110022758729937313",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "We officially release smlibpy open source. A python API for the smlib nurbs kernel (inspired by cad-query, build123d & classcad). A wasm compile for javascript/ts (1.8mb dl/brotli ",
+  "authors": [
+    "☄︎ (@0xca0a)"
+  ],
+  "topics": [
+    "mcp"
+  ],
+  "related_urls": [
+    "https://smlibpy.classcad.ch",
+    "https://github.com/awv-informatik/smlibpy"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110022758729937313",
+    "author_handle": "0xca0a",
+    "posted_at": "Tue Oct 13 15:00:02 +0000 2026",
+    "metrics": {
+      "views": 24950,
+      "likes": 386,
+      "replies": 16,
+      "retweets": 37,
+      "bookmarks": 405,
+      "quotes": 13
+    },
+    "articles": [],
+    "reply_records_captured": 20,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110001806889615360/vid/avc1/1280x720/AeAzrIXp746ymXxv.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2110001806889615360/img/-KeR8JejIZ9bX1N6.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUhOhgiXUAAsxy4.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUhOhhaXoAAH4c8.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HUhOhg5XMAArZEW.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HUhOiQUWoAAg9Pt.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110019395103625216/vid/avc1/1920x1080/q9NTqPPlTppoMqG3.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "We officially release smlibpy open source. A python API for the smlib nurbs kernel (inspired by cad-query, build123d & classcad). A wasm compile for javascript/ts (1.8mb dl/brotli total). And a MCP for agents.\n→ https://smlibpy.classcad.ch\n→ https://github.com/awv-informatik/smlibpy\n\nThread ⤵",
+    "fx_raw_text": "We officially release smlibpy open source. A python API for the smlib nurbs kernel (inspired by cad-query, build123d &amp; classcad). A wasm compile for javascript/ts (1.8mb dl/brotli total). And a MCP for agents.\n→ https://t.co/QmL103a01J\n→ https://t.co/qCD1NXMuXZ\n\nThread ⤵ https://t.co/RaWLNTKVj2",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2110035689769214147"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

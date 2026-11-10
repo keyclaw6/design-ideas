@@ -21,7 +21,8 @@
       "web-opale-ui-taste",
       "github-leonxlnx-taste-skill"
     ],
-    "category_note": "Empty quote-tweet: ‘get good at the thing’; no illustration or artifact captured.",
-    "filtered": true
+    "category_note": "Empty quote-tweet: \u2018get good at the thing\u2019; no illustration or artifact captured.",
+    "filtered": true,
+    "migrated_v2": true
   }
 }

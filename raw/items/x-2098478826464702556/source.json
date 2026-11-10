@@ -1,0 +1,46 @@
+{
+  "id": "x-2098478826464702556",
+  "url": "https://x.com/kylejeong/status/2098478826464702556",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "we reverse engineered astra's computer use and made it 2x faster.",
+  "authors": [
+    "Kyle Jeong (@kylejeong)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_1.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098478826464702556",
+    "author_handle": "kylejeong",
+    "author_name": "Kyle Jeong",
+    "author_bio": "growth engineering @browserbase | also @vestucla @kp_fellows math/cs @ucla",
+    "created_at": "Fri Sep 11 18:28:34 +0000 2026",
+    "stats": {
+      "likes": 2701,
+      "reposts": 118,
+      "replies": 81,
+      "views": 193599,
+      "bookmarks": 2074,
+      "quotes": 13
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 65,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 10,
+    "replies_thread": 0,
+    "replies_comments": 10,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

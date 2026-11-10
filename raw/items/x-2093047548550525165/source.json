@@ -18,6 +18,7 @@
     "tweet_id": "2093047548550525165",
     "author_handle": "louszbd",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Agent-built Blender interior; not a BESS site"
+    "category_note": "Agent-built Blender interior; not a BESS site",
+    "migrated_v2": true
   }
 }

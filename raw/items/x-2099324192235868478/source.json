@@ -1,0 +1,34 @@
+{
+  "id": "x-2099324192235868478",
+  "url": "https://x.com/chengyongru/status/2099324192235868478",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:30:16Z",
+  "title": "ok, 世界上最好的design skill， 就是这个（我这算说个暴论吗？） `https://developer.apple.com/design/`",
+  "authors": [
+    "@chengyongru"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://developer.apple.com/design/`"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099324192235868478",
+    "author_handle": "chengyongru",
+    "migrated_v2": true,
+    "author_name": "chengyongru",
+    "created_at": "Mon Sep 14 02:27:45 +0000 2026",
+    "likes": 2132,
+    "replies": 26,
+    "retweets": 1789378128,
+    "views": 270533,
+    "bookmarks": 3678,
+    "fetch": "api.fxtwitter.com + agent-browser replies via own tab t7",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

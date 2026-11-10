@@ -22,6 +22,7 @@
       "x-2032671842230501729",
       "web-cerebras-knowledge-base"
     ],
-    "category_note": "Stanford Control Plane Pattern: naive multi-agent handoffs rot; use queues + one reasoner + KG."
+    "category_note": "Stanford Control Plane Pattern: naive multi-agent handoffs rot; use queues + one reasoner + KG.",
+    "migrated_v2": true
   }
 }

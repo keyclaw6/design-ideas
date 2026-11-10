@@ -1,0 +1,39 @@
+{
+  "id": "x-2101623347910148511",
+  "url": "https://x.com/HamonPaulm/status/2101623347910148511",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:44:36Z",
+  "title": "jev can't write a single word. it still killed 90% of my seo costs.",
+  "authors": [
+    "Paul-Marie (@HamonPaulm)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2101610351855083520"
+  ],
+  "media": [
+    "media/article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2101623347910148511",
+    "author_handle": "HamonPaulm",
+    "migrated_v2": true,
+    "author_name": "Paul-Marie",
+    "created_at": "2026-09-20T10:43:47Z",
+    "likes": 105,
+    "replies": 4,
+    "retweets": 7,
+    "bookmarks": 270,
+    "quotes": 1,
+    "views": 12842,
+    "lang": null,
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

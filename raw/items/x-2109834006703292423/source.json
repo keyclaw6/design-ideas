@@ -1,0 +1,72 @@
+{
+  "id": "x-2109834006703292423",
+  "url": "https://x.com/sharp_maker/status/2109834006703292423",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "地図情報から漫画背景を作成できるツールを作成しました。地名や座標を入力すれば地球のどこでも再現可能です。無料で使えるので、ぜひ使ってみてください！",
+  "authors": [
+    "++++ (@sharp_maker)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://tools.oyasumi-gamedev.com/rokehan/",
+    "https://tools.oyasumi-gamedev.com/comicalizer/"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.png",
+    "media/animation-01.mp4",
+    "media/image-05.jpg",
+    "media/animation-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109834006703292423",
+    "author_handle": "sharp_maker",
+    "posted_at": "Tue Oct 13 02:30:00 +0000 2026",
+    "metrics": {
+      "views": 4445409,
+      "likes": 80972,
+      "replies": 400,
+      "retweets": 19270,
+      "bookmarks": 88929,
+      "quotes": 2033
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109815111548575744/vid/avc1/1280x720/qmz5EclDGX8dcgZV.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109815111548575744/img/UpqMct-o275hul0N.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUfkpRTXAAE6L9d.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUfkp1eXgAEmrqc.jpg",
+      "media/image-04.png": "https://pbs.twimg.com/media/HUjvINuXsAA4PQU.png",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUkYJbEXQAARL27.mp4",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HUnbcPsaIAAtT5i.jpg",
+      "media/animation-02.mp4": "https://video.twimg.com/tweet_video/HUfSEIQa4AAg1QC.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "地図情報から漫画背景を作成できるツールを作成しました。地名や座標を入力すれば地球のどこでも再現可能です。無料で使えるので、ぜひ使ってみてください！\nhttps://tools.oyasumi-gamedev.com/rokehan/",
+    "fx_raw_text": "地図情報から漫画背景を作成できるツールを作成しました。地名や座標を入力すれば地球のどこでも再現可能です。無料で使えるので、ぜひ使ってみてください！\nhttps://t.co/03Evv1Eb6m https://t.co/2pMIGMhPvS",
+    "quoted_post": {
+      "id": "2109077243779842502",
+      "url": "https://x.com/sharp_maker/status/2109077243779842502",
+      "author": "++++ (@sharp_maker)",
+      "text": "プロットに合わせて漫画のネームを作れるツールを公開しました。\nガチャで色々試したり、ポーズやカメラ、演出を指定できます！無料なので、ぜひ使ってみてください！ https://tools.oyasumi-gamedev.com/comicalizer/"
+    },
+    "unverified_timeline_record_ids": [
+      "2098108930060865671",
+      "2068115197718593741",
+      "2102790422762569772",
+      "2039706082466267275",
+      "2110379290164383771"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:40.645251+00:00"
+  }
+}

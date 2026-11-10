@@ -1,0 +1,102 @@
+{
+  "id": "x-2103533757588463990",
+  "url": "https://x.com/amirdzm/status/2103533757588463990",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "This guy broke down the science behind Apple's product videos",
+  "authors": [
+    "Amir Dzhambulov (@amirdzm)"
+  ],
+  "topics": [
+    "design",
+    "ui-motion",
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2103118352554344448"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/video-02.mp4",
+    "media/image-03.jpg",
+    "media/video-03.mp4",
+    "media/image-04.jpg",
+    "media/video-04.mp4",
+    "media/image-05.jpg",
+    "media/image-06.jpg",
+    "media/video-05.mp4",
+    "media/image-07.jpg",
+    "media/video-06.mp4",
+    "media/image-08.jpg",
+    "media/video-07.mp4",
+    "media/image-09.jpg",
+    "media/video-08.mp4",
+    "media/image-10.jpg",
+    "media/image-11.jpg",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103533757588463990",
+    "author_handle": "amirdzm",
+    "posted_at": "2026-09-25T17:15:04+00:00",
+    "metrics": {
+      "views": 781553,
+      "likes": 4301,
+      "replies": 22,
+      "retweets": 226,
+      "bookmarks": 4698,
+      "quotes": 1
+    },
+    "articles": [
+      {
+        "kind": "quoted",
+        "id": "2103118352554344448",
+        "title": "Make your product videos look expensive (Apple Framework)",
+        "blocks": 74,
+        "quoted_tweet_id": "2103529310208606701"
+      }
+    ],
+    "reply_records_captured": 16,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2103533705193222144/vid/avc1/1280x720/097tnsSiY1ZfFTea.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103533705193222144/img/DNu6WvDcGSbz_Y9l.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HTE5qj0aQAAlIAJ.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2103527016561848320/vid/avc1/1464x720/nYBR7xlgBuu2-eTI.mp4?tag=29",
+      "media/image-03.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103527016561848320/img/7i0bDkU2YYUGCwGe.jpg",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2103527016452833281/vid/avc1/1280x720/Jum1MrP_Dz4wbugl.mp4?tag=29",
+      "media/image-04.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103527016452833281/img/hKXDwjZ1cV63DGCy.jpg",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2103527016821833728/vid/avc1/1280x720/IyOQeoDKErdYYBnK.mp4?tag=29",
+      "media/image-05.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103527016821833728/img/5z1eq61IBk9iPI14.jpg",
+      "media/image-06.jpg": "https://pbs.twimg.com/media/HTE6rS5aUAABOLE.jpg",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2103527016599597056/vid/avc1/1280x720/1nhjOpKyDKkpwZex.mp4?tag=29",
+      "media/image-07.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103527016599597056/img/5W5f6EFlBiwNI8tC.jpg",
+      "media/video-06.mp4": "https://video.twimg.com/amplify_video/2103527016440139776/vid/avc1/720x720/CuD5SAz8xyuOhEg6.mp4?tag=29",
+      "media/image-08.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103527016440139776/img/vITttnjyK_DseMZC.jpg",
+      "media/video-07.mp4": "https://video.twimg.com/amplify_video/2103527016419192832/vid/avc1/1280x720/yN1Yx_jiTEiCS64L.mp4?tag=29",
+      "media/image-09.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103527016419192832/img/JlqokUv8FmX5sjMA.jpg",
+      "media/video-08.mp4": "https://video.twimg.com/amplify_video/2103527016649867264/vid/avc1/1300x500/72Mgg_SwiCDRD9Z_.mp4?tag=29",
+      "media/image-10.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103527016649867264/img/Z6aW2Pm1A3_PzRbL.jpg",
+      "media/image-11.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTJrPiCbAAAAA3o.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "This guy broke down the science behind Apple's product videos\n\nApple sue him please....",
+    "fx_raw_text": "This guy broke down the science behind Apple's product videos\n\nApple sue him please.... https://t.co/KeWlCSk6S3",
+    "quoted_post": {
+      "id": "2103529310208606701",
+      "url": "https://x.com/leomeethewoo/status/2103529310208606701",
+      "author": "leo (@leomeethewoo)",
+      "text": "https://x.com/i/article/2103118352554344448"
+    },
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:56.238263+00:00"
+  }
+}

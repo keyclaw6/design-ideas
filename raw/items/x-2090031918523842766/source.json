@@ -28,6 +28,7 @@
       "github-nexu-io-motion-anything",
       "web-lottiefiles",
       "github-nateherkai-scroll-craft"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

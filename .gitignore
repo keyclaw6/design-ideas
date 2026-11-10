@@ -11,3 +11,8 @@ raw/items/x-2093713466955649145/media/media_0.mp4
 raw/items/x-2095521587785081193/media/media_0.mp4
 .cursor/
 graphify-out/cache/
+raw/items/x-2100218143625073088/media/media_video_0.mp4
+
+# 2026-10-15 import: oversized videos retained locally
+raw/items/x-2110049100611940501/media/video-03.mp4
+raw/items/x-2108365916895654105/media/video-02.mp4

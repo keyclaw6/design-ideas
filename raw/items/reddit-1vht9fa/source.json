@@ -1,0 +1,36 @@
+{
+  "id": "reddit-1vht9fa",
+  "url": "https://www.reddit.com/r/theaiwaves/comments/1vht9fa/20_websites_google_doesnt_want_you_to_know/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "20 Websites Google Doesn't want you to know",
+  "authors": [
+    "No_Recipe6244"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/01-reddit-media.jpeg",
+    "media/02-reddit-media.jpeg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1vht9fa",
+    "saved_kind": "post",
+    "post_id": "1vht9fa",
+    "comment_id": null,
+    "subreddit": "theaiwaves",
+    "flair": null,
+    "posted_at": "2026-08-07T06:55:02+00:00",
+    "score_at_capture": 2067,
+    "comment_count_at_capture": 26,
+    "comments_captured_from_api": 22,
+    "thread_comments_returned": 22,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:34+00:00"
+  }
+}

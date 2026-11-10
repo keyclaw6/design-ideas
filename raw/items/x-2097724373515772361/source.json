@@ -1,0 +1,40 @@
+{
+  "id": "x-2097724373515772361",
+  "url": "https://x.com/Scenario_gg/status/2097724373515772361",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "Hitem3D 3.0: image-to-mesh at 2048³ with up to 5M faces, small details stay in geometry",
+  "authors": [
+    "Scenario (@Scenario_gg)"
+  ],
+  "topics": [
+    "three-js"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097724373515772361",
+    "author_handle": "Scenario_gg",
+    "author_name": "Scenario",
+    "author_id": "1339460127691218945",
+    "created_at": "2026-09-09T16:30:39Z",
+    "likes": 129,
+    "replies": 6,
+    "retweets": 10,
+    "bookmarks": 112,
+    "quotes": 0,
+    "views": 8697,
+    "lang": "en",
+    "source_client": "Buffer",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "6 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

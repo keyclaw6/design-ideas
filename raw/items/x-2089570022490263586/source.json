@@ -26,6 +26,7 @@
       "github-antvis-infographic",
       "web-flint-chart",
       "github-scottstts-threejs-awesome-graphics-agent-skills"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

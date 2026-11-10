@@ -1,0 +1,44 @@
+{
+  "id": "x-2097486959296057609",
+  "url": "https://x.com/higgsfield/status/2097486959296057609",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "Comparing GPT-Image 2.0 to GPT-Image 2.5 Sharing the prompt: \"Create a continuous 6-second split-screen animation from",
+  "authors": [
+    "Higgsfield AI 🧩 (@higgsfield)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097486959296057609",
+    "author_handle": "higgsfield",
+    "author_name": "Higgsfield AI 🧩",
+    "author_bio": "The AI-native creative suite",
+    "created_at": "Wed Sep 09 00:47:15 +0000 2026",
+    "likes": 575,
+    "replies": 15,
+    "retweets": 57,
+    "views": 42585,
+    "bookmarks": 422,
+    "quotes": 6,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 1150,
+    "replies_added": 10,
+    "replies_thread": 0,
+    "replies_comments": 10,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

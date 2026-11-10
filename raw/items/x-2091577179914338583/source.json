@@ -18,6 +18,7 @@
     "tweet_id": "2091577179914338583",
     "author_handle": "Yun_HDY",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "CozyClay previs → video (NomaDamas/CozyClay)"
+    "category_note": "CozyClay previs → video (NomaDamas/CozyClay)",
+    "migrated_v2": true
   }
 }

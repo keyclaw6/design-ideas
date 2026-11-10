@@ -1,0 +1,41 @@
+{
+  "id": "x-2096716635579301973",
+  "url": "https://x.com/coldemailchris/status/2096716635579301973",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:59:07Z",
+  "title": "Vercel and Open AI are both paying $250k+/year for a GTM engineer. The role did not exist before 2024. Job postings for ",
+  "authors": [
+    "Christian (@coldemailchris)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/coldemailchris/status/2096681120364413108"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096716635579301973",
+    "author_handle": "coldemailchris",
+    "author_name": "Christian",
+    "author_bio": "Founder/CEO @ http://pipeline.tech \u2014 Building AI-native outbound systems for the most innovative B2B brands. Teaching GTM @ http://gtmu.io. \u271d\ufe0f Jesus is King.",
+    "author_followers": 20613,
+    "author_following": 397,
+    "created_at": "Sun Sep 06 21:46:15 +0000 2026",
+    "stats": {
+      "likes": 56,
+      "reposts": 1,
+      "replies": 8,
+      "views": 9395,
+      "bookmarks": 83,
+      "quotes": 1
+    },
+    "fetch": "api.fxtwitter.com (primary: https://api.fxtwitter.com/i/status/2096716635579301973); r.jina.ai comments attempt -> HTTP 403; vxtwitter fallback available",
+    "comments": "none retrievable (jina 403, fx single-tweet only)",
+    "quote_url": "https://x.com/coldemailchris/status/2096681120364413108",
+    "filtered": true,
+    "category_note": "GTM-engineer job-market post ($250k roles); no technique or artifact.",
+    "unsaved_at": "2026-09-21T12:08:50Z"
+  }
+}

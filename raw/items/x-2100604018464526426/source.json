@@ -1,0 +1,38 @@
+{
+  "id": "x-2100604018464526426",
+  "url": "https://x.com/danclipping/status/2100604018464526426",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "0 to 100M views in 7 days: Higgsfield API + mass distribution",
+  "authors": [
+    "Daniel (@danclipping)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2100585258085232640"
+  ],
+  "media": [
+    "media/article-cover.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100604018464526426",
+    "author_handle": "danclipping",
+    "migrated_v2": true,
+    "author_name": "Daniel",
+    "created_at": "Thu Sep 17 15:13:19 +0000 2026",
+    "likes": 44,
+    "replies": 3,
+    "retweets": 4,
+    "bookmarks": 58,
+    "quotes": 2,
+    "views": 2771,
+    "lang": null,
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

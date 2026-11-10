@@ -23,6 +23,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 23989,
     "forks": 1762,
     "license": "Apache-2.0",

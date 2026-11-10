@@ -1,0 +1,50 @@
+{
+  "id": "x-2104840500847263794",
+  "url": "https://x.com/shadcnlabs/status/2104840500847263794",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing pdfcn",
+  "authors": [
+    "Shadcn Labs (@shadcnlabs)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2104840500847263794",
+    "author_handle": "shadcnlabs",
+    "posted_at": "Tue Sep 29 07:47:36 +0000 2026",
+    "metrics": {
+      "views": 176013,
+      "likes": 3620,
+      "replies": 43,
+      "retweets": 254,
+      "bookmarks": 4250,
+      "quotes": 29
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2104839168828551168/vid/avc1/1280x720/p-5qFVyd8w3P6BiI.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2104839168828551168/img/0j4S5p-56CTWZZZj.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTYdv6RXQAAu5-_.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing pdfcn\n\nBuild beautiful PDFs like you build your UI.\n\nPowered by Takumi + Forme.\nPick from 10+ themes, 40+ components & blocks, then customize everything.\n\nOne command to get started. shadcn/ui compatible.\n\n100% Free. Open source.",
+    "fx_raw_text": "Introducing pdfcn\n\nBuild beautiful PDFs like you build your UI.\n\nPowered by Takumi + Forme.\nPick from 10+ themes, 40+ components & blocks, then customize everything.\n\nOne command to get started. shadcn/ui compatible.\n\n100% Free. Open source.",
+    "unverified_timeline_record_ids": [
+      "2098108930060865671",
+      "2068115197718593741"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:53:50.195338+00:00"
+  }
+}

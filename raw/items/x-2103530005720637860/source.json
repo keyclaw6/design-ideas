@@ -1,0 +1,45 @@
+{
+  "id": "x-2103530005720637860",
+  "url": "https://x.com/RespanAI/status/2103530005720637860",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing Span-01, the first hyper-parallel reasoning classifier built for unseen challenges (RLAIF).",
+  "authors": [
+    "Respan (@RespanAI)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.png",
+    "media/image-03.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103530005720637860",
+    "author_handle": "RespanAI",
+    "posted_at": "2026-09-25T17:00:09+00:00",
+    "metrics": {
+      "views": 351651,
+      "likes": 1892,
+      "replies": 125,
+      "retweets": 145,
+      "bookmarks": 1468,
+      "quotes": 43
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HTE9ZGmasAAxCw2.jpg?name=orig",
+      "media/image-02.png": "https://pbs.twimg.com/media/HTE9aEQaYAAJc5J.png",
+      "media/image-03.png": "https://pbs.twimg.com/media/HTE9a-eaEAEFeBu.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing Span-01, the first hyper-parallel reasoning classifier built for unseen challenges (RLAIF).\n\n2x cheaper, 18% better than Jev.\n700x cheaper, 4% better than GPT-6 Luna.\nFrontier reasoning for every behavior, at classifier speed.\n\n• Span-01: #1 on Behavior Benchmark\n• Span-01 Lite: Better than Jev and completely free!",
+    "fx_raw_text": "Introducing Span-01, the first hyper-parallel reasoning classifier built for unseen challenges (RLAIF).\n\n2x cheaper, 18% better than Jev.\n700x cheaper, 4% better than GPT-6 Luna.\nFrontier reasoning for every behavior, at classifier speed.\n\n• Span-01: #1 on Behavior Benchmark\n• Span-01 Lite: Better than Jev and completely free!",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:49.351299+00:00"
+  }
+}

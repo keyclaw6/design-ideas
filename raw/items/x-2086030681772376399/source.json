@@ -26,6 +26,7 @@
       "x-2095204640690147487",
       "x-2094164487381414344"
     ],
-    "category_note": "Opus + Remotion: prompt → code-driven motion/demos. Code-video lane vs diffusion video."
+    "category_note": "Opus + Remotion: prompt \u2192 code-driven motion/demos. Code-video lane vs diffusion video.",
+    "migrated_v2": true
   }
 }

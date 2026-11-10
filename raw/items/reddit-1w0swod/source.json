@@ -1,0 +1,39 @@
+{
+  "id": "reddit-1w0swod",
+  "url": "https://www.reddit.com/r/opencodeCLI/comments/1w0swod/kimi_k3_and_deepseek_4_pro_are_free_on_nvidea_nim/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Kimi K3 and DeepSeek 4 Pro are FREE on NVIDEA NIM (60 req/min.)",
+  "authors": [
+    "afanasenka"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://build.nvidia.com/moonshotai/kimi-k3",
+    "https://build.nvidia.com/deepseek-ai/deepseek-v4-pro-0813"
+  ],
+  "media": [
+    "media/01-reddit-media.jpeg",
+    "media/02-reddit-media.jpeg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1w0swod",
+    "saved_kind": "post",
+    "post_id": "1w0swod",
+    "comment_id": null,
+    "subreddit": "opencodeCLI",
+    "flair": null,
+    "posted_at": "2026-08-28T14:58:27+00:00",
+    "score_at_capture": 412,
+    "comment_count_at_capture": 87,
+    "comments_captured_from_api": 79,
+    "thread_comments_returned": 79,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:29+00:00"
+  }
+}

@@ -35,6 +35,7 @@
   ],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "unsaved_at": "2026-09-03T10:05:00Z",
     "unsaved_via": "agent-browser post-detail verify (aria-label Bookmark, not Remove)",
     "tweet_id": "2094553318031024285",

@@ -26,6 +26,7 @@
       "x-2088296314484162719",
       "x-2088277946918142211"
     ],
-    "category_note": "CadX text-to-CAD hexacopter demo"
+    "category_note": "CadX text-to-CAD hexacopter demo",
+    "migrated_v2": true
   }
 }

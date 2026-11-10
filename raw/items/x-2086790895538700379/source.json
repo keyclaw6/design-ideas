@@ -26,6 +26,7 @@
       "x-2032671842230501729",
       "x-2087263510090874911"
     ],
-    "category_note": "loopany.ai templates: copy-paste agent loops that shipped, not toy demos."
+    "category_note": "loopany.ai templates: copy-paste agent loops that shipped, not toy demos.",
+    "migrated_v2": true
   }
 }

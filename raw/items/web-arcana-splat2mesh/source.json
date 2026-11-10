@@ -18,6 +18,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "installer_url": "https://arcana-mfg.com/splat2mesh_dl/Splat2Mesh_v1.0.zip",
     "installer_size": "110 MB",
     "platform": "Windows 11",

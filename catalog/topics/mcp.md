@@ -53,6 +53,12 @@ Query here for “what MCP do I add” or “how did someone route tools through
 - [gojiberryai-sales-os](../../raw/items/github-romangojiberryAI-gojiberryai-sales-os/) — `github-romangojiberryAI-gojiberryai-sales-os`
 - [treg — OpenRouter for agent tools](../../raw/items/github-superdesigndev-treg/) — `github-superdesigndev-treg`
 - [LLM + Blender → AI Video: Photoreal BESS Flythrough](../../raw/notes/blender-minimax-h3-video-generation.md) — `note-blender-minimax-h3-video-generation`
+- [🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want!](../../raw/items/reddit-1uy83bk/) — `reddit-1uy83bk`
+- [We built an MCP server for CAD](../../raw/items/reddit-1w37d9y/) — `reddit-1w37d9y`
+- [Qwen Open Sources zg Local Search Tool for Code and Docs](../../raw/items/reddit-1w5dab4/) — `reddit-1w5dab4`
+- [Anthropic hackathon winner just open-sourced his entire Claude Code setup 🔥](../../raw/items/reddit-1wgu40p/) — `reddit-1wgu40p`
+- [I built a way for Hermes to use any website as an API WITHOUT browser automation](../../raw/items/reddit-1wp4i6k/) — `reddit-1wp4i6k`
+- [Breakscale: Build a system, load it until it breaks, and watch why (1.3k stars)](../../raw/items/reddit-1x49yi0/) — `reddit-1x49yi0`
 - [AIDesigner MCP — AI UI design in the editor](../../raw/items/web-aidesigner-mcp/) — `web-aidesigner-mcp`
 - [How Anthropic enables self-service data analytics with Claude](../../raw/items/web-anthropic-claude-self-service-data/) — `web-anthropic-claude-self-service-data`
 - [Blume Sidecar — monitor and improve coding agents](../../raw/items/web-blume-codes/) — `web-blume-codes`
@@ -94,4 +100,20 @@ Query here for “what MCP do I add” or “how did someone route tools through
 - [Blender MCPでFable 5.1を使い、右のエクイレクタングラー方式の都市パノラマ画像をリソースとして都市を構築させたところ、一発でこの情報量のモデルが完成。 これを手作業で作れと言われたら、3人日はかかるかな……。 テストでこの](../../raw/items/x-2095159781883597031/) — `x-2095159781883597031`
 - [Claude Fable 5.1 is a beast at agentic CAD! At Max effort it's the most capable model we've tested so far. Here, inside ](../../raw/items/x-2095193896687177873/) — `x-2095193896687177873`
 - [AIでBlenderを操作する方法 - CLIとMCPの使い分け｜npaka @npaka123 https://note.com/npaka/n/n7f7531e7b9ed?sub_rt=share_sb](../../raw/items/x-2095288402606514424/) — `x-2095288402606514424`
+- [A two-person AI startup crossed $1 million in annualized revenue two months after launch. The founder just walked](../../raw/items/x-2096224107121516997/) — `x-2096224107121516997`
+- [3 KiCad MCP servers bringing AI into PCB design  1. KiCad MCP Server by Seeed Studio Analyze schematics & PCBs, trace](../../raw/items/x-2096269926302613765/) — `x-2096269926302613765`
+- [Some promising early results of my enhanced Blender MCP compared to the standard Blender MCP. It was able to generate](../../raw/items/x-2097072609351405641/) — `x-2097072609351405641`
+- [MCP & Skills: https://appllama.io https://github.com/Appllama/appllama-skills Prompt: /goal Using Appllama MCP & App](../../raw/items/x-2098140208264851676/) — `x-2098140208264851676`
+- [Try it out https://monid.ai/blog/saperly](../../raw/items/x-2098314696457875816/) — `x-2098314696457875816`
+- [We FINALLY shipped an MCP so your AI Agent can rent 100s of iPhones 🚀 not "another AI wrapper" not "a dashboard you](../../raw/items/x-2099301416468652506/) — `x-2099301416468652506`
+- [We open sourced BrowserSkill, a bridge between your agent and your actual browser. most tools give the agent a blank](../../raw/items/x-2100143086429217278/) — `x-2100143086429217278`
+- [100% agree. Here is KiChad, KiCad + Astra.](../../raw/items/x-2100240455917297896/) — `x-2100240455917297896`
+- [We just killed Monid ourselves. Monid is now open source. The OpenRouter for agent tools. Your agents can now: >](../../raw/items/x-2100330818958975088/) — `x-2100330818958975088`
+- [If I Had to Build My Hermes Setup From Zero Today, I’d Start Here](../../raw/items/x-2101884812189684015/) — `x-2101884812189684015`
+- [지금 전 세계 개발자 커뮤니티가 발칵 뒤집힌 이유.](../../raw/items/x-2102286564521111687/) — `x-2102286564521111687`
+- [AstraにBlenderで昭和の日本家屋をモデリングしてもらった。ただし、CodexじゃなくてChatで。セキュアMCPTunnelって機能でWebのChatGPTから僕の手元のPCのBlenderをMCPで操作できます。チャットのProでワンショット42分間作業してくれました。Pro200ドルプランなら1週間あたり200回Proとチャット出来ます。つまり](../../raw/items/x-2103729495618281838/) — `x-2103729495618281838`
+- [CLAUDE CODE CAN NOW TURN HIGGSFIELD INTO A ONE-PERSON AI VIDEO STUDIO.](../../raw/items/x-2106636580735619118/) — `x-2106636580735619118`
+- [is it legal?](../../raw/items/x-2109716261160538324/) — `x-2109716261160538324`
+- [MCP gives AI agents superpowers.](../../raw/items/x-2109897254849101986/) — `x-2109897254849101986`
+- [We officially release smlibpy open source. A python API for the smlib nurbs kernel (inspired by cad-query, build123d & classcad). A wasm compile for javascript/ts (1.8mb dl/brotli ](../../raw/items/x-2110022758729937313/) — `x-2110022758729937313`
 <!-- /AUTO:ITEMS -->

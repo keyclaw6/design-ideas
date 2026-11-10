@@ -34,6 +34,10 @@ Query here for “fix a thin splat,” “PLY to GLB,” or “one photo to an o
 
 <!-- AUTO:ITEMS -->
 - [ArtiFixer](../../raw/items/github-nv-tlabs-ArtiFixer/) — `github-nv-tlabs-ArtiFixer`
+- [How we built the Grace Cathedral browser experience](../../raw/items/reddit-1v4e576/) — `reddit-1v4e576`
+- [3D Gaussian Splat from any Video (Including 360) locally in your machine for free.  Works with Intel, AMD, NVIDIA, Apple Silicon (Mac).](../../raw/items/reddit-1vvf7ou/) — `reddit-1vvf7ou`
+- [Open Source 3DGS Training Pipeline - NVIDIA / AMD / Intel / Apple, Train 10M SH3 Gaussians in 8GB, 360 Camera Support, Lightning-Fast SfM, Meshing Support - Feedback Welcome](../../raw/items/reddit-1w0by3s/) — `reddit-1w0by3s`
+- [World Labs introduces their next world model - Atlas](../../raw/items/reddit-1w4ljsx/) — `reddit-1w4ljsx`
 - [Splat2Mesh](../../raw/items/web-arcana-splat2mesh/) — `web-arcana-splat2mesh`
 - [The core claim checks out. For years 3D Gaussian Splatting quality was solid, but huge files, missing streaming/LOD, and](../../raw/items/x-2090589293677023507/) — `x-2090589293677023507`
 - [train gaussian splatting straight in the browser with Splat.js. SfM included, open source, and MIT Licensed. Video from ](../../raw/items/x-2090839282831270173/) — `x-2090839282831270173`
@@ -51,4 +55,6 @@ Query here for “fix a thin splat,” “PLY to GLB,” or “one photo to an o
 - [3DGSは見た目がリアルでも「面」を持たず、Blender編集や3Dプリントにそのまま使いにくい。 - 長野の@ArcanaMfg製作所がSplat2Meshを公開 - 対応PLYからポリゴンMeshを生成し、OBJ／GLBへ出力 - Wi](../../raw/items/x-2095136786095951924/) — `x-2095136786095951924`
 - [3DGSのPLYデータをブラウザだけでメッシュ化！ GLB・STL・OBJへ変換可能なWebサービスがβ公開！ 3DGS Mesh Converter https://3dnchu.com/archives/3dgs-mesh-conver](../../raw/items/x-2095336950890983773/) — `x-2095336950890983773`
 - [LichtFeldStudioで出力したデータをSplat2Meshで変換し、そのままMimakiの3DUJ-2207で出力しました。 https://arcana-mfg.com/splat2mesh/ English: https://](../../raw/items/x-2095375790875840593/) — `x-2095375790875840593`
+- [HOY UNA INDUSTRIA ENTERA DEJÓ DE TENER SENTIDO](../../raw/items/x-2106383261089849825/) — `x-2106383261089849825`
+- [is it legal?](../../raw/items/x-2109716261160538324/) — `x-2109716261160538324`
 <!-- /AUTO:ITEMS -->

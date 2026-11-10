@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2093018082293813509",
     "author_handle": "customuse",
-    "category_note": "AI-mesh cleanup/UV/bake, not a web scene"
+    "category_note": "AI-mesh cleanup/UV/bake, not a web scene",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,42 @@
+{
+  "id": "reddit-1wgu40p",
+  "url": "https://www.reddit.com/r/SATNA_PROJECT/comments/1wgu40p/anthropic_hackathon_winner_just_opensourced_his/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Anthropic hackathon winner just open-sourced his entire Claude Code setup 🔥",
+  "authors": [
+    "ZookeepergameMost817"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/affaan-m/everything-claude-code",
+    "https://discord.gg/qnzwqxyXFh"
+  ],
+  "media": [
+    "media/01-reddit-media.jpeg",
+    "media/02-reddit-media.jpeg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1wgu40p",
+    "saved_kind": "post",
+    "post_id": "1wgu40p",
+    "comment_id": null,
+    "subreddit": "SATNA_PROJECT",
+    "flair": null,
+    "posted_at": "2026-09-15T08:06:21+00:00",
+    "score_at_capture": 2359,
+    "comment_count_at_capture": 101,
+    "comments_captured_from_api": 96,
+    "thread_comments_returned": 96,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "comments_expanded_from_morechildren": 6,
+    "more_nodes_remaining": 0,
+    "unsaved_at": "2026-10-15T10:44:21+00:00"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "x-2107456589951361083",
+  "url": "https://x.com/micka_design/status/2107456589951361083",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "New skill unlocked: /fluid-functionalism",
+  "authors": [
+    "Micka (@micka_design)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "http://fluidfunctionalism.com/docs/skill"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/image-02.jpg",
+    "media/video-03.mp4",
+    "media/video-04.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107456589951361083",
+    "author_handle": "micka_design",
+    "posted_at": "Tue Oct 06 13:03:00 +0000 2026",
+    "metrics": {
+      "views": 7419,
+      "likes": 186,
+      "replies": 5,
+      "retweets": 3,
+      "bookmarks": 242,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 10,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2107124178231160832/vid/avc1/1006x720/NrUJ72a9e4mGR96E.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2107124178231160832/img/QpCLvzSTyGNLTTFJ.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110455645933568002/vid/avc1/3840x2160/qTEk0TowO2B33sPs.mp4?tag=29",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUnAx4rWwAE7vNg.jpg",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110402864296177666/vid/avc1/1920x1080/IkQ4E-x2PhLQlXos.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110425227935318016/vid/avc1/1920x1080/GX048H4Ly1_HE_Kb.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "New skill unlocked: /fluid-functionalism\n\nBehind every components there's hundreds of craft decisions. I've extracted them from my code comments and package them into a skill. \nNow available one prompt away to audit your project and receive the most impactful recommendations.\n\nhttp://fluidfunctionalism.com/docs/skill",
+    "fx_raw_text": "New skill unlocked: /fluid-functionalism\n\nBehind every components there's hundreds of craft decisions. I've extracted them from my code comments and package them into a skill. \nNow available one prompt away to audit your project and receive the most impactful recommendations.\n\nhttps://t.co/FjA1lnl84x",
+    "unverified_timeline_record_ids": [
+      "2110456607297749099",
+      "2110429909160264027",
+      "2110403186574180555",
+      "2110425467996209244"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:21.929982+00:00"
+  }
+}

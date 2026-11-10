@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1vv5wel",
+  "url": "https://www.reddit.com/r/StrixHalo/comments/1vv5wel/qwen3827biu4kairicedge_a_performace_optimize/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Qwen3.8-27B-IU4-KAIRIC-EDGE, a performace optimize model for Strix Halo by Kairic.ai better performance, better quality.",
+  "authors": [
+    "Narrow_Corgi923"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://huggingface.co/jcbtc/Qwen3.8-27B-IU4-Kairic-Edge"
+  ],
+  "media": [
+    "media/01-reddit-media.jpeg",
+    "media/02-reddit-media.jpeg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1vv5wel",
+    "saved_kind": "post",
+    "post_id": "1vv5wel",
+    "comment_id": null,
+    "subreddit": "StrixHalo",
+    "flair": null,
+    "posted_at": "2026-08-22T07:36:56+00:00",
+    "score_at_capture": 65,
+    "comment_count_at_capture": 83,
+    "comments_captured_from_api": 67,
+    "thread_comments_returned": 67,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:33+00:00"
+  }
+}

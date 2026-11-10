@@ -1,0 +1,50 @@
+{
+  "id": "x-2109262732763783400",
+  "url": "https://x.com/loki_yan_seo/status/2109262732763783400",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "做网站的同学，以免你们不知道。",
+  "authors": [
+    "Loki Yan SEO (@loki_yan_seo)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://cruxvis.withgoogle.com/#/"
+  ],
+  "media": [
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109262732763783400",
+    "author_handle": "loki_yan_seo",
+    "posted_at": "2026-10-11T12:39:58+00:00",
+    "metrics": {
+      "views": 73229,
+      "likes": 788,
+      "replies": 17,
+      "retweets": 90,
+      "bookmarks": 1735,
+      "quotes": 11
+    },
+    "articles": [],
+    "reply_records_captured": 19,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUW5-D3bsAAg5-G.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "做网站的同学，以免你们不知道。\n\nhttps://cruxvis.withgoogle.com/#/\n是谷歌专门用来看Core Web Vitals的看板。什么网站都能看，都是真实用户数据。\n\n这玩意比GSC还有Lighthouse, Page Speed Insight准多了。",
+    "fx_raw_text": "做网站的同学，以免你们不知道。\n\nhttps://t.co/8mI4oBA9y2\n是谷歌专门用来看Core Web Vitals的看板。什么网站都能看，都是真实用户数据。\n\n这玩意比GSC还有Lighthouse, Page Speed Insight准多了。",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2098108930044145904",
+      "2110587546271191166",
+      "2110468574775263258"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:36.357903+00:00"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "x-2109182449179836579",
+  "url": "https://x.com/MengTo/status/2109182449179836579",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Such a good skill for visual explainers. All SVG and animated.",
+  "authors": [
+    "Meng To (@MengTo)"
+  ],
+  "topics": [
+    "agent-skills",
+    "infographics",
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://github.com/wheresryan22/anatomy"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109182449179836579",
+    "author_handle": "MengTo",
+    "posted_at": "2026-10-11T07:20:57+00:00",
+    "metrics": {
+      "views": 108638,
+      "likes": 2531,
+      "replies": 32,
+      "retweets": 218,
+      "bookmarks": 3486,
+      "quotes": 8
+    },
+    "articles": [],
+    "reply_records_captured": 31,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109182060871176192/vid/avc1/960x720/COc7EwLytGU5RWGX.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109182060871176192/img/KHUW4WbWAocaVffO.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Such a good skill for visual explainers. All SVG and animated.\n\nPrompt I used:\n\nhttps://github.com/wheresryan22/anatomy install skill\n\n/anatomy Explain how Seedream 5.0 is able to split an image into layers and what cool things you can produce with it. Do that in a single HTML file. \n\nChange the camera/zoom in for scene 1 to 5 to explain more clearly.",
+    "fx_raw_text": "Such a good skill for visual explainers. All SVG and animated.\n\nPrompt I used:\n\nhttps://t.co/CvOESSiJFY install skill\n\n/anatomy Explain how Seedream 5.0 is able to split an image into layers and what cool things you can produce with it. Do that in a single HTML file. \n\nChange the camera/zoom in for scene 1 to 5 to explain more clearly.",
+    "quoted_post": {
+      "id": "2108948624004526516",
+      "url": "https://x.com/wheresryan22/status/2108948624004526516",
+      "author": "R (@wheresryan22)",
+      "text": "Introducing Anatomy\n\nDescribe a machine in one line. Claude brings it to life.\n\n- Interactive isometric wireframes you can rotate, inspect and explore\n- WebGL shaders for fire, water, plasma and more\n- Real 3D motion, with individual parts that rotate and move\n\nInstall it as an agent skill. Fully open source."
+    },
+    "unverified_timeline_record_ids": [
+      "2099964624829640835",
+      "2068115197718593741",
+      "2109188303014572237"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:28.555671+00:00"
+  }
+}

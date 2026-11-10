@@ -27,6 +27,7 @@
       "web-neuform-ai",
       "github-google-labs-code-design-md"
     ],
-    "category_note": "Product site for OpenDesign: local vibe workspace, 21+ agents."
+    "category_note": "Product site for OpenDesign: local vibe workspace, 21+ agents.",
+    "migrated_v2": true
   }
 }

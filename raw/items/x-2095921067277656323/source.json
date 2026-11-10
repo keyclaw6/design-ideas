@@ -1,0 +1,42 @@
+{
+  "id": "x-2095921067277656323",
+  "url": "https://x.com/motion_so/status/2095921067277656323",
+  "source_type": "x",
+  "captured_at": "2026-09-21T10:00:39Z",
+  "title": "BREAKING: Astra one shotted this launch video  It might be over for motion graphic designers...",
+  "authors": [
+    "@motion_so"
+  ],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/01.mp4",
+    "media/01_thumb.jpg",
+    "media/quoted-video.mp4",
+    "media/quoted-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2095921067277656323",
+    "author_handle": "motion_so",
+    "author_name": "Motion",
+    "author_bio": "Frontier AI for Motion Design.\nMade by @mosaic_so.",
+    "created_at": "Fri Sep 04 17:04:57 +0000 2026",
+    "created_timestamp": 1788541497,
+    "likes": 707,
+    "retweets": 23,
+    "replies": 42,
+    "views": 123263,
+    "bookmarks": 628,
+    "quotes": 8,
+    "lang": "en",
+    "possibly_sensitive": false,
+    "quoted": "https://x.com/OpenAI/status/2095595741528125780",
+    "capture_method": "fxtwitter",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T12:08:33Z"
+  }
+}

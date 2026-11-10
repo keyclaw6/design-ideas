@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2092702228947902622",
     "author_handle": "RenLeanna",
-    "category_note": "H3 plugins: dynamic images + clay/white-model refs"
+    "category_note": "H3 plugins: dynamic images + clay/white-model refs",
+    "migrated_v2": true
   }
 }

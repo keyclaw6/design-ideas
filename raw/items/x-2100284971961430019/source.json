@@ -1,0 +1,38 @@
+{
+  "id": "x-2100284971961430019",
+  "url": "https://x.com/pbakaus/status/2100284971961430019",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:29:16Z",
+  "title": "engineering is moving 10x faster. design review hasn't caught up. introducing Impeccable ..for PRs! a design review",
+  "authors": [
+    "Paul Bakaus (@pbakaus)"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg",
+    "media/media_1.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100284971961430019",
+    "author_handle": "pbakaus",
+    "migrated_v2": true,
+    "author_name": "Paul Bakaus",
+    "created_at": "Wed Sep 16 18:05:33 +0000 2026",
+    "likes": 336,
+    "replies": 166,
+    "retweets": 13,
+    "bookmarks": 263,
+    "quotes": 7,
+    "views": 37457,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

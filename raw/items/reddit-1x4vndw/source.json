@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1x4vndw",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x4vndw/opus_55_blender_won_in_motion_design_threejs/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Opus 5.5 + Blender won in motion design. Three.js didn't match the quality needed",
+  "authors": [
+    "mementomori2344323"
+  ],
+  "topics": [
+    "video-generation",
+    "ui-motion",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x4vndw",
+    "saved_kind": "post",
+    "post_id": "1x4vndw",
+    "comment_id": null,
+    "subreddit": "SaaS",
+    "flair": null,
+    "posted_at": "2026-10-13T12:45:12+00:00",
+    "score_at_capture": 135,
+    "comment_count_at_capture": 63,
+    "comments_captured_from_api": 58,
+    "thread_comments_returned": 58,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:12+00:00"
+  }
+}

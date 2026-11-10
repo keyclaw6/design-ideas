@@ -1,0 +1,52 @@
+{
+  "id": "x-2109222475305197952",
+  "url": "https://x.com/CallMeCSZ/status/2109222475305197952",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "holyshi free Claude Code setup just dropped 🫣",
+  "authors": [
+    "CS (@CallMeCSZ)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "http://github.com/Alishahryar1/free-claude-code",
+    "https://github.com/morluto/rea"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109222475305197952",
+    "author_handle": "CallMeCSZ",
+    "posted_at": "2026-10-11T10:00:00+00:00",
+    "metrics": {
+      "views": 911,
+      "likes": 22,
+      "replies": 13,
+      "retweets": 1,
+      "bookmarks": 2,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 14,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109212175009193984/vid/avc1/1278x720/CYSXPB3QclrcvbuV.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109212175009193984/img/fwkWYl9n6PgjX7d_.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "holyshi free Claude Code setup just dropped 🫣\n\nwhat you get:\n\n- 61 providers + 1.3B free tokens/month\n- 11 coding agents, one model catalog\n- automatic model fallback when providers go down\n- up to 90% lower token usage\n- code from terminal, browser, IDE, or phone\n- voice input + support for tools and images\n\nbasically one setup for your entire AI coding workflow\ntry it: http://github.com/Alishahryar1/free-claude-code",
+    "fx_raw_text": "holyshi free Claude Code setup just dropped 🫣\n\nwhat you get:\n\n- 61 providers + 1.3B free tokens/month\n- 11 coding agents, one model catalog\n- automatic model fallback when providers go down\n- up to 90% lower token usage\n- code from terminal, browser, IDE, or phone\n- voice input + support for tools and images\n\nbasically one setup for your entire AI coding workflow\ntry it: https://t.co/xfpjAWnZJ3",
+    "quoted_post": {
+      "id": "2108501474351169638",
+      "url": "https://x.com/CallMeCSZ/status/2108501474351169638",
+      "author": "CS (@CallMeCSZ)",
+      "text": "Reverse Engineer Anything 🫣\n\nbasically it helps AI figure out how existing software works so it can rebuild it\n\nimagine cloning X, facebook, instagram with AI what's stopping us now?\n\nsoftware is fcking done: https://github.com/morluto/rea"
+    },
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:32.699517+00:00"
+  }
+}

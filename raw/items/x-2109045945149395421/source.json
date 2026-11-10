@@ -1,0 +1,72 @@
+{
+  "id": "x-2109045945149395421",
+  "url": "https://x.com/sinaatalay/status/2109045945149395421",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing ManimGX, the 3D animation engine for agents.",
+  "authors": [
+    "Sina Atalay (@sinaatalay)"
+  ],
+  "topics": [
+    "ui-motion",
+    "infographics"
+  ],
+  "related_urls": [
+    "https://github.com/academa-labs/manimgx",
+    "https://manimgx.academa.ai",
+    "http://github.com/academa-labs/manimgx",
+    "http://manimgx.academa.ai",
+    "http://manimgx.academa.ai/llms.txt"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.png",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4",
+    "media/video-06.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109045945149395421",
+    "author_handle": "sinaatalay",
+    "posted_at": "2026-10-10T22:18:32+00:00",
+    "metrics": {
+      "views": 243429,
+      "likes": 3270,
+      "replies": 88,
+      "retweets": 303,
+      "bookmarks": 5402,
+      "quotes": 65
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109040311934889984/vid/avc1/1280x720/XsOF6cleTCQ2talg.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109040311934889984/img/B1fDHPDTcsFhcH86.jpg",
+      "media/image-02.png": "https://pbs.twimg.com/media/HUTSW7YagAAVDs0.png",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUTS9UwbQAAgijK.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HUTUWPmbcAAJZFJ.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2109044273970872320/vid/avc1/1920x1080/ECPEa3rZJ09FAOOJ.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2109740058681217024/vid/avc1/1280x720/uC2ENRf2-goTs-fI.mp4?tag=14",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2109473956680138752/vid/avc1/1280x720/ZJwiuaD3GwdizPQb.mp4?tag=14",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2110006924926484480/vid/avc1/1280x720/Z79yDs0LUyDO2qQV.mp4?tag=29",
+      "media/video-06.mp4": "https://video.twimg.com/amplify_video/2110348365439332352/vid/avc1/1280x720/dTQZuI0w0oGruESe.mp4?tag=14"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing ManimGX, the 3D animation engine for agents.\n\n- Blazingly fast: 90× faster than ManimCE\n- Rust + wgpu core\n- Compatible with Manim's Python API\n- Lightweight: one pip install, no system dependencies\n\nOpen source: http://github.com/academa-labs/manimgx\nDocs: http://manimgx.academa.ai\n\nFor 40 years we built GUIs for humans. Now we build APIs for agents.\n\nTry it. Paste this into your favorite coding agent:\n\n\"Follow http://manimgx.academa.ai/llms.txt to make me a 3D animation of the solar system, and open it.\"",
+    "fx_raw_text": "Introducing ManimGX, the 3D animation engine for agents.\n\n- Blazingly fast: 90× faster than ManimCE\n- Rust + wgpu core\n- Compatible with Manim's Python API\n- Lightweight: one pip install, no system dependencies\n\nOpen source: https://t.co/rd68AdwV11\nDocs: https://t.co/eVA74t1DTu\n\nFor 40 years we built GUIs for humans. Now we build APIs for agents.\n\nTry it. Paste this into your favorite coding agent:\n\n\"Follow https://t.co/86GwyaGyKQ to make me a 3D animation of the solar system, and open it.\"",
+    "unverified_timeline_record_ids": [
+      "2099964624640598175",
+      "2068115197718593741",
+      "2099964624766730251"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:20.253046+00:00"
+  }
+}

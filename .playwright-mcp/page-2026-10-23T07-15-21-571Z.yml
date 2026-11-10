@@ -1,0 +1,47 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [aria-hidden] [ref=e6]:
+        - generic [ref=e7]: Loading
+        - progressbar [aria-hidden] [ref=e8]
+      - main [ref=e155]:
+        - generic [ref=e160]:
+          - heading "2-Step Verification" [level=1] [ref=e161]
+          - generic [ref=e162]: To help keep your account safe, Google wants to make sure it’s really you trying to sign in
+          - link "kab264z@gmail.com selected. Switch account" [ref=e164] [cursor=pointer]:
+            - generic [ref=e169]: kab264z@gmail.com
+        - generic [ref=e180]:
+          - generic [ref=e181]:
+            - figure [ref=e183]
+            - generic [ref=e239]:
+              - heading "Check your Galaxy S22" [level=2] [ref=e241]
+              - generic [ref=e245]:
+                - text: Google sent a notification to your Galaxy S22. Tap
+                - strong [ref=e246]: "Yes"
+                - text: on the notification to verify it’s you.
+          - generic [ref=e250]:
+            - checkbox "Don’t ask again on this device" [checked] [ref=e254] [cursor=pointer]
+            - generic [ref=e255]: Don’t ask again on this device
+        - generic [ref=e258]:
+          - timer [ref=e260]:
+            - generic [ref=e261]: Resend it
+          - button "Try another way" [ref=e267]
+    - contentinfo [ref=e66]:
+      - combobox "Change language English (United States)" [ref=e70] [cursor=pointer]:
+        - generic [aria-hidden]:
+          - generic: English (United States)
+      - list [ref=e72]:
+        - listitem [ref=e73]:
+          - link "Open Google Account Help Center (external, opens in a new window)" [ref=e74] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=en-US&p=account_iph
+            - text: Help
+        - listitem [ref=e75]:
+          - link "Privacy Policy (external, opens in a new window)" [ref=e76] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=DK&hl=en-US&privacy=true
+            - text: Privacy
+        - listitem [ref=e77]:
+          - link "Google Terms of Service (external, opens in a new window)" [ref=e78] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=DK&hl=en-US
+            - text: Terms
+  - iframe [ref=e79]
+  - generic [ref=e153]: 2-Step Verification To help keep your account safe, Google wants to make sure it’s really you trying to sign in

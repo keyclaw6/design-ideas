@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2093305736717545869",
     "author_handle": "irinatoxi",
-    "category_note": "Autodesk Fusion via MCP; stress-test CAD agent on weird assemblies."
+    "category_note": "Autodesk Fusion via MCP; stress-test CAD agent on weird assemblies.",
+    "migrated_v2": true
   }
 }

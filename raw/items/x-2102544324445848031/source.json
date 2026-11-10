@@ -1,0 +1,66 @@
+{
+  "id": "x-2102544324445848031",
+  "url": "https://x.com/jake11moran/status/2102544324445848031",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Skill for 3d camera + text effect is live!",
+  "authors": [
+    "Jake Moran (@jake11moran)"
+  ],
+  "topics": [
+    "agent-skills",
+    "ui-motion",
+    "camera-control"
+  ],
+  "related_urls": [
+    "https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/camera-3d-captions"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/video-02.mp4",
+    "media/image-03.jpg",
+    "media/image-04.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102544324445848031",
+    "author_handle": "jake11moran",
+    "posted_at": "Tue Sep 22 23:43:24 +0000 2026",
+    "metrics": {
+      "views": 118926,
+      "likes": 743,
+      "replies": 19,
+      "retweets": 53,
+      "bookmarks": 1272,
+      "quotes": 12
+    },
+    "articles": [],
+    "reply_records_captured": 22,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2102541009884471296/vid/avc1/1280x720/fGPGZqCjAATdYPkM.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2102541009884471296/img/cYGsognJRDaDe-uX.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2102547134541434880/vid/avc1/1920x1080/4bDJgaHLOvcMSKXN.mp4?tag=29",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HS33TP9XwAAK8Sg.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HS4GWQgbsAA92t3.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Skill for 3d camera + text effect is live!\n\nhttps://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/camera-3d-captions",
+    "fx_raw_text": "Skill for 3d camera + text effect is live!\n\nhttps://t.co/QS9MbdSjJE https://t.co/j9jWrSaaeo",
+    "quoted_post": {
+      "id": "2102493361743839432",
+      "url": "https://x.com/jake11moran/status/2102493361743839432",
+      "author": "Jake Moran (@jake11moran)",
+      "text": "3d camera and text effect with opus 5.5 + @HyperFrames_"
+    },
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:51:59.020274+00:00"
+  }
+}

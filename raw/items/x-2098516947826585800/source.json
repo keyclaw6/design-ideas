@@ -1,0 +1,46 @@
+{
+  "id": "x-2098516947826585800",
+  "url": "https://x.com/iamneubert/status/2098516947826585800",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "This ad cost $9 and took 10 minutes to make.",
+  "authors": [
+    "Nicolas Neubert (@iamneubert)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_1.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098516947826585800",
+    "author_handle": "iamneubert",
+    "author_name": "Nicolas Neubert",
+    "author_bio": "✦ Senior Manager, Technical Artists at @runwayml.\n✦ Chief Gaming Officer at Runway Games\n✦ Work recognized by Forbes, The New York Times, Bloomberg & CNN.",
+    "created_at": "Fri Sep 11 21:00:03 +0000 2026",
+    "stats": {
+      "likes": 10478,
+      "reposts": 287,
+      "replies": 340,
+      "views": 10928680,
+      "bookmarks": 6343,
+      "quotes": 211
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 44,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 15,
+    "replies_thread": 9,
+    "replies_comments": 6,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

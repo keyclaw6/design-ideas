@@ -1,0 +1,50 @@
+{
+  "id": "x-2097691298941505539",
+  "url": "https://x.com/qwertyu_alex/status/2097691298941505539",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "Claude skill file for Zack-D style ads + full YouTube tutorial (starpop.ai)",
+  "authors": [
+    "Alex | The AI Ads Guy (@qwertyu_alex)"
+  ],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://starpop.ai/ai-animation-ads/zack-d-ads",
+    "https://x.com/qwertyu_alex/status/2092347011383148617"
+  ],
+  "media": [
+    "media/quoted_0.mp4",
+    "media/quoted_thumb_0.jpg",
+    "media/quoted_1.mp4",
+    "media/quoted_thumb_1.jpg",
+    "media/quoted_2.mp4",
+    "media/quoted_thumb_2.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097691298941505539",
+    "author_handle": "qwertyu_alex",
+    "author_name": "Alex | The AI Ads Guy",
+    "author_id": "1050886046",
+    "created_at": "2026-09-09T14:19:13Z",
+    "likes": 854,
+    "replies": 17,
+    "retweets": 93,
+    "bookmarks": 1901,
+    "quotes": 0,
+    "views": 73465,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "17 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "quoted_tweet_id": "2092347011383148617",
+    "quoted_author_handle": "qwertyu_alex",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

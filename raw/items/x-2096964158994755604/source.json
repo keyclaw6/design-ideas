@@ -1,0 +1,38 @@
+{
+  "id": "x-2096964158994755604",
+  "url": "https://x.com/kebura_P/status/2096964158994755604",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "FFmpeg Skill v0.9.2→v0.12.0: 28 tools, pre-checks, track-aware subs, MCP, Claude Code/Cursor",
+  "authors": [
+    "shogo kajiyama (@kebura_P)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/kajisho5/ffmpeg-skill?v=0.12.0",
+    "https://seventh-well.com"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096964158994755604",
+    "author_handle": "kebura_P",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 144607,
+      "likes": 2393,
+      "replies": 24,
+      "retweets": 263,
+      "bookmarks": 3863,
+      "quotes": 12
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "Video & Audio Engineer turned AI Developer.\nBuilding AI Agents & Skills to automate video production.\nClaude Code • FFmpeg • Open Source",
+    "posted_at": "Mon Sep 07 14:09:49 +0000 2026",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

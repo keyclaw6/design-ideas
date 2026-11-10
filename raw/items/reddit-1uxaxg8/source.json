@@ -1,0 +1,33 @@
+{
+  "id": "reddit-1uxaxg8",
+  "url": "https://www.reddit.com/r/OpenaiCodex/comments/1uxaxg8/certainty_psychosis_why_sol_goes_into_validation/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Certainty Psychosis: why Sol goes into validation spirals and destroys your time and tokens.",
+  "authors": [
+    "-AJacobs-"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1uxaxg8",
+    "saved_kind": "post",
+    "post_id": "1uxaxg8",
+    "comment_id": null,
+    "subreddit": "OpenaiCodex",
+    "flair": null,
+    "posted_at": "2026-07-15T16:30:13+00:00",
+    "score_at_capture": 8,
+    "comment_count_at_capture": 21,
+    "comments_captured_from_api": 20,
+    "thread_comments_returned": 20,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:56:39+00:00"
+  }
+}

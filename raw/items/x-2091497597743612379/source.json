@@ -17,6 +17,7 @@
   "extra": {
     "tweet_id": "2091497597743612379",
     "author_handle": "abyssallD",
-    "category_note": "Higgsfield+Claude Blender world; not a BESS site"
+    "category_note": "Higgsfield+Claude Blender world; not a BESS site",
+    "migrated_v2": true
   }
 }

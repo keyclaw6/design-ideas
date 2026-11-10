@@ -29,6 +29,7 @@
       "x-2086715093707063445",
       "github-google-labs-code-design-md"
     ],
-    "category_note": "Impeccable 4.1 changelog (install + native + live mode)"
+    "category_note": "Impeccable 4.1 changelog (install + native + live mode)",
+    "migrated_v2": true
   }
 }

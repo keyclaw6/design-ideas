@@ -16,6 +16,7 @@
   ],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2094769581965369822",
     "author_handle": "janusch_patas",
     "fetch": "api.fxtwitter.com (retry)",

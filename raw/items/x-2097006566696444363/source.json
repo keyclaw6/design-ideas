@@ -1,0 +1,30 @@
+{
+  "id": "x-2097006566696444363",
+  "url": "https://x.com/MiniMax_AI/status/2097006566696444363",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:29:07Z",
+  "title": "New video generation acceleration for MiniMax-H3 from the NVIDIA Sol team! Faster than playback, fully open-sourced",
+  "authors": [
+    "MiniMax (official) (@MiniMax_AI)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [
+    "https://nvlabs.github.io/Sana/Sol-Engine/Sol-H3/",
+    "https://www.reactor.inc/sandbox?model=fast-h3",
+    "https://x.com/xieenze_jr/status/2097000082927399012"
+  ],
+  "media": [
+    "media/quote_0.mp4",
+    "media/quote_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097006566696444363",
+    "author_handle": "MiniMax_AI",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -17,6 +17,7 @@
     "tweet_id": "2091150763418620133",
     "author_handle": "akshay_pachaar",
     "filtered": true,
-    "category_note": "Duplicate FreeToken inference writeup; no matching topic slug"
+    "category_note": "Duplicate FreeToken inference writeup; no matching topic slug",
+    "migrated_v2": true
   }
 }

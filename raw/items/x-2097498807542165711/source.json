@@ -1,0 +1,47 @@
+{
+  "id": "x-2097498807542165711",
+  "url": "https://x.com/pbakaus/status/2097498807542165711",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "I ported Impeccable’s engine to Rust. The design hooks that catch AI slop after each edit now run in ~10ms. • ~4×",
+  "authors": [
+    "Paul Bakaus (@pbakaus)"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "http://impeccable.style"
+  ],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097498807542165711",
+    "author_handle": "pbakaus",
+    "author_name": "Paul Bakaus",
+    "author_bio": "Renaissance geek (creativity × culture × tech). Product engineer before it was cool. Made @impeccable_ai, @radiant_shaders, @jqueryui | x-@google, @zynga",
+    "created_at": "Wed Sep 09 01:34:20 +0000 2026",
+    "likes": 779,
+    "replies": 41,
+    "retweets": 36,
+    "views": 127771,
+    "bookmarks": 899,
+    "quotes": 7,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 811,
+    "replies_added": 11,
+    "replies_thread": 1,
+    "replies_comments": 10,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

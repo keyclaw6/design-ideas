@@ -122,9 +122,13 @@ def capture(tid: str) -> None:
             paths.append(f"media/media_{i}.jpg")
         except OSError:
             pass
-    (folder / "post.md").write_text(f"# {title}\n\n@{handle}\n\n{text}\n", encoding="utf-8")
-    (folder / "comments.md").write_text("# Comments\n", encoding="utf-8")
-    (folder / "research.md").write_text("# Research\n\nAuto-captured during harvest-clear loop.\n", encoding="utf-8")
+    (folder / "content.md").write_text(
+        f"# {title}\n\n"
+        f"> Source: https://x.com/{handle}/status/{tid} — @{handle}\n\n"
+        f"## Post\n\n{text}\n\n"
+        + ("## Media\n\n" + "\n".join(f"![](media/{p.split('/')[-1]})" for p in paths) + "\n" if paths else ""),
+        encoding="utf-8",
+    )
     meta = {
         "id": f"x-{tid}",
         "url": f"https://x.com/{handle}/status/{tid}",
@@ -151,6 +155,7 @@ def api_unsave(tid: str) -> None:
             "x-csrf-token": CT0,
             "x-twitter-active-user": "yes",
             "x-twitter-auth-type": "OAuth2Session",
+            "x-twitter-client-language": "en",
             "authorization": f"Bearer {urllib.parse.unquote(BEARER)}",
             "cookie": f"auth_token={AUTH}; ct0={CT0}",
         },

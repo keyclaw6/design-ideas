@@ -27,6 +27,7 @@
       "web-flint-chart",
       "github-antvis-infographic"
     ],
-    "category_note": "Harness canvas worker: diagrams in chat"
+    "category_note": "Harness canvas worker: diagrams in chat",
+    "migrated_v2": true
   }
 }

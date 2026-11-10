@@ -1,0 +1,52 @@
+{
+  "id": "x-2098414759234457878",
+  "url": "https://x.com/EXM7777/status/2098414759234457878",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "How to automate content creation (Full Course)",
+  "authors": [
+    "Machina (@EXM7777)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/i/article/2098414752120913920"
+  ],
+  "media": [
+    "media/media_0.jpg",
+    "media/media_1.jpg",
+    "media/media_2.jpg",
+    "media/media_3.png",
+    "media/media_4.jpg",
+    "media/media_5.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098414759234457878",
+    "author_handle": "EXM7777",
+    "author_name": "Machina",
+    "author_bio": "running ai-powered agencies | https://t.co/fMOmHWBgHG",
+    "created_at": "Fri Sep 11 14:13:59 +0000 2026",
+    "stats": {
+      "likes": 1178,
+      "reposts": 142,
+      "replies": 32,
+      "views": 390318,
+      "bookmarks": 3990,
+      "quotes": 11
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 11035,
+    "article_id": "2098414752120913920",
+    "article_title": "How to automate content creation (Full Course)",
+    "replies_added": 11,
+    "replies_thread": 0,
+    "replies_comments": 11,
+    "replies_page_verified": true,
+    "filtered": true,
+    "category_note": "Content-farm automation course; GTM, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

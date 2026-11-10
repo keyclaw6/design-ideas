@@ -19,6 +19,7 @@
     "tweet_id": "2091559663833924082",
     "author_handle": "GarshytHoel",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Isometric system-atlas skill, not AntV charts"
+    "category_note": "Isometric system-atlas skill, not AntV charts",
+    "migrated_v2": true
   }
 }

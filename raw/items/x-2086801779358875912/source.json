@@ -3,7 +3,7 @@
   "url": "https://x.com/alexgilev/status/2086801779358875912",
   "source_type": "x",
   "captured_at": "2026-09-04T06:52:17Z",
-  "title": "Introducing ... 🥁 \"Agentic UI Showcase\" https://agenticui.net/showcase A collection of best product interfaces made with",
+  "title": "Introducing ... \ud83e\udd41 \"Agentic UI Showcase\" https://agenticui.net/showcase A collection of best product interfaces made with",
   "authors": [
     "@alexgilev"
   ],
@@ -27,6 +27,7 @@
       "github-nexu-io-open-design",
       "web-recent-design"
     ],
-    "category_note": "Gallery of product UIs built with Agentic UI — reference board for vibe-design."
+    "category_note": "Gallery of product UIs built with Agentic UI \u2014 reference board for vibe-design.",
+    "migrated_v2": true
   }
 }

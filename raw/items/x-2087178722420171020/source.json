@@ -24,6 +24,7 @@
       "web-obscura-sh",
       "github-punkpeye-awesome-mcp-servers"
     ],
-    "category_note": "cloudflare/cloudflare-os: Workers-based agent workspace for docs, apps, and company-context agents."
+    "category_note": "cloudflare/cloudflare-os: Workers-based agent workspace for docs, apps, and company-context agents.",
+    "migrated_v2": true
   }
 }

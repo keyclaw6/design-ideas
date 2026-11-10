@@ -15,6 +15,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095512142766342624",
     "author_handle": "sidahuj",
     "category_note": "Photo-to-Blender 3D paste pipeline (thin but reusable previz step)."

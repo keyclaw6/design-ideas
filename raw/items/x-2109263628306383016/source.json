@@ -1,0 +1,63 @@
+{
+  "id": "x-2109263628306383016",
+  "url": "https://x.com/athrix_codes/status/2109263628306383016",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Built an entire airport in isometric design.",
+  "authors": [
+    "Athrix ☄️ (@athrix_codes)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://airport-isometric-design.athrix.me"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/animation-01.mp4",
+    "media/video-02.mp4",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/video-03.mp4",
+    "media/video-04.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109263628306383016",
+    "author_handle": "athrix_codes",
+    "posted_at": "2026-10-11T12:43:31+00:00",
+    "metrics": {
+      "views": 6894,
+      "likes": 211,
+      "replies": 17,
+      "retweets": 6,
+      "bookmarks": 111,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 20,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109260261341499392/vid/avc1/1508x720/KECqUVotHonkrJXq.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109260261341499392/img/tA_1XiPfK1My135i.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUmfG_MXUAEuW-Z.mp4",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110573664651579392/vid/avc1/1768x1080/Q5QefeZlD6TenOdD.mp4?tag=29",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUpQWL9aUAA2Vwk.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUpQWL6akAAWaA_.jpg",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2108072332229050368/vid/avc1/1320x2868/RcIXDtHdvk7JkwDI.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2108072332233170944/vid/avc1/1320x2868/rwkdDKO-C_Fku2is.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Built an entire airport in isometric design.\n\nlive: https://airport-isometric-design.athrix.me\n\nngl, this is the best isometric design I've ever made!\nI actually opensourced this",
+    "fx_raw_text": "Built an entire airport in isometric design.\n\nlive: https://t.co/eXGzJRotNv\n\nngl, this is the best isometric design I've ever made!\nI actually opensourced this https://t.co/QXG8qhGuXE",
+    "unverified_timeline_record_ids": [
+      "2110394684057211287",
+      "2110587727431528800",
+      "2110349874608931157"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:39.747769+00:00"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "x-2096684863588020560",
+  "url": "https://x.com/itsalexvacca/status/2096684863588020560",
+  "source_type": "x",
+  "captured_at": "2026-09-21T08:59:07Z",
+  "title": "if you're doing GTM, read this:",
+  "authors": [
+    "Alex Vacca (@itsalexvacca)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/itsalexvacca/status/2095924276750880864"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096684863588020560",
+    "author_handle": "itsalexvacca",
+    "author_name": "Alex Vacca",
+    "author_bio": "Founder & CEO @Frontal_AI | Helping B2B companies past PMF grow revenue without adding headcount | 1 of 4 @clay Elite Studio Partners | Built ColdIQ to $7M ARR",
+    "author_followers": 36276,
+    "author_following": 571,
+    "created_at": "Sun Sep 06 19:40:00 +0000 2026",
+    "stats": {
+      "likes": 113,
+      "reposts": 16,
+      "replies": 2,
+      "views": 18501,
+      "bookmarks": 287,
+      "quotes": 1
+    },
+    "fetch": "api.fxtwitter.com (primary: https://api.fxtwitter.com/i/status/2096684863588020560); r.jina.ai comments attempt -> HTTP 403; vxtwitter fallback available",
+    "comments": "none retrievable (jina 403, fx single-tweet only)",
+    "quote_url": "https://x.com/itsalexvacca/status/2095924276750880864",
+    "filtered": true,
+    "category_note": "GTM/outbound 100-tips cheat sheet (comment-gated); GTM, out of taxonomy. Full tips readable in local image.",
+    "unsaved_at": "2026-09-21T12:08:48Z"
+  }
+}

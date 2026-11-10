@@ -28,6 +28,7 @@
       "github-antvis-infographic",
       "web-flint-chart"
     ],
-    "category_note": "Agent-generated explorable codebase diagrams"
+    "category_note": "Agent-generated explorable codebase diagrams",
+    "migrated_v2": true
   }
 }

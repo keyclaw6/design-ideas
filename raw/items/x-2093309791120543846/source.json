@@ -3,7 +3,7 @@
   "url": "https://x.com/trending_repos/status/2093309791120543846",
   "source_type": "x",
   "captured_at": "2026-09-04T08:04:14Z",
-  "title": "Trending repository of the day \ud83d\udcc8 archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-fl",
+  "title": "Trending repository of the day 📈 archify Agent skill for beautiful, verifiable architecture, workflow, sequence, data-fl",
   "authors": [
     "@trending_repos"
   ],
@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2093309791120543846",
     "author_handle": "trending_repos",
-    "category_note": "archify: agent skill for architecture/flow diagrams with motion + HTML export."
+    "category_note": "archify: agent skill for architecture/flow diagrams with motion + HTML export.",
+    "migrated_v2": true
   }
 }

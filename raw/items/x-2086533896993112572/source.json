@@ -3,7 +3,7 @@
   "url": "https://x.com/SaturateSkin/status/2086533896993112572",
   "source_type": "x",
   "captured_at": "2026-09-04T07:36:40Z",
-  "title": "A 7-step routine costs about €488 for 120 nights. That's €4 a night. Most of it is water. I'm a chemist. I put every act",
+  "title": "A 7-step routine costs about \u20ac488 for 120 nights. That's \u20ac4 a night. Most of it is water. I'm a chemist. I put every act",
   "authors": [
     "@SaturateSkin"
   ],
@@ -22,6 +22,7 @@
       "web-neuform-ai"
     ],
     "category_note": "Same skincare brand; chemist cost-per-night pitch. Duplicate noise.",
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

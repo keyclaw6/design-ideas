@@ -1,0 +1,38 @@
+{
+  "id": "x-2100705843453079718",
+  "url": "https://x.com/MonidHQ/status/2100705843453079718",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "We just killed Exa, Tavily and Brave. Your agent can now search & fetch any webpage for 100% FREE. Them: $7 per 1,000",
+  "authors": [
+    "Monid (@MonidHQ)"
+  ],
+  "topics": [
+    "agent-skills",
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100705843453079718",
+    "author_handle": "MonidHQ",
+    "migrated_v2": true,
+    "author_name": "Monid",
+    "created_at": "Thu Sep 17 21:57:56 +0000 2026",
+    "likes": 2942,
+    "replies": 117,
+    "retweets": 176,
+    "bookmarks": 4977,
+    "quotes": 47,
+    "views": 522822,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -15,6 +15,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095202138854977756",
     "author_handle": "Jibran_05",
     "fetch": "api.fxtwitter.com (retry)",

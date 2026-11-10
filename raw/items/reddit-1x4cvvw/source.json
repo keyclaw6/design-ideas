@@ -1,0 +1,40 @@
+{
+  "id": "reddit-1x4cvvw",
+  "url": "https://www.reddit.com/r/omarchy/comments/1x4cvvw/strata_reaches_10_release/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Strata Reaches 1.0 Release",
+  "authors": [
+    "DizzieeDoe"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://x.com/l0gicgate/status/2109739837435814207?s=20",
+    "https://github.com/lgse/strata",
+    "https://stratafiles.io/"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x4cvvw",
+    "saved_kind": "post",
+    "post_id": "1x4cvvw",
+    "comment_id": null,
+    "subreddit": "omarchy",
+    "flair": "Discussion",
+    "posted_at": "2026-10-12T20:24:15+00:00",
+    "score_at_capture": 299,
+    "comment_count_at_capture": 47,
+    "comments_captured_from_api": 46,
+    "thread_comments_returned": 46,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:18+00:00"
+  }
+}

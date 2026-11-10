@@ -1,0 +1,34 @@
+{
+  "id": "x-2100249971148898734",
+  "url": "https://x.com/itsalicesoul/status/2100249971148898734",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:29:16Z",
+  "title": "Places to launch your startup: 1. ProductHunt 2. Betalist 3. Uneed 4. TrustMRR 5. Fazier 6. OpenAlternative 7.",
+  "authors": [
+    "Alice (@itsalicesoul)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100249971148898734",
+    "author_handle": "itsalicesoul",
+    "migrated_v2": true,
+    "author_name": "Alice",
+    "created_at": "Wed Sep 16 15:46:28 +0000 2026",
+    "likes": 507,
+    "replies": 57,
+    "retweets": 51,
+    "bookmarks": 868,
+    "quotes": 9,
+    "views": 86648,
+    "lang": "en",
+    "source_client": "Twitter for Android",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -57,6 +57,7 @@
     "mcp_url": "https://mcp.gojiberry.ai/mcp",
     "fetch": "api.fxtwitter.com + api.vxtwitter.com + r.jina.ai on fixupx.com; photo via pbs.twimg.com; GitHub API read-only (did not rewrite github-romangojiberryAI-gojiberryai-sales-os); mcp.gojiberry.ai HEAD 200 application/json",
     "comments_note": "12 replies; 1 author self-reply (gojiberry.ai card) + 1 first-level (short_usd) via fixupx. Remaining ~10 login-walled. 1 quote unlisted.",
-    "topics_note": "Grok Bot + hosted GojiberryAI MCP outbound; seo-agents is the SCHEMA GTM slot (same as other Gojiberry items)."
+    "topics_note": "Grok Bot + hosted GojiberryAI MCP outbound; seo-agents is the SCHEMA GTM slot (same as other Gojiberry items).",
+    "migrated_v2": true
   }
 }

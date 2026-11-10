@@ -16,6 +16,7 @@
   "extra": {
     "tweet_id": "2093774183356379560",
     "author_handle": "jonathan_wilke",
-    "category_note": "unive.ai site called out as web-design reference."
+    "category_note": "unive.ai site called out as web-design reference.",
+    "migrated_v2": true
   }
 }

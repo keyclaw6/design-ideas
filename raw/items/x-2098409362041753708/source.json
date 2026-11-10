@@ -1,0 +1,46 @@
+{
+  "id": "x-2098409362041753708",
+  "url": "https://x.com/higgsfield/status/2098409362041753708",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "ChatGPT can now do motion design in After Effects. Introducing Higgsfield AI Motion Designer. Our ChatGPT plugin",
+  "authors": [
+    "Higgsfield AI 🧩 (@higgsfield)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_1.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098409362041753708",
+    "author_handle": "higgsfield",
+    "author_name": "Higgsfield AI 🧩",
+    "author_bio": "The AI-native creative suite",
+    "created_at": "Fri Sep 11 13:52:33 +0000 2026",
+    "stats": {
+      "likes": 8328,
+      "reposts": 600,
+      "replies": 286,
+      "views": 3199757,
+      "bookmarks": 8873,
+      "quotes": 489
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 275,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 3,
+    "replies_thread": 1,
+    "replies_comments": 2,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

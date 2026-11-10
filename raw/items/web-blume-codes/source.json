@@ -17,6 +17,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "supported_harnesses": [
       "Codex",
       "Claude Code",

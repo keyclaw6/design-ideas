@@ -1,0 +1,86 @@
+{
+  "id": "x-2102758425386172842",
+  "url": "https://x.com/EXM7777/status/2102758425386172842",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "How to automate SEO with Opus 5.5 (Full Course)",
+  "authors": [
+    "Machina (@EXM7777)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/i/article/2102758417706405888",
+    "https://viktor.com",
+    "https://ref.viktor.com/machina-x-4"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.png",
+    "media/image-03.png",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.png",
+    "media/image-07.png",
+    "media/image-08.png",
+    "media/image-09.png",
+    "media/animation-01.mp4",
+    "media/image-10.jpg",
+    "media/animation-02.mp4",
+    "media/image-11.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102758425386172842",
+    "author_handle": "EXM7777",
+    "posted_at": "2026-09-23T13:54:10+00:00",
+    "metrics": {
+      "views": 872610,
+      "likes": 1486,
+      "replies": 38,
+      "retweets": 95,
+      "bookmarks": 5947,
+      "quotes": 30
+    },
+    "articles": [
+      {
+        "kind": "direct",
+        "id": "2102758417706405888",
+        "title": "How to automate SEO with Opus 5.5 (Full Course)",
+        "blocks": 168,
+        "quoted_tweet_id": null
+      }
+    ],
+    "reply_records_captured": 36,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HS5_mtsaMAA2zTd.jpg",
+      "media/image-02.png": "https://pbs.twimg.com/media/HS5_ndEbIAAzV6E.png",
+      "media/image-03.png": "https://pbs.twimg.com/media/HS5_ouCbsAEfBR8.png",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HS5_nuLasAAAJE-.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HS5_oefawAEvGMQ.jpg",
+      "media/image-06.png": "https://pbs.twimg.com/media/HS5_m6JaEAAHmyH.png",
+      "media/image-07.png": "https://pbs.twimg.com/media/HS5_oNQbsAAoqY8.png",
+      "media/image-08.png": "https://pbs.twimg.com/media/HS5_n8lbwAAlj-l.png",
+      "media/image-09.png": "https://pbs.twimg.com/media/HS5_nLIaoAAk8E2.png",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HS6PA30XYAAR21c.mp4",
+      "media/image-10.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/animation-02.mp4": "https://video.twimg.com/tweet_video/HS6AUGNW8AAb_hD.mp4",
+      "media/image-11.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "https://x.com/i/article/2102758417706405888",
+    "fx_raw_text": "https://t.co/kf0W6P7Ney",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740",
+      "2090814619275436444",
+      "2095775916869767477"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:09.146694+00:00"
+  }
+}

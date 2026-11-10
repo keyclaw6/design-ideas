@@ -24,6 +24,7 @@
       "github-jakubkrehel-skills",
       "web-checklist-design"
     ],
-    "category_note": "DESIGN.md-thread domain (type/UI); Vercel 429, no body."
+    "category_note": "DESIGN.md-thread domain (type/UI); Vercel 429, no body.",
+    "migrated_v2": true
   }
 }

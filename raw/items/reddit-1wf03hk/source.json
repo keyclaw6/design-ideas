@@ -1,0 +1,36 @@
+{
+  "id": "reddit-1wf03hk",
+  "url": "https://www.reddit.com/r/OpenSourceAI/comments/1wf03hk/deep_dog_2_i_made_the_fifth_best_ranked_deep/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Deep Dog 2: I made the fifth best ranked deep research agent and am releasing it completely open source. It is easy to install and runs with a variety of LLM and search engine providers (default is deepseek + exa). It is completely free to use and runs async in python by default.",
+  "authors": [
+    "pizzababa21"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/beneadie/deep\\_dog\\_2",
+    "https://github.com/beneadie/deep\\_dog\\_2.git\""
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1wf03hk",
+    "saved_kind": "post",
+    "post_id": "1wf03hk",
+    "comment_id": null,
+    "subreddit": "OpenSourceAI",
+    "flair": null,
+    "posted_at": "2026-09-13T06:35:55+00:00",
+    "score_at_capture": 16,
+    "comment_count_at_capture": 9,
+    "comments_captured_from_api": 9,
+    "thread_comments_returned": 9,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:22+00:00"
+  }
+}

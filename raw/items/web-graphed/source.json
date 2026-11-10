@@ -21,6 +21,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "mcp_url": "https://mcp.graphed.com/mcp",
     "sources_count": "750+",
     "fetch": "r.jina.ai homepage + /mcp",

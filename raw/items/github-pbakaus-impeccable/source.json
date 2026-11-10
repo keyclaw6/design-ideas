@@ -21,6 +21,7 @@
   ],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 64933,
     "commands": 23,
     "detector_rules": 61,

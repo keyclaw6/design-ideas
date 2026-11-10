@@ -25,6 +25,7 @@
       "web-utsubo",
       "web-opale-ui-taste"
     ],
-    "category_note": "Curated motion/UI inspiration feed from X/IG; apex recent.design."
+    "category_note": "Curated motion/UI inspiration feed from X/IG; apex recent.design.",
+    "migrated_v2": true
   }
 }

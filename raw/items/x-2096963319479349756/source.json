@@ -1,0 +1,37 @@
+{
+  "id": "x-2096963319479349756",
+  "url": "https://x.com/Dylan_txa_/status/2096963319479349756",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "$0 to $2M ARR with one LinkedIn GTM play: intent signals for GDPR/SOC2 compliance",
+  "authors": [
+    "Dylan Txa (@Dylan_txa_)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://gojiberry.ai"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096963319479349756",
+    "author_handle": "Dylan_txa_",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 46375,
+      "likes": 256,
+      "replies": 26,
+      "retweets": 21,
+      "bookmarks": 749,
+      "quotes": 2
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "Co-Founder @ Gojiberry AI",
+    "posted_at": "Mon Sep 07 14:06:29 +0000 2026",
+    "filtered": true,
+    "category_note": "LinkedIn GTM playbook ($0→$2M); GTM, out of taxonomy.",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "x-2097837324688146698",
+  "url": "https://x.com/zxdubx/status/2097837324688146698",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "@Voxyz_ai mine actual project — everything works very well (reply with demo screenshot)",
+  "authors": [
+    "Matt (@zxdubx)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/Voxyz_ai/status/2097814698204832116"
+  ],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097837324688146698",
+    "author_handle": "zxdubx",
+    "author_name": "Matt",
+    "author_id": "1792846733468200961",
+    "created_at": "2026-09-09T23:59:28Z",
+    "likes": 91,
+    "replies": 6,
+    "retweets": 1,
+    "bookmarks": 173,
+    "quotes": 0,
+    "views": 13919,
+    "lang": "en",
+    "source_client": "Twitter for Android",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "6 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "replying_to": "Voxyz_ai",
+    "replying_to_status": "2097814698204832116",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

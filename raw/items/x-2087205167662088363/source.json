@@ -22,6 +22,7 @@
       "github-cathrynlavery-diagram-design",
       "web-iandmacomber-post-ai-data-stack"
     ],
-    "category_note": "Hamilton Ulmer: DuckDB-speed dataviz, nearly free, no JS — keep as SQL-native charting pointer."
+    "category_note": "Hamilton Ulmer: DuckDB-speed dataviz, nearly free, no JS \u2014 keep as SQL-native charting pointer.",
+    "migrated_v2": true
   }
 }

@@ -22,6 +22,7 @@
       "github-google-labs-code-design-md",
       "web-davidgasquez-context-engineering"
     ],
-    "category_note": "Matt Pocock: /improve-codebase-architecture after vibe-coding without reading internals."
+    "category_note": "Matt Pocock: /improve-codebase-architecture after vibe-coding without reading internals.",
+    "migrated_v2": true
   }
 }

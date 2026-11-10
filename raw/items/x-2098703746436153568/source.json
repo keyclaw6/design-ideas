@@ -1,0 +1,47 @@
+{
+  "id": "x-2098703746436153568",
+  "url": "https://x.com/Av1dlive/status/2098703746436153568",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "i can’t believe this is free... i spent 15+ hours and $478 in API credits figuring out how to make GPT Image 2.5",
+  "authors": [
+    "Avid (@Av1dlive)"
+  ],
+  "topics": [
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_1.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098703746436153568",
+    "author_handle": "Av1dlive",
+    "author_name": "Avid",
+    "author_bio": "I write, read and build | I normie-maxx | builder of agentic-stack (now on MacOS) | upcoming PhD student",
+    "created_at": "Sat Sep 12 09:22:19 +0000 2026",
+    "stats": {
+      "likes": 140,
+      "reposts": 17,
+      "replies": 26,
+      "views": 17190,
+      "bookmarks": 176,
+      "quotes": 0
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 836,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 9,
+    "replies_thread": 0,
+    "replies_comments": 9,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

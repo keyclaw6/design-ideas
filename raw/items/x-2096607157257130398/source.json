@@ -1,0 +1,41 @@
+{
+  "id": "x-2096607157257130398",
+  "url": "https://x.com/smallest_AI/status/2096607157257130398",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:34:06Z",
+  "title": "Lightning v3.1 Pro is the most human TTS ever built — 250+ voices, 31+ languages",
+  "authors": [
+    "smallest.ai (@smallest_AI)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://smallest.ai/text-to-speech",
+    "https://smallest.ai/?utm_source=twitter&utm_medium=social&utm_campaign=brand_traffic&utm_content=hom"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096607157257130398",
+    "author_handle": "smallest_AI",
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "stats": {
+      "views": 32868,
+      "likes": 235,
+      "replies": 21,
+      "retweets": 20,
+      "bookmarks": 231,
+      "quotes": 1
+    },
+    "bridge_replies": "n=1 (main post only; conversation rate-limited)",
+    "author_bio": "Real-time Voice AI. Built for Scale.",
+    "posted_at": "Sun Sep 06 14:31:14 +0000 2026",
+    "filtered": true,
+    "category_note": "TTS model launch promo (Lightning v3.1); audio, no matching lane.",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

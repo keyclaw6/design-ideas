@@ -23,6 +23,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "mcp_endpoint": "https://mcp.crowdreply.io/mcp",
     "mcp_probe_status": "401 Unauthorized (no API key)",
     "mcp_tool_count": "18+",

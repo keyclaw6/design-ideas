@@ -20,6 +20,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "retry": "jina",
     "og_description": "Design checklists for websites, web apps, mobile, components, and flows.",
     "capture_note": "Full homepage category index via r.jina.ai; 35KB markdown",

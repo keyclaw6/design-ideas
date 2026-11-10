@@ -1,0 +1,36 @@
+{
+  "id": "x-2100584589290869186",
+  "url": "https://x.com/dan__rosenthal/status/2100584589290869186",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "Any B2B founder who nails these 7 fundamentals can make LinkedIn their top inbound channel in the next 6-12 months:",
+  "authors": [
+    "Dan Rosenthal (@dan__rosenthal)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100584589290869186",
+    "author_handle": "dan__rosenthal",
+    "migrated_v2": true,
+    "author_name": "Dan Rosenthal",
+    "created_at": "Thu Sep 17 13:56:07 +0000 2026",
+    "likes": 33,
+    "replies": 10,
+    "retweets": 2,
+    "bookmarks": 49,
+    "quotes": 0,
+    "views": 1647,
+    "lang": "en",
+    "source_client": "tweethunter [X]",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "filtered": true,
+    "category_note": "B2B LinkedIn inbound playbook; GTM/distribution, out of taxonomy.",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

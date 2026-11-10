@@ -1,0 +1,598 @@
+{
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "saved_count": 130,
+  "new_count": 129,
+  "existing_count": 1,
+  "created": [
+    "raw/items/x-2110385721391366263",
+    "raw/items/x-2110339846963355891",
+    "raw/items/x-2109944361408659650",
+    "raw/items/x-2110070862972158174",
+    "raw/items/x-2110059026818212244",
+    "raw/items/x-2110049100611940501",
+    "raw/items/x-2110177534621196646",
+    "raw/items/x-2110180038637408357",
+    "raw/items/x-2110124406156722455",
+    "raw/items/x-2110189303418769839",
+    "raw/items/x-2110022758729937313",
+    "raw/items/x-2109719615324496137",
+    "raw/items/x-2106096193235259564",
+    "raw/items/x-2109982484058222929",
+    "raw/items/x-2109985501176340693",
+    "raw/items/x-2109973273924579720",
+    "raw/items/x-2109716261160538324",
+    "raw/items/x-2109610532365857198",
+    "raw/items/x-2109895882573562197",
+    "raw/items/x-2109885846862127390",
+    "raw/items/x-2109707995919606136",
+    "raw/items/x-2109834006703292423",
+    "raw/items/x-2109897254849101986",
+    "raw/items/x-2109606016304214473",
+    "raw/items/x-2109645443961328081",
+    "raw/items/x-2109646772347777364",
+    "raw/items/x-2109645427775561870",
+    "raw/items/x-2109624423255048225",
+    "raw/items/x-2109614670344573390",
+    "raw/items/x-2109592456203227516",
+    "raw/items/x-2109681377280954407",
+    "raw/items/x-2109424625742713341",
+    "raw/items/x-2109501816853467246",
+    "raw/items/x-2109671433521815772",
+    "raw/items/x-2109612095763263987",
+    "raw/items/x-2109580214594679003",
+    "raw/items/x-2109263628306383016",
+    "raw/items/x-2109119728103137598",
+    "raw/items/x-2109262732763783400",
+    "raw/items/x-2109309297612013621",
+    "raw/items/x-2108926274916012057",
+    "raw/items/x-2108905392776360333",
+    "raw/items/x-2109045945149395421",
+    "raw/items/x-2109222475305197952",
+    "raw/items/x-2109182449179836579",
+    "raw/items/x-2108948624004526516",
+    "raw/items/x-2108953745468068184",
+    "raw/items/x-2108365916895654105",
+    "raw/items/x-2108181934669238593",
+    "raw/items/x-2108251509830140401",
+    "raw/items/x-2108112682922705181",
+    "raw/items/x-2107835276810739945",
+    "raw/items/x-2105643919119696297",
+    "raw/items/x-2107793469322485839",
+    "raw/items/x-2107604741387862375",
+    "raw/items/x-2107761959009718673",
+    "raw/items/x-2107794465457139988",
+    "raw/items/x-2105326479441788943",
+    "raw/items/x-2107414044772880783",
+    "raw/items/x-2107408409859359211",
+    "raw/items/x-2107531750511620469",
+    "raw/items/x-2107321323911549277",
+    "raw/items/x-2107456589951361083",
+    "raw/items/x-2107513494493179954",
+    "raw/items/x-2107447529940140324",
+    "raw/items/x-2107402987224412627",
+    "raw/items/x-2107222360155701709",
+    "raw/items/x-2107127178445865372",
+    "raw/items/x-2107038587866804617",
+    "raw/items/x-2106849769003844067",
+    "raw/items/x-2106479630026973686",
+    "raw/items/x-2106740370415473027",
+    "raw/items/x-2106383261089849825",
+    "raw/items/x-2106411655055974640",
+    "raw/items/x-2106379872088055826",
+    "raw/items/x-2106636580735619118",
+    "raw/items/x-2106080442004697367",
+    "raw/items/x-2106057192285548763",
+    "raw/items/x-2106009509311516843",
+    "raw/items/x-2106051894624047547",
+    "raw/items/x-2105951799995728084",
+    "raw/items/x-2105631054531092960",
+    "raw/items/x-2105594315028541669",
+    "raw/items/x-2105281624460157100",
+    "raw/items/x-2105022638368403658",
+    "raw/items/x-2104840500847263794",
+    "raw/items/x-2104574316104880415",
+    "raw/items/x-2104562076446588937",
+    "raw/items/x-2103893619799138767",
+    "raw/items/x-2103700886186848294",
+    "raw/items/x-2103873490730549558",
+    "raw/items/x-2103795257154687192",
+    "raw/items/x-2103876355536654710",
+    "raw/items/x-2103858184414781504",
+    "raw/items/x-2103801891528573089",
+    "raw/items/x-2103854606069751880",
+    "raw/items/x-2103157617715491278",
+    "raw/items/x-2103767783141949937",
+    "raw/items/x-2103536117765255272",
+    "raw/items/x-2103729495618281838",
+    "raw/items/x-2103780923196239909",
+    "raw/items/x-2103554016315642100",
+    "raw/items/x-2103469459981619243",
+    "raw/items/x-2103530162318901673",
+    "raw/items/x-2103533757588463990",
+    "raw/items/x-2102464856423284995",
+    "raw/items/x-2103098585352937777",
+    "raw/items/x-2103530005720637860",
+    "raw/items/x-2103484990352765393",
+    "raw/items/x-2103332624907260156",
+    "raw/items/x-2103094238430761101",
+    "raw/items/x-2103193222029951413",
+    "raw/items/x-2103188985292157353",
+    "raw/items/x-2102833386947793355",
+    "raw/items/x-2102852926121427304",
+    "raw/items/x-2102775755646337530",
+    "raw/items/x-2102544324445848031",
+    "raw/items/x-2102758425386172842",
+    "raw/items/x-2102598835470246112",
+    "raw/items/x-2102672086854484006",
+    "raw/items/x-2102476527200043250",
+    "raw/items/x-2102286564521111687",
+    "raw/items/x-2102065255694409940",
+    "raw/items/x-2102047124321939906",
+    "raw/items/x-2101884812189684015",
+    "raw/items/x-2110622360781119599",
+    "raw/items/x-2095896040155340809",
+    "raw/items/x-2110361649911919063",
+    "raw/items/x-2110595028015808766"
+  ],
+  "existing": [
+    "raw/items/x-humanize-prompt-2107787922204152156"
+  ],
+  "gaps": [],
+  "media": {
+    "downloaded": 703,
+    "bytes": 2370902471,
+    "failed": [],
+    "local_files_in_saved_items": 703,
+    "new_files": 701,
+    "reused_existing_files": 2,
+    "omitted_over_100mb": [],
+    "oversized_kept_locally": [
+      {
+        "tweet_id": "2110049100611940501",
+        "path": "media/video-03.mp4",
+        "url": "https://video.twimg.com/amplify_video/2110501199254298624/vid/avc1/1920x1080/nYNq8gIkWw9tSmu4.mp4?tag=29",
+        "observed_bytes": 163704471,
+        "reason": "git_remote_size_limit",
+        "kept_locally": true
+      },
+      {
+        "tweet_id": "2108365916895654105",
+        "path": "media/video-02.mp4",
+        "url": "https://video.twimg.com/amplify_video/2110025935231881216/vid/avc1/3840x2160/Xq8UdgM8J3yCTwl6.mp4?tag=29",
+        "observed_bytes": 195633894,
+        "reason": "git_remote_size_limit",
+        "kept_locally": true
+      }
+    ]
+  },
+  "articles": {
+    "direct": 11,
+    "quoted": 9,
+    "blocks": 3170,
+    "missing": [],
+    "total_including_existing": 21
+  },
+  "threads": {
+    "items_with_responses": 124,
+    "reply_records": 3281,
+    "missing": [
+      "2102047124321939906"
+    ],
+    "partial": [
+      {
+        "tweet_id": "2110385721391366263",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 54,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109944361408659650",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 31,
+        "captured_reply_records": 26,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2110180038637408357",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 94,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2110124406156722455",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 52,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109719615324496137",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 110,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109973273924579720",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 266,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109895882573562197",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 20,
+        "captured_reply_records": 19,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109885846862127390",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 15,
+        "captured_reply_records": 10,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109834006703292423",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 399,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109606016304214473",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 19,
+        "captured_reply_records": 9,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109645443961328081",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 18,
+        "captured_reply_records": 11,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109646772347777364",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 22,
+        "captured_reply_records": 9,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109645427775561870",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 5,
+        "captured_reply_records": 4,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109614670344573390",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 27,
+        "captured_reply_records": 22,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109424625742713341",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 53,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109671433521815772",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 69,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109612095763263987",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 50,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109119728103137598",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 94,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2108926274916012057",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 47,
+        "captured_reply_records": 39,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109045945149395421",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 88,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2109182449179836579",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 32,
+        "captured_reply_records": 31,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2108948624004526516",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 403,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2108251509830140401",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 126,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2108112682922705181",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 41,
+        "captured_reply_records": 28,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2107794465457139988",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 40,
+        "captured_reply_records": 38,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2107414044772880783",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 37,
+        "captured_reply_records": 34,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2107531750511620469",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 529,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2107513494493179954",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 740,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2107447529940140324",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 16,
+        "captured_reply_records": 13,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2107402987224412627",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 111,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2107038587866804617",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 15,
+        "captured_reply_records": 11,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2106383261089849825",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 260,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2106411655055974640",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 52,
+        "captured_reply_records": 36,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2106379872088055826",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 30,
+        "captured_reply_records": 22,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2106636580735619118",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 24,
+        "captured_reply_records": 22,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2106057192285548763",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 126,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2105951799995728084",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 43,
+        "captured_reply_records": 42,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2105022638368403658",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 114,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2104574316104880415",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 39,
+        "captured_reply_records": 30,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103893619799138767",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 10,
+        "captured_reply_records": 3,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103858184414781504",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 2,
+        "captured_reply_records": 1,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103157617715491278",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 63,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103767783141949937",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 29,
+        "captured_reply_records": 21,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103729495618281838",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 12,
+        "captured_reply_records": 10,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103554016315642100",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 41,
+        "captured_reply_records": 39,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103469459981619243",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 61,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103530162318901673",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 164,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103533757588463990",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 22,
+        "captured_reply_records": 16,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2102464856423284995",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 7,
+        "captured_reply_records": 2,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103530005720637860",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 125,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2103188985292157353",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 83,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2102833386947793355",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 2,
+        "captured_reply_records": 1,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2102775755646337530",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 98,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2102758425386172842",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 38,
+        "captured_reply_records": 36,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2102598835470246112",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 105,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2102476527200043250",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 130,
+        "captured_reply_records": 49,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      },
+      {
+        "tweet_id": "2102047124321939906",
+        "type": "reply_coverage",
+        "reply_count_at_capture": 1,
+        "captured_reply_records": 0,
+        "note": "Authenticated twitter-cli returned this many reply/thread records with --max 50; the returned slice may not include every X reply."
+      }
+    ],
+    "unverified_timeline_records_separated": 387
+  },
+  "external_recovery": {
+    "tweet_id": "2102047124321939906",
+    "parent_post_id": "2102025492840739175",
+    "external_article_url": "https://nectivdigital.com/blog/the-perfectly-optimized-page-for-aeo-ai-search",
+    "local_media": 2,
+    "comments_unavailable_reason": "authenticated thread API HTTP 429"
+  },
+  "taxonomy_reviewed_items": 130,
+  "initial_saved_count": 126,
+  "additional_saved_count": 4,
+  "unsaved_count": 130,
+  "remaining_saved_count": 0,
+  "unsave_ledger": "unsave-ledger.json",
+  "independent_unsave_verification": "unsave-root-verification.json"
+}

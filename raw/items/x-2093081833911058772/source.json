@@ -20,6 +20,7 @@
   "extra": {
     "tweet_id": "2093081833911058772",
     "author_handle": "fabianstelzer",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "migrated_v2": true
   }
 }

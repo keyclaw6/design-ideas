@@ -1,0 +1,48 @@
+{
+  "id": "x-2107531750511620469",
+  "url": "https://x.com/illyism/status/2107531750511620469",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "You don't need a $2,000/mo agency to run AI SEO on your GitHub repo",
+  "authors": [
+    "ILIAS ISM (@illyism)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107531750511620469",
+    "author_handle": "illyism",
+    "posted_at": "Tue Oct 06 18:01:40 +0000 2026",
+    "metrics": {
+      "views": 49670,
+      "likes": 205,
+      "replies": 529,
+      "retweets": 7,
+      "bookmarks": 403,
+      "quotes": 7
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {},
+    "media_omitted": [],
+    "fx_text_capture": "You don't need a $2,000/mo agency to run AI SEO on your GitHub repo\n\nI wrote a complete system prompt that handles your SEO, AEO, and technical health checks directly in Claude Code, Codex or Cursor\n\nIt audits your code, fixes broken pages, writes comparison guides, and tracks what ChatGPT says about you\n\nComment \"SEO\" and I’ll DM it to you for FREE 👇",
+    "fx_raw_text": "You don't need a $2,000/mo agency to run AI SEO on your GitHub repo\n\nI wrote a complete system prompt that handles your SEO, AEO, and technical health checks directly in Claude Code, Codex or Cursor\n\nIt audits your code, fixes broken pages, writes comparison guides, and tracks what ChatGPT says about you\n\nComment \"SEO\" and I’ll DM it to you for FREE 👇",
+    "quoted_post": {
+      "id": "2107528090025107778",
+      "url": "https://x.com/illyism/status/2107528090025107778",
+      "author": "ILIAS ISM (@illyism)",
+      "text": "This guy is literally just running Claude Code on someone's GitHub repo and charging $1,500/mo\n\nIf you have an audience on here you can monetize anything\n\n😉 You can just copy his tweet to Claude Code and do it yourself for free by the way"
+    },
+    "unverified_timeline_record_ids": [
+      "2068115197718593741"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:29.445339+00:00"
+  }
+}

@@ -30,6 +30,7 @@
       "web-crowdreply",
       "github-iannuttall-seo"
     ],
-    "category_note": "Human-reviewed software directory; TinyShots listed here."
+    "category_note": "Human-reviewed software directory; TinyShots listed here.",
+    "migrated_v2": true
   }
 }

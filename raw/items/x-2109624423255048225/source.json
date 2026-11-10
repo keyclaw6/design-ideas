@@ -1,0 +1,47 @@
+{
+  "id": "x-2109624423255048225",
+  "url": "https://x.com/iamtanzil_/status/2109624423255048225",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "If you are building websites with AI,",
+  "authors": [
+    "Tanzil Chowdhury (@iamtanzil_)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://jiro.build"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109624423255048225",
+    "author_handle": "iamtanzil_",
+    "posted_at": "2026-10-12T12:37:12+00:00",
+    "metrics": {
+      "views": 1027,
+      "likes": 13,
+      "replies": 1,
+      "retweets": 4,
+      "bookmarks": 14,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 2,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109624335342460928/vid/avc1/1024x720/cyIh6X5jAmh6oh0s.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109624335342460928/img/P-JvrqSK7V-JPqgI.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2109976012167712768/vid/avc1/1538x1080/jDZITCePn_JW3MI0.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "If you are building websites with AI, \nworth checking it out.  https://jiro.build",
+    "fx_raw_text": "If you are building websites with AI, \nworth checking it out.  https://t.co/8yqOGQgCZU https://t.co/ZhPH9ZSYqn",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:14.497227+00:00"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "x-2097399716493316422",
+  "url": "https://x.com/AaronxShepherd/status/2097399716493316422",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "last year our clients booked 3,000+ calls from cold email, off 2m+ sends a month. almost nobody gets close to that. it",
+  "authors": [
+    "Aaron | GrowthFlare (@AaronxShepherd)"
+  ],
+  "topics": [],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097399716493316422",
+    "author_handle": "AaronxShepherd",
+    "author_name": "Aaron | GrowthFlare",
+    "author_bio": "Founder | Deal Origination and Go-to-Market Strategy | 3000+ meetings booked in the last 12 months |",
+    "created_at": "Tue Sep 08 19:00:34 +0000 2026",
+    "likes": 86,
+    "replies": 121,
+    "retweets": 5,
+    "views": 5648,
+    "bookmarks": 78,
+    "quotes": 0,
+    "lang": "en",
+    "source_client": "tweethunter [X]",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 1070,
+    "replies_added": 15,
+    "replies_thread": 0,
+    "replies_comments": 15,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "filtered": true,
+    "category_note": "Cold-email volume brag (2M/mo); outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "x-2100078745608761837",
+  "url": "https://x.com/iamtanzil_/status/2100078745608761837",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:52:00Z",
+  "title": "Another day, another hero section Try the prompt yourself👇",
+  "authors": [
+    "Tanzil Chowdhury (@iamtanzil_)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "https://x.com/iamtanzil_/status/2100078745608761837/video/1"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/video-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100078745608761837",
+    "author_handle": "iamtanzil_",
+    "author_id": "3932648176",
+    "author_name": "Tanzil Chowdhury",
+    "created_at": 1789532765,
+    "likes": 85,
+    "replies": 6,
+    "retweets": 4,
+    "bookmarks": 70,
+    "views": 4448,
+    "fetch": "api.fxtwitter.com",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

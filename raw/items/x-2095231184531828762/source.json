@@ -17,6 +17,7 @@
   ],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095231184531828762",
     "author_handle": "irabukht",
     "fetch": "api.fxtwitter.com (retry)",

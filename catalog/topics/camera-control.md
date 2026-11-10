@@ -77,4 +77,5 @@ Query here for “lock the flythrough,” “depth as motion reference,” or �
 - [AIでBlenderを操作する方法 - CLIとMCPの使い分け｜npaka @npaka123 https://note.com/npaka/n/n7f7531e7b9ed?sub_rt=share_sb](../../raw/items/x-2095288402606514424/) — `x-2095288402606514424`
 - [This is insane: Hyper3D just dropped WorldGen, an AI that turns ONE photo into a full interactive 3D world Yingmu Techno](../../raw/items/x-2095437841958314100/) — `x-2095437841958314100`
 - [Take a photo of the real world Paste it into Blender 3D](../../raw/items/x-2095512142766342624/) — `x-2095512142766342624`
+- [Skill for 3d camera + text effect is live!](../../raw/items/x-2102544324445848031/) — `x-2102544324445848031`
 <!-- /AUTO:ITEMS -->

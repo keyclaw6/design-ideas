@@ -3,7 +3,7 @@
   "url": "https://x.com/vicky_grok/status/2093900284896657841",
   "source_type": "x",
   "captured_at": "2026-09-04T08:04:14Z",
-  "title": "\ud83d\udea8 THIS IS INSANE A Claude Code skill just started REFUSING to build websites that look like everyone else\u2019s. Sameness is",
+  "title": "🚨 THIS IS INSANE A Claude Code skill just started REFUSING to build websites that look like everyone else’s. Sameness is",
   "authors": [
     "@vicky_grok"
   ],
@@ -21,6 +21,7 @@
     "category_note": "scroll-craft skill: anti-sameness scroll-driven sites.",
     "related_items": [
       "github-nateherkai-scroll-craft"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

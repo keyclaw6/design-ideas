@@ -1,0 +1,55 @@
+{
+  "id": "x-2103484990352765393",
+  "url": "https://x.com/nicos_ai/status/2103484990352765393",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "ESTO ES UNA LOCURA",
+  "authors": [
+    "Nico (@nicos_ai)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103484990352765393",
+    "author_handle": "nicos_ai",
+    "posted_at": "2026-09-25T14:01:17+00:00",
+    "metrics": {
+      "views": 143237,
+      "likes": 1457,
+      "replies": 33,
+      "retweets": 196,
+      "bookmarks": 2935,
+      "quotes": 5
+    },
+    "articles": [],
+    "reply_records_captured": 42,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2103484915283075073/vid/avc1/1280x720/tSl2LydOfGu1XGHQ.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103484915283075073/img/ekgwIeenAq5dHmr8.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "ESTO ES UNA LOCURA\n\nJack Dorsey (ex-CEO de Twitter) acaba de lanzar gratis un framework completo para crear un negocio gestionado al 100% por agentes de IA.\n\nYa supera las 29.000 estrellas en GitHub.\n\nCómo configurarlo (5min):\n\n1. Clona el repositorio.\n2. Despliega tu propio servidor: canales, búsqueda, Git y automatizaciones funcionan desde ahí.\n3. Añade tu agente a un canal como si fuera un compañero más, define sus permisos y deja que el equipo colabore con él en tiempo real.\n\nGuárdate este post, vas a querer volver a él.\n\nEnlace al repositorio abajo👇",
+    "fx_raw_text": "ESTO ES UNA LOCURA\n\nJack Dorsey (ex-CEO de Twitter) acaba de lanzar gratis un framework completo para crear un negocio gestionado al 100% por agentes de IA.\n\nYa supera las 29.000 estrellas en GitHub.\n\nCómo configurarlo (5min):\n\n1. Clona el repositorio.\n2. Despliega tu propio servidor: canales, búsqueda, Git y automatizaciones funcionan desde ahí.\n3. Añade tu agente a un canal como si fuera un compañero más, define sus permisos y deja que el equipo colabore con él en tiempo real.\n\nGuárdate este post, vas a querer volver a él.\n\nEnlace al repositorio abajo👇",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740",
+      "2103525617207546018",
+      "2090814619275436444"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:47.060450+00:00"
+  }
+}

@@ -16,6 +16,7 @@
   ],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095136786095951924",
     "author_handle": "NarenBao",
     "fetch": "api.fxtwitter.com (retry)",

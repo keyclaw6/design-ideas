@@ -21,6 +21,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "fetch": "r.jina.ai full post",
     "related_items": [
       "web-cerebras-knowledge-base",

@@ -16,6 +16,7 @@
   "extra": {
     "tweet_id": "2091519705911795761",
     "author_handle": "fujiryu00",
-    "category_note": "Thin JP post; MiniMax H3 parallel tests"
+    "category_note": "Thin JP post; MiniMax H3 parallel tests",
+    "migrated_v2": true
   }
 }

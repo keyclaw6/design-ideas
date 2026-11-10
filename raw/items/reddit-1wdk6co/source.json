@@ -1,0 +1,36 @@
+{
+  "id": "reddit-1wdk6co",
+  "url": "https://www.reddit.com/r/GrowthHacking/comments/1wdk6co/i_left_150_replies_a_day_on_x_for_7_days_heres/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "I left 150+ replies a day on X for 7 days. Here’s what it did to followers and impressions. Proof in post.",
+  "authors": [
+    "Outrageous_Menu_4536"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1wdk6co",
+    "saved_kind": "post",
+    "post_id": "1wdk6co",
+    "comment_id": null,
+    "subreddit": "GrowthHacking",
+    "flair": null,
+    "posted_at": "2026-09-11T15:54:55+00:00",
+    "score_at_capture": 5,
+    "comment_count_at_capture": 4,
+    "comments_captured_from_api": 4,
+    "thread_comments_returned": 4,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:24+00:00"
+  }
+}

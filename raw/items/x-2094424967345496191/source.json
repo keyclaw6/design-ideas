@@ -14,6 +14,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2094424967345496191",
     "author_handle": "DavidOndrej1",
     "category_note": "X article: Agentic Engineering Setup (bb/cmux/Herdr, skills, worktrees, cloud VPS)."

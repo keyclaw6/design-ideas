@@ -1,0 +1,48 @@
+{
+  "id": "x-2108953745468068184",
+  "url": "https://x.com/mattworkman/status/2108953745468068184",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "new multi-angle video model just dropped",
+  "authors": [
+    "Matt Workman (@mattworkman)"
+  ],
+  "topics": [
+    "video-generation"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2108953745468068184",
+    "author_handle": "mattworkman",
+    "posted_at": "2026-10-10T16:12:10+00:00",
+    "metrics": {
+      "views": 33606,
+      "likes": 419,
+      "replies": 26,
+      "retweets": 11,
+      "bookmarks": 363,
+      "quotes": 2
+    },
+    "articles": [],
+    "reply_records_captured": 31,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2108953562667417600/vid/avc1/1280x720/ZDGTk4yubsA1peHJ.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2108953562667417600/img/ZJR5VjR24xIQQzL1.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "new multi-angle video model just dropped\n- character likeness 8/10\n- audio voice clone 9/10\n- quality lighting 6/10 needs work",
+    "fx_raw_text": "new multi-angle video model just dropped\n- character likeness 8/10\n- audio voice clone 9/10\n- quality lighting 6/10 needs work https://t.co/kqi3p3bzAe",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2092706810298069417"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:18.102088+00:00"
+  }
+}

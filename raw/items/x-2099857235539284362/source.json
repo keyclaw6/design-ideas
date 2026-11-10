@@ -1,0 +1,28 @@
+{
+  "id": "x-2099857235539284362",
+  "url": "https://x.com/dominikmartn/status/2099857235539284362",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:28:31Z",
+  "title": "used wispr flow for a long time but not anymore. aside has dictation now and it's 100% local → https://heyaside.com",
+  "authors": [
+    "Dom (@dominikmartn)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://heyaside.com"
+  ],
+  "media": [
+    "media/media_video_0.mp4",
+    "media/media_video_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099857235539284362",
+    "author_handle": "dominikmartn",
+    "migrated_v2": true,
+    "filtered": true,
+    "category_note": "Dictation-app switch note (wispr->aside); productivity, no matching lane.",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

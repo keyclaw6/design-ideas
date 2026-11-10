@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1wydtmj",
+  "url": "https://www.reddit.com/r/omarchy/comments/1wydtmj/wallpaper_cutter_one_image_across_all_your/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Wallpaper Cutter: one image across all your monitors",
+  "authors": [
+    "lomboagridoce"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/renanmt/omarchy-wallpaper-cutter"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1wydtmj",
+    "saved_kind": "post",
+    "post_id": "1wydtmj",
+    "comment_id": null,
+    "subreddit": "omarchy",
+    "flair": "I Made a Thing",
+    "posted_at": "2026-10-05T16:57:16+00:00",
+    "score_at_capture": 104,
+    "comment_count_at_capture": 15,
+    "comments_captured_from_api": 14,
+    "thread_comments_returned": 14,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:13+00:00"
+  }
+}

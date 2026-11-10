@@ -1,0 +1,64 @@
+{
+  "id": "x-2103873490730549558",
+  "url": "https://x.com/1weiho/status/2103873490730549558",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing open-slide 2.0 🎉",
+  "authors": [
+    "Yiwei Ho (@1weiho)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4",
+    "media/animation-01.mp4",
+    "media/image-02.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103873490730549558",
+    "author_handle": "1weiho",
+    "posted_at": "2026-09-26T15:45:02+00:00",
+    "metrics": {
+      "views": 127570,
+      "likes": 1858,
+      "replies": 48,
+      "retweets": 132,
+      "bookmarks": 2431,
+      "quotes": 9
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2103870129566310400/vid/avc1/1280x720/qmWyZ_NoXWxJLbu_.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103870129566310400/img/6W0YqVXlydUR3s9H.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2103870415622004737/vid/avc1/3216x2160/UQyaRJRnY3SzMuo8.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2103870491798999040/vid/avc1/3216x2160/Kxmavp2Zge46uw5s.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2103870567971766272/vid/avc1/3216x2160/VBaY49nGXDpoj-YS.mp4?tag=29",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2103870642072526848/vid/avc1/3216x2160/-NKZqjK6GrkKpZqu.mp4?tag=29",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HTKNpa8boAA2Gix.mp4",
+      "media/image-02.png": "https://pbs.twimg.com/media/HTLGhD4XUAA6oeN.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing open-slide 2.0 🎉\n\nThe slide framework built for agents, now with:\n› A new visual editor\n› Editable pptx export\n› A redesigned UI\n\nLet your agent build the deck. Make the final touches yourself.\n\nHere's what's new ↓",
+    "fx_raw_text": "Introducing open-slide 2.0 🎉\n\nThe slide framework built for agents, now with:\n› A new visual editor\n› Editable pptx export\n› A redesigned UI\n\nLet your agent build the deck. Make the final touches yourself.\n\nHere's what's new ↓ https://t.co/KGhSPFgdo9",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2098108930044145904",
+      "2110445970504974443",
+      "2104616491857686610",
+      "2092706810310643936"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:53:31.330235+00:00"
+  }
+}

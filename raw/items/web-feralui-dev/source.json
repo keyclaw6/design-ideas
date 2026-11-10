@@ -18,6 +18,7 @@
   ],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "version": "v0.1.1",
     "related_items": [
       "web-originkit-dev",

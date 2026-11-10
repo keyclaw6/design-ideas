@@ -1,0 +1,28 @@
+{
+  "id": "x-2098081594255061219",
+  "url": "https://x.com/cabralorenzo/status/2098081594255061219",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:34:50Z",
+  "title": "Introducing http://Bencho.dev A library of interactive UI blocks you can explore, tune, bench, and take into your own",
+  "authors": [
+    "@cabralorenzo"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [
+    "http://Bencho.dev"
+  ],
+  "media": [
+    "media/video.mp4",
+    "media/thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098081594255061219",
+    "author_handle": "cabralorenzo",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

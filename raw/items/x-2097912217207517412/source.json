@@ -1,0 +1,41 @@
+{
+  "id": "x-2097912217207517412",
+  "url": "https://x.com/himanshubuildss/status/2097912217207517412",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "Engineer a $15,000 premium 3D-driven SaaS hero: React, Three.js/WebGL, Tailwind, Framer Motion",
+  "authors": [
+    "Himanshu Hingorani (@himanshubuildss)"
+  ],
+  "topics": [
+    "three-js",
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097912217207517412",
+    "author_handle": "himanshubuildss",
+    "author_name": "Himanshu Hingorani",
+    "author_id": "2308686523",
+    "created_at": "2026-09-10T04:57:04Z",
+    "likes": 206,
+    "replies": 4,
+    "retweets": 25,
+    "bookmarks": 253,
+    "quotes": 0,
+    "views": 14966,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "4 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

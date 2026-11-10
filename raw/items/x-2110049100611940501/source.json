@@ -1,0 +1,64 @@
+{
+  "id": "x-2110049100611940501",
+  "url": "https://x.com/matiNotFound/status/2110049100611940501",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "vgpu 0.6 is out 🔉",
+  "authors": [
+    "Matias 🧉 (@matiNotFound)"
+  ],
+  "topics": [
+    "three-js"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110049100611940501",
+    "author_handle": "matiNotFound",
+    "posted_at": "Tue Oct 13 16:44:43 +0000 2026",
+    "metrics": {
+      "views": 11229,
+      "likes": 321,
+      "replies": 11,
+      "retweets": 18,
+      "bookmarks": 215,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 22,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110048320681095168/vid/avc1/1694x720/rcI4EcH65QKAiui6.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2110048320681095168/img/I9nC0UKPylq-0sJF.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110478642488721409/vid/avc1/1438x1038/dB1MP0fH1Am8GDFv.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110501199254298624/vid/avc1/1920x1080/nYNq8gIkWw9tSmu4.mp4?tag=29"
+    },
+    "media_omitted": [
+      {
+        "path": "media/video-03.mp4",
+        "url": "https://video.twimg.com/amplify_video/2110501199254298624/vid/avc1/1920x1080/nYNq8gIkWw9tSmu4.mp4?tag=29",
+        "reason": "git_remote_size_limit",
+        "kept_locally": true,
+        "bytes": 163704471
+      }
+    ],
+    "fx_text_capture": "vgpu 0.6 is out 🔉\n\n· Build complex 3D scenes more easily\n· Create 3D websites, VR, or videos\n· Better performance and memory usage",
+    "fx_raw_text": "vgpu 0.6 is out 🔉\n\n· Build complex 3D scenes more easily\n· Create 3D websites, VR, or videos\n· Better performance and memory usage https://t.co/iq6wPy0fXm",
+    "unverified_timeline_record_ids": [
+      "2079520919614005538",
+      "2099964624648958223",
+      "2110478752006422811",
+      "2110436016519876666",
+      "2110530396782047311",
+      "2110501725853638919"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

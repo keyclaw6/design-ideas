@@ -25,6 +25,7 @@
       "web-cloudflare-kitesurf",
       "web-obscura-sh",
       "web-crowdreply"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,44 @@
+{
+  "id": "x-2097519538632024103",
+  "url": "https://x.com/EHuanglu/status/2097519538632024103",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:58:35Z",
+  "title": "ChatGPT Image 2.5 is crazy for storytelling.. it turns any idea into detailed storyboard with cast design.. then use",
+  "authors": [
+    "el.cine (@EHuanglu)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_0_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097519538632024103",
+    "author_handle": "EHuanglu",
+    "author_name": "el.cine",
+    "author_bio": "AI consultant | film director | sharing practical ways to use AI for you and your business. all views are my own.",
+    "created_at": "Wed Sep 09 02:56:42 +0000 2026",
+    "likes": 4171,
+    "replies": 79,
+    "retweets": 502,
+    "views": 298518,
+    "bookmarks": 5245,
+    "quotes": 29,
+    "lang": "en",
+    "source_client": "Typefully",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab t36, URL-verified, 5 scroll rounds)",
+    "text_length": 193,
+    "replies_added": 15,
+    "replies_thread": 1,
+    "replies_comments": 14,
+    "media_omitted": false,
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

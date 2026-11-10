@@ -1,0 +1,28 @@
+{
+  "id": "x-2097288108026826964",
+  "url": "https://x.com/owengretzinger/status/2097288108026826964",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:05:37Z",
+  "title": "Everyone keeps saying Astra's new compaction \"saves notes\" and \"searches messages.\" But I thought: couldn't it do that",
+  "authors": [
+    "@owengretzinger"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/openai/codex/blob/rust-v0.153.0/codex-rs/app-server/tests/suite/v2/history_notes_extension.rs#L32-L33",
+    "https://learn.chatgpt.com/docs/models#experimental-context-management"
+  ],
+  "media": [
+    "media/card.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097288108026826964",
+    "author_handle": "owengretzinger",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:07:54Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

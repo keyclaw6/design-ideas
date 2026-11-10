@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1vxx51g",
+  "url": "https://www.reddit.com/r/StrixHalo/comments/1vxx51g/qwen38_27b_65_ts_decode_try_it_out/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Qwen3.8 27B ---> 65 t/s decode! Try it out",
+  "authors": [
+    "Dutchnamn"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/LaurentZuijdwijk/llama.cpp",
+    "https://github.com/LaurentZuijdwijk/llama.cpp/releases"
+  ],
+  "media": [
+    "media/01-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1vxx51g",
+    "saved_kind": "post",
+    "post_id": "1vxx51g",
+    "comment_id": null,
+    "subreddit": "StrixHalo",
+    "flair": null,
+    "posted_at": "2026-08-25T11:28:46+00:00",
+    "score_at_capture": 92,
+    "comment_count_at_capture": 83,
+    "comments_captured_from_api": 82,
+    "thread_comments_returned": 82,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:31+00:00"
+  }
+}

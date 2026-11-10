@@ -1,0 +1,25 @@
+{
+  "id": "x-2097048015303229936",
+  "url": "https://x.com/herdrdev/status/2097048015303229936",
+  "source_type": "x",
+  "captured_at": "2026-09-21T15:29:07Z",
+  "title": "0.9.0 is here, and it brings the most wanted herdr feature: all your machines running herdr, in a single client 🎉",
+  "authors": [
+    "herdr (@herdrdev)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video_0.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097048015303229936",
+    "author_handle": "herdrdev",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

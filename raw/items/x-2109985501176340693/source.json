@@ -1,0 +1,62 @@
+{
+  "id": "x-2109985501176340693",
+  "url": "https://x.com/wildmindai/status/2109985501176340693",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Cool stuff - T3lescope. Turns photos into usable 3D meshes.",
+  "authors": [
+    "Wildminder (@wildmindai)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://pfnet-research.github.io/t3lescope/"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4",
+    "media/video-06.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109985501176340693",
+    "author_handle": "wildmindai",
+    "posted_at": "Tue Oct 13 12:31:59 +0000 2026",
+    "metrics": {
+      "views": 9412,
+      "likes": 265,
+      "replies": 3,
+      "retweets": 15,
+      "bookmarks": 277,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 7,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109984765663203328/vid/avc1/1280x720/KPmx7WoUIJThcH_X.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109984765663203328/img/-1TV9i_aXYsQsSu-.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110035215187890177/vid/avc1/1200x800/FGNS9UcGMCrd69d0.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110297776890204160/vid/avc1/960x432/pvdacrhf-cuX3Y84.mp4?tag=14",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110315456015818752/vid/avc1/1920x1080/kkfX-Ff0L9ZjCLzL.mp4?tag=29",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2110403800473489409/vid/avc1/3840x2160/d0Vvyg144t3d76gS.mp4?tag=29",
+      "media/video-06.mp4": "https://video.twimg.com/amplify_video/2110404995585806336/vid/avc1/3840x2160/lFQ_gGyicj4kEquV.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Cool stuff - T3lescope. Turns photos into usable 3D meshes.\n\n- gens clean scene meshes without per-scene optimization  \n- uses one 3D flow model across every scale, from a single pen to an 80m city block  \n- handles glass, mirrors, occlusions (Gaussian Splatting fails here)\n- no image re-encoding as you zoom in\n- meshes are ready for games, 3D printing etc\n\nhttps://pfnet-research.github.io/t3lescope/",
+    "fx_raw_text": "Cool stuff - T3lescope. Turns photos into usable 3D meshes.\n\n- gens clean scene meshes without per-scene optimization  \n- uses one 3D flow model across every scale, from a single pen to an 80m city block  \n- handles glass, mirrors, occlusions (Gaussian Splatting fails here)\n- no image re-encoding as you zoom in\n- meshes are ready for games, 3D printing etc\n\nhttps://t.co/CbNjC9IPlD",
+    "unverified_timeline_record_ids": [
+      "2110035917650137174",
+      "2110298515402330175",
+      "2110415344388972865",
+      "2110405142919119168"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:58.189852+00:00"
+  }
+}

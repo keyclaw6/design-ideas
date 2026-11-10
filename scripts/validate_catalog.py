@@ -13,7 +13,7 @@ CATALOG = ROOT / "catalog"
 SCHEMA_TOPICS = {
     "bess-3d-flythrough", "gaussian-splatting", "camera-control", "three-js",
     "seo-agents", "keyboard-pcb", "design", "video-generation", "agent-skills",
-    "ui-motion", "mcp", "infographics",
+    "ui-motion", "mcp", "infographics", "general-reference",
 }
 
 
@@ -27,6 +27,8 @@ def main() -> int:
     for p in sorted(ITEMS.glob("*/source.json")):
         d = json.loads(p.read_text())
         eid = d["id"]
+        if not (p.parent / "content.md").exists():
+            errors.append(f"{eid}: missing content.md (v2 single-file format)")
         is_filtered = bool(d.get("extra", {}).get("filtered"))
         topics = d.get("topics", [])
         if is_filtered:

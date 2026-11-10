@@ -1,0 +1,55 @@
+{
+  "id": "x-2102598835470246112",
+  "url": "https://x.com/mynameisyahia/status/2102598835470246112",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing Scrape Anything.",
+  "authors": [
+    "Yahia Bakour (@mynameisyahia)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/animation-01.mp4",
+    "media/image-03.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2102598835470246112",
+    "author_handle": "mynameisyahia",
+    "posted_at": "2026-09-23T03:20:01+00:00",
+    "metrics": {
+      "views": 232102,
+      "likes": 1679,
+      "replies": 105,
+      "retweets": 73,
+      "bookmarks": 3111,
+      "quotes": 13
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2102596810066014209/vid/avc1/1280x720/mzxHpBxO-A6s4nxf.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2102596810066014209/img/vofQ8pwm2LzRXioa.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HS7yWM_bIAA2Ndx.mp4",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing Scrape Anything.\n\nwe merged all our scraping APIs into one\n\ninputs: websites, PDFs, DOCX, PPT, XLSX, 40 file types, anything.\n\ninto HTML, markdown, screenshots, images, JSON & more\n\nGive us a URL, get your data\n\nNo need to worry about bot blocking, js rendering, proxies, iframes, shadow doms, retries, etc..\n\nAll the weird edge cases are our problem :)",
+    "fx_raw_text": "Introducing Scrape Anything.\n\nwe merged all our scraping APIs into one\n\ninputs: websites, PDFs, DOCX, PPT, XLSX, 40 file types, anything.\n\ninto HTML, markdown, screenshots, images, JSON & more\n\nGive us a URL, get your data\n\nNo need to worry about bot blocking, js rendering, proxies, iframes, shadow doms, retries, etc..\n\nAll the weird edge cases are our problem :)",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:01.947225+00:00"
+  }
+}

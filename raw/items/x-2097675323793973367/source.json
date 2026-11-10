@@ -1,0 +1,39 @@
+{
+  "id": "x-2097675323793973367",
+  "url": "https://x.com/danielkbuilds/status/2097675323793973367",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "SEO isn't instant: 7-8 months of nothing, then it compounds — publish, fix, improve daily",
+  "authors": [
+    "DanielK (@danielkbuilds)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097675323793973367",
+    "author_handle": "danielkbuilds",
+    "author_name": "DanielK",
+    "author_id": "1993026454284910598",
+    "created_at": "2026-09-09T13:15:44Z",
+    "likes": 101,
+    "replies": 29,
+    "retweets": 1,
+    "bookmarks": 44,
+    "quotes": 2,
+    "views": 5510,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "29 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

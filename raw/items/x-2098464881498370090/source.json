@@ -1,0 +1,48 @@
+{
+  "id": "x-2098464881498370090",
+  "url": "https://x.com/AmirMushich/status/2098464881498370090",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:54:06Z",
+  "title": "GPT-6 Astra is a design beast No 3D models used in this demo website I connected LTX API to my coding agent ->",
+  "authors": [
+    "AmirMušić (@AmirMushich)"
+  ],
+  "topics": [
+    "three-js",
+    "design",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/media_1.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2098464881498370090",
+    "author_handle": "AmirMushich",
+    "author_name": "AmirMušić",
+    "author_bio": "Creative architect. Ex-Warner Music, PepsiCo, Spotify fr. designer. Fusing 10+ yr of brand & ad design with AI. Collabs: amir@amirmushich.com",
+    "created_at": "Fri Sep 11 17:33:09 +0000 2026",
+    "stats": {
+      "likes": 623,
+      "reposts": 60,
+      "replies": 73,
+      "views": 244311,
+      "bookmarks": 587,
+      "quotes": 20
+    },
+    "media_omitted": false,
+    "migrated_v2": true,
+    "fetch": "api.fxtwitter.com",
+    "text_length": 242,
+    "article_id": null,
+    "article_title": null,
+    "replies_added": 14,
+    "replies_thread": 7,
+    "replies_comments": 7,
+    "replies_page_verified": true,
+    "unsaved_at": "2026-09-21T14:14:02Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

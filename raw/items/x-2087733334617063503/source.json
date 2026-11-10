@@ -22,6 +22,7 @@
       "github-punkpeye-awesome-mcp-servers"
     ],
     "filtered": true,
-    "category_note": "Slogan-only GCP marketing; no artifact"
+    "category_note": "Slogan-only GCP marketing; no artifact",
+    "migrated_v2": true
   }
 }

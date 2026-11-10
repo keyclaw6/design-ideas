@@ -1,0 +1,60 @@
+{
+  "id": "x-2103536117765255272",
+  "url": "https://x.com/FrontiersMind/status/2103536117765255272",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "🚀 Today, we’re open-sourcing Lumma-fev-0.1B and updated Lumma-fev-0.6B!",
+  "authors": [
+    "FrontiersMind (@FrontiersMind)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://huggingface.co/collections/FrontiersMind/lumma-decision-models"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103536117765255272",
+    "author_handle": "FrontiersMind",
+    "posted_at": "2026-09-25T17:24:26+00:00",
+    "metrics": {
+      "views": 7386,
+      "likes": 131,
+      "replies": 4,
+      "retweets": 26,
+      "bookmarks": 99,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 7,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2103535933039816704/vid/avc1/1080x608/GgFSi54Jx_-bTZu8.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2103535933039816704/img/EPPiApQ-IPAAPb_K.jpg",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110522956669734912/vid/avc1/2540x1948/8ZxXlg9wanBDmt7A.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110124155735568384/vid/avc1/1920x1080/zm33k-46SkeMsfwo.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110388643684876288/vid/avc1/1920x1080/G81V76gvSg4fTgs3.mp4?tag=29",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2110374180395098112/vid/avc1/576x1024/t-hXvst_5sBLVpTc.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "🚀 Today, we’re open-sourcing Lumma-fev-0.1B and  updated Lumma-fev-0.6B!\n\nThese are our own Decision-Based Models trained on English & 10 𝐈𝐧𝐝𝐢𝐜 languages designed to make decisions and take actions rather than generate text:  https://huggingface.co/collections/FrontiersMind/lumma-decision-models\n\nAnd the results are already exciting: Lumma-fev is beating Jev on several benchmarks. 📈\n\nFrom playing games to classification, structured decision-making, and many other tasks where text generation isn’t necessary, Lumma-fev is built to act. ⚡🎮\n\n🎮 Adding a video of our tiny Lumma-fev-0.1B playing Super Mario autonomously on Macbook M2 and actually winning the game!\n\n🔥 And we’re just getting started.\n\nTomorrow, we’ll also be open-sourcing Lumma-fev-4B and Lumma-fev-9B.\n\n#jev #llm #machinelearning #decisionModels",
+    "fx_raw_text": "🚀 Today, we’re open-sourcing Lumma-fev-0.1B and  updated Lumma-fev-0.6B!\n\nThese are our own Decision-Based Models trained on English & 10 𝐈𝐧𝐝𝐢𝐜 languages designed to make decisions and take actions rather than generate text:  https://t.co/nnZV1B9RXi\n\nAnd the results are already exciting: Lumma-fev is beating Jev on several benchmarks. 📈\n\nFrom playing games to classification, structured decision-making, and many other tasks where text generation isn’t necessary, Lumma-fev is built to act. ⚡🎮\n\n🎮 Adding a video of our tiny Lumma-fev-0.1B playing Super Mario autonomously on Macbook M2 and actually winning the game!\n\n🔥 And we’re just getting started.\n\nTomorrow, we’ll also be open-sourcing Lumma-fev-4B and Lumma-fev-9B.\n\n#jev #llm #machinelearning #decisionModels",
+    "unverified_timeline_record_ids": [
+      "2110523541376667657",
+      "2110124406156722455",
+      "2110390124743970952",
+      "2110375346046746649"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:59.558844+00:00"
+  }
+}

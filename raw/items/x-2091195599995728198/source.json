@@ -14,6 +14,7 @@
   "extra": {
     "tweet_id": "2091195599995728198",
     "author_handle": "TechEmails",
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

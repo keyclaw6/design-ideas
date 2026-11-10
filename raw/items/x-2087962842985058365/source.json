@@ -22,6 +22,7 @@
       "x-2088281537427235320",
       "x-2087240056037908509"
     ],
-    "category_note": "Bonsai-1.7B 90 tok/s Android CPU decode"
+    "category_note": "Bonsai-1.7B 90 tok/s Android CPU decode",
+    "migrated_v2": true
   }
 }

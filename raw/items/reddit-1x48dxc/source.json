@@ -1,0 +1,43 @@
+{
+  "id": "reddit-1x48dxc",
+  "url": "https://www.reddit.com/r/BestGitHubRepos/comments/1x48dxc/pdfcraft_the_pdf_workbench_an_opensource/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "PdfCraft: The PDF workbench; an open-source, clean-room reimplementation of Adobe Acrobat, rebuilt in pure Rust (10.1k stars)",
+  "authors": [
+    "company_url_finder"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/storytold/pdfcraft",
+    "https://github.com/echelon",
+    "http://brand.io",
+    "https://best-github-repos.beehiiv.com/subscribe"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x48dxc",
+    "saved_kind": "post",
+    "post_id": "1x48dxc",
+    "comment_id": null,
+    "subreddit": "BestGitHubRepos",
+    "flair": "🛠 Developer tools",
+    "posted_at": "2026-10-12T17:37:55+00:00",
+    "score_at_capture": 2522,
+    "comment_count_at_capture": 221,
+    "comments_captured_from_api": 204,
+    "thread_comments_returned": 204,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "comments_expanded_from_morechildren": 109,
+    "more_nodes_remaining": 0,
+    "unsaved_at": "2026-10-15T10:44:17+00:00"
+  }
+}

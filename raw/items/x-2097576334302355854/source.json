@@ -1,0 +1,39 @@
+{
+  "id": "x-2097576334302355854",
+  "url": "https://x.com/gregpr07/status/2097576334302355854",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "Browser Use Pi: tiny TypeScript web agent — Pi Mono + persistent V8 REPL + raw CDP",
+  "authors": [
+    "Gregor Zunic (@gregpr07)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097576334302355854",
+    "author_handle": "gregpr07",
+    "author_name": "Gregor Zunic",
+    "author_id": "751239554",
+    "created_at": "2026-09-09T06:42:23Z",
+    "likes": 573,
+    "replies": 29,
+    "retweets": 41,
+    "bookmarks": 666,
+    "quotes": 9,
+    "views": 44632,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "29 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

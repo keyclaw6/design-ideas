@@ -1,0 +1,38 @@
+{
+  "id": "x-2100349127620235577",
+  "url": "https://x.com/neilsonks/status/2100349127620235577",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:29:16Z",
+  "title": "Atlas beta access is rolling out to users, some ideas for API developers - give Astra \"eyes\" in Blender, let it place",
+  "authors": [
+    "neilson (@neilsonks)"
+  ],
+  "topics": [
+    "three-js",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100349127620235577",
+    "author_handle": "neilsonks",
+    "migrated_v2": true,
+    "author_name": "neilson",
+    "created_at": "Wed Sep 16 22:20:29 +0000 2026",
+    "likes": 592,
+    "replies": 20,
+    "retweets": 53,
+    "bookmarks": 586,
+    "quotes": 5,
+    "views": 43918,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

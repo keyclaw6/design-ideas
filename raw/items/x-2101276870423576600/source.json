@@ -1,0 +1,39 @@
+{
+  "id": "x-2101276870423576600",
+  "url": "https://x.com/3DxDEV7/status/2101276870423576600",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:44:36Z",
+  "title": "Is physically accurate spectral atmosphere in 3D renders actually worth the extra computation cost?",
+  "authors": [
+    "3DxDEV (@3DxDEV7)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://superhivemarket.com/products/physical-atmosphere/?ref=8235"
+  ],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2101276870423576600",
+    "author_handle": "3DxDEV7",
+    "migrated_v2": true,
+    "author_name": "3DxDEV",
+    "created_at": "2026-09-19T11:47:00Z",
+    "likes": 188,
+    "replies": 1,
+    "retweets": 9,
+    "bookmarks": 116,
+    "quotes": 0,
+    "views": 7922,
+    "lang": "en",
+    "source_client": "Twitter Web Client",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "filtered": true,
+    "category_note": "Blender atmosphere addon promo; offline-3D tooling, no matching topic lane.",
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

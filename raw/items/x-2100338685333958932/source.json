@@ -1,0 +1,42 @@
+{
+  "id": "x-2100338685333958932",
+  "url": "https://x.com/ArchiveExplorer/status/2100338685333958932",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:29:16Z",
+  "title": "THIS IS INSANE The team behind browser-use (114,824 stars on GitHub) has just released a free video editor that runs",
+  "authors": [
+    "Archive (@ArchiveExplorer)"
+  ],
+  "topics": [
+    "video-generation",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://x.com/ArchiveExplorer/status/2099882744541045045",
+    "https://x.com/i/article/2099843932695793664"
+  ],
+  "media": [
+    "media/media_0.mp4",
+    "media/quoted-media_0.jpg",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100338685333958932",
+    "author_handle": "ArchiveExplorer",
+    "migrated_v2": true,
+    "author_name": "Archive",
+    "created_at": "Wed Sep 16 21:38:59 +0000 2026",
+    "likes": 155,
+    "replies": 8,
+    "retweets": 13,
+    "bookmarks": 235,
+    "quotes": 0,
+    "views": 14614,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

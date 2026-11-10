@@ -36,4 +36,13 @@ Query here only for PCB/EM-field visualization already in the catalog. For a ful
 - [Made a custom fully open-source based KiCAD+OpenEMS physical simulation harness so that I can check the signal integrity](../../raw/items/x-2093020107509514674/) — `x-2093020107509514674`
 - [Atlas Fields Studios — EM fields around PCB designs, free](../../raw/items/x-2094840529997410525/) — `x-2094840529997410525`
 - [Made this 3D keyboard animation with CoAnimator, Claude Fable 5.1 ⌨️ ✨ Best part ? You can edit and customize the whole ](../../raw/items/x-2095111032171876470/) — `x-2095111032171876470`
+- [3 KiCad MCP servers bringing AI into PCB design  1. KiCad MCP Server by Seeed Studio Analyze schematics & PCBs, trace](../../raw/items/x-2096269926302613765/) — `x-2096269926302613765`
+- [T3CAD: An agent-driven electronics workspace with KiCad PCB, schematic, Gerber, 3D, library, and more](../../raw/items/x-2097033282441404729/) — `x-2097033282441404729`
+- [Instead of letting Astra use KiCad, try asking for tscircuit We've just released the first tscircuit version that](../../raw/items/x-2097065106253431233/) — `x-2097065106253431233`
+- [GPT-6 Astra画FPV无人机飞控PCB板方式对比 1、图一和图二是GPT-6直接使用Codex的Computer Use功能直接自己打开嘉立创EDA在里边画飞控PCB板，没有使用MCP和Skil。](../../raw/items/x-2097294226950148499/) — `x-2097294226950148499`
+- [100% agree. Here is KiChad, KiCad + Astra.](../../raw/items/x-2100240455917297896/) — `x-2100240455917297896`
+- [Don't design hardware from scratch anymore — Circuit World has 5,397+ PCB designs](../../raw/items/x-2100774037408592269/) — `x-2100774037408592269`
+- [People keep asking how I make my PCBs with Claude Opus 5.5. So here's the whole pipeline in 60 seconds, all real captures.](../../raw/items/x-2109610532365857198/) — `x-2109610532365857198`
+- [A few KiCAD <-> LLM PCB layout tips from personal experience.](../../raw/items/x-2110189303418769839/) — `x-2110189303418769839`
+- [Introducing Zap!](../../raw/items/x-2110339846963355891/) — `x-2110339846963355891`
 <!-- /AUTO:ITEMS -->

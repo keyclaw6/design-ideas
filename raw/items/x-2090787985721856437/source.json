@@ -24,6 +24,7 @@
       "x-2088695568474546387",
       "x-2090103470015828184"
     ],
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,37 @@
+{
+  "id": "reddit-1w5dab4",
+  "url": "https://www.reddit.com/r/aicuriosity/comments/1w5dab4/qwen_open_sources_zg_local_search_tool_for_code/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Qwen Open Sources zg Local Search Tool for Code and Docs",
+  "authors": [
+    "techspecsmart"
+  ],
+  "topics": [
+    "mcp",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/01-reddit-media.jpeg",
+    "media/02-reddit-media.jpeg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1w5dab4",
+    "saved_kind": "post",
+    "post_id": "1w5dab4",
+    "comment_id": null,
+    "subreddit": "aicuriosity",
+    "flair": "Open Source Model",
+    "posted_at": "2026-09-02T15:17:20+00:00",
+    "score_at_capture": 77,
+    "comment_count_at_capture": 4,
+    "comments_captured_from_api": 4,
+    "thread_comments_returned": 4,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:26+00:00"
+  }
+}

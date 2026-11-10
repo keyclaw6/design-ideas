@@ -1,0 +1,46 @@
+{
+  "id": "x-2100613336237039662",
+  "url": "https://x.com/alexgroberman/status/2100613336237039662",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "I'm a little confused... Why isn't *everyone* isn't taking advantage of the easiest way to get traffic + sales from",
+  "authors": [
+    "Alex Groberman (@alexgroberman)"
+  ],
+  "topics": [
+    "seo-agents"
+  ],
+  "related_urls": [
+    "https://seo-stuff.com/free-audit",
+    "https://www.seo-stuff.com/gold-plan-package",
+    "https://seo-stuff.com",
+    "https://x.com/alexgroberman/status/2100577506785128929"
+  ],
+  "media": [
+    "media/media_0.jpg",
+    "media/media_1.jpg",
+    "media/media_2.jpg",
+    "media/media_3.jpg",
+    "media/quoted-media_0.mp4",
+    "media/quoted-thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100613336237039662",
+    "author_handle": "alexgroberman",
+    "migrated_v2": true,
+    "author_name": "Alex Groberman",
+    "created_at": "Thu Sep 17 15:50:21 +0000 2026",
+    "likes": 88,
+    "replies": 10,
+    "retweets": 32,
+    "bookmarks": 98,
+    "quotes": 2,
+    "views": 35613,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

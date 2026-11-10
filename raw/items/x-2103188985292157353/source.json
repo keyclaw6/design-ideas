@@ -1,0 +1,61 @@
+{
+  "id": "x-2103188985292157353",
+  "url": "https://x.com/fastinoAI/status/2103188985292157353",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Introducing GLiNER2.5-Decide, our new 340M parameter open weight, encoder-based decision model.",
+  "authors": [
+    "Fastino Labs (@fastinoAI)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "http://agent.fastino.ai",
+    "https://huggingface.co/fastino/GLiNER2.5-Decide"
+  ],
+  "media": [
+    "media/image-01.png",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.jpg",
+    "media/image-05.jpg",
+    "media/image-06.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103188985292157353",
+    "author_handle": "fastinoAI",
+    "posted_at": "Thu Sep 24 18:25:04 +0000 2026",
+    "metrics": {
+      "views": 162489,
+      "likes": 1407,
+      "replies": 83,
+      "retweets": 162,
+      "bookmarks": 1452,
+      "quotes": 46
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.png": "https://pbs.twimg.com/media/HTADqQ_acAAEN42.png?name=orig",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUIG-PMWEAEl_Iz.jpg",
+      "media/image-04.jpg": "https://pbs.twimg.com/media/HTAopbqWQAA4jEd.jpg",
+      "media/image-05.jpg": "https://pbs.twimg.com/media/HTAroKOaUAEIpU_.jpg",
+      "media/image-06.png": "https://pbs.twimg.com/media/HTAXRtnasAAmUl-.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Introducing GLiNER2.5-Decide, our new 340M parameter open weight, encoder-based decision model.\n\nGLiNER2.5-Decide is built for fast, deterministic classification. The model evaluates a set of user-defined typed questions and rules, and jointly decodes their answers, returning structured decisions with probability distributions and confidence scores.\n\nWe evaluated the model’s performance on Fast Decisions, an unseen, internally generated classification suite based on 17 datasets testing real-world use cases across routing, triage, classification, sentiment, and content understanding.\n\nMeasured against similar decision models, GLiNER2.5-Decide leads in 9 of the 17 datasets, achieving the highest average score:\n\n- GLiNER2.5-Decide: 60.1%\n- SemIf: 56.4%\n- JevK5: 57.5%\n- Laya: 46.6%\n\nThis performance makes the model a strong fit for use cases like tool calling, model routing, browser and computer use, and LLM-as-a-judge.\n\nGLiNER2.5-Decide’s lightweight encoder architecture makes it easy to fine-tune the model for specific tasks, while being efficient enough to run locally on consumer-grade CPUs or in air-gapped environments, giving users greater control over where their data goes and where the model runs.\n\nTo make building and experimenting with GLiNER2.5-Decide as easy as possible, we're also offering hosted inference. You can now use our API to run inference and fine-tune GLiNER models on specialized tasks right inside your own coding agent: http://agent.fastino.ai\n\nAs with previous models, we’re also releasing the model weights on @huggingface under the Apache 2.0 license: https://huggingface.co/fastino/GLiNER2.5-Decide",
+    "fx_raw_text": "Introducing GLiNER2.5-Decide, our new 340M parameter open weight, encoder-based decision model.\n\nGLiNER2.5-Decide is built for fast, deterministic classification. The model evaluates a set of user-defined typed questions and rules, and jointly decodes their answers, returning structured decisions with probability distributions and confidence scores.\n\nWe evaluated the model’s performance on Fast Decisions, an unseen, internally generated classification suite based on 17 datasets testing real-world use cases across routing, triage, classification, sentiment, and content understanding.\n\nMeasured against similar decision models, GLiNER2.5-Decide leads in 9 of the 17 datasets, achieving the highest average score:\n\n- GLiNER2.5-Decide: 60.1%\n- SemIf: 56.4%\n- JevK5: 57.5%\n- Laya: 46.6%\n\nThis performance makes the model a strong fit for use cases like tool calling, model routing, browser and computer use, and LLM-as-a-judge.\n\nGLiNER2.5-Decide’s lightweight encoder architecture makes it easy to fine-tune the model for specific tasks, while being efficient enough to run locally on consumer-grade CPUs or in air-gapped environments, giving users greater control over where their data goes and where the model runs.\n\nTo make building and experimenting with GLiNER2.5-Decide as easy as possible, we're also offering hosted inference. You can now use our API to run inference and fine-tune GLiNER models on specialized tasks right inside your own coding agent: https://t.co/sy82U11REr\n\nAs with previous models, we’re also releasing the model weights on @huggingface under the Apache 2.0 license: https://t.co/vKS9tsZpiF",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627",
+      "2108255434125840740",
+      "2090814619275436444"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:34.598481+00:00"
+  }
+}

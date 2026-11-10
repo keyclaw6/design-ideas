@@ -20,6 +20,7 @@
       "x-2087715372787228734"
     ],
     "filtered": true,
-    "category_note": "Empty capture; no artifact"
+    "category_note": "Empty capture; no artifact",
+    "migrated_v2": true
   }
 }

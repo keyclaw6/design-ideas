@@ -3,7 +3,7 @@
   "url": "https://x.com/Voxyz_ai/status/2093766772029559077",
   "source_type": "x",
   "captured_at": "2026-09-04T07:52:38Z",
-  "title": "Someone turned the design language of 2,000+ of the world\u2019s best products into DESIGN.md files that Codex / Claude Code ",
+  "title": "Someone turned the design language of 2,000+ of the world’s best products into DESIGN.md files that Codex / Claude Code ",
   "authors": [
     "@Voxyz_ai"
   ],
@@ -22,6 +22,7 @@
     "category_note": "Refero DESIGN.md library (2000+ product design languages for agents).",
     "related_items": [
       "web-styles-refero-design"
-    ]
+    ],
+    "migrated_v2": true
   }
 }

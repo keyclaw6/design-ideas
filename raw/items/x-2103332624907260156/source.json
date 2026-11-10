@@ -1,0 +1,52 @@
+{
+  "id": "x-2103332624907260156",
+  "url": "https://x.com/ModelScope2022/status/2103332624907260156",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "NeoHorse-Jev-4B is now open—a compact model built to turn application states directly into structured decisions and probabilities.",
+  "authors": [
+    "ModelScope (@ModelScope2022)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://modelscope.ai/collections/TokenRhythm/NeoHorse-Jev"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103332624907260156",
+    "author_handle": "ModelScope2022",
+    "posted_at": "2026-09-25T03:55:50+00:00",
+    "metrics": {
+      "views": 20056,
+      "likes": 355,
+      "replies": 22,
+      "retweets": 41,
+      "bookmarks": 328,
+      "quotes": 4
+    },
+    "articles": [],
+    "reply_records_captured": 22,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/ext_tw_video/2103332603973476352/pu/vid/avc1/1200x694/b13BMF-6Eet-j-hC.mp4?tag=12",
+      "media/image-01.jpg": "https://pbs.twimg.com/ext_tw_video_thumb/2103332603973476352/pu/img/S0dBAw77TkiYU4DS.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUH1uCaWIAARd_i.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "NeoHorse-Jev-4B is now open—a compact model built to turn application states directly into structured decisions and probabilities.\n🤖 https://modelscope.ai/collections/TokenRhythm/NeoHorse-Jev\n\n🏆 Scores 77.70 across six text decision benchmark groups, ranking first among the four open-weight models with complete results in the comparison.\n⚡ Prefill-only inference avoids autoregressive answer generation and supports three decision primitives: Choice for action selection, Noul for yes/no judgment, and Score for ordered ratings.\n🎮 The same interface can power request routing, tool selection, workflow control, games, robot manipulation, and autonomous-driving simulations.\n🖼️ Supports text inputs or a single image combined with text, returning normalized probabilities that applications can use directly.\n🛠️ Deploy locally through vLLM, SGLang, Python, CLI, or HTTP. Apache 2.0.",
+    "fx_raw_text": "NeoHorse-Jev-4B is now open—a compact model built to turn application states directly into structured decisions and probabilities.\n🤖 https://t.co/KmGEmT7Jpa\n\n🏆 Scores 77.70 across six text decision benchmark groups, ranking first among the four open-weight models with complete results in the comparison.\n⚡ Prefill-only inference avoids autoregressive answer generation and supports three decision primitives: Choice for action selection, Noul for yes/no judgment, and Score for ordered ratings.\n🎮 The same interface can power request routing, tool selection, workflow control, games, robot manipulation, and autonomous-driving simulations.\n🖼️ Supports text inputs or a single image combined with text, returning normalized probabilities that applications can use directly.\n🛠️ Deploy locally through vLLM, SGLang, Python, CLI, or HTTP. Apache 2.0.",
+    "unverified_timeline_record_ids": [
+      "2110634494046687357",
+      "2105746567571648627"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:40.532046+00:00"
+  }
+}

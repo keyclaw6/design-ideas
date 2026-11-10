@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2093012548031254932",
     "author_handle": "matiNotFound",
-    "category_note": "vgpu: WebGPU lib designed for agents"
+    "category_note": "vgpu: WebGPU lib designed for agents",
+    "migrated_v2": true
   }
 }

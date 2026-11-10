@@ -1,0 +1,63 @@
+{
+  "id": "x-2106009509311516843",
+  "url": "https://x.com/SubhanHQ/status/2106009509311516843",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "this micro transitions website is goated man https://t.co/kgtLAWN1ZV with over 2.5k stars https://t.co/wQxHdSr0YW",
+  "authors": [
+    "Kiyotaka (@SubhanHQ)"
+  ],
+  "topics": [
+    "ui-motion"
+  ],
+  "related_urls": [
+    "https://amicro.vercel.app"
+  ],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.png",
+    "media/video-01.mp4",
+    "media/video-02.mp4",
+    "media/video-03.mp4",
+    "media/image-03.jpg",
+    "media/video-04.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106009509311516843",
+    "author_handle": "SubhanHQ",
+    "posted_at": "2026-10-02T13:12:49+00:00",
+    "metrics": {
+      "views": 16085,
+      "likes": 140,
+      "replies": 7,
+      "retweets": 9,
+      "bookmarks": 285,
+      "quotes": 0
+    },
+    "articles": [],
+    "reply_records_captured": 17,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HToMeN2bkAELPxV.jpg?name=orig",
+      "media/image-02.png": "https://pbs.twimg.com/media/HTrmOadaUAA_NhR.png",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2108072332229050368/vid/avc1/1320x2868/RcIXDtHdvk7JkwDI.mp4?tag=29",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2108072332233170944/vid/avc1/1320x2868/rwkdDKO-C_Fku2is.mp4?tag=29",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110455645933568002/vid/avc1/3840x2160/qTEk0TowO2B33sPs.mp4?tag=29",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUoK4fLboAAo1fo.jpg",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110573664651579392/vid/avc1/1768x1080/Q5QefeZlD6TenOdD.mp4?tag=29"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "this micro transitions website is goated man https://amicro.vercel.app with over 2.5k stars",
+    "fx_raw_text": "this micro transitions website is goated man https://t.co/kgtLAWN1ZV with over 2.5k stars https://t.co/wQxHdSr0YW",
+    "unverified_timeline_record_ids": [
+      "2099964624766730251",
+      "2110349874608931157",
+      "2110456607297749099",
+      "2110512054851526682",
+      "2110573704698802643"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:14.932840+00:00"
+  }
+}

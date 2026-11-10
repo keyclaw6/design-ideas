@@ -19,6 +19,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "stars": 659,
     "forks": 127,
     "language": "HTML",

@@ -10,12 +10,15 @@
   "topics": [],
   "related_urls": [],
   "media": [],
-  "unsaved": false,
+  "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095192939169234945",
     "author_handle": "0xfJuan",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
     "filtered": true,
-    "category_note": "Social launch-distribution article ('everywhere overnight'); GTM, out of taxonomy."
+    "category_note": "Social launch-distribution article ('everywhere overnight'); GTM, out of taxonomy.",
+    "unsaved_at": "2026-09-21T15:38:04Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
   }
 }

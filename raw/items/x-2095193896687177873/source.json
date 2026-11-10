@@ -15,6 +15,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095193896687177873",
     "author_handle": "adamdotnew",
     "category_note": "Claude Fable 5.1 agentic CAD in Fusion (SO-101 gripper + Pi Camera STEP).",

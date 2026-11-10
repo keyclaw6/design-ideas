@@ -1,0 +1,59 @@
+{
+  "id": "x-2110124406156722455",
+  "url": "https://x.com/niklaslenz_ai/status/2110124406156722455",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "🚨 This is huge.",
+  "authors": [
+    "Niklas (@niklaslenz_ai)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://s.fish.audio/rqh0l8",
+    "https://s.fish.audio/qz9r0t"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110124406156722455",
+    "author_handle": "niklaslenz_ai",
+    "posted_at": "Tue Oct 13 21:43:57 +0000 2026",
+    "metrics": {
+      "views": 129952,
+      "likes": 1785,
+      "replies": 52,
+      "retweets": 125,
+      "bookmarks": 2028,
+      "quotes": 11
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110124155735568384/vid/avc1/1280x720/e0K7TO5dXwPTmxJw.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2110124155735568384/img/PIHFHu805_LKRTSe.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "🚨 This is huge. \n\nFish Audio just opened the weights of Drama 3, and it's the first open TTS model that sounds close to perfect to me.\n\nOther models can switch emotion mid-sentence. \nDrama 3 is the first one I've heard where it actually sounds right. \n\nThree tests against Qwen3-TTS, each on one DGX Spark at home: happy turning sad mid-sentence, a sad whisper, and pure excitement. Listen to where the mood drops.\n\nI think this kills ElevenLabs for anyone who has their own compute.\n\nThe catch: it's a 35B model (3B active), a 41.5 GB download, and on the Spark it only just keeps up with real time: 10 s of audio take 9.7 s (Qwen3-TTS 7.6 s).",
+    "fx_raw_text": "🚨 This is huge. \n\nFish Audio just opened the weights of Drama 3, and it's the first open TTS model that sounds close to perfect to me.\n\nOther models can switch emotion mid-sentence. \nDrama 3 is the first one I've heard where it actually sounds right. \n\nThree tests against Qwen3-TTS, each on one DGX Spark at home: happy turning sad mid-sentence, a sad whisper, and pure excitement. Listen to where the mood drops.\n\nI think this kills ElevenLabs for anyone who has their own compute.\n\nThe catch: it's a 35B model (3B active), a 41.5 GB download, and on the Spark it only just keeps up with real time: 10 s of audio take 9.7 s (Qwen3-TTS 7.6 s).",
+    "quoted_post": {
+      "id": "2110038429199450126",
+      "url": "https://x.com/FishAudio/status/2110038429199450126",
+      "author": "Fish Audio (@FishAudio)",
+      "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://s.fish.audio/rqh0l8\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://s.fish.audio/qz9r0t"
+    },
+    "unverified_timeline_record_ids": [
+      "2098108930002202855",
+      "2068115197718593741",
+      "2107489312103395834",
+      "2110055532073820539"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

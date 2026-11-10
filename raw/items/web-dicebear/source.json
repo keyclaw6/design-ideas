@@ -20,6 +20,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "style_count": 61,
     "license": "MIT (core library)",
     "fetch": "r.jina.ai landing",

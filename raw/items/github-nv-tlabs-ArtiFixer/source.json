@@ -32,6 +32,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "github": "nv-tlabs/ArtiFixer",
     "description": "Enhancing and extending 3D reconstruction with auto-regressive diffusion models (SIGGRAPH 2026)",
     "stargazer_count": 635,

@@ -1,0 +1,34 @@
+{
+  "id": "x-2099178055201935475",
+  "url": "https://x.com/DesignByMoein/status/2099178055201935475",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:30:16Z",
+  "title": "Another Hero section is designed! Built with Custom Skills + my video tool + Cursor + the client's design.md file + a",
+  "authors": [
+    "Moein (@DesignByMoein)"
+  ],
+  "topics": [
+    "design"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video.mp4",
+    "media/video_thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2099178055201935475",
+    "author_handle": "DesignByMoein",
+    "migrated_v2": true,
+    "author_name": "Moein",
+    "created_at": "Sun Sep 13 16:47:03 +0000 2026",
+    "likes": 58,
+    "replies": 7,
+    "retweets": 1789972232,
+    "views": 5373,
+    "bookmarks": 36,
+    "fetch": "api.fxtwitter.com + agent-browser replies via own tab t7",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

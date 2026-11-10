@@ -18,6 +18,7 @@
     "tweet_id": "2092222199620833420",
     "author_handle": "trending_repos",
     "fetch": "api.fxtwitter.com (harvest-clear loop)",
-    "unsaved_at": "2026-09-04T06:39:53Z"
+    "unsaved_at": "2026-09-04T06:39:53Z",
+    "migrated_v2": true
   }
 }

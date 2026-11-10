@@ -19,6 +19,7 @@
     "tweet_id": "2094110975045554191",
     "author_handle": "0xfini",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Multi-agent blast radius: shared logins, spend caps, session expiry, audit."
+    "category_note": "Multi-agent blast radius: shared logins, spend caps, session expiry, audit.",
+    "migrated_v2": true
   }
 }

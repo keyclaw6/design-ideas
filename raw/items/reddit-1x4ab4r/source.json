@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1x4ab4r",
+  "url": "https://www.reddit.com/r/TextToSpeech/comments/1x4ab4r/folivox_a_free_opensource_app_that_turns/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Folivox: a free, open-source app that turns EPUB/FB2/PDF books into chaptered audiobooks, built for quality",
+  "authors": [
+    "vatavale"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://github.com/vatavale/folivox"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x4ab4r",
+    "saved_kind": "post",
+    "post_id": "1x4ab4r",
+    "comment_id": null,
+    "subreddit": "TextToSpeech",
+    "flair": null,
+    "posted_at": "2026-10-12T18:47:57+00:00",
+    "score_at_capture": 128,
+    "comment_count_at_capture": 10,
+    "comments_captured_from_api": 9,
+    "thread_comments_returned": 9,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:17+00:00"
+  }
+}

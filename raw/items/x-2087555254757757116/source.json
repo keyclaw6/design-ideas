@@ -25,6 +25,7 @@
       "web-obscura-sh",
       "github-punkpeye-awesome-mcp-servers"
     ],
-    "category_note": "KERNEL agent browsers: custom proxy + CA bundle"
+    "category_note": "KERNEL agent browsers: custom proxy + CA bundle",
+    "migrated_v2": true
   }
 }

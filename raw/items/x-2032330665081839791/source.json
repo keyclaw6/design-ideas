@@ -25,6 +25,7 @@
       "x-2074912810803560497",
       "x-2087151807965401320"
     ],
-    "category_note": "Karpathy-style evolutionary swarm pointed at quant factors; keep for autoresearch mechanics, not trading."
+    "category_note": "Karpathy-style evolutionary swarm pointed at quant factors; keep for autoresearch mechanics, not trading.",
+    "migrated_v2": true
   }
 }

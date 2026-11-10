@@ -1,0 +1,38 @@
+{
+  "id": "x-2100629367986716804",
+  "url": "https://x.com/Crowdreply_io/status/2100629367986716804",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "Introducing Astra for Marketing just enter your website into GPT-6 Astra and watch it outrank a company doing $6M/month",
+  "authors": [
+    "CrowdReply (@Crowdreply_io)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100629367986716804",
+    "author_handle": "Crowdreply_io",
+    "migrated_v2": true,
+    "author_name": "CrowdReply",
+    "created_at": "Thu Sep 17 16:54:03 +0000 2026",
+    "likes": 1527,
+    "replies": 48,
+    "retweets": 88,
+    "bookmarks": 3050,
+    "quotes": 11,
+    "views": 664775,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

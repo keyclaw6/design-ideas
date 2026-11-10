@@ -1,0 +1,56 @@
+{
+  "authors": [
+    "Abdul Shakoor (@abxxai)"
+  ],
+  "captured_at": "2026-09-21T12:33:00Z",
+  "extra": {
+    "author_handle": "abxxai",
+    "author_name": "Abdul Shakoor",
+    "bookmarks": 1027,
+    "comments_note": "57 replies; 11 author + 39 community visible. Full 6-part prompt thread captured verbatim via API; top community picks via bridge.",
+    "created_at": "2026-09-18T15:05:33Z",
+    "lang": "en",
+    "likes": 681,
+    "migrated_v2": true,
+    "replies": 57,
+    "retweets": 106,
+    "source_client": "Typefully",
+    "thread_ids": [
+      "2100964472513048874",
+      "2100964491500699709",
+      "2100964511788511448",
+      "2100964532613181919",
+      "2100964546194427976",
+      "2100964559289004448"
+    ],
+    "tweet_id": "2100964451243712830",
+    "video_duration": 20.133,
+    "views": 91592,
+    "unsaved_at": "2026-09-21T12:47:27Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  },
+  "id": "x-2100964451243712830",
+  "media": [
+    "media/thumb.jpg",
+    "media/video.mp4",
+    "media/thread-charsheet-woman.jpg",
+    "media/thread-charsheet-man.jpg",
+    "media/thread-frame1.jpg",
+    "media/thread-frame2.jpg"
+  ],
+  "related_urls": [
+    "https://x.com/abxxai/status/2100964472513048874",
+    "https://x.com/abxxai/status/2100964491500699709",
+    "https://x.com/abxxai/status/2100964511788511448",
+    "https://x.com/abxxai/status/2100964532613181919",
+    "https://x.com/abxxai/status/2100964546194427976",
+    "https://x.com/abxxai/status/2100964559289004448"
+  ],
+  "source_type": "x",
+  "title": "How to make AI video that doesn't look like AI — prompt the mistakes a real person makes",
+  "topics": [
+    "video-generation"
+  ],
+  "unsaved": true,
+  "url": "https://x.com/abxxai/status/2100964451243712830"
+}

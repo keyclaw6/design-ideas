@@ -1,0 +1,44 @@
+{
+  "id": "x-2097842487096131828",
+  "url": "https://x.com/draprints/status/2097842487096131828",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "Lemlist $1K to $28M/yr bootstrapped: cold email technical system across 140 B2B companies",
+  "authors": [
+    "Dra (@draprints)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/draprints/status/2096405966770028822",
+    "https://x.com/i/article/2094188082308280320"
+  ],
+  "media": [
+    "media/media_0.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097842487096131828",
+    "author_handle": "draprints",
+    "author_name": "Dra",
+    "author_id": "1495764843219062789",
+    "created_at": "2026-09-10T00:19:59Z",
+    "likes": 37,
+    "replies": 10,
+    "retweets": 6,
+    "bookmarks": 59,
+    "quotes": 0,
+    "views": 5554,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "is_note_tweet": true,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "10 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "quoted_tweet_id": "2096405966770028822",
+    "quoted_author_handle": "draprints",
+    "filtered": true,
+    "category_note": "Lemlist cold-email system; outbound, out of taxonomy.",
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

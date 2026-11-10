@@ -21,6 +21,7 @@
   "media": [],
   "unsaved": false,
   "extra": {
+    "migrated_v2": true,
     "published": "2026-06-03",
     "accuracy_claim": "~95% of business analytics queries automated; ~95% aggregate accuracy",
     "fetch": "r.jina.ai",

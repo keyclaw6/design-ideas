@@ -1,0 +1,42 @@
+{
+  "captured_at": "2026-10-15T10:47:16.007333+00:00",
+  "reason": "Four new live bookmarks discovered before unsaving; capture verified before remote removal.",
+  "items": [
+    {
+      "tweet_id": "2110622360781119599",
+      "path": "raw/items/x-2110622360781119599",
+      "title": "SEO tools have made our lives easier.",
+      "status": "complete",
+      "media_files": 10,
+      "author_thread_records": 12,
+      "article_blocks": 0
+    },
+    {
+      "tweet_id": "2095896040155340809",
+      "path": "raw/items/x-2095896040155340809",
+      "title": "How to use ChatGPT Astra for SEO so well it feels illegal ",
+      "status": "complete",
+      "media_files": 5,
+      "author_thread_records": 0,
+      "article_blocks": 85
+    },
+    {
+      "tweet_id": "2110361649911919063",
+      "path": "raw/items/x-2110361649911919063",
+      "title": "If you're a business owner trying to rank on the first page of Google, do this. (Bookmark this)",
+      "status": "complete",
+      "media_files": 2,
+      "author_thread_records": 1,
+      "article_blocks": 0
+    },
+    {
+      "tweet_id": "2110595028015808766",
+      "path": "raw/items/x-2110595028015808766",
+      "title": "Almost 2,500 Google clicks in the last 28 days.",
+      "status": "complete",
+      "media_files": 1,
+      "author_thread_records": 1,
+      "article_blocks": 0
+    }
+  ]
+}

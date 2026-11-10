@@ -1,0 +1,54 @@
+{
+  "id": "x-2103094238430761101",
+  "url": "https://x.com/trending_repos/status/2103094238430761101",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Trending repository of the day 📈",
+  "authors": [
+    "Trending GitHub Repositories (@trending_repos)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/vectorize-io/hindsight"
+  ],
+  "media": [
+    "media/image-01.png",
+    "media/image-02.jpg",
+    "media/image-03.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2103094238430761101",
+    "author_handle": "trending_repos",
+    "posted_at": "Thu Sep 24 12:08:34 +0000 2026",
+    "metrics": {
+      "views": 19563,
+      "likes": 203,
+      "replies": 3,
+      "retweets": 15,
+      "bookmarks": 271,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 6,
+    "media_source_urls": {
+      "media/image-01.png": "https://pbs.twimg.com/media/HUk25vmWAAIVFLj.png",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUlToxkXEAEoyAa.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUmEcKkWgAAgmFW.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "Trending repository of the day 📈\n\nhindsight\n\nHindsight: Agent Memory That Learns\n\nLast 24h: 1,607 ⭐\nTotal: 26,931 ⭐️\nhttps://github.com/vectorize-io/hindsight",
+    "fx_raw_text": "Trending repository of the day 📈\n\nhindsight\n\nHindsight: Agent Memory That Learns\n\nLast 24h: 1,607 ⭐\nTotal: 26,931 ⭐️\nhttps://t.co/Mev6yl48dr",
+    "unverified_timeline_record_ids": [
+      "2110517256966775241",
+      "2110278672791777732",
+      "2110309882226233617",
+      "2110363599139176698"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:52:23.276931+00:00"
+  }
+}

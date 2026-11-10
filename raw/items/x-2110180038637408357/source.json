@@ -1,0 +1,44 @@
+{
+  "id": "x-2110180038637408357",
+  "url": "https://x.com/illyism/status/2110180038637408357",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "530 people asked for the system prompt I use to run SEO + AEO inside Claude Code and Cursor.",
+  "authors": [
+    "ILIAS ISM (@illyism)"
+  ],
+  "topics": [
+    "seo-agents",
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/Illyism/seo-skills"
+  ],
+  "media": [
+    "media/image-01.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110180038637408357",
+    "author_handle": "illyism",
+    "posted_at": "2026-10-14T01:25:01+00:00",
+    "metrics": {
+      "views": 427939,
+      "likes": 1186,
+      "replies": 94,
+      "retweets": 67,
+      "bookmarks": 2613,
+      "quotes": 16
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/image-01.png": "https://pbs.twimg.com/media/HUmCIIZXoAAxE6o.png"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "530 people asked for the system prompt I use to run SEO + AEO inside Claude Code and Cursor.\n\nInstead of gatekeeping it in DMs, I just open-sourced the entire repo:\n\n- Audits your codebase for technical SEO & broken metadata\n- Reverse-engineers top 10 SERP titles & structure\n- Writes comparison pages with real information gain\n- Checks what ChatGPT and Perplexity cite for your niche\n\nNo $2,000/mo agency required.\n\nRepo: https://github.com/Illyism/seo-skills",
+    "fx_raw_text": "530 people asked for the system prompt I use to run SEO + AEO inside Claude Code and Cursor.\n\nInstead of gatekeeping it in DMs, I just open-sourced the entire repo:\n\n- Audits your codebase for technical SEO & broken metadata\n- Reverse-engineers top 10 SERP titles & structure\n- Writes comparison pages with real information gain\n- Checks what ChatGPT and Perplexity cite for your niche\n\nNo $2,000/mo agency required.\n\nRepo: https://t.co/7ZOsGjdJY0",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

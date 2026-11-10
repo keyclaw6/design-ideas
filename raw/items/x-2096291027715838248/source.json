@@ -1,0 +1,18 @@
+{
+  "id": "x-2096291027715838248",
+  "url": "https://x.com/i/status/2096291027715838248",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:00:00Z",
+  "title": "X post 2096291027715838248 (deleted upstream)",
+  "authors": [],
+  "topics": [],
+  "related_urls": [],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096291027715838248",
+    "filtered": true,
+    "category_note": "Tweet deleted or private upstream (fxtwitter 404, vxtwitter 403, jina 403 at capture 2026-09-21); tombstone so the bookmark reference is not silently lost.",
+    "unsaved_at": "2026-09-21T12:08:37Z"
+  }
+}

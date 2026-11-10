@@ -1,0 +1,72 @@
+{
+  "id": "x-2108365916895654105",
+  "url": "https://x.com/0x0SojalSec/status/2108365916895654105",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "Real human voice cloning just crossed the uncanny valley.",
+  "authors": [
+    "Md Ismail Šojal 🕷️ (@0x0SojalSec)"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "http://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/video-03.mp4",
+    "media/video-04.mp4",
+    "media/video-05.mp4",
+    "media/video-02.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2108365916895654105",
+    "author_handle": "0x0SojalSec",
+    "posted_at": "2026-10-09T01:16:20+00:00",
+    "metrics": {
+      "views": 50908,
+      "likes": 1035,
+      "replies": 15,
+      "retweets": 121,
+      "bookmarks": 1552,
+      "quotes": 8
+    },
+    "articles": [],
+    "reply_records_captured": 19,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2108363687593730048/vid/avc1/720x720/7ElKGYUU8NgbOHpU.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2108363687593730048/img/xW2zN5M_kquG3wUN.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUOzV9NXwAEsea9.jpg",
+      "media/video-03.mp4": "https://video.twimg.com/amplify_video/2110248922111528961/vid/avc1/1820x1024/b3oPOkybBzhFW3mK.mp4?tag=29",
+      "media/video-04.mp4": "https://video.twimg.com/amplify_video/2110360533803130880/vid/avc1/1920x1080/_DLwKSObAdxQxi2h.mp4?tag=29",
+      "media/video-05.mp4": "https://video.twimg.com/amplify_video/2110374180395098112/vid/avc1/576x1024/t-hXvst_5sBLVpTc.mp4?tag=29",
+      "media/video-02.mp4": "https://video.twimg.com/amplify_video/2110025935231881216/vid/avc1/3840x2160/Xq8UdgM8J3yCTwl6.mp4?tag=29"
+    },
+    "media_omitted": [
+      {
+        "path": "media/video-02.mp4",
+        "url": "https://video.twimg.com/amplify_video/2110025935231881216/vid/avc1/3840x2160/Xq8UdgM8J3yCTwl6.mp4?tag=29",
+        "reason": "git_remote_size_limit",
+        "kept_locally": true,
+        "bytes": 195633894
+      }
+    ],
+    "fx_text_capture": "Real human voice cloning just crossed the uncanny valley.\n\nYou can now clone voices that sound actually full real human, Not robotic,\n\nA Open-source 1.7B model Clone any voice in seconds.\nEmotions, age, tone, personality & accent all controllable.\n\nLow latency, Multilingual.\n- http://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "fx_raw_text": "Real human voice cloning just crossed the uncanny valley.\n\nYou can now clone voices that sound actually full real human, Not robotic,\n\nA Open-source 1.7B model Clone any voice in seconds.\nEmotions, age, tone, personality & accent all controllable.\n\nLow latency, Multilingual.\n- https://t.co/imt8zuV3r2",
+    "unverified_timeline_record_ids": [
+      "2099964624699261349",
+      "2068115197718593741",
+      "2110038429199450126",
+      "2110400987622265232",
+      "2110360787780800611",
+      "2110375346046746649"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:56:03.522270+00:00"
+  }
+}

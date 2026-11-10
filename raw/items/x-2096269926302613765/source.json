@@ -1,0 +1,44 @@
+{
+  "id": "x-2096269926302613765",
+  "url": "https://x.com/Alacritic_Super/status/2096269926302613765",
+  "source_type": "x",
+  "captured_at": "2026-09-21T10:00:39Z",
+  "title": "3 KiCad MCP servers bringing AI into PCB design  1. KiCad MCP Server by Seeed Studio Analyze schematics & PCBs, trace",
+  "authors": [
+    "@Alacritic_Super"
+  ],
+  "topics": [
+    "mcp",
+    "keyboard-pcb"
+  ],
+  "related_urls": [
+    "https://github.com/Seeed-Studio/kicad-mcp-server",
+    "https://github.com/mixelpixx/KiCAD-MCP-Server",
+    "https://github.com/lamaalrajih/kicad-mcp"
+  ],
+  "media": [
+    "media/quoted-video.mp4",
+    "media/quoted-thumb.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2096269926302613765",
+    "author_handle": "Alacritic_Super",
+    "author_name": "Praveen Kumar Verma",
+    "author_bio": "FinTech by day. At night I build DIY robots that think with their bodies. Embodied AI, microcontrollers & open-source hardware for makers. DM for collab.",
+    "created_at": "Sat Sep 05 16:11:11 +0000 2026",
+    "created_timestamp": 1788624671,
+    "likes": 500,
+    "retweets": 76,
+    "replies": 10,
+    "views": 71141,
+    "bookmarks": 675,
+    "quotes": 3,
+    "lang": "en",
+    "possibly_sensitive": false,
+    "quoted": "https://x.com/Alacritic_Super/status/2096162271517196465",
+    "capture_method": "fxtwitter",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T12:08:37Z"
+  }
+}

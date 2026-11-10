@@ -19,6 +19,7 @@
     "tweet_id": "2093481253043380418",
     "author_handle": "CalliopeLabsyt",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "Calliope: idea \u2192 script/characters/2D animation/VO faceless video."
+    "category_note": "Calliope: idea → script/characters/2D animation/VO faceless video.",
+    "migrated_v2": true
   }
 }

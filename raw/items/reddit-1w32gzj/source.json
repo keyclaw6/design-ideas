@@ -1,0 +1,38 @@
+{
+  "id": "reddit-1w32gzj",
+  "url": "https://www.reddit.com/r/claudeskills/comments/1w32gzj/i_made_an_universal_critical_thinking_skill/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "I made an universal critical thinking skill",
+  "authors": [
+    "Tricky-Elderberry298"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://www.betaspacestudio.com/en/resources/universal-critical-thinking"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1w32gzj",
+    "saved_kind": "post",
+    "post_id": "1w32gzj",
+    "comment_id": null,
+    "subreddit": "claudeskills",
+    "flair": "Skill Share",
+    "posted_at": "2026-08-31T03:48:59+00:00",
+    "score_at_capture": 167,
+    "comment_count_at_capture": 17,
+    "comments_captured_from_api": 14,
+    "thread_comments_returned": 14,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:25+00:00"
+  }
+}

@@ -16,6 +16,7 @@
   "extra": {
     "tweet_id": "2091729720303874220",
     "author_handle": "tom_doerr",
-    "filtered": true
+    "filtered": true,
+    "migrated_v2": true
   }
 }

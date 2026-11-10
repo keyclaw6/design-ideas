@@ -26,6 +26,7 @@
       "web-seowins-io",
       "web-known-agency"
     ],
-    "category_note": "Hidden llms.txt link so browsing LLMs ingest it"
+    "category_note": "Hidden llms.txt link so browsing LLMs ingest it",
+    "migrated_v2": true
   }
 }

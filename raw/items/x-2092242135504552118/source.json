@@ -18,6 +18,7 @@
   "extra": {
     "tweet_id": "2092242135504552118",
     "author_handle": "thebuggeddev",
-    "category_note": "Image-to-mesh topology, not webGL"
+    "category_note": "Image-to-mesh topology, not webGL",
+    "migrated_v2": true
   }
 }

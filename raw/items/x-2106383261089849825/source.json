@@ -1,0 +1,49 @@
+{
+  "id": "x-2106383261089849825",
+  "url": "https://x.com/liambraus/status/2106383261089849825",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "HOY UNA INDUSTRIA ENTERA DEJÓ DE TENER SENTIDO",
+  "authors": [
+    "liam. (@liambraus)"
+  ],
+  "topics": [
+    "gaussian-splatting"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2106383261089849825",
+    "author_handle": "liambraus",
+    "posted_at": "2026-10-03T13:57:58+00:00",
+    "metrics": {
+      "views": 1585694,
+      "likes": 21760,
+      "replies": 260,
+      "retweets": 2492,
+      "bookmarks": 26072,
+      "quotes": 220
+    },
+    "articles": [],
+    "reply_records_captured": 49,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2106382656661237760/vid/avc1/1280x720/BuJ7ZK0Jw3fWm5Hz.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2106382656661237760/img/q_3t6CvMaWmwBGft.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "HOY UNA INDUSTRIA ENTERA DEJÓ DE TENER SENTIDO\n\nalguien subió a GitHub un repo que coge cualquier foto y te devuelve un mundo 3d explorable: mallas con físicas, splat del fondo, audio ambiente. todo.\n\nentra una imagen. \n\nsale un mundo. cinco minutos.  \n\nla gente que lleva diez años aprendiendo Blender se ha pasado el día mirando esto en silencio.  \n\nse llama image-blaster.  \n\nos dejo el repo abajo.",
+    "fx_raw_text": "HOY UNA INDUSTRIA ENTERA DEJÓ DE TENER SENTIDO\n\nalguien subió a GitHub un repo que coge cualquier foto y te devuelve un mundo 3d explorable: mallas con físicas, splat del fondo, audio ambiente. todo.\n\nentra una imagen. \n\nsale un mundo. cinco minutos.  \n\nla gente que lleva diez años aprendiendo Blender se ha pasado el día mirando esto en silencio.  \n\nse llama image-blaster.  \n\nos dejo el repo abajo.",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2099964624766730251",
+      "2099964624644776310"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:54:33.681985+00:00"
+  }
+}

@@ -3,7 +3,7 @@
   "url": "https://x.com/JakeFromHeyGen/status/2093129469926215800",
   "source_type": "x",
   "captured_at": "2026-09-04T06:49:41Z",
-  "title": "devastating hyperframes mog \ud83e\udd40 oh and btw the code for our launch videos, including this one, located in thread",
+  "title": "devastating hyperframes mog 🥀 oh and btw the code for our launch videos, including this one, located in thread",
   "authors": [
     "Jake Moran (@JakeFromHeyGen)"
   ],
@@ -19,6 +19,7 @@
     "tweet_id": "2093129469926215800",
     "author_handle": "JakeFromHeyGen",
     "fetch": "api.fxtwitter.com (retry)",
-    "category_note": "HeyGen launch-video / hyperframes; code claimed in thread (not captured)."
+    "category_note": "HeyGen launch-video / hyperframes; code claimed in thread (not captured).",
+    "migrated_v2": true
   }
 }

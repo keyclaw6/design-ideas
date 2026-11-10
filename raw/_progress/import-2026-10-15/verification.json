@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-15",
+  "status": "passed",
+  "counts": {
+    "x_saved_entries": 130,
+    "x_local_media": 703,
+    "local_media_bytes": 2472493366,
+    "reddit_saved_entries": 38,
+    "reddit_local_media": 56,
+    "captured_saved_items": 168,
+    "local_media_total": 759,
+    "library_items": 791,
+    "library_notes": 1,
+    "new_item_folders": 166
+  },
+  "errors": [],
+  "full_text_audit": {
+    "reddit_saved_bodies": 38,
+    "x_posts_and_quoted_posts": 130,
+    "x_articles": 21,
+    "x_nonempty_article_text_blocks": 2759,
+    "missing_article_paragraphs_or_entity_links": 0
+  },
+  "media_audio_audit": "reddit/evidence/audio-stream-audit.json",
+  "credential_artifact_scan": {
+    "credential_values_checked": 2,
+    "matching_file_count": 0
+  },
+  "preexisting_capture_files_changed": [
+    "raw/items/x-humanize-prompt-2107787922204152156/source.json",
+    "raw/items/reddit-1x3b9aa/content.md",
+    "raw/items/reddit-1x3b9aa/source.json"
+  ],
+  "catalog_validation": "passed",
+  "platform_lists": "capture verified, then all 130 X bookmarks and 38 Reddit saves unsaved; both lists independently verified empty",
+  "graph_update": {
+    "nodes": 10343,
+    "edges": 9609,
+    "structural_update": "passed",
+    "community_labels": "existing labels reused; no paid semantic relabeling requested"
+  },
+  "additional_capture_evidence": "x/additional-captures.json",
+  "unsave_validation": {
+    "status": "passed",
+    "x": {
+      "unsaved": 130,
+      "remaining_saved": 0,
+      "independent_verification": "x/unsave-root-verification.json",
+      "ledger": "x/unsave-ledger.json"
+    },
+    "reddit": {
+      "unsaved": 38,
+      "remaining_saved": 0,
+      "independent_verification": "reddit/unsave-root-verification.json",
+      "ledger": "reddit/unsave-ledger.json"
+    },
+    "canonical_metadata": "unsaved=true; extra.unsaved_at present for all168; no likes changed",
+    "canonical_metadata_audit": {
+      "entries": 168,
+      "errors": 0
+    }
+  },
+  "session_close": {
+    "status": "closed",
+    "closed_at": "2026-10-15T11:05:43.282727+00:00",
+    "scoped_metadata_and_media_audit": "passed: 168 entries, 759 local media references",
+    "workers": "all complete; no continuing writer",
+    "temporary_resources": "removed; no owned browser/controller left running",
+    "git": "working tree preserved on main; uncommitted and unpushed; includes pre-existing changes",
+    "pending_security_followup": "replace X session credentials exposed in diagnostic trace; no credential values stored in archive"
+  }
+}

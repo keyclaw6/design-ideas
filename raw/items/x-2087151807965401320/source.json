@@ -22,6 +22,7 @@
       "x-2074912810803560497",
       "x-2087143369181114868"
     ],
-    "category_note": "Ouroboros: coding agent that evolves tools/prompts/architecture via reviewed commits; SOTA bench claims."
+    "category_note": "Ouroboros: coding agent that evolves tools/prompts/architecture via reviewed commits; SOTA bench claims.",
+    "migrated_v2": true
   }
 }

@@ -17,6 +17,7 @@
   "unsaved": true,
   "extra": {
     "tweet_id": "2091918691747189053",
-    "author_handle": "marmosetco"
+    "author_handle": "marmosetco",
+    "migrated_v2": true
   }
 }

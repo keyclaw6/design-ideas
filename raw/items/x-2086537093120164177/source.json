@@ -3,7 +3,7 @@
   "url": "https://x.com/startracker/status/2086537093120164177",
   "source_type": "x",
   "captured_at": "2026-09-04T06:51:00Z",
-  "title": "Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) 🚀 I finally figured out ho",
+  "title": "Day 15 of the dream game build (yeah I know the real count is higher, but this is update #15) \ud83d\ude80 I finally figured out ho",
   "authors": [
     "@startracker"
   ],
@@ -26,6 +26,7 @@
       "x-2086599657925329347",
       "x-2057113327508345047"
     ],
-    "category_note": "Opus 5 recursive loop + subagent QC for high-detail interactive 3D vehicle (textureless)."
+    "category_note": "Opus 5 recursive loop + subagent QC for high-detail interactive 3D vehicle (textureless).",
+    "migrated_v2": true
   }
 }

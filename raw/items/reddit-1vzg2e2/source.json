@@ -1,0 +1,36 @@
+{
+  "id": "reddit-1vzg2e2",
+  "url": "https://www.reddit.com/r/opencode/comments/1vzg2e2/free_glm_53_flash_qwen_38_deepseek_v4_flash/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "Free GLM 5.3 Flash, Qwen 3.8, Deepseek V4 Flash through Empero AI.",
+  "authors": [
+    "jacobpowaza"
+  ],
+  "topics": [
+    "general-reference"
+  ],
+  "related_urls": [
+    "https://preview.redd.it/c25vqm67ltlh1.png?width=1196&format=png&auto=webp&s=c3e3c11b16c8f690d5d648af0af9a6cf84ea6e9f",
+    "https://free.empero.org/v1"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1vzg2e2",
+    "saved_kind": "post",
+    "post_id": "1vzg2e2",
+    "comment_id": null,
+    "subreddit": "opencode",
+    "flair": null,
+    "posted_at": "2026-08-27T01:26:45+00:00",
+    "score_at_capture": 121,
+    "comment_count_at_capture": 29,
+    "comments_captured_from_api": 26,
+    "thread_comments_returned": 26,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:28+00:00"
+  }
+}

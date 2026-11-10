@@ -28,6 +28,7 @@
       "web-vengence-ui",
       "github-jakubkrehel-skills"
     ],
-    "category_note": "ReactBits Pro: restyle primitives, don't invent motion"
+    "category_note": "ReactBits Pro: restyle primitives, don't invent motion",
+    "migrated_v2": true
   }
 }

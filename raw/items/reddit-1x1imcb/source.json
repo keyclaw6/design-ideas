@@ -1,0 +1,39 @@
+{
+  "id": "reddit-1x1imcb",
+  "url": "https://www.reddit.com/r/SATNA_PROJECT/comments/1x1imcb/what_if_you_could_test_an_idea_on_thousands_of_ai/",
+  "source_type": "reddit",
+  "captured_at": "2026-10-15T08:55:18+00:00",
+  "title": "What if you could test an idea on thousands of AI agents before trying it in the real world?",
+  "authors": [
+    "ZookeepergameMost817"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/666ghj/MiroFish",
+    "https://discord.gg/hSA8Ur6GRH"
+  ],
+  "media": [
+    "media/01-reddit-media.png",
+    "media/02-reddit-media.png"
+  ],
+  "unsaved": true,
+  "extra": {
+    "account": "Strange_Tomatillo335",
+    "saved_fullname": "t3_1x1imcb",
+    "saved_kind": "post",
+    "post_id": "1x1imcb",
+    "comment_id": null,
+    "subreddit": "SATNA_PROJECT",
+    "flair": null,
+    "posted_at": "2026-10-09T11:13:33+00:00",
+    "score_at_capture": 72,
+    "comment_count_at_capture": 3,
+    "comments_captured_from_api": 3,
+    "thread_comments_returned": 3,
+    "source_method": "authenticated Reddit JSON API, read-only",
+    "media_download_gaps": [],
+    "unsaved_at": "2026-10-15T10:44:16+00:00"
+  }
+}

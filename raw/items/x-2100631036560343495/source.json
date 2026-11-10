@@ -1,0 +1,37 @@
+{
+  "id": "x-2100631036560343495",
+  "url": "https://x.com/miu21590/status/2100631036560343495",
+  "source_type": "x",
+  "captured_at": "2026-09-21T12:59:05Z",
+  "title": "Didn’t expect this many stars. I’ll work through the issues over the next few days. If anything is unstable, please",
+  "authors": [
+    "vechen (@miu21590)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [
+    "https://github.com/miuuyy/codex-chatgpt-web",
+    "https://x.com/miu21590/status/2100630512536564085"
+  ],
+  "media": [],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100631036560343495",
+    "author_handle": "miu21590",
+    "migrated_v2": true,
+    "author_name": "vechen",
+    "created_at": "Thu Sep 17 17:00:41 +0000 2026",
+    "likes": 80,
+    "replies": 5,
+    "retweets": 0,
+    "bookmarks": 248,
+    "quotes": 0,
+    "views": 7987,
+    "lang": "en",
+    "source_client": "Twitter Web App",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab t18, URL-verified)",
+    "unsaved_at": "2026-09-21T13:14:37Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

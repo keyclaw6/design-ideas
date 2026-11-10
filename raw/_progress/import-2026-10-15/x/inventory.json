@@ -1,0 +1,3537 @@
+{
+  "account": "KristianBi25423",
+  "captured_at": "2026-10-15",
+  "source": "twitter-cli bookmarks --json --max 1000; internal timeline pagination",
+  "saved_count": 130,
+  "unique_ids": 130,
+  "existing_count": 1,
+  "new_count": 129,
+  "items": [
+    {
+      "tweet_id": "2110385721391366263",
+      "url": "https://x.com/nutlope/status/2110385721391366263",
+      "author": "nutlope",
+      "posted_at": "2026-10-14T15:02:19+00:00",
+      "text_chars": 260,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110385721391366263/",
+      "api_text_preview": "Introducing Gloss!\n\nA beautiful new way to save, read, and interact with articles.\n\n→ Save articles, PDFs, and X bookmarks\n→ Highlight and get instant answers with AI\n→ Build a personal library you'll actually use\n\nFree and open source! htt",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110339846963355891",
+      "url": "https://x.com/mmmutantQ/status/2110339846963355891",
+      "author": "mmmutantQ",
+      "posted_at": "2026-10-14T12:00:02+00:00",
+      "text_chars": 1502,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110339846963355891/",
+      "api_text_preview": "Introducing Zap!\n\nZap! is an lightning-fast autorouter built to take down AI PCB dev cycle from days to minutes.\n\nAfter parting ways with my co-founder @MrPorkchop720 the company was met with a crisis of having to deliver AnchorCam Stereo (",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "keyboard-pcb"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109944361408659650",
+      "url": "https://x.com/heyrimsha/status/2109944361408659650",
+      "author": "heyrimsha",
+      "posted_at": "2026-10-13T09:48:31+00:00",
+      "text_chars": 1735,
+      "media_count": 3,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109944361408659650/",
+      "api_text_preview": "Github is hiding the cure for ugly AI-generated websites.\n\nClaude Code and Codex keep making the same boring, generic UIs.\n\nThese repos change EVERYTHING.\n\n10 GitHub repos that make AI build websites that look like they cost $20,000:\n\n1. Su",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "agent-skills",
+        "design",
+        "ui-motion",
+        "three-js"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110070862972158174",
+      "url": "https://x.com/getcontextdev/status/2110070862972158174",
+      "author": "getcontextdev",
+      "posted_at": "2026-10-13T18:11:11+00:00",
+      "text_chars": 244,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110070862972158174/",
+      "api_text_preview": "Meet sgrep, a fast, fully local ripgrep extension built to make agents cheaper and more accurate.\n\non our SWE-bench Verified eval, sgrep reduced LLM API cost by 21.3% versus ripgrep, solving 70 of 100 attempts versus 68. https://t.co/b5HDba",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110059026818212244",
+      "url": "https://x.com/pitus_/status/2110059026818212244",
+      "author": "pitus_",
+      "posted_at": "2026-10-13T17:24:09+00:00",
+      "text_chars": 176,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110059026818212244/",
+      "api_text_preview": "These designs got over 50k views in ~2 days.\n\nSecret?\n\nThey were 100% AI generated.\n\nHere's how I use AI to create designs that don't look vibe-coded: 🧵 https://t.co/j9SmwY5BN2",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110049100611940501",
+      "url": "https://x.com/matiNotFound/status/2110049100611940501",
+      "author": "matiNotFound",
+      "posted_at": "2026-10-13T16:44:43+00:00",
+      "text_chars": 154,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110049100611940501/",
+      "api_text_preview": "vgpu 0.6 is out 🔉\n\n· Build complex 3D scenes more easily\n· Create 3D websites, VR, or videos\n· Better performance and memory usage https://t.co/iq6wPy0fXm",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "three-js"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110177534621196646",
+      "url": "https://x.com/tokufxug/status/2110177534621196646",
+      "author": "tokufxug",
+      "posted_at": "2026-10-14T01:15:04+00:00",
+      "text_chars": 182,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110177534621196646/",
+      "api_text_preview": "Prevu3Dが開発するAI Scan-to-CAD：工場の3DスキャンをCADモデルへ\n\n🔹機械・コンベヤー・安全柵・ロボットなどを3Dジオメトリとして再構成\n🔹生成したCADモデルをNVIDIA Omniverseに取り込み\n🔹RealityConnectで実際の工場環境データと組み合わせる\n\n情報元はリプ欄。 https://t.co/bY1KL7wyUG",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110180038637408357",
+      "url": "https://x.com/illyism/status/2110180038637408357",
+      "author": "illyism",
+      "posted_at": "2026-10-14T01:25:01+00:00",
+      "text_chars": 447,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110180038637408357/",
+      "api_text_preview": "530 people asked for the system prompt I use to run SEO + AEO inside Claude Code and Cursor.\n\nInstead of gatekeeping it in DMs, I just open-sourced the entire repo:\n\n- Audits your codebase for technical SEO & broken metadata\n- Reverse-engin",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110124406156722455",
+      "url": "https://x.com/niklaslenz_ai/status/2110124406156722455",
+      "author": "niklaslenz_ai",
+      "posted_at": "2026-10-13T21:43:57+00:00",
+      "text_chars": 644,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110124406156722455/",
+      "api_text_preview": "🚨 This is huge. \n\nFish Audio just opened the weights of Drama 3, and it's the first open TTS model that sounds close to perfect to me.\n\nOther models can switch emotion mid-sentence. \nDrama 3 is the first one I've heard where it actually sou",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110189303418769839",
+      "url": "https://x.com/0x50484244/status/2110189303418769839",
+      "author": "0x50484244",
+      "posted_at": "2026-10-14T02:01:50+00:00",
+      "text_chars": 956,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2110189303418769839/",
+      "api_text_preview": "A few KiCAD <-> LLM PCB layout tips from personal experience. \n\nPrompt it to:\n- Use KiCAD 10.99 (Nightly build, adds scripting features) and prompt it to interact with the program via KiPy + computer-use tools. \n- Not use autorouters like F",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "keyboard-pcb",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110022758729937313",
+      "url": "https://x.com/0xca0a/status/2110022758729937313",
+      "author": "0xca0a",
+      "posted_at": "2026-10-13T15:00:02+00:00",
+      "text_chars": 299,
+      "media_count": 1,
+      "related_urls": [
+        "https://smlibpy.classcad.ch",
+        "https://github.com/awv-informatik/smlibpy"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2110022758729937313/",
+      "api_text_preview": "We officially release smlibpy open source. A python API for the smlib nurbs kernel (inspired by cad-query, build123d &amp; classcad). A wasm compile for javascript/ts (1.8mb dl/brotli total). And a MCP for agents.\n→ https://t.co/QmL103a01J\n",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 7
+      },
+      "topics": [
+        "mcp"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109719615324496137",
+      "url": "https://x.com/Ga_Vasques/status/2109719615324496137",
+      "author": "Ga_Vasques",
+      "posted_at": "2026-10-12T18:55:27+00:00",
+      "text_chars": 409,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109719615324496137/",
+      "api_text_preview": "My personal AI agent tier list.\n\nI think Grok is top-notch, but the model and the subscription price are deal-breakers. The $20 plan doesn't really give you much usage.\n\nMausbot is great, I use it with Claude 5.5, and I’ve been testing Cody",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106096193235259564",
+      "url": "https://x.com/seeconvm/status/2106096193235259564",
+      "author": "seeconvm",
+      "posted_at": "2026-10-02T18:57:16+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2106091215502422016"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2106096193235259564/",
+      "api_text_preview": "https://t.co/rOlTnskWDn",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109982484058222929",
+      "url": "https://x.com/lorden_eth/status/2109982484058222929",
+      "author": "lorden_eth",
+      "posted_at": "2026-10-13T12:20:00+00:00",
+      "text_chars": 942,
+      "media_count": 1,
+      "related_urls": [
+        "https://github.com/khasky/marketing-and-seo-playbook"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109982484058222929/",
+      "api_text_preview": "Before spending thousands learning marketing through trial and error, send these repos to your agent\n\n5 GitHub repos for positioning, SEO, growth strategy, and the marketing frameworks behind successful businesses\n\n1. Marketing and SEO Play",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109985501176340693",
+      "url": "https://x.com/wildmindai/status/2109985501176340693",
+      "author": "wildmindai",
+      "posted_at": "2026-10-13T12:31:59+00:00",
+      "text_chars": 383,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109985501176340693/",
+      "api_text_preview": "Cool stuff - T3lescope. Turns photos into usable 3D meshes.\n\n- gens clean scene meshes without per-scene optimization  \n- uses one 3D flow model across every scale, from a single pen to an 80m city block  \n- handles glass, mirrors, occlusio",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 7
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109973273924579720",
+      "url": "https://x.com/mattpocockuk/status/2109973273924579720",
+      "author": "mattpocockuk",
+      "posted_at": "2026-10-13T11:43:24+00:00",
+      "text_chars": 748,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109973273924579720/",
+      "api_text_preview": "Some mistakes you might be making:\n\nYour effort level is too high\nYour skills are too long\nYou're not aligning before you start work\nYou're aligning too often, and too hard\nYour automated checks are too lax\nYour custom tooling is too token-",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 0
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109716261160538324",
+      "url": "https://x.com/Mnilax/status/2109716261160538324",
+      "author": "Mnilax",
+      "posted_at": "2026-10-12T18:42:07+00:00",
+      "text_chars": 2054,
+      "media_count": 1,
+      "related_urls": [
+        "https://github.com/microsoft/TRELLIS.2"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109716261160538324/",
+      "api_text_preview": "is it legal?\n\nNVIDIA and Microsoft just open-sourced the pieces of a full 3D studio for Opus 5.5\n\n15 github repos, sorted by what you want to make:\n\nGENERATE 3D ASSETS\n\n01. TRELLIS.2 by Microsoft:\nhttps://t.co/xIEfhcb8uF\n-> one image in, a ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills",
+        "mcp",
+        "three-js",
+        "gaussian-splatting"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109610532365857198",
+      "url": "https://x.com/VectorCrossProd/status/2109610532365857198",
+      "author": "VectorCrossProd",
+      "posted_at": "2026-10-12T11:42:00+00:00",
+      "text_chars": 266,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109610532365857198/",
+      "api_text_preview": "People keep asking how I make my PCBs with Claude Opus 5.5. So here's the whole pipeline in 60 seconds, all real captures.\n\nBased on the Kookabus-03 board, an 8xAA battery pack for my robots:\n\nWhat part of this do you want me to go deeper o",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "keyboard-pcb",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109895882573562197",
+      "url": "https://x.com/DhravyaShah/status/2109895882573562197",
+      "author": "DhravyaShah",
+      "posted_at": "2026-10-13T06:35:53+00:00",
+      "text_chars": 242,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109895882573562197/",
+      "api_text_preview": "part of the reason why we discontinued \"Company brain\" and some of our personal knowledge stuff was because it was truly shiny object syndrome (on my part)\n\nNow, I no longer see anyone talking about it on the timeline. https://t.co/YuKdTT0Z",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109885846862127390",
+      "url": "https://x.com/Mr_Buzzoni/status/2109885846862127390",
+      "author": "Mr_Buzzoni",
+      "posted_at": "2026-10-13T05:56:00+00:00",
+      "text_chars": 1558,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109885846862127390/",
+      "api_text_preview": "I STOPPED LETTING CLAUDE MAKE DECISIONS THE DAY I BUILT THIS JEV AGENT FOLDER, AND IT'S STRAIGHT F*CKING GOLD\n\nI used to let Claude decide, write and act on every single step\n\n-> now Claude only writes. Jev makes the calls, code does the ac",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 13
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109707995919606136",
+      "url": "https://x.com/observie/status/2109707995919606136",
+      "author": "observie",
+      "posted_at": "2026-10-12T18:09:17+00:00",
+      "text_chars": 1971,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109707995919606136/",
+      "api_text_preview": "Tips for agentic CAD: tell your agent to add these checkers and run them after every model update (mine is written in Python using build123d).\n\n1. Spec check: measure the important dimensions of the parts and make sure they reasonably agree",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109834006703292423",
+      "url": "https://x.com/sharp_maker/status/2109834006703292423",
+      "author": "sharp_maker",
+      "posted_at": "2026-10-13T02:30:00+00:00",
+      "text_chars": 121,
+      "media_count": 1,
+      "related_urls": [
+        "https://tools.oyasumi-gamedev.com/rokehan/"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109834006703292423/",
+      "api_text_preview": "地図情報から漫画背景を作成できるツールを作成しました。地名や座標を入力すれば地球のどこでも再現可能です。無料で使えるので、ぜひ使ってみてください！\nhttps://t.co/03Evv1Eb6m https://t.co/2pMIGMhPvS",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109897254849101986",
+      "url": "https://x.com/hridoyreh/status/2109897254849101986",
+      "author": "hridoyreh",
+      "posted_at": "2026-10-13T06:41:20+00:00",
+      "text_chars": 102,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109897254849101986/",
+      "api_text_preview": "MCP gives AI agents superpowers.\n\nYou too can leverage this to grow traffic.\n\n10 best SEO MCP servers:",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 13
+      },
+      "topics": [
+        "seo-agents",
+        "mcp"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109606016304214473",
+      "url": "https://x.com/Gyome1_/status/2109606016304214473",
+      "author": "Gyome1_",
+      "posted_at": "2026-10-12T11:24:03+00:00",
+      "text_chars": 1972,
+      "media_count": 1,
+      "related_urls": [
+        "https://github.com/public-apis/public-apis"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109606016304214473/",
+      "api_text_preview": "holy sh*t, someone just mapped 600,000+ free datasets and APIs you can build an AI startup on today\n\nfinance, medicine, maps, science, news, food, government data, and most builders have no idea it’s free \n\nthe drop:\n\n→ https://t.co/0KdZtLY",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 10
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109645443961328081",
+      "url": "https://x.com/fivosaresti/status/2109645443961328081",
+      "author": "fivosaresti",
+      "posted_at": "2026-10-12T14:00:43+00:00",
+      "text_chars": 1635,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109645443961328081/",
+      "api_text_preview": "The fastest-growing startups have turned the OLD B2B sales funnel → into this flywheel, where every stage feeds the next:\n\n1. Traffic\n• Outbound: email, LinkedIn DMs, cold calls, events\n• Content: LinkedIn, X, YouTube, SEO\n• Ads: LinkedIn, ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109646772347777364",
+      "url": "https://x.com/jakezward/status/2109646772347777364",
+      "author": "jakezward",
+      "posted_at": "2026-10-12T14:06:00+00:00",
+      "text_chars": 2637,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109646772347777364/",
+      "api_text_preview": "2,400 people bookmarked this, so I turned the entire process into a one-page SOP.\n\nHere's my 6-step process (and prompts) for ranking in Google's AI Overviews:\n\n1. Pick one search you actually want to win\n\nIdeally a buying-intent query that",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109645427775561870",
+      "url": "https://x.com/atishayhyperke/status/2109645427775561870",
+      "author": "atishayhyperke",
+      "posted_at": "2026-10-12T14:00:39+00:00",
+      "text_chars": 134,
+      "media_count": 2,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109645427775561870/",
+      "api_text_preview": "I'm LEAKING the cold email playbook that got a YC-backed startup 108 demos and signups in 2 weeks:\n\n(bookmark) https://t.co/6YtpyUSAJH",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109624423255048225",
+      "url": "https://x.com/iamtanzil_/status/2109624423255048225",
+      "author": "iamtanzil_",
+      "posted_at": "2026-10-12T12:37:12+00:00",
+      "text_chars": 110,
+      "media_count": 1,
+      "related_urls": [
+        "https://jiro.build"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109624423255048225/",
+      "api_text_preview": "If you are building websites with AI, \nworth checking it out.  https://t.co/8yqOGQgCZU https://t.co/ZhPH9ZSYqn",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109614670344573390",
+      "url": "https://x.com/benwills/status/2109614670344573390",
+      "author": "benwills",
+      "posted_at": "2026-10-12T11:58:26+00:00",
+      "text_chars": 1721,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109614670344573390/",
+      "api_text_preview": "We Finally Know the #1 Ranking Factor for AI and LLMs.\n\nAcross 100 industries, 16 LLMs, ChatGPT's web interface, and Google AI Overviews, I found the same pattern over 20,000 times:\n\nThe top-recommended sites have backlinks and brand mentio",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109592456203227516",
+      "url": "https://x.com/avatarchannels/status/2109592456203227516",
+      "author": "avatarchannels",
+      "posted_at": "2026-10-12T10:30:10+00:00",
+      "text_chars": 140,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109592456203227516/",
+      "api_text_preview": "🚨 BREAKING: Someone just made a FREE library of hundreds of AI avatar channels that are scamming people on youtube 💀 https://t.co/a0fJ00q1F0",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 13
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109681377280954407",
+      "url": "https://x.com/tobiadonadon_/status/2109681377280954407",
+      "author": "tobiadonadon_",
+      "posted_at": "2026-10-12T16:23:30+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2109678443839315971"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109681377280954407/",
+      "api_text_preview": "https://t.co/lmaUWvP478",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "agent-skills",
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109424625742713341",
+      "url": "https://x.com/SolutionB2u/status/2109424625742713341",
+      "author": "SolutionB2u",
+      "posted_at": "2026-10-11T23:23:16+00:00",
+      "text_chars": 51,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109424625742713341/",
+      "api_text_preview": "How to make QR code concept https://t.co/7rczv4yohM",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109501816853467246",
+      "url": "https://x.com/suraj_sharma14/status/2109501816853467246",
+      "author": "suraj_sharma14",
+      "posted_at": "2026-10-12T04:30:00+00:00",
+      "text_chars": 1007,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109501816853467246/",
+      "api_text_preview": "20 things for Speedmaxxing your vibe coded app:\n\n- Measure first: run Lighthouse and PageSpeed on mobile\n- Compress every image to WebP or AVIF\n- Lazy-load images below the fold\n- Serve static files from a CDN\n- Remove packages your AI adde",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109671433521815772",
+      "url": "https://x.com/Jakubantalik/status/2109671433521815772",
+      "author": "Jakubantalik",
+      "posted_at": "2026-10-12T15:44:00+00:00",
+      "text_chars": 189,
+      "media_count": 1,
+      "related_urls": [
+        "https://transitions.dev"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109671433521815772/",
+      "api_text_preview": "Created a new skill for UI generation skeleton effect, something I’ve been using in my UI videos.\n\nThese UI examples are built with https://t.co/eSmFziLSx9 UI Agent. https://t.co/O9plXI6Vev",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "agent-skills",
+        "design",
+        "ui-motion"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109612095763263987",
+      "url": "https://x.com/SimonHoiberg/status/2109612095763263987",
+      "author": "SimonHoiberg",
+      "posted_at": "2026-10-12T11:48:12+00:00",
+      "text_chars": 561,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109612095763263987/",
+      "api_text_preview": "I quietly launched something 👀 \nAnd it changes EVERYTHING.\n\nThe best part?\n\n...SLOP!\n\nI can't fking take this AI slop writing anymore.\n\nSo we just open-sourced our internal list of AI slop writing patterns that we use in FeedHive, for YouTu",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109580214594679003",
+      "url": "https://x.com/hridoyreh/status/2109580214594679003",
+      "author": "hridoyreh",
+      "posted_at": "2026-10-12T09:41:31+00:00",
+      "text_chars": 124,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109580214594679003/",
+      "api_text_preview": "Parasite SEO is a GREAT technique.\n\nYou can easily earn money by using this.\n\nHow to make $1,000+/m: https://t.co/7duk1FZg99",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109263628306383016",
+      "url": "https://x.com/athrix_codes/status/2109263628306383016",
+      "author": "athrix_codes",
+      "posted_at": "2026-10-11T12:43:31+00:00",
+      "text_chars": 183,
+      "media_count": 1,
+      "related_urls": [
+        "https://airport-isometric-design.athrix.me"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109263628306383016/",
+      "api_text_preview": "Built an entire airport in isometric design.\n\nlive: https://t.co/eXGzJRotNv\n\nngl, this is the best isometric design I've ever made!\nI actually opensourced this https://t.co/QXG8qhGuXE",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109119728103137598",
+      "url": "https://x.com/AndyL5cc/status/2109119728103137598",
+      "author": "AndyL5cc",
+      "posted_at": "2026-10-11T03:11:43+00:00",
+      "text_chars": 218,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109119728103137598/",
+      "api_text_preview": "Cursor Pro 又能免费领了！🔥\n\n这次不是学生专属，全球用户都能报名！\n\nMLH 正在举办 Global Hack Week（10 月 9–15 日），活动任务中提到会通过邮件发放 Cursor Pro 兑换码。\n\n领取步骤：\n\n① 注册 MyMLH，报名活动\n② 等待官方邮件领取兑换码\n③ 前往 Cursor Billing 兑换\n\nCursor Pro 正常订阅 $20/月。\n\n有成功领到的 X 友吗，评论区来聊聊。 🤣",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109262732763783400",
+      "url": "https://x.com/loki_yan_seo/status/2109262732763783400",
+      "author": "loki_yan_seo",
+      "posted_at": "2026-10-11T12:39:58+00:00",
+      "text_chars": 130,
+      "media_count": 0,
+      "related_urls": [
+        "https://cruxvis.withgoogle.com/#/"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109262732763783400/",
+      "api_text_preview": "做网站的同学，以免你们不知道。\n\nhttps://t.co/8mI4oBA9y2\n是谷歌专门用来看Core Web Vitals的看板。什么网站都能看，都是真实用户数据。\n\n这玩意比GSC还有Lighthouse, Page Speed Insight准多了。",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109309297612013621",
+      "url": "https://x.com/Frozune/status/2109309297612013621",
+      "author": "Frozune",
+      "posted_at": "2026-10-11T15:45:00+00:00",
+      "text_chars": 158,
+      "media_count": 1,
+      "related_urls": [
+        "https://github.com/gholtzap/lintapple"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109309297612013621/",
+      "api_text_preview": "It should be impossible for AI to make a bad UI. \n\nTell your agent today: \"Install and set up https://t.co/j4fbSSiOga in this project\" https://t.co/2chddW5IHk",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "design",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108926274916012057",
+      "url": "https://x.com/TheMaran/status/2108926274916012057",
+      "author": "TheMaran",
+      "posted_at": "2026-10-10T14:23:00+00:00",
+      "text_chars": 2398,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2108926274916012057/",
+      "api_text_preview": "how to claim $4000 credits for $0\n\ngmail gets rejected they want your own domain and matching work email\n\ndomain is ~$10. email is free. one site, three more applications\n\n> buy the domain + get the email\n\n- grab a .com on cloudflare domain",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108905392776360333",
+      "url": "https://x.com/Voxyz_ai/status/2108905392776360333",
+      "author": "Voxyz_ai",
+      "posted_at": "2026-10-10T13:00:01+00:00",
+      "text_chars": 2613,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2108905392776360333/",
+      "api_text_preview": "These 15 GitHub repos turn your Opus 5.5 into 𝗮𝗻 𝗲𝗻𝘁𝗶𝗿𝗲 𝗺𝗼𝘁𝗶𝗼𝗻 𝘀𝘁𝘂𝗱𝗶𝗼.\n\nEven the teams behind HeyGen, Remotion, GSAP and LottieFiles have stepped in to 𝘁𝗲𝗮𝗰𝗵 𝗔𝗜 𝗺𝗼𝘁𝗶𝗼𝗻 𝗱𝗲𝘀𝗶𝗴𝗻 𝘁𝗵𝗲𝗺𝘀𝗲𝗹𝘃𝗲𝘀.\n\nI picked them from official and community repos and ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109045945149395421",
+      "url": "https://x.com/sinaatalay/status/2109045945149395421",
+      "author": "sinaatalay",
+      "posted_at": "2026-10-10T22:18:32+00:00",
+      "text_chars": 495,
+      "media_count": 1,
+      "related_urls": [
+        "https://github.com/academa-labs/manimgx",
+        "https://manimgx.academa.ai"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109045945149395421/",
+      "api_text_preview": "Introducing ManimGX, the 3D animation engine for agents.\n\n- Blazingly fast: 90× faster than ManimCE\n- Rust + wgpu core\n- Compatible with Manim's Python API\n- Lightweight: one pip install, no system dependencies\n\nOpen source: https://t.co/rd",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 10
+      },
+      "topics": [
+        "ui-motion",
+        "infographics"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109222475305197952",
+      "url": "https://x.com/CallMeCSZ/status/2109222475305197952",
+      "author": "CallMeCSZ",
+      "posted_at": "2026-10-11T10:00:00+00:00",
+      "text_chars": 397,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2109222475305197952/",
+      "api_text_preview": "holyshi free Claude Code setup just dropped 🫣\n\nwhat you get:\n\n- 61 providers + 1.3B free tokens/month\n- 11 coding agents, one model catalog\n- automatic model fallback when providers go down\n- up to 90% lower token usage\n- code from terminal",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2109182449179836579",
+      "url": "https://x.com/MengTo/status/2109182449179836579",
+      "author": "MengTo",
+      "posted_at": "2026-10-11T07:20:57+00:00",
+      "text_chars": 337,
+      "media_count": 1,
+      "related_urls": [
+        "https://github.com/wheresryan22/anatomy"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2109182449179836579/",
+      "api_text_preview": "Such a good skill for visual explainers. All SVG and animated.\n\nPrompt I used:\n\nhttps://t.co/CvOESSiJFY install skill\n\n/anatomy Explain how Seedream 5.0 is able to split an image into layers and what cool things you can produce with it. Do ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills",
+        "infographics",
+        "ui-motion"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108948624004526516",
+      "url": "https://x.com/wheresryan22/status/2108948624004526516",
+      "author": "wheresryan22",
+      "posted_at": "2026-10-10T15:51:48+00:00",
+      "text_chars": 310,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2108948624004526516/",
+      "api_text_preview": "Introducing Anatomy\n\nDescribe a machine in one line. Claude brings it to life.\n\n- Interactive isometric wireframes you can rotate, inspect and explore\n- WebGL shaders for fire, water, plasma and more\n- Real 3D motion, with individual parts ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "agent-skills",
+        "three-js"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108953745468068184",
+      "url": "https://x.com/mattworkman/status/2108953745468068184",
+      "author": "mattworkman",
+      "posted_at": "2026-10-10T16:12:10+00:00",
+      "text_chars": 150,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2108953745468068184/",
+      "api_text_preview": "new multi-angle video model just dropped\n- character likeness 8/10\n- audio voice clone 9/10\n- quality lighting 6/10 needs work https://t.co/kqi3p3bzAe",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108365916895654105",
+      "url": "https://x.com/0x0SojalSec/status/2108365916895654105",
+      "author": "0x0SojalSec",
+      "posted_at": "2026-10-09T01:16:20+00:00",
+      "text_chars": 301,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2108365916895654105/",
+      "api_text_preview": "Real human voice cloning just crossed the uncanny valley.\n\nYou can now clone voices that sound actually full real human, Not robotic,\n\nA Open-source 1.7B model Clone any voice in seconds.\nEmotions, age, tone, personality & accent all contro",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108181934669238593",
+      "url": "https://x.com/himanshubuildss/status/2108181934669238593",
+      "author": "himanshubuildss",
+      "posted_at": "2026-10-08T13:05:16+00:00",
+      "text_chars": 1251,
+      "media_count": 1,
+      "related_urls": [
+        "https://scrolltide.co"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2108181934669238593/",
+      "api_text_preview": "🍟 Still using Pinterest for design inspo in 2026? These will replace it in 2027. 👇\n\n1. 👑 https://t.co/RlChWqggj8 - 600+ award-winning prompts for 3D and scroll-driven sites.\n→ 100+ 3D scenes, 200+ interactive gradients, 200+ UI components\n→",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 7
+      },
+      "topics": [
+        "agent-skills",
+        "design",
+        "ui-motion",
+        "three-js"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108251509830140401",
+      "url": "https://x.com/agusegui/status/2108251509830140401",
+      "author": "agusegui",
+      "posted_at": "2026-10-08T17:41:44+00:00",
+      "text_chars": 147,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2108251509830140401/",
+      "api_text_preview": "want to see how the whole Paper Mono launch video was made?\n\neverything is code but I didn't touch any of it \n\nhere we go 🔥 https://t.co/VfKY50LGtx",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 23
+      },
+      "topics": [
+        "video-generation",
+        "ui-motion"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2108112682922705181",
+      "url": "https://x.com/shannholmberg/status/2108112682922705181",
+      "author": "shannholmberg",
+      "posted_at": "2026-10-08T08:30:05+00:00",
+      "text_chars": 3885,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2108112682922705181/",
+      "api_text_preview": "one role that every company needs right now is a marketing engineer\n\nyour goal is to use agents to generate more revenue and lower costs\n\nand you only need: claude + a data warehouse + github + a vps\n\nhere are 7 things to build, plus 3 bonu",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "agent-skills",
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107835276810739945",
+      "url": "https://x.com/aymenpursue/status/2107835276810739945",
+      "author": "aymenpursue",
+      "posted_at": "2026-10-07T14:07:46+00:00",
+      "text_chars": 385,
+      "media_count": 1,
+      "related_urls": [
+        "https://www.ui-skills.com/skills/emilkowalski/emil-design-eng",
+        "https://www.ui-skills.com/skills/jakubkrehel/make-interfaces-feel-better",
+        "https://www.ui-skills.com/skills/microsoft/playwright-cli",
+        "https://www.ui-skills.com/skills/millionco/react-doctor"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2107835276810739945/",
+      "api_text_preview": "7 UI skills every design engineer should know when building with AI agents:\n\n1-emil-design-eng\nhttps://t.co/YiC5AmharM\n2-make-interfaces-feel-better\nhttps://t.co/Dg7feMDBRh\n3-playwright-cli\nhttps://t.co/rxXm0UWD1f\n4-react-doctor\nhttps://t.c",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "agent-skills",
+        "design",
+        "ui-motion"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107787922204152156",
+      "url": "https://x.com/borjafat/status/2107787922204152156",
+      "author": "borjafat",
+      "posted_at": "2026-10-07T10:59:36+00:00",
+      "text_chars": 75,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2107619577928564736"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-humanize-prompt-2107787922204152156/",
+      "api_text_preview": "Finally crafted a prompt for human-reading content. https://t.co/FqLGPEN27X",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2105643919119696297",
+      "url": "https://x.com/0xwhrrari/status/2105643919119696297",
+      "author": "0xwhrrari",
+      "posted_at": "2026-10-01T13:00:05+00:00",
+      "text_chars": 161,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2105626165704572928"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2105643919119696297/",
+      "api_text_preview": "Opus 5.5 can make a video\n\nThe hard part is making the next one better\n\nThat takes a studio, not a prompt\n\nI broke down how to build it ↓ https://t.co/EXinI060Cr",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107793469322485839",
+      "url": "https://x.com/neogoose_btw/status/2107793469322485839",
+      "author": "neogoose_btw",
+      "posted_at": "2026-10-07T11:21:38+00:00",
+      "text_chars": 171,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/neogoose_btw/status/2105321655174406399?s=46"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2107793469322485839/",
+      "api_text_preview": "@ZypherHQ - faster\n- no browser\n- no token waste on layouting flexes and grids \n- built-in agentic verification loop for audio, collisions, motion\n\nhttps://t.co/lKo990pIOe",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107604741387862375",
+      "url": "https://x.com/openseo_so/status/2107604741387862375",
+      "author": "openseo_so",
+      "posted_at": "2026-10-06T22:51:42+00:00",
+      "text_chars": 294,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107604741387862375/",
+      "api_text_preview": "We just shipped some major AI Visibility features.\n\nInstead of paying $100+/month, on our $10/month plan you can:\n\n- See how AIs talk about your industry\n- Track responses over time\n- Compare against your competition\n- See which pages get c",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107761959009718673",
+      "url": "https://x.com/wildmindai/status/2107761959009718673",
+      "author": "wildmindai",
+      "posted_at": "2026-10-07T09:16:26+00:00",
+      "text_chars": 231,
+      "media_count": 1,
+      "related_urls": [
+        "https://coolbeam.github.io/DistScene/"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2107761959009718673/",
+      "api_text_preview": "DistScene-  turns a single image into an editable 3D scene.\n\nUses sparse voxels, sparse DiT flow-matching models + LoRA. Based on TRELLIS.2\nobject-centric refinement restores details\n\nhttps://t.co/6xMvPPamNE https://t.co/bnWCYEWCOd",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107794465457139988",
+      "url": "https://x.com/Aprilzz423/status/2107794465457139988",
+      "author": "Aprilzz423",
+      "posted_at": "2026-10-07T11:25:36+00:00",
+      "text_chars": 265,
+      "media_count": 1,
+      "related_urls": [
+        "https://isoglow.dev"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2107794465457139988/",
+      "api_text_preview": "A few people asked how I made the isometric objects and cities, so I packaged it into a Claude skill.\n\nDescribe an object, device or building, and ISO-GLOW creates a single interactive HTML file.\n\nTry it out yourself!\nhttps://t.co/ncC0vK8B3",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "agent-skills",
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2105326479441788943",
+      "url": "https://x.com/zahragr8r/status/2105326479441788943",
+      "author": "zahragr8r",
+      "posted_at": "2026-09-30T15:58:42+00:00",
+      "text_chars": 61,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2105326479441788943/",
+      "api_text_preview": "Enterprise features section design. ✨ https://t.co/S7p6nonaLc",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107414044772880783",
+      "url": "https://x.com/chddaniel/status/2107414044772880783",
+      "author": "chddaniel",
+      "posted_at": "2026-10-06T10:13:56+00:00",
+      "text_chars": 1194,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107414044772880783/",
+      "api_text_preview": "Semrush charges $139.95/month.\nAhrefs charges $129/month.\n\nA guy named David built the self-running alternative that agents can run on autopilot for you.\n\nIt is called Conqueror.\n\nEnter a competitor's website and it reveals the keywords bri",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107408409859359211",
+      "url": "https://x.com/LufzzLiz/status/2107408409859359211",
+      "author": "LufzzLiz",
+      "posted_at": "2026-10-06T09:51:33+00:00",
+      "text_chars": 375,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107408409859359211/",
+      "api_text_preview": "🚨重磅：我们2000+ Star的开源项目迎来了重大更新：经过多轮迭代，我们用Opus 5.5 新增了9种讲解视频风格，不求多，只求做到极致，经过多次迭代后，今天开源分享给大家，效果可以见视频，感觉任何一周都可以拿去起号了\n看看大家更喜欢哪一种，或者有推荐的风格也可以发给我\n\n测试发现用我们的skill模版，即使是用codex也开始可以产出类似的效果\n\n使用流程也很简单：\n1️⃣ 拉取最新的代码\n2️⃣ 在 harness （claude 的模型最佳）使用该skill 完成关",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107531750511620469",
+      "url": "https://x.com/illyism/status/2107531750511620469",
+      "author": "illyism",
+      "posted_at": "2026-10-06T18:01:40+00:00",
+      "text_chars": 353,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107531750511620469/",
+      "api_text_preview": "You don't need a $2,000/mo agency to run AI SEO on your GitHub repo\n\nI wrote a complete system prompt that handles your SEO, AEO, and technical health checks directly in Claude Code, Codex or Cursor\n\nIt audits your code, fixes broken pages,",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 0
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107321323911549277",
+      "url": "https://x.com/aymenpursue/status/2107321323911549277",
+      "author": "aymenpursue",
+      "posted_at": "2026-10-06T04:05:30+00:00",
+      "text_chars": 226,
+      "media_count": 1,
+      "related_urls": [
+        "https://prompt-motion.com"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2107321323911549277/",
+      "api_text_preview": "Someone built a growing gallery of motion graphics made with Claude Opus 5.5, each shown alongside the prompt or skill that created it.\n\n226 examples + the prompts behind them 👀\n\nhttps://t.co/5eFiPHZ7As https://t.co/xiTfXNBzsc",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 14
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107456589951361083",
+      "url": "https://x.com/micka_design/status/2107456589951361083",
+      "author": "micka_design",
+      "posted_at": "2026-10-06T13:03:00+00:00",
+      "text_chars": 301,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107456589951361083/",
+      "api_text_preview": "New skill unlocked: /fluid-functionalism\n\nBehind every components there's hundreds of craft decisions. I've extracted them from my code comments and package them into a skill. \nNow available one prompt away to audit your project and receive",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "agent-skills",
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107513494493179954",
+      "url": "https://x.com/claudeai/status/2107513494493179954",
+      "author": "claudeai",
+      "posted_at": "2026-10-06T16:49:07+00:00",
+      "text_chars": 233,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107513494493179954/",
+      "api_text_preview": "The Claude Startups program is expanding to more founders.\n\nMembers can get a year of Claude Team, API credits, special offers on the tools a startup runs on, and office hours with Anthropic’s Applied AI team. https://t.co/3MUg1whIfl",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 28
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107447529940140324",
+      "url": "https://x.com/BowTiedBills/status/2107447529940140324",
+      "author": "BowTiedBills",
+      "posted_at": "2026-10-06T12:27:00+00:00",
+      "text_chars": 1980,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107447529940140324/",
+      "api_text_preview": "\"Local SEO iS EaSY\"\n\nLocal SEO:\n\n• Set hours past 9pm\n• Reply to every review\n• Photos of your own team\n• 2 to 3 profile posts a week\n• Every service listed separately\n• One primary category, chosen on purpose\n• Ask for the review the day t",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107402987224412627",
+      "url": "https://x.com/suraj_sharma14/status/2107402987224412627",
+      "author": "suraj_sharma14",
+      "posted_at": "2026-10-06T09:30:00+00:00",
+      "text_chars": 1433,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107402987224412627/",
+      "api_text_preview": "Up to €2.5M.\nZero equity.\n\nThe EU's EIC Accelerator gives startups a grant of up to €2.5M and the grant takes 0% of your company.\n\nOn top of that:\n- Optional €1M–€10M investment from the EIC Fund (this part is equity or a convertible loan)\n",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107222360155701709",
+      "url": "https://x.com/cathrynlavery/status/2107222360155701709",
+      "author": "cathrynlavery",
+      "posted_at": "2026-10-05T21:32:15+00:00",
+      "text_chars": 150,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107222360155701709/",
+      "api_text_preview": "Diagram Design skill now in 3D.\n\nexploded views, floor plans and site plans. \n\n→ up to 44 diagram types and it's open-source 😘 https://t.co/HKv3ERNDS1",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "agent-skills",
+        "design",
+        "infographics"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107127178445865372",
+      "url": "https://x.com/levikmunneke/status/2107127178445865372",
+      "author": "levikmunneke",
+      "posted_at": "2026-10-05T15:14:02+00:00",
+      "text_chars": 293,
+      "media_count": 1,
+      "related_urls": [
+        "https://mapsdata.ai"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2107127178445865372/",
+      "api_text_preview": "Introducing Google Maps for prospecting\n\npull live leads in minutes directly from the source,\n\n&gt; as low as $0.34 per 1,000 emails\n&gt; pulls contacts live from google maps\n&gt; scrape over 4,000 different queries\n\ntry it for free (500 le",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2107038587866804617",
+      "url": "https://x.com/semrush/status/2107038587866804617",
+      "author": "semrush",
+      "posted_at": "2026-10-05T09:22:00+00:00",
+      "text_chars": 811,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2107038587866804617/",
+      "api_text_preview": "Stop using AI for one-off SEO tasks. Build an AI agent that can handle keyword research, competitor analysis, and link building outreach for you.\n\nHere’s a 9-step process to get there:\n1. Choose one clearly defined SEO workflow\n2. Document ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106849769003844067",
+      "url": "https://x.com/byFLX_/status/2106849769003844067",
+      "author": "byFLX_",
+      "posted_at": "2026-10-04T20:51:42+00:00",
+      "text_chars": 73,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2106849769003844067/",
+      "api_text_preview": "@thsottiaux Already on Pro Plan and Same Problem🫪 https://t.co/L7BpYxvWPX",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106479630026973686",
+      "url": "https://x.com/RhysSullivan/status/2106479630026973686",
+      "author": "RhysSullivan",
+      "posted_at": "2026-10-03T20:20:54+00:00",
+      "text_chars": 266,
+      "media_count": 0,
+      "related_urls": [
+        "https://gist.github.com/RhysSullivan/c3962da1768131a572791259d90da7de"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2106479630026973686/",
+      "api_text_preview": "if you want to unhandicap codex computer use (getting 1password to appear, having it not reprompt you for approval when you've already given it) here's a github gist to give to your agent\n\nyou should only do this if you know what you're doi",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106740370415473027",
+      "url": "https://x.com/AdhamDannaway/status/2106740370415473027",
+      "author": "AdhamDannaway",
+      "posted_at": "2026-10-04T13:37:00+00:00",
+      "text_chars": 254,
+      "media_count": 1,
+      "related_urls": [
+        "https://deck.gallery",
+        "https://logosystem.co",
+        "https://visualjournal.it",
+        "https://rebrand.gallery",
+        "https://brandguidelines.net"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2106740370415473027/",
+      "api_text_preview": "✨ Go-to brand design resources 👇\n\nDecks → https://t.co/mMXrcP1XZs\nLogos → https://t.co/AhLzXsor3S\nInspiration → https://t.co/z55l7WgFPn\nBrand videos → https://t.co/ShLrkrnhWQ\nBrand guidelines → https://t.co/B7UYAp9WyA\n\nAny others? https://t",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106383261089849825",
+      "url": "https://x.com/liambraus/status/2106383261089849825",
+      "author": "liambraus",
+      "posted_at": "2026-10-03T13:57:58+00:00",
+      "text_chars": 401,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2106383261089849825/",
+      "api_text_preview": "HOY UNA INDUSTRIA ENTERA DEJÓ DE TENER SENTIDO\n\nalguien subió a GitHub un repo que coge cualquier foto y te devuelve un mundo 3d explorable: mallas con físicas, splat del fondo, audio ambiente. todo.\n\nentra una imagen. \n\nsale un mundo. cinc",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "gaussian-splatting"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106411655055974640",
+      "url": "https://x.com/himanshubuildss/status/2106411655055974640",
+      "author": "himanshubuildss",
+      "posted_at": "2026-10-03T15:50:48+00:00",
+      "text_chars": 3245,
+      "media_count": 1,
+      "related_urls": [
+        "https://scrolltide.co"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2106411655055974640/",
+      "api_text_preview": "Your AI isn't bad at design. It has just never seen good design.\n\nI've tested 100+ vibe coding resources this year. These are the 40 I actually kept, grouped by what you're stuck on.\n\nBookmark this 🔖\n\n1. 👑 https://t.co/RlChWqggj8 \nWhy it's ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "agent-skills",
+        "design",
+        "ui-motion"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106379872088055826",
+      "url": "https://x.com/0xMovez/status/2106379872088055826",
+      "author": "0xMovez",
+      "posted_at": "2026-10-03T13:44:30+00:00",
+      "text_chars": 401,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2106379872088055826/",
+      "api_text_preview": "this is unreal…\n\nI just found Anthropic’s Opus 5.5 prompting blueprint for motion design, and it’s insane…\n\n17-page PDF with prompt techniques, motion & audio design workflows, and director prompts.\n\nuploaded it to Claude and created CLAUDE",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 18
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106636580735619118",
+      "url": "https://x.com/mikenevermiss/status/2106636580735619118",
+      "author": "mikenevermiss",
+      "posted_at": "2026-10-04T06:44:34+00:00",
+      "text_chars": 658,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2106636580735619118/",
+      "api_text_preview": "CLAUDE CODE CAN NOW TURN HIGGSFIELD INTO A ONE-PERSON AI VIDEO STUDIO.\n\ninstall this 19 skills, connect Claude Code to Higgsfield, then tell Claude what you want to create.\n\nrun /ugc-hot-girl and let it create the character, generate the vi",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "mcp",
+        "agent-skills",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106080442004697367",
+      "url": "https://x.com/jaypmo/status/2106080442004697367",
+      "author": "jaypmo",
+      "posted_at": "2026-10-02T17:54:41+00:00",
+      "text_chars": 280,
+      "media_count": 0,
+      "related_urls": [
+        "https://github.com/General-Legal/legal-templates"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2106080442004697367/",
+      "api_text_preview": "A lot of folks have asked me: \"why open source your core legal docs -isn't that your IP?\" no. our exceptional lawyers are our IP. our massive deal flow is our IP. our precedent docs r like a programming language: underlying scaffolding to e",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106057192285548763",
+      "url": "https://x.com/trycua/status/2106057192285548763",
+      "author": "trycua",
+      "posted_at": "2026-10-02T16:22:17+00:00",
+      "text_chars": 277,
+      "media_count": 1,
+      "related_urls": [
+        "https://spaces.cua.ai"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2106057192285548763/",
+      "api_text_preview": "1/ We're reimagining what it means for your agents to work with all your computers.\n\nToday we're excited to share Cua Spaces, built on Cua Driver and our virtualization stack, rolling out on macOS today.\n\nDownload it now, it's free and sour",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 9
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106009509311516843",
+      "url": "https://x.com/SubhanHQ/status/2106009509311516843",
+      "author": "SubhanHQ",
+      "posted_at": "2026-10-02T13:12:49+00:00",
+      "text_chars": 113,
+      "media_count": 1,
+      "related_urls": [
+        "https://amicro.vercel.app"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2106009509311516843/",
+      "api_text_preview": "this micro transitions website is goated man https://t.co/kgtLAWN1ZV with over 2.5k stars https://t.co/wQxHdSr0YW",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 7
+      },
+      "topics": [
+        "ui-motion"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2106051894624047547",
+      "url": "https://x.com/matiNotFound/status/2106051894624047547",
+      "author": "matiNotFound",
+      "posted_at": "2026-10-02T16:01:14+00:00",
+      "text_chars": 146,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2106051894624047547/",
+      "api_text_preview": "The vgpu skill now helps your agent create better 3D models in Blender, optimized for web\n\nnpx skills add vercel-labs/vgpu https://t.co/51pPl8qmDT",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "agent-skills",
+        "three-js"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2105951799995728084",
+      "url": "https://x.com/SearchForRyan/status/2105951799995728084",
+      "author": "SearchForRyan",
+      "posted_at": "2026-10-02T09:23:30+00:00",
+      "text_chars": 1354,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2105951799995728084/",
+      "api_text_preview": "The game with SEO is ‘how do I get my pages indexed’ with a new site. \n\nEspecially when 99% of the content that hits the web is a big fat shit straight from an AI tool. \n\nThis site is 48 hours old + 500 pages deep. \n\nHere’s how I got it to ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 7
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2105631054531092960",
+      "url": "https://x.com/trending_repos/status/2105631054531092960",
+      "author": "trending_repos",
+      "posted_at": "2026-10-01T12:08:58+00:00",
+      "text_chars": 263,
+      "media_count": 0,
+      "related_urls": [
+        "https://github.com/tt-a1i/archify"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2105631054531092960/",
+      "api_text_preview": "Trending repository of the month 🏆\n\narchify\n\nAgent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.\n\nLast month: 38,190 ⭐\nTotal: 75,547 ⭐️\n",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills",
+        "infographics"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2105594315028541669",
+      "url": "https://x.com/kalashvasaniya/status/2105594315028541669",
+      "author": "kalashvasaniya",
+      "posted_at": "2026-10-01T09:42:59+00:00",
+      "text_chars": 108,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2105594315028541669/",
+      "api_text_preview": "never ignore programmatic SEO\n\njust started pSEO 6 weeks ago and what a crazy result https://t.co/Z13lOg5a40",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2105281624460157100",
+      "url": "https://x.com/thedzianis/status/2105281624460157100",
+      "author": "thedzianis",
+      "posted_at": "2026-09-30T13:00:28+00:00",
+      "text_chars": 162,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2105281624460157100/",
+      "api_text_preview": "Designers who think they won't get replaced: go run Claude Opus 5.5.\n\nNo references. One prompt. That's it.\n\nHere's the output 💀\n\nPrompt ↓ https://t.co/86h9hatTuT",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 14
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2105022638368403658",
+      "url": "https://x.com/mattpocockuk/status/2105022638368403658",
+      "author": "mattpocockuk",
+      "posted_at": "2026-09-29T19:51:21+00:00",
+      "text_chars": 110,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2105022638368403658/",
+      "api_text_preview": "My top 3 skill makers:\n\n- @poteto \n- @dexhorthy\n- @emilkowalski\n\nAlways learn a ton from reading their skills.",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2104840500847263794",
+      "url": "https://x.com/shadcnlabs/status/2104840500847263794",
+      "author": "shadcnlabs",
+      "posted_at": "2026-09-29T07:47:36+00:00",
+      "text_chars": 241,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2104840500847263794/",
+      "api_text_preview": "Introducing pdfcn\n\nBuild beautiful PDFs like you build your UI.\n\nPowered by Takumi + Forme.\nPick from 10+ themes, 40+ components & blocks, then customize everything.\n\nOne command to get started. shadcn/ui compatible.\n\n100% Free. Open source",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2104574316104880415",
+      "url": "https://x.com/ConnorShowler/status/2104574316104880415",
+      "author": "ConnorShowler",
+      "posted_at": "2026-09-28T14:09:52+00:00",
+      "text_chars": 3966,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2104574316104880415/",
+      "api_text_preview": "Here's a list of literally everything you need to know about SEO:\n\n1. Technical SEO\n-> Crawlability\n-> Indexability\n-> XML sitemaps\n-> Robots.txt\n-> Canonical tags\n-> Site architecture / URL structure\n-> HTTPS / SSL\n-> Core Web Vitals (LCP,",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2104562076446588937",
+      "url": "https://x.com/askOkara/status/2104562076446588937",
+      "author": "askOkara",
+      "posted_at": "2026-09-28T13:21:14+00:00",
+      "text_chars": 132,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2104562076446588937/",
+      "api_text_preview": "Our launches have done 100M+ views with no agency and no ad spend\n\nThis is the playbook we follow every time https://t.co/e11iLAxuOl",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103893619799138767",
+      "url": "https://x.com/AaronxShepherd/status/2103893619799138767",
+      "author": "AaronxShepherd",
+      "posted_at": "2026-09-26T17:05:02+00:00",
+      "text_chars": 935,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103893619799138767/",
+      "api_text_preview": "i find it laughable when people say that “AI finally killed cold email”\n\nthis is the WIDEST OPEN i've seen in outbound since 2020. \n\nour agency is now sending 10M+ cold emails/mo\n\nand are currently scaling that up fast. \n\nwhat changed? \n\n> ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 0
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103700886186848294",
+      "url": "https://x.com/coldemailchris/status/2103700886186848294",
+      "author": "coldemailchris",
+      "posted_at": "2026-09-26T04:19:10+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2099316575006240776"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103700886186848294/",
+      "api_text_preview": "https://t.co/7bz5mXJHlz",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103873490730549558",
+      "url": "https://x.com/1weiho/status/2103873490730549558",
+      "author": "1weiho",
+      "posted_at": "2026-09-26T15:45:02+00:00",
+      "text_chars": 250,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103873490730549558/",
+      "api_text_preview": "Introducing open-slide 2.0 🎉\n\nThe slide framework built for agents, now with:\n› A new visual editor\n› Editable pptx export\n› A redesigned UI\n\nLet your agent build the deck. Make the final touches yourself.\n\nHere's what's new ↓ https://t.co/",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "agent-skills",
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103795257154687192",
+      "url": "https://x.com/franpradasAI/status/2103795257154687192",
+      "author": "franpradasAI",
+      "posted_at": "2026-09-26T10:34:10+00:00",
+      "text_chars": 102,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103795257154687192/",
+      "api_text_preview": "🔴 TU PAGINA WEB HECHA CON IA DA ASCO\n\nHaz que se vea x1000 veces mejor así: ↓↓ https://t.co/nJIvInhwOf",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "design"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103876355536654710",
+      "url": "https://x.com/digitalix/status/2103876355536654710",
+      "author": "digitalix",
+      "posted_at": "2026-09-26T15:56:25+00:00",
+      "text_chars": 87,
+      "media_count": 0,
+      "related_urls": [
+        "https://github.com/Mapika/decider"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103876355536654710/",
+      "api_text_preview": "An open source Jev (https://t.co/6JMiDBU9us) scored higher than Jev itself on JevBench.",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103858184414781504",
+      "url": "https://x.com/maxxmalist/status/2103858184414781504",
+      "author": "maxxmalist",
+      "posted_at": "2026-09-26T14:44:13+00:00",
+      "text_chars": 1068,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103858184414781504/",
+      "api_text_preview": "if you wanna master AI content, here’s the playbook:\n\n- pick one image model and one video model. learn how they work. try different prompts, references, and settings. play around until you understand what changes the output\n\n- make somethi",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 0
+      },
+      "topics": [
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103801891528573089",
+      "url": "https://x.com/anthonyriera/status/2103801891528573089",
+      "author": "anthonyriera",
+      "posted_at": "2026-09-26T11:00:32+00:00",
+      "text_chars": 98,
+      "media_count": 0,
+      "related_urls": [
+        "https://github.com/Rieranthony/product-film-skill/tree/main"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103801891528573089/",
+      "api_text_preview": "I made a skill if you want to create those nice motion videos too!\n\nhttps://t.co/uli68sox69\n\nEnjoy",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103854606069751880",
+      "url": "https://x.com/suraj_sharma14/status/2103854606069751880",
+      "author": "suraj_sharma14",
+      "posted_at": "2026-09-26T14:30:00+00:00",
+      "text_chars": 1397,
+      "media_count": 0,
+      "related_urls": [
+        "https://claude.ai/code"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103854606069751880/",
+      "api_text_preview": "Here's every free AI credit you can grab right now ↓\n\n1/ Claude Code cloud sessions: $100–$250\nExisting Claude subscribers get a one-time credit.\n- $100 on Pro, $250 on Max\n- Run /claim-credit in the CLI or claim at https://t.co/X7tmeivFUX\n",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 10
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103157617715491278",
+      "url": "https://x.com/0xwhrrari/status/2103157617715491278",
+      "author": "0xwhrrari",
+      "posted_at": "2026-09-24T16:20:25+00:00",
+      "text_chars": 2140,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103157617715491278/",
+      "api_text_preview": "Jev Founder, Diogo Almeida, just released a 12-page PDF on how to use Jev with LLMs\n\nIt is more useful than most paid AI courses:\n\nthis is a 10-step blueprint on how to build a faster, cheaper and more controllable AI system around Claude, ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 8
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103767783141949937",
+      "url": "https://x.com/RoundtableSpace/status/2103767783141949937",
+      "author": "RoundtableSpace",
+      "posted_at": "2026-09-26T08:45:00+00:00",
+      "text_chars": 648,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103767783141949937/",
+      "api_text_preview": "Claude Max costs $200/month. this repo lets you run Claude Code for $0 using free model providers.\n\nit’s called free-claude-code, and the repo has 55.9K stars.\n\nwhat it gives you:\n\n•⁠  ⁠54 providers with free tiers\n•⁠  ⁠1.3B+ free tokens pe",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 0
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103536117765255272",
+      "url": "https://x.com/FrontiersMind/status/2103536117765255272",
+      "author": "FrontiersMind",
+      "posted_at": "2026-09-25T17:24:26+00:00",
+      "text_chars": 767,
+      "media_count": 1,
+      "related_urls": [
+        "https://huggingface.co/collections/FrontiersMind/lumma-decision-models"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103536117765255272/",
+      "api_text_preview": "🚀 Today, we’re open-sourcing Lumma-fev-0.1B and  updated Lumma-fev-0.6B!\n\nThese are our own Decision-Based Models trained on English & 10 𝐈𝐧𝐝𝐢𝐜 languages designed to make decisions and take actions rather than generate text:  https://t.co/n",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103729495618281838",
+      "url": "https://x.com/umiyuki_ai/status/2103729495618281838",
+      "author": "umiyuki_ai",
+      "posted_at": "2026-09-26T06:12:51+00:00",
+      "text_chars": 261,
+      "media_count": 4,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103729495618281838/",
+      "api_text_preview": "AstraにBlenderで昭和の日本家屋をモデリングしてもらった。ただし、CodexじゃなくてChatで。セキュアMCPTunnelって機能でWebのChatGPTから僕の手元のPCのBlenderをMCPで操作できます。チャットのProでワンショット42分間作業してくれました。Pro200ドルプランなら1週間あたり200回Proとチャット出来ます。つまりこういうモデリングを月800回やってもCodex容量は一切消費しません。他のMCPサーバも使えるのでBlender以外の",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "mcp"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103780923196239909",
+      "url": "https://x.com/hridoyreh/status/2103780923196239909",
+      "author": "hridoyreh",
+      "posted_at": "2026-09-26T09:37:13+00:00",
+      "text_chars": 139,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103780923196239909/",
+      "api_text_preview": "I achieved 14+ backlinks from Google.\n\nYou too can get links from Google for free.\n\nHere's the simple SEO strategy: https://t.co/mjx9QDdwrk",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103554016315642100",
+      "url": "https://x.com/0xCodila/status/2103554016315642100",
+      "author": "0xCodila",
+      "posted_at": "2026-09-25T18:35:34+00:00",
+      "text_chars": 1293,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103554016315642100/",
+      "api_text_preview": "Chinese students just found the best way to use JEV for any LLM or AI agent - released a PDF research\n\nthe shift: I pasted it into Claude and GPT - and cut my costs by~63х\n\nhere’s what they found across 44 benchmarks:\n\n1 → 7,193 responses, ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 16
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103469459981619243",
+      "url": "https://x.com/samuelcolvin/status/2103469459981619243",
+      "author": "samuelcolvin",
+      "posted_at": "2026-09-25T12:59:34+00:00",
+      "text_chars": 1600,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103469459981619243/",
+      "api_text_preview": "Fuck it, still early but here goes ...\n\nWe've just released Monty v1 - a Python sandbox that starts in 1 millisecond, not 1.5 seconds.\n\nI just ran 10k sandboxed scripts in 674ms, something that would take a cloud sandbox > 3 hours.\n\nThis re",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 1
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103530162318901673",
+      "url": "https://x.com/jochenmadler/status/2103530162318901673",
+      "author": "jochenmadler",
+      "posted_at": "2026-09-25T17:00:47+00:00",
+      "text_chars": 284,
+      "media_count": 1,
+      "related_urls": [
+        "https://arxiv.org/abs/2609.15369"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103530162318901673/",
+      "api_text_preview": "We trained a model to predict AI-written blog posts from structural features - and discovered the shape of slop.\n\nOn posts it had never seen, it told AI and human apart with 98% accuracy, getting only 19 of 1,740 wrong.\n\nPaper and code: htt",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103533757588463990",
+      "url": "https://x.com/amirdzm/status/2103533757588463990",
+      "author": "amirdzm",
+      "posted_at": "2026-09-25T17:15:04+00:00",
+      "text_chars": 111,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103533757588463990/",
+      "api_text_preview": "This guy broke down the science behind Apple's product videos\n\nApple sue him please.... https://t.co/KeWlCSk6S3",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 20
+      },
+      "topics": [
+        "design",
+        "ui-motion",
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102464856423284995",
+      "url": "https://x.com/coldemailchris/status/2102464856423284995",
+      "author": "coldemailchris",
+      "posted_at": "2026-09-22T18:27:38+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2091566410262626304"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2102464856423284995/",
+      "api_text_preview": "https://t.co/jcvnj1FM4S",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103098585352937777",
+      "url": "https://x.com/PaulKlayVC/status/2103098585352937777",
+      "author": "PaulKlayVC",
+      "posted_at": "2026-09-24T12:25:51+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2102928541784371200"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103098585352937777/",
+      "api_text_preview": "https://t.co/K4ivR15SFz",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103530005720637860",
+      "url": "https://x.com/RespanAI/status/2103530005720637860",
+      "author": "RespanAI",
+      "posted_at": "2026-09-25T17:00:09+00:00",
+      "text_chars": 328,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103530005720637860/",
+      "api_text_preview": "Introducing Span-01, the first hyper-parallel reasoning classifier built for unseen challenges (RLAIF).\n\n2x cheaper, 18% better than Jev.\n700x cheaper, 4% better than GPT-6 Luna.\nFrontier reasoning for every behavior, at classifier speed.\n\n",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103484990352765393",
+      "url": "https://x.com/nicos_ai/status/2103484990352765393",
+      "author": "nicos_ai",
+      "posted_at": "2026-09-25T14:01:17+00:00",
+      "text_chars": 560,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103484990352765393/",
+      "api_text_preview": "ESTO ES UNA LOCURA\n\nJack Dorsey (ex-CEO de Twitter) acaba de lanzar gratis un framework completo para crear un negocio gestionado al 100% por agentes de IA.\n\nYa supera las 29.000 estrellas en GitHub.\n\nCómo configurarlo (5min):\n\n1. Clona el ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 4
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103332624907260156",
+      "url": "https://x.com/ModelScope2022/status/2103332624907260156",
+      "author": "ModelScope2022",
+      "posted_at": "2026-09-25T03:55:50+00:00",
+      "text_chars": 847,
+      "media_count": 1,
+      "related_urls": [
+        "https://modelscope.ai/collections/TokenRhythm/NeoHorse-Jev"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103332624907260156/",
+      "api_text_preview": "NeoHorse-Jev-4B is now open—a compact model built to turn application states directly into structured decisions and probabilities.\n🤖 https://t.co/KmGEmT7Jpa\n\n🏆 Scores 77.70 across six text decision benchmark groups, ranking first among the ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103094238430761101",
+      "url": "https://x.com/trending_repos/status/2103094238430761101",
+      "author": "trending_repos",
+      "posted_at": "2026-09-24T12:08:34+00:00",
+      "text_chars": 140,
+      "media_count": 0,
+      "related_urls": [
+        "https://github.com/vectorize-io/hindsight"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2103094238430761101/",
+      "api_text_preview": "Trending repository of the day 📈\n\nhindsight\n\nHindsight: Agent Memory That Learns\n\nLast 24h: 1,607 ⭐\nTotal: 26,931 ⭐️\nhttps://t.co/Mev6yl48dr",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103193222029951413",
+      "url": "https://x.com/EyeingAI/status/2103193222029951413",
+      "author": "EyeingAI",
+      "posted_at": "2026-09-24T18:41:54+00:00",
+      "text_chars": 275,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103193222029951413/",
+      "api_text_preview": "People are still paying $20+ for AI video tools while this exists.\n\nDreamina Basic is currently $1.50/month.\n\nIt was the cheapest option in the comparison I checked, and you still get access to the Seedance lineup.\n\nHere’s how to grab it + ",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 9
+      },
+      "topics": [
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2103188985292157353",
+      "url": "https://x.com/fastinoAI/status/2103188985292157353",
+      "author": "fastinoAI",
+      "posted_at": "2026-09-24T18:25:04+00:00",
+      "text_chars": 1621,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2103188985292157353/",
+      "api_text_preview": "Introducing GLiNER2.5-Decide, our new 340M parameter open weight, encoder-based decision model.\n\nGLiNER2.5-Decide is built for fast, deterministic classification. The model evaluates a set of user-defined typed questions and rules, and join",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "general-reference"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102833386947793355",
+      "url": "https://x.com/MitchellKeller_/status/2102833386947793355",
+      "author": "MitchellKeller_",
+      "posted_at": "2026-09-23T18:52:02+00:00",
+      "text_chars": 161,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2102833386947793355/",
+      "api_text_preview": "POV: you realize one of the systems behind a $726,000 outbound motion is sitting in this Article for free.\n\nI can't believe this is free. https://t.co/LiiPbbD1I7",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102852926121427304",
+      "url": "https://x.com/bertgodel/status/2102852926121427304",
+      "author": "bertgodel",
+      "posted_at": "2026-09-23T20:09:41+00:00",
+      "text_chars": 225,
+      "media_count": 2,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2102852926121427304/",
+      "api_text_preview": "Agents are using legacy Python packages to edit Word, Excel, and PowerPoint files, hitting API gaps, dropping into raw OOXML, and creating silent corruptions. \n\nWe fix that today with OSS Paper Office: https://t.co/n6m9Y12eGj",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102775755646337530",
+      "url": "https://x.com/abxxai/status/2102775755646337530",
+      "author": "abxxai",
+      "posted_at": "2026-09-23T15:03:02+00:00",
+      "text_chars": 217,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2102775755646337530/",
+      "api_text_preview": "omg…that i made this with Claude Opus 5.5 and Seedance 2.5\n\nnobody is teaching you the actual workflow behind these AI realistic videos.. so here it is,\n\nfull breakdown, every prompt included 👇 https://t.co/RUN4HPoHkE",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 10
+      },
+      "topics": [
+        "video-generation"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102544324445848031",
+      "url": "https://x.com/jake11moran/status/2102544324445848031",
+      "author": "jake11moran",
+      "posted_at": "2026-09-22T23:43:24+00:00",
+      "text_chars": 91,
+      "media_count": 1,
+      "related_urls": [
+        "https://github.com/heygen-com/hyperframes-community-skills/tree/master/skills/camera-3d-captions"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2102544324445848031/",
+      "api_text_preview": "Skill for 3d camera + text effect is live!\n\nhttps://t.co/QS9MbdSjJE https://t.co/j9jWrSaaeo",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "agent-skills",
+        "ui-motion",
+        "camera-control"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102758425386172842",
+      "url": "https://x.com/EXM7777/status/2102758425386172842",
+      "author": "EXM7777",
+      "posted_at": "2026-09-23T13:54:10+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2102758417706405888"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2102758425386172842/",
+      "api_text_preview": "https://t.co/kf0W6P7Ney",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 13
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102598835470246112",
+      "url": "https://x.com/mynameisyahia/status/2102598835470246112",
+      "author": "mynameisyahia",
+      "posted_at": "2026-09-23T03:20:01+00:00",
+      "text_chars": 365,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2102598835470246112/",
+      "api_text_preview": "Introducing Scrape Anything.\n\nwe merged all our scraping APIs into one\n\ninputs: websites, PDFs, DOCX, PPT, XLSX, 40 file types, anything.\n\ninto HTML, markdown, screenshots, images, JSON & more\n\nGive us a URL, get your data\n\nNo need to worry",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 5
+      },
+      "topics": [
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102672086854484006",
+      "url": "https://x.com/NicholasDulait/status/2102672086854484006",
+      "author": "NicholasDulait",
+      "posted_at": "2026-09-23T08:11:05+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2102667421370707968"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2102672086854484006/",
+      "api_text_preview": "https://t.co/WSWq26IQ54",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102476527200043250",
+      "url": "https://x.com/RobHoffman_/status/2102476527200043250",
+      "author": "RobHoffman_",
+      "posted_at": "2026-09-22T19:14:00+00:00",
+      "text_chars": 2453,
+      "media_count": 0,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2102476527200043250/",
+      "api_text_preview": "founders and marketers: you need an optimized \"about us\" page on your site\n\ni work with billion dollar tech companies and bootstrapped SaaS. The About Us is one of the first pages we optimize\n\nhere's how (8 points):\n\n(P.S. I explain why thi",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 9
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102286564521111687",
+      "url": "https://x.com/Dontgiveup_26/status/2102286564521111687",
+      "author": "Dontgiveup_26",
+      "posted_at": "2026-09-22T06:39:10+00:00",
+      "text_chars": 203,
+      "media_count": 1,
+      "related_urls": [],
+      "status": "complete",
+      "path": "raw/items/x-2102286564521111687/",
+      "api_text_preview": "지금 전 세계 개발자 커뮤니티가 발칵 뒤집힌 이유.\n\nPlaywright 쓰던 사람들이 단체로 갈아탈 수밖에 없게 만든 오픈소스 'Stagehand v4'가 나옴.\n\n최근 화제인 Jev까지 붙으면서 LLM 호출 97% 삭감, 속도 11배 폭증.\n\n반복 실행 비용이 '0원'으로 수렴해버리는 미친 자동화의 비밀 👇 (타래) https://t.co/ExvxxgWmsM",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 3
+      },
+      "topics": [
+        "mcp",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102065255694409940",
+      "url": "https://x.com/nifinet/status/2102065255694409940",
+      "author": "nifinet",
+      "posted_at": "2026-09-21T15:59:46+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2102060087456268288"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2102065255694409940/",
+      "api_text_preview": "https://t.co/v6lYNTslZw",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 13
+      },
+      "topics": [
+        "seo-agents",
+        "agent-skills"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2102047124321939906",
+      "url": "https://x.com/chris_nectiv/status/2102047124321939906",
+      "author": "chris_nectiv",
+      "posted_at": "2026-09-21T14:47:43+00:00",
+      "text_chars": 74,
+      "media_count": 0,
+      "related_urls": [
+        "https://nectivdigital.com/blog/the-perfectly-optimized-page-for-aeo-ai-search"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2102047124321939906/",
+      "api_text_preview": "Full article on the Nectiv blog can be found here: https://t.co/vqdTOCApdX",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 2
+      },
+      "topics": [
+        "seo-agents"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2101884812189684015",
+      "url": "https://x.com/HermesWatcher/status/2101884812189684015",
+      "author": "HermesWatcher",
+      "posted_at": "2026-09-21T04:02:45+00:00",
+      "text_chars": 23,
+      "media_count": 0,
+      "related_urls": [
+        "https://x.com/i/article/2101881415273164800"
+      ],
+      "status": "complete",
+      "path": "raw/items/x-2101884812189684015/",
+      "api_text_preview": "https://t.co/7l76mMK2Qi",
+      "verified_files": {
+        "source_json": true,
+        "content_md": true,
+        "media_count": 6
+      },
+      "topics": [
+        "agent-skills",
+        "mcp"
+      ],
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110622360781119599",
+      "path": "raw/items/x-2110622360781119599",
+      "title": "SEO tools have made our lives easier.",
+      "status": "complete",
+      "media_files": 10,
+      "author_thread_records": 12,
+      "article_blocks": 0,
+      "url": "https://x.com/hridoyreh/status/2110622360781119599",
+      "author": "Hridoy Reh (@hridoyreh)",
+      "topics": [
+        "seo-agents"
+      ],
+      "captured_at": "2026-10-15T10:47:16.007333+00:00",
+      "additional_capture": true,
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2095896040155340809",
+      "path": "raw/items/x-2095896040155340809",
+      "title": "How to use ChatGPT Astra for SEO so well it feels illegal ",
+      "status": "complete",
+      "media_files": 5,
+      "author_thread_records": 0,
+      "article_blocks": 85,
+      "url": "https://x.com/bloggersarvesh/status/2095896040155340809",
+      "author": "Sarvesh Shrivastava (@bloggersarvesh)",
+      "topics": [
+        "seo-agents"
+      ],
+      "captured_at": "2026-10-15T10:47:16.007333+00:00",
+      "additional_capture": true,
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110361649911919063",
+      "path": "raw/items/x-2110361649911919063",
+      "title": "If you're a business owner trying to rank on the first page of Google, do this. (Bookmark this)",
+      "status": "complete",
+      "media_files": 2,
+      "author_thread_records": 1,
+      "article_blocks": 0,
+      "url": "https://x.com/DylanOlivaGrows/status/2110361649911919063",
+      "author": "Dylan Oliva (@DylanOlivaGrows)",
+      "topics": [
+        "seo-agents"
+      ],
+      "captured_at": "2026-10-15T10:47:16.007333+00:00",
+      "additional_capture": true,
+      "unsaved": true
+    },
+    {
+      "tweet_id": "2110595028015808766",
+      "path": "raw/items/x-2110595028015808766",
+      "title": "Almost 2,500 Google clicks in the last 28 days.",
+      "status": "complete",
+      "media_files": 1,
+      "author_thread_records": 1,
+      "article_blocks": 0,
+      "url": "https://x.com/2whazzuup/status/2110595028015808766",
+      "author": "Grant O (@2whazzuup)",
+      "topics": [
+        "seo-agents"
+      ],
+      "captured_at": "2026-10-15T10:47:16.007333+00:00",
+      "additional_capture": true,
+      "unsaved": true
+    }
+  ],
+  "pagination_exhausted": true,
+  "pagination_pages": [
+    {
+      "returned_tweets": 40,
+      "has_next_cursor": true,
+      "cursor_repeated": false
+    },
+    {
+      "returned_tweets": 40,
+      "has_next_cursor": true,
+      "cursor_repeated": false
+    },
+    {
+      "returned_tweets": 40,
+      "has_next_cursor": true,
+      "cursor_repeated": false
+    },
+    {
+      "returned_tweets": 6,
+      "has_next_cursor": true,
+      "cursor_repeated": false
+    },
+    {
+      "returned_tweets": 0,
+      "has_next_cursor": true,
+      "cursor_repeated": true
+    }
+  ],
+  "captured_count": 125,
+  "gap_count": 0,
+  "media_files": [
+    {
+      "tweet_id": "2110385721391366263",
+      "path": "raw/items/x-2110385721391366263/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2110339846963355891",
+      "path": "raw/items/x-2110339846963355891/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2109944361408659650",
+      "path": "raw/items/x-2109944361408659650/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2110070862972158174",
+      "path": "raw/items/x-2110070862972158174/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2110059026818212244",
+      "path": "raw/items/x-2110059026818212244/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2110049100611940501",
+      "path": "raw/items/x-2110049100611940501/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2110177534621196646",
+      "path": "raw/items/x-2110177534621196646/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2110180038637408357",
+      "path": "raw/items/x-2110180038637408357/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2110124406156722455",
+      "path": "raw/items/x-2110124406156722455/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2110189303418769839",
+      "path": "raw/items/x-2110189303418769839/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2110022758729937313",
+      "path": "raw/items/x-2110022758729937313/",
+      "media_count": 7
+    },
+    {
+      "tweet_id": "2109719615324496137",
+      "path": "raw/items/x-2109719615324496137/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2106096193235259564",
+      "path": "raw/items/x-2106096193235259564/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2109982484058222929",
+      "path": "raw/items/x-2109982484058222929/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2109985501176340693",
+      "path": "raw/items/x-2109985501176340693/",
+      "media_count": 7
+    },
+    {
+      "tweet_id": "2109716261160538324",
+      "path": "raw/items/x-2109716261160538324/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2109610532365857198",
+      "path": "raw/items/x-2109610532365857198/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2109895882573562197",
+      "path": "raw/items/x-2109895882573562197/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2109885846862127390",
+      "path": "raw/items/x-2109885846862127390/",
+      "media_count": 13
+    },
+    {
+      "tweet_id": "2109707995919606136",
+      "path": "raw/items/x-2109707995919606136/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2109834006703292423",
+      "path": "raw/items/x-2109834006703292423/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2109897254849101986",
+      "path": "raw/items/x-2109897254849101986/",
+      "media_count": 13
+    },
+    {
+      "tweet_id": "2109606016304214473",
+      "path": "raw/items/x-2109606016304214473/",
+      "media_count": 10
+    },
+    {
+      "tweet_id": "2109645443961328081",
+      "path": "raw/items/x-2109645443961328081/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2109646772347777364",
+      "path": "raw/items/x-2109646772347777364/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2109645427775561870",
+      "path": "raw/items/x-2109645427775561870/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2109624423255048225",
+      "path": "raw/items/x-2109624423255048225/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2109614670344573390",
+      "path": "raw/items/x-2109614670344573390/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2109592456203227516",
+      "path": "raw/items/x-2109592456203227516/",
+      "media_count": 13
+    },
+    {
+      "tweet_id": "2109681377280954407",
+      "path": "raw/items/x-2109681377280954407/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2109424625742713341",
+      "path": "raw/items/x-2109424625742713341/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2109501816853467246",
+      "path": "raw/items/x-2109501816853467246/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2109671433521815772",
+      "path": "raw/items/x-2109671433521815772/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2109612095763263987",
+      "path": "raw/items/x-2109612095763263987/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2109580214594679003",
+      "path": "raw/items/x-2109580214594679003/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2109263628306383016",
+      "path": "raw/items/x-2109263628306383016/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2109119728103137598",
+      "path": "raw/items/x-2109119728103137598/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2109262732763783400",
+      "path": "raw/items/x-2109262732763783400/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2109309297612013621",
+      "path": "raw/items/x-2109309297612013621/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2108926274916012057",
+      "path": "raw/items/x-2108926274916012057/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2108905392776360333",
+      "path": "raw/items/x-2108905392776360333/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2109045945149395421",
+      "path": "raw/items/x-2109045945149395421/",
+      "media_count": 10
+    },
+    {
+      "tweet_id": "2109222475305197952",
+      "path": "raw/items/x-2109222475305197952/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2109182449179836579",
+      "path": "raw/items/x-2109182449179836579/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2108948624004526516",
+      "path": "raw/items/x-2108948624004526516/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2108953745468068184",
+      "path": "raw/items/x-2108953745468068184/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2108365916895654105",
+      "path": "raw/items/x-2108365916895654105/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2108181934669238593",
+      "path": "raw/items/x-2108181934669238593/",
+      "media_count": 7
+    },
+    {
+      "tweet_id": "2108251509830140401",
+      "path": "raw/items/x-2108251509830140401/",
+      "media_count": 23
+    },
+    {
+      "tweet_id": "2108112682922705181",
+      "path": "raw/items/x-2108112682922705181/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2107835276810739945",
+      "path": "raw/items/x-2107835276810739945/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2107787922204152156",
+      "path": "raw/items/x-humanize-prompt-2107787922204152156/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2105643919119696297",
+      "path": "raw/items/x-2105643919119696297/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2107793469322485839",
+      "path": "raw/items/x-2107793469322485839/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2107604741387862375",
+      "path": "raw/items/x-2107604741387862375/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2107761959009718673",
+      "path": "raw/items/x-2107761959009718673/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2107794465457139988",
+      "path": "raw/items/x-2107794465457139988/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2105326479441788943",
+      "path": "raw/items/x-2105326479441788943/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2107414044772880783",
+      "path": "raw/items/x-2107414044772880783/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2107408409859359211",
+      "path": "raw/items/x-2107408409859359211/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2107321323911549277",
+      "path": "raw/items/x-2107321323911549277/",
+      "media_count": 14
+    },
+    {
+      "tweet_id": "2107456589951361083",
+      "path": "raw/items/x-2107456589951361083/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2107513494493179954",
+      "path": "raw/items/x-2107513494493179954/",
+      "media_count": 28
+    },
+    {
+      "tweet_id": "2107447529940140324",
+      "path": "raw/items/x-2107447529940140324/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2107402987224412627",
+      "path": "raw/items/x-2107402987224412627/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2107222360155701709",
+      "path": "raw/items/x-2107222360155701709/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2107127178445865372",
+      "path": "raw/items/x-2107127178445865372/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2107038587866804617",
+      "path": "raw/items/x-2107038587866804617/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2106849769003844067",
+      "path": "raw/items/x-2106849769003844067/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2106479630026973686",
+      "path": "raw/items/x-2106479630026973686/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2106740370415473027",
+      "path": "raw/items/x-2106740370415473027/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2106383261089849825",
+      "path": "raw/items/x-2106383261089849825/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2106411655055974640",
+      "path": "raw/items/x-2106411655055974640/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2106379872088055826",
+      "path": "raw/items/x-2106379872088055826/",
+      "media_count": 18
+    },
+    {
+      "tweet_id": "2106636580735619118",
+      "path": "raw/items/x-2106636580735619118/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2106080442004697367",
+      "path": "raw/items/x-2106080442004697367/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2106057192285548763",
+      "path": "raw/items/x-2106057192285548763/",
+      "media_count": 9
+    },
+    {
+      "tweet_id": "2106009509311516843",
+      "path": "raw/items/x-2106009509311516843/",
+      "media_count": 7
+    },
+    {
+      "tweet_id": "2106051894624047547",
+      "path": "raw/items/x-2106051894624047547/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2105951799995728084",
+      "path": "raw/items/x-2105951799995728084/",
+      "media_count": 7
+    },
+    {
+      "tweet_id": "2105631054531092960",
+      "path": "raw/items/x-2105631054531092960/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2105594315028541669",
+      "path": "raw/items/x-2105594315028541669/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2105281624460157100",
+      "path": "raw/items/x-2105281624460157100/",
+      "media_count": 14
+    },
+    {
+      "tweet_id": "2105022638368403658",
+      "path": "raw/items/x-2105022638368403658/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2104840500847263794",
+      "path": "raw/items/x-2104840500847263794/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2104574316104880415",
+      "path": "raw/items/x-2104574316104880415/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2104562076446588937",
+      "path": "raw/items/x-2104562076446588937/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2103700886186848294",
+      "path": "raw/items/x-2103700886186848294/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2103873490730549558",
+      "path": "raw/items/x-2103873490730549558/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2103795257154687192",
+      "path": "raw/items/x-2103795257154687192/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2103876355536654710",
+      "path": "raw/items/x-2103876355536654710/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2103801891528573089",
+      "path": "raw/items/x-2103801891528573089/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2103854606069751880",
+      "path": "raw/items/x-2103854606069751880/",
+      "media_count": 10
+    },
+    {
+      "tweet_id": "2103157617715491278",
+      "path": "raw/items/x-2103157617715491278/",
+      "media_count": 8
+    },
+    {
+      "tweet_id": "2103536117765255272",
+      "path": "raw/items/x-2103536117765255272/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2103729495618281838",
+      "path": "raw/items/x-2103729495618281838/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2103780923196239909",
+      "path": "raw/items/x-2103780923196239909/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2103554016315642100",
+      "path": "raw/items/x-2103554016315642100/",
+      "media_count": 16
+    },
+    {
+      "tweet_id": "2103469459981619243",
+      "path": "raw/items/x-2103469459981619243/",
+      "media_count": 1
+    },
+    {
+      "tweet_id": "2103530162318901673",
+      "path": "raw/items/x-2103530162318901673/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2103533757588463990",
+      "path": "raw/items/x-2103533757588463990/",
+      "media_count": 20
+    },
+    {
+      "tweet_id": "2102464856423284995",
+      "path": "raw/items/x-2102464856423284995/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2103098585352937777",
+      "path": "raw/items/x-2103098585352937777/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2103530005720637860",
+      "path": "raw/items/x-2103530005720637860/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2103484990352765393",
+      "path": "raw/items/x-2103484990352765393/",
+      "media_count": 4
+    },
+    {
+      "tweet_id": "2103332624907260156",
+      "path": "raw/items/x-2103332624907260156/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2103094238430761101",
+      "path": "raw/items/x-2103094238430761101/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2103193222029951413",
+      "path": "raw/items/x-2103193222029951413/",
+      "media_count": 9
+    },
+    {
+      "tweet_id": "2103188985292157353",
+      "path": "raw/items/x-2103188985292157353/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2102833386947793355",
+      "path": "raw/items/x-2102833386947793355/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2102852926121427304",
+      "path": "raw/items/x-2102852926121427304/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2102775755646337530",
+      "path": "raw/items/x-2102775755646337530/",
+      "media_count": 10
+    },
+    {
+      "tweet_id": "2102544324445848031",
+      "path": "raw/items/x-2102544324445848031/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2102758425386172842",
+      "path": "raw/items/x-2102758425386172842/",
+      "media_count": 13
+    },
+    {
+      "tweet_id": "2102598835470246112",
+      "path": "raw/items/x-2102598835470246112/",
+      "media_count": 5
+    },
+    {
+      "tweet_id": "2102672086854484006",
+      "path": "raw/items/x-2102672086854484006/",
+      "media_count": 6
+    },
+    {
+      "tweet_id": "2102476527200043250",
+      "path": "raw/items/x-2102476527200043250/",
+      "media_count": 9
+    },
+    {
+      "tweet_id": "2102286564521111687",
+      "path": "raw/items/x-2102286564521111687/",
+      "media_count": 3
+    },
+    {
+      "tweet_id": "2102065255694409940",
+      "path": "raw/items/x-2102065255694409940/",
+      "media_count": 13
+    },
+    {
+      "tweet_id": "2102047124321939906",
+      "path": "raw/items/x-2102047124321939906/",
+      "media_count": 2
+    },
+    {
+      "tweet_id": "2101884812189684015",
+      "path": "raw/items/x-2101884812189684015/",
+      "media_count": 6
+    }
+  ],
+  "external_recovery": {
+    "tweet_id": "2102047124321939906",
+    "parent_post_id": "2102025492840739175",
+    "article_url": "https://nectivdigital.com/blog/the-perfectly-optimized-page-for-aeo-ai-search",
+    "locally_saved_media": 2
+  },
+  "taxonomy_reviewed_by": "root",
+  "initial_saved_count": 126,
+  "additional_saved_count": 4,
+  "unsave_complete": true,
+  "remaining_saved_count": 0
+}

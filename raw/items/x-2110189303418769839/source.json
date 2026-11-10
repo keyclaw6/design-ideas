@@ -1,0 +1,60 @@
+{
+  "id": "x-2110189303418769839",
+  "url": "https://x.com/0x50484244/status/2110189303418769839",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "A few KiCAD <-> LLM PCB layout tips from personal experience.",
+  "authors": [
+    "PHBD (@0x50484244)"
+  ],
+  "topics": [
+    "keyboard-pcb",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/image-03.jpg",
+    "media/image-04.png",
+    "media/video-01.mp4",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2110189303418769839",
+    "author_handle": "0x50484244",
+    "posted_at": "2026-10-14T02:01:50+00:00",
+    "metrics": {
+      "views": 10147,
+      "likes": 238,
+      "replies": 13,
+      "retweets": 12,
+      "bookmarks": 366,
+      "quotes": 3
+    },
+    "articles": [],
+    "reply_records_captured": 15,
+    "media_source_urls": {
+      "media/image-01.jpg": "https://pbs.twimg.com/media/HUmLiwRaEAAshvv.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUmL0V1a4AAR4QK.jpg",
+      "media/image-03.jpg": "https://pbs.twimg.com/media/HUmL4UiaYAEiFUf.jpg",
+      "media/image-04.png": "https://pbs.twimg.com/media/HUoV2Z8bUAAqrJk.png",
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2110506004794523648/vid/avc1/1080x1920/8pO27HgZgD9HBxTd.mp4?tag=29",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUma6NXbcAE2DXb.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "A few KiCAD <-> LLM PCB layout tips from personal experience. \n\nPrompt it to:\n- Use KiCAD 10.99 (Nightly build, adds scripting features) and prompt it to interact with the program via KiPy + computer-use tools. \n- Not use autorouters like Freerouting. \n-  Place components one at a time or in small functional groups.\n- Adjusting placement after routing is acceptable\n- Route using octolinear traces, organized into busses / parallel equally spaced tracks. Pre-plan fanouts. Minimize any detours or circuitous routing, especially for signal nets. Use tracewidths / pours appropriate to current of the net. Optionally, tell it to write reusable scripts to check these properties and check its work. \n\nTons more to add to the above (diff pairs, return currents / ground plane continuity, etc.), but these tend to be highest order bit. This will likely drive run time up to O(hours-tens of horurs) for ~100+ net boards, but can lead to some excellent results.",
+    "fx_raw_text": "A few KiCAD <-> LLM PCB layout tips from personal experience. \n\nPrompt it to:\n- Use KiCAD 10.99 (Nightly build, adds scripting features) and prompt it to interact with the program via KiPy + computer-use tools. \n- Not use autorouters like Freerouting. \n-  Place components one at a time or in small functional groups.\n- Adjusting placement after routing is acceptable\n- Route using octolinear traces, organized into busses / parallel equally spaced tracks. Pre-plan fanouts. Minimize any detours or circuitous routing, especially for signal nets. Use tracewidths / pours appropriate to current of the net. Optionally, tell it to write reusable scripts to check these properties and check its work. \n\nTons more to add to the above (diff pairs, return currents / ground plane continuity, etc.), but these tend to be highest order bit. This will likely drive run time up to O(hours-tens of horurs) for ~100+ net boards, but can lead to some excellent results.",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2110373004320641173",
+      "2110524891447640076",
+      "2110506089720803429",
+      "2110388352965115918"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:58:12.563459+00:00"
+  }
+}

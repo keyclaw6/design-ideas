@@ -30,6 +30,7 @@
       "web-nqz-ai-search-prompt-generator",
       "web-tinylaunch-directories"
     ],
-    "category_note": "Paid database of 150+ SEO/AI-SEO tactics; lifetime license."
+    "category_note": "Paid database of 150+ SEO/AI-SEO tactics; lifetime license.",
+    "migrated_v2": true
   }
 }

@@ -1,0 +1,55 @@
+{
+  "id": "x-2107794465457139988",
+  "url": "https://x.com/Aprilzz423/status/2107794465457139988",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "A few people asked how I made the isometric objects and cities, so I packaged it into a Claude skill.",
+  "authors": [
+    "April (@Aprilzz423)"
+  ],
+  "topics": [
+    "agent-skills",
+    "design"
+  ],
+  "related_urls": [
+    "https://isoglow.dev"
+  ],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg",
+    "media/image-02.jpg",
+    "media/animation-01.mp4"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2107794465457139988",
+    "author_handle": "Aprilzz423",
+    "posted_at": "2026-10-07T11:25:36+00:00",
+    "metrics": {
+      "views": 78671,
+      "likes": 1688,
+      "replies": 40,
+      "retweets": 117,
+      "bookmarks": 2420,
+      "quotes": 11
+    },
+    "articles": [],
+    "reply_records_captured": 38,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2107794380442804224/vid/avc1/720x720/RGV6cBzbb3Qbs8Ct.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2107794380442804224/img/6Ci7noHqs58qYMQe.jpg",
+      "media/image-02.jpg": "https://pbs.twimg.com/media/HUU7B3GbYAANdL1.jpg",
+      "media/animation-01.mp4": "https://video.twimg.com/tweet_video/HUCY7KCXwAAEPHQ.mp4"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "A few people asked how I made the isometric objects and cities, so I packaged it into a Claude skill.\n\nDescribe an object, device or building, and ISO-GLOW creates a single interactive HTML file.\n\nTry it out yourself!\nhttps://isoglow.dev",
+    "fx_raw_text": "A few people asked how I made the isometric objects and cities, so I packaged it into a Claude skill.\n\nDescribe an object, device or building, and ISO-GLOW creates a single interactive HTML file.\n\nTry it out yourself!\nhttps://t.co/ncC0vK8B3h https://t.co/XpKmENFllG",
+    "unverified_timeline_record_ids": [
+      "2068115197718593741",
+      "2092706810285490310"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:55:43.906157+00:00"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "x-2100293114808119379",
+  "url": "https://x.com/george_onx/status/2100293114808119379",
+  "source_type": "x",
+  "captured_at": "2026-09-21T13:29:16Z",
+  "title": "We've been reading the comments. Weights are on Hugging Face.",
+  "authors": [
+    "George Maloney (@george_onx)"
+  ],
+  "topics": [],
+  "related_urls": [
+    "https://x.com/completeskeptic/status/2099925682726002904?s=46&t=QZrJQF-Xao6DyvFx6NWcnQ",
+    "https://x.com/CompleteSkeptic/status/2099925682726002904"
+  ],
+  "media": [
+    "media/media_0.jpg",
+    "media/quoted-media_0.mp4",
+    "media/quoted-thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2100293114808119379",
+    "author_handle": "george_onx",
+    "migrated_v2": true,
+    "author_name": "George Maloney",
+    "created_at": "Wed Sep 16 18:37:54 +0000 2026",
+    "likes": 1586,
+    "replies": 56,
+    "retweets": 94,
+    "bookmarks": 1338,
+    "quotes": 27,
+    "views": 225008,
+    "lang": "en",
+    "source_client": "Buffer",
+    "fetch": "api.fxtwitter.com + logged-in agent-browser session (own tab, URL-verified)",
+    "filtered": true,
+    "category_note": "Model-weights drop note (fastino); no technique or artifact.",
+    "unsaved_at": "2026-09-21T13:42:38Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

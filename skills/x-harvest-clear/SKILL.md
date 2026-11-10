@@ -64,19 +64,19 @@ Scroll until IDs stabilize. Process in batches (~5 visible cards), reload after 
 curl -s "https://api.fxtwitter.com/i/status/<tweet_id>"
 ```
 
-Per folder `raw/items/x-<tweet_id>/`:
+Per folder `raw/items/x-<tweet_id>/` (single-file v2 format, see
+[SCHEMA.md](../../SCHEMA.md)):
 
 | File | Content |
 |------|---------|
+| `content.md` | Verbatim snapshot: full post text, local media embeds, author thread, relevant replies — no summary |
 | `source.json` | `source_type: x`, `extra.tweet_id` |
-| `post.md` | Title, author, body |
-| `comments.md` | Replies stub |
-| `research.md` | Synthesis or harvest note |
-| `media/` | From fxtwitter media URLs |
+| `media/` | ALL photos/videos downloaded locally from fxtwitter media URLs |
 
 **>100MB media:** keep locally, gitignore path, set `extra.media_omitted` in `source.json`.
 
-**Verify before clearing on X:** `source.json` and `post.md` must exist.
+**Verify before clearing on X:** `source.json` and `content.md` must exist,
+post text untruncated, every `media/` file embedded in `content.md`.
 
 ## 4. Clear bookmarks — GraphQL first (critical)
 
@@ -87,6 +87,10 @@ UI `removeBookmark` clicks often **stall or re-sync** — bookmarks reappear aft
 ```
 
 Implementation: `DeleteBookmark` with `queryId=Wlmlj2-xzyS1GN3a6cj-mQ`, `auth_token` + `ct0` + `x-csrf-token`. On success, set `unsaved: true` in `source.json`.
+
+**Stale cookies:** Cursor-partition tokens go stale fast (401 "Could not authenticate you"). Robust path is in-browser execution via the logged-in bridge session (`agent-browser --cdp 9226 eval` a `fetch` with `credentials: include` + full headers `content-type`, `x-csrf-token` (=ct0 from `document.cookie`), `x-twitter-active-user: yes`, `x-twitter-auth-type: OAuth2Session`, `x-twitter-client-language: en`, public `authorization: Bearer ...`), which uses the live session instead of exported tokens.
+
+**Stale list cache:** after deletes, the bookmarks timeline keeps showing removed items (server/cached timeline). Never trust list absence — verify per tweet: open `https://x.com/i/status/<id>` and check `button[data-testid=removeBookmark]` (still saved) vs `button[data-testid=bookmark]` (cleared). List scans also miss slices on long lists (virtualized DOM) — drain in loops: deep-scan → button-state-verify → capture → unsave → rescan until a deep scan plus spot checks confirm empty.
 
 UI fallback only for debugging single items: `button[data-testid=removeBookmark]` on post detail.
 
@@ -138,7 +142,7 @@ graphify update .
 | Wrong browser session | Check `BU_CDP_URL`, not port 9222 |
 | Cookie drift | Re-run `x_extract_cookies.py --inject` |
 | Scroll trap | Unsave visible batch, reload, repeat |
-| Cleared before capture | Never delete until `source.json` + `post.md` exist |
+| Cleared before capture | Never delete until `source.json` + `content.md` exist |
 | queryId 404 | Probe live X bundle; session default `Wlmlj2-xzyS1GN3a6cj-mQ` |
 | Git push fails | Media >100MB — gitignore + `extra.media_omitted` |
 

@@ -5,7 +5,7 @@
   "captured_at": "2026-09-04T06:49:26Z",
   "title": "stop sending bad prompts to your Pi coding agent. you liked pi-clarify, so i published it on npm too: pi install npm:pi-",
   "authors": [
-    "dodo-reach 🦤 (@DODOREACH)"
+    "dodo-reach \ud83e\udda4 (@DODOREACH)"
   ],
   "topics": [
     "agent-skills"
@@ -23,6 +23,7 @@
       "github-leonxlnx-taste-skill",
       "x-2085006701984698712"
     ],
-    "category_note": "pi-clarify: rewrite the user prompt before Pi sees it. Capture truncates the ‘how it works’ diagram."
+    "category_note": "pi-clarify: rewrite the user prompt before Pi sees it. Capture truncates the \u2018how it works\u2019 diagram.",
+    "migrated_v2": true
   }
 }

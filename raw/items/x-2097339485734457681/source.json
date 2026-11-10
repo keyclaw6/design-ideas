@@ -1,0 +1,40 @@
+{
+  "id": "x-2097339485734457681",
+  "url": "https://x.com/ego_agent/status/2097339485734457681",
+  "source_type": "x",
+  "captured_at": "2026-09-21T14:35:05Z",
+  "title": "GPT-6 Astra cleared all 48 levels of I'm Not a Robot with ego (lite); built-in browser stuck at 15",
+  "authors": [
+    "ego (@ego_agent)"
+  ],
+  "topics": [
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/media_0.mp4",
+    "media/thumb_0.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2097339485734457681",
+    "author_handle": "ego_agent",
+    "author_name": "ego",
+    "author_id": "2033460672370216960",
+    "created_at": "2026-09-08T15:01:14Z",
+    "likes": 61,
+    "replies": 22,
+    "retweets": 0,
+    "bookmarks": 19,
+    "quotes": 1,
+    "views": 4510,
+    "lang": "en",
+    "source_client": "Typefully",
+    "is_note_tweet": false,
+    "fetch": "api.fxtwitter.com/i/status; media via pbs.twimg.com/video.twimg.com; replies via logged-in agent-browser bridge (own tab, URL-verified)",
+    "comments_note": "22 replies per API; 0 visible via bridge (conversation endpoint served no child articles).",
+    "migrated_v2": true,
+    "unsaved_at": "2026-09-21T14:40:15Z",
+    "unsaved_via": "in-browser GraphQL DeleteBookmark (bridge session)"
+  }
+}

@@ -14,6 +14,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2094450512938856802",
     "author_handle": "alexgroberman",
     "fetch": "api.fxtwitter.com (retry)",

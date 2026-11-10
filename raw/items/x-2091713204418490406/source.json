@@ -19,6 +19,7 @@
   "extra": {
     "tweet_id": "2091713204418490406",
     "author_handle": "indie_maker_fox",
-    "fetch": "api.fxtwitter.com (retry)"
+    "fetch": "api.fxtwitter.com (retry)",
+    "migrated_v2": true
   }
 }

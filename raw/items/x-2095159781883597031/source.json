@@ -16,6 +16,7 @@
   "media": [],
   "unsaved": true,
   "extra": {
+    "migrated_v2": true,
     "tweet_id": "2095159781883597031",
     "author_handle": "hayashimon1",
     "category_note": "Blender MCP + Fable 5.1: equirectangular panorama \u2192 dense city mesh."

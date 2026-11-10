@@ -1,0 +1,48 @@
+{
+  "id": "x-2109610532365857198",
+  "url": "https://x.com/VectorCrossProd/status/2109610532365857198",
+  "source_type": "x",
+  "captured_at": "2026-10-15T09:02:28+00:00",
+  "title": "People keep asking how I make my PCBs with Claude Opus 5.5. So here's the whole pipeline in 60 seconds, all real captures.",
+  "authors": [
+    "Nigel Hungerford-Symes (@VectorCrossProd)"
+  ],
+  "topics": [
+    "keyboard-pcb",
+    "agent-skills"
+  ],
+  "related_urls": [],
+  "media": [
+    "media/video-01.mp4",
+    "media/image-01.jpg"
+  ],
+  "unsaved": true,
+  "extra": {
+    "tweet_id": "2109610532365857198",
+    "author_handle": "VectorCrossProd",
+    "posted_at": "2026-10-12T11:42:00+00:00",
+    "metrics": {
+      "views": 7503,
+      "likes": 182,
+      "replies": 12,
+      "retweets": 8,
+      "bookmarks": 254,
+      "quotes": 1
+    },
+    "articles": [],
+    "reply_records_captured": 22,
+    "media_source_urls": {
+      "media/video-01.mp4": "https://video.twimg.com/amplify_video/2109595301023768577/vid/avc1/1280x720/ZYmDYfE7W4v3nLs_.mp4?tag=29",
+      "media/image-01.jpg": "https://pbs.twimg.com/amplify_video_thumb/2109595301023768577/img/HeBBWPumuOpYU07X.jpg"
+    },
+    "media_omitted": [],
+    "fx_text_capture": "People keep asking how I make my PCBs with Claude Opus 5.5. So here's the whole pipeline in 60 seconds, all real captures.\n\nBased on the Kookabus-03 board, an 8xAA battery pack for my robots:\n\nWhat part of this do you want me to go deeper on?",
+    "fx_raw_text": "People keep asking how I make my PCBs with Claude Opus 5.5. So here's the whole pipeline in 60 seconds, all real captures.\n\nBased on the Kookabus-03 board, an 8xAA battery pack for my robots:\n\nWhat part of this do you want me to go deeper on? https://t.co/dw8pGlcr2L",
+    "unverified_timeline_record_ids": [
+      "2109668229790499207"
+    ],
+    "reply_records_note": "Returned timeline count includes records with unverified reply relationships; see separate section in content.md.",
+    "unsave_verified_at": "2026-10-15T10:58:12.563459+00:00",
+    "unsaved_at": "2026-10-15T10:57:04.191371+00:00"
+  }
+}
